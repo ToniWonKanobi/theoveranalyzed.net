@@ -16,16 +16,12 @@ var markdownit = require('markdown-it')({
 }).use(require('markdown-it-footnote'));
 var rss = require('rss');
 var Handlebars = require('handlebars');
-var version = require('./package.json').version;
-
 var app = express();
 app.use(compress());
 app.use(express.static("public"));
-app.use(function (request, response, next) {
-	response.header('X-powered-by', 'Camel (https://github.com/cliss/camel)');
-    next();
-})
 var server = http.createServer(app);
+
+
 
 // "Statics"
 var postsRoot = './posts/';
@@ -33,9 +29,8 @@ var templateRoot = './templates/';
 var metadataMarker = '@@';
 var maxCacheSize = 50;
 var postsPerPage = 10;
+//var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-)*(.md)?/;
 var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-)*(.redirect|.md)?$/;
-var footnoteAnchorRegex = /[#"]fn\d+/g;
-var footnoteIdRegex = /fnref\d+/g;
 var utcOffset = 5;
 var cacheResetTimeInMillis = 1800000;
 
@@ -45,11 +40,13 @@ var allPostsSortedGrouped = {};
 var headerSource = undefined;
 var footerSource = null;
 var postHeaderTemplate = null;
+var postFooterTemplate = null;
 var siteMetadata = {};
 
 /***************************************************
  * HELPER METHODS                                  *
  ***************************************************/
+
 
 function init() {
     loadHeaderFooter('defaultTags.html', function (data) {
@@ -64,17 +61,34 @@ function init() {
     loadHeaderFooter('footer.html', function (data) { footerSource = data; });
     loadHeaderFooter('postHeader.html', function (data) {
         Handlebars.registerHelper('formatPostDate', function (date) {
-            return new Handlebars.SafeString(new Date(date).format('{Weekday} {d} {Month} {yyyy}, {h}:{mm} {TT}'));
+            return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
         });
         Handlebars.registerHelper('formatIsoDate', function (date) {
             return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
         });
         postHeaderTemplate = Handlebars.compile(data);
     });
+    loadHeaderFooter('postFooter.html', function (data) {
+        Handlebars.registerHelper('formatPostDate', function (date) {
+            return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
+        });
+        Handlebars.registerHelper('formatIsoDate', function (date) {
+            return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
+        });
+        postFooterTemplate = Handlebars.compile(data);
+    });
 
     // Kill the cache every 30 minutes.
     setInterval(emptyCache, cacheResetTimeInMillis);
-
+/*
+    marked.setOptions({
+        renderer: new marked.Renderer(),
+        gfm: true,
+        tables: true,
+        smartLists: true,
+        smartypants: true
+    });
+*/
 }
 
 function loadHeaderFooter(file, completion) {
@@ -87,6 +101,13 @@ function loadHeaderFooter(file, completion) {
             });
         }
     });
+}
+
+function leadingZero(value){
+	if(value < 10){
+		return "0" + value.toString();
+	}
+	return value.toString();    
 }
 
 function normalizedFileName(file) {
@@ -151,13 +172,13 @@ function performMetadataReplacements(replacements, haystack) {
 }
 
 // Parses the HTML and renders it.
-function parseHtml(lines, replacements, postHeader) {
+function parseHtml(lines, replacements, postHeader, postFooter) {
     // Convert from markdown
-    var body = performMetadataReplacements(replacements, markdownit.render(lines));
+    var body = performMetadataReplacements(replacements, markdownit.render(lines) );
     // Perform replacements
     var header = performMetadataReplacements(replacements, headerSource);
     // Concatenate HTML
-    return header + postHeader + body + footerSource;
+    return header + '<article>' + postHeader + '<div class="entry">' + body + '</div>' + postFooter + '</article>' + footerSource;
 }
 
 // Gets all the lines in a post and separates the metadata from the body
@@ -169,7 +190,6 @@ function getLinesFromPost(file) {
     var lines = data.lines();
     var metadataLines = _.filter(lines, function (line) { return line.startsWith(metadataMarker); });
     var body = _.difference(lines, metadataLines).join('\n');
-
     return {metadata: metadataLines, body: body};
 }
 
@@ -179,13 +199,51 @@ function generateHtmlAndMetadataForFile(file) {
     if (retVal == undefined) {
         var lines = getLinesFromPost(file);
         var metadata = parseMetadata(lines['metadata']);
-        metadata['relativeLink'] = externalFilenameForFile(file);
-        metadata['header'] = postHeaderTemplate(metadata);
+        if (metadata['Linked'] == 'Yes'){
+            metadata['relativeLink'] =  metadata['Link'];
+            metadata['permalink'] = externalFilenameForFile(file);
+            metadata['linked'] = 'linked';
+            metadata['LinkArrow'] = 'fa fa-arrow-right';
+
+        } else {
+            metadata['relativeLink'] = externalFilenameForFile(file);
+            metadata['permalink'] = metadata['relativeLink'];
+            metadata['linked'] = 'notLinked';
+            metadata['LinkArrow'] = '';
+        }
+		if( metadata['HideHeader'] != 'true' ){
+			metadata['header'] = postHeaderTemplate(metadata);
+			metadata['footer'] = postFooterTemplate(metadata);
+		}else{
+			metadata['header'] = '';
+			metadata['footer'] = '';
+		}
+
+		if( metadata['permalink'] == '/index' ){
+			metadata['canonicalLink'] = 'http://blog.datamcfly.com/';
+		}else{
+			metadata['canonicalLink'] = 'http://blog.datamcfly.com' + metadata['permalink'];
+		}
+		
         // If this is a post, assume a body class of 'post'.
         if (postRegex.test(file)) {
             metadata['BodyClass'] = 'post';
         }
-        var html =  parseHtml(lines['body'], metadata, postHeaderTemplate(metadata));
+        if( metadata['BodyClass'] == 'BodyClass' ){
+            metadata['BodyClass'] = 'post';
+        }
+
+		if( metadata['HideHeader'] != 'true' ){
+			var mheader = postHeaderTemplate(metadata);
+			var mfooter = postFooterTemplate(metadata);
+//			lines['body'] = lines['body'] + '<div class="fin">~&bull;~</div>';
+		}else{
+			var mheader = '';
+			var mfooter = '';
+		}
+		var body = lines['body'];
+		
+        var html =  parseHtml(body, metadata, mheader, mfooter);
         addRenderedPostToCache(file, {
             metadata: metadata,
             body: html,
@@ -268,12 +326,16 @@ function allPostsSortedAndGrouped(completion) {
                 var articleFiles = groupedFiles[key];
                 var articles = [];
                 // ...get all the data for that file ...
-                _.each(articleFiles, function (file) {
+				_.each(articleFiles, function (file) {
                 	if (!file.endsWith('redirect')) {
                     	articles.push(generateHtmlAndMetadataForFile(file));
                     }
                 });
-
+/*
+                _.each(articleFiles, function (file) {
+                    articles.push(generateHtmlAndMetadataForFile(file));
+                });
+*/
                 // ...so we can sort the posts...
                 articles = _.sortBy(articles, function (article) {
                     // ...by their post date and TIME.
@@ -334,7 +396,7 @@ function emptyCache() {
  ***************************************************/
 
 function loadAndSendMarkdownFile(file, response) {
-	if (file.endsWith('.md')) {
+    if (file.endsWith('.md')) {
         // Send the source file as requested.
         console.log('Sending source file: ' + file);
         fs.exists(file, function (exists) {
@@ -345,7 +407,7 @@ function loadAndSendMarkdownFile(file, response) {
                         return;
                     }
                     response.type('text/x-markdown; charset=UTF-8');
-                    response.status(200).send(data);
+                    response.send(data);
                     return;
                 });
             } else {
@@ -358,15 +420,16 @@ function loadAndSendMarkdownFile(file, response) {
         response.status(200).send(fetchFromCache(file)['body']);
         return;
     } else {
-    	var found = false;
-        // Is this a post?
-        if (fs.existsSync(file + '.md')) {
+        // Fetch the real deal.
+		var found = false;
+		// Is this a post?
+		if (fs.existsSync(file + '.md')) {
 			found = true;
 			console.log('Sending file: ' + file)
 			var html = generateHtmlForFile(file);
 			response.status(200).send(html);
-		// Or is this a redirect?
-        } else if (fs.existsSync(file + '.redirect')) {
+			// Or is this a redirect?
+		} else if (fs.existsSync(file + '.redirect')) {
 			var data = fs.readFileSync(file + '.redirect', {encoding: 'UTF8'});
 			if (data.length > 0) {
 				var parts = data.split('\n');
@@ -376,19 +439,39 @@ function loadAndSendMarkdownFile(file, response) {
 					response.redirect(parseInt(parts[0]), parts[1]);
 				}
 			}
-        }
+		}
+		
+		if (!found) {
+			send404(response, file);
+			return;
+/*
+			console.log('404: ' + file);
+			file = './posts/404.md';
+			var html = generateHtmlForFile(file);
+			response.status(404).send(html);
+*/
+		}
+/*
+        fs.exists(file + '.md', function (exists) {
+            if (!exists) {
+				console.log('404: ' + file);
+				file = './posts/404.md';
+//				response.send(404, {error: 'A post with that address is not found. '+file + '.md'});
+//				return;
+            }
 
-        if (!found) {
-	        send404(response, file);
-        	return;
-        }
+            console.log('Sending file: ' + file)
+            var html = generateHtmlForFile(file);
+            response.status(200).send(html);
+        });
+*/
     }
 }
 
 // Sends a listing of an entire year's posts.
 function sendYearListing(request, response) {
     var year = request.params.slug;
-    var retVal = '<h1>Posts for the year ' + year + '</h1>';
+    var retVal = '<h1>Posts for ' + year + '</h1>';
     var currentMonth = null;
 
     allPostsSortedAndGrouped(function (postsByDay) {
@@ -408,7 +491,7 @@ function sendYearListing(request, response) {
                     }
 
                     currentMonth = thisDay.getMonth();
-                    retVal += '<h2><a href="/' + year + '/' + (currentMonth + 1) + '/">' + thisDay.format('{Month}') + '</a></h2>\n<ul>';
+                    retVal += '<h2><a href="/' + year + '/' + leadingZero((currentMonth + 1)) + '/">' + thisDay.format('{Month}') + '</a></h2>\n<ul>';
                 }
 
                 day['articles'].each(function (article) {
@@ -418,16 +501,21 @@ function sendYearListing(request, response) {
         });
 
         var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, 'Posts for ' + year);
-        response.status(200).send(header + retVal + footerSource);
+        response.send(header + retVal + footerSource);
     });
 
+}
+
+function send404(response, file) {
+	console.log('404: ' + file);
+    response.status(404).send( generateHtmlForFile('posts/404.md') );
 }
 
 // Handles a route by trying the cache first.
 // file: file to try.
 // sender: function to send result to the client. Only parameter is an object that has the key 'body', which is raw HTML
 // generator: function to generate the raw HTML. Only parameter is a function that takes a completion handler that takes the raw HTML as its parameter.
-// baseRouteHandler() --> generator() to build HTML --> completion() to add to cache and send
+// bestRouteHandler() --> generator() to build HTML --> completion() to add to cache and send
 function baseRouteHandler(file, sender, generator) {
     if (fetchFromCache(file) == null) {
         console.log('Not in cache: ' + file);
@@ -439,11 +527,6 @@ function baseRouteHandler(file, sender, generator) {
         console.log('In cache: ' + file);
         sender(fetchFromCache(file));
     }
-}
-
-function send404(response, file) {
-	console.log('404: ' + file);
-    response.status(404).send(generateHtmlForFile('posts/404.md'));
 }
 
 /***************************************************
@@ -463,28 +546,15 @@ app.get('/', function (request, response) {
 
     // Do the standard route handler. Cough up a cached page if possible.
     baseRouteHandler('/?p=' + page, function (cachedData) {
-        response.status(200).send(cachedData['body']);
+        response.send(cachedData['body']);
     }, function (completion) {
         var indexInfo = generateHtmlAndMetadataForFile(postsRoot + 'index.md');
-        var footnoteIndex = 0;
-
         Handlebars.registerHelper('formatDate', function (date) {
             return new Handlebars.SafeString(new Date(date).format('{Weekday}<br />{d}<br />{Month}<br />{yyyy}'));
         });
         Handlebars.registerHelper('dateLink', function (date) {
             var parsedDate = new Date(date);
             return '/' + parsedDate.format("{yyyy}") + '/' + parsedDate.format("{M}") + '/' + parsedDate.format('{d}') + '/';
-        });
-        Handlebars.registerHelper('offsetFootnotes', function (html) {
-        	// Each day will call this helper once. We will offset the footnotes
-        	// to account for multiple days being on one page. This will avoid
-        	// conflicts with footnote numbers. If two days both have footnote,
-        	// they would both be "fn1". Which doesn't work; they need to be unique.
-        	var retVal = html.replace(footnoteAnchorRegex, '$&' + footnoteIndex);
-        	retVal = retVal.replace(footnoteIdRegex, '$&' + footnoteIndex);
-        	++footnoteIndex;
-
-        	return retVal;
         });
         Handlebars.registerPartial('article', indexInfo['metadata']['ArticlePartial']);
         var dayTemplate = Handlebars.compile(indexInfo['metadata']['DayTemplate']);
@@ -524,18 +594,69 @@ app.get('/', function (request, response) {
     });
 });
 
+/***************************************************
+ * RSS / PLEASE EDIT WITH YOUR SITE'S DETAILS      *
+ ***************************************************/
+
+app.get('/sitemap.xml', function (request, response) {
+    response.header('Content-Type', 'text/xml');
+    
+	// this is the source of the URLs on your site, in this case we use a simple array, actually it could come from the database
+	var urls = ['/','/about', '/contact'];
+	var root_path = 'http://blog.datamcfly.com';
+	// XML sitemap generation starts here
+	var priority = 0.5;
+	var freq = 'monthly';
+    var max = 100;
+    var i = 0;
+	var sitemap = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
+	for (var i in urls) {
+		sitemap += '<url>';
+		sitemap += '<loc>'+ root_path + urls[i] + '</loc>';
+		sitemap += '<changefreq>'+ freq +'</changefreq>';
+		sitemap += '<priority>'+ priority +'</priority>';
+		sitemap += '</url>';
+		i++;
+	}
+    allPostsSortedAndGrouped(function (postsByDay) {
+        postsByDay.forEach(function (day) {
+            day['articles'].forEach(function (article) {
+                if (i < max) {
+                    ++i;
+					sitemap += '<url>';
+					sitemap += '<loc>'+ externalFilenameForFile(article['file'], request) + '</loc>';
+					sitemap += '<changefreq>'+ freq +'</changefreq>';
+					sitemap += '<priority>'+ priority +'</priority>';
+					sitemap += '</url>';
+/*
+                    feed.item({
+                        title: article['metadata']['Title'],
+                        // Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
+                        date: new Date(article['metadata']['Date']).addHours(utcOffset),
+                        url: externalFilenameForFile(article['file'], request),
+                        description: article['unwrappedBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
+                    });
+ */
+                }
+            });
+        });
+    });
+	sitemap += '</urlset>';
+    response.send( sitemap );
+});
+
 app.get('/rss', function (request, response) {
     response.type('application/rss+xml');
     if (renderedRss['date'] == undefined || new Date().getTime() - renderedRss['date'].getTime() > 3600000) {
         var feed = new rss({
             title: siteMetadata['SiteTitle'],
             description: 'Posts to ' + siteMetadata['SiteTitle'],
-            feed_url: 'http://www.yoursite.com/rss',
-            site_url: 'http://www.yoursite.com',
-            author: 'Your Name',
-            webMaster: 'Your Name',
-            copyright: '2013-' + new Date().getFullYear() + ' Your Name',
-            image_url: 'http://www.yoursite.com/images/favicon.png',
+            feed_url: 'http://blog.datamcfly.com/rss',
+            site_url: 'http://blog.datamcfly.com',
+            author: 'Roger Stringer',
+            webMaster: 'Roger Stringer',
+            copyright: '2014 -' + new Date().getFullYear() + ' Roger Stringer',
+            image_url: 'http://blog.datamcfly.com/images/favicon.png',
             language: 'en',
             //categories: ['Category 1','Category 2','Category 3'],
             pubDate: new Date().toString(),
@@ -565,12 +686,13 @@ app.get('/rss', function (request, response) {
                 rss: feed.xml()
             };
 
-            response.status(200).send(renderedRss['rss']);
+            response.send(renderedRss['rss']);
         });
     } else {
-        response.status(200).send(renderedRss['rss']);
+        response.send(renderedRss['rss']);
     }
 });
+
 
 // Month view
 app.get('/:year/:month', function (request, response) {
@@ -607,7 +729,7 @@ app.get('/:year/:month', function (request, response) {
          });
 
          var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, "Day Listing");
-         response.status(200).send(header + html + footerSource);
+         response.send(header + html + footerSource);
     });
  });
 
@@ -618,7 +740,7 @@ app.get('/:year/:month/:day', function (request, response) {
     // Get all the files in the directory
     fs.readdir(path, function (error, files) {
         if (error) {
-            response.status(400).send({error: "This path doesn't exist."});
+            response.send(400, {error: "This path doesn't exist."});
             return;
         }
 
@@ -628,9 +750,7 @@ app.get('/:year/:month/:day', function (request, response) {
         // Get all the data for each file
         var postsToday = [];
         files.each(function (file) {
-        	if (postRegex.test(path + '/' + file) && file.endsWith('.md')) {
-	            postsToday.push(generateHtmlAndMetadataForFile(path + '/' + file));
-	        }
+            postsToday.push(generateHtmlAndMetadataForFile(path + '/' + file));
         });
 
         // Go ahead and sort...
@@ -645,23 +765,22 @@ app.get('/:year/:month/:day', function (request, response) {
         });
 
         var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, day.format('{Weekday}, {Month} {d}'));
-        response.status(200).send(header + html + footerSource);
+        response.send(header + html + footerSource);
     })
  });
 
 
 // Get a blog post, such as /2014/3/17/birthday
 app.get('/:year/:month/:day/:slug', function (request, response) {
-    var file = postsRoot + request.params.year + '/' + request.params.month + '/' + request.params.day + '/' + request.params.slug;
-
-    loadAndSendMarkdownFile(file, response);
+	var file = postsRoot + request.params.year + '/' + request.params.month + '/' + request.params.day + '/' + request.params.slug;
+	loadAndSendMarkdownFile(file, response);
 });
 
 // Empties the cache.
-// app.get('/tosscache', function (request, response) {
+//app.get('/tosscache', function (request, response) {
 //     emptyCache();
 //     response.send(205);
-// });
+//});
 
 app.get('/count', function (request, response) {
 	console.log("/count");
@@ -672,24 +791,33 @@ app.get('/count', function (request, response) {
 			days++;
 			count += all[day].articles.length;
 		}
-
 		response.send(count + ' articles, across ' + days + ' days that have at least one post.');
 	});
 });
 
 // Support for non-blog posts, such as /about, as well as years, such as /2014.
 app.get('/:slug', function (request, response) {
-    // If this is a typical slug, send the file
-    if (isNaN(request.params.slug)) {
+// If this is a typical slug, send the file
+	if (isNaN(request.params.slug)) {
 		var file = postsRoot + request.params.slug;
 		loadAndSendMarkdownFile(file, response);
-    // If it's a year, handle that.
-    } else if (request.params.slug >= 2000) {
-        sendYearListing(request, response);
-    // If it's garbage (ie, a year less than 2013), send a 404.
-    } else {
-    	send404(response, request.params.slug);
-    }
+		// If it's a year, handle that.
+	} else if (request.params.slug >= 2000) {
+		sendYearListing(request, response);
+		// If it's garbage (ie, a year less than 2013), send a 404.
+	} else {
+		send404(response, request.params.slug);
+	}
+/*
+	// If this is a typical slug, send the file
+	if (isNaN(request.params.slug)) {
+		var file = postsRoot + request.params.slug;
+		loadAndSendMarkdownFile(file, response);
+		// If it's a year, handle that.
+	} else {
+		sendYearListing(request, response);
+	}
+*/
 });
 
 /***************************************************
@@ -698,5 +826,5 @@ app.get('/:slug', function (request, response) {
 init();
 var port = Number(process.env.PORT || 5000);
 server.listen(port, function () {
-   console.log('Camel v' + version + ' server started on port %s', server.address().port);
+	console.log('Express server started on port %s', server.address().port);
 });
