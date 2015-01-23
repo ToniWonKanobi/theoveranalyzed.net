@@ -2,6 +2,14 @@
 
 [n]: http://nodejs.org/
 
+---
+
+This is a slightly modified version that is used on the [Data McFly Blog](http://blog.datamcfly.com). Some of the changes we've made include:
+
+* Added a `/sitemap.xml` route
+* Added Linked List support
+* Separated some templates from index.md into their own individual files, just to make it easier to manage the blog's layout.
+
 # Design Goals
 
 More specifically, the design goals were:
@@ -14,6 +22,7 @@ More specifically, the design goals were:
 
 [m]: http://daringfireball.net/projects/markdown
 
+
 # Approach
 
 Camel is neither a static blogging platform nor a truly dynamic one. It is a little
@@ -21,14 +30,6 @@ from column A, and a little from column B. The first time a post is loaded, it i
 by converting from Markdown to HTML, and then postpocessed by adding headers & footer, as well
 as making metadata replacements. Upon a completed render, the resultant HTML is stored
 and used from that point forward.
-
----
-
-This is a slightly modified version that is used on the [Data McFly Blog](http://blog.datamcfly.com). Some of the changes we've made include:
-
-* Added a `/sitemap.xml` route
-* Added Linked List support
-* Separated some templates from index.md into their own individual files, just to make it easier to manage the blog's layout.
 
 # Usage
 
