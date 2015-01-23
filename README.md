@@ -50,10 +50,6 @@ This is a slightly modified version that is used on the [Data McFly Blog](http:/
     * `FooterTemplate.html` - used to render pagination
 
 * It's worth noting there are some [Handlebars][hb] templates in use:
-    * `index.md`
-        * `@@ DayTemplate` - used to render a day
-        * `@@ ArticlePartial` – used to render a single article in a day
-        * `@@ FooterTemplate` - used to render pagination
     * `postHeader.html` - Placed on every post between the site header and post content
 
 [hb]: http://handlebarsjs.com/
