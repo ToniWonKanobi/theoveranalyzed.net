@@ -78,9 +78,9 @@ To use Camel, the following files are required:
       |     |   Post header (top of every post, after the site header. Handlebars template.)
       |     +-- postFooter.html
       |     |   Post footer (bottom of every post, after the site content. Handlebars template.)
-      |     +-- DayTeplate.html
+      |     +-- DayTemplate.html
       |     |   The day loop, Used to render a day
-      |     +-- ArtialPartial.html
+      |     +-- ArticlePartial.html
       |     |   Single article listing, used to render a single article in a day
       |     +-- FooterTemplate.html
       |         Page footer, used to render pagination
