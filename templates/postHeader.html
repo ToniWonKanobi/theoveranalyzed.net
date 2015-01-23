@@ -1,1 +1,7 @@
-<a class="postTitle" href="{{relativeLink}}">{{Title}}</a>
+<header>
+	<h1><a class="post-title {{linked}}" href="{{relativeLink}}">{{Title}}</a>{{{LinkArrow}}}</h1>
+	<div class="date">
+		<time class="time" dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time>
+		<a class="permalink" title="Permalink" href="{{permalink}}">∞</a>
+	</div>
+</header>

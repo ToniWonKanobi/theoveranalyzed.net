@@ -22,7 +22,6 @@ app.use(express.static("public"));
 var server = http.createServer(app);
 
 
-
 // "Statics"
 var postsRoot = './posts/';
 var templateRoot = './templates/';
@@ -31,6 +30,8 @@ var maxCacheSize = 50;
 var postsPerPage = 10;
 //var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-)*(.md)?/;
 var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-)*(.redirect|.md)?$/;
+var footnoteAnchorRegex = /[#"]fn\d+/g;
+var footnoteIdRegex = /fnref\d+/g;
 var utcOffset = 5;
 var cacheResetTimeInMillis = 1800000;
 
@@ -203,7 +204,7 @@ function generateHtmlAndMetadataForFile(file) {
             metadata['relativeLink'] =  metadata['Link'];
             metadata['permalink'] = externalFilenameForFile(file);
             metadata['linked'] = 'linked';
-            metadata['LinkArrow'] = 'fa fa-arrow-right';
+            metadata['LinkArrow'] = ' <span class="linkarrow">→</span>';
 
         } else {
             metadata['relativeLink'] = externalFilenameForFile(file);
@@ -221,8 +222,10 @@ function generateHtmlAndMetadataForFile(file) {
 
 		if( metadata['permalink'] == '/index' ){
 			metadata['canonicalLink'] = 'http://blog.datamcfly.com/';
+			metadata['ogtype'] = 'website';
 		}else{
 			metadata['canonicalLink'] = 'http://blog.datamcfly.com' + metadata['permalink'];
+			metadata['ogtype'] = 'article';
 		}
 		
         // If this is a post, assume a body class of 'post'.
@@ -549,13 +552,29 @@ app.get('/', function (request, response) {
         response.send(cachedData['body']);
     }, function (completion) {
         var indexInfo = generateHtmlAndMetadataForFile(postsRoot + 'index.md');
+		var footnoteIndex = 0;
+		
         Handlebars.registerHelper('formatDate', function (date) {
             return new Handlebars.SafeString(new Date(date).format('{Weekday}<br />{d}<br />{Month}<br />{yyyy}'));
         });
+        
         Handlebars.registerHelper('dateLink', function (date) {
             var parsedDate = new Date(date);
             return '/' + parsedDate.format("{yyyy}") + '/' + parsedDate.format("{M}") + '/' + parsedDate.format('{d}') + '/';
         });
+
+        Handlebars.registerHelper('offsetFootnotes', function (html) {
+        	// Each day will call this helper once. We will offset the footnotes
+        	// to account for multiple days being on one page. This will avoid
+        	// conflicts with footnote numbers. If two days both have footnote,
+        	// they would both be "fn1". Which doesn't work; they need to be unique.
+        	var retVal = html.replace(footnoteAnchorRegex, '$&' + footnoteIndex);
+        	retVal = retVal.replace(footnoteIdRegex, '$&' + footnoteIndex);
+        	++footnoteIndex;
+
+        	return retVal;
+        });
+
         Handlebars.registerPartial('article', indexInfo['metadata']['ArticlePartial']);
         var dayTemplate = Handlebars.compile(indexInfo['metadata']['DayTemplate']);
         var footerTemplate = Handlebars.compile(indexInfo['metadata']['FooterTemplate']);
