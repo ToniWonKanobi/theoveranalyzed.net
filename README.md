@@ -107,6 +107,8 @@ To use Camel, the following files are required:
             |         +-- 01/
             |             +-- newest-blog-post.md
             +-- etc.
+            
+## Metadata
 
 For each post, metadata is specified at the top, and can be leveraged in the body. For example:
 
@@ -115,6 +117,10 @@ For each post, metadata is specified at the top, and can be leveraged in the bod
 	
 
     This is a *test post* entitled "@@Title@@".
+    
+The title and date are required. Any other metadata is optional.
+
+### Linked Lists
 
 If you want to make a post a linked post, then you would use the following metadata:
 
@@ -128,11 +134,21 @@ If you want to make a post a linked post, then you would use the following metad
 
 This would tell Camel to treat the post as a linked post.
 
-The title and date are required. Any other metadata is optional.
+### Hide the post header and post footer
+
+If you want a post to not display the `postHeader` and `postFooter` templates, you can add the following metadata:
+
+	@@ Title=About Page
+	@@ BodyClass=post
+	@@ HideHeader=true
+	
+	This is a sample about page, that can be accessed via `/about`.
+
 
 # Quirks
 
 There are a couple of quirks, which don't bother me, but may bother you.
+
 
 ## Adding a Post
 
