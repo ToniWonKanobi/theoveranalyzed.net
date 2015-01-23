@@ -113,6 +113,7 @@ function loadTemplate(file, completion) {
                 }
             });
         }
+        
     });
 }
 
@@ -586,7 +587,7 @@ app.get('/', function (request, response) {
 
         	return retVal;
         });
-
+/*
         loadTemplate('ArticlePartial.html', function (data) {
 			Handlebars.registerPartial('article', data );
 
@@ -598,6 +599,15 @@ app.get('/', function (request, response) {
 				footerTemplate = Handlebars.compile(data);
 	        });
         });
+*/
+		var data = fs.readFileSync(templateRoot + 'ArticlePartial.html', {encoding: 'UTF8'});
+		Handlebars.registerPartial('article', data );
+
+		var text = fs.readFileSync(templateRoot + 'DayTemplate.html', {encoding: 'UTF8'});
+		var dayTemplate = Handlebars.compile(text);
+
+		var ftext = fs.readFileSync(templateRoot + 'FooterTemplate.html', {encoding: 'UTF8'});
+		var footerTemplate = Handlebars.compile(ftext);
 
 //		Handlebars.registerPartial('article', indexInfo['metadata']['ArticlePartial']);
 //		var dayTemplate = Handlebars.compile(indexInfo['metadata']['DayTemplate']);
