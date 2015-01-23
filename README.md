@@ -18,9 +18,11 @@ More specifically, the design goals were:
 
 Camel is neither a static blogging platform nor a truly dynamic one. It is a little
 from column A, and a little from column B. The first time a post is loaded, it is rendered
-by converting from Markdown to HTML, and then postprocessed by adding headers & footer, as well
+by converting from Markdown to HTML, and then postpocessed by adding headers & footer, as well
 as making metadata replacements. Upon a completed render, the resultant HTML is stored
 and used from that point forward.
+
+This is a slightly modified version that is used on the [Data McFly Blog](http://blog.datamcfly.com).
 
 # Usage
 
@@ -42,10 +44,15 @@ and used from that point forward.
     * `footer.html` - site footer; shown at the bottom of every page
     * `defaultTags.html` - default metadata; merged with page metadata (page wins)
     * `postHeader.html` - post header; shown at the top of every post not marked with `@@ HideHeader=true`. See below.
+    * `postFooter.html` - post footer; shown at the bottom of every post not marked with `@@ HideHeader=true`. See below.
+	* `DayTemplate.html` - used to render a day
+    * `ArticlePartial.html` – used to render a single article in a day
+    * `FooterTemplate.html` - used to render pagination
+
 * It's worth noting there are some [Handlebars][hb] templates in use:
     * `index.md`
         * `@@ DayTemplate` - used to render a day
-        * `@@ ArticlePartial` – used to render a single article in a day
+        * `@@ ArticlePartial` – used to render a single article in a day
         * `@@ FooterTemplate` - used to render pagination
     * `postHeader.html` - Placed on every post between the site header and post content
 
@@ -67,11 +74,19 @@ To use Camel, the following files are required:
       |     |   Site header (top of every page)
       |     +-- footer.html
       |     |   Site footer (bottom of every page)
-      |     `-- postHeader.html
-      |         Post header (top of every post, after the site header. Handlebars template.)
+      |     +-- postHeader.html
+      |     |   Post header (top of every post, after the site header. Handlebars template.)
+      |     +-- postFooter.html
+      |     |   Post footer (bottom of every post, after the site content. Handlebars template.)
+      |     +-- DayTeplate.html
+      |     |   The day loop, Used to render a day
+      |     +-- ArtialPartial.html
+      |     |   Single article listing, used to render a single article in a day
+      |     +-- FooterTemplate.html
+      |         Page footer, used to render pagination
       +-- public/
-      |     `-- Any static files, such as images/css/javascript/etc.
-      `-- posts/
+      |     +-- Any static files, such as images/css/javascript/etc.
+      +-- posts/
           All the pages & posts are here. Pages in the root, posts ordered by day. For example:
             +-- index.md
             |   Root file; note that DayTemplate, ArticlePartial, and FooterTemplate are
@@ -80,45 +95,40 @@ To use Camel, the following files are required:
             |   Sample about page
             +-- 2014/
             |   Year
-            |     +-- 4/
+            |     +-- 04/
             |     |   Month
             |     |   +-- 29/
             |     |   |   Day
-            |     |   |    `-- some-blog-post.md
-            |     |   `-- 30/
+            |     |   |    +-- some-blog-post.md
+            |     |   +-- 30/
             |     |        +-- some-other-post.md
-            |     |        `-- yet-another-post.md
-            |     `-- 5/
-            |         `-- 1/
-            |             `-- newest-blog-post.md
-            `-- etc.
+            |     |        +-- yet-another-post.md
+            |     +-- 5/
+            |         +-- 01/
+            |             +-- newest-blog-post.md
+            +-- etc.
 
 For each post, metadata is specified at the top, and can be leveraged in the body. For example:
 
     @@ Title=Test Post
     @@ Date=2014-05 17:50
+	
 
     This is a *test post* entitled "@@Title@@".
 
+If you want to make a post a linked post, then you would use the following metadata:
+
+    @@ Title=Test Post
+    @@ Date=2014-05 17:50
+	@@ Linked=Yes
+	@@ Link=http://datamcfly.com
+	
+
+    This is a *test post* entitled "@@Title@@".
+
+This would tell Camel to treat the post as a linked post.
+
 The title and date are required. Any other metadata is optional.
-
-### Redirects
-
-As of version 1.1, redirects are supported. To do so, a specially formed file is placed
-in the `posts/` tree. The file should have two lines; the first should be the status code
-of the redirect ([301][301] or [302][302]). The second line should be the target URL.
-
-Suppose you wanted to redirect `/2014/12/10/source` to `/2014/12/10/destination`. You will
-add the file `/posts/2014/12/10/source.redirect`; it will contain the following:
-
-    302
-    /2014/12/10/destination
-
-Redirects to both internal and external URLs are supported. Providing an invalid status
-code will result in that status code being used blindly, so tread carefully.
-
-[301]: http://en.wikipedia.org/wiki/HTTP_301
-[302]: http://en.wikipedia.org/wiki/HTTP_302
 
 # Quirks
 
@@ -136,11 +146,7 @@ Additionally, there is no mechanism within Camel for transporting a post to the 
 directory. It is assumed that delivery will happen by way of a `git push` or equivalent.
 That is, for example, how it would work when run on [Heroku][h].
 
-*Note that as of 19 November 2014, Heroku now supports integration with Dropbox, which
-[makes it much easier to post to Camel while mobile][camelmobile].*
-
 [h]: http://www.heroku.com/
-[camelmobile]: http://www.caseyliss.com/2014/11/19/heroku-adds-dropbox-support
 
 ## Pagination
 
@@ -173,12 +179,3 @@ Camel is MIT-Licensed.
 Should you happen to use Camel, I'd love to know. Please [contact me][co].
 
 [co]: http://www.caseyliss.com/contact
-
-# Change Log
-
-* __1.2.0__ Changes from [marked](https://github.com/chjj/marked) to
-  [markdown-it](https://github.com/markdown-it/markdown-it), adds support for footnotes.
-* __1.1.0__ Fix post regex issue, adds support for redirects, adds `/count` route,
-  prevents year responses for unreasonable years
-* __1.0.1__ Adds x-powered-by header, upgrades to packages
-* __1.0.0__ Initial release
