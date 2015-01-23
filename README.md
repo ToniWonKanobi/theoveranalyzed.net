@@ -22,6 +22,8 @@ by converting from Markdown to HTML, and then postpocessed by adding headers & f
 as making metadata replacements. Upon a completed render, the resultant HTML is stored
 and used from that point forward.
 
+---
+
 This is a slightly modified version that is used on the [Data McFly Blog](http://blog.datamcfly.com). Some of the changes we've made include:
 
 * Added a `/sitemap.xml` route
