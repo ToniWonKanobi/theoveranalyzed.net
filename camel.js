@@ -788,14 +788,14 @@ app.get('/tags', function (request, response) {
 					url: externalFilenameForFile( article['file'])
 				});
 			});
-			var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
-			_.each(orderedKeys, function (key) {
-				retVal += '<h2><a href="/tags/' + key.toLowerCase() + '">' + key.capitalize() + '</a></h1><ul>';
-				_.each(postsByTag[key], function (post) {
-					retVal += '<li><a href="' + post['url'] + '">' + post['title']  + '</a></li>';
-				});
-				retVal += '</ul>';
+		});
+		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
+		_.each(orderedKeys, function (key) {
+			retVal += '<h2><a href="/tags/' + key.toLowerCase() + '">' + key.capitalize() + '</a></h1><ul>';
+			_.each(postsByTag[key], function (post) {
+				retVal += '<li><a href="' + post['url'] + '">' + post['title']  + '</a></li>';
 			});
+			retVal += '</ul>';
 		});
 		var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, 'Posts by Tag');
 		response.send(header + retVal + footerSource);
@@ -827,14 +827,14 @@ app.get('/tags/:tag', function (request, response) {
 					});
 				}
 			});
-			var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
-			_.each(orderedKeys, function (key) {
+		});
+		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
+		_.each(orderedKeys, function (key) {
 //				retVal += '<h2><a href="/tags/' + key + '">' + key + '</a></h1><ul>';
-				_.each(postsByTag[key], function (post) {
-					retVal += '<li><a href="' + post['url'] + '">' + post['title']  + '</a></li>';
-				});
-				retVal += '</ul>';
+			_.each(postsByTag[key], function (post) {
+				retVal += '<li><a href="' + post['url'] + '">' + post['title']  + '</a></li>';
 			});
+			retVal += '</ul>';
 		});
 		var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, thetag.capitalize() + ' Archives' );
 		response.send(header + retVal + footerSource);
