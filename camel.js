@@ -240,6 +240,12 @@ function generateHtmlAndMetadataForFile(file) {
 			metadata['canonicalLink'] = 'http://blog.datamcfly.com' + metadata['permalink'];
 			metadata['ogtype'] = 'article';
 		}
+
+		if( metadata['FeaturedImage'] ){
+			metadata['PostImage'] = metadata['FeaturedImage'];
+		}else{
+			metadata['PostImage'] = 'http://blog.datamcfly.com/images/logo.png';
+		}
 		
         // If this is a post, assume a body class of 'post'.
         if (postRegex.test(file)) {
