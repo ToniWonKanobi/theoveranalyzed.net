@@ -2,7 +2,7 @@
 @@ Date=2014-05-01 18:00
 @@ Linked=Yes
 @@ Link=http://datamcfly.com
-@@ Tags=test
+@@ Tags=links
 
 > This is a quote entitled from a link.
 

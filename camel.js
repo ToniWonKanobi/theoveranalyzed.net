@@ -1,5 +1,5 @@
 /***************************************************
- * INITIALIZATION                                  *
+ * INITIALIZATION								  *
  ***************************************************/
 
 var express = require('express');
@@ -45,192 +45,203 @@ var postFooterTemplate = null;
 var siteMetadata = {};
 
 /***************************************************
- * HELPER METHODS                                  *
+ * HELPER METHODS								  *
  ***************************************************/
 
 
 function init() {
-    loadHeaderFooter('defaultTags.html', function (data) {
-        // Note this comes in as a flat string; split on newlines for parsing metadata.
-        siteMetadata = parseMetadata(data.split('\n'));
+	loadHeaderFooter('defaultTags.html', function (data) {
+		// Note this comes in as a flat string; split on newlines for parsing metadata.
+		siteMetadata = parseMetadata(data.split('\n'));
 
-        // This relies on the above, so nest it.
-        loadHeaderFooter('header.html', function (data) {
-            headerSource = performMetadataReplacements(siteMetadata, data);
-        });
-    });
-    loadHeaderFooter('footer.html', function (data) { footerSource = data; });
-    loadHeaderFooter('postHeader.html', function (data) {
-        Handlebars.registerHelper('formatPostDate', function (date) {
-            return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
-        });
-        Handlebars.registerHelper('formatIsoDate', function (date) {
-            return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
-        });
-        postHeaderTemplate = Handlebars.compile(data);
-    });
-    loadHeaderFooter('postFooter.html', function (data) {
-        Handlebars.registerHelper('formatPostDate', function (date) {
-            return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
-        });
-        Handlebars.registerHelper('formatIsoDate', function (date) {
-            return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
-        });
-        postFooterTemplate = Handlebars.compile(data);
-    });
+		// This relies on the above, so nest it.
+		loadHeaderFooter('header.html', function (data) {
+			headerSource = performMetadataReplacements(siteMetadata, data);
+		});
+	});
+	loadHeaderFooter('footer.html', function (data) { footerSource = data; });
+	loadHeaderFooter('postHeader.html', function (data) {
+		Handlebars.registerHelper('formatPostDate', function (date) {
+			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
+		});
+		Handlebars.registerHelper('formatIsoDate', function (date) {
+			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
+		});
+		postHeaderTemplate = Handlebars.compile(data);
+	});
+	loadHeaderFooter('postFooter.html', function (data) {
+		Handlebars.registerHelper('formatPostDate', function (date) {
+			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
+		});
+		Handlebars.registerHelper('formatIsoDate', function (date) {
+			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
+		});
+		postFooterTemplate = Handlebars.compile(data);
+	});
 
-    // Kill the cache every 30 minutes.
-    setInterval(emptyCache, cacheResetTimeInMillis);
+	// Kill the cache every 30 minutes.
+	setInterval(emptyCache, cacheResetTimeInMillis);
 /*
-    marked.setOptions({
-        renderer: new marked.Renderer(),
-        gfm: true,
-        tables: true,
-        smartLists: true,
-        smartypants: true
-    });
+	marked.setOptions({
+		renderer: new marked.Renderer(),
+		gfm: true,
+		tables: true,
+		smartLists: true,
+		smartypants: true
+	});
 */
 }
 
 function loadHeaderFooter(file, completion) {
-    fs.exists(templateRoot + file, function(exists) {
-        if (exists) {
-            fs.readFile(templateRoot + file, {encoding: 'UTF8'}, function (error, data) {
-                if (!error) {
-                    completion(data);
-                }
-            });
-        }
-    });
+	fs.exists(templateRoot + file, function(exists) {
+		if (exists) {
+			fs.readFile(templateRoot + file, {encoding: 'UTF8'}, function (error, data) {
+				if (!error) {
+					completion(data);
+				}
+			});
+		}
+	});
 }
 
 function loadTemplate(file, completion) {
-    fs.exists(templateRoot + file, function(exists) {
-        if (exists) {
-            fs.readFile(templateRoot + file, {encoding: 'UTF8'}, function (error, data) {
-                if (!error) {
-                    completion(data);
-                }
-            });
-        }
-        
-    });
+	fs.exists(templateRoot + file, function(exists) {
+		if (exists) {
+			fs.readFile(templateRoot + file, {encoding: 'UTF8'}, function (error, data) {
+				if (!error) {
+					completion(data);
+				}
+			});
+		}
+		
+	});
 }
 
 function leadingZero(value){
 	if(value < 10){
 		return "0" + value.toString();
 	}
-	return value.toString();    
+	return value.toString();	
 }
 
 function normalizedFileName(file) {
-    var retVal = file;
-    if (file.startsWith('posts')) {
-        retVal = './' + file;
-    }
+	var retVal = file;
+	if (file.startsWith('posts')) {
+		retVal = './' + file;
+	}
 
-    retVal = retVal.replace('.md', '');
+	retVal = retVal.replace('.md', '');
 
-    return retVal;
+	return retVal;
 }
 
 function addRenderedPostToCache(file, postData) {
-    //console.log('Adding to cache: ' + normalizedFileName(file));
-    renderedPosts[normalizedFileName(file)] = _.extend({ file: normalizedFileName(file), date: new Date() }, postData);
+	//console.log('Adding to cache: ' + normalizedFileName(file));
+	renderedPosts[normalizedFileName(file)] = _.extend({ file: normalizedFileName(file), date: new Date() }, postData);
 
-    if (_.size(renderedPosts) > maxCacheSize) {
-        var sorted = _.sortBy(renderedPosts, function (post) { return post['date']; });
-        delete renderedPosts[sorted.first()['file']];
-    }
+	if (_.size(renderedPosts) > maxCacheSize) {
+		var sorted = _.sortBy(renderedPosts, function (post) { return post['date']; });
+		delete renderedPosts[sorted.first()['file']];
+	}
 
-    //console.log('Cache has ' + JSON.stringify(_.keys(renderedPosts)));
+	//console.log('Cache has ' + JSON.stringify(_.keys(renderedPosts)));
+}
+
+String.prototype.capitalize = function() {
+    return this.charAt(0).toUpperCase() + this.slice(1);
 }
 
 function fetchFromCache(file) {
-    return renderedPosts[normalizedFileName(file)] || null;
+	return renderedPosts[normalizedFileName(file)] || null;
 }
 
 // Parses the metadata in the file
 function parseMetadata(lines) {
-    var retVal = {};
+	var retVal = {};
 
-    lines.each(function (line) {
-        line = line.replace(metadataMarker, '');
-        line = line.compact();
-        if (line.has('=')) {
-            var firstIndex = line.indexOf('=');
-            retVal[line.first(firstIndex)] = line.from(firstIndex + 1);
-        }
-    });
+	lines.each(function (line) {
+		line = line.replace(metadataMarker, '');
+		line = line.compact();
+		if (line.has('=')) {
+			var firstIndex = line.indexOf('=');
+			retVal[line.first(firstIndex)] = line.from(firstIndex + 1);
+		}
+	});
 
-    // NOTE: Some metadata is added in generateHtmlAndMetadataForFile().
+	// NOTE: Some metadata is added in generateHtmlAndMetadataForFile().
 
-    // Merge with site default metadata
-    Object.merge(retVal, siteMetadata, false, function(key, targetVal, sourceVal) {
-        // Ensure that the file wins over the defaults.
-        console.log('overwriting "' + sourceVal + '" with "' + targetVal);
-        return targetVal;
-    });
+	// Merge with site default metadata
+	Object.merge(retVal, siteMetadata, false, function(key, targetVal, sourceVal) {
+		// Ensure that the file wins over the defaults.
+		console.log('overwriting "' + sourceVal + '" with "' + targetVal);
+		return targetVal;
+	});
 
-    return retVal;
+	return retVal;
 }
 
 function performMetadataReplacements(replacements, haystack) {
-    _.keys(replacements).each(function (key) {
-        // Ensure that it's a global replacement; non-regex treatment is first-only.
-        haystack = haystack.replace(new RegExp(metadataMarker + key + metadataMarker, 'g'), replacements[key]);
-    });
+	_.keys(replacements).each(function (key) {
+		// Ensure that it's a global replacement; non-regex treatment is first-only.
+		haystack = haystack.replace(new RegExp(metadataMarker + key + metadataMarker, 'g'), replacements[key]);
+	});
 
-    return haystack;
+	return haystack;
 }
 
 // Parses the HTML and renders it.
 function parseHtml(lines, replacements, postHeader, postFooter) {
-    // Convert from markdown
-    var body = performMetadataReplacements(replacements, markdownit.render(lines) );
-    // Perform replacements
-    var header = performMetadataReplacements(replacements, headerSource);
-    // Concatenate HTML
-    return header + '<article>' + postHeader + '<div class="entry">' + body + '</div>' + postFooter + '</article>' + footerSource;
+	// Convert from markdown
+	var body = performMetadataReplacements(replacements, markdownit.render(lines) );
+	// Perform replacements
+	var header = performMetadataReplacements(replacements, headerSource);
+	// Concatenate HTML
+	return header + '<article>' + postHeader + '<div class="entry">' + body + '</div>' + postFooter + '</article>' + footerSource;
 }
 
 // Gets all the lines in a post and separates the metadata from the body
 function getLinesFromPost(file) {
-    file = file.endsWith('.md') ? file : file + '.md';
-    var data = fs.readFileSync(file, {encoding: 'UTF8'});
+	file = file.endsWith('.md') ? file : file + '.md';
+	var data = fs.readFileSync(file, {encoding: 'UTF8'});
 
-    // Extract the pieces
-    var lines = data.lines();
-    var metadataLines = _.filter(lines, function (line) { return line.startsWith(metadataMarker); });
-    var body = _.difference(lines, metadataLines).join('\n');
-    return {metadata: metadataLines, body: body};
+	// Extract the pieces
+	var lines = data.lines();
+	var metadataLines = _.filter(lines, function (line) { return line.startsWith(metadataMarker); });
+	var body = _.difference(lines, metadataLines).join('\n');
+	return {metadata: metadataLines, body: body};
 }
 
 // Gets the metadata & rendered HTML for this file
 function generateHtmlAndMetadataForFile(file) {
-    var retVal = fetchFromCache(file);
-    if (retVal == undefined) {
-        var lines = getLinesFromPost(file);
-        var metadata = parseMetadata(lines['metadata']);
-        if (metadata['Linked'] == 'Yes'){
-            metadata['relativeLink'] =  metadata['Link'];
-            metadata['permalink'] = externalFilenameForFile(file);
-            metadata['linked'] = 'linked';
-            metadata['LinkArrow'] = ' <span class="linkarrow">→</span>';
+	var retVal = fetchFromCache(file);
+	if (retVal == undefined) {
+		var lines = getLinesFromPost(file);
+		var metadata = parseMetadata(lines['metadata']);
+		if (metadata['Linked'] == 'Yes'){
+			metadata['relativeLink'] =  metadata['Link'];
+			metadata['permalink'] = externalFilenameForFile(file);
+			metadata['linked'] = 'linked';
+			metadata['LinkArrow'] = ' <span class="linkarrow">→</span>';
 
-        } else {
-            metadata['relativeLink'] = externalFilenameForFile(file);
-            metadata['permalink'] = metadata['relativeLink'];
-            metadata['linked'] = 'notLinked';
-            metadata['LinkArrow'] = '';
-        }
+		} else {
+			metadata['relativeLink'] = externalFilenameForFile(file);
+			metadata['permalink'] = metadata['relativeLink'];
+			metadata['linked'] = 'notLinked';
+			metadata['LinkArrow'] = '';
+		}
 		if( metadata['HideHeader'] != 'true' ){
 			metadata['header'] = postHeaderTemplate(metadata);
 			metadata['footer'] = postFooterTemplate(metadata);
 		}else{
 			metadata['header'] = '';
 			metadata['footer'] = '';
+		}
+
+		if( metadata['Tags'] != undefined ){
+			var tag = String( metadata['Tags'] );
+			metadata['TaggedIn'] = 'Filed Under: <a href="/tags/' + tag + '">' + tag.capitalize() + '</a>';			
+		}else{
+			metadata['TaggedIn'] = 'Filed Under: <a href="/tags/uncategorized">Uncategorized</a>';
 		}
 
 		if( metadata['permalink'] == '/index' ){
@@ -247,13 +258,13 @@ function generateHtmlAndMetadataForFile(file) {
 			metadata['PostImage'] = 'http://blog.datamcfly.com/images/logo.png';
 		}
 		
-        // If this is a post, assume a body class of 'post'.
-        if (postRegex.test(file)) {
-            metadata['BodyClass'] = 'post';
-        }
-        if( metadata['BodyClass'] == 'BodyClass' ){
-            metadata['BodyClass'] = 'post';
-        }
+		// If this is a post, assume a body class of 'post'.
+		if (postRegex.test(file)) {
+			metadata['BodyClass'] = 'post';
+		}
+		if( metadata['BodyClass'] == 'BodyClass' ){
+			metadata['BodyClass'] = 'post';
+		}
 
 		if( metadata['HideHeader'] != 'true' ){
 			var mheader = postHeaderTemplate(metadata);
@@ -265,114 +276,114 @@ function generateHtmlAndMetadataForFile(file) {
 		}
 		var body = lines['body'];
 		
-        var html =  parseHtml(body, metadata, mheader, mfooter);
-        addRenderedPostToCache(file, {
-            metadata: metadata,
-            body: html,
-            unwrappedBody: performMetadataReplacements(metadata, generateBodyHtmlForFile(file)) }
-        );
-    }
+		var html =  parseHtml(body, metadata, mheader, mfooter);
+		addRenderedPostToCache(file, {
+			metadata: metadata,
+			body: html,
+			unwrappedBody: performMetadataReplacements(metadata, generateBodyHtmlForFile(file)) }
+		);
+	}
 
-    return fetchFromCache(file);
+	return fetchFromCache(file);
 }
 
 // Gets the metadata for this file
 function generateMetadataForFile(file) {
-    return generateHtmlAndMetadataForFile(file)['metadata'];
+	return generateHtmlAndMetadataForFile(file)['metadata'];
 }
 
 // Gets the rendered HTML for this file, with header/footer.
 function generateHtmlForFile(file) {
-    return generateHtmlAndMetadataForFile(file)['body'];
+	return generateHtmlAndMetadataForFile(file)['body'];
 }
 
 // Gets the body HTML for this file, no header/footer.
 function generateBodyHtmlForFile(file) {
-    var parts = getLinesFromPost(file);
-    var body = markdownit.render(parts['body']);
-    var metadata = parseMetadata(parts['metadata']);
-    metadata['relativeLink'] = externalFilenameForFile(file);
-    return body;
+	var parts = getLinesFromPost(file);
+	var body = markdownit.render(parts['body']);
+	var metadata = parseMetadata(parts['metadata']);
+	metadata['relativeLink'] = externalFilenameForFile(file);
+	return body;
 }
 
 // Gets the external link for this file. Relative if request is
 // not specified. Absolute if request is specified.
 function externalFilenameForFile(file, request) {
-    var hostname = request != undefined ? request.headers.host : '';
+	var hostname = request != undefined ? request.headers.host : '';
 
-    var retVal = hostname.length ? ('http://' + hostname) : '';
-    retVal += file.at(0) == '/' && hostname.length > 0 ? '' : '/';
-    retVal += file.replace('.md', '').replace(postsRoot, '').replace(postsRoot.replace('./', ''), '');
-    return retVal;
+	var retVal = hostname.length ? ('http://' + hostname) : '';
+	retVal += file.at(0) == '/' && hostname.length > 0 ? '' : '/';
+	retVal += file.replace('.md', '').replace(postsRoot, '').replace(postsRoot.replace('./', ''), '');
+	return retVal;
 }
 
 // Gets all the posts, grouped by day and sorted descending.
 // Completion handler gets called with an array of objects.
 // Array
 //   +-- Object
-//   |     +-- 'date' => Date for these articles
-//   |     `-- 'articles' => Array
-//   |            +-- (Article Object)
-//   |            +-- ...
-//   |            `-- (Article Object)
+//   |	 +-- 'date' => Date for these articles
+//   |	 `-- 'articles' => Array
+//   |			+-- (Article Object)
+//   |			+-- ...
+//   |			`-- (Article Object)
 //   + ...
 //   |
 //   `-- Object
-//         +-- 'date' => Date for these articles
-//         `-- 'articles' => Array
-//                +-- (Article Object)
-//                +-- ...
-//                `-- (Article Object)
+//		 +-- 'date' => Date for these articles
+//		 `-- 'articles' => Array
+//				+-- (Article Object)
+//				+-- ...
+//				`-- (Article Object)
 function allPostsSortedAndGrouped(completion) {
-    if (Object.size(allPostsSortedGrouped) != 0) {
-        completion(allPostsSortedGrouped);
-    } else {
-        qfs.listTree(postsRoot, function (name, stat) {
-            return postRegex.test(name);
-        }).then(function (files) {
-            // Lump the posts together by day
-            var groupedFiles = _.groupBy(files, function (file) {
-                var parts = file.split('/');
-                return new Date(parts[1], parts[2] - 1, parts[3]);
-            });
+	if (Object.size(allPostsSortedGrouped) != 0) {
+		completion(allPostsSortedGrouped);
+	} else {
+		qfs.listTree(postsRoot, function (name, stat) {
+			return postRegex.test(name);
+		}).then(function (files) {
+			// Lump the posts together by day
+			var groupedFiles = _.groupBy(files, function (file) {
+				var parts = file.split('/');
+				return new Date(parts[1], parts[2] - 1, parts[3]);
+			});
 
-            // Sort the days from newest to oldest
-            var retVal = [];
-            var sortedKeys = _.sortBy(_.keys(groupedFiles), function (date) {
-                return new Date(date);
-            }).reverse();
+			// Sort the days from newest to oldest
+			var retVal = [];
+			var sortedKeys = _.sortBy(_.keys(groupedFiles), function (date) {
+				return new Date(date);
+			}).reverse();
 
-            // For each day...
-            _.each(sortedKeys, function (key) {
-                // Get all the filenames...
-                var articleFiles = groupedFiles[key];
-                var articles = [];
-                // ...get all the data for that file ...
+			// For each day...
+			_.each(sortedKeys, function (key) {
+				// Get all the filenames...
+				var articleFiles = groupedFiles[key];
+				var articles = [];
+				// ...get all the data for that file ...
 				_.each(articleFiles, function (file) {
-                	if (!file.endsWith('redirect')) {
-                    	articles.push(generateHtmlAndMetadataForFile(file));
-                    }
-                });
+					if (!file.endsWith('redirect')) {
+						articles.push(generateHtmlAndMetadataForFile(file));
+					}
+				});
 /*
-                _.each(articleFiles, function (file) {
-                    articles.push(generateHtmlAndMetadataForFile(file));
-                });
+				_.each(articleFiles, function (file) {
+					articles.push(generateHtmlAndMetadataForFile(file));
+				});
 */
-                // ...so we can sort the posts...
-                articles = _.sortBy(articles, function (article) {
-                    // ...by their post date and TIME.
-                    return Date.create(article['metadata']['Date']);
-                }).reverse();
-                // Array of objects; each object's key is the date, value
-                // is an array of objects
-                // In that array of objects, there is a body & metadata.
-                retVal.push({date: key, articles: articles});
-            });
+				// ...so we can sort the posts...
+				articles = _.sortBy(articles, function (article) {
+					// ...by their post date and TIME.
+					return Date.create(article['metadata']['Date']);
+				}).reverse();
+				// Array of objects; each object's key is the date, value
+				// is an array of objects
+				// In that array of objects, there is a body & metadata.
+				retVal.push({date: key, articles: articles});
+			});
 
-            allPostsSortedGrouped = retVal;
-            completion(retVal);
-        });
-    }
+			allPostsSortedGrouped = retVal;
+			completion(retVal);
+		});
+	}
 }
 
 // Gets all the posts, paginated.
@@ -382,67 +393,67 @@ function allPostsSortedAndGrouped(completion) {
 // Forcing to exactly 10 posts per page seemed artificial, and,
 // frankly, harder.
 function allPostsPaginated(completion) {
-    allPostsSortedAndGrouped(function (postsByDay) {
-        var pages = [];
-        var thisPageDays = [];
-        var count = 0;
-        postsByDay.each(function (day) {
-            count += day['articles'].length;
-            thisPageDays.push(day);
-            // Reset count if need be
-            if (count >= postsPerPage) {
-                pages.push({ page: pages.length + 1, days: thisPageDays });
-                thisPageDays = [];
-                count = 0;
-            }
-        });
+	allPostsSortedAndGrouped(function (postsByDay) {
+		var pages = [];
+		var thisPageDays = [];
+		var count = 0;
+		postsByDay.each(function (day) {
+			count += day['articles'].length;
+			thisPageDays.push(day);
+			// Reset count if need be
+			if (count >= postsPerPage) {
+				pages.push({ page: pages.length + 1, days: thisPageDays });
+				thisPageDays = [];
+				count = 0;
+			}
+		});
 
-        if (thisPageDays.length > 0) {
-            pages.push({ page: pages.length + 1, days: thisPageDays});
-        }
+		if (thisPageDays.length > 0) {
+			pages.push({ page: pages.length + 1, days: thisPageDays});
+		}
 
-        completion(pages);
-    });
+		completion(pages);
+	});
 }
 
 // Empties the caches.
 function emptyCache() {
-    console.log('Emptying the cache.');
-    renderedPosts = {};
-    renderedRss = {};
-    allPostsSortedGrouped = {};
+	console.log('Emptying the cache.');
+	renderedPosts = {};
+	renderedRss = {};
+	allPostsSortedGrouped = {};
 }
 
 /***************************************************
- * ROUTE HELPERS                                   *
+ * ROUTE HELPERS								   *
  ***************************************************/
 
 function loadAndSendMarkdownFile(file, response) {
-    if (file.endsWith('.md')) {
-        // Send the source file as requested.
-        console.log('Sending source file: ' + file);
-        fs.exists(file, function (exists) {
-            if (exists) {
-                fs.readFile(file, {encoding: 'UTF8'}, function (error, data) {
-                    if (error) {
-                        response.status(500).send({error: error});
-                        return;
-                    }
-                    response.type('text/x-markdown; charset=UTF-8');
-                    response.send(data);
-                    return;
-                });
-            } else {
-                response.status(400).send({error: 'Markdown file not found.'});
-            }
-        });
-    } else if (fetchFromCache(file) != null) {
-        // Send the cached version.
-        console.log('Sending cached file: ' + file);
-        response.status(200).send(fetchFromCache(file)['body']);
-        return;
-    } else {
-        // Fetch the real deal.
+	if (file.endsWith('.md')) {
+		// Send the source file as requested.
+		console.log('Sending source file: ' + file);
+		fs.exists(file, function (exists) {
+			if (exists) {
+				fs.readFile(file, {encoding: 'UTF8'}, function (error, data) {
+					if (error) {
+						response.status(500).send({error: error});
+						return;
+					}
+					response.type('text/x-markdown; charset=UTF-8');
+					response.send(data);
+					return;
+				});
+			} else {
+				response.status(400).send({error: 'Markdown file not found.'});
+			}
+		});
+	} else if (fetchFromCache(file) != null) {
+		// Send the cached version.
+		console.log('Sending cached file: ' + file);
+		response.status(200).send(fetchFromCache(file)['body']);
+		return;
+	} else {
+		// Fetch the real deal.
 		var found = false;
 		// Is this a post?
 		if (fs.existsSync(file + '.md')) {
@@ -474,63 +485,63 @@ function loadAndSendMarkdownFile(file, response) {
 */
 		}
 /*
-        fs.exists(file + '.md', function (exists) {
-            if (!exists) {
+		fs.exists(file + '.md', function (exists) {
+			if (!exists) {
 				console.log('404: ' + file);
 				file = './posts/404.md';
 //				response.send(404, {error: 'A post with that address is not found. '+file + '.md'});
 //				return;
-            }
+			}
 
-            console.log('Sending file: ' + file)
-            var html = generateHtmlForFile(file);
-            response.status(200).send(html);
-        });
+			console.log('Sending file: ' + file)
+			var html = generateHtmlForFile(file);
+			response.status(200).send(html);
+		});
 */
-    }
+	}
 }
 
 // Sends a listing of an entire year's posts.
 function sendYearListing(request, response) {
-    var year = request.params.slug;
-    var retVal = '<h1>Posts for ' + year + '</h1>';
-    var currentMonth = null;
+	var year = request.params.slug;
+	var retVal = '<h1>Posts for ' + year + '</h1>';
+	var currentMonth = null;
 
-    allPostsSortedAndGrouped(function (postsByDay) {
-        postsByDay.each(function (day) {
-            var thisDay = Date.create(day['date']);
-            if (thisDay.is(year)) {
-                // Date.isBetween() is not inclusive, so back the from date up one
-                var thisMonth = new Date(Number(year), Number(currentMonth)).addDays(-1);
-                // ...and advance the to date by two (one to offset above, one to genuinely add).
-                var nextMonth = Date.create(thisMonth).addMonths(1).addDays(2);
+	allPostsSortedAndGrouped(function (postsByDay) {
+		postsByDay.each(function (day) {
+			var thisDay = Date.create(day['date']);
+			if (thisDay.is(year)) {
+				// Date.isBetween() is not inclusive, so back the from date up one
+				var thisMonth = new Date(Number(year), Number(currentMonth)).addDays(-1);
+				// ...and advance the to date by two (one to offset above, one to genuinely add).
+				var nextMonth = Date.create(thisMonth).addMonths(1).addDays(2);
 
-                //console.log(thisMonth.short() + ' <-- ' + thisDay.short() + ' --> ' + nextMonth.short() + '?   ' + (thisDay.isBetween(thisMonth, nextMonth) ? 'YES' : 'NO'));
-                if (currentMonth == null || !thisDay.isBetween(thisMonth, nextMonth)) {
-                    // If we've started a month list, end it, because we're on a new month now.
-                    if (currentMonth >= 0) {
-                        retVal += '</ul>'
-                    }
+				//console.log(thisMonth.short() + ' <-- ' + thisDay.short() + ' --> ' + nextMonth.short() + '?   ' + (thisDay.isBetween(thisMonth, nextMonth) ? 'YES' : 'NO'));
+				if (currentMonth == null || !thisDay.isBetween(thisMonth, nextMonth)) {
+					// If we've started a month list, end it, because we're on a new month now.
+					if (currentMonth >= 0) {
+						retVal += '</ul>'
+					}
 
-                    currentMonth = thisDay.getMonth();
-                    retVal += '<h2><a href="/' + year + '/' + leadingZero((currentMonth + 1)) + '/">' + thisDay.format('{Month}') + '</a></h2>\n<ul>';
-                }
+					currentMonth = thisDay.getMonth();
+					retVal += '<h2><a href="/' + year + '/' + leadingZero((currentMonth + 1)) + '/">' + thisDay.format('{Month}') + '</a></h2>\n<ul>';
+				}
 
-                day['articles'].each(function (article) {
-                    retVal += '<li><a href="' + externalFilenameForFile(article['file']) + '">' + article['metadata']['Title'] + '</a></li>';
-                });
-            }
-        });
+				day['articles'].each(function (article) {
+					retVal += '<li><a href="' + externalFilenameForFile(article['file']) + '">' + article['metadata']['Title'] + '</a></li>';
+				});
+			}
+		});
 
-        var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, 'Posts for ' + year);
-        response.send(header + retVal + footerSource);
-    });
+		var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, 'Posts for ' + year);
+		response.send(header + retVal + footerSource);
+	});
 
 }
 
 function send404(response, file) {
 	console.log('404: ' + file);
-    response.status(404).send( generateHtmlForFile('posts/404.md') );
+	response.status(404).send( generateHtmlForFile('posts/404.md') );
 }
 
 // Handles a route by trying the cache first.
@@ -539,72 +550,72 @@ function send404(response, file) {
 // generator: function to generate the raw HTML. Only parameter is a function that takes a completion handler that takes the raw HTML as its parameter.
 // bestRouteHandler() --> generator() to build HTML --> completion() to add to cache and send
 function baseRouteHandler(file, sender, generator) {
-    if (fetchFromCache(file) == null) {
-        console.log('Not in cache: ' + file);
-        generator(function (postData) {
-            addRenderedPostToCache(file, {body: postData});
-            sender({body: postData});
-        });
-    } else {
-        console.log('In cache: ' + file);
-        sender(fetchFromCache(file));
-    }
+	if (fetchFromCache(file) == null) {
+		console.log('Not in cache: ' + file);
+		generator(function (postData) {
+			addRenderedPostToCache(file, {body: postData});
+			sender({body: postData});
+		});
+	} else {
+		console.log('In cache: ' + file);
+		sender(fetchFromCache(file));
+	}
 }
 
 /***************************************************
- * ROUTES                                          *
+ * ROUTES										  *
  ***************************************************/
 
 app.get('/', function (request, response) {
-    // Determine which page we're on, and make that the filename
-    // so we cache by paginated page.
-    var page = 1;
-    if (request.query.p != undefined) {
-        page = Number(request.query.p);
-        if (isNaN(page)) {
-            response.redirect('/');
-        }
-    }
+	// Determine which page we're on, and make that the filename
+	// so we cache by paginated page.
+	var page = 1;
+	if (request.query.p != undefined) {
+		page = Number(request.query.p);
+		if (isNaN(page)) {
+			response.redirect('/');
+		}
+	}
 
-    // Do the standard route handler. Cough up a cached page if possible.
-    baseRouteHandler('/?p=' + page, function (cachedData) {
-        response.send(cachedData['body']);
-    }, function (completion) {
-        var indexInfo = generateHtmlAndMetadataForFile(postsRoot + 'index.md');
+	// Do the standard route handler. Cough up a cached page if possible.
+	baseRouteHandler('/?p=' + page, function (cachedData) {
+		response.send(cachedData['body']);
+	}, function (completion) {
+		var indexInfo = generateHtmlAndMetadataForFile(postsRoot + 'index.md');
 		var footnoteIndex = 0;
 		
-        Handlebars.registerHelper('formatDate', function (date) {
-            return new Handlebars.SafeString(new Date(date).format('{Weekday}<br />{d}<br />{Month}<br />{yyyy}'));
-        });
-        
-        Handlebars.registerHelper('dateLink', function (date) {
-            var parsedDate = new Date(date);
-            return '/' + parsedDate.format("{yyyy}") + '/' + parsedDate.format("{M}") + '/' + parsedDate.format('{d}') + '/';
-        });
+		Handlebars.registerHelper('formatDate', function (date) {
+			return new Handlebars.SafeString(new Date(date).format('{Weekday}<br />{d}<br />{Month}<br />{yyyy}'));
+		});
+		
+		Handlebars.registerHelper('dateLink', function (date) {
+			var parsedDate = new Date(date);
+			return '/' + parsedDate.format("{yyyy}") + '/' + parsedDate.format("{M}") + '/' + parsedDate.format('{d}') + '/';
+		});
 
-        Handlebars.registerHelper('offsetFootnotes', function (html) {
-        	// Each day will call this helper once. We will offset the footnotes
-        	// to account for multiple days being on one page. This will avoid
-        	// conflicts with footnote numbers. If two days both have footnote,
-        	// they would both be "fn1". Which doesn't work; they need to be unique.
-        	var retVal = html.replace(footnoteAnchorRegex, '$&' + footnoteIndex);
-        	retVal = retVal.replace(footnoteIdRegex, '$&' + footnoteIndex);
-        	++footnoteIndex;
+		Handlebars.registerHelper('offsetFootnotes', function (html) {
+			// Each day will call this helper once. We will offset the footnotes
+			// to account for multiple days being on one page. This will avoid
+			// conflicts with footnote numbers. If two days both have footnote,
+			// they would both be "fn1". Which doesn't work; they need to be unique.
+			var retVal = html.replace(footnoteAnchorRegex, '$&' + footnoteIndex);
+			retVal = retVal.replace(footnoteIdRegex, '$&' + footnoteIndex);
+			++footnoteIndex;
 
-        	return retVal;
-        });
+			return retVal;
+		});
 /*
-        loadTemplate('ArticlePartial.html', function (data) {
+		loadTemplate('ArticlePartial.html', function (data) {
 			Handlebars.registerPartial('article', data );
 
-		    loadTemplate('DayTemplate.html', function (data) {
+			loadTemplate('DayTemplate.html', function (data) {
 				dayTemplate = Handlebars.compile(data);
-		    });
+			});
 
-	        loadTemplate('FooterTemplate.html', function (data) {
+			loadTemplate('FooterTemplate.html', function (data) {
 				footerTemplate = Handlebars.compile(data);
-	        });
-        });
+			});
+		});
 */
 		var data = fs.readFileSync(templateRoot + 'ArticlePartial.html', {encoding: 'UTF8'});
 		Handlebars.registerPartial('article', data );
@@ -619,55 +630,55 @@ app.get('/', function (request, response) {
 //		var dayTemplate = Handlebars.compile(indexInfo['metadata']['DayTemplate']);
 //		var footerTemplate = Handlebars.compile(indexInfo['metadata']['FooterTemplate']);
 
-        var bodyHtml = '';
-        allPostsPaginated(function (pages) {
-            // If we're asking for a page that doesn't exist, redirect.
-            if (page < 0 || page > pages.length) {
-                response.redirect(pages.length > 1 ? '/?p=' + pages.length : '/');
-            }
-            var days = pages[page - 1]['days'];
-            days.forEach(function (day) {
-                bodyHtml += dayTemplate(day);
-            });
+		var bodyHtml = '';
+		allPostsPaginated(function (pages) {
+			// If we're asking for a page that doesn't exist, redirect.
+			if (page < 0 || page > pages.length) {
+				response.redirect(pages.length > 1 ? '/?p=' + pages.length : '/');
+			}
+			var days = pages[page - 1]['days'];
+			days.forEach(function (day) {
+				bodyHtml += dayTemplate(day);
+			});
 
-            // If we have more data to display, set up footer links.
-            var footerData = {};
-            if (page > 1) {
-                footerData['prevPage'] = page - 1;
-            }
-            if (pages.length > page) {
-                footerData['nextPage'] = page + 1;
-            }
+			// If we have more data to display, set up footer links.
+			var footerData = {};
+			if (page > 1) {
+				footerData['prevPage'] = page - 1;
+			}
+			if (pages.length > page) {
+				footerData['nextPage'] = page + 1;
+			}
 
-            var metadata = generateMetadataForFile(postsRoot + 'index.md');
-            var header = performMetadataReplacements(metadata, headerSource);
-            // Replace <title>...</title> with one-off for homepage, because it doesn't show both Page & Site titles.
-            var titleBegin = header.indexOf('<title>') + "<title>".length;
-            var titleEnd = header.indexOf('</title>');
-            header = header.substring(0, titleBegin) + metadata['SiteTitle'] + header.substring(titleEnd);
-            // Carry on with body
-            bodyHtml = performMetadataReplacements(metadata, bodyHtml);
-            var fullHtml = header + bodyHtml + footerTemplate(footerData) + footerSource;
-            completion(fullHtml);
-        });
-    });
+			var metadata = generateMetadataForFile(postsRoot + 'index.md');
+			var header = performMetadataReplacements(metadata, headerSource);
+			// Replace <title>...</title> with one-off for homepage, because it doesn't show both Page & Site titles.
+			var titleBegin = header.indexOf('<title>') + "<title>".length;
+			var titleEnd = header.indexOf('</title>');
+			header = header.substring(0, titleBegin) + metadata['SiteTitle'] + header.substring(titleEnd);
+			// Carry on with body
+			bodyHtml = performMetadataReplacements(metadata, bodyHtml);
+			var fullHtml = header + bodyHtml + footerTemplate(footerData) + footerSource;
+			completion(fullHtml);
+		});
+	});
 });
 
 /***************************************************
- * RSS / PLEASE EDIT WITH YOUR SITE'S DETAILS      *
+ * RSS / PLEASE EDIT WITH YOUR SITE'S DETAILS	  *
  ***************************************************/
 
 app.get('/sitemap.xml', function (request, response) {
-    response.header('Content-Type', 'text/xml');
-    
+	response.header('Content-Type', 'text/xml');
+	
 	// this is the source of the URLs on your site, in this case we use a simple array, actually it could come from the database
 	var urls = ['/','/about', '/contact'];
 	var root_path = 'http://blog.datamcfly.com';
 	// XML sitemap generation starts here
 	var priority = 0.5;
 	var freq = 'monthly';
-    var max = 100;
-    var i = 0;
+	var max = 100;
+	var i = 0;
 	var sitemap = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
 	for (var i in urls) {
 		sitemap += '<url>';
@@ -677,155 +688,232 @@ app.get('/sitemap.xml', function (request, response) {
 		sitemap += '</url>';
 		i++;
 	}
-    allPostsSortedAndGrouped(function (postsByDay) {
-        postsByDay.forEach(function (day) {
-            day['articles'].forEach(function (article) {
-                if (i < max) {
-                    ++i;
+	allPostsSortedAndGrouped(function (postsByDay) {
+		postsByDay.forEach(function (day) {
+			day['articles'].forEach(function (article) {
+				if (i < max) {
+					++i;
 					sitemap += '<url>';
 					sitemap += '<loc>'+ externalFilenameForFile(article['file'], request) + '</loc>';
 					sitemap += '<changefreq>'+ freq +'</changefreq>';
 					sitemap += '<priority>'+ priority +'</priority>';
 					sitemap += '</url>';
 /*
-                    feed.item({
-                        title: article['metadata']['Title'],
-                        // Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
-                        date: new Date(article['metadata']['Date']).addHours(utcOffset),
-                        url: externalFilenameForFile(article['file'], request),
-                        description: article['unwrappedBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
-                    });
+					feed.item({
+						title: article['metadata']['Title'],
+						// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
+						date: new Date(article['metadata']['Date']).addHours(utcOffset),
+						url: externalFilenameForFile(article['file'], request),
+						description: article['unwrappedBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
+					});
  */
-                }
-            });
-        });
-    });
+				}
+			});
+		});
+	});
 	sitemap += '</urlset>';
-    response.send( sitemap );
+	response.send( sitemap );
 });
 
 app.get('/rss', function (request, response) {
-    response.type('application/rss+xml');
-    if (renderedRss['date'] == undefined || new Date().getTime() - renderedRss['date'].getTime() > 3600000) {
-        var feed = new rss({
-            title: siteMetadata['SiteTitle'],
-            description: 'Posts to ' + siteMetadata['SiteTitle'],
-            feed_url: 'http://blog.datamcfly.com/rss',
-            site_url: 'http://blog.datamcfly.com',
-            author: 'Roger Stringer',
-            webMaster: 'Roger Stringer',
-            copyright: '2014 -' + new Date().getFullYear() + ' Roger Stringer',
-            image_url: 'http://blog.datamcfly.com/images/favicon.png',
-            language: 'en',
-            //categories: ['Category 1','Category 2','Category 3'],
-            pubDate: new Date().toString(),
-            ttl: '60'
-        });
+	response.type('application/rss+xml');
+	if (renderedRss['date'] == undefined || new Date().getTime() - renderedRss['date'].getTime() > 3600000) {
+		var feed = new rss({
+			title: siteMetadata['SiteTitle'],
+			description: 'Posts to ' + siteMetadata['SiteTitle'],
+			feed_url: 'http://blog.datamcfly.com/rss',
+			site_url: 'http://blog.datamcfly.com',
+			author: 'Roger Stringer',
+			webMaster: 'Roger Stringer',
+			copyright: '2014 -' + new Date().getFullYear() + ' Roger Stringer',
+			image_url: 'http://blog.datamcfly.com/images/favicon.png',
+			language: 'en',
+			//categories: ['Category 1','Category 2','Category 3'],
+			pubDate: new Date().toString(),
+			ttl: '60'
+		});
 
-        var max = 10;
-        var i = 0;
-        allPostsSortedAndGrouped(function (postsByDay) {
-            postsByDay.forEach(function (day) {
-                day['articles'].forEach(function (article) {
-                    if (i < max) {
-                        ++i;
-                        feed.item({
-                            title: article['metadata']['Title'],
-                            // Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
-                            date: new Date(article['metadata']['Date']).addHours(utcOffset),
-                            url: externalFilenameForFile(article['file'], request),
-                            description: article['unwrappedBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
-                        });
-                    }
-                });
-            });
+		var max = 10;
+		var i = 0;
+		allPostsSortedAndGrouped(function (postsByDay) {
+			postsByDay.forEach(function (day) {
+				day['articles'].forEach(function (article) {
+					if (i < max) {
+						++i;
+						feed.item({
+							title: article['metadata']['Title'],
+							// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
+							date: new Date(article['metadata']['Date']).addHours(utcOffset),
+							url: externalFilenameForFile(article['file'], request),
+							description: article['unwrappedBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
+						});
+					}
+				});
+			});
 
-            renderedRss = {
-                date: new Date(),
-                rss: feed.xml()
-            };
+			renderedRss = {
+				date: new Date(),
+				rss: feed.xml()
+			};
 
-            response.send(renderedRss['rss']);
-        });
-    } else {
-        response.send(renderedRss['rss']);
-    }
+			response.send(renderedRss['rss']);
+		});
+	} else {
+		response.send(renderedRss['rss']);
+	}
 });
 
 
+//	Tags view
+app.get('/tags', function (request, response) {
+	var postsByTag = {};
+
+	allPostsSortedAndGrouped(function (postsByDay) {
+		var retVal = "<h1>Posts By Tag</h1><ul>";
+		postsByDay.each(function (day) {
+			day['articles'].each(function (article) {
+//				retVal += '<li><a href="' + externalFilenameForFile(article['file']) + '">' + article['metadata']['Title'] + '</a></li>';
+				var tag = article['metadata']['Tags'];
+				//	if no tag assigned to post, then place it in the uncategorized tag...
+				if( !tag ){
+					tag = "uncategorized";
+				}
+				var date = Date.create( article['metadata']['Date']);
+				if (postsByTag[tag] == undefined) {
+					postsByTag[tag] = [];
+				}
+				postsByTag[tag].push({
+					title: article['metadata']['Title'], 
+					date: date, 
+					url: externalFilenameForFile( article['file'])
+				});
+			});
+			var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
+			_.each(orderedKeys, function (key) {
+				retVal += '<h2><a href="/tags/' + key.toLowerCase() + '">' + key.capitalize() + '</a></h1><ul>';
+				_.each(postsByTag[key], function (post) {
+					retVal += '<li><a href="' + post['url'] + '">' + post['title']  + '</a></li>';
+				});
+				retVal += '</ul>';
+			});
+		});
+		var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, 'Posts by Tag');
+		response.send(header + retVal + footerSource);
+	});
+});
+app.get('/tags/:tag', function (request, response) {
+	var thetag = request.params.tag;
+	var postsByTag = {};
+
+	allPostsSortedAndGrouped(function (postsByDay) {
+		var retVal = '<h1>' + thetag.capitalize() + ' Archives</h1><ul>';
+		postsByDay.each(function (day) {
+			day['articles'].each(function (article) {
+//				retVal += '<li><a href="' + externalFilenameForFile(article['file']) + '">' + article['metadata']['Title'] + '</a></li>';
+				var tag = article['metadata']['Tags'];
+				//	if no tag assigned to post, then place it in the uncategorized tag...
+				if( !tag ){
+					tag = "uncategorized";
+				}
+				if( tag == thetag ){
+					var date = Date.create( article['metadata']['Date']);
+					if (postsByTag[tag] == undefined) {
+						postsByTag[tag] = [];
+					}
+					postsByTag[tag].push({
+						title: article['metadata']['Title'], 
+						date: date, 
+						url: externalFilenameForFile( article['file'])
+					});
+				}
+			});
+			var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
+			_.each(orderedKeys, function (key) {
+//				retVal += '<h2><a href="/tags/' + key + '">' + key + '</a></h1><ul>';
+				_.each(postsByTag[key], function (post) {
+					retVal += '<li><a href="' + post['url'] + '">' + post['title']  + '</a></li>';
+				});
+				retVal += '</ul>';
+			});
+		});
+		var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, thetag.capitalize() + ' Archives' );
+		response.send(header + retVal + footerSource);
+	});
+});
+
 // Month view
 app.get('/:year/:month', function (request, response) {
-    var path = postsRoot + request.params.year + '/' + request.params.month;
+	var path = postsRoot + request.params.year + '/' + request.params.month;
 
-    var postsByDay = {};
+	var postsByDay = {};
 
-    qfs.listTree(path, function (name, stat) {
-        return name.endsWith('.md');
-    }).then(function (files) {
-        _.each(files, function (file) {
-            // Gather by day of month
-            var metadata = generateHtmlAndMetadataForFile(file)['metadata'];
-            var date = Date.create(metadata['Date']);
-            var dayOfMonth = date.getDate();
-            if (postsByDay[dayOfMonth] == undefined) {
-                postsByDay[dayOfMonth] = [];
-            }
+	qfs.listTree(path, function (name, stat) {
+		return name.endsWith('.md');
+	}).then(function (files) {
+		_.each(files, function (file) {
+			// Gather by day of month
+			var metadata = generateHtmlAndMetadataForFile(file)['metadata'];
+			var date = Date.create(metadata['Date']);
+			var dayOfMonth = date.getDate();
+			if (postsByDay[dayOfMonth] == undefined) {
+				postsByDay[dayOfMonth] = [];
+			}
 
-            postsByDay[dayOfMonth].push({title: metadata['Title'], date: date, url: externalFilenameForFile(file)});
-         });
+			postsByDay[dayOfMonth].push({title: metadata['Title'], date: date, url: externalFilenameForFile(file)});
+		 });
 
-         var html = "";
-         // Get the days of the month, reverse ordered.
-         var orderedKeys = _.sortBy(Object.keys(postsByDay), function (key) { return parseInt(key); }).reverse();
-         // For each day of the month...
-         _.each(orderedKeys, function (key) {
-             var day = new Date(request.params.year, request.params.month - 1, parseInt(key));
-             html += "<h1>" + day.format('{Weekday}, {Month} {d}') + '</h1><ul>';
-             _.each(postsByDay[key], function (post) {
-                 html += '<li><a href="' + post['url'] + '">' + post['title']  + '</a></li>';
-             });
-             html += '</ul>';
-         });
+		 var html = "";
+		 // Get the days of the month, reverse ordered.
+		 var orderedKeys = _.sortBy(Object.keys(postsByDay), function (key) { return parseInt(key); }).reverse();
+		 // For each day of the month...
+		 _.each(orderedKeys, function (key) {
+			 var day = new Date(request.params.year, request.params.month - 1, parseInt(key));
+			 html += "<h1>" + day.format('{Weekday}, {Month} {d}') + '</h1><ul>';
+			 _.each(postsByDay[key], function (post) {
+				 html += '<li><a href="' + post['url'] + '">' + post['title']  + '</a></li>';
+			 });
+			 html += '</ul>';
+		 });
 
-         var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, "Day Listing");
-         response.send(header + html + footerSource);
-    });
+		 var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, "Day Listing");
+		 response.send(header + html + footerSource);
+	});
  });
 
 // Day view
 app.get('/:year/:month/:day', function (request, response) {
-    var path = postsRoot + request.params.year + '/' + request.params.month + '/' + request.params.day;
+	var path = postsRoot + request.params.year + '/' + request.params.month + '/' + request.params.day;
 
-    // Get all the files in the directory
-    fs.readdir(path, function (error, files) {
-        if (error) {
-            response.send(400, {error: "This path doesn't exist."});
-            return;
-        }
+	// Get all the files in the directory
+	fs.readdir(path, function (error, files) {
+		if (error) {
+			response.send(400, {error: "This path doesn't exist."});
+			return;
+		}
 
-        var day = new Date(request.params.year, request.params.month - 1, request.params.day);
-        var html = "<h1>Posts from " + day.format('{Weekday}, {Month} {d}') + "</h1><ul>";
+		var day = new Date(request.params.year, request.params.month - 1, request.params.day);
+		var html = "<h1>Posts from " + day.format('{Weekday}, {Month} {d}') + "</h1><ul>";
 
-        // Get all the data for each file
-        var postsToday = [];
-        files.each(function (file) {
-            postsToday.push(generateHtmlAndMetadataForFile(path + '/' + file));
-        });
+		// Get all the data for each file
+		var postsToday = [];
+		files.each(function (file) {
+			postsToday.push(generateHtmlAndMetadataForFile(path + '/' + file));
+		});
 
-        // Go ahead and sort...
-        postsToday = _.sortBy(postsToday, function (post) {
-            // ...by their post date and TIME...
-            return Date.create(post['metadata']['Date']);
-        }); // ...Oldest first.
+		// Go ahead and sort...
+		postsToday = _.sortBy(postsToday, function (post) {
+			// ...by their post date and TIME...
+			return Date.create(post['metadata']['Date']);
+		}); // ...Oldest first.
 
-        postsToday.each(function (post) {
-            var title = post['metadata']['Title'];
-            html += '<li><a href="' + post['metadata']['relativeLink'] + '">' + post['metadata']['Title'] + '</a></li>';
-        });
+		postsToday.each(function (post) {
+			var title = post['metadata']['Title'];
+			html += '<li><a href="' + post['metadata']['relativeLink'] + '">' + post['metadata']['Title'] + '</a></li>';
+		});
 
-        var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, day.format('{Weekday}, {Month} {d}'));
-        response.send(header + html + footerSource);
-    })
+		var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, day.format('{Weekday}, {Month} {d}'));
+		response.send(header + html + footerSource);
+	})
  });
 
 
@@ -837,8 +925,8 @@ app.get('/:year/:month/:day/:slug', function (request, response) {
 
 // Empties the cache.
 //app.get('/tosscache', function (request, response) {
-//     emptyCache();
-//     response.send(205);
+//	 emptyCache();
+//	 response.send(205);
 //});
 
 app.get('/count', function (request, response) {
@@ -880,7 +968,7 @@ app.get('/:slug', function (request, response) {
 });
 
 /***************************************************
- * STARTUP                                         *
+ * STARTUP										 *
  ***************************************************/
 init();
 var port = Number(process.env.PORT || 5000);
