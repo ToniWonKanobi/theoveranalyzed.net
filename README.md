@@ -123,6 +123,30 @@ For each post, metadata is specified at the top, and can be leveraged in the bod
     
 The title and date are required. Any other metadata is optional.
 
+
+### Tagged Posts
+
+If you want to add tags to a post, then you can add the tag to the post metadata. For example:
+
+    @@ Title=Test Post
+    @@ Date=2014-05 17:50
+    @@ Tags=stuff
+	
+
+    This is a *test post* entitled "@@Title@@".
+	
+This would tell Camel to add the post to the tag called `stuff`, then you could use the `{{{TaggedIn}}` template code to add the tag link to the post, generally inside postFooter.html.
+
+The `TaggedIn` template tag will be wrapped inside a `div` called `taggedIn` so you can then style that as you see fit.
+
+This will also create a `/tags` page that acts as an archive that displays a list of all tags and associated posts and a direct `/tags/tag` page.
+
+For example, in the above sample post, we created a tag called `stuff`, so then going to `/tags/stuff` would display a link to this post as well as any other posts.
+
+Tags are useful for organizing posts.
+
+Any post that does not have a tag assigned to it will get grouped into the `Uncategorized` tag.
+
 ### Linked Lists
 
 If you want to make a post a linked post, then you would use the following metadata:
