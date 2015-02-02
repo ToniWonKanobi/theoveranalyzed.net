@@ -239,9 +239,9 @@ function generateHtmlAndMetadataForFile(file) {
 
 		if( metadata['Tags'] != undefined ){
 			var tag = String( metadata['Tags'] );
-			metadata['TaggedIn'] = '<div id="taggedIn">Filed Under: <a href="/tags/' + tag + '">' + tag.capitalize() + '</a></div>';
+			metadata['TaggedIn'] = '<p class="taggedIn"><span>Filed Under:</span> Filed Under: <a href="/tags/' + tag + '">' + tag.capitalize() + '</a></p>';
 		}else{
-			metadata['TaggedIn'] = '<div id="taggedIn">Filed Under: <a href="/tags/uncategorized">Uncategorized</a></div>';
+			metadata['TaggedIn'] = '<p class="taggedIn"><span>Filed Under:</span> <a href="/tags/uncategorized">Uncategorized</a></p>';
 		}
 
 		if( metadata['permalink'] == '/index' ){
