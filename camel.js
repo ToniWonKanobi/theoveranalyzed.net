@@ -731,14 +731,8 @@ app.get('/rss', function (request, response) {
 				day['articles'].forEach(function (article) {
 					if (i < max) {
 						++i;
-						if( article['metadata']['Tags'] != undefined ){
-							var tag = String(article['metadata']['Tag']);	
-						}else{
-							var tag = 'Uncategorized';
-						}
 						feed.item({
 							title: article['metadata']['Title'],
-							category: tag,
 							date: new Date(article['metadata']['Date']).addHours(utcOffset),
 							url: externalFilenameForFile(article['file'], request),
 							description: article['cleanBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
