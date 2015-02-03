@@ -675,29 +675,45 @@ app.get('/sitemap.xml', function (request, response) {
 	response.header('Content-Type', 'text/xml');
 	
 	// this is the source of the URLs on your site, in this case we use a simple array, actually it could come from the database
-	var urls = ['/','/about', '/contact'];
+	var urls = ['/','/about'];
 	var root_path = 'http://blog.datamcfly.com';
+
 	// XML sitemap generation starts here
 	var priority = 0.5;
-	var freq = 'monthly';
+	var freq = 'weekly';
 	var max = 100;
 	var i = 0;
+
 	var sitemap = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
+
+	var lastmod = new Date().toISOString();
+
 	for (var i in urls) {
 		sitemap += '<url>';
 		sitemap += '<loc>'+ root_path + urls[i] + '</loc>';
+		sitemap += '<lastmod>' + lastmod + '</lastmod>';
 		sitemap += '<changefreq>'+ freq +'</changefreq>';
 		sitemap += '<priority>'+ priority +'</priority>';
 		sitemap += '</url>';
 		i++;
 	}
+
 	allPostsSortedAndGrouped(function (postsByDay) {
 		postsByDay.forEach(function (day) {
 			day['articles'].forEach(function (article) {
+				var date = Date.create( article['metadata']['Date'] );
+				var lastmod = date.toISOString();
+
 				sitemap += '<url>';
 				sitemap += '<loc>'+ externalFilenameForFile(article['file'], request) + '</loc>';
+				sitemap += '<lastmod>' + lastmod + '</lastmod>';
 				sitemap += '<changefreq>'+ freq +'</changefreq>';
 				sitemap += '<priority>'+ priority +'</priority>';
+				if( article['metadata']['FeaturedImage']  != undefined ){
+					sitemap + '<image:image>';
+					sitemap += '<image:loc>' + article['metadata']['FeaturedImage'] + '</image:loc>';
+					sitemap += '</image:image>';
+				}
 				sitemap += '</url>';
 			});
 		});
@@ -820,7 +836,7 @@ app.get('/tags/:tag', function (request, response) {
 		});
 		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
 		_.each(orderedKeys, function (key) {
-//				retVal += '<h2><a href="/tags/' + key + '">' + key + '</a></h1><ul>';
+//			retVal += '<h2><a href="/tags/' + key + '">' + key + '</a></h1><ul>';
 			_.each(postsByTag[key], function (post) {
 				retVal += '<li><a href="' + post['url'] + '">' + post['title']  + '</a></li>';
 			});
