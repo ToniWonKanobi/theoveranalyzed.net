@@ -694,14 +694,11 @@ app.get('/sitemap.xml', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		postsByDay.forEach(function (day) {
 			day['articles'].forEach(function (article) {
-				if (i < max) {
-					++i;
-					sitemap += '<url>';
-					sitemap += '<loc>'+ externalFilenameForFile(article['file'], request) + '</loc>';
-					sitemap += '<changefreq>'+ freq +'</changefreq>';
-					sitemap += '<priority>'+ priority +'</priority>';
-					sitemap += '</url>';
-				}
+				sitemap += '<url>';
+				sitemap += '<loc>'+ externalFilenameForFile(article['file'], request) + '</loc>';
+				sitemap += '<changefreq>'+ freq +'</changefreq>';
+				sitemap += '<priority>'+ priority +'</priority>';
+				sitemap += '</url>';
 			});
 		});
 	});
@@ -734,9 +731,14 @@ app.get('/rss', function (request, response) {
 				day['articles'].forEach(function (article) {
 					if (i < max) {
 						++i;
+						if( article['metadata']['Tags'] != undefined ){
+							var tag = String(article['metadata']['Tag']);	
+						}else{
+							var tag = 'Uncategorized';
+						}
 						feed.item({
 							title: article['metadata']['Title'],
-							// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
+							category: tag,
 							date: new Date(article['metadata']['Date']).addHours(utcOffset),
 							url: externalFilenameForFile(article['file'], request),
 							description: article['cleanBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
