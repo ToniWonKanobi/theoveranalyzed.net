@@ -276,12 +276,15 @@ function generateHtmlAndMetadataForFile(file) {
 		}
 		var body = lines['body'];
 		
+//		body = body + "\n" + metadata['TaggedIn'];
+		
 		var html =  parseHtml(body, metadata, mheader, mfooter);
 		addRenderedPostToCache(file, {
 			metadata: metadata,
 			body: html,
-			unwrappedBody: performMetadataReplacements(metadata, generateBodyHtmlForFile(file)) }
-		);
+			cleanBody: performMetadataReplacements(metadata, generateBodyHtmlForFile(file)),
+			unwrappedBody: performMetadataReplacements(metadata, generateBodyHtmlForFile(file))+"\n"+metadata['TaggedIn'] 
+		});
 	}
 
 	return fetchFromCache(file);
@@ -698,15 +701,6 @@ app.get('/sitemap.xml', function (request, response) {
 					sitemap += '<changefreq>'+ freq +'</changefreq>';
 					sitemap += '<priority>'+ priority +'</priority>';
 					sitemap += '</url>';
-/*
-					feed.item({
-						title: article['metadata']['Title'],
-						// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
-						date: new Date(article['metadata']['Date']).addHours(utcOffset),
-						url: externalFilenameForFile(article['file'], request),
-						description: article['unwrappedBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
-					});
- */
 				}
 			});
 		});
@@ -745,7 +739,7 @@ app.get('/rss', function (request, response) {
 							// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
 							date: new Date(article['metadata']['Date']).addHours(utcOffset),
 							url: externalFilenameForFile(article['file'], request),
-							description: article['unwrappedBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
+							description: article['cleanBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
 						});
 					}
 				});
@@ -924,10 +918,10 @@ app.get('/:year/:month/:day/:slug', function (request, response) {
 });
 
 // Empties the cache.
-//app.get('/tosscache', function (request, response) {
-//	 emptyCache();
-//	 response.send(205);
-//});
+app.get('/tosscache', function (request, response) {
+	 emptyCache();
+	 response.send(205);
+});
 
 app.get('/count', function (request, response) {
 	console.log("/count");
