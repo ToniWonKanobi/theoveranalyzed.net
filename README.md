@@ -49,7 +49,7 @@ and used from that point forward.
 * The headers/footer:
     * `header.html` - site header; shown at the top of every page
     * `footer.html` - site footer; shown at the bottom of every page
-    * `defaultTags.html` - default metadata; merged with page metadata (page wins)
+    * `default.html` - default metadata; merged with page metadata (page wins)
     * `postHeader.html` - post header; shown at the top of every post not marked with `@@ HideHeader=true`. See below.
     * `postFooter.html` - post footer; shown at the bottom of every post not marked with `@@ HideHeader=true`. See below.
 	* `DayTemplate.html` - used to render a day
@@ -72,7 +72,7 @@ To use Camel, the following files are required:
       |   Node package file
       +-- templates/
       |     +-- defaultTags.html
-      |     |   Site-level default tags, such as the site title
+      |     |   Site-level default , such as the site title
       |     +-- header.html
       |     |   Site header (top of every page)
       |     +-- footer.html
@@ -146,6 +146,8 @@ For example, in the above sample post, we created a tag called `stuff`, so then 
 Tags are useful for organizing posts.
 
 Any post that does not have a tag assigned to it will get grouped into the `Uncategorized` tag.
+
+Currently, the `@@ Tags` tag only supports one tag to a time, this will change later, but right now, it's for singular tags in posts.
 
 ### Linked Lists
 
