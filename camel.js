@@ -692,8 +692,13 @@ app.get('/sitemap.xml', function (request, response) {
 	for (var i in urls) {
 		sitemap += '<url>'+"\n";
 		sitemap += "\t" + '<loc>'+ root_path + urls[i] + '</loc>'+"\n";
-		sitemap += "\t" + '<lastmod>' + lastmod + '</lastmod>'+"\n";
-		sitemap += "\t" + '<changefreq>'+ freq +'</changefreq>'+"\n";
+		if( i == 0 ){
+			sitemap += "\t" + '<changefreq>daily</changefreq>' + "\n";
+			sitemap += "\t" + '<priority>1</priority>' + "\n";
+		}else{
+			sitemap += "\t" + '<changefreq>'+ freq +'</changefreq>' + "\n";
+			sitemap += "\t" + '<priority>'+ priority +'</priority>' + "\n";
+		}
 		sitemap += "\t" + '<priority>'+ priority +'</priority>'+"\n";
 		sitemap += '</url>';
 		sitemap += "\n";
