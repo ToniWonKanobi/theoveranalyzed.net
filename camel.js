@@ -672,7 +672,6 @@ app.get('/', function (request, response) {
  ***************************************************/
 
 app.get('/sitemap.xml', function (request, response) {
-	response.header('Content-Type', 'text/xml');
 	
 	// this is the source of the URLs on your site, in this case we use a simple array, actually it could come from the database
 	var urls = ['/','/about'];
@@ -684,17 +683,20 @@ app.get('/sitemap.xml', function (request, response) {
 	var max = 100;
 	var i = 0;
 
-	var sitemap = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
-
+	var sitemap = '<?xml version="1.0" encoding="UTF-8"?>';
+//	sitemap += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
+	sitemap += '<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
+	sitemap += "\n";	
 	var lastmod = new Date().toISOString();
 
 	for (var i in urls) {
-		sitemap += '<url>';
-		sitemap += '<loc>'+ root_path + urls[i] + '</loc>';
-		sitemap += '<lastmod>' + lastmod + '</lastmod>';
-		sitemap += '<changefreq>'+ freq +'</changefreq>';
-		sitemap += '<priority>'+ priority +'</priority>';
+		sitemap += '<url>'+"\n";
+		sitemap += "\t" + '<loc>'+ root_path + urls[i] + '</loc>'+"\n";
+		sitemap += "\t" + '<lastmod>' + lastmod + '</lastmod>'+"\n";
+		sitemap += "\t" + '<changefreq>'+ freq +'</changefreq>'+"\n";
+		sitemap += "\t" + '<priority>'+ priority +'</priority>'+"\n";
 		sitemap += '</url>';
+		sitemap += "\n";
 		i++;
 	}
 
@@ -704,21 +706,23 @@ app.get('/sitemap.xml', function (request, response) {
 				var date = Date.create( article['metadata']['Date'] );
 				var lastmod = date.toISOString();
 
-				sitemap += '<url>';
-				sitemap += '<loc>'+ externalFilenameForFile(article['file'], request) + '</loc>';
-				sitemap += '<lastmod>' + lastmod + '</lastmod>';
-				sitemap += '<changefreq>'+ freq +'</changefreq>';
-				sitemap += '<priority>'+ priority +'</priority>';
+				sitemap += '<url>'+"\n";
+				sitemap += "\t" + '<loc>'+ externalFilenameForFile(article['file'], request) + '</loc>'+"\n";
+				sitemap += "\t" + '<lastmod>' + lastmod + '</lastmod>'+"\n";
+				sitemap += "\t" + '<changefreq>'+ freq +'</changefreq>'+"\n";
+				sitemap += "\t" + '<priority>'+ priority +'</priority>'+"\n";
 				if( article['metadata']['FeaturedImage']  != undefined ){
-					sitemap + '<image:image>';
-					sitemap += '<image:loc>' + article['metadata']['FeaturedImage'] + '</image:loc>';
-					sitemap += '</image:image>';
+					sitemap += "\t" + '<image:image>'+"\n";
+					sitemap += "\t" + "\t" + '<image:loc>' + article['metadata']['FeaturedImage'] + '</image:loc>'+"\n";
+					sitemap += "\t" + '</image:image>'+"\n";
 				}
 				sitemap += '</url>';
+				sitemap += "\n";
 			});
 		});
 	});
 	sitemap += '</urlset>';
+	response.header('Content-Type', 'text/xml');
 	response.send( sitemap );
 });
 
