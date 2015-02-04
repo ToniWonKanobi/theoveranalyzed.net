@@ -22,6 +22,7 @@ app.use(express.static("public"));
 var server = http.createServer(app);
 
 
+
 // "Statics"
 var postsRoot = './posts/';
 var templateRoot = './templates/';
@@ -81,7 +82,21 @@ function init() {
 
 	// Kill the cache every 30 minutes.
 	setInterval(emptyCache, cacheResetTimeInMillis);
+/*
+	marked.setOptions({
+		renderer: new marked.Renderer(),
+		gfm: true,
+		tables: true,
+		smartLists: true,
+		smartypants: true
+	});
+*/
 }
+
+String.prototype.capitalize = function() {
+	return this.charAt(0).toUpperCase() + this.slice(1);
+}
+
 
 function loadHeaderFooter(file, completion) {
 	fs.exists(templateRoot + file, function(exists) {
@@ -104,9 +119,9 @@ function loadTemplate(file, completion) {
 				}
 			});
 		}
-		
 	});
 }
+
 
 function leadingZero(value){
 	if(value < 10){
@@ -136,10 +151,6 @@ function addRenderedPostToCache(file, postData) {
 	}
 
 	//console.log('Cache has ' + JSON.stringify(_.keys(renderedPosts)));
-}
-
-String.prototype.capitalize = function() {
-    return this.charAt(0).toUpperCase() + this.slice(1);
 }
 
 function fetchFromCache(file) {
@@ -186,6 +197,7 @@ function parseHtml(lines, replacements, postHeader, postFooter) {
 	var body = performMetadataReplacements(replacements, markdownit.render(lines) );
 	// Perform replacements
 	var header = performMetadataReplacements(replacements, headerSource);
+	var body = body;
 	// Concatenate HTML
 	return header + '<article>' + postHeader + '<div class="entry">' + body + '</div>' + postFooter + '</article>' + footerSource;
 }
@@ -267,8 +279,8 @@ function generateHtmlAndMetadataForFile(file) {
 			metadata['TaggedIn'] = '';
 		}
 		var body = lines['body'];
-		
-//		var html =  parseHtml(body, metadata, mheader, mfooter);
+
+		var html =  parseHtml(body, metadata, mheader, mfooter);
 		addRenderedPostToCache(file, {
 			metadata: metadata,
 			header: performMetadataReplacements(metadata, headerSource),
@@ -526,8 +538,9 @@ function sendYearListing(request, response) {
 					if (currentMonth >= 0) {
 						retVal += '</ul>'
 					}
+					
 					anyFound = true;
-
+					
 					currentMonth = thisDay.getMonth();
 					retVal += '<h2><a href="/' + year + '/' + leadingZero((currentMonth + 1)) + '/">' + thisDay.format('{Month}') + '</a></h2>\n<ul>';
 				}
@@ -596,7 +609,6 @@ app.get('/', function (request, response) {
 		Handlebars.registerHelper('formatDate', function (date) {
 			return new Handlebars.SafeString(new Date(date).format('{Weekday}<br />{d}<br />{Month}<br />{yyyy}'));
 		});
-		
 		Handlebars.registerHelper('dateLink', function (date) {
 			var parsedDate = new Date(date);
 			return '/' + parsedDate.format("{yyyy}") + '/' + parsedDate.format("{M}") + '/' + parsedDate.format('{d}') + '/';
@@ -613,7 +625,8 @@ app.get('/', function (request, response) {
 
 			return retVal;
 		});
-/*
+
+/*		
 		loadTemplate('ArticlePartial.html', function (data) {
 			Handlebars.registerPartial('article', data );
 
@@ -626,6 +639,7 @@ app.get('/', function (request, response) {
 			});
 		});
 */
+
 		var data = fs.readFileSync(templateRoot + 'ArticlePartial.html', {encoding: 'UTF8'});
 		Handlebars.registerPartial('article', data );
 
@@ -679,26 +693,25 @@ app.get('/', function (request, response) {
  ***************************************************/
 
 app.get('/sitemap.xml', function (request, response) {
-	
 	// this is the source of the URLs on your site, in this case we use a simple array, actually it could come from the database
 	var urls = ['/','/about'];
 	var root_path = 'http://blog.datamcfly.com';
-
 	// XML sitemap generation starts here
-	var priority = 0.5;
+	var priority = 0.6;
 	var freq = 'weekly';
 	var max = 100;
 	var i = 0;
-
+	
 	var sitemap = '<?xml version="1.0" encoding="UTF-8"?>';
 //	sitemap += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
 	sitemap += '<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
-	sitemap += "\n";	
+	
 	var lastmod = new Date().toISOString();
-
+	sitemap += "\n";
 	for (var i in urls) {
-		sitemap += '<url>'+"\n";
-		sitemap += "\t" + '<loc>'+ root_path + urls[i] + '</loc>'+"\n";
+		sitemap += '<url>' + "\n";
+		sitemap += "\t" + '<loc>'+ root_path + urls[i] + '</loc>' + "\n";
+		sitemap += "\t" + '<lastmod>' + lastmod + '</lastmod>' + "\n";
 		if( i == 0 ){
 			sitemap += "\t" + '<changefreq>daily</changefreq>' + "\n";
 			sitemap += "\t" + '<priority>1</priority>' + "\n";
@@ -706,7 +719,6 @@ app.get('/sitemap.xml', function (request, response) {
 			sitemap += "\t" + '<changefreq>'+ freq +'</changefreq>' + "\n";
 			sitemap += "\t" + '<priority>'+ priority +'</priority>' + "\n";
 		}
-		sitemap += "\t" + '<priority>'+ priority +'</priority>'+"\n";
 		sitemap += '</url>';
 		sitemap += "\n";
 		i++;
@@ -718,21 +730,23 @@ app.get('/sitemap.xml', function (request, response) {
 				var date = Date.create( article['metadata']['Date'] );
 				var lastmod = date.toISOString();
 
-				sitemap += '<url>'+"\n";
-				sitemap += "\t" + '<loc>'+ externalFilenameForFile(article['file'], request) + '</loc>'+"\n";
-				sitemap += "\t" + '<lastmod>' + lastmod + '</lastmod>'+"\n";
-				sitemap += "\t" + '<changefreq>'+ freq +'</changefreq>'+"\n";
-				sitemap += "\t" + '<priority>'+ priority +'</priority>'+"\n";
+				sitemap += '<url>' + "\n";
+				sitemap += "\t" + '<loc>'+ externalFilenameForFile(article['file'], request) + '</loc>' + "\n";
+				sitemap += "\t" + '<lastmod>' + lastmod + '</lastmod>' + "\n";
+				sitemap += "\t" + '<changefreq>'+ freq +'</changefreq>' + "\n";
+				sitemap += "\t" + '<priority>'+ priority +'</priority>' + "\n";
 				if( article['metadata']['FeaturedImage']  != undefined ){
-					sitemap += "\t" + '<image:image>'+"\n";
-					sitemap += "\t" + "\t" + '<image:loc>' + article['metadata']['FeaturedImage'] + '</image:loc>'+"\n";
-					sitemap += "\t" + '</image:image>'+"\n";
+//					metadata['PostImage'] = metadata['FeaturedImage'];
+					sitemap += "\t" + '<image:image>' + "\n";
+					sitemap += "\t" + "\t" + '<image:loc>' + article['metadata']['FeaturedImage'] + '</image:loc>' + "\n";
+					sitemap += "\t" + '</image:image>' + "\n";
 				}
 				sitemap += '</url>';
 				sitemap += "\n";
 			});
 		});
 	});
+
 	sitemap += '</urlset>';
 	response.header('Content-Type', 'text/xml');
 	response.send( sitemap );
@@ -765,6 +779,7 @@ app.get('/rss', function (request, response) {
 						++i;
 						feed.item({
 							title: article['metadata']['Title'],
+							// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
 							date: new Date(article['metadata']['Date']).addHours(utcOffset),
 							url: externalFilenameForFile(article['file'], request),
 							description: article['cleanBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
@@ -785,7 +800,6 @@ app.get('/rss', function (request, response) {
 	}
 });
 
-
 //	Tags view
 app.get('/tags', function (request, response) {
 	var postsByTag = {};
@@ -794,7 +808,6 @@ app.get('/tags', function (request, response) {
 		var retVal = "<h1>Posts By Tag</h1><ul>";
 		postsByDay.each(function (day) {
 			day['articles'].each(function (article) {
-//				retVal += '<li><a href="' + externalFilenameForFile(article['file']) + '">' + article['metadata']['Title'] + '</a></li>';
 				var tag = article['metadata']['Tags'];
 				//	if no tag assigned to post, then place it in the uncategorized tag...
 				if( !tag ){
@@ -831,7 +844,6 @@ app.get('/tags/:tag', function (request, response) {
 		var retVal = '<h1>' + thetag.capitalize() + ' Archives</h1><ul>';
 		postsByDay.each(function (day) {
 			day['articles'].each(function (article) {
-//				retVal += '<li><a href="' + externalFilenameForFile(article['file']) + '">' + article['metadata']['Title'] + '</a></li>';
 				var tag = article['metadata']['Tags'];
 				//	if no tag assigned to post, then place it in the uncategorized tag...
 				if( !tag ){
@@ -852,7 +864,6 @@ app.get('/tags/:tag', function (request, response) {
 		});
 		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
 		_.each(orderedKeys, function (key) {
-//			retVal += '<h2><a href="/tags/' + key + '">' + key + '</a></h1><ul>';
 			_.each(postsByTag[key], function (post) {
 				retVal += '<li><a href="' + post['url'] + '">' + post['title']  + '</a></li>';
 			});
@@ -916,7 +927,6 @@ allPostsSortedAndGrouped(function (postsByDay) {
 	})
 });
 
-
 // Get a blog post, such as /2014/3/17/birthday
 app.get('/:year/:month/:day/:slug', function (request, response) {
 	var file = postsRoot + request.params.year + '/' + request.params.month + '/' + request.params.day + '/' + request.params.slug;
@@ -924,10 +934,10 @@ app.get('/:year/:month/:day/:slug', function (request, response) {
 });
 
 // Empties the cache.
-//	app.get('/tosscache', function (request, response) {
-//		emptyCache();
-//		response.send(205);
-//	});
+//app.get('/tosscache', function (request, response) {
+//	 emptyCache();
+//	 response.send(205);
+//});
 
 app.get('/count', function (request, response) {
 	console.log("/count");
@@ -951,6 +961,7 @@ app.get('/:slug', function (request, response) {
 		// If it's a year, handle that.
 	} else if (request.params.slug >= 2000) {
 		sendYearListing(request, response);
+		// If it's garbage (ie, a year less than 2013), send a 404.
 	} else {
 		send404(response, request.params.slug);
 	}
