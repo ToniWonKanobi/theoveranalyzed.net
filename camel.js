@@ -280,6 +280,7 @@ function generateHtmlAndMetadataForFile(file) {
 		}
 		var body = lines['body'];
 
+//		var html =  parseHtml(body, metadata, mheader, mfooter);
 		addRenderedPostToCache(file, {
 			metadata: metadata,
 			header: performMetadataReplacements(metadata, headerSource),
@@ -802,6 +803,7 @@ app.get('/rss', function (request, response) {
 //	Tags view
 app.get('/tags', function (request, response) {
 	var postsByTag = {};
+	var anyFound = false;
 
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = "<h1>Posts By Tag</h1><ul>";
@@ -816,6 +818,7 @@ app.get('/tags', function (request, response) {
 				if (postsByTag[tag] == undefined) {
 					postsByTag[tag] = [];
 				}
+				anyFound = true;
 				postsByTag[tag].push({
 					title: article['metadata']['Title'], 
 					date: date, 
@@ -831,6 +834,11 @@ app.get('/tags', function (request, response) {
 			});
 			retVal += '</ul>';
 		});
+
+		if (!anyFound) {
+			retVal += "<i>No posts found.</i>";
+		}
+
 		var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, 'Posts by Tag');
 		response.send(header + retVal + footerSource);
 	});
@@ -838,6 +846,7 @@ app.get('/tags', function (request, response) {
 app.get('/tags/:tag', function (request, response) {
 	var thetag = request.params.tag;
 	var postsByTag = {};
+	var anyFound = false;
 
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '<h1>' + thetag.capitalize() + ' Archives</h1><ul>';
@@ -853,6 +862,7 @@ app.get('/tags/:tag', function (request, response) {
 					if (postsByTag[tag] == undefined) {
 						postsByTag[tag] = [];
 					}
+					anyFound = true;
 					postsByTag[tag].push({
 						title: article['metadata']['Title'], 
 						date: date, 
@@ -868,6 +878,11 @@ app.get('/tags/:tag', function (request, response) {
 			});
 			retVal += '</ul>';
 		});
+
+		if (!anyFound) {
+			retVal += "<i>No posts found.</i>";
+		}
+
 		var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, thetag.capitalize() + ' Archives' );
 		response.send(header + retVal + footerSource);
 	});
