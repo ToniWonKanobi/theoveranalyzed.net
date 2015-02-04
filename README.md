@@ -135,7 +135,7 @@ If you want to add tags to a post, then you can add the tag to the post metadata
 
     This is a *test post* entitled "@@Title@@".
 	
-This would tell Camel to add the post to the tag called `stuff`, this then gets appended to the end of the post content.
+This would tell Camel to add the post to the tag called `stuff`, then you could use the `{{{TaggedIn}}` template code to add the tag link to the post, generally inside postFooter.html.
 
 The `TaggedIn` template tag will be wrapped inside a `p` called `taggedIn` so you can then style that as you see fit.
 
@@ -224,3 +224,25 @@ Camel is MIT-Licensed.
 Should you happen to use Camel, I'd love to know. Please [contact me][co].
 
 [co]: http://www.caseyliss.com/contact
+
+# Change Log
+
+Our own changes:
+
+* Post tagging
+* Linked posts
+* Broke out the templates in index.md to separate files inside the templates folder
+* sitemap.xml support
+* Featured Image support
+
+Casey's changes:
+
+* __1.2.1__ Significant cleanup/restructuring. Now less embarrassing! Removal of lots of
+similar-sounding functions and more liberal use of data that we've already collected in
+`allPostsSortedAndGrouped()`.
+* __1.2.0__ Changes from [marked](https://github.com/chjj/marked) to
+[markdown-it](https://github.com/markdown-it/markdown-it), adds support for footnotes.
+* __1.1.0__ Fix post regex issue, adds support for redirects, adds `/count` route,
+prevents year responses for unreasonable years
+* __1.0.1__ Adds x-powered-by header, upgrades to packages
+* __1.0.0__ Initial release
