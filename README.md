@@ -135,7 +135,7 @@ If you want to add tags to a post, then you can add the tag to the post metadata
 
     This is a *test post* entitled "@@Title@@".
 	
-This would tell Camel to add the post to the tag called `stuff`, then you could use the `{{{TaggedIn}}` template code to add the tag link to the post, generally inside postFooter.html.
+This would tell Camel to add the post to the tag called `stuff`, this then gets appended to the end of the post content.
 
 The `TaggedIn` template tag will be wrapped inside a `p` called `taggedIn` so you can then style that as you see fit.
 

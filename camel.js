@@ -81,15 +81,6 @@ function init() {
 
 	// Kill the cache every 30 minutes.
 	setInterval(emptyCache, cacheResetTimeInMillis);
-/*
-	marked.setOptions({
-		renderer: new marked.Renderer(),
-		gfm: true,
-		tables: true,
-		smartLists: true,
-		smartypants: true
-	});
-*/
 }
 
 function loadHeaderFooter(file, completion) {
@@ -273,17 +264,25 @@ function generateHtmlAndMetadataForFile(file) {
 		}else{
 			var mheader = '';
 			var mfooter = '';
+			metadata['TaggedIn'] = '';
 		}
 		var body = lines['body'];
 		
-//		body = body + "\n" + metadata['TaggedIn'];
-		
-		var html =  parseHtml(body, metadata, mheader, mfooter);
+//		var html =  parseHtml(body, metadata, mheader, mfooter);
 		addRenderedPostToCache(file, {
 			metadata: metadata,
-			body: html,
-			cleanBody: performMetadataReplacements(metadata, generateBodyHtmlForFile(file)),
-			unwrappedBody: performMetadataReplacements(metadata, generateBodyHtmlForFile(file))+"\n"+metadata['TaggedIn'] 
+			header: performMetadataReplacements(metadata, headerSource),
+			postHeader:  mheader,
+			postFooter:  mfooter,
+			cleanBody: performMetadataReplacements(metadata, markdownit.render(lines['body'])),
+			unwrappedBody: performMetadataReplacements(metadata, markdownit.render(lines['body']))+"\n"+metadata['TaggedIn'],
+			html: function () {
+				return this.header +
+				this.postHeader +
+				this.unwrappedBody +
+				this.postFooter +
+				footerSource;
+			}
 		});
 	}
 
@@ -297,7 +296,8 @@ function generateMetadataForFile(file) {
 
 // Gets the rendered HTML for this file, with header/footer.
 function generateHtmlForFile(file) {
-	return generateHtmlAndMetadataForFile(file)['body'];
+	var fileData = generateHtmlAndMetadataForFile(file);
+	return fileData.html();
 }
 
 // Gets the body HTML for this file, no header/footer.
@@ -453,7 +453,7 @@ function loadAndSendMarkdownFile(file, response) {
 	} else if (fetchFromCache(file) != null) {
 		// Send the cached version.
 		console.log('Sending cached file: ' + file);
-		response.status(200).send(fetchFromCache(file)['body']);
+		response.status(200).send(fetchFromCache(file).html());
 		return;
 	} else {
 		// Fetch the real deal.
@@ -507,8 +507,9 @@ function loadAndSendMarkdownFile(file, response) {
 // Sends a listing of an entire year's posts.
 function sendYearListing(request, response) {
 	var year = request.params.slug;
-	var retVal = '<h1>Posts for ' + year + '</h1>';
+	var retVal = '<div class="center"><h1>Posts for ' + year + '</h1></div>';
 	var currentMonth = null;
+	var anyFound = false;
 
 	allPostsSortedAndGrouped(function (postsByDay) {
 		postsByDay.each(function (day) {
@@ -525,6 +526,7 @@ function sendYearListing(request, response) {
 					if (currentMonth >= 0) {
 						retVal += '</ul>'
 					}
+					anyFound = true;
 
 					currentMonth = thisDay.getMonth();
 					retVal += '<h2><a href="/' + year + '/' + leadingZero((currentMonth + 1)) + '/">' + thisDay.format('{Month}') + '</a></h2>\n<ul>';
@@ -535,6 +537,10 @@ function sendYearListing(request, response) {
 				});
 			}
 		});
+
+		if (!anyFound) {
+			retVal += "<i>No posts found.</i>";
+		}
 
 		var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, 'Posts for ' + year);
 		response.send(header + retVal + footerSource);
@@ -653,8 +659,9 @@ app.get('/', function (request, response) {
 				footerData['nextPage'] = page + 1;
 			}
 
-			var metadata = generateMetadataForFile(postsRoot + 'index.md');
-			var header = performMetadataReplacements(metadata, headerSource);
+			var fileData = generateHtmlAndMetadataForFile(postsRoot + 'index.md')
+			var metadata = fileData.metadata;
+			var header = fileData.header;
 			// Replace <title>...</title> with one-off for homepage, because it doesn't show both Page & Site titles.
 			var titleBegin = header.indexOf('<title>') + "<title>".length;
 			var titleEnd = header.indexOf('</title>');
@@ -858,78 +865,56 @@ app.get('/tags/:tag', function (request, response) {
 
 // Month view
 app.get('/:year/:month', function (request, response) {
-	var path = postsRoot + request.params.year + '/' + request.params.month;
+	allPostsSortedAndGrouped(function (postsByDay) {
+		var seekingDay = new Date(request.params.year, request.params.month - 1);
 
-	var postsByDay = {};
+		var html = '<div class="center"><h1>' + seekingDay.format('{Month} {yyyy}') + "</h1></div>";
+		var anyFound = false;
+		postsByDay.each(function (day) {
+			var thisDay = new Date(day['date']);
+			if (thisDay.is(seekingDay.format('{Month} {yyyy}'))) {
+				anyFound = true;
 
-	qfs.listTree(path, function (name, stat) {
-		return name.endsWith('.md');
-	}).then(function (files) {
-		_.each(files, function (file) {
-			// Gather by day of month
-			var metadata = generateHtmlAndMetadataForFile(file)['metadata'];
-			var date = Date.create(metadata['Date']);
-			var dayOfMonth = date.getDate();
-			if (postsByDay[dayOfMonth] == undefined) {
-				postsByDay[dayOfMonth] = [];
+				html += "<h2>" + thisDay.format('{Weekday}, {Month} {d}') + "</h2><ul>";
+				day.articles.each(function (article) {
+					html += '<li><a href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
+				});
+				html += '</ul>';
 			}
+		});
 
-			postsByDay[dayOfMonth].push({title: metadata['Title'], date: date, url: externalFilenameForFile(file)});
-		 });
-
-		 var html = "";
-		 // Get the days of the month, reverse ordered.
-		 var orderedKeys = _.sortBy(Object.keys(postsByDay), function (key) { return parseInt(key); }).reverse();
-		 // For each day of the month...
-		 _.each(orderedKeys, function (key) {
-			 var day = new Date(request.params.year, request.params.month - 1, parseInt(key));
-			 html += "<h1>" + day.format('{Weekday}, {Month} {d}') + '</h1><ul>';
-			 _.each(postsByDay[key], function (post) {
-				 html += '<li><a href="' + post['url'] + '">' + post['title']  + '</a></li>';
-			 });
-			 html += '</ul>';
-		 });
-
-		 var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, "Day Listing");
-		 response.send(header + html + footerSource);
+		if (!anyFound) {
+			html += "<i>No posts found.</i>";
+		}
+		var header = headerSource.replace(
+			metadataMarker + 'Title' + metadataMarker,
+			seekingDay.format('{Month} {yyyy}') + '&mdash;' + siteMetadata.SiteTitle);
+			response.status(200).send(header + html + footerSource);
 	});
- });
+});
 
 // Day view
 app.get('/:year/:month/:day', function (request, response) {
-	var path = postsRoot + request.params.year + '/' + request.params.month + '/' + request.params.day;
+allPostsSortedAndGrouped(function (postsByDay) {
+	var seekingDay = new Date(request.params.year, request.params.month - 1, request.params.day);
 
-	// Get all the files in the directory
-	fs.readdir(path, function (error, files) {
-		if (error) {
-			response.send(400, {error: "This path doesn't exist."});
-			return;
-		}
+	postsByDay.each(function (day) {
+		var thisDay = new Date(day['date']);
+		if (thisDay.is(seekingDay)) {
 
-		var day = new Date(request.params.year, request.params.month - 1, request.params.day);
-		var html = "<h1>Posts from " + day.format('{Weekday}, {Month} {d}') + "</h1><ul>";
+			var html = "<h1>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h1><ul>";
+			day.articles.each(function (article) {
+				html += '<li><a href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
+			});
 
-		// Get all the data for each file
-		var postsToday = [];
-		files.each(function (file) {
-			postsToday.push(generateHtmlAndMetadataForFile(path + '/' + file));
+			var header = headerSource.replace(
+				metadataMarker + 'Title' + metadataMarker,
+				seekingDay.format('{Weekday}, {Month} {d}, {Year}'));
+				response.status(200).send(header + html + footerSource);
+			}
 		});
-
-		// Go ahead and sort...
-		postsToday = _.sortBy(postsToday, function (post) {
-			// ...by their post date and TIME...
-			return Date.create(post['metadata']['Date']);
-		}); // ...Oldest first.
-
-		postsToday.each(function (post) {
-			var title = post['metadata']['Title'];
-			html += '<li><a href="' + post['metadata']['relativeLink'] + '">' + post['metadata']['Title'] + '</a></li>';
-		});
-
-		var header = headerSource.replace(metadataMarker + 'Title' + metadataMarker, day.format('{Weekday}, {Month} {d}'));
-		response.send(header + html + footerSource);
 	})
- });
+});
 
 
 // Get a blog post, such as /2014/3/17/birthday
@@ -939,10 +924,10 @@ app.get('/:year/:month/:day/:slug', function (request, response) {
 });
 
 // Empties the cache.
-app.get('/tosscache', function (request, response) {
-	 emptyCache();
-	 response.send(205);
-});
+//	app.get('/tosscache', function (request, response) {
+//		emptyCache();
+//		response.send(205);
+//	});
 
 app.get('/count', function (request, response) {
 	console.log("/count");
@@ -966,20 +951,9 @@ app.get('/:slug', function (request, response) {
 		// If it's a year, handle that.
 	} else if (request.params.slug >= 2000) {
 		sendYearListing(request, response);
-		// If it's garbage (ie, a year less than 2013), send a 404.
 	} else {
 		send404(response, request.params.slug);
 	}
-/*
-	// If this is a typical slug, send the file
-	if (isNaN(request.params.slug)) {
-		var file = postsRoot + request.params.slug;
-		loadAndSendMarkdownFile(file, response);
-		// If it's a year, handle that.
-	} else {
-		sendYearListing(request, response);
-	}
-*/
 });
 
 /***************************************************
