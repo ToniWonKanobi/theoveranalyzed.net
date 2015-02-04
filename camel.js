@@ -280,7 +280,6 @@ function generateHtmlAndMetadataForFile(file) {
 		}
 		var body = lines['body'];
 
-		var html =  parseHtml(body, metadata, mheader, mfooter);
 		addRenderedPostToCache(file, {
 			metadata: metadata,
 			header: performMetadataReplacements(metadata, headerSource),
