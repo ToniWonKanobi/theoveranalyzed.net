@@ -220,18 +220,10 @@ function generateHtmlAndMetadataForFile(file) {
 	if (retVal == undefined) {
 		var lines = getLinesFromPost(file);
 		var metadata = parseMetadata(lines['metadata']);
-		if (metadata['Linked'] == 'Yes'){
-			metadata['relativeLink'] =  metadata['Link'];
-			metadata['permalink'] = externalFilenameForFile(file);
-			metadata['linked'] = 'linked';
-			metadata['LinkArrow'] = ' <span class="linkarrow">→</span>';
 
-		} else {
-			metadata['relativeLink'] = externalFilenameForFile(file);
-			metadata['permalink'] = metadata['relativeLink'];
-			metadata['linked'] = 'notLinked';
-			metadata['LinkArrow'] = '';
-		}
+		metadata['relativeLink'] = externalFilenameForFile(file);
+		metadata['permalink'] = metadata['relativeLink'];
+
 		if( metadata['HideHeader'] != 'true' ){
 			metadata['header'] = postHeaderTemplate(metadata);
 			metadata['footer'] = postFooterTemplate(metadata);

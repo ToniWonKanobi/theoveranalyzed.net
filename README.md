@@ -149,13 +149,12 @@ Any post that does not have a tag assigned to it will get grouped into the `Unca
 
 Currently, the `@@ Tags` tag only supports one tag to a time, this will change later, but right now, it's for singular tags in posts.
 
-### Linked Lists
+### Linked Posts
 
 If you want to make a post a linked post, then you would use the following metadata:
 
     @@ Title=Test Post
     @@ Date=2014-05 17:50
-	@@ Linked=Yes
 	@@ Link=http://datamcfly.com
 	
 

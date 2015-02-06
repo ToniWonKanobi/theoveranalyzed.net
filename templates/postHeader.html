@@ -1,5 +1,11 @@
 <header>
-	<h1><a class="post-title {{linked}}" href="{{relativeLink}}">{{Title}}</a>{{{LinkArrow}}}</h1>
+{{#if Link}}
+	<!--linked post-->
+	<h1><a class="post-title linked" href="{{Link}}">{{Title}}</a> <span class="linkarrow">→</span></h1>
+{{else}}
+	<!--not linked post-->
+	<h1><a class="post-title" href="{{relativeLink}}">{{Title}}</a></h1>
+{{/if}}
 	<div class="date">
 		<time class="time" dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time>
 		<a class="permalink" title="Permalink" href="{{permalink}}">∞</a>
