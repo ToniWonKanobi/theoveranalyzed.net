@@ -238,7 +238,22 @@ function generateHtmlAndMetadataForFile(file) {
 
 		if( metadata['Tags'] != undefined ){
 			var tag = String( metadata['Tags'] );
-			metadata['TaggedIn'] = '<p class="taggedIn"><span>Filed Under:</span> <a href="/tags/' + tag + '">' + tag.capitalize() + '</a></p>';
+//			metadata['TaggedIn'] = '<p class="taggedIn"><span>Filed Under:</span> <a href="/tags/' + tag + '">' + tag.capitalize() + '</a></p>';
+
+			var tagstr = '<p class="taggedIn"><span>Filed Under:</span> ';
+			var tags = tag.split(",");
+
+			var d = 1;
+			for( var i in tags ){
+				var tag = tags[i].trim();
+				tagstr += ' <a href="/tags/' + tag + '">' + tag.capitalize() + '</a>';
+				if( d < tags.length ){
+					tagstr += ',';
+				}
+				d++;
+			}
+			tagstr += '</p>';
+			metadata['TaggedIn'] = tagstr;
 		}else{
 			metadata['TaggedIn'] = '<p class="taggedIn"><span>Filed Under:</span> <a href="/tags/uncategorized">Uncategorized</a></p>';
 		}
@@ -811,16 +826,20 @@ app.get('/tags', function (request, response) {
 				if( !tag ){
 					tag = "uncategorized";
 				}
-				var date = Date.create( article['metadata']['Date']);
-				if (postsByTag[tag] == undefined) {
-					postsByTag[tag] = [];
+				var tags = tag.split(",");
+				for( var i in tags ){
+					var tag = tags[i].trim();
+					var date = Date.create( article['metadata']['Date']);
+					if (postsByTag[tag] == undefined) {
+						postsByTag[tag] = [];
+					}
+					anyFound = true;
+					postsByTag[tag].push({
+						title: article['metadata']['Title'], 
+						date: date, 
+						url: externalFilenameForFile( article['file'])
+					});
 				}
-				anyFound = true;
-				postsByTag[tag].push({
-					title: article['metadata']['Title'], 
-					date: date, 
-					url: externalFilenameForFile( article['file'])
-				});
 			});
 		});
 		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
@@ -854,17 +873,21 @@ app.get('/tags/:tag', function (request, response) {
 				if( !tag ){
 					tag = "uncategorized";
 				}
-				if( tag == thetag ){
-					var date = Date.create( article['metadata']['Date']);
-					if (postsByTag[tag] == undefined) {
-						postsByTag[tag] = [];
+				var tags = tag.split(",");
+				for( var i in tags ){
+					var tag = tags[i].trim();
+					if( tag == thetag ){
+						var date = Date.create( article['metadata']['Date']);
+						if (postsByTag[tag] == undefined) {
+							postsByTag[tag] = [];
+						}
+						anyFound = true;
+						postsByTag[tag].push({
+							title: article['metadata']['Title'], 
+							date: date, 
+							url: externalFilenameForFile( article['file'])
+						});
 					}
-					anyFound = true;
-					postsByTag[tag].push({
-						title: article['metadata']['Title'], 
-						date: date, 
-						url: externalFilenameForFile( article['file'])
-					});
 				}
 			});
 		});

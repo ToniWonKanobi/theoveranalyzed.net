@@ -147,7 +147,16 @@ Tags are useful for organizing posts.
 
 Any post that does not have a tag assigned to it will get grouped into the `Uncategorized` tag.
 
-Currently, the `@@ Tags` tag only supports one tag to a time, this will change later, but right now, it's for singular tags in posts.
+If you have a post in more than one tag, then separate the tag by a comma (,):
+
+    @@ Title=Test Post
+    @@ Date=2014-05 17:50
+    @@ Tags=stuff, more stuff
+	
+
+    This is a *test post* entitled "@@Title@@".
+
+This will display a list of tags for the post to use.
 
 ### Linked Posts
 
