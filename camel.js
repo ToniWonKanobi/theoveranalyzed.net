@@ -43,6 +43,7 @@ var headerSource = undefined;
 var footerSource = null;
 var postHeaderTemplate = null;
 var postFooterTemplate = null;
+var rssFooterTemplate = null;
 var siteMetadata = {};
 
 /***************************************************
@@ -61,6 +62,9 @@ function init() {
 		});
 	});
 	loadHeaderFooter('footer.html', function (data) { footerSource = data; });
+	loadHeaderFooter('rssFooter.html', function (data) {
+		rssFooterTemplate = Handlebars.compile(data);
+	});
 	loadHeaderFooter('postHeader.html', function (data) {
 		Handlebars.registerHelper('formatPostDate', function (date) {
 			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
@@ -262,8 +266,8 @@ function generateHtmlAndMetadataForFile(file) {
 		}
 
 		if( metadata['HideHeader'] != 'true' ){
-			var mheader = postHeaderTemplate(metadata);
-			var mfooter = postFooterTemplate(metadata);
+			var mheader = performMetadataReplacements(metadata, postHeaderTemplate(metadata) );
+			var mfooter = performMetadataReplacements(metadata, postFooterTemplate(metadata) );
 //			lines['body'] = lines['body'] + '<div class="fin">~&bull;~</div>';
 		}else{
 			var mheader = '';
@@ -278,6 +282,7 @@ function generateHtmlAndMetadataForFile(file) {
 			header: performMetadataReplacements(metadata, headerSource),
 			postHeader:  mheader,
 			postFooter:  mfooter,
+			rssFooter: performMetadataReplacements(metadata, rssFooterTemplate(metadata)),			
 			cleanBody: performMetadataReplacements(metadata, markdownit.render(lines['body'])),
 			unwrappedBody: performMetadataReplacements(metadata, markdownit.render(lines['body']))+"\n"+metadata['TaggedIn'],
 			html: function () {
@@ -774,7 +779,7 @@ app.get('/rss', function (request, response) {
 							// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
 							date: new Date(article['metadata']['Date']).addHours(utcOffset),
 							url: externalFilenameForFile(article['file'], request),
-							description: article['cleanBody'].replace(/<script[\s\S]*?<\/script>/gm, "")
+							description: article['cleanBody'].replace(/<script[\s\S]*?<\/script>/gm, "").concat( article['rssFooter'] )
 						});
 					}
 				});
