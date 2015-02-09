@@ -916,16 +916,22 @@ app.get('/rss', function (request, response) {
 		// the post's URL if not a link post.
 		var getPostUrl = function(article) {
 			if (typeof(article['metadata']['Link']) !== 'undefined') {
-//				return article['metadata']['Link'];
+				return article['metadata']['Link'];
 			}
 			return externalFilenameForFile(article['file'], request);
 		};
 
 		var max = 10;
 		var i = 0;
+
 		allPostsSortedAndGrouped(function (postsByDay) {
 			postsByDay.forEach(function (day) {
 				day['articles'].forEach(function (article) {
+					var tags = '';
+					if( article['metadata']['Tags'] != undefined ){
+						var tag = String( article['metadata']['Tags'] );
+						var tags = tag.split(",");
+					}
 					if (i < max) {
 						++i;
 						feed.item({
@@ -933,6 +939,8 @@ app.get('/rss', function (request, response) {
 							// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
 							date: new Date(article['metadata']['Date']).addHours(utcOffset),
 							url: getPostUrl(article),
+							author: 'Roger Stringer',
+							categories: tags,
 							description: article['cleanBody'].replace(/<script[\s\S]*?<\/script>/gm, "").concat( article['rssFooter'] )
 						});
 					}
@@ -944,10 +952,10 @@ app.get('/rss', function (request, response) {
 				rss: feed.xml()
 			};
 
-			response.send(renderedRss['rss']);
+			response.send( renderedRss['rss'] );
 		});
 	} else {
-		response.send(renderedRss['rss']);
+		response.send( renderedRss['rss'] );
 	}
 });
 
