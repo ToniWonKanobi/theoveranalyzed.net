@@ -226,25 +226,29 @@ function generateHtmlAndMetadataForFile(file) {
 			metadata.footer = '';
 		}
 		
-		if (typeof(metadata.Tags) !== 'undefined') {
+		if ( typeof(metadata.Tags) !== 'undefined') {
 			var tag = String( metadata.Tags );
 //			metadata.TaggedIn = '<p class="taggedIn"><span>Filed Under:</span> <a href="/tags/' + tag + '">' + tag.capitalize() + '</a></p>';
 			var tagstr = '<p class="taggedIn"><span>Filed Under:</span> ';
 			var tags = tag.split(",");
-
+			var hashtags = '';
 			var d = 1;
 			for( var i in tags ){
 				var tag = tags[i].trim();
 				tagstr += ' <a href="/tags/' + tag + '">' + tag.capitalize() + '</a>';
+				hashtags += tag;
 				if( d < tags.length ){
 					tagstr += ',';
+					hashtags += ',';
 				}
 				d++;
 			}
 			tagstr += '</p>';
+			metadata.hashtags = hashtags;
 			metadata.TaggedIn = tagstr;
 		}else{
 			metadata.TaggedIn = '<p class="taggedIn"><span>Filed Under:</span> <a href="/tags/uncategorized">Uncategorized</a></p>';
+			metadata.hashtags = '';
 		}
 
 		if( metadata.permalink == '/index' ){
@@ -411,107 +415,6 @@ function allPostsSortedAndGrouped(completion) {
 }
 
 function tweetLatestPost() {
-	if (twitterClient !== null && typeof(process.env.TWITTER_CONSUMER_KEY) !== 'undefined') {
-		twitterClient.get('statuses/user_timeline', {screen_name: twitterUsername}, function (error, tweets) {
-			if (error) {
-				console.log(JSON.stringify(error, undefined, 2));
-				return;
-			}
-
-			var lastUrl = null, i = 0;
-			while (lastUrl === null && i < tweets.length) {
-				if (tweets[i].source.has(twitterClientNeedle) &&
-					tweets[i].entities &&
-					tweets[i].entities.urls) {
-					lastUrl = tweets[i].entities.urls[0].expanded_url;
-				} else {
-					i += 1;
-				}
-			}
-
-			allPostsSortedAndGrouped(function (postsByDay) {
-				var latestPost = postsByDay[0].articles[0];
-				var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink;
-
-				if (lastUrl !== link) {
-					console.log('Tweeting new link: ' + link);
-
-					var params = {
-						status: latestPost.metadata.Title + '\n\n' + link
-					};
-					twitterClient.post('statuses/update', params, function (error, tweet, response) {
-							if (error) {
-								console.log(JSON.stringify(error, undefined, 2));
-								throw error;
-							}
-					});
-				} else {
-					console.log('Twitter is up to date.');
-				}
-			});
-		});
-	}
-}
-
-function loadHeaderFooter(file, completion) {
-	fs.exists(templateRoot + file, function(exists) {
-		if (exists) {
-			fs.readFile(templateRoot + file, {encoding: 'UTF8'}, function (error, data) {
-				if (!error) {
-					completion(data);
-				}
-			});
-		}
-	});
-}
-
-// Empties the caches.
-function emptyCache() {
-	console.log('Emptying the cache.');
-	renderedPosts = {};
-	renderedRss = {};
-	allPostsSortedGrouped = {};
-
-	tweetLatestPost();
-}
-
-function init() {
-	loadHeaderFooter('defaultTags.html', function (data) {
-		// Note this comes in as a flat string; split on newlines for parsing metadata.
-		siteMetadata = parseMetadata(data.split('\n'));
-
-		// This relies on the above, so nest it.
-		loadHeaderFooter('header.html', function (data) {
-			headerSource = performMetadataReplacements(siteMetadata, data);
-		});
-	});
-	loadHeaderFooter('footer.html', function (data) { footerSource = data; });
-	loadHeaderFooter('rssFooter.html', function (data) {
-		rssFooterTemplate = Handlebars.compile(data);
-	});
-	loadHeaderFooter('postHeader.html', function (data) {
-		Handlebars.registerHelper('formatPostDate', function (date) {
-			return new Handlebars.SafeString(new Date(date).format('{Weekday}, {d} {Month} {yyyy}'));
-		});
-		Handlebars.registerHelper('formatIsoDate', function (date) {
-			return new Handlebars.SafeString(typeof(date) !== 'undefined' ? new Date(date).iso() : '');
-		});
-		postHeaderTemplate = Handlebars.compile(data);
-	});
-
-	// Kill the cache every 30 minutes.
-	setInterval(emptyCache, cacheResetTimeInMillis);
-
-	tweetLatestPost();
-}
-
-// Gets the rendered HTML for this file, with header/footer.
-function generateHtmlForFile(file) {
-	var fileData = generateHtmlAndMetadataForFile(file);
-	return fileData.html();
-}
-
-function tweetLatestPost() {
 	if (twitterClient != null && process.env.TWITTER_CONSUMER_KEY != null) {
 		twitterClient.get('statuses/user_timeline', {screen_name: twitterUsername}, function(error, tweets, response){
 			if (error) {
@@ -551,6 +454,7 @@ function tweetLatestPost() {
 						}
 						post_title += tagstr;
 					}
+
 					post_title += '\n\n' + link;
 
 					var params = {
