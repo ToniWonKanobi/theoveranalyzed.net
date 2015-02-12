@@ -509,7 +509,6 @@ function emptyCache() {
 }
 
 function init() {
-	// This relies on the above, so nest it.
 	loadHeaderFooter('header.html', function (data) {
 		headerSource = performMetadataReplacements(siteMetadata, data);
 	});
