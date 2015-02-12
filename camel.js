@@ -48,8 +48,7 @@ var footnoteAnchorRegex = /[#"]fn\d+/g;
 var footnoteIdRegex = /fnref\d+/g;
 var utcOffset = 5;
 var cacheResetTimeInMillis = 1800000;
-var twitterUsername = 'caseylisscom';
-var twitterClientNeedle = 'Camel Spitter';
+
 
 //	set your twitter information...
 var twitterUsername = 'yourusername';
@@ -450,9 +449,13 @@ function tweetLatestPost() {
 			
 						for( var i in tags ){
 							var tag = tags[i].trim();
-							tagstr += ' #' + tag.capitalize();
+							if( tag !== 'links' ){
+								tagstr += ' #' + tag.capitalize();
+							}
 						}
-						post_title += tagstr;
+						if( tagstr !== '' ){
+							post_title += tagstr;
+						}
 					}
 
 					post_title += '\n\n' + link;
