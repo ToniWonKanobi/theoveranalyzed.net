@@ -38,12 +38,14 @@ and used from that point forward.
 1. Install [Node][n] & [npm][npm]
 2. Clone the repository
 3. Get all the dependencies using NPM: `npm install`
-4. `node ./camel.js`
+4. Open up `config.js` and set your site info.
+5. `node ./camel.js`
 
 [npm]: https://www.npmjs.org/
 
 ## Configuration
 
+* Open up `config.js` and enter your site info.
 * There's a group of "statics" near the top of the file
 * The parameters in the `/rss` route will need to be modified
 * The headers/footers:
@@ -77,11 +79,13 @@ To use Camel, the following files are required:
     Root
       +-- camel.js
       |   Application entry point
+      +-- config.js
+      |   Application config file
       +-- package.json
       |   Node package file
       +-- templates/
       |     +-- defaultTags.html
-      |     |   Site-level default , such as the site title
+      |     |   Site-level default , such as the site title, decprecated for `config.js`
       |     +-- header.html
       |     |   Site header (top of every page)
       |     +-- footer.html
@@ -242,10 +246,12 @@ To enable, specify four environment variables to correspond to those Twitter iss
 * `TWITTER_ACCESS_TOKEN`
 * `TWITTER_TOKEN_SECRET`
 
-Additionally, a couple of variables up at the top of the file need to be set:
+Additionally, a couple of variables up at the top of the file need to be set inside `config.js`:
 
 * `twitterUsername` - the username of the Twitter account that will be tweeted from.
 * `twitterClientNeedle` - a portion of the client's name
+
+These variables are located inside the `config.js` file.
 
 Upon startup, and when the caches are cleaned, Camel will look at the most recent tweets
 by the account in question by the app with a name that contains `twitterClientNeedle`. It
@@ -315,6 +321,7 @@ Should you happen to use Camel, I'd love to know. Please [contact me][co].
 Our own changes:
 
 * Post tagging
+* Added config.js so you are changing camel.js less for each site.
 * Broke out the templates in index.md to separate files inside the templates folder
 * sitemap.xml support
 * Featured Image support

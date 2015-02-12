@@ -16,6 +16,8 @@ var markdownit = require('markdown-it')({
 }).use(require('markdown-it-footnote'));
 var Rss = require('rss');
 var Handlebars = require('handlebars');
+
+var config = require('./config');
 var version = require('./package.json').version;
 var Twitter = require('twitter');
 
@@ -51,8 +53,8 @@ var cacheResetTimeInMillis = 1800000;
 
 
 //	set your twitter information...
-var twitterUsername = 'yourusername';
-var twitterClientNeedle = 'your_app_needle';
+var twitterUsername = config.Social.autoTweets.twitterUsername;
+var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
 
 var renderedPosts = {};
 var renderedRss = {};
@@ -72,6 +74,14 @@ var postBodyStartTemplate = null;
 var postBodyEndTemplate = null;
 
 var siteMetadata = {};
+siteMetadata.SiteUrl = config.Site.Url;
+siteMetadata.SiteRoot = config.Site.Url;
+siteMetadata.SiteTitle = config.Site.Title;
+siteMetadata.Twitter = config.Social.Twitter;
+siteMetadata.siteAbout = config.Site.About;
+siteMetadata.siteAuthor = config.Site.Author;
+siteMetadata.DefaultImage = config.Site.DefaultImage;
+
 
 /***************************************************
  * HELPER METHODS								  *
@@ -319,21 +329,6 @@ function generateHtmlAndMetadataForFile(file) {
 	return fetchFromCache(file);
 }
 
-// Gets the metadata for this file
-function generateMetadataForFile(file) {
-	return generateHtmlAndMetadataForFile(file)['metadata'];
-}
-
-
-// Gets the body HTML for this file, no header/footer.
-function generateBodyHtmlForFile(file) {
-	var parts = getLinesFromPost(file);
-	var body = markdownit.render(parts['body']);
-	var metadata = parseMetadata(parts['metadata']);
-	metadata.relativeLink = externalFilenameForFile(file);
-	return body;
-}
-
 // Gets the external link for this file. Relative if request is
 // not specified. Absolute if request is specified.
 function externalFilenameForFile(file, request) {
@@ -514,14 +509,9 @@ function emptyCache() {
 }
 
 function init() {
-	loadHeaderFooter('defaultTags.html', function (data) {
-		// Note this comes in as a flat string; split on newlines for parsing metadata.
-		siteMetadata = parseMetadata(data.split('\n'));
-
-		// This relies on the above, so nest it.
-		loadHeaderFooter('header.html', function (data) {
-			headerSource = performMetadataReplacements(siteMetadata, data);
-		});
+	// This relies on the above, so nest it.
+	loadHeaderFooter('header.html', function (data) {
+		headerSource = performMetadataReplacements(siteMetadata, data);
 	});
 
 	loadHeaderFooter('footer.html', function (data) { footerSource = data; });
@@ -733,9 +723,9 @@ function sendYearListing(request, response) {
 
 		var replacements = {};
 		replacements.Title = 'Posts for ' + request.params.slug;
-		replacements.canonicalLink = siteMetadata.SiteRoot + '/' + request.params.slug;
+		replacements.canonicalLink = config.Site.Url + '/' + request.params.slug;
 		replacements.ogtype = 'website';
-		replacements.PostImage = siteMetadata.DefaultImage;
+		replacements.PostImage = config.Site.DefaultImage;
 
 		var header = performMetadataReplacements(replacements, headerSource);
 		header = header.replace(
@@ -862,8 +852,8 @@ app.get('/', function (request, response) {
 
 app.get('/sitemap.xml', function (request, response) {
 	// this is the source of the URLs on your site, in this case we use a simple array, actually it could come from the database
-	var urls = ['/','/about'];
-	var root_path = 'http://yoursite.com';
+	var urls = ['/','/about','/tags'];
+
 	// XML sitemap generation starts here
 	var priority = 0.6;
 	var freq = 'weekly';
@@ -878,7 +868,7 @@ app.get('/sitemap.xml', function (request, response) {
 	sitemap += "\n";
 	for (var i in urls) {
 		sitemap += '<url>' + "\n";
-		sitemap += "\t" + '<loc>'+ root_path + urls[i] + '</loc>' + "\n";
+		sitemap += "\t" + '<loc>'+ config.Site.Url + urls[i] + '</loc>' + "\n";
 		sitemap += "\t" + '<lastmod>' + lastmod + '</lastmod>' + "\n";
 		if( i == 0 ){
 			sitemap += "\t" + '<changefreq>daily</changefreq>' + "\n";
@@ -903,10 +893,9 @@ app.get('/sitemap.xml', function (request, response) {
 				sitemap += "\t" + '<lastmod>' + lastmod + '</lastmod>' + "\n";
 				sitemap += "\t" + '<changefreq>'+ freq +'</changefreq>' + "\n";
 				sitemap += "\t" + '<priority>'+ priority +'</priority>' + "\n";
-				if( article['metadata']['FeaturedImage']  != undefined ){
-//					metadata.PostImage = metadata.FeaturedImage;
+				if( article.metadata.FeaturedImage  != undefined ){
 					sitemap += "\t" + '<image:image>' + "\n";
-					sitemap += "\t" + "\t" + '<image:loc>' + article['metadata']['FeaturedImage'] + '</image:loc>' + "\n";
+					sitemap += "\t" + "\t" + '<image:loc>' + article.metadata.FeaturedImage + '</image:loc>' + "\n";
 					sitemap += "\t" + '</image:image>' + "\n";
 				}
 				sitemap += '</url>';
@@ -924,14 +913,14 @@ app.get('/rss', function (request, response) {
 	response.header('Content-Type', 'application/rss+xml');
 	if (renderedRss['date'] == undefined || new Date().getTime() - renderedRss['date'].getTime() > 3600000) {
 		var feed = new Rss({
-			title: siteMetadata['SiteTitle'],
-			description: 'Posts to ' + siteMetadata['SiteTitle'],
-            feed_url: 'http://www.yoursite.com/rss',
-            site_url: 'http://www.yoursite.com',
-            author: 'Your Name',
-            webMaster: 'Your Name',
-            copyright: '2013-' + new Date().getFullYear() + ' Your Name',
-            image_url: 'http://www.yoursite.com/images/favicon.png',
+			title: config.Site.Title,
+			description: 'Posts to ' + config.Site.Title,
+            feed_url: config.Site.Url+'/rss',
+            site_url: config.Site.Url,
+            author: config.Site.Author,
+            webMaster: config.Site.Author,
+            copyright: '2013-' + new Date().getFullYear() + ' ' + config.Site.Author,
+            image_url: config.Site.DefaultImage,
 			language: 'en',
 			//categories: ['Category 1','Category 2','Category 3'],
 			pubDate: new Date().toString(),
@@ -994,14 +983,14 @@ app.get('/rss2', function (request, response) {
 	response.header('Content-Type', 'application/rss+xml');
 	if (renderedRss2['date'] == undefined || new Date().getTime() - renderedRss2['date'].getTime() > 3600000) {
 		var feed = new Rss({
-			title: siteMetadata['SiteTitle'],
-			description: 'Posts to ' + siteMetadata['SiteTitle'],
-			feed_url: 'http://yoursite.com/rss2',
-			site_url: 'http://yoursite.com',
-			author: 'Your Name',
-			webMaster: 'Your Name',
-			copyright: '2015 -' + new Date().getFullYear() + ' Your Name',
-			image_url: 'http://yoursite.com/media/logo.png',
+			title: config.Site.Title,
+			description: 'Posts to ' + config.Site.Title,
+            feed_url: config.Site.Url+'/rss',
+            site_url: config.Site.Url,
+            author: config.Site.Author,
+            webMaster: config.Site.Author,
+            copyright: '2013-' + new Date().getFullYear() + ' ' + config.Site.Author,
+            image_url: config.Site.DefaultImage,
 			language: 'en',
 			//categories: ['Category 1','Category 2','Category 3'],
 			pubDate: new Date().toString(),
@@ -1105,10 +1094,10 @@ app.get('/tags', function (request, response) {
 		retVal += performMetadataReplacements([], singleFooterTemplate([]) );
 
 		var replacements = {};
-		replacements.Title = 'Pots by Tags';
-		replacements.canonicalLink = siteMetadata.SiteRoot + '/tags/';
+		replacements.Title = 'Posts by Tags';
+		replacements.canonicalLink = config.Site.Url + '/tags/';
 		replacements.ogtype = 'website';
-		replacements.PostImage = siteMetadata.DefaultImage;
+		replacements.PostImage = config.Site.DefaultImage;
 
 		var header = performMetadataReplacements(replacements, headerSource);
 		header = header.replace(
@@ -1172,9 +1161,9 @@ app.get('/tags/:tag', function (request, response) {
 
 		var replacements = {};
 		replacements.Title = thetag.capitalize() + ' Archives';
-		replacements.canonicalLink = siteMetadata.SiteRoot + '/tags/' + thetag;
+		replacements.canonicalLink = config.Site.Url + '/tags/' + thetag;
 		replacements.ogtype = 'website';
-		replacements.PostImage = siteMetadata.DefaultImage;
+		replacements.PostImage = config.Site.DefaultImage;
 
 		var header = performMetadataReplacements(replacements, headerSource);
 		header = header.replace(
@@ -1219,14 +1208,14 @@ app.get('/:year/:month', function (request, response) {
 
 		var replacements = {};
 		replacements.Title = seekingDay.format('{Month} {yyyy}');
-		replacements.canonicalLink = siteMetadata.SiteRoot + '/' + request.params.year + '/' + request.params.month;
+		replacements.canonicalLink = config.Site.Url + '/' + request.params.year + '/' + request.params.month;
 		replacements.ogtype = 'website';
-		replacements.PostImage = siteMetadata.DefaultImage;
+		replacements.PostImage = config.Site.DefaultImage;
 
 		var header = performMetadataReplacements(replacements, headerSource);
 		header = header.replace(
 			metadataMarker + 'Title' + metadataMarker,
-			seekingDay.format('{Month} {yyyy}') + '&mdash;' + siteMetadata.SiteTitle
+			seekingDay.format('{Month} {yyyy}') + '&mdash;' + config.Site.Title
 		);
 		response.status(200).send(header + html + footerSource);
 	});
@@ -1262,9 +1251,9 @@ app.get('/:year/:month/:day', function (request, response) {
 
 				var replacements = {};
 				replacements.Title = seekingDay.format('{Weekday}, {Month} {d}, {Year}');
-				replacements.canonicalLink = siteMetadata.SiteRoot + '/' + request.params.year + '/' + request.params.month + '/' + request.params.day;
+				replacements.canonicalLink = config.Site.Url + '/' + request.params.year + '/' + request.params.month + '/' + request.params.day;
 				replacements.ogtype = 'website';
-				replacements.PostImage = siteMetadata.DefaultImage;
+				replacements.PostImage = config.Site.DefaultImage;
 		
 				var header = performMetadataReplacements(replacements, headerSource);
 				header = header.replace(
