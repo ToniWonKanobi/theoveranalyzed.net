@@ -18,7 +18,7 @@ More specifically, the design goals were:
 * Basic metadata, stored in each file
 * Basic templating, with a site header/footer and post header stored separately from content
 * Extremely quick performance, by caching rendered HTML output
-* Support RSS
+* Support for a RSS feed
 
 [m]: http://daringfireball.net/projects/markdown
 
@@ -45,8 +45,8 @@ and used from that point forward.
 ## Configuration
 
 * There's a group of "statics" near the top of the file
-* The parameters in the `/rss` route will need to be modified.
-* The headers/footer:
+* The parameters in the `/rss` route will need to be modified
+* The headers/footers:
     * `header.html` - site header; shown at the top of every page
     * `footer.html` - site footer; shown at the bottom of every page
     * `default.html` - default metadata; merged with page metadata (page wins)
@@ -61,9 +61,12 @@ and used from that point forward.
     * `singleFooter.html` - wrapper for posts, called after `postFooter` or `pageFooter`
     * `postBodyStart.html` - wrapper for post content, called after `postHeader` or `pageHeader`
     * `postBodyEnd.html` - wrapper for post content, called before `postFooter` or `pageFooter`
+    * `rssFooter.html` - RSS footer; intended to only show anything on the bottom of
+       link posts in RSS, but is appended to all RSS entries.
 
 * It's worth noting there are some [Handlebars][hb] templates in use:
-    * `postHeader.html` - Placed on every post between the site header and post content
+	* `postHeader.html` - Placed on every post between the site header and post content
+* If you'd like to have Camel post to Twitter, you need to set four environment variables (see below)
 
 [hb]: http://handlebarsjs.com/
 
@@ -105,7 +108,9 @@ To use Camel, the following files are required:
       |     +-- PostBodyEnd.html
       |     |   Display after post content and before `postFooter`
       |     +-- FooterTemplate.html
-      |         Page footer, used to render pagination
+      |     |   Page footer, used to render pagination
+      |     +-- rssFooter.html
+      |         RSS footer (at the end of every RSS item)
       +-- public/
       |     +-- Any static files, such as images/css/javascript/etc.
       +-- posts/
@@ -142,6 +147,26 @@ For each post, metadata is specified at the top, and can be leveraged in the bod
     
 The title and date are required. Any other metadata is optional.
 
+### Link Posts
+
+As of version 1.3, link posts are supported. To create a link post, simply add a `Link`
+metadata item:
+
+    @@ Title=Sample Link Post
+    @@ Date=2015-02-06 12:00
+    @@ Link=http://www.vt.edu/
+
+    This is a sample *link* post.
+
+The presence of a `Link` metadata item indicates this is a link post. The formatting for
+link and non-link post headers is controlled by the `postHeader.html` template.
+
+In the RSS feed, the link for a link post is the *external* link. Thus, `rssFooter.html`
+is used to add a permalink to the Camel site at the bottom of each link post. It is
+important to note that this footer is shown on *every* post; it is up to the footer to
+decide whether or not to show anything for the post in question. The example included in
+this repo behaves as intended.
+
 
 ### Tagged Posts
 
@@ -177,22 +202,9 @@ If you have a post in more than one tag, then separate the tag by a comma (,):
 
 This will display a list of tags for the post to use.
 
-### Linked Posts
-
-If you want to make a post a linked post, then you would use the following metadata:
-
-    @@ Title=Test Post
-    @@ Date=2014-05 17:50
-	@@ Link=http://datamcfly.com
-	
-
-    This is a *test post* entitled "@@Title@@".
-
-This would tell Camel to treat the post as a linked post.
-
 ### Hide the post header and post footer
 
-If you want a post to not display the `postHeader` and `postFooter` templates, you can add the following metadata:
+If you want a post to not display the `postHeader` and `postFooter` (or `pageHeader`) templates, you can add the following metadata:
 
 	@@ Title=About Page
 	@@ BodyClass=post
@@ -200,6 +212,47 @@ If you want a post to not display the `postHeader` and `postFooter` templates, y
 	
 	This is a sample about page, that can be accessed via `/about`.
 
+
+### Redirects
+
+As of version 1.1, redirects are supported. To do so, a specially formed file is placed
+in the `posts/` tree. The file should have two lines; the first should be the status code
+of the redirect ([301][301] or [302][302]). The second line should be the target URL.
+
+Suppose you wanted to redirect `/2014/12/10/source` to `/2014/12/10/destination`. You will
+add the file `/posts/2014/12/10/source.redirect`; it will contain the following:
+
+    302
+    /2014/12/10/destination
+
+Redirects to both internal and external URLs are supported. Providing an invalid status
+code will result in that status code being used blindly, so tread carefully.
+
+[301]: http://en.wikipedia.org/wiki/HTTP_301
+[302]: http://en.wikipedia.org/wiki/HTTP_302
+
+### Automatic tweets
+
+As of version 1.4, Camel can automatically tweet when a new post is discovered. This
+requires a custom app to be set up for your blog; you can set this up [at Twitter][tdev].
+To enable, specify four environment variables to correspond to those Twitter issues:
+
+* `TWITTER_CONSUMER_KEY`
+* `TWITTER_CONSUMER_SECRET`
+* `TWITTER_ACCESS_TOKEN`
+* `TWITTER_TOKEN_SECRET`
+
+Additionally, a couple of variables up at the top of the file need to be set:
+
+* `twitterUsername` - the username of the Twitter account that will be tweeted from.
+* `twitterClientNeedle` - a portion of the client's name
+
+Upon startup, and when the caches are cleaned, Camel will look at the most recent tweets
+by the account in question by the app with a name that contains `twitterClientNeedle`. It
+will look to see the most recent URL tweeted. If the URL does not match the most recent
+post's URL, then a tweet is fired off.
+
+[tdev]: https://apps.twitter.com
 
 # Quirks
 
@@ -239,14 +292,19 @@ Pagination is only necessary on the homepage, and page numbers are 1-based. Page
 
 # Status
 
-Camel is functional, and is presently running [www.caseyliss.com][c]. It could probably stand
-to be cleaned up a little bit, but it is considered feature complete.
+Camel is functional, and is presently running [www.caseyliss.com][c]. There are lots of
+features that probably *could* be added, but none that I'm actively planning.
 
 [c]: http://www.caseyliss.com/
+
+Please update this file & issue a pull request if you'd like your site featured here.
 
 # License
 
 Camel is MIT-Licensed.
+
+I'd appreciate it you provided a link back to either this repository, or [my website][c],
+on any sites that run Camel.
 
 Should you happen to use Camel, I'd love to know. Please [contact me][co].
 
