@@ -7,7 +7,7 @@
 This is a slightly modified version that is used on the [Data McFly Blog](http://blog.datamcfly.com). Some of the changes we've made include:
 
 * Added a `/sitemap.xml` route
-* Added Linked List support
+* Added support for tagging posts, to help better organize posts.
 * Separated some templates from index.md into their own individual files, just to make it easier to manage the blog's layout.
 
 # Design Goals
@@ -55,6 +55,12 @@ and used from that point forward.
 	* `DayTemplate.html` - used to render a day
     * `ArticlePartial.html` – used to render a single article in a day
     * `FooterTemplate.html` - used to render pagination
+    * `pageHeader.html` - used to render page headers on pages
+    * `pageFooter.html` - used to render page footer
+    * `singleHeader.html` - wrapper for posts, called before `postHeader` or `pageHeader`
+    * `singleFooter.html` - wrapper for posts, called after `postFooter` or `pageFooter`
+    * `postBodyStart.html` - wrapper for post content, called after `postHeader` or `pageHeader`
+    * `postBodyEnd.html` - wrapper for post content, called before `postFooter` or `pageFooter`
 
 * It's worth noting there are some [Handlebars][hb] templates in use:
     * `postHeader.html` - Placed on every post between the site header and post content
@@ -83,20 +89,21 @@ To use Camel, the following files are required:
       |     |   Post footer (bottom of every post, displayed only on post single, after the post content. Handlebars template.)
       |     +-- pageHeader.html
       |     |   Page header (top of every page, after the site header. Handlebars template.)
+      |     |   Called if `HideHeader` is set to `false`, and `BodyClass` is set to `post`
       |     +-- pageFooter.html
       |     |   Page footer (bottom of every page, displayed only on page single, after the post content. Handlebars template.)
       |     +-- DayTemplate.html
       |     |   The day loop, Used to render a day
       |     +-- ArticlePartial.html
-      |     |   Single article listing, used to render a single article in a day
-      |     +-- PostBodyStart.html
-      |     |   Display after `postHeader` and before post content
-      |     +-- PostBodyEnd.html
-      |     |   Display after post content and before `postFooter`
+      |     |   Single article listing, used to render a single article in a day loop
       |     +-- singleHeader.html
       |     |   Single article entry (before the start of any article or page. Handlebars template.)
       |     +-- singleFooter.html
       |     |   Single article entry end (at the end of any article or page. Handlebars template.)
+      |     +-- PostBodyStart.html
+      |     |   Display after `postHeader` and before post content
+      |     +-- PostBodyEnd.html
+      |     |   Display after post content and before `postFooter`
       |     +-- FooterTemplate.html
       |         Page footer, used to render pagination
       +-- public/
@@ -250,13 +257,18 @@ Should you happen to use Camel, I'd love to know. Please [contact me][co].
 Our own changes:
 
 * Post tagging
-* Linked posts
 * Broke out the templates in index.md to separate files inside the templates folder
 * sitemap.xml support
 * Featured Image support
 
 Casey's changes:
 
+* __1.4.1__ Refactored to satisfy [JSLint](http://jslint.it). Fixed issue where a day that
+  only had a redirect in it caused duplicate day breaks to show on the homepage.
+* __1.4.0__ Added support for auto-tweeting.
+* __1.3.1__ Updated RSS feed such that link posts open the external link, and have a
+  "Permalink" to the site is shown at the bottom of the post.
+* __1.3.0__ Added link posts.
 * __1.2.1__ Significant cleanup/restructuring. Now less embarrassing! Removal of lots of
 similar-sounding functions and more liberal use of data that we've already collected in
 `allPostsSortedAndGrouped()`.

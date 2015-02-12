@@ -14,12 +14,12 @@ var markdownit = require('markdown-it')({
 	xhtmlOut: true,
 	typographer: true
 }).use(require('markdown-it-footnote'));
-var rss = require('rss');
+var Rss = require('rss');
 var Handlebars = require('handlebars');
 var version = require('./package.json').version;
-var twitter = require('twitter');
+var Twitter = require('twitter');
 
-var twitterClient = new twitter({
+var twitterClient = new Twitter({
 	consumer_key: process.env.TWITTER_CONSUMER_KEY,
 	consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
 	access_token_key: process.env.TWITTER_ACCESS_TOKEN,
@@ -29,6 +29,10 @@ var twitterClient = new twitter({
 var app = express();
 app.use(compress());
 app.use(express.static("public"));
+app.use(function (request, response, next) {
+ 	response.header('X-powered-by', 'Camel (https://github.com/cliss/camel)');
+ 	next();
+ });
 var server = http.createServer(app);
 
 
@@ -52,8 +56,9 @@ var twitterClientNeedle = 'your_app_needle';
 
 var renderedPosts = {};
 var renderedRss = {};
+var renderedRss2 = {};
 var allPostsSortedGrouped = {};
-var headerSource = undefined;
+var headerSource;
 var footerSource = null;
 
 var pageHeaderTemplate = null;
@@ -73,169 +78,9 @@ var siteMetadata = {};
  ***************************************************/
 
 
-function init() {
-	loadHeaderFooter('defaultTags.html', function (data) {
-		// Note this comes in as a flat string; split on newlines for parsing metadata.
-		siteMetadata = parseMetadata(data.split('\n'));
-
-		// This relies on the above, so nest it.
-		loadHeaderFooter('header.html', function (data) {
-			headerSource = performMetadataReplacements(siteMetadata, data);
-		});
-	});
-
-	loadHeaderFooter('footer.html', function (data) { footerSource = data; });
-	loadHeaderFooter('rssFooter.html', function (data) {
-		rssFooterTemplate = Handlebars.compile(data);
-	});
-
-	loadHeaderFooter('singleHeader.html', function (data) {
-		singleHeaderTemplate = Handlebars.compile(data);
-	});
-	loadHeaderFooter('singleFooter.html', function (data) {
-		singleFooterTemplate = Handlebars.compile(data);
-	});
-
-	loadHeaderFooter('postBodyStart.html', function (data) {
-		postBodyStartTemplate = Handlebars.compile(data);
-	});
-	loadHeaderFooter('postBodyEnd.html', function (data) {
-		postBodyEndTemplate = Handlebars.compile(data);
-	});
-
-
-	loadHeaderFooter('pageHeader.html', function (data) {
-		Handlebars.registerHelper('formatPostDate', function (date) {
-			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
-		});
-		Handlebars.registerHelper('formatIsoDate', function (date) {
-			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
-		});
-		pageHeaderTemplate = Handlebars.compile(data);
-	});
-	loadHeaderFooter('postHeader.html', function (data) {
-		Handlebars.registerHelper('formatPostDate', function (date) {
-			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
-		});
-		Handlebars.registerHelper('formatIsoDate', function (date) {
-			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
-		});
-		postHeaderTemplate = Handlebars.compile(data);
-	});
-	loadHeaderFooter('postFooter.html', function (data) {
-		Handlebars.registerHelper('formatPostDate', function (date) {
-			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
-		});
-		Handlebars.registerHelper('formatIsoDate', function (date) {
-			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
-		});
-		postFooterTemplate = Handlebars.compile(data);
-	});
-	loadHeaderFooter('pageFooter.html', function (data) {
-		Handlebars.registerHelper('formatPostDate', function (date) {
-			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
-		});
-		Handlebars.registerHelper('formatIsoDate', function (date) {
-			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
-		});
-		pageFooterTemplate = Handlebars.compile(data);
-	});
-
-	// Kill the cache every 30 minutes.
-	setInterval(emptyCache, cacheResetTimeInMillis);
-
-	tweetLatestPost();
-}
-
-function tweetLatestPost() {
-	if (twitterClient != null && process.env.TWITTER_CONSUMER_KEY != null) {
-		twitterClient.get('statuses/user_timeline', {screen_name: twitterUsername}, function(error, tweets, response){
-			if (error) {
-				console.log(JSON.stringify(error, undefined, 2));
-				return;
-			}
-
-			var lastUrl = null;
-			var i = 0;
-			while (lastUrl == null && i < tweets.length) {
-				if (tweets[i].source.has(twitterClientNeedle) &&
-					tweets[i]['entities'] &&
-					tweets[i]['entities']['urls']) {
-					lastUrl = tweets[i].entities.urls[0].expanded_url;
-				} else {
-					i++;
-				}
-			}
-
-			allPostsSortedAndGrouped(function (postsByDay) {
-				var latestPost = postsByDay[0].articles[0];
-				var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink;
-
-				if (lastUrl != link) {
-					console.log('Tweeting new link: ' + link);
-
-					var post_title = latestPost.metadata.Title;
-
-					if( latestPost.metadata.Tags != undefined ){
-						var tag = String( latestPost.metadata.Tags );
-						var tagstr = '';
-						var tags = tag.split(",");
-			
-						for( var i in tags ){
-							var tag = tags[i].trim();
-							tagstr += ' #' + tag.capitalize();
-						}
-						post_title += tagstr;
-					}
-					post_title += '\n\n' + link;
-
-					var params = {
-						status: post_title
-					};
-					
-					twitterClient.post('statuses/update', params, function (error, tweet, response) {
-							if (error) {
-								console.log(JSON.stringify(error, undefined, 2));
-								throw error;
-							}
-					});
-				} else {
-					console.log('Twitter is up to date.');
-				}
-			});
-		});
-	}
-}
-
 String.prototype.capitalize = function() {
 	return this.charAt(0).toUpperCase() + this.slice(1);
 }
-
-
-function loadHeaderFooter(file, completion) {
-	fs.exists(templateRoot + file, function(exists) {
-		if (exists) {
-			fs.readFile(templateRoot + file, {encoding: 'UTF8'}, function (error, data) {
-				if (!error) {
-					completion(data);
-				}
-			});
-		}
-	});
-}
-
-function loadTemplate(file, completion) {
-	fs.exists(templateRoot + file, function(exists) {
-		if (exists) {
-			fs.readFile(templateRoot + file, {encoding: 'UTF8'}, function (error, data) {
-				if (!error) {
-					completion(data);
-				}
-			});
-		}
-	});
-}
-
 
 function leadingZero(value){
 	if(value < 10){
@@ -345,8 +190,8 @@ function generateHtmlAndMetadataForFile(file) {
 			metadata['header'] = '';
 			metadata['footer'] = '';
 		}
-
-		if( metadata['Tags'] != undefined ){
+		
+		if (typeof(metadata['Tags']) !== 'undefined') {
 			var tag = String( metadata['Tags'] );
 //			metadata['TaggedIn'] = '<p class="taggedIn"><span>Filed Under:</span> <a href="/tags/' + tag + '">' + tag.capitalize() + '</a></p>';
 			var tagstr = '<p class="taggedIn"><span>Filed Under:</span> ';
@@ -368,17 +213,17 @@ function generateHtmlAndMetadataForFile(file) {
 		}
 
 		if( metadata['permalink'] == '/index' ){
-			metadata['canonicalLink'] = 'http://blog.datamcfly.com/';
+			metadata['canonicalLink'] = metadata['SiteRoot'];
 			metadata['ogtype'] = 'website';
 		}else{
-			metadata['canonicalLink'] = 'http://blog.datamcfly.com' + metadata['permalink'];
+			metadata['canonicalLink'] = metadata['SiteRoot'] + '/' + metadata['permalink'];
 			metadata['ogtype'] = 'article';
 		}
 
 		if( metadata['FeaturedImage'] ){
 			metadata['PostImage'] = metadata['FeaturedImage'];
 		}else{
-			metadata['PostImage'] = 'http://blog.datamcfly.com/images/logo.png';
+			metadata['PostImage'] = metadata['DefaultImage'];
 		}
 		
 		// If this is a post, assume a body class of 'post'.
@@ -390,16 +235,18 @@ function generateHtmlAndMetadataForFile(file) {
 		}
 
 		if( metadata['HideHeader'] != 'true' ){
-			var mheader = performMetadataReplacements(metadata, postHeaderTemplate(metadata) );
-			var mfooter = performMetadataReplacements(metadata, postFooterTemplate(metadata) );
-//			lines['body'] = lines['body'] + '<div class="fin">~&bull;~</div>';
-		}else{
-			if( metadata['Title'] != undefined ){
-				var mheader = performMetadataReplacements(metadata, pageHeaderTemplate(metadata) );
+//	if post, show post header and footer, otherwise, show page header and footer...
+			if( metadata['BodyClass'] == 'post' ){
+				var mheader = performMetadataReplacements(metadata, postHeaderTemplate(metadata) );
+				var mfooter = performMetadataReplacements(metadata, postFooterTemplate(metadata) );
 			}else{
-				var mheader = '';
+				var mheader = performMetadataReplacements(metadata, pageHeaderTemplate(metadata) );
+				var mfooter = performMetadataReplacements(metadata, pageFooterTemplate(metadata) );
+				metadata['TaggedIn'] = '';
 			}
-			var mfooter = performMetadataReplacements(metadata, pageFooterTemplate(metadata) );
+		}else{
+			var mheader = '';
+			var mfooter = '';
 			metadata['TaggedIn'] = '';
 		}
 		var body = lines['body'];
@@ -439,12 +286,6 @@ function generateMetadataForFile(file) {
 	return generateHtmlAndMetadataForFile(file)['metadata'];
 }
 
-// Gets the rendered HTML for this file, with header/footer.
-function generateHtmlForFile(file) {
-	var fileData = generateHtmlAndMetadataForFile(file);
-
-	return fileData.html();
-}
 
 // Gets the body HTML for this file, no header/footer.
 function generateBodyHtmlForFile(file) {
@@ -535,6 +376,181 @@ function allPostsSortedAndGrouped(completion) {
 	}
 }
 
+function tweetLatestPost() {
+	if (twitterClient != null && process.env.TWITTER_CONSUMER_KEY != null) {
+		twitterClient.get('statuses/user_timeline', {screen_name: twitterUsername}, function(error, tweets, response){
+			if (error) {
+				console.log(JSON.stringify(error, undefined, 2));
+				return;
+			}
+
+			var lastUrl = null;
+			var i = 0;
+			while (lastUrl == null && i < tweets.length) {
+				if (tweets[i].source.has(twitterClientNeedle) &&
+					tweets[i]['entities'] &&
+					tweets[i]['entities']['urls']) {
+					lastUrl = tweets[i].entities.urls[0].expanded_url;
+				} else {
+					i++;
+				}
+			}
+
+			allPostsSortedAndGrouped(function (postsByDay) {
+				var latestPost = postsByDay[0].articles[0];
+				var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink;
+
+				if (lastUrl != link) {
+					console.log('Tweeting new link: ' + link);
+
+					var post_title = latestPost.metadata.Title;
+
+					if( latestPost.metadata.Tags != undefined ){
+						var tag = String( latestPost.metadata.Tags );
+						var tagstr = '';
+						var tags = tag.split(",");
+			
+						for( var i in tags ){
+							var tag = tags[i].trim();
+							tagstr += ' #' + tag.capitalize();
+						}
+						post_title += tagstr;
+					}
+					post_title += '\n\n' + link;
+
+					var params = {
+						status: post_title
+					};
+					
+					twitterClient.post('statuses/update', params, function (error, tweet, response) {
+							if (error) {
+								console.log(JSON.stringify(error, undefined, 2));
+								throw error;
+							}
+					});
+				} else {
+					console.log('Twitter is up to date.');
+				}
+			});
+		});
+	}
+}
+
+function loadHeaderFooter(file, completion) {
+	fs.exists(templateRoot + file, function(exists) {
+		if (exists) {
+			fs.readFile(templateRoot + file, {encoding: 'UTF8'}, function (error, data) {
+				if (!error) {
+					completion(data);
+				}
+			});
+		}
+	});
+}
+
+function loadTemplate(file, completion) {
+	fs.exists(templateRoot + file, function(exists) {
+		if (exists) {
+			fs.readFile(templateRoot + file, {encoding: 'UTF8'}, function (error, data) {
+				if (!error) {
+					completion(data);
+				}
+			});
+		}
+	});
+}
+
+// Empties the caches.
+function emptyCache() {
+	console.log('Emptying the cache.');
+	renderedPosts = {};
+	renderedRss = {};
+	renderedRss2 = {};
+	allPostsSortedGrouped = {};
+}
+
+function init() {
+	loadHeaderFooter('defaultTags.html', function (data) {
+		// Note this comes in as a flat string; split on newlines for parsing metadata.
+		siteMetadata = parseMetadata(data.split('\n'));
+
+		// This relies on the above, so nest it.
+		loadHeaderFooter('header.html', function (data) {
+			headerSource = performMetadataReplacements(siteMetadata, data);
+		});
+	});
+
+	loadHeaderFooter('footer.html', function (data) { footerSource = data; });
+	loadHeaderFooter('rssFooter.html', function (data) {
+		rssFooterTemplate = Handlebars.compile(data);
+	});
+
+	loadHeaderFooter('singleHeader.html', function (data) {
+		singleHeaderTemplate = Handlebars.compile(data);
+	});
+	loadHeaderFooter('singleFooter.html', function (data) {
+		singleFooterTemplate = Handlebars.compile(data);
+	});
+
+	loadHeaderFooter('postBodyStart.html', function (data) {
+		postBodyStartTemplate = Handlebars.compile(data);
+	});
+	loadHeaderFooter('postBodyEnd.html', function (data) {
+		postBodyEndTemplate = Handlebars.compile(data);
+	});
+
+
+	loadHeaderFooter('pageHeader.html', function (data) {
+		Handlebars.registerHelper('formatPostDate', function (date) {
+			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
+		});
+		Handlebars.registerHelper('formatIsoDate', function (date) {
+			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
+		});
+		pageHeaderTemplate = Handlebars.compile(data);
+	});
+	loadHeaderFooter('postHeader.html', function (data) {
+		Handlebars.registerHelper('formatPostDate', function (date) {
+			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
+		});
+		Handlebars.registerHelper('formatIsoDate', function (date) {
+			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
+		});
+		postHeaderTemplate = Handlebars.compile(data);
+	});
+	loadHeaderFooter('postFooter.html', function (data) {
+		Handlebars.registerHelper('formatPostDate', function (date) {
+			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
+		});
+		Handlebars.registerHelper('formatIsoDate', function (date) {
+			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
+		});
+		postFooterTemplate = Handlebars.compile(data);
+	});
+	loadHeaderFooter('pageFooter.html', function (data) {
+		Handlebars.registerHelper('formatPostDate', function (date) {
+			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
+		});
+		Handlebars.registerHelper('formatIsoDate', function (date) {
+			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
+		});
+		pageFooterTemplate = Handlebars.compile(data);
+	});
+
+	// Kill the cache every 30 minutes.
+	setInterval(emptyCache, cacheResetTimeInMillis);
+
+	tweetLatestPost();
+}
+
+// Gets the rendered HTML for this file, with header/footer.
+function generateHtmlForFile(file) {
+	var fileData = generateHtmlAndMetadataForFile(file);
+
+	return fileData.html();
+}
+
+
 // Gets all the posts, paginated.
 // Goes through the posts, descending date order, and joins
 // days together until there are 10 or more posts. Once 10
@@ -565,17 +581,14 @@ function allPostsPaginated(completion) {
 	});
 }
 
-// Empties the caches.
-function emptyCache() {
-	console.log('Emptying the cache.');
-	renderedPosts = {};
-	renderedRss = {};
-	allPostsSortedGrouped = {};
-}
-
 /***************************************************
  * ROUTE HELPERS								   *
  ***************************************************/
+
+function send404(response, file) {
+	console.log('404: ' + file);
+	response.status(404).send( generateHtmlForFile('posts/404.md') );
+}
 
 function loadAndSendMarkdownFile(file, response) {
 	if (file.endsWith('.md')) {
@@ -626,27 +639,7 @@ function loadAndSendMarkdownFile(file, response) {
 		if (!found) {
 			send404(response, file);
 			return;
-/*
-			console.log('404: ' + file);
-			file = './posts/404.md';
-			var html = generateHtmlForFile(file);
-			response.status(404).send(html);
-*/
 		}
-/*
-		fs.exists(file + '.md', function (exists) {
-			if (!exists) {
-				console.log('404: ' + file);
-				file = './posts/404.md';
-//				response.send(404, {error: 'A post with that address is not found. '+file + '.md'});
-//				return;
-			}
-
-			console.log('Sending file: ' + file)
-			var html = generateHtmlForFile(file);
-			response.status(200).send(html);
-		});
-*/
 	}
 }
 
@@ -701,11 +694,6 @@ function sendYearListing(request, response) {
 		response.send(header + retVal + footerSource);
 	});
 
-}
-
-function send404(response, file) {
-	console.log('404: ' + file);
-	response.status(404).send( generateHtmlForFile('posts/404.md') );
 }
 
 // Handles a route by trying the cache first.
@@ -768,20 +756,6 @@ app.get('/', function (request, response) {
 			return retVal;
 		});
 
-/*		
-		loadTemplate('ArticlePartial.html', function (data) {
-			Handlebars.registerPartial('article', data );
-
-			loadTemplate('DayTemplate.html', function (data) {
-				dayTemplate = Handlebars.compile(data);
-			});
-
-			loadTemplate('FooterTemplate.html', function (data) {
-				footerTemplate = Handlebars.compile(data);
-			});
-		});
-*/
-
 		var data = fs.readFileSync(templateRoot + 'ArticlePartial.html', {encoding: 'UTF8'});
 		Handlebars.registerPartial('article', data );
 
@@ -790,10 +764,6 @@ app.get('/', function (request, response) {
 
 		var ftext = fs.readFileSync(templateRoot + 'FooterTemplate.html', {encoding: 'UTF8'});
 		var footerTemplate = Handlebars.compile(ftext);
-
-//		Handlebars.registerPartial('article', indexInfo['metadata']['ArticlePartial']);
-//		var dayTemplate = Handlebars.compile(indexInfo['metadata']['DayTemplate']);
-//		var footerTemplate = Handlebars.compile(indexInfo['metadata']['FooterTemplate']);
 
 		var bodyHtml = '';
 		allPostsPaginated(function (pages) {
@@ -830,14 +800,14 @@ app.get('/', function (request, response) {
 	});
 });
 
-/***************************************************
- * RSS / PLEASE EDIT WITH YOUR SITE'S DETAILS	  *
- ***************************************************/
+/**********************************************************
+ * SITEMAP / RSS / PLEASE EDIT WITH YOUR SITE'S DETAILS	  *
+ **********************************************************/
 
 app.get('/sitemap.xml', function (request, response) {
 	// this is the source of the URLs on your site, in this case we use a simple array, actually it could come from the database
 	var urls = ['/','/about'];
-	var root_path = 'http://blog.datamcfly.com';
+	var root_path = 'http://rogerstringer.com';
 	// XML sitemap generation starts here
 	var priority = 0.6;
 	var freq = 'weekly';
@@ -897,15 +867,15 @@ app.get('/sitemap.xml', function (request, response) {
 app.get('/rss', function (request, response) {
 	response.header('Content-Type', 'application/rss+xml');
 	if (renderedRss['date'] == undefined || new Date().getTime() - renderedRss['date'].getTime() > 3600000) {
-		var feed = new rss({
+		var feed = new Rss({
 			title: siteMetadata['SiteTitle'],
 			description: 'Posts to ' + siteMetadata['SiteTitle'],
-			feed_url: 'http://blog.datamcfly.com/rss',
-			site_url: 'http://blog.datamcfly.com',
+			feed_url: 'http://rogerstringer.com/rss',
+			site_url: 'http://rogerstringer.com',
 			author: 'Roger Stringer',
 			webMaster: 'Roger Stringer',
 			copyright: '2014 -' + new Date().getFullYear() + ' Roger Stringer',
-			image_url: 'http://blog.datamcfly.com/images/favicon.png',
+			image_url: 'http://rogerstringer.com/media/logo.png',
 			language: 'en',
 			//categories: ['Category 1','Category 2','Category 3'],
 			pubDate: new Date().toString(),
@@ -923,12 +893,81 @@ app.get('/rss', function (request, response) {
 
 		var max = 10;
 		var i = 0;
-
 		allPostsSortedAndGrouped(function (postsByDay) {
 			postsByDay.forEach(function (day) {
 				day['articles'].forEach(function (article) {
 					var tags = '';
-					if( article['metadata']['Tags'] != undefined ){
+					if (typeof(article['metadata']['Tags']) !== 'undefined') {
+						var tag = String( article['metadata']['Tags'] );
+						var tags = tag.split(",");
+					}
+
+					var title = article['metadata']['Title'];
+					if (typeof(article['metadata']['Link']) !== 'undefined') {
+						var title = '→ ' + article['metadata']['Title'];	
+					}
+
+					if (i < max) {
+						++i;
+						feed.item({
+							title: title,
+							// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
+							date: new Date(article['metadata']['Date']).addHours(utcOffset),
+							url: getPostUrl(article),
+							author: 'Roger Stringer',
+							categories: tags,
+							description: article['cleanBody'].replace(/<script[\s\S]*?<\/script>/gm, "").concat( article['rssFooter'] )
+						});
+					}
+				});
+			});
+
+			renderedRss = {
+				date: new Date(),
+				rss: feed.xml()
+			};
+
+			response.send(renderedRss['rss']);
+		});
+	} else {
+		response.send(renderedRss['rss']);
+	}
+});
+
+app.get('/rss2', function (request, response) {
+	response.header('Content-Type', 'application/rss+xml');
+	if (renderedRss2['date'] == undefined || new Date().getTime() - renderedRss2['date'].getTime() > 3600000) {
+		var feed = new Rss({
+			title: siteMetadata['SiteTitle'],
+			description: 'Posts to ' + siteMetadata['SiteTitle'],
+			feed_url: 'http://rogerstringer.com/rss2',
+			site_url: 'http://rogerstringer.com',
+			author: 'Roger Stringer',
+			webMaster: 'Roger Stringer',
+			copyright: '2015 -' + new Date().getFullYear() + ' Roger Stringer',
+			image_url: 'http://rogerstringer.com/media/logo.png',
+			language: 'en',
+			//categories: ['Category 1','Category 2','Category 3'],
+			pubDate: new Date().toString(),
+			ttl: '60'
+		});
+
+		// Gets the URL for this post; returns the link target if a link post,
+		// the post's URL if not a link post.
+		var getPostUrl = function(article) {
+			if (typeof(article['metadata']['Link']) !== 'undefined') {
+//				return article['metadata']['Link'];
+			}
+			return externalFilenameForFile(article['file'], request);
+		};
+
+		var max = 10;
+		var i = 0;
+		allPostsSortedAndGrouped(function (postsByDay) {
+			postsByDay.forEach(function (day) {
+				day['articles'].forEach(function (article) {
+					var tags = '';
+					if (typeof(article['metadata']['Tags']) !== 'undefined') {
 						var tag = String( article['metadata']['Tags'] );
 						var tags = tag.split(",");
 					}
@@ -947,17 +986,18 @@ app.get('/rss', function (request, response) {
 				});
 			});
 
-			renderedRss = {
+			renderedRss2 = {
 				date: new Date(),
 				rss: feed.xml()
 			};
 
-			response.send( renderedRss['rss'] );
+			response.send(renderedRss2['rss']);
 		});
 	} else {
-		response.send( renderedRss['rss'] );
+		response.send(renderedRss2['rss']);
 	}
 });
+
 
 //	Tags view
 app.get('/tags', function (request, response) {
@@ -1016,13 +1056,6 @@ app.get('/tags/:tag', function (request, response) {
 	var thetag = request.params.tag;
 	var postsByTag = {};
 	var anyFound = false;
-
-/*
-	singleHeader: performMetadataReplacements(metadata, singleHeaderTemplate(metadata)),			
-	singleFooter: performMetadataReplacements(metadata, singleFooterTemplate(metadata)),						
-	postBodyStart: performMetadataReplacements(metadata, postBodyStartTemplate(metadata)),			
-	postBodyEnd: performMetadataReplacements(metadata, postBodyEndTemplate(metadata)),						
-*/
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
