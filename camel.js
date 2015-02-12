@@ -506,6 +506,8 @@ function emptyCache() {
 	renderedRss = {};
 	renderedRss2 = {};
 	allPostsSortedGrouped = {};
+
+	tweetLatestPost();
 }
 
 function init() {
