@@ -58,7 +58,7 @@ var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
 
 var renderedPosts = {};
 var renderedRss = {};
-var renderedRss2 = {};
+var renderedAlternateRss = {};
 var allPostsSortedGrouped = {};
 var headerSource;
 var footerSource = null;
@@ -502,7 +502,7 @@ function emptyCache() {
 	console.log('Emptying the cache.');
 	renderedPosts = {};
 	renderedRss = {};
-	renderedRss2 = {};
+	renderedAlternateRss = {};
 	allPostsSortedGrouped = {};
 
 	tweetLatestPost();
@@ -753,6 +753,64 @@ function baseRouteHandler(file, sender, generator) {
 	}
 }
 
+// Generates a RSS feed.
+// The linkGenerator is what determines if the articles will link
+// to this site or to the target of a link post; it takes an article.
+// The completion function takes an object:
+// {
+//   date: // Date the generation happened
+//   rss: // Rendered RSS
+// }
+function generateRss(request, feedUrl, linkGenerator, titleGenerator, completion) {
+	var feed = new Rss({
+		title: config.Site.Title,
+		description: 'Posts to ' + config.Site.Title,
+        feed_url: config.Site.Url + feedUrl,
+        site_url: config.Site.Url,
+        author: config.Site.Author,
+        webMaster: config.Site.Author,
+        copyright: '2013-' + new Date().getFullYear() + ' ' + config.Site.Author,
+        image_url: config.Site.DefaultImage,
+		language: 'en',
+		pubDate: new Date().toString(),
+		ttl: '60'
+	});
+
+	var max = 10;
+	var i = 0;
+	allPostsSortedAndGrouped(function (postsByDay) {
+		postsByDay.forEach(function (day) {
+			day.articles.forEach(function (article) {
+				if (i < max) {
+
+					var tags = '';
+					if (typeof(article.metadata.Tags) !== 'undefined') {
+						var tag = String( article.metadata.Tags );
+						var tags = tag.split(",");
+					}
+					
+					i += 1;
+					feed.item({
+						title: titleGenerator( article ),
+						// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
+						date: new Date(article.metadata.Date).addHours(utcOffset),
+						url: linkGenerator( article ),
+						categories: tags,
+						guid: externalFilenameForFile(article.file, request),
+						description: article.cleanBody.replace(/<script[\s\S]*?<\/script>/gm, "").concat(article.rssFooter)
+					});
+				}
+			});
+		});
+
+		completion({
+			date: new Date(),
+			rss: feed.xml()
+		});
+	});
+}
+
+
 /***************************************************
 * ROUTES                                          *
 ***************************************************/
@@ -909,136 +967,66 @@ app.get('/sitemap.xml', function (request, response) {
 });
 
 app.get('/rss', function (request, response) {
-	response.header('Content-Type', 'application/rss+xml');
-	if (renderedRss['date'] == undefined || new Date().getTime() - renderedRss['date'].getTime() > 3600000) {
-		var feed = new Rss({
-			title: config.Site.Title,
-			description: 'Posts to ' + config.Site.Title,
-            feed_url: config.Site.Url+'/rss',
-            site_url: config.Site.Url,
-            author: config.Site.Author,
-            webMaster: config.Site.Author,
-            copyright: '2013-' + new Date().getFullYear() + ' ' + config.Site.Author,
-            image_url: config.Site.DefaultImage,
-			language: 'en',
-			//categories: ['Category 1','Category 2','Category 3'],
-			pubDate: new Date().toString(),
-			ttl: '60'
-		});
-
-		// Gets the URL for this post; returns the link target if a link post,
-		// the post's URL if not a link post.
-		var getPostUrl = function(article) {
-			if (typeof(article.metadata.Link) !== 'undefined') {
-				return article.metadata.Link;
-			}
-			return externalFilenameForFile(article.file, request);
-		};
-
-		var max = 10;
-		var i = 0;
-		allPostsSortedAndGrouped(function (postsByDay) {
-			postsByDay.forEach(function (day) {
-				day['articles'].forEach(function (article) {
-					var tags = '';
-					if (typeof(article.metadata.Tags) !== 'undefined') {
-						var tag = String( article.metadata.Tags );
-						var tags = tag.split(",");
-					}
-
-					var title = article.metadata.Title;
-					if (typeof(article.metadata.Link) !== 'undefined') {
-						var title = '→ ' + article.metadata.Title;	
-					}
-
-					if (i < max) {
-						++i;
-						feed.item({
-							title: title,
-							// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
-							date: new Date(article.metadata.Date).addHours(utcOffset),
-							url: getPostUrl(article),
-							author: 'Your Name',
-							categories: tags,
-							description: article.cleanBody.replace(/<script[\s\S]*?<\/script>/gm, "").concat(article.rssFooter)
-						});
-					}
-				});
-			});
-
-			renderedRss = {
-				date: new Date(),
-				rss: feed.xml()
-			};
-
-			response.status(200).send(renderedRss['rss']);
-		});
+	if ('user-agent' in request.headers && request.headers['user-agent'].has('subscriber')) {
+		console.log('RSS: ' + request.headers['user-agent']);
+	}
+	response.type('application/rss+xml');
+	if (typeof(renderedRss.date) === 'undefined' || new Date().getTime() - renderedRss.date.getTime() > 3600000) {
+		generateRss(request, '/rss', function (article) {
+		if (typeof(article.metadata.Link) !== 'undefined') {
+			return article.metadata.Link;
+		}
+		return externalFilenameForFile(article.file, request);
+	}, function (article){
+		if ( typeof(article.metadata.Link) !== 'undefined' ) {
+			return '→ ' + article.metadata.Title;	
+		}
+		return article.metadata.Title;
+	}, function (rss) {
+		renderedRss = rss;
+		response.status(200).send(renderedRss.rss);
+	});
 	} else {
-		response.status(200).send(renderedRss['rss']);
+		response.status(200).send(renderedRss.rss);
 	}
 });
 
 app.get('/rss2', function (request, response) {
-	response.header('Content-Type', 'application/rss+xml');
-	if (renderedRss2['date'] == undefined || new Date().getTime() - renderedRss2['date'].getTime() > 3600000) {
-		var feed = new Rss({
-			title: config.Site.Title,
-			description: 'Posts to ' + config.Site.Title,
-            feed_url: config.Site.Url+'/rss',
-            site_url: config.Site.Url,
-            author: config.Site.Author,
-            webMaster: config.Site.Author,
-            copyright: '2013-' + new Date().getFullYear() + ' ' + config.Site.Author,
-            image_url: config.Site.DefaultImage,
-			language: 'en',
-			//categories: ['Category 1','Category 2','Category 3'],
-			pubDate: new Date().toString(),
-			ttl: '60'
-		});
-
-		// Gets the URL for this post; returns the link target if a link post,
-		// the post's URL if not a link post.
-		var getPostUrl = function(article) {
-			if (typeof(article.metadata.Link) !== 'undefined') {
-//				return article.metadata.Link;
-			}
+	if ('user-agent' in request.headers && request.headers['user-agent'].has('subscriber')) {
+		console.log('Alternate RSS: ' + request.headers['user-agent']);
+	}
+	response.type('application/rss+xml');
+	
+	if (typeof(renderedAlternateRss.date) === 'undefined' || new Date().getTime() - renderedAlternateRss.date.getTime() > 3600000) {
+		generateRss(request, '/rss-alternate', function (article) {
 			return externalFilenameForFile(article.file, request);
-		};
-
-		var max = 10;
-		var i = 0;
-		allPostsSortedAndGrouped(function (postsByDay) {
-			postsByDay.forEach(function (day) {
-				day['articles'].forEach(function (article) {
-					var tags = '';
-					if (typeof(article.metadata.Tags) !== 'undefined') {
-						var tag = String( article.metadata.Tags );
-						var tags = tag.split(",");
-					}
-					if (i < max) {
-						++i;
-						feed.item({
-							title: article.metadata.Title,
-							// Offset the time because Heroku's servers are GMT, whereas these dates are EST/EDT.
-							date: new Date(article.metadata.Date).addHours(utcOffset),
-							url: getPostUrl(article),
-							author: 'Your Name',
-							categories: tags,
-							description: article.cleanBody.replace(/<script[\s\S]*?<\/script>/gm, "").concat(article.rssFooter)
-						});
-					}
-				});
-			});
-
-			renderedRss2 = {
-				date: new Date(),
-				rss: feed.xml()
-			};
-
-			response.status(200).send(renderedRss2['rss']);
+		}, function (article){
+			return article.metadata.Title;
+		}, function (rss) {
+			renderedAlternateRss = rss;
+			response.status(200).send(renderedAlternateRss.rss);
 		});
 	} else {
-		response.status(200).send(renderedRss2['rss']);
+		response.status(200).send(renderedAlternateRss.rss);
+	}
+});
+app.get('/rss-alternate', function (request, response) {
+	if ('user-agent' in request.headers && request.headers['user-agent'].has('subscriber')) {
+		console.log('Alternate RSS: ' + request.headers['user-agent']);
+	}
+	response.type('application/rss+xml');
+	
+	if (typeof(renderedAlternateRss.date) === 'undefined' || new Date().getTime() - renderedAlternateRss.date.getTime() > 3600000) {
+		generateRss(request, '/rss-alternate', function (article) {
+			return externalFilenameForFile(article.file, request);
+		}, function (article){
+			return article.metadata.Title;
+		}, function (rss) {
+			renderedAlternateRss = rss;
+			response.status(200).send(renderedAlternateRss.rss);
+		});
+	} else {
+		response.status(200).send(renderedAlternateRss.rss);
 	}
 });
 
