@@ -301,9 +301,14 @@ Pagination is only necessary on the homepage, and page numbers are 1-based. Page
 Camel is functional, and is presently running [www.caseyliss.com][c]. There are lots of
 features that probably *could* be added, but none that I'm actively planning.
 
-[c]: http://www.caseyliss.com/
+Data McFly is running Camel on [The Data McFly Blog][d], and on [rogerstringer.com][rs]
 
 Please update this file & issue a pull request if you'd like your site featured here.
+
+[c]: http://www.caseyliss.com/
+[d]: http://blog.datamcfly.com/
+[rs]: http://rogerstringer.com/
+
 
 # License
 
