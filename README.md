@@ -145,16 +145,16 @@ For each post, metadata is specified at the top, and can be leveraged in the bod
 
     @@ Title=Test Post
     @@ Date=2014-05 17:50
-	
+	@@ Description=This is a short description used in Twitter cards and Facebook Open Graph.
+	@@ Image=http://somehost.com/someimage.png
 
-    This is a *test post* entitled "@@Title@@".
-    
-The title and date are required. Any other metadata is optional.
+	This is a *test post* entitled "@@Title@@".
+
+The `Title` and `Date` are required. Any other metadata, such as `Description` and `Image`, is optional.	
 
 ### Link Posts
 
-As of version 1.3, link posts are supported. To create a link post, simply add a `Link`
-metadata item:
+As of version 1.3, link posts are supported. To create a link post, simply add a `Link` metadata item:
 
     @@ Title=Sample Link Post
     @@ Date=2015-02-06 12:00
