@@ -273,10 +273,9 @@ function generateHtmlAndMetadataForFile(file) {
 			metadata.ogtype = 'article';
 		}
 
-		if( metadata.FeaturedImage ){
-			metadata.PostImage = metadata.FeaturedImage;
-		}else{
-			metadata.PostImage = metadata.DefaultImage;
+
+		if ( typeof(metadata.Image) === 'undefined') {
+			metadata.Image = metadata.DefaultImage;
 		}
 		
 		// If this is a post, assume a body class of 'post'.
@@ -732,7 +731,7 @@ function sendYearListing(request, response) {
 		replacements.Title = 'Posts for ' + request.params.slug;
 		replacements.canonicalLink = config.Site.Url + '/' + request.params.slug;
 		replacements.ogtype = 'website';
-		replacements.PostImage = config.Site.DefaultImage;
+		replacements.Image = config.Site.DefaultImage;
 		replacements.Description = replacements.Title;
 
 		var header = performMetadataReplacements(replacements, headerSource);
@@ -959,9 +958,9 @@ app.get('/sitemap.xml', function (request, response) {
 				sitemap += "\t" + '<lastmod>' + lastmod + '</lastmod>' + "\n";
 				sitemap += "\t" + '<changefreq>'+ freq +'</changefreq>' + "\n";
 				sitemap += "\t" + '<priority>'+ priority +'</priority>' + "\n";
-				if( article.metadata.FeaturedImage  != undefined ){
+				if( article.metadata.Image  != undefined ){
 					sitemap += "\t" + '<image:image>' + "\n";
-					sitemap += "\t" + "\t" + '<image:loc>' + article.metadata.FeaturedImage + '</image:loc>' + "\n";
+					sitemap += "\t" + "\t" + '<image:loc>' + article.metadata.Image + '</image:loc>' + "\n";
 					sitemap += "\t" + '</image:image>' + "\n";
 				}
 				sitemap += '</url>';
@@ -1093,7 +1092,7 @@ app.get('/tags', function (request, response) {
 		replacements.Title = 'Posts by Tags';
 		replacements.canonicalLink = config.Site.Url + '/tags/';
 		replacements.ogtype = 'website';
-		replacements.PostImage = config.Site.DefaultImage;
+		replacements.Image = config.Site.DefaultImage;
 		replacements.Description = replacements.Title;
 
 		var header = performMetadataReplacements(replacements, headerSource);
@@ -1160,7 +1159,7 @@ app.get('/tags/:tag', function (request, response) {
 		replacements.Title = thetag.capitalize() + ' Archives';
 		replacements.canonicalLink = config.Site.Url + '/tags/' + thetag;
 		replacements.ogtype = 'website';
-		replacements.PostImage = config.Site.DefaultImage;
+		replacements.Image = config.Site.DefaultImage;
 		replacements.Description = replacements.Title;
 
 		var header = performMetadataReplacements(replacements, headerSource);
@@ -1208,7 +1207,7 @@ app.get('/:year/:month', function (request, response) {
 		replacements.Title = seekingDay.format('{Month} {yyyy}');
 		replacements.canonicalLink = config.Site.Url + '/' + request.params.year + '/' + request.params.month;
 		replacements.ogtype = 'website';
-		replacements.PostImage = config.Site.DefaultImage;
+		replacements.Image = config.Site.DefaultImage;
 		replacements.Description = replacements.Title;
 
 		var header = performMetadataReplacements(replacements, headerSource);
@@ -1252,7 +1251,7 @@ app.get('/:year/:month/:day', function (request, response) {
 				replacements.Title = seekingDay.format('{Weekday}, {Month} {d}, {Year}');
 				replacements.canonicalLink = config.Site.Url + '/' + request.params.year + '/' + request.params.month + '/' + request.params.day;
 				replacements.ogtype = 'website';
-				replacements.PostImage = config.Site.DefaultImage;
+				replacements.Image = config.Site.DefaultImage;
 				replacements.Description = replacements.Title;
 		
 				var header = performMetadataReplacements(replacements, headerSource);
