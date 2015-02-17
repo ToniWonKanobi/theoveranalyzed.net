@@ -81,6 +81,7 @@ siteMetadata.Twitter = config.Social.Twitter;
 siteMetadata.siteAbout = config.Site.About;
 siteMetadata.siteAuthor = config.Site.Author;
 siteMetadata.DefaultImage = config.Site.DefaultImage;
+siteMetadata.CurrentYear = new Date().getFullYear();
 
 
 /***************************************************
@@ -235,6 +236,10 @@ function generateHtmlAndMetadataForFile(file) {
 			metadata.footer = '';
 		}
 		
+//		Description		
+		if ( typeof(metadata.Description) === 'undefined') {
+			metadata.Description = metadata.Title;
+		}
 		if ( typeof(metadata.Tags) !== 'undefined') {
 			var tag = String( metadata.Tags );
 //			metadata.TaggedIn = '<p class="taggedIn"><span>Filed Under:</span> <a href="/tags/' + tag + '">' + tag.capitalize() + '</a></p>';
@@ -513,7 +518,10 @@ function init() {
 		headerSource = performMetadataReplacements(siteMetadata, data);
 	});
 
-	loadHeaderFooter('footer.html', function (data) { footerSource = data; });
+	loadHeaderFooter('footer.html', function (data) {
+		footerSource = performMetadataReplacements(siteMetadata, data);
+	});
+
 	loadHeaderFooter('rssFooter.html', function (data) {
 		rssFooterTemplate = Handlebars.compile(data);
 	});
@@ -725,6 +733,7 @@ function sendYearListing(request, response) {
 		replacements.canonicalLink = config.Site.Url + '/' + request.params.slug;
 		replacements.ogtype = 'website';
 		replacements.PostImage = config.Site.DefaultImage;
+		replacements.Description = replacements.Title;
 
 		var header = performMetadataReplacements(replacements, headerSource);
 		header = header.replace(
@@ -1085,6 +1094,7 @@ app.get('/tags', function (request, response) {
 		replacements.canonicalLink = config.Site.Url + '/tags/';
 		replacements.ogtype = 'website';
 		replacements.PostImage = config.Site.DefaultImage;
+		replacements.Description = replacements.Title;
 
 		var header = performMetadataReplacements(replacements, headerSource);
 		header = header.replace(
@@ -1151,6 +1161,7 @@ app.get('/tags/:tag', function (request, response) {
 		replacements.canonicalLink = config.Site.Url + '/tags/' + thetag;
 		replacements.ogtype = 'website';
 		replacements.PostImage = config.Site.DefaultImage;
+		replacements.Description = replacements.Title;
 
 		var header = performMetadataReplacements(replacements, headerSource);
 		header = header.replace(
@@ -1198,6 +1209,7 @@ app.get('/:year/:month', function (request, response) {
 		replacements.canonicalLink = config.Site.Url + '/' + request.params.year + '/' + request.params.month;
 		replacements.ogtype = 'website';
 		replacements.PostImage = config.Site.DefaultImage;
+		replacements.Description = replacements.Title;
 
 		var header = performMetadataReplacements(replacements, headerSource);
 		header = header.replace(
@@ -1241,6 +1253,7 @@ app.get('/:year/:month/:day', function (request, response) {
 				replacements.canonicalLink = config.Site.Url + '/' + request.params.year + '/' + request.params.month + '/' + request.params.day;
 				replacements.ogtype = 'website';
 				replacements.PostImage = config.Site.DefaultImage;
+				replacements.Description = replacements.Title;
 		
 				var header = performMetadataReplacements(replacements, headerSource);
 				header = header.replace(
