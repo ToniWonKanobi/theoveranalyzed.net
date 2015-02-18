@@ -438,7 +438,43 @@ function tweetLatestPost() {
 
 				if (lastUrl != link) {
 					console.log('Tweeting new link: ' + link);
+					// Figure out how many characters we have to play with.
+					twitterClient.get('help/configuration', null, function (error, configuration) {
+						var suffix = " \n\n";
+						var maxSize = 140 - configuration.short_url_length_https - suffix.length;
+						
+						// Shorten the title if need be.
+						var title = latestPost.metadata.Title;
+						if( latestPost.metadata.Tags != undefined ){
+							var tag = String( latestPost.metadata.Tags );
+							var tagstr = '';
+							var tags = tag.split(",");
+							
+							for( var i in tags ){
+								var tag = tags[i].trim();
+								if( tag !== 'links' ){
+									tagstr += ' #' + tag.capitalize();
+								}
+							}
+							if( tagstr !== '' ){
+								title += tagstr;
+							}
+						}
 
+						if (title.length > maxSize) {
+							title = title.substring(0, maxSize - 3) + '...';
+						}
+
+						var params = {
+							status: title + suffix + link
+						};
+						twitterClient.post('statuses/update', params, function (error, tweet, response) {
+							if (error) {
+								console.log(JSON.stringify(error, undefined, 2));
+							}
+						});
+					});
+/*
 					var post_title = latestPost.metadata.Title;
 
 					if( latestPost.metadata.Tags != undefined ){
@@ -469,6 +505,7 @@ function tweetLatestPost() {
 								throw error;
 							}
 					});
+*/
 				} else {
 					console.log('Twitter is up to date.');
 				}

@@ -333,6 +333,13 @@ Our own changes:
 
 Casey's changes:
 
+* __1.4.5__ Fix auto-tweeter not considering too-long titles
+  (issue #[21](https://github.com/cliss/camel/issues/21))
+* __1.4.4__ Add support for Facebook Open Graph.
+* __1.4.3__ Add support for Twitter cards; thanks to [@tofias](https://twitter.com/tofias)
+  for the help.
+* __1.4.2__ Now provides for `/rss-alternate`, which points link posts to internal links
+  instead of external ones.
 * __1.4.1__ Refactored to satisfy [JSLint](http://jslint.it). Fixed issue where a day that
   only had a redirect in it caused duplicate day breaks to show on the homepage.
 * __1.4.0__ Added support for auto-tweeting.
