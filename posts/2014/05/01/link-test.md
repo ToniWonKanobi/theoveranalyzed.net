@@ -10,6 +10,6 @@ My comments.
 > This is a quote entitled from a link.
 
 
-```
-	console.log("hello");
+```javascript
+console.log("hello");
 ```
