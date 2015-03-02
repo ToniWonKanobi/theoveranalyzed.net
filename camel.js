@@ -240,28 +240,28 @@ function generateHtmlAndMetadataForFile(file) {
 		if ( typeof(metadata.Description) === 'undefined') {
 			metadata.Description = metadata.Title;
 		}
+
 		if ( typeof(metadata.Tags) !== 'undefined') {
 			var tag = String( metadata.Tags );
-//			metadata.TaggedIn = '<p class="taggedIn"><span>Filed Under:</span> <a href="/tags/' + tag + '">' + tag.capitalize() + '</a></p>';
-			var tagstr = '<p class="taggedIn"><span>Filed Under:</span> ';
 			var tags = tag.split(",");
+			var tagslist = [];
 			var hashtags = '';
 			var d = 1;
 			for( var i in tags ){
 				var tag = tags[i].trim();
-				tagstr += ' <a href="/tags/' + tag + '">' + tag.capitalize() + '</a>';
+				tagslist.push('<a href="/tags/' + tag + '">' + tag.capitalize() + '</a>');
 				hashtags += tag;
 				if( d < tags.length ){
-					tagstr += ',';
 					hashtags += ',';
 				}
 				d++;
 			}
-			tagstr += '</p>';
+			metadata.tags = tagslist;
 			metadata.hashtags = hashtags;
-			metadata.TaggedIn = tagstr;
 		}else{
-			metadata.TaggedIn = '<p class="taggedIn"><span>Filed Under:</span> <a href="/tags/uncategorized">Uncategorized</a></p>';
+			var tagslist = [];
+			tagslist.push('<a href="/tags/uncategorized">Uncategorized</a>');
+			metadata.tags = tagslist;
 			metadata.hashtags = '';
 		}
 
@@ -314,8 +314,7 @@ function generateHtmlAndMetadataForFile(file) {
 			postBodyStart: performMetadataReplacements(metadata, postBodyStartTemplate(metadata)),			
 			postBodyEnd: performMetadataReplacements(metadata, postBodyEndTemplate(metadata)),						
 			rssFooter: performMetadataReplacements(metadata, rssFooterTemplate(metadata)),			
-			cleanBody: performMetadataReplacements(metadata, markdownit.render(lines['body'])),
-			unwrappedBody: performMetadataReplacements(metadata, markdownit.render(lines['body']))+"\n"+metadata.TaggedIn,
+			unwrappedBody: performMetadataReplacements(metadata, markdownit.render(lines['body'])),
 			html: function () {
 				return this.header +
 				this.singleHeader +
@@ -842,7 +841,7 @@ function generateRss(request, feedUrl, linkGenerator, titleGenerator, completion
 						url: linkGenerator( article ),
 						categories: tags,
 						guid: externalFilenameForFile(article.file, request),
-						description: article.cleanBody.replace(/<script[\s\S]*?<\/script>/gm, "").concat(article.rssFooter)
+						description: article.unwrappedBody.replace(/<script[\s\S]*?<\/script>/gm, "").concat(article.rssFooter)
 					});
 				}
 			});
