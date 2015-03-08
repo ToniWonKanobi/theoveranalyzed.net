@@ -854,6 +854,72 @@ function generateRss(request, feedUrl, linkGenerator, titleGenerator, completion
 	});
 }
 
+function homepageBuilder(page, completion, redirect) {
+	var indexInfo = generateHtmlAndMetadataForFile(postsRoot + 'index.md');
+	var footnoteIndex = 0;
+
+	Handlebars.registerHelper('formatDate', function (date) {
+		return new Handlebars.SafeString(new Date(date).format('{Weekday}<br />{d}<br />{Month}<br />{yyyy}'));
+	});
+	Handlebars.registerHelper('dateLink', function (date) {
+		var parsedDate = new Date(date);
+		return '/' + parsedDate.format("{yyyy}") + '/' + parsedDate.format("{M}") + '/' + parsedDate.format('{d}') + '/';
+	});
+	Handlebars.registerHelper('offsetFootnotes', function (html) {
+		// Each day will call this helper once. We will offset the footnotes
+		// to account for multiple days being on one page. This will avoid
+		// conflicts with footnote numbers. If two days both have footnote,
+		// they would both be "fn1". Which doesn't work; they need to be unique.
+		var retVal = html.replace(footnoteAnchorRegex, '$&' + footnoteIndex);
+		retVal = retVal.replace(footnoteIdRegex, '$&' + footnoteIndex);
+		footnoteIndex += 1;
+
+		return retVal;
+	});
+
+	var data = fs.readFileSync(templateRoot + 'ArticlePartial.html', {encoding: 'UTF8'});
+	Handlebars.registerPartial('article', data );
+
+	var text = fs.readFileSync(templateRoot + 'DayTemplate.html', {encoding: 'UTF8'});
+	var dayTemplate = Handlebars.compile(text);
+
+	var ftext = fs.readFileSync(templateRoot + 'FooterTemplate.html', {encoding: 'UTF8'});
+	var footerTemplate = Handlebars.compile(ftext);
+
+	var bodyHtml = '';
+	allPostsPaginated(function (pages) {
+		// If we're asking for a page that doesn't exist, redirect.
+		if (page < 0 || page > pages.length) {
+			redirect(pages.length > 1 ? '/page/' + pages.length : '/');
+			return;
+		}
+		var days = pages[page - 1].days;
+		days.forEach(function (day) {
+			bodyHtml += dayTemplate(day);
+		});
+
+		// If we have more data to display, set up footer links.
+		var footerData = {};
+		if (page > 1) {
+			footerData.prevPage = page - 1;
+		}
+		if (pages.length > page) {
+			footerData.nextPage = page + 1;
+		}
+
+		var fileData = generateHtmlAndMetadataForFile(postsRoot + 'index.md');
+		var metadata = fileData.metadata;
+		var header = fileData.header;
+		// Replace <title>...</title> with one-off for homepage, because it doesn't show both Page & Site titles.
+		var titleBegin = header.indexOf('<title>') + "<title>".length;
+		var titleEnd = header.indexOf('</title>');
+		header = header.substring(0, titleBegin) + metadata.SiteTitle + header.substring(titleEnd);
+		// Carry on with body
+		bodyHtml = performMetadataReplacements(metadata, bodyHtml);
+		var fullHtml = header + bodyHtml + footerTemplate(footerData) + footerSource;
+		completion(fullHtml);
+	});
+}
 
 /***************************************************
 * ROUTES                                          *
@@ -863,86 +929,40 @@ app.get('/', function (request, response) {
 	// Determine which page we're on, and make that the filename
 	// so we cache by paginated page.
 	var page = 1;
-
 	if (typeof(request.query.p) !== 'undefined') {
 		page = Number(request.query.p);
 		if (isNaN(page)) {
 			response.redirect('/');
+			return;
+		} else {
+			response.redirect('/page/' + page);
+			return;
 		}
 	}
-
+	
 	// Do the standard route handler. Cough up a cached page if possible.
-	baseRouteHandler('/?p=' + page, function (cachedData) {
+	baseRouteHandler('/page/1', function (cachedData) {
 		response.status(200).send(cachedData.body);
 	}, function (completion) {
-		var indexInfo = generateHtmlAndMetadataForFile(postsRoot + 'index.md');
-		var footnoteIndex = 0;
-
-		Handlebars.registerHelper('formatDate', function (date) {
-			return new Handlebars.SafeString(new Date(date).format('{Weekday}<br />{d}<br />{Month}<br />{yyyy}'));
+		homepageBuilder(page, completion, function (destination) {
+			response.redirect(destination);
 		});
-		Handlebars.registerHelper('dateLink', function (date) {
-			var parsedDate = new Date(date);
-			return '/' + parsedDate.format("{yyyy}") + '/' + parsedDate.format("{M}") + '/' + parsedDate.format('{d}') + '/';
-		});
+	});
+});
 
-		Handlebars.registerHelper('offsetFootnotes', function (html) {
-			// Each day will call this helper once. We will offset the footnotes
-			// to account for multiple days being on one page. This will avoid
-			// conflicts with footnote numbers. If two days both have footnote,
-			// they would both be "fn1". Which doesn't work; they need to be unique.
-			var retVal = html.replace(footnoteAnchorRegex, '$&' + footnoteIndex);
-			retVal = retVal.replace(footnoteIdRegex, '$&' + footnoteIndex);
-			++footnoteIndex;
-
-			return retVal;
-		});
-
-		var data = fs.readFileSync(templateRoot + 'ArticlePartial.html', {encoding: 'UTF8'});
-		Handlebars.registerPartial('article', data );
-
-		var text = fs.readFileSync(templateRoot + 'DayTemplate.html', {encoding: 'UTF8'});
-		var dayTemplate = Handlebars.compile(text);
-
-		var ftext = fs.readFileSync(templateRoot + 'FooterTemplate.html', {encoding: 'UTF8'});
-		var footerTemplate = Handlebars.compile(ftext);
-
-		var bodyHtml = '';
-		allPostsPaginated(function (pages) {
-			// If we're asking for a page that doesn't exist, redirect.
-			if (page < 0 || page > pages.length) {
-				response.redirect(pages.length > 1 ? '/?p=' + pages.length : '/');
-			}
-			var days = pages[page - 1].days;
-
-			days.forEach(function (day) {
-				bodyHtml += dayTemplate(day);
-			});
-
-			// If we have more data to display, set up footer links.
-			var footerData = {};
-			if (page > 1) {
-				footerData.prevPage = page - 1;
-			}
-			if (pages.length > page) {
-				footerData.nextPage = page + 1;
-			}
-
-			var fileData = generateHtmlAndMetadataForFile(postsRoot + 'index.md');
-
-			var metadata = fileData.metadata;
-			var header = fileData.header;
-
-			// Replace <title>...</title> with one-off for homepage, because it doesn't show both Page & Site titles.
-			var titleBegin = header.indexOf('<title>') + "<title>".length;
-			var titleEnd = header.indexOf('</title>');
-
-			header = header.substring(0, titleBegin) + metadata.SiteTitle + header.substring(titleEnd);
-
-			// Carry on with body
-			bodyHtml = performMetadataReplacements(metadata, bodyHtml);
-			var fullHtml = header + bodyHtml + footerTemplate(footerData) + footerSource;
-			completion(fullHtml);
+app.get('/page/:page', function (request, response) {
+	var page = Number(request.params.page);
+	if (isNaN(page)) {
+		response.redirect('/');
+		return;
+	}
+	
+	// Do the standard route handler. Cough up a cached page if possible.
+	baseRouteHandler('/page/' + page, function (cachedData) {
+		response.status(200).send(cachedData.body);
+	}, function (completion) {
+		homepageBuilder(page, completion, function (destination) {
+			response.redirect(destination);
 		});
 	});
 });
