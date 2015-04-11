@@ -21,13 +21,6 @@ var config = require('./config');
 var version = require('./package.json').version;
 var Twitter = require('twitter');
 
-var twitterClient = new Twitter({
-	consumer_key: process.env.TWITTER_CONSUMER_KEY,
-	consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
-	access_token_key: process.env.TWITTER_ACCESS_TOKEN,
-	access_token_secret: process.env.TWITTER_TOKEN_SECRET
-});
-
 var app = express();
 app.use(compress());
 app.use(express.static("public"));
@@ -45,7 +38,8 @@ var metadataMarker = '@@';
 var maxCacheSize = 50;
 var postsPerPage = 10;
 //var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-)*(.md)?/;
-var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-)*(.redirect|.md)?$/;
+//var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-)*(.redirect|.md)?$/;
+var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-|\+)*(.redirect|.md)?$/;
 var footnoteAnchorRegex = /[#"]fn\d+/g;
 var footnoteIdRegex = /fnref\d+/g;
 var utcOffset = 5;
@@ -53,9 +47,14 @@ var cacheResetTimeInMillis = 1800000;
 
 
 //	set your twitter information...
+var twitterClient = new Twitter({
+	consumer_key: config.Social.autoTweets.consumer_key,
+	consumer_secret: config.Social.autoTweets.consumer_secret,
+	access_token_key: config.Social.autoTweets.access_token_key,
+	access_token_secret: config.Social.autoTweets.access_token_secret
+});
 var twitterUsername = config.Social.autoTweets.twitterUsername;
 var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
-
 var renderedPosts = {};
 var renderedRss = {};
 var renderedAlternateRss = {};
@@ -412,22 +411,21 @@ function allPostsSortedAndGrouped(completion) {
 }
 
 function tweetLatestPost() {
-	if (twitterClient != null && process.env.TWITTER_CONSUMER_KEY != null) {
-		twitterClient.get('statuses/user_timeline', {screen_name: twitterUsername}, function(error, tweets, response){
+	if (twitterClient !== null && typeof(config.Social.autoTweets.consumer_key) !== 'undefined') {
+		twitterClient.get('statuses/user_timeline', {screen_name: twitterUsername}, function (error, tweets) {
 			if (error) {
 				console.log(JSON.stringify(error, undefined, 2));
 				return;
 			}
 
-			var lastUrl = null;
-			var i = 0;
-			while (lastUrl == null && i < tweets.length) {
+			var lastUrl = null, i = 0;
+			while (lastUrl === null && i < tweets.length) {
 				if (tweets[i].source.has(twitterClientNeedle) &&
-					tweets[i]['entities'] &&
-					tweets[i]['entities']['urls']) {
+					tweets[i].entities &&
+					tweets[i].entities.urls) {
 					lastUrl = tweets[i].entities.urls[0].expanded_url;
 				} else {
-					i++;
+					i += 1;
 				}
 			}
 
@@ -435,31 +433,16 @@ function tweetLatestPost() {
 				var latestPost = postsByDay[0].articles[0];
 				var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink;
 
-				if (lastUrl != link) {
+				if (lastUrl !== link) {
 					console.log('Tweeting new link: ' + link);
+
 					// Figure out how many characters we have to play with.
-					twitterClient.get('help/configuration', null, function (error, configuration) {
+					twitterClient.get('help/configuration', function (error, configuration, response) {
 						var suffix = " \n\n";
 						var maxSize = 140 - configuration.short_url_length_https - suffix.length;
-						
+
 						// Shorten the title if need be.
 						var title = latestPost.metadata.Title;
-						if( latestPost.metadata.Tags != undefined ){
-							var tag = String( latestPost.metadata.Tags );
-							var tagstr = '';
-							var tags = tag.split(",");
-							
-							for( var i in tags ){
-								var tag = tags[i].trim();
-								if( tag !== 'links' ){
-									tagstr += ' #' + tag.capitalize();
-								}
-							}
-							if( tagstr !== '' ){
-								title += tagstr;
-							}
-						}
-
 						if (title.length > maxSize) {
 							title = title.substring(0, maxSize - 3) + '...';
 						}
@@ -468,48 +451,18 @@ function tweetLatestPost() {
 							status: title + suffix + link
 						};
 						twitterClient.post('statuses/update', params, function (error, tweet, response) {
-							if (error) {
-								console.log(JSON.stringify(error, undefined, 2));
-							}
+								if (error) {
+									console.log(JSON.stringify(error, undefined, 2));
+								}
 						});
 					});
-/*
-					var post_title = latestPost.metadata.Title;
-
-					if( latestPost.metadata.Tags != undefined ){
-						var tag = String( latestPost.metadata.Tags );
-						var tagstr = '';
-						var tags = tag.split(",");
-			
-						for( var i in tags ){
-							var tag = tags[i].trim();
-							if( tag !== 'links' ){
-								tagstr += ' #' + tag.capitalize();
-							}
-						}
-						if( tagstr !== '' ){
-							post_title += tagstr;
-						}
-					}
-
-					post_title += '\n\n' + link;
-
-					var params = {
-						status: post_title
-					};
-					
-					twitterClient.post('statuses/update', params, function (error, tweet, response) {
-							if (error) {
-								console.log(JSON.stringify(error, undefined, 2));
-								throw error;
-							}
-					});
-*/
 				} else {
 					console.log('Twitter is up to date.');
 				}
 			});
 		});
+	} else {
+		console.log('No Tweets');
 	}
 }
 

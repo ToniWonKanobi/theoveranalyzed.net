@@ -10,7 +10,11 @@ module.exports = {
 		Twitter: "yourusername",
 		autoTweets: {
 			twitterUserName: "yourusername",
-			twitterClientNeedle: "your_app_needle"
+			twitterClientNeedle: "your_app_needle",
+			consumer_key: "",
+			consumer_secret: "",
+			access_token_key: "",
+			access_token_secret: ""
 		}
 	}
 };
