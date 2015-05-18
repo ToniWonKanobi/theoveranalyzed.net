@@ -1,11 +1,11 @@
 @@ Title=Introduction To My Home Screen  
 @@ Date=2014–02–02 12:21  
 @@ Description=The first of a series of posts exploring the apps on my iPhone.  
-@@ Image=http://d.pr/i/1e8RA+  
+@@ Image=http://d.pr/i/1e8RA  
 @@ Tags=iPhone, apps, jailbreak, iOS 7, reviews  
 
 <figure>
-	<img src="http://d.pr/i/1e8RA+" alt="My Home Screen. Jailbroken, obviously." width="50%" />
+	<img src="http://d.pr/i/1e8RA" alt="My Home Screen. Jailbroken, obviously." width="50%" />
 	<figcaption>My Home Screen. Jailbroken, obviously.</figcaption>
 </figure>
 
@@ -36,14 +36,14 @@ Practically nobody I know uses WhatsApp or GroupMe, so Messages is the only real
 [Messages Conversation Photos](http://www.idownloadblog.com/2013/05/15/messages-convo-photos/) lets me see the pics of my peeps both in the message view, as well as in the list view, which is neat. I'm not sure why Apple doesn't do this by default. Sigh.
 
 <figure>
-	<img src="http://d.pr/i/106Jd+" alt="Now why wouldn't Jony include pics in this view? Sigh."  width="50%" />
+	<img src="http://d.pr/i/106Jd" alt="Now why wouldn't Jony include pics in this view? Sigh."  width="50%" />
 	<figcaption>Now why wouldn't Jony include pics in this view? Sigh.</figcaption>
 </figure>
 
 [Couria](http://www.idownloadblog.com/2014/01/28/couria/) is one of many quick reply inspired Messages tweak that allows both swiping lock screen notifications as well as tapping banner notifications to enable a quick reply.
 
 <figure>
-	<img src="http://d.pr/i/1hSkk+" alt="Lock Screen / Home Screen view" width="50%" />
+	<img src="http://d.pr/i/1hSkk" alt="Lock Screen / Home Screen view" width="50%" />
 	<figcaption>Lock Screen / Home Screen view</figcaption>
 </figure>
 
