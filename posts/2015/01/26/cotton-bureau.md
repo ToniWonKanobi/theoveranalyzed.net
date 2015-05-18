@@ -28,8 +28,6 @@ That's pretty much it. I have spent more money here than my wife would like, so 
 
 The referral program has ended, in case you were wondering why the discount no longer worked.
 
-
-
 [4]: https://cottonbureau.com/faq
 [3]: http://www.indiegogo.com
 [2]: http://www.kickstarter.com

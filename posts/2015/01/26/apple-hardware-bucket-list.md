@@ -1,9 +1,9 @@
 @@ Title=Apple Hardware Bucket List  
 @@ Date=2015-01-26 11:35  
 @@ Description=I've collected all my favorite Apple hardwares into a post, so that I have something to reference once I start my collection.  
-@@ Tags=apple, hardware, gear, anthony  
+@@ Tags=apple, hardware, gear, anthony, AHBL  
 
-[previously eluded to my Apple Hardware Bucket List][1] (heretofore known as **AHBL**). However, I have yet to publicly define it.
+I have [previously eluded][1] to my Apple Hardware Bucket List.[^1] However, I have yet to publicly define it.
 
 [1]: http://www.theoveranalyzed.net/posts/2015/1/imac-concept-design-macintosh-homage
 
@@ -17,7 +17,7 @@ Here it is, in more or less chronological order:
 * iPhone ([1st Generation][11])
 * iPad ([1st Generation][12])
 
-At some point I will write a few posts explaining why each of the above models speaks to me. After that, I will collect them into the top-level tag link on this website entitled "AHBL"
+Tags are not publically exposed on TheOverAnalyzed, but you could make nifty use of URL slugs for posts tagged [AHBL](/tags/AHBL).
 
 [Last updated 1/26/15]
 
@@ -34,3 +34,5 @@ At some point I will write a few posts explaining why each of the above models s
 [4]: https://en.wikipedia.org/wiki/Macintosh_Plus
 [5]: https://en.wikipedia.org/wiki/Macintosh_SE
 [6]: https://en.wikipedia.org/wiki/Macintosh_Classic
+
+[^1]: Heretofore, "AHBL"

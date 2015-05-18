@@ -47,9 +47,10 @@ But what I remember the most vividly is so ephemeral for me, and so emotionally 
 
 What I most remember about AOL was that perspiration-inducing and absolutely curse-worthy [noise](https://www.youtube.com/watch?v=D1UY7eDRXrs) that accompanied my  quest to make it online. 
 
-![Does the sight of this GIF not make your blood boil? ][AOL]
-
-[AOL]: http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif width="80%"
+<figure>
+	<img src="http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" alt="Does the sight of this GIF not make your blood boil?" width="80%" />
+	<figcaption>Does the sight of this GIF *not* make your blood boil?</figcaption>
+</figure>
 
 My inclination here is to make a joke about how connecting via AOL was a lot like Forrest Gump's "[box of chocolates][1]", because it was. There was no predictable pattern. Oh, it's 5:57 PM, after dinner, and you want to get online? NOPE. Try again. Okay, I'll try again at 9:03 PM. The parentals are asleep, everyone is in their rooms. Who else would be using the phone right now? I should be able to get online now, right? NOPE. Try again. Screw it. I'm not trying again. I'll try tomorrow. I try again tomorrow. It works after dinner, but still not at night. Next day: broken both tries. The. Endless. Cycle. Of. Suck. 
 

@@ -1,4 +1,4 @@
-@@ Title=""The Last American Who Knew What The F*** He Was Doing"  
+@@ Title="The Last American Who Knew What The F*** He Was Doing"  
 @@ Date=2014-10-07 12:00  
 @@ Description: Two days past the three-year anniversary of his death, I explain what Steve Jobs meant to me as an Apple fan.  
 @@ Tags=apple, steve jobs, feelings, culture, history  

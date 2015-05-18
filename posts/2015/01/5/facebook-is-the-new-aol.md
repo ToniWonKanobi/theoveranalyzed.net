@@ -4,7 +4,6 @@
 @@ Tags=culture, history, anthony  
 
 Nilay Patel, for [The Verge](http://www.theverge.com/2015/1/4/7488495/facebook-is-the-new-aol):
-
 >Just think about it for a minute. Of course Facebook is the new AOL.
 
 Let us be honest, the title of Nilay Patel's latest op-ed for The Verge has a pretty catchy headline. And while it is, indeed, both fun and trendy to paint [Facebook as the social network of our mothers](http://mom.me/teen/8179-moms-have-taken-over-facebook/), the point is well made: from the nerdy corner of the internet where sites like The Verge and Gizmodo thrive, Facebook truly does seem to be losing its prowess amongst tweens and 20-somethings. 

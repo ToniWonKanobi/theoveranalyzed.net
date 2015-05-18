@@ -5,6 +5,7 @@
 @@ Tags=apple, business, conference call, apple watch  
 
 When Apple CEO Tim Cook was asked whether the Apple Watch had been delayed, he answered with this:
+
 >What we had been saying is ‘early 2015. [...] We sort of look at the year and think of ‘early’ as the first four months, ‘mid’ as the next four months, and ‘late’ is the final four months. And so to us, it’s within the range. It’s basically when we thought.”
 
 So, in other words: [suck it][1] Wall Street. 

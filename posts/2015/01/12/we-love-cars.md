@@ -1,17 +1,17 @@
 @@ Title=We Love Cars  
-@@ Date=2015-01-12 09:00
-@@ Description=Why is it that we humans dedicate so much space to our personal transportation devices? Could it be because we absolutely love them?
-@@ Tags=cars, culture, anthony
-@@ Image=  
-Author: Anthony Craig  
+@@ Date=2015-01-12 09:00  
+@@ Description=Why is it that we humans dedicate so much space to our personal transportation devices? Could it be because we absolutely love them?  
+@@ Tags=cars, culture, anthony  
+@@ Image=http://www.total911.com/wp-content/uploads/2014/10/Porsche-964-driving.jpg  
 
 Joseph Stromberg from [Vox](http://www.vox.com/xpress/2014/11/18/7236471/cars-pedestrians-roads) on an interesting illustration by Claes Tingvall:
 
 >By depicting roads as chasms and crosswalks as rickety planks spanning them, Tingvall shows just how lopsided the proportions of a normal urban street corner really are.
 
-![What if?][Streets]
-
-[Streets]: https://cdn1.vox-cdn.com/thumbor/DHoDx9uFf7snfSK3cYv96l5Gydg=/1600x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/2466040/3206.0.jpg width="70%"
+<figure>
+	<img src="https://cdn1.vox-cdn.com/thumbor/DHoDx9uFf7snfSK3cYv96l5Gydg=/1600x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/2466040/3206.0.jpg" alt="What if?" width="70%" />
+	<figcaption>What if?</figcaption>
+</figure>
 
 Interesting depiction of reality. We '[civilized](https://en.wikipedia.org/wiki/Civilized)' humans really have given a whole heck of a lot of space to our personal transportation mechanisms. In a time when our businesses squeeze the natural landscape more and more, it is surprising just [how much room we give to cars](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F38caab_fed0a75c541266c4846f41b2fd5bbcbf.jpg_srz_936_485_85_22_0.50_1.20_0.00_jpg_srz&amp;f=1). 
 
@@ -19,9 +19,10 @@ One could argue airplanes might [have cars beat](http://1.bp.blogspot.com/-DNM1i
 
 What could possibly possess us to allow so much of '[our](http://www.alternet.org/immigration/map-destruction-how-europeans-stole-native-land)' land to be devoted to cars? Note that I don't think we are actually possessed; rather, the answer to this riddle is that we humans just [love our cars](http://www.truegoodlove.com/cars.php), plain and simple.
 
-![Ah, where it all started for me: the Chevrolet Corvette. This specimen is a 1990 ZR-1. 'Murica 🇺🇸][Corvette]
-
-[Corvette]: http://image.automobilemag.com/f/52935344%2Bq100%2Bre0/chevrolet-corvette-c4-zr1.jpg width="70%"
+<figure>
+	<img src="http://image.automobilemag.com/f/52935344%2Bq100%2Bre0/chevrolet-corvette-c4-zr1.jpg" alt="Ah, where it all started for me: the Chevrolet Corvette. This specimen is a 1990 ZR-1. 'Murica 🇺" width="57%" />
+	<figcaption>Ah, where it all started for me: the Chevrolet Corvette. This specimen is a 1990 ZR-1. 'Murica 🇺</figcaption>
+</figure>
 
 My own love affair with automobiles is not overly romantic or ambitious like, say, [Chris Harris](https://en.wikipedia.org/wiki/Drive_(web_series)) or [Larry Kosilla](http://carsalways.com/2013/01/07/the-story-of-larry-kosilla-and-his-passion-for-cars/). In truth, I wasn't really interested in cars until around the sixth grade. Before then it was all about [great TV](https://en.wikipedia.org/wiki/Drive_(web_series)) and [Legos](http://www.amazon.com/Vintage-Barracuda-Pirate-Shooting-Cannons/dp/B0021XFDL0).  Here's what happened: I remember driving to school, and as we turned left onto the street which led to my school, I saw a pretty neat looking car pass us by. My mom or dad answered "[Corvette](http://en.wikipedia.org/wiki/Chevrolet_Corvette)" when I asked what kind of car that was. Looking back, I am pretty sure it was a [C5](http://en.wikipedia.org/wiki/C5_Corvette), not a [C4](http://en.wikipedia.org/wiki/C5_Corvette) like the example pictured above. Anyways, that moment stuck with me. But, oddly enough, I don't think I started really getting into the marque until I told my grandpa about seeing the Corvette. That's when it got read.
 
@@ -37,9 +38,10 @@ I grew up in the [Central Valley](https://en.wikipedia.org/wiki/Central_Valley_(
 
 So you can imagine how my more affluent friends' ill-opinions and condescension toward Corvette would have effected me. Eventually, my thoughts began to mirror their's. It wasn't peer pressure per se. I just saw the light. The Corvette has always been a [fiberglass](https://en.wikipedia.org/wiki/Fiberglass)-body'd automobile. It offers great weight savings, but as [Jeremy Clarkson](https://twitter.com/JeremyClarkson) so ingeniously demonstrated, the material isn't exactly [structurally stable](http://www.youtube.com/watch?v=Ko9kzyqW-l8&amp;t=0m15s). 'Cheap' comes to mind. And then there was the [interior](http://www.coolridesonline.net/news-blog/news-entertainment/why-the-corvette-will-always-suck/). For the longest time, the interior of Corvette was lifted right out of the Chevrolet pickups of the time. The worst culprit being the 5th generation Corvette. All these things started to add up slowly at first. It all came to a head when I discovered the next car-of-my-dreams: the Acura ("Honda" outside of North America) [NSX](https://en.wikipedia.org/wiki/Honda_NSX).
 
-![Changing tastes: I went Asian. Pictured above: a 2002 Honda NSX 🇯🇵][NSX]
-
-[NSX]: http://www.arab4x4.com/wp-content/gallery/car_wallpapers/Honda-NSX/Honda-NSX-008.jpg width="70%"
+<figure>
+	<img src="http://www.arab4x4.com/wp-content/gallery/car_wallpapers/Honda-NSX/Honda-NSX-008.jpg" alt="Changing tastes: I went Asian. Pictured above: a 2002 Honda NSX 🇯" width="70%" />
+	<figcaption>Changing tastes: I went Asian. Pictured above: a 2002 Honda NSX 🇯</figcaption>
+</figure>
 
 There was no going back.
 
@@ -49,9 +51,10 @@ That car was an [engineering masterpiece](http://honda-nsx.info/history/). By th
 
 This NSX was my halo car until [graduate school](http://www.llu.edu/dentistry/index.page) where, guess what, I met a bunch of other people who, guess what, had different tastes than me. Eventually, I caught the Porsche bug. (Apparently, the de facto dentist car is the 911).
 
-![Ahhh: what some would call the purest (and last) classic Porsche 911, the 964🇩🇪][911]
-
-[911]: http://www.total911.com/wp-content/uploads/2014/10/Porsche-964-driving.jpg width="70%"
+<figure>
+	<img src="http://www.total911.com/wp-content/uploads/2014/10/Porsche-964-driving.jpg" alt="Ahhh: what some would call the purest (and last) classic Porsche 911, the 964🇩" width="70%" />
+	<figcaption>Ahhh: what some would call the purest (and last) classic Porsche 911, the 964🇩</figcaption>
+</figure>
 
 The 911 has had very few iterations of the years. It mirrors Corvette in that way. The truly classic lines are, well, classy. The [automotive prowess](https://en.wikipedia.org/wiki/Porsche_in_motorsport) accompanying the brand puts others to shame. The most modern yet still old version of this car is the [964](https://en.wikipedia.org/wiki/Porsche_964) generation, neatly nestled in the 911's history with a quaint 5 years of production. What followed was a much more [modern model](https://en.wikipedia.org/wiki/Porsche_993https://en.wikipedia.org/wiki/Porsche_993) (by Porsche standards), and the then came the crazy concept of cooling the engine by water and not just air. Silly Germans. Everything changed for the 911 after that.
 
