@@ -44,27 +44,30 @@ Here is how to get there:
 2. Next, *choose "Advanced"*
 3. After that, *choose "Code Injection"*
 4. In the Header field, on a new line immediately following the <code>script type="text/javascript"</code> line, *copy and paste this:*
-	```  $.bigfoot(
-        {
-            numberResetSelector: "article"
-        }
-    );
+
+	```
+	$.bigfoot(
+		{
+ 			numberResetSelector: “article”
+		}
+	);
     ```
     
 What you are essentially doing here is telling the <code>bigfoot.js</code> script to reset the count of the footnotes every time the script recognizes a repeated tag. In this case, that repeated tag is the 'new article' tag that Squarespace choose to utilize. In this situation, the <code>article</code> tag.
 
 So, for completeness, this is what my Header field looks like:
 
-```&lt;script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">&lt;/script&gt;
-&lt;script type="text/javascript" src="/s/bigfoot.js">&lt;/script&gt;
-&lt;link rel="stylesheet" type="text/css" href="/s/bigfoot-number.css"&gt;
-&lt;script type="text/javascript"&gt;
+```
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="/s/bigfoot.js"></script>
+<link rel="stylesheet" type="text/css" href="/s/bigfoot-number.css">
+<script type="text/javascript">
   $.bigfoot(
         {
             numberResetSelector: "article"
         }
     );
-&lt;/script&gt;
+</script>
 ```
 
 [^13]: I suppose I can't blame them. Me asking quite rudimentary questions about jQuery implementation in what is, to them, a random blog engine (Squarespace) is probably just as confounded as someone asking me which fingers they should use to fret a power cord. Still, it felt terrible to not have closure on this issue. 
