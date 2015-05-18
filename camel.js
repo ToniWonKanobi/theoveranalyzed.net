@@ -1282,10 +1282,10 @@ app.get('/:year/:month/:day/:slug', function (request, response) {
 });
 
 // Empties the cache.
-//app.get('/tosscache', function (request, response) {
-//	 emptyCache();
-//	 response.status(200).send(205);
-//});
+app.get('/tosscache', function (request, response) {
+	 emptyCache();
+	 response.status(200).send(205);
+});
 
 app.get('/count', function (request, response) {
 	console.log("/count");

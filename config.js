@@ -1,16 +1,16 @@
 module.exports = {
 	Site: {
-		Url: "http://mysite.com",
-		Title: 'Sample Site',
-		About: 'My Blog',
-		Author: 'Your Name',
-		DefaultImage: 'http://mysite.com/images/logo.png'
+		Url: "http://www.theoveranalyzed.net",
+		Title: 'TheOverAnalyzed',
+		About: 'Overanalyzing Apple the surrounding culture, as well as technology at large.',
+		Author: 'Anthony Craig',
+		DefaultImage: 'http://d.pr/i/1eKCj+'
 	},
 	Social: {
-		Twitter: "yourusername",
+		Twitter: "theoveranalyzed",
 		autoTweets: {
-			twitterUserName: "yourusername",
-			twitterClientNeedle: "your_app_needle",
+			twitterUserName: "theoveranalyzed",
+			twitterClientNeedle: "TOA Headquarters",
 			consumer_key: "",
 			consumer_secret: "",
 			access_token_key: "",
