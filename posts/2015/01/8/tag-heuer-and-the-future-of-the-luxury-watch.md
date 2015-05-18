@@ -1,4 +1,4 @@
-@@ Title: Tag Heuer And The Future Of The Luxury Watch  
+@@ Title=Tag Heuer And The Future Of The Luxury Watch  
 @@ Date=2015-01-08 09:08  
 @@ Link=http://mattrichman.net/post/107317484498/tag-heuer-and-the-future-of-the-luxury-watch  
 @@ Description=Whose else is considering wearing the Apple Watch on one wrist, and their previous favorite watch on the other?  
