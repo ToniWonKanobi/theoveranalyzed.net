@@ -9,9 +9,10 @@ I love all three of the three aforementioned brands. Toms' charity has been [wel
 
 Upon opening all three websites, I noticed something about the Cotton Bureau one that induced some warm-fuzzy feelings: 
 
-![Precious 🎄][CB]
-
-[CB]: http://d.pr/i/HrLu+ width="80%"
+<figure>
+	<img src="http://d.pr/i/HrLu+" alt="Precious 🎄" width="80%" />
+	<figcaption>Precious 🎄</figcaption>
+</figure>
 
 Isn't that special? They straight up took a week off for the holidays. At my last [job](http://pacificdentalservices.com/), the idea of taking a week off in general was heresy. I had to plead with them to get two measly weeks off for the whole year! Of course, like most corporations, [they weren't alone](http://www.theguardian.com/commentisfree/2013/dec/20/war-on-christmas-material-culture). Why would any successful company deliberately turn away potential revenue? It makes zero sense business-wise. I get that.
 
@@ -27,9 +28,10 @@ After all my hyperbole, you can, therefore, imagine my delight upon navigating t
 
 This was Patagonia's website when I navigated there today: 
 
-![They aren't closed for the holidays, but they are still legit. See story below.][Patagonia]
-
-[Patagonia]: http://d.pr/i/17jKj+ width="80%"
+<figure>
+	<img src="http://d.pr/i/17jKj+" alt="They aren't closed for the holidays, but they are still legit. See story below." width="80%" />
+	<figcaption>They aren't closed for the holidays, but they are still legit. See story below.</figcaption>
+</figure>
 
 I recall a pleasant phone conversation with a sales representative for Patagonia some weeks ago. I called to inquire as to the differences between several of their [jackets](http://www.patagonia.com/us/product/mens-nano-puff-hoody?p=84221-0). After that business was concluded, I had a moment. One of those out of body moments when, as I am speaking, I step outside of myself and grimace at the sound of the words emanating from my mouth. Almost immediately after I said these words, I wished I could have taken them back, for I was quite ashamed. I asked, in so many words, "Do you guys have any Cyber Monday sales going on?" The nice salesperson replied rather warmly, "Well, no. We actually choose not to participate in things like that." 
 
@@ -39,12 +41,15 @@ Wow. How refreshing.
 
 And how about Toms?
 
-![Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight.][Toms]
-
-[Toms]: http://d.pr/i/jVnS+ width="80%"
+<figure>
+	<img src="http://d.pr/i/jVnS+" alt="Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight." width="80%" />
+	<figcaption>Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight.</figcaption>
+</figure>
 
 Apparently Toms was in the same boat as Patagonia this holiday season. And there really isn't anything wrong with that. I include their splash page merely for reference. 
 
 So let's fast forward to Christmas 2015: I will be sitting in a comfy chair somewhere typing away on a Late (or Early) [2015 MacBook Air Retina Boomshakalaka](http://appleinsider.com/articles/14/12/22/rumor-apples-12-macbook-air-with-retina-display-to-enter-production-in-q1-2015) (yay), sharing another story about shops being closed for the holidays.
 
-Maybe for that story the it will be 2/3 instead of 1/3 ❄️
+Maybe for that story it will be 2/3 instead of 1/3 ?
+
+❄️

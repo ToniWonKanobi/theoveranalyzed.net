@@ -33,9 +33,9 @@ And then, on another occasion,  I decided I wanted to take [Smokey](https://twit
 
 A week or so later, I began to self-reflect. Why was I wearing a case around the house (when I had never been one to use a case for my iPhone?). Similarly, why did I pay money (let alone wear) a fanny pack? Why indeed.
 
-Next, I did what any self-respecting nerdophile would do in these situations: I re-consulted with Gruber, Marco, Jason Snell, imyke, and a multitude of other technology personalities. Only, I didn't actually consult with them. Instead, I listened to them rant on their respective podcasts (see: [The Talk Show](http://daringfireball.net/thetalkshow/2014/09/19/ep-095), [ATP](http://atp.fm/episodes/82), and [Upgrade](http://relay.fm/upgrade/1)).
+Next, I did what any self-respecting nerdophile would do in these situations: I re-consulted with Gruber, Marco, Jason Snell, Myke Hurley, and a multitude of other technology personalities. Only, I didn't actually consult with them. Instead, I listened to them rant on their respective podcasts (see: [The Talk Show](http://daringfireball.net/thetalkshow/2014/09/19/ep-095), [ATP](http://atp.fm/episodes/82), and [Upgrade](http://relay.fm/upgrade/1)).
 
-**Their voice was quite uniform:**
+**Their collective voice was quite clear:**
 
 * The iPhone 6 Plus was too big.
 
