@@ -15,5 +15,3 @@ Version 1 through version [2.5](https://instagram.com/p/2oFqCowLyD/?taken-by=the
 In mid 2014, Casey Liss [open-sourced](http://www.caseyliss.com/2014/5/2/camel-open-sourced) his lightweight blogging engine, [Camel](https://github.com/cliss/camel). With the option for an 'alternate RSS' feed (for friends and family) and the offering of a completely customizable platform, I knew that was the direction I would eventually head. Too many simple tasks were made difficult using Squarespace, and too *few* difficult tasks were made simple using Squarespace. I took the plunge in late mid 2015, and haven't looked back. 
 
 Thanks for stopping by.
-
-[^1]: [CamelCase](https://en.wikipedia.org/wiki/CamelCase) and all

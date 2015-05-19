@@ -5,15 +5,13 @@
 
 In addition to using a [forked version](https://github.com/DataMcFly/camel) of Casey's engine, I have employed several additional open-source JavaScript tweaks, [Bigfoot](http://bigfootjs.com) (for fancy footnotes), and [FitVids](http://fitvidsjs.com) (for auto-width `<iframe>` content). Both are relatively lightweight, and should render quickly in most modern browsers. You should check them out.
 
-## Useful URL Slugs
+## Useful URL Slug Stuff
 
-[/index/][1] for a list of all posts
+[/2015/](/2015) for a list of all posts during the year of 2015[^p]
 
-[/tags/][2] shows all tags
+[/tags/](/tags) shows all tags[^t]
 
-[/live/][3] for coverage of live events like [WWDC][4]
+[/live/](/live) for coverage of live events like [WWDC](https://developer.apple.com/wwdc/)
 
-[1]: /index
-[2]: /tags
-[3]: /live
-[4]: https://developer.apple.com/wwdc/
+[^p]: You could similarly do something similar for [2014](/2014). And you even get more specific than that and list posts by year *and* month.
+[^t]: You even get more specific than that and list posts having a particular tag (e.g., maybe you wanted to see every post having to do with [Apple](/tags/apple)
