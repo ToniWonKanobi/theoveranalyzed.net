@@ -13,16 +13,12 @@ var markdownit = require('markdown-it')({
 	html: true,
 	xhtmlOut: true,
 	typographer: true
-}).use(require('markdown-it-footnote'));
-var MarkdownIt = require("markdown-it");
-var md = new MarkdownIt();
- 
-md.use(require("markdown-it-anchor")); // Optional, but makes sense as you really want to link to something 
-md.use(require("markdown-it-table-of-contents"));
-var md   = require('markdown-it'),
-    mdnh = require('markdown-it-named-headers');
- 
-md.use(mdnh, options);
+})
+	.use(require('markdown-it-footnote'));
+	mdnh = require('markdown-it-named-headers');
+		md.use(mdnh, options);
+	md.use(require("markdown-it-anchor"));
+	md.use(require("markdown-it-table-of-contents"));
 var Rss = require('rss');
 var Handlebars = require('handlebars');
 
