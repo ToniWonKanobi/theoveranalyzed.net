@@ -70,11 +70,10 @@ He noticed the <code>{.passthrough?}</code> in the <code>blog.item</code> sectio
 `<code>my-squarespace-domain.tld/collections/blog.item</code>`
 
 Here is the relevant code he suggests pasting there:[^11]
-
 ```
 {.passthrough?}
 		<a class="link" href="{sourceUrl}" target="_self">{title}</a>
-		<a class="permalink" href="{fullUrl}" title="Permalink for  {title}">∞</a>
+		<a class="permalink" href="{fullUrl}" title="Permalink for 	{title}">∞</a>
 	{.or}
 		<a class="post" href="{fullUrl}">{title}</a>
 	{.end}
