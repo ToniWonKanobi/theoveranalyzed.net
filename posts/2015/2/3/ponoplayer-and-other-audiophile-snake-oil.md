@@ -1,4 +1,4 @@
-@@ PonoPlayer And Other Audiophile Snake Oil  
+@@ Title=PonoPlayer And Other Audiophile Snake Oil  
 @@ Date=2015-02-03 20:00  
 @@ Description=I used to have hundreds of gigabytes of high resolution audio. Was it worth it?  
 @@ Tags=audiophile, audio, music  
