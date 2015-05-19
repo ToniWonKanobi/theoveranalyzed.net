@@ -1,9 +1,9 @@
 @@ Title="The Last American Who Knew What The F*** He Was Doing"  
 @@ Date=2014-10-07 12:00  
 @@ Description: Two days past the three-year anniversary of his death, I explain what Steve Jobs meant to me as an Apple fan.  
-@@ Tags=apple, steve jobs, feelings, culture, history  
+@@ Tags=apple, Steve Jobs, feelings, culture, history  
 
-Istole this post's title from The Onion's October 6, 2011 [piece](http://techcrunch.com/2011/10/07/steve-jobs-the-crazy-one/) immediately following Steve Jobs' passing on October 5, 2011. In the typical The Onion fashion, their words are quite funny, whilst simultaneously evoking feelings of a certain 'what-ness?'
+This post's title came from The Onion's [piece](http://techcrunch.com/2011/10/07/steve-jobs-the-crazy-one/) immediately following Steve Jobs' passing on October 5, 2011. 
 
 <hr class="small">
 

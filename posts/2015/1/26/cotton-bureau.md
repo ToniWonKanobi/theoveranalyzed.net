@@ -1,14 +1,14 @@
 @@ Title=Cotton Bureau  
 @@ Date=2015-01-26 10:00  
 @@ Description=I love this site.  
-@@ Tags=gear, apparel, t-shirts, business  
+@@ Tags=gear, apparel, t-shirts, business, cotton bureau  
 @@ Image=https://cottonbureau.com/img/tee-pattern_2x.png  
 
-I recently became an ambassador of sorts for my favorite online Tshirt company, [Cotton Bureau][1]. The concept of the site is a lot like [Kickstarter][2] or [Indiegogo][3], in that the business model is basically crowdfunding.
+I recently became an ambassador of sorts for my favorite online T-shirt company, [Cotton Bureau][1]. The concept of the site is a lot like [Kickstarter][2] or [Indiegogo][3], in that the business model is basically crowdfunding.
 
 The following is from Cotton Bureau's [FAQ][4] section.
 
-'How the design gets on a tshirt and how the designer makes money:'
+'How the design gets on a t-shirt and how the designer makes money:'
 >Designers choose their own profit margin. We give each designer a baseline price per blank that covers our cost and profit; they choose how much they want to earn on top of that number. As long as your design sells at least 25, you get paid! Over 12 and we still print your design, but we keep all sale proceeds to cover our costs.
 
 On their 'stock' of items:

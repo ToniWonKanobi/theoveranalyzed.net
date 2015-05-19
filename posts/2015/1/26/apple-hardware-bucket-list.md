@@ -17,7 +17,7 @@ Here it is, in more or less chronological order:
 * iPhone ([1st Generation][11])
 * iPad ([1st Generation][12])
 
-Tags are not publically exposed on TheOverAnalyzed, but you could make nifty use of URL slugs for posts tagged [AHBL](/tags/AHBL).
+Tags are not publicly exposed on TheOverAnalyzed, but you could make nifty use of URL slugs for posts tagged [AHBL](/tags/AHBL).
 
 [Last updated 1/26/15]
 

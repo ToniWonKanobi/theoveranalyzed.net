@@ -1,7 +1,7 @@
 @@ Title=Fender And NAMM 2015  
 @@ Date=2015-01-25 11:24 
 @@ Description=The annual National Association of Music Merchants (NAMM) isn't what it used to be.  
-@@ Tags=music, industry, business, culture  
+@@ Tags=music, industry, business, culture, fender    
 
 ## Contents
 
