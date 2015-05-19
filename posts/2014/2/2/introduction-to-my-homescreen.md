@@ -4,12 +4,12 @@
 @@ Image=http://d.pr/i/1e8RA+    
 @@ Tags=iPhone, apps, jailbreak, iOS 7, reviews  
 
+What is it about our [home screens](http://lifehacker.com/5991283/how-to-customize-your-iphones-home-screen-and-break-away-from-the-pack) that inspires us to spend hours carefully planning where the apps should go?
+
 <figure>
-	<img src="http://d.pr/i/1e8RA+" alt="My Home Screen. Jailbroken, obviously." width="50%" />
+	<img src="http://d.pr/i/1e8RA" alt="My Home Screen. Jailbroken, obviously." width="50%" />
 	<figcaption>My Home Screen. Jailbroken, obviously.</figcaption>
 </figure>
-
-What is it about our [home screens](http://lifehacker.com/5991283/how-to-customize-your-iphones-home-screen-and-break-away-from-the-pack) that inspires us to spend hours carefully planning where the apps should go?
 
 Another question: What is it about jailbreak tweaks like [Springtomize](http://www.idownloadblog.com/2014/01/25/review-springtomize-3/) that inspire so. many. resprings. that my battery goes dead in a few hours? Is the stock UI/UX that terrible? 
 
@@ -29,8 +29,7 @@ Pundits have been talking about this for years, but criticism of Apple's stock a
 
 In general, I prefer the third party alternatives because they offer a more refined feature set, more customizability, and overall, more power user features. 
 
-# Messages #
-
+# Messages
 Practically nobody I know uses WhatsApp or GroupMe, so Messages is the only real messaging client I would use. It gets the job done. However, I do use a couple of tweaks to make the experience better than stock:
 
 [Messages Conversation Photos](http://www.idownloadblog.com/2013/05/15/messages-convo-photos/) lets me see the pics of my peeps both in the message view, as well as in the list view, which is neat. I'm not sure why Apple doesn't do this by default. Sigh.
