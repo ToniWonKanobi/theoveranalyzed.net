@@ -3,36 +3,16 @@
 @@ Description=I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
 @@ Tags=hacking Squarespace    
 
-## Contents
-* [Introduction](#introduction)
-* [Preamble](#preamble)
-* [History](#history)
-	* [From The Beginning, I Was A Tinkerer](#from)
-	* [Things Got Hairy](#things)
-	* [Are You Kidding Me? Of Course I Didn't Settle](#kidding)
-	* [Now What Do I Do?](#nowwhat)
-	* [Trying Some Things](#trying)
-	* [Another Template Change](#another)
-	* [Sidebar Time](#sidebartime)
-	* [So That's What That Does](#thats)
-	* [Starting Over](#starting)
-* [Doing It The Right Way](#doing)
-	* [One More Thing](#one)
-* [The Logo](#thelogo)
-	* [Pixelmator](#pixelmator)
-	* [If At First You Don't Succeed](#ifat)
-	* [Sketch](#sketch)
-* [Finally](#finally)
-* [Conclusion](#conclusion)
+# Introduction
 
-<h1><a name="introduction">Introduction</a></h1>
 Over the past 48 hours, I have become acquainted with a new friend. 
 
 That friend is [Sketch](http://bohemiancoding.com/sketch/), a wonderful design application for OS X, created by Bohemian Coding. 
 
 More on this later.
 
-<h1><a name="preamble">Preamble</a></h1>
+# Preamble
+
 When I launched TheOverAnalyzed last year, I knew nothing about the following:
 
 * HTML
@@ -42,11 +22,12 @@ When I launched TheOverAnalyzed last year, I knew nothing about the following:
 
 Now, a year later, I still know nothing relatively nothing about the aforementioned topics. But, *I know a whole lot more than I did a year ago.*
 
-<h1><a name="history">History</a></h1>
+# History
+
 [Squarespace](www.squarespace.com) <s>is the all-in-one</s>[^1] made building a website insanely easy. Everything everyone has said about it has been pretty accurate in my experience. Typically, the biggest barrier to creating something is the lack of knowledge surrounding the framework upon which you might build. For making websites, that translates to the biggest barrier being a lack of knowledge regarding HTML, CSS, JavaScript, and Web Design.[^2] Squarespace takes care of all that. With all of that out the way, I was able to focus on content, which, at the end of the day, is all that matters. 
 
-<h2><a name="from">From The Beginning, I Was A Tinkerer. 
-</a></h2>
+## From The Beginning, I Was A Tinkerer
+
 I started with the [Native](http://native-demo.squarespace.com/) template, which was, like most templates, insanely sparse and clean-looking. It had a centered main content format, and by default, the top navigation was placed underneath the logo image, which was so much more pleasing than on the top right, which was the format of some of the other templates.
 
 Here's the Native demo page:
@@ -72,8 +53,8 @@ And here's a screenshot[^3] of my site from just a couple of weeks ago, before t
 	<figcaption>TheOverAnalyzed with the Avenue template (Version 1)</figcaption>
 </figure>
 
-<h2><a name="things">Things Got Hairy 
-</a></h2>
+## Things Got Hairy
+
 I had been wanting to make a few changes to the way my posts behaved. For instance, I wanted an arrow (→) to follow the title on Linked posts, and I also wanted a permalink (∞) to follow the the Linked post's date. There didn't seem to be a way to do that from within the Configuration section. I looked around for some ideas, and found a [post](http://duner.webfactional.com/blog/squarespace-permalinks) discussing the <code>{.passthrough}</code> string. That post offered a great solution, but the author noted that the string was only exposed to Squarespace users with the Developer Platform turned on.
 
 Huh. I had heard on a podcast[^5] that Squarespace had a Developer Platform. Interesting. I wondered what that was all about, so I visited the Developer landing page. It seemed pretty straightforward? 
@@ -90,11 +71,12 @@ So what did I do?
 
 I forgot about it, and just settled on not having Linked posts behave like I wanted.
 
-<h2><a name="kidding">Are You Kidding Me? Of Course I Didn't Settle  
-</a></h2>
+## Are You Kidding Me? Of Course I Didn't Settle
+
 I did what have always done when it comes to nerdery: I took the plunge. I turned on the Developer Platform. 
 
-<h2><a name="nowwhat">Now What Do I Do? </a></h2>
+## Now What Do I Do?
+
 I wasn't sure whether Git or SFTP was the way to go, so I started with Git (due to my previous experience with GitHub). Turns Out™ that using Git involved using Terminal to push changes to the server, which seemed a little too [John Siracusa](http://hypercritical.co) [Mac OS 9](https://en.wikipedia.org/wiki/Mac_OS_9) for me. 
 
 So SFTP it was. 
@@ -103,7 +85,8 @@ Interestingly, I wasn't sure how to use SFTP (or [FTP](https://en.wikipedia.org/
 
 How cool.
 
-<h2><a name="trying">Trying Some Things </a></h2>
+## Trying Some Things
+
 The first changes I made, like most 'first times,' were disastrous. I completely broke the site. I accidentally made changes to <code>global.less</code> without realizing what I had done. Unsure how to fix things, I turned off Developer mode in Squarespace, which reverted the site back to how it was before turning Developer mode on. Whew. Everything was fixed. Then I turned Developer mode back on, and tried again. 
 
 I quickly familiarized myself with `blog.list` and `blog.item` and was able to make the arrow and [permalink](/2015/2/1/permalinks-in-squarespace) changes like I wanted (and much [more](/2015/1/31/bigfoot-footntes-in-squarespace). 
@@ -115,7 +98,7 @@ Here's a screenshot of Permalinks Version 1.0:[^7]
 	<figcaption>Permalinks Version 1.0</figcaption>
 </figure>
 
-<h2><a name="another">Another Template Change</a></h2>
+## Another Template Change
 
 Things were looking [how I wanted](http://d.pr/i/1cvPC+). Still, I wasn't quite satisfied. 
 
@@ -177,7 +160,8 @@ But this led to a terrible design on mobile:
 	<figcaption>Mobile pre `custom.less`</figcaption>
 </figure>
 
-<h2><a name="thats">So That's What This Does</a></h2>
+## So That's What This Does
+
 In trying to fix the padding of the site on Desktop, I was making changes to `global.less`, which is a stylesheet that makes changes to *all* implementations of the site -- desktop/tablet/phone.
 
 What I *should* have been doing was using the `@media` query to insure that the changes made to the desktop/tablet versions of the site did *not*[^9] effect the phone-sized versions of the site.
@@ -186,10 +170,12 @@ Now, any sane person would have probably just traced back every change made to `
 
 But I'm not sane. I'm figuring things out as I go. So what did I do?
 
-<h2><a name="starting">Starting Over</a></h2>
+## Starting Over
+
 Yeah, I started over. I turned off Developer mode, and then turned it back on. This reverted my site to the default Wells configuration.
 
-<h1><a name="doing">Doing It The Right Way</a></h1>
+# Doing It The Right Way
+
 Here is how I decided to re-style the site, using `.less` slash`.css` stuffs:
 
 * I created a `custom.css`, which would allow me to make changes to the style of the site without being unable to 'revert' back to the default `global.less` and/or `mobile.less` configurations.
@@ -205,7 +191,8 @@ Here is how I decided to re-style the site, using `.less` slash`.css` stuffs:
 	* Here is the `@media` query I used to target iPads in landscape orientation:
 	* <script src="https://gist.github.com/ToniWonKanobi/50bc973ad2dde32fbb81.js"></script>
 
-<h2><a name="one">One More Thing</a></h2>
+## One More Thing
+
 The final piece left in the puzzle was the logo. 
 
 When I started the site, I was lazy. Heck, I still am lazy. But I was even lazier a year ago. I wanted my logo to contain some reference to my faithful companion animal, [Smokey](http://d.pr/i/1h4fZ+).
@@ -214,14 +201,19 @@ Squarespace had *just* rolled out their [logo designer tool](http://squarespace.
 
 I think it was actually a pretty nice logo considering it took me about 5 minutes to put together:
 
-<img src="http://d.pr/i/1b8Ss+" alt="Logo Version 1.0" width="50%" />
+<figure>
+	<img src="http://d.pr/i/1b8Ss+" alt="logo1" width="85%" />
+	<figcaption>Logo Version 1.0</figcaption>
+</figure>
 
 But from the beginning, the plan was always to someday create my own. 
 
 And that takes us to the present, conveniently serving to book-end this post.
 
-<h1><a name="thelogo">The Logo</a></h1>
-<h2><a name="pixelmator">Pixelmator</a></h2>
+# The Logo
+
+## Pixelmator
+
 I started with [Pixelmator](http://www.pixelmator.com/). Hands-down, the team at Pixelmator have designed an amazing Photoshop alternative for Cocoa / OS X lovers like myself. I'm no photographer, but from what I gather, Pixelmator features about 90% of what Photoshop or Lightroom offer. That was more than enough to win me over.
 
 When they launched version 2.2 a couple of years ago, I remember hearing about [Vectormator](http://www.pixelmator.com/blog/2013/05/14/introducing-vectormator/). When I originally caught wind of that addition, I made a mental note to myself that if I ever needed to create a graphic, I was going to use Pixelmator.
@@ -234,10 +226,12 @@ Alas, no:
 
 There was no way to properly export an SVG from Pixelmator. Instead of being an all-out graphic design fork from Pixelmator, Vectormator merely enhanced photos for Pixelmator. 
 
-<p><h2><a name="ifat">If At First You Don't Succeed</a></h2>
+## If At First You Don't Succeed
+
 I needed a program that was easy to use like Pixelmator, but allowed easy exportation of a vector file. Interestingly enough, through my previous contact with the Pixelmator team, [Sketch was suggested to me](https://twitter.com/pixelmator/status/565182862128082946).
 
-<p><h2><a name="sketch">Sketch</a></h2>
+## Sketch
+
 Sketch is on its [third major version](http://bohemiancoding.com/sketch/whats-new/) now, and while its true power lies in its excellent suite of mobile design utilities, the app is great for just run-of-the-mill website stuff, like logos. 
 
 I started with a photo of Smokey:
@@ -302,7 +296,8 @@ I spent a fair amount of time trying to use my (`Logo.svg`) in place of the stat
 
 I ended up having to edit the `site.region` file that Squarespace uses as the site template, more or less. 
 
-<p><h1><a name="finally">Finally</a></h1>
+# Finally
+
 Finally. [It was finished](http://biblehub.com/john/19-30.htm). I was able to get things looking how I want.[^13]
 
 Desktop:
@@ -335,7 +330,8 @@ iPhone:
 
 ***
 
-<p><h1><a name="conclusion">Conclusion</a></h1>
+# Conclusion
+
 As far as I can tell, I have reached the limits of what one man can do for a given Squarespace template.
 
 I recently listened to an old [episode](http://5by5.tv/buildanalyze/18) of [Build and Analyze](http://5by5.tv/buildanalyze), in which Marco talked about [Second Crack](https://github.com/marcoarment/secondcrack).
