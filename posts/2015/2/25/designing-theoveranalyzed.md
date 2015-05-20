@@ -3,6 +3,8 @@
 @@ Description=I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
 @@ Tags=hacking Squarespace    
 
+[[TOC]]
+
 # Introduction
 
 Over the past 48 hours, I have become acquainted with a new friend. 
@@ -59,7 +61,7 @@ I had been wanting to make a few changes to the way my posts behaved. For instan
 
 Huh. I had heard on a podcast[^5] that Squarespace had a Developer Platform. Interesting. I wondered what that was all about, so I visited the Developer landing page. It seemed pretty straightforward? 
 
-That is, until I got to the [part](http://developers.squarespace.com/initial-setup/) that mentioned [Git](https://en.wikipedia.org/wiki/Git_(software) and [SFTP](https://en.wikipedia.org/wiki/SFTP). 
+That is, until I got to the [part](http://developers.squarespace.com/initial-setup/) that mentioned [Git](https://en.wikipedia.org/wiki/Git_(software)) and [SFTP](https://en.wikipedia.org/wiki/SFTP). 
 
 Uh, no thanks. 
 
