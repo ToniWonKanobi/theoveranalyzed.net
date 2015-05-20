@@ -15,8 +15,8 @@ var markdownit = require('markdown-it')({
 	typographer: true
 })
 	.use(require('markdown-it-footnote'));
-	.use(require('markdown-it-anchor'))
-	.use(require("markdown-it-table-of-contents"));
+//	.use(require('markdown-it-anchor'))
+//	.use(require("markdown-it-table-of-contents"));
 var Rss = require('rss');
 var Handlebars = require('handlebars');
 
