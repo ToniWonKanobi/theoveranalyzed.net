@@ -16,9 +16,9 @@ var markdownit = require('markdown-it')({
 })
 	.use(require('markdown-it-footnote'));
 	mdnh = require('markdown-it-named-headers');
-		md.use(mdnh, options);
-	md.use(require("markdown-it-anchor"));
-	md.use(require("markdown-it-table-of-contents"));
+		markdownit.use(mdnh, options); 				
+	markdownit.use(require("markdown-it-anchor"));
+	markdownit.use(require("markdown-it-table-of-contents"));
 var Rss = require('rss');
 var Handlebars = require('handlebars');
 

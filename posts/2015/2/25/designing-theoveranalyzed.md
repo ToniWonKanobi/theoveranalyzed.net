@@ -141,7 +141,7 @@ Here is Niel Cybart's Stratechery-esche Above Avalon:
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/11e3c+" alt="caption" width="80%" />
+	<img src="http://d.pr/i/19QPN+" alt="caption" width="80%" />
 	<figcaption>Look at that <code>.main-content</code> scroll</figcaption>
 </figure>
 
