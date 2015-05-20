@@ -7,9 +7,9 @@ module.exports = {
 		DefaultImage: 'http://d.pr/i/1eKCj+'
 	},
 	Social: {
-		Twitter: "theoveranalyzed",
+		Twitter: "@theoveranalyzed",
 		autoTweets: {
-			twitterUserName: "theoveranalyzed",
+			twitterUserName: "@theoveranalyzed",
 			twitterClientNeedle: "TOA Headquarters",
 			consumer_key: "",
 			consumer_secret: "",
