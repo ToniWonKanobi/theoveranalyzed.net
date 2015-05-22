@@ -21,7 +21,7 @@ var markdownit = require('markdown-it')({
 	  permalinkClass: "header-anchor",
 	  permalinkSymbol: "⎈" 
 	  }))
-	.use(require('markdown-it-table-of-contents'));
+//	.use(require('markdown-it-table-of-contents'));
 var Rss = require('rss');
 var Handlebars = require('handlebars');
 
