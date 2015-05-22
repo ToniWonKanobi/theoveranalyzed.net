@@ -10,9 +10,9 @@ Mike Beasley, for 9to5Mac:
 
 >The disappearance of the application from the store indicates that this may not be a mere glitch on Twitter’s end.
 
-And so the [fun][3] continues. 
+And so the [fun][fn] continues. 
 
-In other news: [screw you Twitter][4].
+In other news: [screw you Twitter][sc].
 
-[4]: https://blog.twitter.com/2010/evolving-ecosystem
-[3]: http://www.imore.com/why-twitters-new-token-limits-causes-tapbots-remove-twitter-mac-alpha-download-link
+[fn]: http://www.imore.com/why-twitters-new-token-limits-causes-tapbots-remove-twitter-mac-alpha-download-link
+[sc]: https://blog.twitter.com/2010/evolving-ecosystem

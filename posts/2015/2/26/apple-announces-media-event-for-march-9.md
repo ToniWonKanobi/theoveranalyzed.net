@@ -6,6 +6,4 @@
 
 Is it wrong to want to be sick on this day?
 
-[Hat tip to [Jim Dalrymple][1]]
-
-[1]: http://www.loopinsight.com/2015/02/26/apple-announces-media-event-for-march-9/
+[Hat tip to [Jim Dalrymple](http://www.loopinsight.com/2015/02/26/apple-announces-media-event-for-march-9/)

@@ -2,7 +2,7 @@
 @@ Date=2015-01-08 09:08  
 @@ Link=http://mattrichman.net/post/107317484498/tag-heuer-and-the-future-of-the-luxury-watch  
 @@ Description=Whose else is considering wearing the Apple Watch on one wrist, and their previous favorite watch on the other?  
-@@ Tags=apple, apple watch, culture  
+@@ Tags=Apple, Apple Watch, culture, watches    
 
 What are all of us watch people going to do in [March](http://9to5mac.com/2015/01/06/apple-watch-launch/) when the WATCH launches? 
 

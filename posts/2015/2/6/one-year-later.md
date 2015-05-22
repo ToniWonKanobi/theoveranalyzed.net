@@ -1,9 +1,10 @@
 @@ Title=One Year Later  
 @@ Date=2015-02-06 18:00  
-@@ Description=Although I haven't beel posting regularly for the past year, it feels good to have garnered a small following. Thanks to all of you who read this site.  
-@@ Tags=meta, anthony
+@@ Description=Although I haven't been posting regularly for the past year, it feels good to have garnered a small following. Thanks to all of you who read this site.  
+@@ Tags=meta, Anthony, blogging  
 
 #First, Thanks.
+
 I started this site [around a year ago](http://www.theoveranalyzed.net/2014/2/2/first-post-ever) as an outlet to both collect and share my thoughts on technology and the ensuing pop culture. Because it is an anniversary of sorts, I wanted to share some of the statistics available to me:
 
 * As of today, there are **251** unique subscribers via RSS
@@ -17,6 +18,7 @@ This site was a big checkmark off of my bucket list. I remember listening to the
 So, yay.
 
 #Next
+
 Another bucket list item I have is hosting my own **podcast**. In these times of the [second/third podcast renaissance](http://www.theoveranalyzed.net/posts/2014/12/serial-and-putting-longform-radio-back-on-the-map), podcasting is easier than ever. Squarespace [practically does it for you](http://help.squarespace.com/guides/podcasting-with-squarespace). At some point I will to do that.
 
 But before I venture into podcasting, I need to have something to contribute. I'm sure my podcast will revolve around Apple and technology and how that relates to popular culture (just like this site). But I want more from my podcast. Part of my podcast dream involves talking with the people in the Apple development community, whom I have been listening to for the better part of 18 months.
@@ -27,11 +29,13 @@ Ever since getting really into Apple around ten years ago, I have always wanted 
 So how could I go about learning a programming language? 
 
 #Experts Say
+
 It seems there is no silver bullet to learning a programming language. Everyone learns things differently. However,  [Casey Liss](http://www.caseyliss.com/2014/6/9/how-do-i-start-programming) and the rest of the ATP guys have some [thoughts on this topic](http://atp.fm/episodes/102). 
 
 Their take on the best way to learn a language? 
 
 #Try to Solve a Problem
+
 Instead of aimlessly writing code for the sake or writing code, why not write code for a purpose? For example, create a website. Or make an application?
 
 I made the website already, so it was an **app** for me. 
@@ -41,6 +45,7 @@ For the longest time, I struggled with this. I didn't have any problems I though
 All that's left is to make it. 
 
 #The End
+
 So forcing myself to sit down and write an app will accomplish my goal of learning a language, but in a backwards sort of way. That's okay. Sometimes I wonder if I am destined to do everything the hard way. Learning Objective-C and/or [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) certainly wouldn't garner upon myself that venerable moniker of "programmer" I mentioned earlier, but it will go a long way. 
 
 Stay tuned for updates on my app, and, eventually, podcast. All in good time 🐺

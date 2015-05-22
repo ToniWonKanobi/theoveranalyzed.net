@@ -1,7 +1,7 @@
 @@ Title=Zoos  
 @@ Date=2014-02-12 22:45  
 @@ Description=Zoos are terrible. Read to find out why.  
-@@ Tags=animal advocacy  
+@@ Tags=animal advocacy, animals, advocacy, opinion  
 
 Melissa Cronin for The Dodo, [reporting](https://www.thedodo.com/second-giraffe-also-named-mari-427715988.html) on the euthanasia of a giraffe in Denmark:
 

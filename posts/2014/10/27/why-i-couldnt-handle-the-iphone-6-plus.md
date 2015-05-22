@@ -1,13 +1,15 @@
 @@ Title=Why I Couldn't Handle The iPhone 6 Plus  
 @@ Date=2014-10-27 12:00  
 @@ Description=So I tried the iPhone 6 Plus, and it was too much for me.  
-@@ Tags=reviews, iPhone, iPhone 6 Plus, #plusclub
+@@ Tags=reviews, iPhone, iPhone 6 Plus, #plusclub, Anthony, recommendations  
+
+# That Night
 
 It was 12:43 AM on Friday, September 12, 2014. After 43 minutes of horror, I was one of the lucky [few](http://www.cnet.com/news/apple-iphone-6-preorders/) who successfully preordered an iPhone 6 Plus that night (morning). I was so excited. Finally, an iPhone with a bigger-than-4-inches screen. I imagined all the YouTubing and Netflixing I would be doing during my lunches at work, and I imagined actually using that silly com.apple.videos app (on my phone!). Conversely, I also imagined having 'not the best' iPhone (which was something I had done before during my brief stent with a 5C last year). That experience was one I did not want to repeat. (Don't get me wrong, I loved the everything about the 5C -- how it felt in my hand, the warmth it conveyed vs the coldness of the 5/5s, but I missed the A7 and the camera sensor).
 
 Some thought went into my decision.
 
-**In Favor of Plus vs Regular:**
+# In Favor Of The Plus Versus The Regular
 
 1. A bigger screen meant [not having to carry around an iPad](http://www.gottabemobile.com/2014/10/04/can-iphone-6-plus-replace-your-ipad-mini-with-retina/), because I could watch things on my big ol' phone.
 2. A bigger case meant the iPhone could house a [bigger battery](http://bgr.com/2014/09/22/iphone-6-vs-iphone-6-plus-battery-life/), so I wouldn't have to feel guilty for not charging my phone in the car during lunch.
@@ -15,7 +17,7 @@ Some thought went into my decision.
 4. A design better in every way than the [previous iPhones](http://sonnydickson.com/2014/05/22/a-visual-look-at-apples-iphone-6-vs-previous-iphones/) (except for the [original iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)). That thing was a [beaut](https://web.archive.org/web/20080119034334/http://www.apple.com/iphone/gallery/index2.html).)
 Adventure
 
-**In Favor of Regular vs Plus:**
+# In Favor Of The Regular Versus The Plus
 
 1. A bigger screen and a bigger case meant ... a bigger lump of metal in my [pocket](http://www.gottabemobile.com/2014/09/15/iphone-6-iphone-6-plus-pocket-test-video/).
 2. A bigger lump in my pocket also meant that I would have a bigger lump in my workout shorts. A bigger lump in my workout shorts means my phone could more easily fall out. Could I deal with that?
@@ -23,7 +25,7 @@ Adventure
 4. The regular 6 looks just as good as the bigger Plus
 5. Familiarity
 
-That's it really. I decided to go with the Plus. #YOLO. 
+That's it really. I decided to go with the Plus. 
 
 So, with that in mind, I thoroughly enjoyed my Plus for a couple of days. It fit fine in my work pockets, sat nicely in the cup holder in my car, and since I rarely used my iPhone for one-handed typing, thumbing on this was actually easier than previous iPhones. 
 
@@ -35,11 +37,11 @@ A week or so later, I began to self-reflect. Why was I wearing a case around the
 
 Next, I did what any self-respecting nerdophile would do in these situations: I re-consulted with Gruber, Marco, Jason Snell, Myke Hurley, and a multitude of other technology personalities. Only, I didn't actually consult with them. Instead, I listened to them rant on their respective podcasts (see: [The Talk Show](http://daringfireball.net/thetalkshow/2014/09/19/ep-095), [ATP](http://atp.fm/episodes/82), and [Upgrade](http://relay.fm/upgrade/1)).
 
-**Their collective voice was quite clear:**
+# Their Collective Voice Was Clear
 
-* The iPhone 6 Plus was too big.
+*The iPhone 6 Plus was too big.*
 
-* So they all got the regular 6.
+*So they all got the regular 6.*
 
 This talk hadn't perturbed me initially. In fact, during the time leading up to the actual launch day, I chalked up all the nerd-hate against the Plus as a sort of 'Ah-these-are-the-same-guys-who-thought-Apple-should-have-stayed-with-a-3.5"-screen-size-forever' mentality. 
 

@@ -2,7 +2,7 @@
 @@ Date=2015-02-04 10:30  
 @@ Link=http://www.theverge.com/2015/2/4/7977963/fcc-net-neutrality-victory  
 @@ Description=The FCC voted today to reclassify broadband internet service. Power to the people.  
-@@ Tags=net neutrality, advocacy, politics, industry  
+@@ Tags=Net Neutrality, advocacy, politics, industry  
 
 Nilay Patel, on a train, for The Verge:
 >I asked my friend Julie Samuels from Engine Advocacy for a comment, and all she said was "this is fucking awesome."

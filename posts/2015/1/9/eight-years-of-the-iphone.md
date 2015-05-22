@@ -2,7 +2,7 @@
 @@ Date=2015-01-09 16:23
 @@ Link=http://sixcolors.com/post/2015/01/eight-years-of-the-iphone/  
 @@ Description=Where were *you* when iPhone launched? ()I was off being a poor college student.)  
-@@ Tags=anthony, iPhone, apple, culture, history  
+@@ Tags=Anthony, iPhone, Apple, culture, history  
 
 [Jason Snell](http://www.twitter.com/jsnell) of [Six Colors](http://www.sixcolors.com):
 >A few days later I managed to get my hands on one for a few minutes and was amazed by it. 

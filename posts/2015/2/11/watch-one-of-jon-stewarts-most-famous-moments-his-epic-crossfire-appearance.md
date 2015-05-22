@@ -7,11 +7,11 @@
 Zack Beauchamp, for Vox:
 >"You're partisan — what do you call it — hacks," Stewart said, to a stunned Carlson and Begala. "Stop hurting America."
 
-I hadn't seen this clip when it originally aired over 10 years ago. I watched Jon Stewart a bit in college, but then forgot about him when I forgot about the rest of television years ago. I still haven't quite 'remembered' TV, though, admittedly, some recent efforts have gotten my attention.[^1]
+I hadn't seen this clip when it originally aired over 10 years ago. I watched Jon Stewart a bit in college, but then forgot about him when I forgot about the rest of television years ago. I still haven't quite 'remembered' TV, though, admittedly, some recent efforts have gotten my attention.[^bb]
 
 This clip just about sums up everything that is great about Stewart. His crushing satire on Fox News and the rest of the conservative media is typically spot on. That said, his funnies on CNN are *just* as good. While he leans toward progressivism a great deal, he is quite the equal opportunity comic. 
 
-He will be missed.[^2]
+He will be missed.[^m]
 
-[^1]: [Breaking Bad](http://amctv.com/shows/breaking-bad), [Star Wars Rebels](http://disneyxd.disney.com/star-wars-rebels), and guilty pleasure musts like [Game of Thrones](http://www.hbo.com/game-of-thrones) and [Downton Abbey](http://www.itv.com/downtonabbey) *\--* that sums up my list of appreciated TV medias quite well.
-[^2]: And on the bright side, this might open up even more of an audience for [John Oliver](http://www.hbo.com/last-week-tonight-with-john-oliver), who is just plain awesome.
+[^bb]: [Breaking Bad](http://amctv.com/shows/breaking-bad), [Star Wars Rebels](http://disneyxd.disney.com/star-wars-rebels), and guilty pleasure musts like [Game of Thrones](http://www.hbo.com/game-of-thrones) and [Downton Abbey](http://www.itv.com/downtonabbey) *\--* that sums up my list of appreciated TV medias quite well.
+[^m]: And on the bright side, this might open up even more of an audience for [John Oliver](http://www.hbo.com/last-week-tonight-with-john-oliver), who is just plain awesome.

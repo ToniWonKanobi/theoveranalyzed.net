@@ -1,7 +1,7 @@
 @@ Title=We Love Cars  
 @@ Date=2015-01-12 09:00  
 @@ Description=Why is it that we humans dedicate so much space to our personal transportation devices? Could it be because we absolutely love them?  
-@@ Tags=cars, culture, anthony, porsche, nsx, 911, corvette    
+@@ Tags=cars, culture, Anthony, Porsche, NSX, 911, Corvette    
 @@ Image=http://www.total911.com/wp-content/uploads/2014/10/Porsche-964-driving.jpg  
 
 Joseph Stromberg from [Vox](http://www.vox.com/xpress/2014/11/18/7236471/cars-pedestrians-roads) on an interesting illustration by Claes Tingvall:
@@ -21,7 +21,7 @@ What could possibly possess us to allow so much of '[our](http://www.alternet.or
 
 <figure>
 	<img src="http://image.automobilemag.com/f/52935344%2Bq100%2Bre0/chevrolet-corvette-c4-zr1.jpg" alt="Ah, where it all started for me: the Chevrolet Corvette. This specimen is a 1990 ZR-1. 'Murica 🇺" width="57%" />
-	<figcaption>Ah, where it all started for me: the Chevrolet Corvette. This specimen is a 1990 ZR-1. 'Murica 🇺</figcaption>
+	<figcaption>Ah, where it all started for me: the Chevrolet Corvette. This specimen is a 1990 ZR-1. 'Murica 🇺🇸</figcaption>
 </figure>
 
 My own love affair with automobiles is not overly romantic or ambitious like, say, [Chris Harris](https://en.wikipedia.org/wiki/Drive_(web_series)) or [Larry Kosilla](http://carsalways.com/2013/01/07/the-story-of-larry-kosilla-and-his-passion-for-cars/). In truth, I wasn't really interested in cars until around the sixth grade. Before then it was all about [great TV](https://en.wikipedia.org/wiki/Drive_(web_series)) and [Legos](http://www.amazon.com/Vintage-Barracuda-Pirate-Shooting-Cannons/dp/B0021XFDL0).  Here's what happened: I remember driving to school, and as we turned left onto the street which led to my school, I saw a pretty neat looking car pass us by. My mom or dad answered "[Corvette](http://en.wikipedia.org/wiki/Chevrolet_Corvette)" when I asked what kind of car that was. Looking back, I am pretty sure it was a [C5](http://en.wikipedia.org/wiki/C5_Corvette), not a [C4](http://en.wikipedia.org/wiki/C5_Corvette) like the example pictured above. Anyways, that moment stuck with me. But, oddly enough, I don't think I started really getting into the marque until I told my grandpa about seeing the Corvette. That's when it got read.
@@ -32,7 +32,7 @@ So you can imagine, then, just how special it was for me to have his approval. A
 
 ***
 
-My undergraduate experience was life-changing, no doubt. I made [friends](http://twitter.com/The_Real_Hunter) there that I still have, I met my [wife](http://twitter.com/venusautumn) there, and I chose my [profession](https://en.wikipedia.org/wiki/Dentistry) there. Precious. Ignoring those more important life consequences, one interesting change I went through concerned my car preferences. That was partially inspired by the car culture I discovered on the third floor of [Grainger](https://en.wikipedia.org/wiki/Dentistry). Several of my hallmates either had nice cars, or talked about them incessantly. At first, my devotion to America's "great for the money" sports car was unwavering. When they talked about the then 'it' sports cars like the [E46 M3](https://en.wikipedia.org/wiki/BMW_M3#E46_M3) and [E92 M3](https://en.wikipedia.org/wiki/BMW_M3#E90.2F92.2F93_M3)'s, or the 997, my response was the typical "Yeah, but for the money, the [Z06](https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C6)#Z06) beats the ..." (Any car with fans decrying how good it is for the money has serious identity issues. Even Jay Leno regards Corvette with [price in mind](http://www.youtube.com/watch?v=rC_TTqul92I&amp;t=3m59s).)
+My undergraduate experience was life-changing, no doubt. I made [friends](http://twitter.com/The_Real_Hunter) there that I still have, I met my [wife](http://twitter.com/venusautumn) there, and I chose my [profession](https://en.wikipedia.org/wiki/Dentistry) there. Precious. Ignoring those more important life consequences, one interesting change I went through concerned my car preferences. That was partially inspired by the car culture I discovered on the third floor of [Grainger](https://en.wikipedia.org/wiki/Dentistry). Several of my hall-mates either had nice cars, or talked about them incessantly. At first, my devotion to America's "great for the money" sports car was unwavering. When they talked about the then 'it' sports cars like the [E46 M3](https://en.wikipedia.org/wiki/BMW_M3#E46_M3) and [E92 M3](https://en.wikipedia.org/wiki/BMW_M3#E90.2F92.2F93_M3)'s, or the 997, my response was the typical "Yeah, but for the money, the [Z06](https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C6)#Z06) beats the ..." (Any car with fans decrying how good it is for the money has serious identity issues. Even Jay Leno regards Corvette with [price in mind](http://www.youtube.com/watch?v=rC_TTqul92I&amp;t=3m59s).)
 
 I grew up in the [Central Valley](https://en.wikipedia.org/wiki/Central_Valley_(California)), historically an agricultural land ripe with farmers/ranchers. The area has since devolved substantially, mostly as a bedroom community for bay area commuters. My upbringing was pretty humble. My family wasn't wealthy. Subconsciously, the notion of an affordable sports car was likely a particularly important one for me. The Corvette fit that mold perfectly.
 
@@ -40,7 +40,7 @@ So you can imagine how my more affluent friends' ill-opinions and condescension 
 
 <figure>
 	<img src="http://www.arab4x4.com/wp-content/gallery/car_wallpapers/Honda-NSX/Honda-NSX-008.jpg" alt="Changing tastes: I went Asian. Pictured above: a 2002 Honda NSX 🇯" width="70%" />
-	<figcaption>Changing tastes: I went Asian. Pictured above: a 2002 Honda NSX 🇯</figcaption>
+	<figcaption>Changing tastes: I went Asian. Pictured above: a 2002 Honda NSX 🇯🇵</figcaption>
 </figure>
 
 There was no going back.
@@ -53,7 +53,7 @@ This NSX was my halo car until [graduate school](http://www.llu.edu/dentistry/in
 
 <figure>
 	<img src="http://www.total911.com/wp-content/uploads/2014/10/Porsche-964-driving.jpg" alt="Ahhh: what some would call the purest (and last) classic Porsche 911, the 964🇩" width="70%" />
-	<figcaption>Ahhh: what some would call the purest (and last) classic Porsche 911, the 964🇩</figcaption>
+	<figcaption>Ahhh: what some would call the purest (and last) classic Porsche 911, the 964 🇩🇪</figcaption>
 </figure>
 
 The 911 has had very few iterations of the years. It mirrors Corvette in that way. The truly classic lines are, well, classy. The [automotive prowess](https://en.wikipedia.org/wiki/Porsche_in_motorsport) accompanying the brand puts others to shame. The most modern yet still old version of this car is the [964](https://en.wikipedia.org/wiki/Porsche_964) generation, neatly nestled in the 911's history with a quaint 5 years of production. What followed was a much more [modern model](https://en.wikipedia.org/wiki/Porsche_993https://en.wikipedia.org/wiki/Porsche_993) (by Porsche standards), and the then came the crazy concept of cooling the engine by water and not just air. Silly Germans. Everything changed for the 911 after that.

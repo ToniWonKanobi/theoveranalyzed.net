@@ -2,7 +2,7 @@
 @@ Date=2015-01-14 16:00  
 @@ Link=http://www.theverge.com/2015/1/14/7545171/imac-concept-design-macintosh-homage  
 @@ Description=This wouldn't be thin enough for Jony.  
-@@ Tags=AHBL, hardware, apple, concepts  
+@@ Tags=AHBL, hardware, Apple, concepts  
 
 Vlad Savov for The Verge:
 >You don't need to have been around 31 years ago to appreciate the enduring legacy of Apple's Macintosh computer. 

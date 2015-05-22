@@ -10,11 +10,7 @@ Thanks Jimmy Kimmel.
 
 2. Warren G with his catchiest song ever.
 
-3. And I'm pretty sure that's [Andrew Gouche][1] playing his [MTD][2].
+3. And I'm pretty sure that's [Andrew Gouche](https://twitter.com/andrewgouche) playing his [MTD](http://www.musiciansfriend.com/bass/mtd-kingston-andrew-gouche-signature-6-string-electric-bass).
 
-[2]: http://www.musiciansfriend.com/bass/mtd-kingston-andrew-gouche-signature-6-string-electric-bass
-[1]: https://twitter.com/andrewgouche
+[From [Devour](http://devour.com/video/kenny-g-and-warren-g-perform-regulate/)]
 
-[From [Devour][3]]
-
-[3]: http://devour.com/video/kenny-g-and-warren-g-perform-regulate/

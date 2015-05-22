@@ -19,16 +19,16 @@ So there was no real difference in sound between the Pono songs and the same son
 
 <hr class="small">
 
-There was a time a couple of years ago where I maintained an iTunes library that was around 150 GB.[^1] What took up so much space? I had carefully curated around 40% of my library to be high-resolution (hi-res), most of which were encoded at 24-bits and had a sample rate of 192 kHz. I read all the forums. I read all the articles. All the scientific proof[^2] out there showed that, all things being equal,  **high resolution music was no better sounding than CD-quality music.** Still, like everyone else aboard the snake oil audiophile train, I wanted to believe what I had curated was somehow better. 
+There was a time a couple of years ago where I maintained an iTunes library that was around 150 GB.[^t] What took up so much space? I had carefully curated around 40% of my library to be high-resolution (hi-res), most of which were encoded at 24-bits and had a sample rate of 192 kHz. I read all the forums. I read all the articles. All the scientific proof[^np] out there showed that, all things being equal,  **high resolution music was no better sounding than CD-quality music.** Still, like everyone else aboard the snake oil audiophile train, I wanted to believe what I had curated was somehow better. 
 
-Is there a discernible difference between Napster-esque LAME MP3 lossy encodes and FLAC/ALAC lossless 24-bit/192 kHz encodes of the same song? Of course. Even EarPods would translate that difference quite obviously.[^4] But a CD-quality, 16-bit/44.1 kHz encode of the same song would probably approach the differential between the aforementioned hi-res and Napster-quality samples I suggested earlier. At least to the 99th percentile.[^3] That sounds good enough to me.
+Is there a discernible difference between Napster-esque LAME MP3 lossy encodes and FLAC/ALAC lossless 24-bit/192 kHz encodes of the same song? Of course. Even EarPods would translate that difference quite obviously.[^o] But a CD-quality, 16-bit/44.1 kHz encode of the same song would probably approach the differential between the aforementioned hi-res and Napster-quality samples I suggested earlier. At least to the 99th percentile.[^n] That sounds good enough to me.
 
 I'm sure this will come up again, like it does every few years. 
 
 The *real* issue facing most modern music concerns [dynamic range](https://en.wikipedia.org/wiki/Dynamic_range) and [The Loudness Wars](https://en.wikipedia.org/wiki/Loudness_war). Check that out instead.
 
-[^4]: Ultimately the [bitrate](https://en.wikipedia.org/wiki/Bit_rate#Audio) of the encode matters more than the [bit depth](https://en.wikipedia.org/wiki/Audio_bit_depth) and [sampling rate,](https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate) but even then, it's a stretch. Once [iTunes Plus](https://en.wikipedia.org/wiki/ITunes_Store#Pricing_model) came out and ushered in 256 kbps AAC files, the days of crappy sounding lossy tracks were gone. 
-[^3]: My statistics are completely based not on actual data
-[^2]: Read: 'non-proof'
-[^1]: Not counting my then immense video library, which largely fell off a truck.
+[^t]: Not counting my then immense video library, which largely fell off a truck.
+[^np]: Read: 'non-proof'
+[^o]: Ultimately the [bitrate](https://en.wikipedia.org/wiki/Bit_rate#Audio) of the encode matters more than the [bit depth](https://en.wikipedia.org/wiki/Audio_bit_depth) and [sampling rate,](https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate) but even then, it's a stretch. Once [iTunes Plus](https://en.wikipedia.org/wiki/ITunes_Store#Pricing_model) came out and ushered in 256 kbps AAC files, the days of crappy sounding lossy tracks were gone. 
+[^n]: My statistics are completely based not on actual data
 

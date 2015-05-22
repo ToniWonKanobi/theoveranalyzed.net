@@ -1,7 +1,9 @@
 @@ Title=Designing TheOverAnalyzed  
 @@ Date=2015-02-25 08:00  
 @@ Description=I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
-@@ Tags=hacking Squarespace    
+@@ Tags=hacking Squarespace, Sketch, TheOverAnalyzed, Pixelmator, design, web design, HTML, CSS, JavaScript     
+
+## Contents
 
 [[TOC]]
 
@@ -26,7 +28,7 @@ Now, a year later, I still know nothing relatively nothing about the aforementio
 
 # History
 
-[Squarespace](www.squarespace.com) <s>is the all-in-one</s>[^1] made building a website insanely easy. Everything everyone has said about it has been pretty accurate in my experience. Typically, the biggest barrier to creating something is the lack of knowledge surrounding the framework upon which you might build. For making websites, that translates to the biggest barrier being a lack of knowledge regarding HTML, CSS, JavaScript, and Web Design.[^2] Squarespace takes care of all that. With all of that out the way, I was able to focus on content, which, at the end of the day, is all that matters. 
+[Squarespace](www.squarespace.com) <s>is the all-in-one</s>[^ss] made building a website insanely easy. Everything everyone has said about it has been pretty accurate in my experience. Typically, the biggest barrier to creating something is the lack of knowledge surrounding the framework upon which you might build. For making websites, that translates to the biggest barrier being a lack of knowledge regarding HTML, CSS, JavaScript, and Web Design.[^wd] Squarespace takes care of all that. With all of that out the way, I was able to focus on content, which, at the end of the day, is all that matters. 
 
 ## From The Beginning, I Was A Tinkerer
 
@@ -39,7 +41,7 @@ Here's the Native demo page:
 	<figcaption>The stock Native template</figcaption>
 </figure>
 
-Eventually, I noticed that the way Native implemented [blockquotes](http://d.pr/i/1cxvQ+) was kind of wonky. After some initial hesitation,[^4] I decided to switch to the [Avenue](http://avenue-demo.squarespace.com) template, which was a lot like Native, but had [blockquotes](http://d.pr/i/1lKIz+) like I wanted.
+Eventually, I noticed that the way Native implemented [blockquotes](http://d.pr/i/1cxvQ+) was kind of wonky. After some initial hesitation,[^ih] I decided to switch to the [Avenue](http://avenue-demo.squarespace.com) template, which was a lot like Native, but had [blockquotes](http://d.pr/i/1lKIz+) like I wanted.
 
 Here's the Avenue demo page: 
 
@@ -48,7 +50,7 @@ Here's the Avenue demo page:
 	<figcaption>The stock Avenue template</figcaption>
 </figure>
 
-And here's a screenshot[^3] of my site from just a couple of weeks ago, before the first big design change:
+And here's a screenshot[^v] of my site from just a couple of weeks ago, before the first big design change:
 
 <figure>
 	<img src="http://d.pr/i/1cvPC+" alt="caption" width="80%" />
@@ -57,15 +59,15 @@ And here's a screenshot[^3] of my site from just a couple of weeks ago, before t
 
 ## Things Got Hairy
 
-I had been wanting to make a few changes to the way my posts behaved. For instance, I wanted an arrow (→) to follow the title on Linked posts, and I also wanted a permalink (∞) to follow the the Linked post's date. There didn't seem to be a way to do that from within the Configuration section. I looked around for some ideas, and found a [post](http://duner.webfactional.com/blog/squarespace-permalinks) discussing the <code>{.passthrough}</code> string. That post offered a great solution, but the author noted that the string was only exposed to Squarespace users with the Developer Platform turned on.
+I had been wanting to make a few changes to the way my posts behaved. For instance, I wanted an arrow (→) to follow the title on Linked posts, and I also wanted a permalink (∞) to follow the the Linked post's date. There didn't seem to be a way to do that from within the Configuration section. I looked around for some ideas, and found a [post](http://duner.webfactional.com/blog/squarespace-permalinks) discussing the `{.passthrough}` string. That post offered a great solution, but the author noted that the string was only exposed to Squarespace users with the Developer Platform turned on.
 
-Huh. I had heard on a podcast[^5] that Squarespace had a Developer Platform. Interesting. I wondered what that was all about, so I visited the Developer landing page. It seemed pretty straightforward? 
+Huh. I had heard on a podcast[^hp] that Squarespace had a [Developer Platform](http://developers.squarespace.com). Interesting. I wondered what that was all about, so I visited the developer landing page. It seemed pretty straightforward? 
 
 That is, until I got to the [part](http://developers.squarespace.com/initial-setup/) that mentioned [Git](https://en.wikipedia.org/wiki/Git_(software)) and [SFTP](https://en.wikipedia.org/wiki/SFTP). 
 
 Uh, no thanks. 
 
-I had used GitHub a bit last year when I was [contributing](https://github.com/andreaslarsen/habesha/issues?q=is%3Aissue+is%3Aclosed) to a [repository](https://github.com/andreaslarsen/habesha) that contained jailbreak icon themes. I would find the BundleID for the app that needed theming, as well as the filenames of the icon sources. I would then find the iTunes Artwork using this [site,](http://bendodson.com/code/itunes-artwork-finder/index.html)[^6] and then parse all that information into a new Issue for the designer to make the icons for the theme. Finally, I would use AFC to transfer to my iOS device, via USB, the themed icon sources to their respective folders in the app bundle and insure that they were showing up properly.
+I had used GitHub a bit last year when I was [contributing](https://github.com/andreaslarsen/habesha/issues?q=is%3Aissue+is%3Aclosed) to a [repository](https://github.com/andreaslarsen/habesha) that contained jailbreak icon themes. I would find the BundleID for the app that needed theming, as well as the filenames of the icon sources. I would then find the iTunes Artwork using this [site,](http://bendodson.com/code/itunes-artwork-finder/index.html)[^bd] and then parse all that information into a new Issue for the designer to make the icons for the theme. Finally, I would use AFC to transfer to my iOS device, via USB, the themed icon sources to their respective folders in the app bundle and insure that they were showing up properly.
 
 But the idea of using Git or SFTP seemed to require much more nerd knowledge than I had at the time.
 
@@ -89,11 +91,11 @@ How cool.
 
 ## Trying Some Things
 
-The first changes I made, like most 'first times,' were disastrous. I completely broke the site. I accidentally made changes to <code>global.less</code> without realizing what I had done. Unsure how to fix things, I turned off Developer mode in Squarespace, which reverted the site back to how it was before turning Developer mode on. Whew. Everything was fixed. Then I turned Developer mode back on, and tried again. 
+The first changes I made, like most 'first times,' were disastrous. I completely broke the site. I accidentally made changes to `global.less` without realizing what I had done. Unsure how to fix things, I turned off Developer mode in Squarespace, which reverted the site back to how it was before turning Developer mode on. Whew. Everything was fixed. Then I turned Developer mode back on, and tried again. 
 
 I quickly familiarized myself with `blog.list` and `blog.item` and was able to make the arrow and [permalink](/2015/2/1/permalinks-in-squarespace) changes like I wanted (and much [more](/2015/1/31/bigfoot-footntes-in-squarespace). 
 
-Here's a screenshot of Permalinks Version 1.0:[^7]
+Here's a screenshot of Permalinks Version 1.0:[^pl]
 
 <figure>
 	<img src="http://d.pr/i/1lSZU+" alt="Permalinks Version 1" width="80%" />
@@ -108,13 +110,13 @@ One [stretch goal](http://www.forbes.com/sites/stevedenning/2012/04/23/in-praise
 
 And while I realized that this was so far off, I wanted to be ready.
 
-Being ready meant being able to implement the ads as soon as Jim Coudal knocks on my door.[^8]
+Being ready meant being able to implement the ads as soon as Jim Coudal knocks on my door.[^md]
 
-Problem was that I couldn't seem to envision a place for the ads on my current site. Avenue, just like Native before it, featured centered content. Where would The Deck ads go? Unlike almost every other terrible banner ad, The Deck ads are confined to a relatively small, square block. I couldn't place them at the very top of the site, because they would take a way from the logo. I also didn't think it would be fair, traffic-wise, to place them at the bottom of the site, say, above the ©.
+Problem was that I couldn't seem to envision a place for the ads on my current site. Avenue, just like Native before it, featured centered content. Where would[ The Deck](http://decknetwork.net/) ads go? Unlike almost every other terrible banner ad, The Deck ads are confined to a relatively small, square block. I couldn't place them at the very top of the site, because they would take a way from the logo. I also didn't think it would be fair, traffic-wise, to place them at the bottom of the site, say, above the `©`.
 
 Most of the other sites sponsored by The Deck had a sidebar.
 
-Naturally, I needed a sidebar. 
+Naturally, I <s>needed</s> a sidebar. 
 
 I noticed [Above Avalon](http://aboveavalon.com) a few weeks ago, and loved the non-scrolling (`position: absolute`) sidebar. I also loved that the site was built on Squarespace. *This meant I could easily implement a sidebar on my own site.*
 
@@ -130,7 +132,7 @@ Here is Niel Cybart's Stratechery-esche Above Avalon:
 	<figcaption>Look at that <code>.main-content</code> scroll</figcaption>
 </figure>
 
-<h2><a name="sidebartime">Sidebar Time</a></h2>
+## Sidebar Time
 
 I looked around the templates and discovered that Cybart had implemented a relatively unchanged version of [Wells](http://wells-demo.squarespace.com/). Wells is a great template for photographers or graphic designers, as it really makes content like pictures or graphics or videos the star of the web view. 
 
@@ -166,7 +168,7 @@ But this led to a terrible design on mobile:
 
 In trying to fix the padding of the site on Desktop, I was making changes to `global.less`, which is a stylesheet that makes changes to *all* implementations of the site -- desktop/tablet/phone.
 
-What I *should* have been doing was using the `@media` query to insure that the changes made to the desktop/tablet versions of the site did *not*[^9] effect the phone-sized versions of the site.
+What I *should* have been doing was using the `@media` query to insure that the changes made to the desktop/tablet versions of the site did *not*[^mq] effect the phone-sized versions of the site.
 
 Now, any sane person would have probably just traced back every change made to `global.less` and reverted it back to the default. 
 
@@ -181,11 +183,11 @@ Yeah, I started over. I turned off Developer mode, and then turned it back on. T
 Here is how I decided to re-style the site, using `.less` slash`.css` stuffs:
 
 * I created a `custom.css`, which would allow me to make changes to the style of the site without being unable to 'revert' back to the default `global.less` and/or `mobile.less` configurations.
-* I then modified `template.conf` at the string `"stylesheets"` such that `custom.css` was loaded *after* `mobile.less`, which was, wonderfully, loaded after `global.less` by default[^10] 
+* I then modified `template.conf` at the string `"stylesheets"` such that `custom.css` was loaded *after* `mobile.less`, which was, wonderfully, loaded after `global.less` by default[^mlgl] 
 	* The output should look like this, at least for the Wells template: 
 		* `"stylesheets" : [ "tweak.less", "global.less", "mobile.less", "bigfoot-number.css", "custom.css" ]`
 * I wanted to ensure that the mobile version of the site extended all the way to iPad in portrait mode, but, for iPad in landscape mode, I wanted the site to load in Desktop-mode.
-	* In `custom.css`, I used an `@media only screen and (min-width:769px)` modifier, which basically calls for implementing parts of `custom.css` *only* when the width of the display window is 769px or greater.[^12]
+	* In `custom.css`, I used an `@media only screen and (min-width:769px)` modifier, which basically calls for implementing parts of `custom.css` *only* when the width of the display window is 769px or greater.[^ip]
 	* For kicks, here is the content of that `@media` query:
 	* <script src="https://gist.github.com/ToniWonKanobi/4ff2c73d6f9e27916d7c.js"></script>
 	* That worked great, but my design broke down when I zoomed in on the iPad when in landscape mode.
@@ -199,7 +201,7 @@ The final piece left in the puzzle was the logo.
 
 When I started the site, I was lazy. Heck, I still am lazy. But I was even lazier a year ago. I wanted my logo to contain some reference to my faithful companion animal, [Smokey](http://d.pr/i/1h4fZ+).
 
-Squarespace had *just* rolled out their [logo designer tool](http://squarespace.com/logo).[^14] I used it to combine a stock Getty-ish graphic of a dog with a relatively boring sans serif font for the site title's text.
+Squarespace had *just* rolled out their [logo designer tool](http://squarespace.com/logo).[^ld] I used it to combine a stock Getty-ish graphic of a dog with a relatively boring sans serif font for the site title's text.
 
 I think it was actually a pretty nice logo considering it took me about 5 minutes to put together:
 
@@ -300,7 +302,7 @@ I ended up having to edit the `site.region` file that Squarespace uses as the si
 
 # Finally
 
-Finally. [It was finished](http://biblehub.com/john/19-30.htm). I was able to get things looking how I want.[^13]
+Finally. [It was finished](http://biblehub.com/john/19-30.htm). I was able to get things looking how I want.[^iw]
 
 Desktop:
 
@@ -348,16 +350,16 @@ We'll see.
 
 Until then, maybe I can get back to writing.
 
-[^1]: Sorry, I couldn't help it: At the moment I was writing that, I felt as if I were hosting my own podcast and doing an ad read for Squarespace. 
-[^2]: You get where I'm going with this now, don't you?
-[^3]: My site isn't cool enough to have been crawled by these guys yet, but have you heard of or visited [archive.org](archive.org)? I have spent hours there looking at old archives of [www.apple.com](https://web.archive.org/web/19980509035420/http://www.apple.com/). Such a great resource.
-[^4]: Even before things got [crazy](http://d.pr/i/1kNyI+), I had changed *quite* a big of stuff from the default settings. Almost everything -- font size/styles/colors, as well as link colors, etc -- had been customized to my liking. And, at that time, because I didn't have any knowledge regarding how Squarespace made under-the-hood changes to the user interface, I was scared to just change to a completely new template.
-[^5]: I can't remember which. Chances are it was either Upgrade or Inquisitive, because I can vaguely remember it being Myke Hurley to made reference to Stephen Hackett, who also uses the Developer Platform. Though, I feel safe saying that he hasn't used it *[nearly](https://twitter.com/ismh/status/564079479992360961)* as much as I have. 
-[^6]: Another great resource. 
-[^7]: Before mastering `blog.item`, I wasn't sure how to place the permalink after the date on Linked items. I thought I was stuck with it following the title of linked items. I figured that out [eventually](http://d.pr/i/1hVrx+) ⌘
-[^8]: Via email.
-[^9]: Sometimes I wonder, do I *italicize* **too** ***much***? 
-[^10]: For all the flack I give Squarespace via email and twitter, these guys really have done a decent job of designing how developers can manipulate things. I wish they did more, like allow customization of RSS, as well as some default URL slug stupidness, but maybe that will come with time. 
-[^12]: 769px is exactly one pixel greater than the `device-width` of iPad in portrait mode. 
-[^13]: There are a few things I would like to change, but I think for the sake of my sanity, I will leave well enough alone for now. 
-[^14]: Apparently, this caused a bit of a controversy in the [web design community](http://www.fastcodesign.com/3025363/is-squarespaces-new-logo-generator-a-design-crime). 
+[^ss]: Sorry, I couldn't help it: At the moment I was writing that, I felt as if I were hosting my own podcast and doing an ad read for Squarespace. 
+[^wd]: You get where I'm going with this now, don't you?
+[^v]: My site isn't cool enough to have been crawled by these guys yet, but have you heard of or visited [archive.org](archive.org)? I have spent hours there looking at old archives of [www.apple.com](https://web.archive.org/web/19980509035420/http://www.apple.com/). Such a great resource.
+[^ih]: Even before things got [crazy](http://d.pr/i/1kNyI+), I had changed *quite* a big of stuff from the default settings. Almost everything -- font size/styles/colors, as well as link colors, etc -- had been customized to my liking. And, at that time, because I didn't have any knowledge regarding how Squarespace made under-the-hood changes to the user interface, I was scared to just change to a completely new template.
+[^hp]: I can't remember which. Chances are it was either Upgrade or Inquisitive, because I can vaguely remember it being Myke Hurley to made reference to Stephen Hackett, who also uses the Developer Platform. Though, I feel safe saying that he hasn't used it *[nearly](https://twitter.com/ismh/status/564079479992360961)* as much as I have. 
+[^bd]: Another great resource. 
+[^pd]: Before mastering `blog.item`, I wasn't sure how to place the permalink after the date on Linked items. I thought I was stuck with it following the title of linked items. I figured that out [eventually](http://d.pr/i/1hVrx+) ⌘
+[^md]: Via email.
+[^mq]: Sometimes I wonder, do I *italicize* **too** ***much***? 
+[^ip]: 769px is exactly one pixel greater than the `device-width` of iPad in portrait mode.
+[^ld]: Apparently, this caused a bit of a controversy in the [web design community](http://www.fastcodesign.com/3025363/is-squarespaces-new-logo-generator-a-design-crime). 
+[^mlgl]: For all the flack I give Squarespace via email and twitter, these guys really have done a decent job of designing how developers can manipulate things. I wish they did more, like allow customization of RSS, as well as some default URL slug stupidness, but maybe that will come with time. 
+ [^iw]: There are a few things I would like to change, but I think for the sake of my sanity, I will leave well enough alone for now. 

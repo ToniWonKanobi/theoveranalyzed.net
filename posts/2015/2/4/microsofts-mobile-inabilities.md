@@ -2,12 +2,12 @@
 @@ Date=2015-02-04 14:30  
 @@ Link=http://om.co/2015/02/04/microsofts-mobile-inabilities/  
 @@ Description=Microsoft has a distinctly different philosophy when it comes to consumer products.  
-@@ Tags=apple, business, microsoft, industry  
+@@ Tags=Apple, business, Microsoft, industry  
 
 Jim Dalrymple of The Loop, reporting on a piece by [Om Malik](http://om.co/2015/02/04/microsofts-mobile-inabilities/):
 >Microsoft has a long history of not getting product trends. They didn’t get the iPod, tablets, iPhone and a host of other products that it could have made a lot of money on.
 
-Dalrymple's next sentence is profound:[^1]
+Dalrymple's next sentence is profound:[^sar]
 >Microsoft is profit-focused, which means it makes shitty products. 
 
 I'm not sure I agree completely here. Apple is profit-focused too, but not in the same way.
@@ -19,4 +19,4 @@ Microsoft missed the boat on mobile, there's no denying that. And it sure is lau
 
 [From [The Loop](http://www.loopinsight.com/2015/02/04/microsofts-mobile-inabilities/]
 
-[^1]: lolz.
+[^sar]: Sarcasm.

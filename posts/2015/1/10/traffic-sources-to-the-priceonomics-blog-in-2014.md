@@ -2,7 +2,7 @@
 @@ Date=2015-01-10 18:22  
 @@ Link: http://daringfireball.net/linked/2015/01/09/priceonomics  
 @@ Description=Facebook truly doesn't matter.  
-@@ Tags=social media, facebook, blogging, culture  
+@@ Tags=social media, Facebook, blogging, culture  
 
 [Daring Fireball](http://www.daringfireball.net) recently linked an [article](http://priceonomics.com/traffic-sources-to-the-priceonomics-blog-in-2014/) from Pricenomics regarding traffic to its blog:
 >One thing we gradually noticed, however, was that maintaining a Facebook page was pretty much a waste of time by the end of 2014

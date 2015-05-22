@@ -2,7 +2,7 @@
 @@ Date=2015-02-05 15:00  
 @@ Link=http://jalopnik.com/tesla-model-s-p85d-the-jalopnik-review-1683834973  
 @@ Description=The world's best electric car is now officially faster than almost every variant of arguably the world's best car period, the 911. 
-@@ Tags=cars  
+@@ Tags=cars, Tesla  
 
 Damon Lavrinc for Jalopnik, recounting his phone-destroying experience while reviewing the Tesla Model S P85D:
 >I was being so good, doing all the unglamorous car reviewer stuff. Driving in a congested area, inching through start-and-stop traffic, running over rough asphalt. After about 30 minutes I'd had enough. I switched the driving mode to Insane and mashed the throttle away from a deserted traffic light. Bad idea.

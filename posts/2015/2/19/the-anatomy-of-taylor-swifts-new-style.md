@@ -10,7 +10,7 @@ Kelsey McKinney for Vox, on Taylor Swift's latest video for Style:
 If you like pop music, you should watch this. McKinney uses ol' TSwift as a form for explaining the anatomy of a great pop record. 
 
 Topics covered: 
-1. Why is Style so dang catchy?
-2. Why are some pop songs just *so* dang catchy?
+* Why is Style so dang catchy?
+* Why are some pop songs just *so* dang catchy?
 
 A great watch for [Swifties](http://www.urbandictionary.com/define.php?term=swiftie) or any fan of pop music.

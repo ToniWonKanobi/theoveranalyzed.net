@@ -5,7 +5,6 @@
 @@ Tags=movies, politics, culture  
 
 Vlad Savov of The Verge:
-
 >Reviews from the professional critics who've actually seen the movie have been diametrically opposed to this grassroots expression of support.
 
 This is just great. The millennials have acted again, apparently. And in doing so, have done their best to upset the current status quo of movie-reviewing elites. I have the distinctest feeling that Sony will indeed reverse its decision, if for no other reason in lieu of all the pop culture pressure to do so.

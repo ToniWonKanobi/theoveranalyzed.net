@@ -10,8 +10,8 @@ Neil Cybart of Above Avalon, on Tim Cook's conversation with Goldman Sachs:
 Cybart goes on:
 >Apple is purposely downplaying hardware, which by incident is validation that hardware is a crucial piece to Apple's success. [...] Why downplay hardware? They want to direct attention elsewhere. 
 
-Now that Apple is clearly [big time](http://www.businessinsider.com/apple-q1-earnings-2015-1?op=1), Cybart argues, Apple wants to focus on the areas of their business which are not juggernaut successes. Recently, prominent members of the development community[^1] have criticized Apple's software efforts, most notably the [often-misconstrued](http://www.marco.org/2015/01/05/popular-for-a-day) [piece](http://www.marco.org/2015/01/04/apple-lost-functional-high-ground) by Marco Arment. 
+Now that Apple is clearly [big time](http://www.businessinsider.com/apple-q1-earnings-2015-1?op=1), Cybart argues, Apple wants to focus on the areas of their business which are not juggernaut successes. Recently, prominent members of the development community[^an] have criticized Apple's software efforts, most notably the [often-misconstrued](http://www.marco.org/2015/01/05/popular-for-a-day) [piece](http://www.marco.org/2015/01/04/apple-lost-functional-high-ground) by Marco Arment. 
 
 Moreover, Wall Street and The Valley might appreciate Apple's shifting focus to software, because as Cybart states, they "simply don't understand hardware." 
 
-[^1]: And [regular folks](http://www.marco.org/2015/01/05/popular-for-a-day), too. 
+[^an]: *And* [regular folks](http://www.marco.org/2015/01/05/popular-for-a-day), too. 

@@ -2,7 +2,7 @@
 @@ Date=2015-01-06 10:50  
 @@ Link=http://9to5mac.com/2015/01/06/macbook-air-12-inch-redesign/  
 @@ Description=Mark Gurman of 9to5Mac has the scoop on Apple's next-gen MacBook Air.
-@@ Tags=MacBook, apple, hardware, rumors  
+@@ Tags=MacBook, Apple, hardware, rumors  
 
 Mark Gurman, for 9to5Mac:
 >The upcoming laptop is so thin that Apple employees are said to refer to the device as the “MacBook Stealth” internally.

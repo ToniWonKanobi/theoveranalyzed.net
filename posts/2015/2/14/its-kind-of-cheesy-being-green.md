@@ -13,6 +13,4 @@ Simply put, I completely took for granted being able to have messages synced on 
 
 What a terrible time in my life. 
 
-[From [Daring Fireball][1]]
-
-[1]: http://daringfireball.net/linked/2015/02/12/being-green
+[From [Daring Fireball](http://daringfireball.net/linked/2015/02/12/being-green)]

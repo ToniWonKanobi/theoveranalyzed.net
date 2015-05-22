@@ -1,7 +1,7 @@
 @@ Title=Soft Remix: A WinterBoard Theme for iOS 7  
 @@ Date=2014-02-02 22:52  
 @@ Description=I reviewed a WinterBoard theme for jailbroken iOS 7 devices.  
-@@ Tags=jailbreak, iOS, iOS 7, apps, themes  
+@@ Tags=jailbreak, iOS, iOS 7, apps, themes, iPhone  
 @@ Image=http://d.pr/i/1dizS+   
 
 <figure>

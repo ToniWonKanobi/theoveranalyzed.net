@@ -1,12 +1,10 @@
 @@ Title=Serial  
 @@ Date=2014-12-23 12:00  
 @@ Description=I talk about how Serial is one of the driving forces behind the most recent podcast renaissance  
-@@ Tags=podcasts, culture  
+@@ Tags=podcasts, culture, apps, iOS, App Store    
 
-Darren Murph of [Gear Patrol][1]:
+Darren Murph of [Gear Patrol](http://gearpatrol.com/2014/12/22/serial-putting-longform-radio-back-map/):
 >By its nature, it was bound to be unsatisfying on a level where many demand satisfaction. And yet, people were captivated.
-
-[1]: http://gearpatrol.com/2014/12/22/serial-putting-longform-radio-back-map/
 
 [Serial](http://serialpodcast.org/) has [done for podcasting](http://www.theverge.com/2014/11/28/7302227/the-future-is-podcasts) what apps like [Twitterrific](http://twitterrific.com/ios) did for Twitter via social media, and what [Instapaper](https://www.instapaper.com/) did for read-it-later services: it has [re]-defined the medium upon which it was founded. 
 
@@ -22,8 +20,8 @@ Allow me to digress a bit into my past podcasting app choices.
 
 In late 2013, the choices for great podcasting apps was, as far as I was concerned (after tons of research, mind you) as follows:
 
-* [Pocket Casts](https://itunes.apple.com/us/app/pocket-casts/id414834813?mt=8)
-* [Castro](https://itunes.apple.com/us/app/castro-high-fidelity-podcasts/id723142770?mt=8)
+* [Pocket Casts](https://itunes.apple.com/us/app/pocket-casts/id414834813?at=1l3vx9s)
+* [Castro](https://itunes.apple.com/us/app/castro-high-fidelity-podcasts/id723142770?at=1l3vx9s)
 
 The [former](http://www.shiftyjelly.com/android/pocketcasts) was heralded for being a full-featured, cross-platform client that offered a cloud backend and syncing of podcasts. That last bit is important if you frequently delete apps and/or restore your phone. I was doing a lot of that when I was heavy into [jailbreaking](http://www.theoveranalyzed.net/posts/2014/02/soft-remix-a-winterboard-theme-for-ios-7). 
 
@@ -39,7 +37,7 @@ Enough of my digression.
 
 Up until I started listening to Serial, the majority of my podcasting consisted of essentially audio'd versions of favorite blogs' authors' thoughts. And there was nothing wrong with that. 
 
-I started spreading my wings away from the supremely tech-only podcasts with [NPR: Planet Money](http://www.npr.org/blogs/money/127413729/podcast/)and [Freakanomics](http://freakonomics.com/radio/). Then there was [Stuff You Missed in History Class](http://www.missedinhistory.com/), [Stuff You Should Know](http://www.stuffyoushouldknow.com/), and [Common Sense with Darn Carlin](http://www.dancarlin.com/). Next up I started following [The Liturgists](http://www.theliturgists.com/podcast), after following my favorite [local church](https://itunes.apple.com/us/podcast/shadow-ministries/id687341706?mt=2)'s feed. [Fathom Podcast](http://www.fathompodcast.com/) is right up the alley of The Liturgists, and should be [launching soon](http://www.fathompodcast.com/blog/why-this-podcast-exists12182014). 
+I started spreading my wings away from the supremely tech-only podcasts with [NPR: Planet Money](http://www.npr.org/blogs/money/127413729/podcast/)and [Freakanomics](http://freakonomics.com/radio/). Then there was [Stuff You Missed in History Class](http://www.missedinhistory.com/), [Stuff You Should Know](http://www.stuffyoushouldknow.com/), and [Common Sense with Darn Carlin](http://www.dancarlin.com/). Next up I started following [The Liturgists](http://www.theliturgists.com/podcast), after following my favorite [local church](https://itunes.apple.com/us/podcast/shadow-ministries/id687341706?at=1l3vx9s)'s feed. [Fathom Podcast](http://www.fathompodcast.com/) is right up the alley of The Liturgists, and should be [launching soon](http://www.fathompodcast.com/blog/why-this-podcast-exists12182014). 
 
 Serial is one of the latest podcasts I subscribed to, and has to be one of the best. **[Everything everyone has said about it is probably true](http://www.theverge.com/tldr/2014/11/7/7172167/why-you-need-to-listen-to-serial-and-what-to-read-once-you-start)**. Its compelling narrative helped over [5 million listeners](http://www.theverge.com/2014/11/18/7241715/serial-breaks-itunes-record-for-fastest-podcast-to-reach-5-million) conquer their inner ADD for the twelve ~45 min long episodes of murder mystery action. 
 

@@ -4,6 +4,4 @@
 @@ Description=I wonder if Audi will ever be exciting (again)?    
 @@ Tags=cars, Audi    
 
-Yawn.[^1]
-
-[^1]: Audi represents the death of the adage of 'German automobiles → drivers' cars'
+Yawn.^[Audi represents the death of the adage of 'German automobiles → drivers' cars']

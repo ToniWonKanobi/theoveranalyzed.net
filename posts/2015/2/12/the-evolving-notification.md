@@ -13,6 +13,6 @@ Admittedly, my desire for an Apple Watch is steeped somewhat in the reality that
 
 Ever since having an iPhone, I have painstakingly curated my notifications. For the most part, they are turned off. I don't ever use Notification Center, and rely more on Lock Screen notifications or app icon badges for select apps instead. Pop down / Alert notifications are disabled as well. Why? Because I hate being bothered when I'm doing something, and I hate having that nagging feeling of "Oh, something just made noise in my pocket. I wonder if I should check it?"
 
-Apple Watch will be a huge paradigm shift. Instead of being beholden to my phone, always having to take it out of my pocket, invoke the display, and then decide if the notification is worth an action,[^1] Apple Watch can tell me, with one glance, whether the notification is worth my attention *at that moment.* Boom.
+Apple Watch will be a huge paradigm shift. Instead of being beholden to my phone, always having to take it out of my pocket, invoke the display, and then decide if the notification is worth an action,[^ac] Apple Watch can tell me, with one glance, whether the notification is worth my attention *at that moment.* Boom.
 
-[^1]: If ever there were a "First World Problem" song, this would be the time to sing it.
+[^ac]: If ever there were a "First World Problem" song, this would be the time to sing it.

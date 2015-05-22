@@ -2,7 +2,7 @@
 @@ Date=2014-02-03 08:02  
 @@ Link=http://lifehacker.com/how-to-clean-up-and-fine-tune-your-twitter-feed-1514738479  
 @@ Description: Here are some tips to keep your timeline from stretching to 500 tweets unread with only a few hours missed.  
-@@ Tags=social media, power user  
+@@ Tags=social media, power user, Twitter, tech tips, recommendations 
 
 >Twitter is a serious communications medium with a really silly name. Regardless of the vernacular, Twitter can actually be really useful for getting up-to-the-minute information. Assuming, of course, you know how to get just the good stuff and filter out the junk.
 

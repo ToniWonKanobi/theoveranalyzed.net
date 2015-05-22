@@ -1,7 +1,7 @@
 @@ Title=My Thoughts On Apple's Rumored 12" MacBook Air  
 @@ Date=2015-01-10 11:17  
 @@ Description=I can't wait for the new MacBook Air. Even if it does only have one port.  
-@@ Tags=apple, hardware, rumors  
+@@ Tags=Apple, hardware, rumors  
 
 Daniel Eran Dilger of [AppleInsider](http://appleinsider.com/articles/15/01/10/apples-rumored-12-inch-macbook-air-appears-to-aggressively-target-mobility-with-usb-31-type-c) on why the [proposed](http://9to5mac.com/2015/01/06/macbook-air-12-inch-redesign/) move to the USB 3.1 Type-C connector is a necessary change:
 >Newer platforms and devices are reaching a point where existing USB receptacles and plugs are inhibiting innovation
@@ -38,7 +38,6 @@ Consider [UNPOPULARGEEK](http://unpopulargeek.com/iphone/)'s take on my postulat
 
 Spot on.
 
-In this 
-no-iPhone, 'whimpy-Apple' scenario, I suspect the smartphone still would have eventually supplanted featurephones. The difference between that scenario and reality: the smartphone would have been merely a slow-burner in the market, rather than the industry [explosion](http://fortune.com/2009/03/12/iphone-sales-grew-245-in-2008-gartner/) that was the original iPhone.
+In this no-iPhone, 'whimpy-Apple' scenario, I suspect the smartphone still would have eventually supplanted featurephones. The difference between that scenario and reality: the smartphone would have been merely a slow-burner in the market, rather than the industry [explosion](http://fortune.com/2009/03/12/iphone-sales-grew-245-in-2008-gartner/) that was the original iPhone.
 
 As painful as it is, we would be remiss without Apple continually pushing the boundaries, and concomitantly, continually forcing us go buy a new cable every few years.
