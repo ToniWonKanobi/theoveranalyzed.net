@@ -3,7 +3,7 @@
 @@ Description=Disliking Facebook doesn't make it any less pervasive to the masses. What will Instant Articles mean for publishers (big and small)?  
 @@ Tags=social media, Facebook, Instant Articles, TheOverAnalyzed, opinion  
 
-## Contents
+<h2>Contents</h2>
 
 [[TOC]]
 
