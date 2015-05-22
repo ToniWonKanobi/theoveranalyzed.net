@@ -12,13 +12,11 @@ Brian Mansfield, for USA Today:
 
 This is great. I remember the first time I watched [Live Aid 1985][la]. It was amazing. Selfishly, as a teenager in the 90's watching retrospectively, videos like this were amazing more because of the musical prowess and collaboration than helping actual people. I feel differently about it now, obviously. But every time I watch this documentary, or [this][dt] one, I am still in awe.
 
-Consider this: everyone there was at the top of their game. [Michael][mj]. [Stevie][sw]. [James Ingram][ji]. [The Boss][bs]. [Dylan][bd].[^bd2] [Diana][dr]. [Huey Lewis][hl]. [Billy Joel][bj]. [Quincy][qj] conducting. The list [literally goes on][fl]. Imagine being one of the contributing artists (so awesome right?). As the video shows, everyone is literally getting to watch their peers do their thing during the 'solo' section. It's like playing a gig full of musicians who are 10x better than you. Intimidating, yes. But the reward? Oh so sweet in the end.
+Consider this: everyone there was at the top of their game, more or less. [Michael][mj]. [Stevie][sw]. [James Ingram][ji]. [The Boss][bs]. [Dylan][bd]. [Diana][dr]. [Huey Lewis][hl]. [Billy Joel][bj]. [Quincy][qj] conducting. The list [goes on][fl]. Imagine being one of the contributing artists (so awesome right?). As the video shows, everyone is literally getting to watch their peers do their thing during the 'solo' section. It's like playing a gig full of musicians who are 10x better than you. Intimidating, yes. But the reward? Oh so sweet in the end.
 
 If you consider yourself a musician, or if you are a rabid fan of pop music, or even if you just like music a little bit, this is a great watch. Insta-[Instapaper][ip] for sure. 
 
 [From [The Loop][tl]]
-
-[^bd2]: [?](https://en.wikipedia.org/wiki/Bob_Dylan#1960s)
 
 [la]: https://en.wikipedia.org/wiki/Live_Aid
 [dt]: https://en.wikipedia.org/wiki/Do_They_Know_It%27s_Christmas%3F

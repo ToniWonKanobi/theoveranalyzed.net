@@ -4,7 +4,7 @@
 @@ Description=Legos. Star Wars. A match made in heaven.  
 @@ Tags=Legos, Star Wars, Star Wars Day, May The Fourth, sci-fi, movies  
 
-Okay, one [more](http://www.theoveranalyzed.net/archive/2015/5/mark-hamill-star-wars-screen-test):
+Okay, one [more](@@SiteRoot@@/2015/5/4/mark-hamill-star-wars-screen-test):
 >Star Wars Day is all about celebrating. And sometimes celebrating properly means building a gigantic Super Star Destroyer out of Lego—and then filming it getting smashed to pieces in slow-motion. 
 
 Note the [Bossk](http://starwars.wikia.com/wiki/Bossk)[^bo] and [Piett](http://starwars.wikia.com/wiki/Firmus_Piett) callouts. Nice. 
