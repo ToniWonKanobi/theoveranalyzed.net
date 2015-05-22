@@ -20,7 +20,7 @@ var markdownit = require('markdown-it')({
 	  permalink: true,
 	  permalinkClass: "header-anchor",
 	  permalinkSymbol: "⎈" 
-	  })
+	  }))
 	.use(require('markdown-it-table-of-contents'));
 var Rss = require('rss');
 var Handlebars = require('handlebars');
