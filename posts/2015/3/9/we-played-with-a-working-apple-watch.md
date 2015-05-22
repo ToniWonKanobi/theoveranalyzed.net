@@ -6,7 +6,7 @@
 
 I'll admit, after listening to the [latest](http://www.imore.com/debug-62-edwards-and-gruber-watches) Debug featuring [Jon Edwards](https://twitter.com/undertheloupe) and [others](https://twitter.com/gruber), I thought to myself: "Why is there that stupid 'Contacts' [button](http://d.pr/i/1cVL0+) anyways? All it serves to do is destroy the symmetry of the crown-side of the Watch."
 
-But after watching the keynote and seeing the demo, I'm convinced that while at least the placement[^If not the entire existence] of the button is questionable, the functionality is not questionable at all.
+But after watching the keynote and seeing the demo, I'm convinced that while at least the placement of the button is questionable, the functionality is not questionable at all.
 
 I think it will be incredibly useful. 
 

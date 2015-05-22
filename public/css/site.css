@@ -346,13 +346,19 @@ a.linked:visited {
 figure
 {
     display: inline;
-    float: right;
+/*    float: right;*/
 }
 
 figure.figleft
 {
 	display: inline;
 	float: left;
+}
+
+figure.figright
+{
+	display: inline;
+	float: right;
 }
 
 figcaption
