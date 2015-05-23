@@ -5,7 +5,7 @@
 
 Apple Watch is going to be important. But is it *that* important?
 
-## Contents:
+<h2>Contents</h2>
 
 [[TOC]]
 
@@ -27,7 +27,7 @@ Since his initial [post](http://daringfireball.net/2014/09/apple_watch), he has 
 
 Wow.
 
-## My Opinion Then
+## My Opinion *Then*
 
 I was previously of the camp that Gruber had overshot things.
 
@@ -51,7 +51,7 @@ Besides the starting price, everything else is up in the air.
 
 ## Who Is The Sport Model For?
 
-It is for people who either don't have a lot of money to spend, or do not want to spend a lot of money on a new platform, even one from our favorite fruit company. Gruber and John Moltz both seem set on getting the Sport model for this very reason.[^jm] They aren't sold on the viability of an Apple Watch yet, and thus, do not want to spend a lot of money on the 1.0 product. I have [friends](www.twitter.com/johnmyankee) who feel the same way. 
+It is for people who either don't have a lot of money to spend, or do not want to spend a lot of money on a new platform, even one from our favorite fruit company. Gruber and John Moltz both seem set on getting the Sport model for this very reason.[^jm] They aren't sold on the viability of an Apple Watch yet, and thus, do not want to spend a lot of money on the 1.0 product. I have [friends](http://www.twitter.com/johnmyankee) who feel the same way. 
 
 ## Who Is The Standard Model For?
 
@@ -118,7 +118,6 @@ But, that assumes you are like most of us. The rich people who are going to buy 
 Much of the discussion about Edition -- and Apple Watch as whole for that matter -- makes more sense when viewed from a *fashion/luxury*-oriented point of view, rather than a purely technology-centric point of view.
 
 Ben Thompson had thinks the same. Here's [his take](http://stratechery.com/2014/apple-watch-asking-saying/) last September:
-
 >The question is likely more fraught than it seems: the entry price for Apple Watch is $350, nearly half the price of an iPhone (and $150 more than the up-front cost for a subsidized consumer). Moreover, I suspect Edition models will go for ten times that, if not more. Surely such a price demands a device that is capable of doing more, not less.
 
 >In fact, I would argue the contrary. Swiss watches are less accurate, but the benefit they confer on the user are so much greater. Those benefits are about intangible things like status and fashion, but that doesn’t mean they are worth less than more technical capabilities like telling time accurately. Indeed, they are exponentially more valuable.

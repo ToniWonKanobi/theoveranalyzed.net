@@ -15,8 +15,8 @@ I couldn't agree more. I'm not sure that I will ever be as quick on an iPhone or
 Finally, here is Snell wrapping things up nicely:
 >[And] when I’m out and about I’ve got my phone, but when I’m in my house with the choice of all of these devices, I use my iPad and I love it.
 
-Nothing wrong with that. Check out the rest of the post for a nice mini-history of iPad, which, in case you didn't know, celebrates its [5th anniversary this year](http://www.theoveranalyzed.net/archive/2015/1/five-years-of-ipad).
+Nothing wrong with that. Check out the rest of the post for a nice mini-history of iPad, which, in case you didn't know, celebrates its [5th anniversary this year](@@SiteRoot@@/2015/1/26/five-years-of-ipad).
 
 <hr class="small" />
 
-I have been using Allison's iPad and MacBook Pro for the past few days, whenever my workflow stuff got tiresome on iPhone. More or less, I continue to get by without my MacBook, and since [last writing](http://www.theoveranalyzed.net/archive/2015/3/macbookless) on the subject, I am less than a week away from [April 10](http://www.cnet.com/products/apple-macbook-2015/), which is great news.
+I have been using Allison's iPad and MacBook Pro for the past few days, whenever my workflow stuff got tiresome on iPhone. More or less, I continue to get by without my MacBook, and since [last writing](@@SiteRoot@@/2015/3/31/macbookless) on the subject, I am less than a week away from [April 10](http://www.cnet.com/products/apple-macbook-2015/), which is great news.

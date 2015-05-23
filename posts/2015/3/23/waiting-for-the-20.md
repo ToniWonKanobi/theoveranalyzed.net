@@ -3,7 +3,7 @@
 @@ Description=When is it best to wait for the second generation of product? Won't there always be something better in the pipeline?  
 @@ Tags=Apple, Apple Watch    
 
-Craig Hockenberry of Iconfactory recently [wrote](http://furbo.org/2015/03/23/a-new-way-to-display/) on the [OLED](#update) display technology in the Apple Watch:
+Craig Hockenberry of Iconfactory recently [wrote](http://furbo.org/2015/03/23/a-new-way-to-display/) on the OLED[^fv] display technology in the Apple Watch:
 
 >From Apple’s point-of-view, one of the most important things about OLED is how it consumes power. A transistor on the display only uses energy when it’s producing light. Compare this with an LCD backlight which must be lit in order to see any pixel.
 
@@ -27,8 +27,5 @@ Apple is set to release two *major* new products this quarter, both of which hav
 
 Either way, I know that I'll be happier having tried it instead of waiting. 
 
-# Update
-
-Federico Vicicci wisely called [this](http://www.macstories.net/linked/a-new-way-to-display/) a [rumor](http://www.oled-info.com/confirmed-apples-watch-uses-amoled-display), because at this point, that's exactly what it is. As much as it *seems* that OLED is the display technology on the Apple Watch, we technically don't yet know that for sure. 
-
+[^fv]: Federico Vicicci wisely called [this](http://www.macstories.net/linked/a-new-way-to-display/) a [rumor](http://www.oled-info.com/confirmed-apples-watch-uses-amoled-display), because at this point, that's exactly what it is. As much as it *seems* that OLED is the display technology on the Apple Watch, we technically don't yet know that for sure. 
 [^im]: If the new MacBook doesn't have the power I need to accomplish relatively simple tasks such as an occasional Sketch or iMovie project, I'll likely grab an updated 2015 MacBook Air 11-inch.

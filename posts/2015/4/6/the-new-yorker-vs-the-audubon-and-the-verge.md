@@ -25,10 +25,10 @@ As an aside, consider my [RSS subscriptions](http://d.pr/f/tAD3+). In my so-call
 
 <figure>
 	<img src="http://d.pr/i/1jrql+" alt="caption" width="80%" />
-	<figcaption>Loving that dog-shaped favicon on that last entry in my Favorites list. I wonder whose clever <a href="@@SiteRoot@@/2015/2/25/designing-theoveranalyzed" >clever work</a> yielded that?</figcaption>
+	<figcaption>Loving that dog-shaped favicon on that last entry in my Favorites list. I wonder whose <a href="@@SiteRoot@@/2015/2/25/designing-theoveranalyzed" >clever work</a> created that?</figcaption>
 </figure>
 
-This doesn't even include the technology sites I follow in RSS/Twitter[^Which, admittedly, are kept to an absolute minimum. This is in an effort to avoid the drudgery that goes along with following several of the same types of publications simultaneously -- tons of duplicate articles from different publications about the same topic.]
+This doesn't even include the technology sites I follow in RSS/Twitter[^tw]
 
 <hr class="small" />
 
@@ -40,4 +40,6 @@ Whichever the reason, here's my take:
 
 * Franzen seems like a guy who can write well
 * Franzen really does seem to have an axe to grind
-* The Audubon [don't play that](https://www.youtube.com/watch?v=YxYvzVxJtYM).
+* The Audubon [don't play that](https://www.youtube.com/watch?v=YxYvzVxJtYM)
+
+[^tw]: Which, admittedly, are kept to an absolute minimum. This is in an effort to avoid the issues that come with following several of the same types of publications simultaneously -- tons of duplicate articles from different publications about the same topic. That gets old.

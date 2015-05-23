@@ -6,7 +6,7 @@
 
 I love stuff like this. A lot of these still look relevant today, over forty years later. I wonder which of today's modern designs we will be talking about forty years from now? 
 
-I'm no designer, but I play a design fan on the internet occasionally. [My wife](twitter.com/venusautumn) actually studied this stuff in [college](http://www.puc.edu/academics/departments/visual-arts/home), so it is completely proper for me to offer my opinion and expect you to think it legitimate.[^l]
+I'm no designer, but I play a design fan on the internet occasionally. [My wife](http://www.twitter.com/venusautumn) actually studied this stuff in [college](http://www.puc.edu/academics/departments/visual-arts/home), so it is completely proper for me to offer my opinion and expect you to think it legitimate.[^l]
 
 My all time favorite logo is that of [FedEx](https://lh6.googleusercontent.com/-qDXeK218LRQ/UVJHowyYp1I/AAAAAAAAACY/6zisc6Md0JQ/w2048-h2048/fedex-square.png).[^f]  [Fast Company](http://www.fastcodesign.com/1671067/the-story-behind-the-famous-fedex-logo-and-why-it-works) wrote an interesting piece[^p] exploring a logo whose story has become a quintessential lesson in negative space and general design philosophy. 
 

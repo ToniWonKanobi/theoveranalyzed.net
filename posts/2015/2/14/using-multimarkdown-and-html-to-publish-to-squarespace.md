@@ -3,29 +3,21 @@
 @@ Description=Here's my workflow for blogging using the Squarespace platform.  
 @@ Tags=blogging, hacking Squarespace  
 
-##Contents
+<h2>Contents</h2>
 
 [[TOC]]
 
 # Introduction
 
-I wrote a [piece](http://www.theoveranalyzed.net/posts/2015/1/bigfoot-footntes-squarespace) a few weeks back regarding all the 'back-end' things one should do in order to implement Bigfoot style footnotes. I also recently [updated](http://www.theoveranalyzed.net/posts/2015/1/bigfoot-footntes-squarespace#update) it to include proper number resetting in the <code>blog.list</code> view.  Briefly, here was that workflow:
+I wrote a [piece](@@SiteRoot@@/2015/1/31/bigfoot-footntes-in-squarespace) a few weeks back regarding all the 'back-end' things one should do in order to implement Bigfoot style footnotes. I also recently [updated](@@SiteRoot@@/2015/1/31/bigfoot-footntes-in-squarespace#update) it to include proper number resetting in the `blog.list` view.  Briefly, here was that workflow:
 
 1. Download the necessary files from bigfootjs.com (the JavaScript itself, and then the stylesheet)
 2. Upload them to Squarespace, using Squarespace's wonky file uploading system
 3. Finally, load the above files with Code Injection.[^ci]
 
-***
-
-**A lot of people don't know what any of this stuff means. I didn't before I spent hours on this stuff.**
-
-***
-
-Still, what had never occurred to me was that people might find the 'back-end' tasks easy, and would instead have a harder time knowing how to write content with Markdown or HTML, with footnotes specifically in mind.
+What had never occurred to me was that people might find the 'back-end' tasks easy, and would instead have a harder time knowing how to write content with Markdown or HTML, with footnotes specifically in mind.
 
 I have had a few people contact me regarding implementing Bigfoot footnotes into their writing. Rather than continue to answer each of those inquiries on an individual basis, I thought I would write a post that talks about the 'front-end' aspects of my writing. Note that this post will deal with my writing workflow as is, which means it will reference many Squarespace-specific aspects of my workflow. That said, I'm sure most everything I write will be applicable to the other content management services (CMS's) out there.
-
-I will try to keep this short, which, if you have been paying attention, means that this will be much longer than it needs to be.
 
 # The Process
 
@@ -35,7 +27,7 @@ Everything I write usually starts with an idea. This post I am writing *right no
 
 Many bloggers too easily succumb to the rush that accompanies publishing content, even bloggers operating on a small scale like what I am doing. On the latest episode of [Inquisitive](http://www.relay.fm/inquisitive/26), Myke Hurley discussed this phenomenon with Merlin Mann. They talked about how content creators sometimes fall in love with the drudgery-like aspects of creating. That could mean an author might be tempted to crank out a bunch of content, just to satisfy that insatiable desire to fill in all the little text fields, simply because it is ingrained and a habit. The problem with going down that path is it can lead to lesser-quality content in the long run
 
-I can related to their topic wholeheartedly. It feels good to put something out there. It feels even better to know [someone is listening](http://www.theoveranalyzed.net/posts/2015/2/one-year-later).
+I can related to their topic wholeheartedly. It feels good to put something out there. It feels even better to know [someone is listening](@@SiteRoot@@/2015/2/6/one-year-later).
 
 Almost all CMS's have a workflow that's pretty easy to master. With Squarespace, when I want to write something new, I simply fill out the pre-populated fields, click a few buttons, and then it's done. "Oh, this post is going to be a link to external content," I might ask myself whilst creating a new post. "I better be sure to copy and paste the source URL into the proper field, and then check the external link box accordingly," I might add. Finally, "I should switch that little Twitter slider so that my content gets automatically pushed to social media." 
 
@@ -124,25 +116,28 @@ Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview
 
 ## Text-Based How-To
 
-1. Here is the **text** for which I would like to add a footnote:
-	<p>*I like turtles.*</p>
-2. And here is the text I want to be the basis of a **footnote**, affixed at the end of the sentence in this case:
-	<p>*Turtles are super cool.*</p>
-3. In Byword, this is what I would type, in MultiMarkdown:
+1. Here is the *text* for which I would like to add a footnote:  
+	`I like turtles.`
+2. And here is the text I want to be the content of a *footnote*, affixed at the end of the sentence in this case:  
+	`Turtles are super cool.`
+3. In Byword, this is what I would type, in MultiMarkdown:  
 	<script src="https://gist.github.com/ToniWonKanobi/1bfb125c458213c4679f.js"></script>
-4. After converting it to HTML, it would look like this:
+4. After converting it to HTML, it would look like this:  
 	<script src="https://gist.github.com/ToniWonKanobi/c1bc6bca623cf01f188c.js"></script>
 5. Finally, paste that HTML into Code Block from the Squarespace post editor
 
 ## Video-Based How-To
 
-1. Here is the **text** for which I would like to add a footnote:  
-	*I like turtles.*
-2. And here is the text I want to be the basis of a **footnote**, affixed at the end of the sentence in this case:  
-	*Turtles are super cool.*
-3. [Video](http://d.pr/v/18FFK+): Typing with MultiMarkdown Syntax in Byword
-4. [Video](http://d.pr/v/13oR1+): Using Byword to Convert The Text to HTML
-5. [Video](http://d.pr/v/SSVK+): Pasting the Previously Copied HTML into a Code Block in Squarespace
+1. Here is the *text* for which I would like to add a footnote:  
+	`I like turtles.`
+2. And here is the text I want to be the content of a *footnote*, affixed at the end of the sentence in this case:  
+	`Turtles are super cool.`
+3. Typing with MultiMarkdown Syntax in Byword:  
+	<embed src="http://d.pr/v/18FFK+" autostart="false" />
+4. Using Byword to Convert The Text to HTML  
+	<embed src=http://d.pr/v/13oR1+" autostart="false" />
+5. Pasting the Previously Copied HTML into a Code Block in Squarespace  
+	<embed src="http://d.pr/v/SSVK+" autostart="false" />
 
 # Conclusion
 
@@ -150,11 +145,11 @@ As you can see, my workflow is not that complicated. Byword makes things incredi
 
 # Update
 
-Since writing this post, I have since moved from Byword to MultiMarkdown Composer. I also no longer use Code blocks, because I can accomplish as much using Markdown blocks[^It never donned on me that I could use Markdown blocks -- full of HTML content -- and edit said HTML in the Markdown blocks in the Squarespace iOS [Blog](http://www.squarespace.com/) app]. See my post [here](http://www.theoveranalyzed.net/archive/2015/4/byword-multimarkdown-composer-and-more) for details. 
+Since writing this post, I have since moved from Byword to MultiMarkdown Composer. I also no longer use `Code blocks`, and instead am using `Markdown blocks`. It never occurred to me that I could past pure HTML (parsed from Byword, or now, MultiMarkdown Composer) directly into the `Markdown blocks`. Doing so allows me to edit posts on the go from the Squarespace iOS [Blog](https://itunes.apple.com/us/app/squarespace-blog/id715084234?ls=1&mt=8&at=1l3vx9s) app]. Editing content in `Code blocks` required a desktop browser. See my [post](@@SiteRoot@@/2015/3/4/byword-multimarkdown-composer-and-more) for details. 
 
-[^ci]: These steps are arguably the hardest part of implementing Bigfoot footnotes. Most early bloggers are like myself: they don't know any HTML. They don't know any jQuery.
+[^ci]: These steps are arguably the hardest part of implementing Bigfoot footnotes. Most early bloggers are like myself -- they don't know *any* HTML. They don't know any JavaScript, either.
 [^nb]: That is, in actuality, the entire purpose of Markdown: easy parsing to HTML.
 [^lw]: I really do try to keep things brief.  
 [^to]:Turns Out™ that standard-Markdown, what Squarespace supports, does *not* support footnotes natively. Dumb.
-[^sir]: Accidental Tech Podcast [Episode 87](http://atp.fm/episodes/87), in which Siracusa describes his workflow, consisting of almost 100% writing in HTML (**!**)
+[^sir]: Accidental Tech Podcast [Episode 87](http://atp.fm/episodes/87), in which Siracusa describes his workflow, consisting of almost 100% writing in HTML (wow)
 

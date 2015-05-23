@@ -1,10 +1,8 @@
-@@ Title=Usher - "Pumped Up Kicks" (Cover)
+@@ Title=Usher - "Pumped Up Kicks" (Cover)  
 @@ Date=2015-02-25 08:52
 @@ Link=https://www.youtube.com/watch?v=zMEuA7HbiiY  
 @@ Description=Usher plays bass guitar for this Foster The People cover.  
-@@ Tags=music, music videos, covers    
-
-Some humpday tunes for you.
+@@ Tags=music, music videos, covers  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zMEuA7HbiiY" frameborder="0" allowfullscreen></iframe>
 

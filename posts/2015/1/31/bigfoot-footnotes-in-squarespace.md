@@ -39,10 +39,10 @@ The key was passing a particular object literal in the `Header` field of the `Co
 
 Here is how to get there:
 
-1. From the main site editor (with the horizontal panes to the left such as "Pages," "Design," etc.), *choose "Settings"*
-2. Next, *choose "Advanced"*
-3. After that, *choose "Code Injection"*
-4. In the Header field, on a new line immediately following the `script type="text/javascript"` line, *copy and paste this:*
+1. From the main site editor (with the horizontal panes to the left such as `Pages`, `Design`, etc.), choose `Settings`
+2. Next, `Advanced`
+3. After that, `Code Injection`
+4. In the `Header` field, on a new line immediately following the `script type="text/javascript"` line, copy and paste the following:
 
 	```javascript
 	$.bigfoot(

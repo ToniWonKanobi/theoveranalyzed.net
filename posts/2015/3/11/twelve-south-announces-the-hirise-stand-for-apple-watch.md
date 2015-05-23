@@ -4,4 +4,4 @@
 @@ Description=Twelve South's latest creation is a beautiful stand/charging station for your beautiful Apple Watch.    
 @@ Tags=Apple Watch, Twelve South, Apple, hardware, gear    
 
-These guys have the best stuff.
+These guys have [the best](https://www.twelvesouth.com/product/backpack-for-imac) stuff.

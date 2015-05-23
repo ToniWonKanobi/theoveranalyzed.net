@@ -3,7 +3,7 @@
 @@ Description=Traveling doesn't have to be terrible.  
 @@ Tags=traveling, Anthony  
 
-I don't travel much. When I do, it is usually by car, accompanied my [wife](twitter.com/venusautumn), and my [dog](twitter.com/smokeythedingo). 
+I don't travel much. When I do, it is usually by car, accompanied my [wife](http://www.twitter.com/venusautumn), and my [dog](http://www.twitter.com/smokeythedingo). 
 
 The drive to Northern California -- where our parents live -- while not particularly terrible, isn't exactly thrilling either. The 7-8 hour journey is mired with long, *long* stretches of either desert-y terrain, or SoCal freeways. Neither scenery is much better than the other. 
 
@@ -11,7 +11,7 @@ Flying is a much nicer experience:[^th]
 
 * Arrive at the airport an hour before departure
 * Because I'm lazy and hate lines, I forego checking a bag, and instead send my 'bag'[^ba] with Allison
-* Sit in a terminal for about 40 minutes while I finishing several [podcasts](overcast.fm) and plowing through my [Read It Later](instapaper.com) queue 
+* Sit in a terminal for about 40 minutes while I finishing several [podcasts](http://overcast.fm) and plowing through my [Read It Later](www.instapaper.com) queue 
 * Get on the plane and, an hour later, arrive at my destination
 
 Easy-peasy. 

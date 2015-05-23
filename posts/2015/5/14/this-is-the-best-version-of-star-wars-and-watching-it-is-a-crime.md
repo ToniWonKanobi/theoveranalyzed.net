@@ -1,7 +1,7 @@
 @@ Title=This Is The Best Version Of Star Wars -- And Watching It Is A Crime  
 @@ Date=2015-05-14 20:33  
 @@ Link=http://www.vox.com/2015/1/30/7952859/despecialized-edition-download  
-@@ Description=Harmy's Despecialized version of the original triology may be *the* version to get, but that doesn't make it legal. Is that a problem?  
+@@ Description=Harmy's "Despecialized" version of the original tri	logy may be *the* version to get, but that doesn't make it legal. Is that a problem?  
 @@ Tags=Star Wars, piracy, copyright, 
 
 Matthew Yglesias of Vox on an issue near and dear to my heart, the supreme lack of an un-fuddled, high definition version of George Lucas' science-fiction masterpiece[s]:
@@ -26,6 +26,6 @@ I suppose it all depends on your [point of view](https://www.youtube.com/watch?v
 In case you were wondering:
 
 <figure>
-<img src="http://d.pr/i/NHJO+" width="80%">
-<figcaption><a href="https://github.com/donmelton/video-transcoding-scripts">Don Melton</a>-ing these has been on my list of things to do for way too long</figcaption>
+	<img src="http://d.pr/i/NHJO+" width="80%">
+	<figcaption><a href="https://github.com/donmelton/video-transcoding-scripts">Don Melton</a>-ing these has been on my list of things to do for way too long</figcaption>
 </figure>
