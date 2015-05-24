@@ -132,12 +132,9 @@ Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview
 	`I like turtles.`
 2. And here is the text I want to be the content of a *footnote*, affixed at the end of the sentence in this case:  
 	`Turtles are super cool.`
-3. Typing with MultiMarkdown Syntax in Byword:  
-	<embed src="http://d.pr/v/18FFK+" autostart="false" />
-4. Using Byword to Convert The Text to HTML  
-	<embed src=http://d.pr/v/13oR1+" autostart="false" />
-5. Pasting the Previously Copied HTML into a Code Block in Squarespace  
-	<embed src="http://d.pr/v/SSVK+" autostart="false" />
+3. [Typing with MultiMarkdown Syntax in Byword](http://d.pr/v/18FFK)
+4. [Using Byword to Convert The Text to HTML](http://d.pr/v/13oR1) 
+5. [Pasting the Previously Copied HTML into a Code Block in Squarespace](http://d.pr/v/SSVK) 
 
 # Conclusion
 
@@ -145,7 +142,7 @@ As you can see, my workflow is not that complicated. Byword makes things incredi
 
 # Update
 
-Since writing this post, I have since moved from Byword to MultiMarkdown Composer. I also no longer use `Code blocks`, and instead am using `Markdown blocks`. It never occurred to me that I could past pure HTML (parsed from Byword, or now, MultiMarkdown Composer) directly into the `Markdown blocks`. Doing so allows me to edit posts on the go from the Squarespace iOS [Blog](https://itunes.apple.com/us/app/squarespace-blog/id715084234?ls=1&mt=8&at=1l3vx9s) app]. Editing content in `Code blocks` required a desktop browser. See my [post](@@SiteRoot@@/2015/3/4/byword-multimarkdown-composer-and-more) for details. 
+Since writing this post, I have switched from Byword to MultiMarkdown Composer for my text editor.  I also no longer use `Code blocks` for my content -- I am using `Markdown blocks` instead. I just paste the raw HTML parsed from MultiMarkdown Composer into a `Markdown block`, just like I was doing previously with `Code blocks`. Because editing content in `Code blocks` required a desktop browser, I was stuck waiting until I could get to my MacBook before fixing a typo I noticed after publishing. Using the `Markdown blocks` allows me to edit posts on the go from the Squarespace iOS [Blog](https://itunes.apple.com/us/app/squarespace-blog/id715084234?ls=1&mt=8&at=1l3vx9s) app. See my [post](@@SiteRoot@@/2015/3/4/byword-multimarkdown-composer-and-more) for details. 
 
 [^ci]: These steps are arguably the hardest part of implementing Bigfoot footnotes. Most early bloggers are like myself -- they don't know *any* HTML. They don't know any JavaScript, either.
 [^nb]: That is, in actuality, the entire purpose of Markdown: easy parsing to HTML.

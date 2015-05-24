@@ -143,7 +143,7 @@ After consulting with the [Squarespace Answers Forum](answers.squarespace.com), 
 But this led to a terrible design on mobile:
 
 <figure>
-	<img src="http://d.pr/i/1l1L9+" alt="mobile" width="80%" />
+	<img src="http://d.pr/i/1l1L9+" alt="mobile" width="50%" />
 	<figcaption>Mobile, pre-<code>custom.less</code></figcaption>
 </figure>
 
@@ -275,7 +275,7 @@ I also used the Circle Logo to make the browser favicon:
 I spent a fair amount of time trying to use my (`Logo.svg`) in place of the static image Squarespace uses for the logo. This was important to me because I wanted everything about my site to look good on Retina displays. And, even though most humans wouldn't zoom in to this level:
 
 <figure>
-	<img src="http://d.pr/i/1hJo2+" alt="broken" width="80%" />
+	<img src="http://d.pr/i/1hJo2+" alt="broken" width="50%" />
 	<figcaption>Broken on mobile</figcaption>
 </figure>
 
@@ -339,7 +339,7 @@ Until then, maybe I can get back to writing.
 [^ih]: Even before things got [crazy](http://d.pr/i/1kNyI+), I had changed *quite* a big of stuff from the default settings. Almost everything -- font size/styles/colors, as well as link colors, etc -- had been customized to my liking. And, at that time, because I didn't have any knowledge regarding how Squarespace made under-the-hood changes to the user interface, I was scared to just change to a completely new template.
 [^hp]: I can't remember which. Chances are it was either Upgrade or Inquisitive, because I can vaguely remember it being Myke Hurley to made reference to Stephen Hackett, who also uses the Developer Platform. Though, I feel safe saying that he hasn't used it *[nearly](https://twitter.com/ismh/status/564079479992360961)* as much as I have. 
 [^bd]: Another great resource. 
-[^pd]: Before mastering `blog.item`, I wasn't sure how to place the permalink after the date on Linked items. I thought I was stuck with it following the title of linked items. I figured that out [eventually](http://d.pr/i/1hVrx+) ⌘
+[^pl]: Before mastering `blog.item`, I wasn't sure how to place the permalink after the date on Linked items. I thought I was stuck with it following the title of linked items. I figured that out [eventually](http://d.pr/i/1hVrx+)
 [^md]: Via email.
 [^mq]: Sometimes I wonder, do I *italicize* **too** ***much***? 
 [^ip]: 769px is exactly one pixel greater than the `device-width` of iPad in portrait mode.

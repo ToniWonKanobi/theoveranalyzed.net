@@ -3,7 +3,7 @@
 @@ Description=Here's how I get YouTube videos to behave responsively in my webpages.  
 @@ Tags=hacking Squarespace, TheOverAnalyzed, tech tips, JavaScript, HTML, CSS  
 
-*I just can't leave well enough alone.[^foo][^bar] In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, constraining the proportions.*
+*I just can't leave well enough alone.[^foo] In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, constraining the proportions.*
 
 <h2>Contents</h2>
 
@@ -103,7 +103,7 @@ What we are looking for (at least in my template): `.main-content`
 
 <figure>
 	<img src="http://d.pr/i/1enKi+" alt="there" width="80%" />
-	<figcaption>There you are, `.main-content!`</figcaption>
+	<figcaption>There you are, <code>.main-content</code></figcaption>
 </figure>
 
 Once I recognized the `.container` that Squarespace uses for main post content (`.main-content`), I went about copy and pasting that into the `<script>` that calls the `fitvids.js` to work.
@@ -132,14 +132,11 @@ So, with that, your videos should look like this:
 
 # Conclusion
 
-The FitVids.js solution works on all `<iframe>` elements found on `.main-content` So, any post that contains that, such as Storify, will also have the wonderful FitVids effect. 
+The FitVids.js solution works on all `<iframe>` elements found on `.main-content` So, any post that contains that, such as Storify, will also have the wonderful FitVids effect applied.
 
-[^foo]: At this point, I look at every 'problem' that I fix on the site as a learning opportunity. Granted, many of the fixes I implement are not my own, but rather others.' Still, I take solace in knowing that I didn't need anyone to show me how to fix it. 
+[^foo]: At this point, I look at every 'problem' that I fix on the site as a learning opportunity. Granted, many of the fixes I implement are not my own, but rather others.' Still, I take solace in knowing that I didn't need anyone to show me how to fix it. I searched for a solution, found it, and implemented it.
 
-	I searched for a solution, found it, and implemented it.
-[^bar]: The gratification of tweaking code and having it *finally* work after many failed attempts is very real, and quite awesome. After just a couple months of web design, I can understand how programmers can go on week-long coding adventures without sleep or food. 
-
-	It's a surreal experience.
+	The gratification of tweaking code and having it *finally* work after many failed attempts is very real, and quite awesome. After just a couple months of web design, I can understand how programmers can go on week-long coding adventures without sleep or food. It's a surreal experience.
 [^on]: On mobile, this width is overruled with some `@media` queries for phone and tablet displays
 [^tr]: Truthfully, I am more or less targeting iPhone and iPad with my `@media` queries -- because, let's face it -- I could care less about other devices. Tons of web designers make a good practice of implementing 'fixes' for Internet Explorer's stupidness. Again, I could care less, so I don't. I am a terrible person.
 [^ifi]: If I were embedding HTML5 video, this wouldn't be an issue. But I don't want to embed HTML5 video for storage and page-loading reasons]

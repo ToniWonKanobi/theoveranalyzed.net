@@ -3,7 +3,7 @@
 @@ Description=I figured out how to enable permalinks in posts (with the help of someone smarter than me).  
 @@ Tags=hacking Squarespace, TheOverAnalyzed, blogging  
 
-*Squarespace is a great CMS. "[The Apple of content management services](http://stream-seo.com/squarespace-review/)," it has been said. And I would generally agree. With just a minimal amount of effort from the user, it would be *very* difficult to make a website with Squarespace that wasn't halfway decent. That said, there are some caveats to be told. Just like my experiences with everyone's favorite fruit company[^fc], whenever I have strayed just a bit from the Squarespace Beaten Path™, things got hairy. One of those areas was [footnotes](http://www.theoveranalyzed.net/posts/2015/1/bigfoot-footntes-squarespace) . I figured that out with the help of the internet. Next on the list: permalinks.*
+*Squarespace is a great CMS. "[The Apple of content management services](http://stream-seo.com/squarespace-review/)," it has been said. And I would generally agree. With just a minimal amount of effort from the user, it would be *very* difficult to make a website with Squarespace that wasn't halfway decent. That said, there are some caveats to be told. Just like my experiences with everyone's favorite fruit company, whenever I have strayed just a bit from the Squarespace Beaten Path™, things got hairy. One of those areas was [footnotes](http://www.theoveranalyzed.net/posts/2015/1/bigfoot-footntes-squarespace). I figured that out with the help of the internet. Next on the list: permalinks.*
 
 <h2>Contents</h2>
 
@@ -87,7 +87,6 @@ Now, whenever I post a "Linked List" item, as long as the "External link" checkb
 	<figcaption>Boom</figcaption>
 </figure>
 
-[^fc]:  Okay, this footnote was just for kicks 
 [^cc]: And just good 'internet form'
 [^hc]: Many of the sites I follow use a similar Linked List format as Daring Fireball. [Six Colors](sixcolors.com), [Marco.org](marco.org), [The Sweet Setup](thesweetsetup.com), [The Loop](http://loopinsight.com), [512 Pixels](512pixels.net), and more use this style of posting. And just like with Daring Fireball, sometimes I enjoy these authors' commentary on the links more than the actual content they are linking to.
 [^rss]: Or save to Instapaper
