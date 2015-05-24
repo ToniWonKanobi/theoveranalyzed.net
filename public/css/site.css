@@ -41,6 +41,10 @@ time {
    padding-left: 10px;
 }
 
+.content ol { list-style: outside decimal; }
+
+.content ul { list-style: outside disc; }
+
 .container {
    margin-bottom: 3em;
    margin-left:1em;
