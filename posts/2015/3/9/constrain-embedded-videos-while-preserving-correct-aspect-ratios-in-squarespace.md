@@ -18,7 +18,10 @@ Suppose I wanted to embed it in the body of my post, rather than simply have it 
 Here's the embed code copy and pasted straight from YouTube, for the video mentioned above:
 
 ```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kOh6iATnEnw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+	src="https://www.youtube.com/embed/kOh6iATnEnw" 
+	frameborder="0" allowfullscreen>
+</iframe>
 ```
 
 Now, because I have set the width of my "main content" to 450px,[^on][^tr] I would have previously thought it best to adjust the `width="560"` to something nifty like `width="100%"`, in order to ensure that the video fills the entire width of the content window. 
