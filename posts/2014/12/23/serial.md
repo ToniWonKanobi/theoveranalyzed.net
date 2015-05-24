@@ -10,7 +10,7 @@ Darren Murph of [Gear Patrol](http://gearpatrol.com/2014/12/22/serial-putting-lo
 
 I started listening to podcasts around this time last year. I had been following all the [usual suspects](https://feedbin.com/subscriptions.xml) via RSS, and for whatever reason, hesitated to delve into podcasting. I am not sure why. But I do know that before I really caught on, podcasting as I knew it was what college kids did to talk about things on campus. It was associated with low-budget, ill-produced audio-only shows consisting of one or two people talking about nothing. And truthfully, that is what it was for most of us who were around for the beginning. My own college had very little in the way of podcasting, but what little they did that, retrospectively, was [fairly good for a college production](https://itunes.apple.com/us/podcast/pacific-union-college/id445640925?mt=2).
 
-Alas, I never listened back then. I do not suppose anyone could just 'get into' podcasting without wanting to listen to particular shows, as curating a great list of weekly listens is about as hard as [curating one's Twitter feed](http://www.theoveranalyzed.net/posts/2014/02/how-to-clean-up-and-fine-tune-your-twitter-feed). 
+Alas, I never listened back then. I do not suppose anyone could just 'get into' podcasting without wanting to listen to particular shows, as curating a great list of weekly listens is about as hard as [curating one's Twitter feed](@@SiteRoot@@/2014/2/3/how-to-clean-up-your-twitter-feed). 
 
 But around the same time last year when I began to look into what the medium has to offer, I was also wondering what the podcast app market was like. It was a perfect storm of sorts, since, admittedly, the idea of a new native app to check out has always tickled my fancy. 
 
@@ -23,9 +23,9 @@ In late 2013, the choices for great podcasting apps was, as far as I was concern
 * [Pocket Casts](https://itunes.apple.com/us/app/pocket-casts/id414834813?at=1l3vx9s)
 * [Castro](https://itunes.apple.com/us/app/castro-high-fidelity-podcasts/id723142770?at=1l3vx9s)
 
-The [former](http://www.shiftyjelly.com/android/pocketcasts) was heralded for being a full-featured, cross-platform client that offered a cloud backend and syncing of podcasts. That last bit is important if you frequently delete apps and/or restore your phone. I was doing a lot of that when I was heavy into [jailbreaking](http://www.theoveranalyzed.net/posts/2014/02/soft-remix-a-winterboard-theme-for-ios-7). 
+The [former](http://www.shiftyjelly.com/android/pocketcasts) was heralded for being a full-featured, cross-platform client that offered a cloud backend and syncing of podcasts. That last bit is important if you frequently delete apps and/or restore your phone. I was doing a lot of that when I was heavy into [jailbreaking](@@SiteRoot@@/2014/2/2/soft-remix-a-winterboard-theme-for-ios-7). 
 
-The [latter](http://castro.fm/) was something a bit more special, and a lot more up my alley accordingly. [Jeff Benjamin](https://twitter.com/#!/jeffBenjam) of iDownloadBlog did a nice [review](http://www.idownloadblog.com/2013/12/13/castro-review/) of version 1.0, and after watching it, I started using the app full-time. [Supertop](http://supertop.co/) had done a lot of custom UI/UX. Gestures were delightful, and the app was very, VERY clean. There were practically *none* of the 'power-user' features that Pocket Casts offered.
+The [latter](http://castro.fm/) was something a bit more special, and a lot more up my alley accordingly. iDownloadBlog [reviewed](http://www.idownloadblog.com/2013/12/13/castro-review/) version 1.0, and after watching it, I started using the app full-time. [Supertop](http://supertop.co/) had done a lot of custom UI/UX. Gestures were delightful, and the app was very, VERY clean. There were practically *none* of the 'power-user' features that Pocket Casts offered.
 
 Ultimately, I could care less about power user features. Sure, carefully crafting podcasts episode playlists based on mundane variables is neat-o. But really, I just want to listen to good podcasts without all the hubbub associated with Pocket Casts. 
 

@@ -3,7 +3,7 @@
 @@ Description=I've collected all my favorite Apple hardwares into a post, so that I have something to reference once I start my collection.  
 @@ Tags=Apple, hardware, gear, Anthony, AHBL  
 
-I have [previously eluded](/2015/1/14/this-imac-concept-is-ridiculous-in-the-best-possible-way) to my Apple Hardware Bucket List.[^ahbl] However, I have yet to publicly define it.
+I have [previously eluded](@@SiteRoot@@/2015/1/14/this-imac-concept-is-ridiculous-in-the-best-possible-way) to my Apple Hardware Bucket List.[^ahbl] However, I have yet to publicly define it.
 
 Here it is, in more or less chronological order:
 

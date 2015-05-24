@@ -6,7 +6,7 @@
 
 Someday -- though that someday is definitely not today -- I hope to have a [964](https://en.wikipedia.org/wiki/Porsche_964).
 
-As I've written [many times before][bf], I love early 90's cars like the last 'true' air-cooled classic 911. 
+As I've written [many times before](@@SiteRoot@@/2015/2/13/the-honda-nsx), I love early 90's cars like the last 'true' air-cooled classic 911. 
 
 The idea of having a car(s) from the era of my childhood is appealing not just because of the visual aspects, though that is a big part of it.
 
@@ -45,5 +45,3 @@ Yes. Yes it is Patrick.
 [^could]: Obviously, the very *lack* of such amenities can be part of the allure of older automobiles. Do you think Jay Leno sighs at the lack of CarPlay when he goes for a drive in his [Outlaw](https://www.youtube.com/watch?v=xxSKO3Er-Yg)? Yeah, I don't either.
 [^cl]: I use the term "classic" here quite technically, because technically, the classic era ended in 1995 with the [993](https://en.wikipedia.org/wiki/Porsche_911#993_Series_.281994.E2.80.93mid_1998.29). 
 [^mod]: 993 and below it seems, though the [previous offerings](http://www.cnet.com/news/classic-porsches-getting-oem-navigation-option/) by Porsche only worked for the truly classic-classic 911's, the pre-[SC](https://en.wikipedia.org/wiki/Porsche_911#911SC_.281978.E2.80.931983.29) models
-
-[bf]: /2015/2/13/the-honda-nsx

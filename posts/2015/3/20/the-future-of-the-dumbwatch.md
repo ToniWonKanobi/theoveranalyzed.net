@@ -13,4 +13,4 @@ Fans of older, mechanical timepieces will have much to dismay over in regards to
 
 While I can hope my desire for a dumb watch will entitle it to be worn at least a couple times a week, the pragmatist in me says that might be wishful thinking. 
 
-Come May 1,[^That's one week after Apple Watch is released] I should have a better idea whether the dumbwatches of yore might still have a place on my wrist.
+Come May 1, I should have a better idea whether the dumbwatches of yore might still have a place on my wrist.

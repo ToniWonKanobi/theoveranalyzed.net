@@ -7,7 +7,7 @@
 Today, The Pittsburg Tribune-Review profiled my favorite apparel company ever, [Cotton Bureau](www.cottonbureau.com). 
 
 David Conti, quoting somebody familiar to me:
->“For my generation of people who look at Internet shopping as something as normal as walking into Macy's, Cotton Bureau has really catered to us,” said devoted customer Anthony Craig, 27, a dentist and blogger in Loma Linda, Calif., who has bought more than 20[^fd] shirts at the site.
+>“For my generation of people who look at Internet shopping as something as normal as walking into Macy's, Cotton Bureau has really catered to us,” said devoted customer Anthony Craig, 27, a dentist and blogger in Loma Linda, Calif., who has bought more than 20 shirts at the site.
 
 >He noted the unique designs targeted at “techie” buyers, an easy process for making purchases and a crowd-sourced vibe for deciding which shirts get printed.
 
@@ -29,6 +29,4 @@ Check them out today! Use the coupon code **CBANTHONYC10** for a discount on you
 
 # Update
 
-The promotion mentioned above is currently over. 
-
-[^fd]: Full disclosure: I think I have purchased more than 20 shirts, much to the chagrin of my wife.
+The promotion mentioned above is currently over.

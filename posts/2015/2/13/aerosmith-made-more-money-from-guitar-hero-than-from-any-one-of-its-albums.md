@@ -9,4 +9,4 @@ Brandon Ambrosino for Vox:
 
 In a time when the old ways of consuming media are dying off, you either [adapt](http://www.aboveavalon.com/notes/2015/2/5/apples-new-music-strategy), or [get left behind](http://mashable.com/2012/07/24/music-sales-decline/). Good for Aerosmith.[^ae]
 
-[^ae]: I'm pretty sure Guitar Hero single-handedly introduced [Allison](twitter.com/venusautumn) to classic rock.
+[^ae]: I'm pretty sure Guitar Hero single-handedly introduced [Allison](http://www.twitter.com/venusautumn) to classic rock.

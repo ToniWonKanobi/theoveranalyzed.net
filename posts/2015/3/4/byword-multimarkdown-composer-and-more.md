@@ -5,11 +5,11 @@
 
 *Since writing this post originally, I moved to a custom blogging engine, one that is based on the actual Markdown files `.md`. And because of that, many MultiMarkdown features provided by MultiMarkdown Composer are no longer necessary, as `node.js` has plenty of `markdown-it` plugins that take the universal 'standard' Markdown documents and parse nifty stuff anyways. So I have actually reverted back to using Byword as my plain-text editor of choice. When I re-formatted this document to work with my new blogging engine, I kept the content the same, for both posterity's sake, and to help anyone out there who uses Squarespace.*
 
-## Contents
+<h2>Contents</h2>
 
 [[TOC]]
   
-# Preamble
+# Introduction
 
 Some time ago, I wrote a rather [lengthy and exclamatory piece](http://www.theoveranalyzed.net/archive/2015/1/bigfoot-footntes-squarespace) recounting how I implemented [Bigfoot footnotes](http://www.bigfootjs.com). I will refrain from rehashing the entire post, but would like to discuss footnotes in general for a bit. Footnotes, and my recent change to [MultiMarkdown Composer](http://multimarkdown.com/) from [Byword](http://bywordapp.com).
 
@@ -149,12 +149,13 @@ Back when I was using Byword, whenever I was writing a long document, I would ha
 Before, for an `<h1>` header named `Introduction`, I would write this for my Table of Contents / Index:
 
 ```html
-<h2>Table of Contents</h2>
+<h2>Contents</h2>
 
 * [Introduction](#introduction)
 * [Next Header](#next)
 
 <p><h1><a name="introduction">Introduction</a></h1>
+
 Example body text.
 ```
 

@@ -16,7 +16,7 @@ Schiff quoting designer [Bill Labus](https://dribbble.com/blabus):
 Schiff finishing Labus' thesis:
 >The standards for what constitutes "good-looking" have plummeted dramatically.
 
-I'm no designer. And, admittedly, on [June 10, 2013](https://www.apple.com/pr/library/2013/06/10Apple-Unveils-iOS-7.html), no one was happier than I after seeing all those bright colors and white backgrounds dance across the screen on the WWDC livestream.[^Not to mention my joy upon witnessing the death of [rich corinthian leather](http://daringfireball.net/2013/01/the_trend_against_skeuomorphism)] 
+I'm no designer. And, admittedly, on [June 10, 2013](https://www.apple.com/pr/library/2013/06/10Apple-Unveils-iOS-7.html), no one was happier than I after seeing all those bright colors and white backgrounds dance across the screen on the WWDC livestream.[^ls]
 
 But you don't have to be a design genius to agree with Schiff. To the completely design-uninitiated folks like yours truly iOS 7/8 looks and feels confusing, unless you know what you're doing. For the designers amongst us, iOS 7/8 really does appear like a UI paradox. 
 
@@ -27,5 +27,6 @@ But you don't have to be a design genius to agree with Schiff. To the completely
 
 Taking things away just for the sake of minimalism doesn't serve anyone, except maybe [white room Jony](https://www.change.org/p/apple-free-jony-ive-from-his-white-room). Do away with the goofy skeumorphs, fine. But replacing them with generic UI 'design' doesn't help anyone. Is this really the design impression Jony Ive wants to leave behind? 
 
+[^ls]: Not to mention my joy upon witnessing the death of [rich corinthian leather](http://daringfireball.net/2013/01/the_trend_against_skeuomorphism)
 
 

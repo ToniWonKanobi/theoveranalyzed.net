@@ -3,7 +3,7 @@
 @@ Description=Here's how I get YouTube videos to behave responsively in my webpages.  
 @@ Tags=hacking Squarespace, TheOverAnalyzed, tech tips, JavaScript, HTML, CSS  
 
-## Table of Contents
+<h2>Contents</h2>
 
 [[TOC]]
 
@@ -11,7 +11,7 @@
 
 I just can't leave well enough alone.[^foo][^bar]
 
-In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same[^This is important] *constraining the proportions*.
+In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, *constraining the proportions*.
 
 # The Problem
 
@@ -42,18 +42,18 @@ Notice that while the width of the `<iframe>` is correct, the height is complete
 
 Here's how I chose to get around the funky looking `width="100%"` 'fix:'
 
-1. Determine the correct aspect ratio of the video given `_your_width_here_` 
-	* For my video above, it would be 560px / 315px = ~1.78
-2. Modify the `width` string such that `width="_your_width_here_"`  
+1. Determine the correct aspect ratio of the video given `_your_width_here_`  
+	For my video above, it would be 560px / 315px = ~1.78
+2. Modify the `width` string such that `width="_your_width_here_"`
 3. Calculate the 'new' `height`, given `_your_width_here_` and the aspect ratio calculated in Step 1
 	* For my video above, we would solve for *x*, where:
 		* `_your_width_here_` / *x* = 1.78
 		* Therefore, *x* = `_your_width_here_` / 1.78
 		* *x* = 253 px
-4. Modify the `height` string accordingly, using that `height` value (*x*) calculated in the previous step:
-	* `height="253"`
-5. Finally, place that value in the `<iframe>` accordingly:
-	* `<iframe width="450" height="253" src="https://www.youtube.com/embed/kOh6iATnEnw" frameborder="0" allowfullscreen></iframe>`
+4. Modify the `height` string accordingly, using that `height` value (*x*) calculated in the previous step:  
+	`height="253"`
+5. Finally, place that value in the `<iframe>` accordingly:  
+	`<iframe width="450" height="253" src="https://www.youtube.com/embed/kOh6iATnEnw" frameborder="0" allowfullscreen></iframe>`
 
 That solution was okay for desktop, but broke on the mobile displays I cared about.[^the]
 
@@ -69,14 +69,14 @@ It's a nifty jQuery plugin that basically does everything I was trying to do pre
 
 It was easy enough:
 
-1. Download the JavaScript, `jQuery.fitvids.js`, and upload it
-	* On Squarespace, all of the scripts are stored at  `/scripts/` (for those on the developer platform), or you could alternatively upload it to a random page using their somewhat wanky system
+1. Download the JavaScript, `jQuery.fitvids.js`, and upload it  
+	On Squarespace, all of the scripts are stored at  `/scripts/` (for those on the developer platform), or you could alternatively upload it to a random page using their somewhat wanky system
 2. Call the script (as well as jQuery) and target the videos container
 3. *Happiness*
 
 ## The Hard Part
 
-Copier says to "Target your .container, .wrapper, .post, etc." The problem was that I didn't know what that was, at least in the Squarespace ecosystem. Looking back now, it's pretty silly I didn't know what to target.
+Copier says to "Target your .container, .wrapper, .post, etc." The problem was that I didn't know what that was, at least in the Squarespace ecosystem.
 
 ## Thank You, Safari "View Source"
 
@@ -87,7 +87,7 @@ To figure out what container to target using Safari, first make sure you have tu
 	<figcaption>Make sure the Develop option is checked</figcaption>
 </figure>
 
-Then, navigate to your page and then navigate to `Develop → Show Page Source`.[^or]
+Then, navigate to your page and then navigate to `Develop` → `Show Page Source`.[^or]
 
 <figure>
 	<img src="http://d.pr/i/1bkxh+" alt="showing" width="80%" />
@@ -107,14 +107,14 @@ What we are looking for (at least in my template): `.main-content`
 
 <figure>
 	<img src="http://d.pr/i/1enKi+" alt="there" width="80%" />
-	<figcaption>There you are, `.main-content`</figcaption>
+	<figcaption>There you are, `.main-content!`</figcaption>
 </figure>
 
-Once I recognized the `.container` that Squarespace uses for main post content (`.main-content`), I went about copy and pasting that into the `<script>` that calls the FitVids.js to work.
+Once I recognized the `.container` that Squarespace uses for main post content (`.main-content`), I went about copy and pasting that into the `<script>` that calls the `fitvids.js` to work.
 
 # Putting It All Together
 
-Paste the following code into either the site-wide [injection area](http://help.squarespace.com/guides/using-code-injection),[^co] or the page header code injection area:[^con]
+Paste the following code into either the site-wide [`Code injection`](http://help.squarespace.com/guides/using-code-injection) area,[^co] or the `Page Header Code Injection` area:[^con]
 
 ```javascript
 <script src="/scripts/fitvids.js"></script>
@@ -125,7 +125,7 @@ Paste the following code into either the site-wide [injection area](http://help.
 </script>
 ```
 
-* The string `/scripts/fitvids.js` is just where I have placed the FitVids.js. If you do not have [Developer Mode](http://developers.squarespace.com/) turned on, you could always upload it via the [wonky Squarespace method of uploading files](http://help.squarespace.com/guides/uploading-and-managing-files), and then call the script with the `/s/_whatever_you_named_the_fitvids.js_here_`
+* The string `/scripts/fitvids.js` is just where I have placed the `fitvids.js` plugin. If you do not have [Developer mode](http://developers.squarespace.com/) turned on, you could always upload it via the [wonky Squarespace method of uploading files](http://help.squarespace.com/guides/uploading-and-managing-files), and then call the script at the stock location, `/s/fitvids.js`
 * Notice the `.main-content` wrapped in double quotes. *That* is the container that FitVids.js will target.
 
 Finally, we are ready to test the YouTube video again. After copying the embed code from YouTube, be sure to remove the size modifiers (`width=` and `height=`) in the `<iframe>` code, so that the script can take over.[^ify]

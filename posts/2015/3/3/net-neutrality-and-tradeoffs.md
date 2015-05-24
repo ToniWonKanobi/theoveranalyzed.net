@@ -13,7 +13,7 @@ In a nutshell, Ben argues that instead of blindly supporting Net Neutrality, whi
 
 **Net Neutrality comes with [tradeoffs](http://stratechery.com/2014/netflix-net-neutrality/)**, and here's how the that tradeoff unfolds:
 
-* Net Neutrality *could* leave the ISPs with little to no incentive to build out their services[^I'm still unconvinced that this will be a true de-incentivization, but Ben is way smarter than me, so there's that.] 
+* Net Neutrality *could* leave the ISPs with little to no incentive to build out their services. I'm still unconvinced that this will be a true de-incentivization, but Ben is way smarter than me, so there's that.
 	* Why would they want to build out their service if they cannot charge content providers more to deliver their content to customers ("[Fast Lanes](http://en.wikipedia.org/wiki/Net_neutrality_in_the_United_States#FCC_Open_Internet_Order_.282010.29)")?
 * Net Neutrality *could* then force the ISPs to find new ways to monetize their customers, since they cannot utilize Fast Lanes. 
 * ISPs would be forced to pass on higher monthly costs to the customers who use more data than others

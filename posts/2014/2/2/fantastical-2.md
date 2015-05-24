@@ -10,7 +10,7 @@ I had written quite a lengthy post devoted to all the ins and outs of this app. 
 
 <figure>
 	<img src="http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg" alt="The Iconfactory's [redesign](http://design.iconfactory.com/fantastical-2-for-ios-7/) for Fantastical 2 is so precious." width="50%" />
-	<figcaption>The Iconfactory's <a href="http://design.iconfactory.com/fantastical-2-for-ios-7/" />redesign</a> for Fantastical 2 is so precious.</figcaption>
+	<figcaption>The Iconfactory's <a href="http://design.iconfactory.com/fantastical-2-for-ios-7/" />redesign</a> for Fantastical 2 is so nice.</figcaption>
 </figure>
 
 # Claim to Fame

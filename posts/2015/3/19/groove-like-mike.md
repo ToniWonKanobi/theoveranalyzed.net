@@ -1,7 +1,7 @@
 @@ Title=Groove Like Mike   
 @@ Date=2015-03-19 07:30  
 @@ Link=http://devour.com/video/groove-like-mike/  
-@@ Description=MJ at his best.
+@@ Description=MJ at his best.  
 @@ Tags=Michael Jordan, basketball, sports, culture  
 
 Gatorade -- now 50 years old.

@@ -1,13 +1,13 @@
 @@ Title=Apple Watch Sport Or Apple Watch Collection  
-@@ Date=2015-03-10
+@@ Date=2015-03-10 15:00  
 @@ Description=I'm still deciding between Watch Sport and the Watch collection.  
-@@ Tags=Apple, Apple Watch, anthony, recommendations  
+@@ Tags=Apple, Apple Watch, Anthony, recommendations  
 
 # Introduction
 
 Ever since the keynote yesterday morning, I have been trying to make two important decisions as they relate to Apple Watch:
 
-1. What size to get -- [38 mm or 42 mm](http://www.theoveranalyzed.net/archive/2015/3/apple-watch-sizing-38mm-or-42-mm)?
+1. What size to get -- [38 mm or 42 mm](@@SiteRoot@@/2015/3/9/apple-watch-sizing-38-mm-or-42-mm)?
  2. Which collection should I choose from -- Apple Watch Sport, or Apple Watch?
 
 # Size
@@ -53,7 +53,7 @@ I'll leave you with this, a conversation with a friend who knows me all too well
 	<figcaption>Touche.</figcaption>
 </figure>
 
-# Update 03/12/15
+# Update
 
 Casey Liss [linked](http://www.caseyliss.com/2015/3/11/apple-watch-paper-try-on) to this [post](http://exactfitnessapps.com/try-it-on-apple-watch-sizing-guide.html) by fitness company Exact Fitness, in which you can print out a mockup, cut it out, and 'try on' an Apple Watch in whatever size/band choice you are considering. 
 
@@ -64,7 +64,7 @@ I used something [similar](https://instagram.com/toniwonkanobi/p/syXZwJwz3Y/) la
 	<figcaption>Mockups</figcaption>
 </figure>
 
-# Update 03/13/15
+# Another Update
 
 I found this little nugget of knowledge regarding the Apple Watch link bracelet:
 

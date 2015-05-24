@@ -4,9 +4,7 @@
 @@ Description=Horace Dediu gives a quick tour of Apple's brand through the decades.  
 @@ Tags=Horace Dediu, Apple, culture, industry  
 
-I haven't linked to much from Horace Dediu much on this site, mostly because I haven't been following him until a few days ago.[^Stupid, I know. But in all honesty, for me, [Ben Thompson](http://stratechery.com) has been fulfilling that niche part of the Apple bloggosphere that deals with how Apple, culture, business, and the market all collide together.]
-
-He had some great thoughts on Apple's historical approach to technology in culture. 
+I haven't linked to much from Horace Dediu much on this site, mostly because I haven't been following him until a few days ago.[^bt] He had some great thoughts on Apple's historical approach to technology in culture. 
 
 He takes us through the 80's/90's:
 >Apple brand at the time as an appeal to the intellect via a humanistic argument. A more emotive positioning of a tool, but a tool nonetheless. 
@@ -19,4 +17,6 @@ And for today:
 
 Here's the take-away message:
 >[Apple] has managed to move from a rational, to a neurological, to an endocrine response.
+
+[^bt]: For me, [Ben Thompson](http://stratechery.com) has been fulfilling that corner of the Apple bloggosphere that deals with how Apple, culture, business, and the market all collide together.
 

@@ -1,5 +1,5 @@
 @@ Title=Christians [Not] Acting Like Christ?  
-@@ Date=2015-02-19 12:00
+@@ Date=2015-02-19 12:00  
 @@ Description=Because "Love thy neighbor" should *also* apply to every other living thing on the planet.  
 @@ Tags=religion, culture, animals, advocacy, animal advocacy, science, medicine, dentistry, Christianity, Christians, politics  
 
@@ -85,7 +85,6 @@ Here's quote from Greg Boyd, PhD, pastor for [Woodland Hills Church](http://whch
 A couple of years ago, Mark F. Carr[^mc] wrote an [article](http://circle.adventist.org/files/jae/en/jae201376011607.pdf)[^ca] for an Adventist publication, discussing the morality of testing on animals.
 
 Here are a few pertinent snippets:[^sn]
-
 >Parallel to the basic definition of human rights, that every person is inherently entitled to certain rights simply because of being human, an animal-rights definition asserts similar protections and freedoms for animals.
 
 >[Non]-human animals created by God have inherent moral value.
@@ -105,9 +104,9 @@ Here is a non-exhaustive list found in the Notes and References section of his a
 ***
 
 **It's far time the Christian world caught up with the secular world.**
-
+<br>
 **It's far time they become the stewards that they profess to be.**
-
+<br>
 **It's far time they start acting like Christ.**
 
 ***

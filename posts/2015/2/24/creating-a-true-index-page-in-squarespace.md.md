@@ -3,23 +3,17 @@
 @@ Description=Here's how I hacked Squarespace to have a true Index page    
 @@ Tags=hacking Squarespace, blogging, TheOverAnalyzed  
 
-## Contents
+I thought I should do a quick post outlining how I crafted my [Index](http://www.theoveranalyzed.net/index) page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content.[^mc] True, [/archive](http://www.theoveranalyzed.net/archive) [^old] contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an `/index/` page and `Command + F` to query a string of words that might fit the title. 
+
+<h2>Contents</h2>
 
 [[TOC]]
 
-# Introduction
-
-I thought I should do a quick post outlining how I crafted my [Index](http://www.theoveranalyzed.net/index) page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content.[^mc] True, [/archive](http://www.theoveranalyzed.net/archive) [^old] contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an [/index][/index] page and `Command + F` to query a string of words that might fit the title. 
+# Dealing With Content Management Systems
 
 As you may or may not know, Squarespace does *not* offer a truly unlimited-length index page. Some templates do include an [Index page,](http://help.squarespace.com/guides/using-the-index-page)[^in] which is sort of like the [Summary block](http://answers.squarespace.com/questions/30592/summary-block), but neither of those act as true indices. 
 
-Moreover, if you have [Linked](http://www.theoveranalyzed.net/archive?tag=linked)-style posts, the native Index page and Summary blocks present the *external URL* as the post title -- not the post's *permalink.* 
-
-Proper support of Daring Fireball style [linked](http://daringfireball.net/linked/) content came [late](http://help.squarespace.com/guides/linking-a-post-title-to-external-content) for Squarespace, maybe as late as Squarespace 6. Thing is: I don't think it ever made it off of the back burner. 
-
-# Dealing With Content Management Systems
-
-There seem to be quite a few things that haven't -- and probably won't -- make it off of the back burner.
+Moreover, if you have [Linked](http://www.theoveranalyzed.net/archive?tag=linked)-style posts, the native Index page and Summary blocks present the *external URL* as the post title -- not the post's *permalink.* Proper support of Daring Fireball style [linked](http://daringfireball.net/linked/) content came [late](http://help.squarespace.com/guides/linking-a-post-title-to-external-content) for Squarespace, maybe as late as Squarespace 6. Thing is: I don't think it ever made it off of the back burner. There seem to be quite a few things that haven't -- and probably won't -- make it off of the back burner.
 
 Having used this content management system (CMS) for over a year, it is painfully apparent to me that having managed content comes with its good and its bad. The good is obvious: I don't have to stress about my site. I never worry about server maintenance or anything of that nature. And I have complete control of the content that I publish. 
 

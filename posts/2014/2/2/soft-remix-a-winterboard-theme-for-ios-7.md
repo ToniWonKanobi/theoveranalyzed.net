@@ -15,7 +15,7 @@ When the evasi0n team brought out the jailbreak for 2012, one of the first theme
 
 <figure>
 	<img src="http://d.pr/i/179Co+" alt="I can't remember where I found this random meme." width="50%" />
-	<figcaption>I can't remember where I found this random meme.</figcaption>
+	<figcaption>I cannot recall where I found this meme.</figcaption>
 </figure>
 
 It's called [Soft Remix](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=softremixios7themeDp), and it's great. Besides a few glaringly ugly design choices (ahem, [Safari](http://iosguides.net/wp-content/uploads/2013/06/Safari-Icons-Comparison.jpg)), the majority of the new iOS 7 app icons are just plain stupid. (Why neon Jony? Why not pastels?) The designer, [Eduardo Lane López](https://twitter.com/MagWhiz), created some 140 icons. The theme also applies a nifty icon mask that changes the stock shape to something more [Fischer-Pricey](http://techcrunch.com/2013/06/14/i-think-we-can-all-agree-this-is-better-than-apples-ios-7-redesign-right/). And I dig that. 
@@ -33,7 +33,7 @@ He tweeted this earlier today:
 
 <blockquote class="twitter-tweet" lang="en"><p>FlatIcons for iOS7 v1.0 has been submitted to <a href="https://twitter.com/macciti">@macciti</a>! Keep an eye out for it in Cydia. Includes over 500 icons!</p>&mdash; FlatIcons (@FlatIcons) <a href="https://twitter.com/FlatIcons/status/430179506523889665">February 3, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-And [circul8](http://www.idownloadblog.com/2013/05/18/circul8-theme-iphone-ipad/)'s designer, [Andreas Larsen](http://www.theoveranalyzed.net/archive/2014/02/soft-remix-a-winterboard-theme-for-ios-7#), has been updating his followers about an upcoming theme called Habesha:
+And [circul8](http://www.idownloadblog.com/2013/05/18/circul8-theme-iphone-ipad/)'s designer, Andreas Larsen, has been updating his followers about an upcoming theme called Habesha:
 
 <blockquote class="twitter-tweet" lang="en"><p>Almost done - spotify icon + info.plist won&#39;t play nice... <a href="http://t.co/m2gSjQkPdK">pic.twitter.com/m2gSjQkPdK</a></p>&mdash; Andreas Larsen (@andreaslarsendk) <a href="https://twitter.com/andreaslarsendk/status/428945236166180864">January 30, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

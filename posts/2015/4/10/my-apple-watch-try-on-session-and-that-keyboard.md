@@ -5,8 +5,6 @@
 
 By now, on Friday night of the 'embargo week,' you have no doubt read and watched *plenty* in regards to Apple Watch and the new MacBook. I was one of the silly folk who stayed up <s>last night</s> this morning to preorder both. I was also one of the souls who scheduled a try-on appointment this evening.
 
-I'll keep this short, and I'll interject a few pictures in there to help tell the story. 
-
 # Ordering The Things
 
 ## The Watch

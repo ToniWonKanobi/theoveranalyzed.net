@@ -7,4 +7,4 @@
 If my blog were VC funded, *this* would be my tagline:
 >TheOverAnalyzed is a thinker who uses synergy to create new paradigms of gamifying in putting one foot forward
 
-Combine this with [this](/2015/2/27/sans-bullshit-sans), and you've got a synergistic game-changing paradigm of revolution.
+Combine this with [this](@@SiteRoot@@/2015/2/27/sans-bullshit-sans), and you've got a synergistic game-changing paradigm of revolution.

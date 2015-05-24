@@ -11,7 +11,8 @@ There is still a lot we don’t know about the new MacBook and it’s USB-C port
 
 * Will the new MacBook be able to drive a 4K display at 60 Hz? 
 
-	* I spoke with an Apple representative, and he was not able to give me a definitive answer[^The [specs](http://www.apple.com/macbook/specs/) page is no help]
+	* I spoke with an Apple representative, and he was not able to give me a definitive answer
+		* The [specs](http://www.apple.com/macbook/specs/) page is no help
 	* If so, will it 'reduce' the bandwidth of data transfers to ~USB 2.0 speeds, like Fingas alludes?
 
 [April 10](http://www.cnet.com/products/apple-macbook-2015/) can't come soon enough.

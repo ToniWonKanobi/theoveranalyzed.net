@@ -3,28 +3,11 @@
 @@ Description=I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
 @@ Tags=hacking Squarespace, Sketch, TheOverAnalyzed, Pixelmator, design, web design, HTML, CSS, JavaScript     
 
-## Contents
+*When I launched TheOverAnalyzed last year, I knew nothing about HTML, CSS, JavaScript, or web design in general. Now, a year later, I still know nothing relatively nothing about the aforementioned topics. But, I know a whole lot more than I did.*
+
+<h2>Contents</h2>
 
 [[TOC]]
-
-# Introduction
-
-Over the past 48 hours, I have become acquainted with a new friend. 
-
-That friend is [Sketch](http://bohemiancoding.com/sketch/), a wonderful design application for OS X, created by Bohemian Coding. 
-
-More on this later.
-
-# Preamble
-
-When I launched TheOverAnalyzed last year, I knew nothing about the following:
-
-* HTML
-* CSS
-* JavaScript
-* Web Design
-
-Now, a year later, I still know nothing relatively nothing about the aforementioned topics. But, *I know a whole lot more than I did a year ago.*
 
 # History
 
@@ -93,7 +76,7 @@ How cool.
 
 The first changes I made, like most 'first times,' were disastrous. I completely broke the site. I accidentally made changes to `global.less` without realizing what I had done. Unsure how to fix things, I turned off Developer mode in Squarespace, which reverted the site back to how it was before turning Developer mode on. Whew. Everything was fixed. Then I turned Developer mode back on, and tried again. 
 
-I quickly familiarized myself with `blog.list` and `blog.item` and was able to make the arrow and [permalink](/2015/2/1/permalinks-in-squarespace) changes like I wanted (and much [more](/2015/1/31/bigfoot-footntes-in-squarespace). 
+I quickly familiarized myself with `blog.list` and `blog.item` and was able to make the arrow and [permalink](@@SiteRoot@@/2015/2/1/permalinks-in-squarespace) changes like I wanted (and much [more](@@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace). 
 
 Here's a screenshot of Permalinks Version 1.0:[^pl]
 
@@ -161,7 +144,7 @@ But this led to a terrible design on mobile:
 
 <figure>
 	<img src="http://d.pr/i/1l1L9+" alt="mobile" width="80%" />
-	<figcaption>Mobile pre `custom.less`</figcaption>
+	<figcaption>Mobile, pre-<code>custom.less</code></figcaption>
 </figure>
 
 ## So That's What This Does
@@ -180,7 +163,7 @@ Yeah, I started over. I turned off Developer mode, and then turned it back on. T
 
 # Doing It The Right Way
 
-Here is how I decided to re-style the site, using `.less` slash`.css` stuffs:
+Here is how I decided to re-style the site, using `.less` slash `.css` stuffs:
 
 * I created a `custom.css`, which would allow me to make changes to the style of the site without being unable to 'revert' back to the default `global.less` and/or `mobile.less` configurations.
 * I then modified `template.conf` at the string `"stylesheets"` such that `custom.css` was loaded *after* `mobile.less`, which was, wonderfully, loaded after `global.less` by default[^mlgl] 

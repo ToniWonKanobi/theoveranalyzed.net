@@ -1,4 +1,4 @@
-@@ Title="Becoming Steve Jobs" By Brent Schlender And Rick Tetzeli    
+@@ Title=Becoming Steve Jobs By Brent Schlender And Rick Tetzeli    
 @@ Date=2015-03-02 15:35  
 @@ Link=http://becomingstevejobs.com/  
 @@ Description=If John Gruber enjoyed it, I likely will too.    
