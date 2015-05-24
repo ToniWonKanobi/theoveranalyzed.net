@@ -3,15 +3,11 @@
 @@ Description=Here's how I get YouTube videos to behave responsively in my webpages.  
 @@ Tags=hacking Squarespace, TheOverAnalyzed, tech tips, JavaScript, HTML, CSS  
 
+*I just can't leave well enough alone.[^foo][^bar] In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, constraining the proportions.*
+
 <h2>Contents</h2>
 
 [[TOC]]
-
-# Storytime
-
-I just can't leave well enough alone.[^foo][^bar]
-
-In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, *constraining the proportions*.
 
 # The Problem
 
