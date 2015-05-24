@@ -52,7 +52,11 @@ Here's how I chose to get around the funky looking `width="100%"` 'fix:'
 4. Modify the `height` string accordingly, using that `height` value (*x*) calculated in the previous step:  
 	`height="253"`
 5. Finally, place that value in the `<iframe>` accordingly:  
-	`<iframe width="450" height="253" src="https://www.youtube.com/embed/kOh6iATnEnw" frameborder="0" allowfullscreen></iframe>`
+	```html
+	<iframe width="450" height="253" 
+		src="https://www.youtube.com/embed/kOh6iATnEnw" frameborder="0" allowfullscreen>
+	</iframe>
+	```
 
 That solution was okay for desktop, but broke on the mobile displays I cared about.[^the]
 

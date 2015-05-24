@@ -39,19 +39,27 @@ He suggested pasting a line of HTML code in the [Post Blog Item Code Injection](
 
 Here is the line of HTML code he suggested:
 
-`<center><a href="http://smithjw.me{permalink}">∞</a></center>`
+```
+<center><a href="http://smithjw.me{permalink}">∞</a></center>
+```
 
 Now, because I tend to gravitate toward content being left-adjusted, I changed
 
-`<center></center>`
+```
+<center></center>
+```
  	
 to
 
-`<left></left>`
+```
+<left></left>
+```
 
 So my line of HTML code looks like this:
 
-`<left><a href="{permalink}">∞ Permalink</a></center></left></pre>`
+```
+<left><a href="{permalink}">∞ Permalink</a></center></left></pre>
+```
 
 # The Results
 
@@ -67,7 +75,9 @@ Once I turned on the Developer Platform, I knew I wanted to implement what Alex 
 
 He noticed the `{.passthrough?}` in the `blog.item` section found here: 
 
-`my_squarespace_domain.top_level_domain/collections/blog.item`
+```
+my_squarespace_domain.top_level_domain/collections/blog.item
+```
 
 Here is the relevant code he suggests pasting there:[^pth]
 

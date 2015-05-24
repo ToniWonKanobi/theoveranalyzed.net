@@ -123,7 +123,7 @@ Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview
 3. In Byword, this is what I would type, in MultiMarkdown:  
 	<script src="https://gist.github.com/ToniWonKanobi/1bfb125c458213c4679f.js"></script>
 4. After converting it to HTML, it would look like this:  
-	<script src="https://gist.github.com/ToniWonKanobi/c1bc6bca623cf01f188c.js"></script>
+	<script src="https://gist.github.com/ToniWonKanobi/acc20cce2ac9c418f79d.js"></script>
 5. Finally, paste that HTML into Code Block from the Squarespace post editor
 
 ## Video-Based How-To

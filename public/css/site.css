@@ -444,3 +444,13 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
     position: absolute;
     margin-left: -.8em;
 }
+
+code {
+   background: #f8f8f8;
+}
+
+#mastheadbackground {
+    height: 165px;
+    margin-bottom: -165px;
+    background-color: #5184e3;	
+}
