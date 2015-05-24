@@ -36,14 +36,8 @@ time {
 .content ul, ol, li, dl {
    margin: 10px 0 10px 10px;
    padding-left: 0px; 
+   list-style: outside decimal;
 }
-
-.content ol {
-    padding-left: 2.5em;
-}
-
-	
-.content ol, ul { list-style: outside decimal; }
 
 
 .container {
