@@ -19,7 +19,9 @@ var markdownit = require('markdown-it')({
 	permalink: true,
 	permalinkSymbol: '#' 
 	})
-	md.use(require("markdown-it-table-of-contents"));
+	.use(require("markdown-it-table-of-contents"), {
+	includeLevel: 1,
+	});
 var Rss = require('rss');
 var Handlebars = require('handlebars');
 
