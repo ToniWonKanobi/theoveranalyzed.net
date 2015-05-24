@@ -14,7 +14,7 @@ var markdownit = require('markdown-it')({
 	xhtmlOut: true,
 	typographer: true
    })
-	.use(require('markdown-it-footnote'));
+	.use(require('markdown-it-footnote'))
 	.use(require('markdown-it-anchor'), {
 	level: 1,
 	permalink: true,
