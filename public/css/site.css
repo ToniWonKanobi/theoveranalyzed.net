@@ -33,12 +33,29 @@ time {
     margin: auto auto auto auto;
 }
 
-.content ul, ol, li, dl {
+.content ul {
    margin: 10px 0 10px 10px;
    padding-left: 0px; 
    list-style: outside decimal;
 }
 
+.content ol {
+   margin: 10px 0 10px 10px;
+   padding-left: 0px; 
+   list-style: outside decimal;
+}
+
+.content li {
+   margin: 10px 0 10px 10px;
+   padding-left: 0px; 
+   list-style: outside decimal;
+}
+
+.content dl {
+   margin: 10px 0 10px 10px;
+   padding-left: 0px; 
+   list-style: outside decimal;
+}
 
 .container {
     margin-bottom: 3em;
