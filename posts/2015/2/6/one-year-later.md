@@ -1,11 +1,11 @@
 @@ Title=One Year Later  
 @@ Date=2015-02-06 18:00  
 @@ Description=Although I haven't been posting regularly for the past year, it feels good to have garnered a small following. Thanks to all of you who read this site.  
-@@ Tags=meta, Anthony, blogging  
+@@ Tags=meta, Anthony, blogging, TheOverAnalyzed    
 
-#First, Thanks.
+# First, Thanks.
 
-I started this site [around a year ago](http://www.theoveranalyzed.net/2014/2/2/first-post-ever) as an outlet to both collect and share my thoughts on technology and the ensuing pop culture. Because it is an anniversary of sorts, I wanted to share some of the statistics available to me:
+I started this site [around a year ago](@@SiteRoot@@/2014/2/2/first-post-ever) as an outlet to both collect and share my thoughts on technology and the ensuing pop culture. Because it is an anniversary of sorts, I wanted to share some of the statistics available to me:
 
 * As of today, there are **251** unique subscribers via RSS
 * In this week alone (the week isn't even over yet), **335** different humans decided to engage with my site, for a total of ...
@@ -13,18 +13,18 @@ I started this site [around a year ago](http://www.theoveranalyzed.net/2014/2/2/
 
 I share this not to brag, but to illustrate just how easy it is to cultivate a following. The things I write aren't particularly novel, but there *is* only one Anthony Craig out there. And apparently, his voice is at least moderately interesting for over 300 people on the internet. I would have been happy if just 20 people found value in my thoughts. So this is pretty amazing.
 
-This site was a big checkmark off of my bucket list. I remember listening to the [Accidental Tech Podcast](http://atp.fm) in late 2013 and hearing advertisements for Squarespace. I can hear Marco's read now: "Squarespace is the all-in-one platform for designing your website." I thought for a long while before taking the plunge. Know this, though: Marco's ad read for Squarespace was not off the mark. *It was a lot easier than I thought it would be.* That is, until I decided I wanted to do hacky things. To conquer those things, I learned a bit of HTML and JavaScript in order to [implement](http://www.theoveranalyzed.net/2015/1/31/bigfoot-footntes-squarespace) [Bigfoot](http://www.bigfootjs.com) footnotes. 
+This site was a big checkmark off of my bucket list. I remember listening to the [Accidental Tech Podcast](http://atp.fm) in late 2013 and hearing advertisements for Squarespace. I can hear Marco's read now: "Squarespace is the all-in-one platform for designing your website." I thought for a long while before taking the plunge. Know this, though: Marco's ad read for Squarespace was not off the mark. *It was a lot easier than I thought it would be.* That is, until I decided I wanted to do hacky things. To conquer those things, I learned a bit of HTML and JavaScript in order to [implement](http://@@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace) [Bigfoot](http://www.bigfootjs.com) footnotes. 
 
 So, yay.
 
 #Next
 
-Another bucket list item I have is hosting my own **podcast**. In these times of the [second/third podcast renaissance](http://www.theoveranalyzed.net/posts/2014/12/serial-and-putting-longform-radio-back-on-the-map), podcasting is easier than ever. Squarespace [practically does it for you](http://help.squarespace.com/guides/podcasting-with-squarespace). At some point I will to do that.
+Another bucket list item I have is hosting my own **podcast**. In these times of the [second/third podcast renaissance](@@SiteRoot@@/2014/12/23/serial), podcasting is easier than ever. Squarespace [practically does it for you](http://help.squarespace.com/guides/podcasting-with-squarespace). At some point I will to do that.
 
 But before I venture into podcasting, I need to have something to contribute. I'm sure my podcast will revolve around Apple and technology and how that relates to popular culture (just like this site). But I want more from my podcast. Part of my podcast dream involves talking with the people in the Apple development community, whom I have been listening to for the better part of 18 months.
 I want to be able to have intelligible conversations with those Apple nerds concerning their craft. I'm not talking [Debug](http://www.imore.com/debug)-level, as awesome as that would be. No, I'm thinking somewhere around an ATP-level of [nerd dome](http://www.urbandictionary.com/define.php?term=nerd+dome&defid=1935462) seems like my thing. But I can't do that without actually knowing something about programming languages like [Objective-C](https://en.wikipedia.org/wiki/Objective-C). 
 
-Ever since getting really into Apple around ten years ago, I have always wanted to be a "computer programmer." Not so much because coding was cool in and of itself, but because I wanted to be in the know. Years ago, I felt so cool using <code>killall Dock</code> to fix stupid badge icons not updating correctly in the Dock. I wanted to be a guy who understood why that command did what it did. And I wanted to know why computers can be made to do the things they can, just with a bunch of typed out syntax. 
+Ever since getting really into Apple around ten years ago, I have always wanted to be a "computer programmer." Not so much because coding was cool in and of itself, but because I wanted to be in the know. Years ago, I felt so cool using `killall Dock` to fix stupid badge icons not updating correctly in the Dock. I wanted to be a guy who understood why that command did what it did. And I wanted to know why computers can be made to do the things they can, just with a bunch of typed out syntax. 
 
 So how could I go about learning a programming language? 
 

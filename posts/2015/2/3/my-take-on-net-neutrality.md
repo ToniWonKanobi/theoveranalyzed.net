@@ -2,19 +2,12 @@
 @@ Date=2015-02-03 09:00  
 @@ Description=What's all the hubbub about? Is Net Neutrality *that* important? Well, only if you value choices and a decent internet.  
 @@ Tags=politics, net neutrality, opinions, industry, business  
-  
-## Contents
+
+The team at [BackBlaze](backblaze.com) posted a short [piece](https://www.backblaze.com/blog/broadband-getting-broader/) regarding the FCC's recent [re-defining of broadband](https://gigaom.com/2015/01/29/bam-the-fcc-just-defined-broadband-as-25-mbps-down-and-4-mbps-up/) internet access in America. In their article they quoted [Gizmodo](http://gizmodo.com/fcc-redefines-broadband-to-bring-you-faster-internet-1682516928), saying this: "The redefinition of broadband should increase competition between ISPs and cable companies as well as encourage the development of better infrastructure." That would be a step in the right direction, that's for sure.
+
+<h2>Contents</h2>
 
 [[TOC]]
-
-# Introduction
-
-The team at [BackBlaze](backblaze.com) posted a short [piece](https://www.backblaze.com/blog/broadband-getting-broader/) regarding the FCC's recent [re-defining of broadband](https://gigaom.com/2015/01/29/bam-the-fcc-just-defined-broadband-as-25-mbps-down-and-4-mbps-up/) internet access in America.
-
-In their article they quoted [Gizmodo](http://gizmodo.com/fcc-redefines-broadband-to-bring-you-faster-internet-1682516928):
->The redefinition of broadband should increase competition between ISPs and cable companies as well as encourage the development of better infrastructure.
-
-A step in the right direction, that's for sure.
 
 # Backstory
 
@@ -111,7 +104,7 @@ This is shaping up to be a momentous <s>time</s> week for net neutrality advocat
 T.C. Sottek with [The Verge](http://www.theverge.com/2015/2/2/7966363/net-neutrality-proposal):
 >After years of dithering, manipulative scheming from mega telcos, bad proposals begetting bad proposals, months of F-bombs and death threats, and partisan warfare in Congress, it appears this will be the week we’ve all been waiting for: the week we find out exactly how the FCC will propose to regulate the internet like a utility.
 
-# Next Battle
+# The Next Battle
 
 *Advocating for the FCC to dumb wireless spectrum into the same classification as wired broadband*
 
@@ -120,14 +113,14 @@ Sottek, on the prospects of the FCC reclassifying wireless as well (same article
 
 [Good luck](http://cdn.meme.am/instances/500x/35885793.jpg) getting that to happen with this Congress.
 
-# Update 02/04/15
+# Update
 
 Sottek [in a later piece for The Verge](http://www.theverge.com/2015/2/4/7977569/its-official-the-fcc-will-seek-to-reclassify-the-internet-as-a-utility):
 >FCC Chairman Tom Wheeler revealed his plan to reclassify ISPs as common carriers under Title II of the Telcommunications Act. It's a striking victory for net neutrality advocates who have been fighting for years to solidify internet protections using Title II authority -- and it's the first time the FCC has shown enough backbone to draw a line in the sand against companies like Comcast, AT&T, and Verizon, who are sure to fight viciously in courts.
 
 Finally 🐺
 
-## Update 02/04/15, Ten Minutes After the Last One
+## Update Part II -- Ten Minutes After the Previous One
 
 And Jacob Kastrenakes, also for [The Verge](http://www.theverge.com/2015/2/4/7977633/fcc-will-apply-net-neutrality-to-mobile-for-the-first-time):
 >The FCC has enforced some net neutrality rules for wireless carriers in the past, but chairman Tom Wheeler today announced that the commission intends implement new rules that will fully enforce its principles on mobile. As with wired broadband, the rules will ban paid prioritization and the "blocking and throttling of lawful content and services." 

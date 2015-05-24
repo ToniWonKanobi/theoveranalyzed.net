@@ -7,4 +7,4 @@
 Stephen Hackett of 512 Pixels:
 >This week five years ago, the original iPad was introduced. While the core experience of the iPad is more less the same today, the hardware had come a long way in half a decade
 
-The [original iPad](https://en.wikipedia.org/wiki/IPad_(original)) is definitely on my [Apple Hardware Bucket List](http://theoveranalyzed.net/ahbl/2015/1/apple-hardware-bucket-list).
+The [original iPad](https://en.wikipedia.org/wiki/IPad_(original)) is definitely on my [Apple Hardware Bucket List](@@SiteRoot@@/2015/1/26/apple-hardware-bucket-list).

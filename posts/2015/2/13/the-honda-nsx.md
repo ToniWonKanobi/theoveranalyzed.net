@@ -1,7 +1,7 @@
 @@ Title=The Honda NSX  
 @@ Date=2015-02-13 09:00  
 @@ Description=I talk about one of my favorite cars of all time.  
-@@ Tags=cars, NSX, Honda, anthony  
+@@ Tags=cars, NSX, Honda, Acura, Anthony  
 
 Patrick George, with Jalopnik on the [Honda NSX](http://jalopnik.com/driving-a-supercharged-zanardi-edition-acura-nsx-was-a-1684602295):
 >There is no way the new NSX will escape comparison with its famous father.
@@ -28,7 +28,7 @@ That experience cemented NSX into my Future Cars Bucket List. Someday, I'm sure 
 
 <hr class="small" />
 
-As I have [previously written](http://www.theoveranalyzed.net/posts/2015/1/this-brilliant-illustration-shows-how-much-public-space-weve-surrendered-to-cars), there's something about early 90's cars. Maybe it's because those were the cars I grew up thinking were cool. Who knows?
+As I have [previously written](@@SiteRoot@@/2015/1/12/we-love-cars), there's something about early 90's cars. Maybe it's because those were the cars I grew up thinking were cool. Who knows?
 
 And maybe I'll be proven completely wrong about the new NSX? Maybe it will do the first generation proud? 
 

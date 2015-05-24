@@ -3,7 +3,7 @@
 @@ Description=Happy Valentine's Day Allison.  
 @@ Tags=Anthony, Allison    
 
-### Eight years ago today, we went on [our first 'big' date](http://d.pr/i/1h9Gt+) [^fi]
+### Eight years ago today, we went on [our first 'big' date](http://d.pr/i/1h9Gt+)
 
 <hr class="small"/>
 
@@ -42,5 +42,3 @@
 ### I love you
 
 ![Love](http://d.pr/i/11ITs+)
-
-[^fi]: ![](http://d.pr/i/1h9Gt+)

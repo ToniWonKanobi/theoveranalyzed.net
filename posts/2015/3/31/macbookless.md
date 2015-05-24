@@ -5,7 +5,7 @@
 
 <figure>
 	<img src="http://d.pr/i/1fwsW+" alt="not" width="60%" />
-	<figcaption>Not sure how Viticci does it.</figcaption>
+	<figcaption>Not sure how <a href="http://www.imore.com/how-ipad-air-2-became-federico-viticcis-main-computer">Viticci</a> does it.</figcaption>
 </figure>
 
 As of four days ago, I have been MacBookless. I had my 11" MacBook Air for about a two months and I loved it. The Air was *so* much more portable than my previous laptop, a 13" MacBook Pro with Retina display. Yeah, half a pound doesn't sound like much. But combine that with the 11" MacBook Air's much smaller footprint, and I had the makings of a laptop I actually wanted to bring to work with me. And being able to bring a laptop to work has been a great experience, especially as I started writing more. I realized that I greatly prefer that to an iPad on the go.

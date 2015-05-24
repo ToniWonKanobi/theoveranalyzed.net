@@ -7,19 +7,19 @@
 
 The author [@toniwonkanobi](http://www.twitter.com/toniwonkanobi)
 <br>
-The site's automated account [@theoveranalyzed](http://www.twitter.com/theoveranalyzed)
+The site's automated account [@TheOverAnalyzed](http://www.twitter.com/theoveranalyzed)
 
 ### Instagram ###
 
 The author [@toniwonkanobi](http://instagram.com/toniwonkanobi/)
 <br>
-The site [@TheOverAnalyzed](http://instagram.com/theoveranalyzed/)^[Only occasionally updated]
+The site [@TheOverAnalyzed](http://instagram.com/theoveranalyzed/)[^on]
 
 ### Facebook ###
 
-The author [@toniwonkanobi](www.facebook.com/toniwonkanobi)[^2]
+The author [@toniwonkanobi](www.facebook.com/toniwonkanobi)[^fb]
 <br>
-The site's automated account [@TheOverAnalyzed](www.facebook.com/theoveranalyzed)[^3]
+The site's automated account [@TheOverAnalyzed](www.facebook.com/theoveranalyzed)[^oa]
 
 ### Email ###
 
@@ -32,7 +32,7 @@ Every post gets sent to the RSS feed at [http://feedpress.me/theoveranalyzed](ht
 An alternate RSS feed, for which linked posts point back to TheOverAnalyzed, instead of their targets, can be chosen at [http://feedpress.me/theoveranalyzed-alternate](http://feedpress.me/theoveranalyzed-alternate)
 
 
-[^2]: Facebook requires that I have a personal page to create a page for TheOverAnalyzed. Sigh.
-[^3]: And this is purely for [Instant Articles](www.theoveranalyzed.net/archive/2015/5/14/facebooks-instant-articles)
-
+[^on]: Only occasionally updated
+[^fb]: Facebook requires that I have a personal page to create a page for TheOverAnalyzed. Sigh.
+[^oa]: And this is purely for [Instant Articles](@@SiteRoot@@/2015/5/15/facebooks-instant-articles)
 

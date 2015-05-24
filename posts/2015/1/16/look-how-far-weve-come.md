@@ -12,17 +12,17 @@ I am usually surprised at just how terrible the in-house Wi-Fi is for both perso
 
 Today's situation was no different from the norm. This was my Speedtest today over LTE:
 
-<center><a href="http://www.speedtest.net/my-result/4065330285"><img src="http://www.speedtest.net/result/4065330285.png" /></a></center>
+<a href="http://www.speedtest.net/my-result/4065330285"><img src="http://www.speedtest.net/result/4065330285.png" /></a>
 
 Interestingly, Speedtest garnered a mere A- for these speeds. I guess that's fair, considering the relativity of it all.
 
 Here was a Speedtest from a few months ago, when Time Warner decided to grace its Inland Empire customers with an exorbitant amount of speed increases. (We should totally be okay with them <a href="http://bgr.com/2015/01/15/comcast-time-warner-cable-merger-opposition-2/" title="There’s something for almost everyone to hate about the Comcast-TWC merger">merging with Comcast</a>, right? Uh, no.)
 
-<center><a href="http://www.speedtest.net/my-result/3867339763"><img src="http://www.speedtest.net/result/3867339763.png"></a></center>
+<a href="http://www.speedtest.net/my-result/3867339763"><img src="http://www.speedtest.net/result/3867339763.png"></a>
 
 <hr class="small">
 
-I wrote a [piece](/2015/1/5/facebook-is-the-new-aol) some time ago that touched on my first experiences with the personal computer. 
+I wrote a [piece](@@SiteRoot@@/2015/1/5/facebook-is-the-new-aol) some time ago that touched on my first experiences with the personal computer. 
 
 One thing I did not revisit was the terrible state of internet access in the year 2000 (at least, for my small town in the middle of Central California). 
 
@@ -40,7 +40,7 @@ What I most remember about AOL was that perspiration-inducing and absolutely cur
 
 <figure>
 	<img src="http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" alt="Does the sight of this GIF not make your blood boil?" width="80%" />
-	<figcaption>Does the sight of this GIF *not* make your blood boil?</figcaption>
+	<figcaption>Does the sight of this GIF <em>not</em> make your blood boil?</figcaption>
 </figure>
 
 My inclination here is to make a joke about how connecting via AOL was a lot like Forrest Gump's "[box of chocolates](https://en.wiktionary.org/wiki/life_is_like_a_box_of_chocolates)", because it was. There was no predictable pattern. Oh, it's 5:57 PM, after dinner, and you want to get online? NOPE. Try again. Okay, I'll try again at 9:03 PM. The parentals are asleep, everyone is in their rooms. Who else would be using the phone right now? I should be able to get online now, right? NOPE. Try again. Screw it. I'm not trying again. I'll try tomorrow. I try again tomorrow. It works after dinner, but still not at night. Next day: broken both tries. The. Endless. Cycle. Of. Suck. 

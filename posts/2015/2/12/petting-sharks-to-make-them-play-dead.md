@@ -2,7 +2,7 @@
 @@ Date=2015-02-12 12:01  
 @@ Link=http://digg.com/video/petting-sharks-to-make-them-play-dead  
 No biggie, just petting some sharks.  
-@@ Description=Precious sharks.
+@@ Description=Precious sharks.  
 @@ Tags=animals, advocacy, animal advocacy   
 
 Stuff like this seemingly shatters the pervasive opinion that some animals are evil, and, therefore, it is okay to decimate their species for human gain.[^y] Good. 
