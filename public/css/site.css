@@ -48,16 +48,18 @@ time {
 .content .header
 {
     text-align: center;
-    border-bottom-style: solid;
+/*    border-bottom-style: solid;
 	border-bottom-color: rgb(228, 228, 228);
-	border-bottom-width: 0.3em;
+	border-bottom-width: 0.3em;*/
 }
 
 .content .header .siteTitle
 {
-    font-size: 3.5em;
+    font-size: 3em;
     font-weight: bold;
-    margin-top: -0.25em;
+    max-width: 60%;
+    margin-top: .5em;
+    display: inline-block;
 }
 
 .content .header .siteTitle a
@@ -73,17 +75,16 @@ time {
 
 .content .header .siteByline
 {
-	font-size: 0.7em;
-    margin-bottom: 1.2em;
-    margin-top: -1em;
+	 font-size: 0.7em;
+	 color: #ffffff;
+    margin-bottom: .5em;
 }
 
 .content .header nav
 {
     text-transform: uppercase;
-	font-size: 0.85em;
-    color: rgb(228, 228, 228);
-    margin-bottom: 1em;
+	 font-size: 0.85em;
+    color: #ffffff;
 }
 
 /* iPad */
@@ -145,6 +146,13 @@ time {
     .center img.wide {
     	width: 120% !important;
     	max-width: 120% !important;
+    }
+    
+    #mastheadbackground {
+        width: 100%;
+        height: 150px;
+        margin-bottom: -150px;
+        background-color: #3f70a2;
     }
 
 }
@@ -450,7 +458,8 @@ code {
 }
 
 #mastheadbackground {
-    height: 170px;
-    margin-bottom: -170px;
+    width: 100%;
+    height: 190px;
+    margin-bottom: -190px;
     background-color: #3f70a2;
 }
