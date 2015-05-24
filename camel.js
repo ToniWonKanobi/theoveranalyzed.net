@@ -17,8 +17,9 @@ var markdownit = require('markdown-it')({
 	.use(require('markdown-it-footnote'))
 	.use(require('markdown-it-anchor'), {
 	permalink: true,
-	permalinkSymbol: '➤' 
-	});
+	permalinkSymbol: '#' 
+	})
+	md.use(require("markdown-it-table-of-contents"));
 var Rss = require('rss');
 var Handlebars = require('handlebars');
 

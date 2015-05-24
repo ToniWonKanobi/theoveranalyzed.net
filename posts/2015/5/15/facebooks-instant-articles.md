@@ -24,7 +24,6 @@ But you know what? I don't think it will, at least not anytime soon. While it ha
 # No One Visits Websites Anymore
 
 As Marco Arment [said](https://overcast.fm/+CdTTAD2o/1:19:44) on the latest episode of his Accidental Tech Podcast:
-
 >The web as viewed in web browsers [...] is losing relevance
 
 >Not the internet, but the *web* [emphasis added]
@@ -32,7 +31,6 @@ As Marco Arment [said](https://overcast.fm/+CdTTAD2o/1:19:44) on the latest epis
 Marco is spot-on here. And because less and less normal people use web browsers to read website content, publishers are in trouble. 
 
 Here's [John Gruber](http://daringfireball.net/linked/2015/05/14/facebook-instant-karma)'s short take:
-
 >HTML/CSS/JavaScript rendered in a web browser — that part of the web has peaked.
 
 Without those little Facebook/Twitter/Pinterest/Whatever share icons below articles, publishers' content would never see the light of day (relatively speaking). Their articles *have* to have a social presence to gain popularity. In these troubled times of the web, publishers *have* to embrace Facebook if they want to remain relevant. 
@@ -48,7 +46,6 @@ Presumably, Facebook is doing something similar to what [Google does with search
 If Facebook is doing this, bravo. While not an entirely innovative concept, it is somewhat surprising other platforms[^lo] haven't done something similar. Imagine if Twitter Cards contained pre-loaded versions of the linked content, less than a second away from entertaining the user. That would certainly cut down on my tendency to just auto-save everything to Instapaper.[^as]
 
 [MG Siegler](https://500ish.com/facebook-instant-karma-4a4bd4f3eca) agrees:
-
 >With Instant Articles, Facebook has not only done a 180 from what Mark Zuckerberg has called the company’s biggest mistake, they’ve now done another lap just to prove a point. Not only is the web not fast enough for apps, it’s not fast enough for text either.
 >
 >And you know what, they’re right.
@@ -73,7 +70,7 @@ Publishers not on-board with Instant Articles might be forgotten along with the 
 
 If Instant Articles takes off, its genuine technical utility will be dwarfed by it's tendency to prioritize the bigger publishing companies over the small-timers. That's not good.  
 
-## [The Times, They Are A-Changin'](https://itunes.apple.com/us/album/the-times-they-are-a-changin/id159476281?i=159476284&at=1l3vx9s)
+## The Times, They Are A-Changin'
 
 The aforementioned Facebook first dystopia can be *just* as bad as a [world without net neutrality](@@SiteRoot@@/2015/2/3/my-take-on-net-neutrality). I cannot overemphasize this point. 
 

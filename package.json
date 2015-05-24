@@ -68,6 +68,5 @@
     "node": "0.10.x"
   },
   "devDependencies": {
-    "markdown-it-named-headers": "0.0.3"
   }
 }

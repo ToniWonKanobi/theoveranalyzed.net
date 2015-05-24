@@ -412,7 +412,7 @@ section.footnotes
 {
     float: left;
     display: inline;
-	width: 250px;
+	 width: 250px;
     margin-right: 1em;
 }
 
@@ -439,9 +439,8 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
 }
 
 .header-anchor {
-    color: #666;
+    color: #303030;
     opacity: 0;
     position: absolute;
-    left: -1.5ch;
-    padding-right: .5ch
+    margin-left: -40px;
 }
