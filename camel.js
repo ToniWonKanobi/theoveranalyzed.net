@@ -257,7 +257,8 @@ function generateHtmlAndMetadataForFile(file) {
 			var d = 1;
 			for( var i in tags ){
 				var tag = tags[i].trim();
-				tagslist.push('<a href="/tags/' + tag + '">' + tag.capitalize() + '</a>');
+				tagslist.push('<a href="/tags/' + tag + '">' + tag.toLowerCase() + '</a>');
+//				tagslist.push('<a href="/tags/' + tag + '">' + tag.capitalize() + '</a>');
 				hashtags += tag;
 				if( d < tags.length ){
 					hashtags += ',';
