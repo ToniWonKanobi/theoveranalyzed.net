@@ -15,6 +15,13 @@ var markdownit = require('markdown-it')({
 	typographer: true
    })
 	.use(require('markdown-it-footnote'));
+	.use(require('markdown-it-anchor'), {
+	level: 1,
+	permalink: true,
+	renderPermalink: renderPermalink,
+	permalinkClass: 'header-anchor',
+	permalinkSymbol: '➤' 
+	});
 var Rss = require('rss');
 var Handlebars = require('handlebars');
 
