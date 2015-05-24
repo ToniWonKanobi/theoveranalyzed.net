@@ -427,3 +427,21 @@ p.taggedIn{
 p.taggedIn a{
 	font-size: 14px;
 }
+
+/* Added by me */
+
+.header-anchor, .header-anchor:hover, .title a {
+    text-decoration: none
+}
+
+h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:hover .header-anchor, h5:hover .header-anchor, h6:hover .header-anchor {
+    opacity: 1
+}
+
+.header-anchor {
+    color: #666;
+    opacity: 0;
+    position: absolute;
+    left: -1.5ch;
+    padding-right: .5ch
+}
