@@ -1092,7 +1092,8 @@ app.get('/tags', function (request, response) {
 		});
 		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
 		_.each(orderedKeys, function (key) {
-			retVal += '<h3><a href="/tags/' + key.toLowerCase() + '">' + key.capitalize() + '</a></h3>';
+//			retVal += '<h3><a href="/tags/' + key.toLowerCase() + '">' + key.capitalize() + '</a></h3>';
+			retVal += '<h3><a href="/tags/' + key + '">' + key + '</a></h3>';
 			retVal += '<ul>';
 			_.each(postsByTag[key], function (post) {
 				retVal += '<li><a href="' + post.url + '">' + post.title  + '</a></li>';
