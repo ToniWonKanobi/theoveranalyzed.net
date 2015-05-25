@@ -1,7 +1,7 @@
 @@ Title=My Take On Net Neutrality  
 @@ Date=2015-02-03 09:00  
 @@ Description=What's all the hubbub about? Is Net Neutrality *that* important? Well, only if you value choices and a decent internet.  
-@@ Tags=politics, net neutrality, opinions, industry, business  
+@@ Tags=politics, net neutrality, opinion, industry, business  
 
 The team at [BackBlaze](backblaze.com) posted a short [piece](https://www.backblaze.com/blog/broadband-getting-broader/) regarding the FCC's recent [re-defining of broadband](https://gigaom.com/2015/01/29/bam-the-fcc-just-defined-broadband-as-25-mbps-down-and-4-mbps-up/) internet access in America. In their article they quoted [Gizmodo](http://gizmodo.com/fcc-redefines-broadband-to-bring-you-faster-internet-1682516928), saying this: "The redefinition of broadband should increase competition between ISPs and cable companies as well as encourage the development of better infrastructure." That would be a step in the right direction, that's for sure.
 

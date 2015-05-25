@@ -1,7 +1,7 @@
 @@ Title=What It's Like To Be Way Too Popular For A Day  
 @@ Date=2015-01-06 10:00  
 @@ Description=Marco Arment recently got more attention than he wanted for writing a blog post criticizing Apple.  
-@@ Tags=apple, blogging, developers, development  
+@@ Tags=Apple, blogging, developers, development  
 
 Marco Arment, on his most recent popularity following a controversial blog post:
 >Had I known that it would go as far as it did, I never would have written it.

@@ -2,7 +2,7 @@
 @@ Date=2015-02-27 13:36  
 @@ Link=https://www.youtube.com/watch?v=OlZKFJueoIA  
 @@ Description=I quite fancy Pearl Jam. There's a lot of history between Eddie Vedder and David Letterman. It's neat to see them in the early stages.  
-@@ Tags=music, music videos, Letterman, Pearl Jam, Eddie Vedder      
+@@ Tags=music, music videos, Letterman, Pearl Jam, Eddie Vedder, live      
 
 Eddie Vedder surprises Letterman.
 

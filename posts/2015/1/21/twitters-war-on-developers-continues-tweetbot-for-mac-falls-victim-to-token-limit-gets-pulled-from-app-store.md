@@ -2,7 +2,7 @@
 @@ Date=2015-01-21 17:10  
 @@ Link=http://9to5mac.com/2015/01/25/tweetbot-mac-twitters-war-on-developers/  
 @@ Description=Twitter really knows how to treat its third party developer ecosystem.  
-@@ Tags=development, developers, twitter, business, social media  
+@@ Tags=development, developers, Twitter, business, social media  
 
 Mike Beasley, for 9to5Mac: 
 >While it’s possible that this could be a glitch in Twitter’s system, 9to5Mac was previously told that the app was on track to potentially reach the limit around the end of 2014, and the app would likely have to be removed from sale at that time. While that didn’t end up being the case, we are only a month into the new year, so this could still be the case.
