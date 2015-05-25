@@ -1,8 +1,8 @@
 body {
    background-color: #FFFFFF;
    color: #545454; 
-   line-height: 1.6;
-   font-size: 16pt;
+   line-height: 1.5;
+   font-size: 15pt;
    font-weight: 300;
 }
 
@@ -19,6 +19,7 @@ a {
 
 time {
 	color: #9e9e9e;
+	font-size: 0.8em;
 }
 
 .super {
@@ -28,22 +29,20 @@ time {
 
 .content {
    text-align: left;
-   max-width: 650px;
+   max-width: 600px;
    margin: auto auto auto auto;
 }
 
 .content ul {
 	padding-left: 10px;
+	margin: 10px 0 10px 10px;
    /*list-style: circle;*/
 }
 
 .content ol {
    padding-left: 10px;
+   margin: 10px 0 10px 10px;
 }
-
-.content ol { list-style: outside decimal; }
-
-.content ul { list-style: outside disc; }
 
 .container {
    margin-bottom: 3em;
@@ -160,15 +159,20 @@ time {
 
 }
 
+/*.entry {
+   margin-top: -1em;
+
+}*/
+
 .content pre {
-   font-size: 0.9em;
+   font-size: .9em;
    white-space: pre-wrap;
    margin-bottom: 24px;
    overflow: scroll !important;
    padding: 5px 10px;
    -webkit-border-radius: 3px;
    background-color: #eee;
-   border: 1px solid #ddd;
+/*   border: 1px solid #ddd;*/
 }
 
 .content code {
@@ -179,16 +183,18 @@ time {
    overflow: hidden; 
    -webkit-border-radius: 3px;
    background-color: #eee;
-   border: 1px solid #ddd;
+/*   border: 1px solid #ddd;*/
 }
 
 .content pre code {
-    white-space: pre-wrap;
-    border: none;
-    padding: 0;
-    background-color: transparent;
-    -webkit-border-radius: 0;
-    overflow: visible;
+   font-size: .9em;
+   white-space: pre-wrap;
+   border: none;
+   padding: 0;
+   background-color: transparent;
+   -webkit-border-radius: 0;
+   overflow: visible;
+   line-height: 1.5;
 }
 
 
@@ -225,6 +231,7 @@ time {
 .header .dot {
 /*    font-weight: bold;*/
     margin-left: 0.25em;
+    color: #ffffff !important;
 }
 
 table.sortable thead {
@@ -352,12 +359,17 @@ a.linked:visited {
 }*/
 
 .post .postHeader .postDate {
-    display: block;
-    font-size: 0.9em;
+   display: block;
+   font-size: 0.9em;
+}
+
+.dot {
+   color: #9e9e9e;
+   font-size: 0.8em;
 }
 
 figure {
-    display: inline;
+   display: inline;
 /*    float: right;*/
 }
 
@@ -372,9 +384,9 @@ figure.figright {
 }
 
 figcaption {
-    text-align: center;
-    font-style: italic;
-    font-size:  .8em;
+   text-align: center;
+   font-style: italic;
+   font-size:  .8em;
 }
 
 section.footnotes {
@@ -383,15 +395,15 @@ section.footnotes {
 }
 
 .post .postHeader h1 a:visited {
-    color: black;
+   color: black;
 }
 
 .post hr {
-    height: 1px;
-    color: #9e9e9e;
-    margin-top: 1.25em;
-    margin-bottom: 1.25em;
-    width: 100%;
+   height: 1px;
+   color: #9e9e9e;
+   margin-top: 1.25em;
+   margin-bottom: 1.25em;
+   width: 100%;
 }
 
 .post hr.small {
@@ -403,29 +415,31 @@ section.footnotes {
 	}
 
 .homepage .article hr.footnotes-sep{
+   display:  none;
 	width: 50%;	
 	border-top: 1px solid #555
 }
 
 .post hr.footnotes-sep {
+   display:  none;
 	width: 70%;
 	border-top: 1px solid #555
 }
 
 .post th {
-    padding: 0 0.5em 0 0.5em;
+   padding: 0 0.5em 0 0.5em;
 }
 
 .post td {
-    padding: 0 0.5em 0 0.5em;
+   padding: 0 0.5em 0 0.5em;
 }
 
 /* ABOUT */
 .headshot {
-    float: left;
-    display: inline;
-	 width: 250px;
-    margin-right: 1em;
+   float: left;
+   display: inline;
+   width: 250px;
+   margin-right: 1em;
 }
 
 
@@ -441,28 +455,28 @@ p.taggedIn a {
 }
 
 .header-anchor, .header-anchor:hover, .title a {
-    text-decoration: none
+   text-decoration: none
 }
 
 h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:hover .header-anchor, h5:hover .header-anchor, h6:hover .header-anchor {
-    opacity: 1
+   opacity: 1
 }
 
 .header-anchor {
-    color: #3f70a2;
-    opacity: 0;
-    position: absolute;
-    margin-left: -.8em;
+   color: #3f70a2;
+   opacity: 0;
+   position: absolute;
+   margin-left: -.8em;
 }
 
 
 #mastheadbackground {
-    width: 100%;
-    height: 170px;
-    margin-bottom: -170px;
-    background-color: #3f70a2;
+   width: 100%;
+   height: 170px;
+   margin-bottom: -170px;
+   background-color: #3f70a2;
 }
 
-.postTitle .linkarrow {
+.linkarrow {
    color: #9e9e9e;
 }
