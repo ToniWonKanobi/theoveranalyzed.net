@@ -375,15 +375,14 @@ body pre {
 
 .homepage a.previouspage {
    display: inline;
-   float:  left;
+   float:  right;
    text-transform: uppercase;
    font-weight: 400;
 }
 
 .homepage a.nextpage {
    display:  inline;
-   float: right;
-   text-align: right;
+   float: left;
    text-transform: uppercase;
    font-weight: 400; 
 }
