@@ -303,8 +303,8 @@ blockquote {
     color: ;
 }
 
-.homepage a.post-title.linked {
-    font-size: 1.6em;
+.homepage a.post-title {
+    font-size: 1.2em;
     font-weight: 800;
     line-height: 1;
     margin-bottom: .2em;
