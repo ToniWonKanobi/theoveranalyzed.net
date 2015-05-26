@@ -310,7 +310,7 @@ blockquote {
     color: #545454; 
 }
 
-.homepage a.post-title {
+.homepage a.post-title.linked {
     font-size: .8em;
     font-weight: 800;
     line-height: 1;
