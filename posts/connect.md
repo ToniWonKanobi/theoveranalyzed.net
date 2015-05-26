@@ -1,31 +1,32 @@
 @@ Title=Connect  
 @@ HideHeader=true  
+@@ BodyClass=connect  
 
-# Connect #
+<h1 class="pages">Connecting</h1>
   
-### Twitter ###
+## Twitter
 
 The author [@toniwonkanobi](http://www.twitter.com/toniwonkanobi)
 <br>
 The site's automated account [@TheOverAnalyzed](http://www.twitter.com/theoveranalyzed)
 
-### Instagram ###
+## Instagram
 
 The author [@toniwonkanobi](http://instagram.com/toniwonkanobi/)
 <br>
 The site [@TheOverAnalyzed](http://instagram.com/theoveranalyzed/)[^on]
 
-### Facebook ###
+## Facebook
 
 The author [@toniwonkanobi](www.facebook.com/toniwonkanobi)[^fb]
 <br>
 The site's automated account [@TheOverAnalyzed](www.facebook.com/theoveranalyzed)[^oa]
 
-### Email ###
+## Email
 
 If you have questions, concerns, or any other feedback, you can send me an email at [anthony@theoveranalyzed.net](mailto:anthony@theoveranalyzed.net)
   
-### RSS ###
+## RSS
 
 Every post gets sent to the RSS feed at [http://feedpress.me/theoveranalyzed](http://feedpress.me/theoveranalyzed)
 <br>

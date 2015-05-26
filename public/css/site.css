@@ -2,8 +2,35 @@ body {
    background-color: #FFFFFF;
    color: #545454; 
    line-height: 1.5;
-   font-size: 15pt;
+   font-size: 1em;
    font-weight: 300;
+   margin: 0 0 0 0;
+}
+
+h1, h2, h3, h4, h5 {
+   margin: 1.2em 0em -.2em 0;
+}
+
+h1:nth-child(1),
+h2:nth-child(1) {
+   margin-top: .6em !important;
+}
+
+h1 {
+   font-size: 1.5em;
+}
+
+h2 {
+   font-size: 1.25em;
+}
+
+h3 {
+   font-size: 1.125em;
+}
+
+h1.pages,
+h1.tagheaders {
+   padding-top: 2em;
 }
 
 a {
@@ -11,15 +38,14 @@ a {
 	color: #3f70a2;
 }
 
-/* a:hover {
-	text-decoration: none;
-	border-bottom: 1px solid #3f70a2;
-	color: #3f70a2;
-} */
+a:hover {
+	color: #2e8eef;
+	-webkit-transition: all .3s ease-out;
+} 
 
-time {
+.homepage time {
 	color: #9e9e9e;
-	font-size: 0.8em;
+	font-size: 0.85em;
 }
 
 .super {
@@ -30,18 +56,31 @@ time {
 .content {
    text-align: left;
    max-width: 600px;
-   margin: auto auto auto auto;
+   margin: 1em auto 1em auto;
+}
+
+body.about,
+body.nerd,
+body.live,
+body.connect, {
+   margin-top: 0em;
+}
+
+.content li {
+	padding-left: .2em;
+	margin: .5em 0 .5em 0;
+   /*list-style: circle;*/
 }
 
 .content ul {
-	padding-left: 10px;
-	margin: 10px 0 10px 10px;
+	padding-left: 1em;
+	margin: 1em 0 1em .5em;
    /*list-style: circle;*/
 }
 
 .content ol {
-   padding-left: 10px;
-   margin: 10px 0 10px 10px;
+   padding-left: 1em;
+   margin: 1em 0 1em .5em;
 }
 
 .container {
@@ -62,7 +101,7 @@ time {
    font-size: 3em;
    font-weight: bold;
    max-width: 60%; 
-   margin-top: .5em;
+   margin: .25em auto .2em auto;
    display: inline-block;
 }
 
@@ -76,16 +115,18 @@ time {
 }*/
 
 .content .header .siteByline {
-   font-size: 0.7em;
+   font-size: .92em;
    color: #ffffff;
-   margin-bottom: .5em;
-   margin-top: .1em;
+   margin: .4em auto 1.1em auto;
 }
 
 .content .header nav,
 .content .header nav a {
    text-transform: uppercase;
+   font-size: 1em;
    color: #ffffff;
+   margin-bottom: 1em;
+   margin-top:  -.1em;
 }
 
 /* iPad */
@@ -104,7 +145,7 @@ time {
     }
 
 	 .content {
-	   max-width:90%;
+	   max-width:80%;
 	 }
 
     .content .main {
@@ -141,7 +182,7 @@ time {
     }
 
     .homepage h1 a {
-      font-size: 2em !important;
+      font-size: 1.5em !important;
     }
     
     .center img.wide {
@@ -155,11 +196,6 @@ time {
       margin-bottom: -150px;
       background-color: #3f70a2;
     }
-
-}
-
-.entry {
-   margin-top: -1em;
 
 }
 
@@ -177,7 +213,7 @@ time {
 .content code {
    white-space: pre-wrap;
    word-wrap: break-word; 
-   font-size: .7em;
+   font-size: .9em;
    padding: 2px;
    overflow: hidden; 
    -webkit-border-radius: 3px;
@@ -196,10 +232,8 @@ time {
    line-height: 1.5;
 }
 
-
-.copyright {
-    font-size: 0.6em;
-    text-align: center;
+vdog {
+	padding: 2em 0 2em 0;
 }
 
 .center {
@@ -229,7 +263,7 @@ time {
 
 .header .dot {
 /*    font-weight: bold;*/
-    margin-left: 0.25em;
+    margin: 0 0.5em 0 .7em;
     color: #ffffff !important;
 }
 
@@ -247,27 +281,28 @@ blockquote {
 /* INDEX */
 
 .homepage .day .daybreak {
-    margin-top: 3em;
-    border: 0;
-    color: rgb(228, 228, 228);
-	background-color: rgb(228, 228, 228);
-	height: 0.15em;
+   margin-top: 5em;
+   margin-bottom:  4em;
+   border: 0;
+   color: #ddd;
+	background-color: #ddd;
+	height: .4em;
 }
 
 .homepage .postHeader {
-    margin-top: 3em;
-    margin-bottom: 2em;
+    margin-top: 4em;
+    margin-bottom: 1em;
 }
 
 .homepage .postHeader:nth-of-type(1) {
-	margin-top: 2em;
+	margin-top: 5em;
 }
 
 .homepage .postHeader h1 {
-    font-size: 2.2em;
-    font-weight: 500;
-    line-height: 1.2;
-    margin: 0px;
+    font-size: 1.7em;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: .2em;
 }
 
 .postHeader h1 img {
@@ -282,7 +317,6 @@ a.postTitle {
 	font-style: bold;
 }
 
-
 body pre {
 	line-height: 1.0;
 }
@@ -296,15 +330,11 @@ body pre {
     margin-bottom: 2em;
 }
 
-.homepage .copyright {
-    margin-top: -2em;
-}
-
-.homepage .article hr {
-    width: 35%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    border-top: 1px dashed black;
+.copyright {
+    margin: 10em auto -2.5em auto;
+    font-size: 0.8em;
+    color: #9e9e9e;
+    text-align: center;
 }
 
 .homepage .article th {
@@ -317,11 +347,13 @@ body pre {
 
 .homepage .paginationFooter {
     width: 100%;
-    margin-top: 1em;
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 
 .homepage .paginationFooterPrevious {
     display: inline;
+    float: left;
 }
 
 .homepage .paginationFooterNext {
@@ -332,13 +364,14 @@ body pre {
 /* POSTS */
 
 .post .postHeader {
-    text-align: left;
-    margin-bottom: 1em;
+    text-align: center;
+    margin-bottom: 2.5em;
+    margin-top: 5em;
 }
 
 .post .postHeader h1 {
-	margin: 0px;
-    margin-top: 1em;
+    margin-top: 2em;
+    margin-bottom: 0em;
     font-size: 2em;
     text-decoration: none;
 }
@@ -350,6 +383,11 @@ a.linked:visited {
     text-decoration: none; 
 }
 
+a.linked:hover {
+   color: #2e8eef;
+}
+
+
 /*.postHeader .postPermalink img {
 	width: 1.5em;
 	height: 1.5em;
@@ -357,13 +395,23 @@ a.linked:visited {
 	position: relative;
 }*/
 
+.post .postHeader .time {
+   font-size: 1em;
+   margin-bottom: 10em;
+}
+
 .postHeader .postPermalink {
-   font-size: .9em;
+   font-size: 1em;
+}
+
+.homepage .postHeader .postPermalink {
+   font-size: .85em;
 }
 
 .post .postHeader .postDate {
    display: block;
    font-size: 0.9em;
+   margin-bottom
 }
 
 .dot {
@@ -372,8 +420,8 @@ a.linked:visited {
 }
 
 figure {
-   display: inline;
-/*    float: right;*/
+   display: block;
+   text-align: center;
 }
 
 figure.figleft {
@@ -387,6 +435,7 @@ figure.figright {
 }
 
 figcaption {
+   margin-top: .5em;
    text-align: center;
    font-style: italic;
    font-size:  .8em;
@@ -401,32 +450,33 @@ section.footnotes {
    color: black;
 }
 
-.post hr {
-   height: 1px;
-   color: #9e9e9e;
-   margin-top: 1.25em;
-   margin-bottom: 1.25em;
+.homepage .article hr {
    width: 100%;
+   margin-top: 2em;
+   margin-bottom: 2em;
+   border-top: 1px solid;
+   color: #9e9e9e;
 }
 
-.post hr.small {
-	height: 1px;
-	color: #9e9e9e;
-	margin-top: 1.25em;
-	margin-bottom: 1.25em;
-	width: 75%;
-	}
+.post hr.small,
+.homepage hr.small {
+   width: 75%;
+   margin-top: 2em;
+   margin-bottom: 2em;
+   border-top: 1px solid;
+   color: #9e9e9e;
+}
 
-.homepage .article hr.footnotes-sep{
+.homepage .article hr.footnotes-sep {
+   width: 50%;	
+   border-top: 1px solid #555;
    display:  none;
-	width: 50%;	
-	border-top: 1px solid #555
 }
 
 .post hr.footnotes-sep {
-   display:  none;
 	width: 70%;
-	border-top: 1px solid #555
+   border-top: 1px solid #555;
+   display: none;
 }
 
 .post th {
@@ -439,10 +489,10 @@ section.footnotes {
 
 /* ABOUT */
 .headshot {
-   float: left;
+   float: right;
    display: inline;
    width: 250px;
-   margin-right: 1em;
+   margin: 0em 0em 2em 2em;
 }
 
 
@@ -462,7 +512,7 @@ p.taggedIn a {
 }
 
 h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:hover .header-anchor, h5:hover .header-anchor, h6:hover .header-anchor {
-   opacity: 1
+   opacity: 1;
 }
 
 .header-anchor {
@@ -472,11 +522,10 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
    margin-left: -.8em;
 }
 
-
 #mastheadbackground {
    width: 100%;
-   height: 170px;
-   margin-bottom: -170px;
+   height: 165px;
+   margin-bottom: -165px;
    background-color: #3f70a2;
 }
 

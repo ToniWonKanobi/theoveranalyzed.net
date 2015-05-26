@@ -2,16 +2,17 @@
 @@ HideHeader=true  
 @@ BodyClass=about  
 
-# About
+<h1 class="pages">About</h1>
+<img src="http://d.pr/i/1d53F+" class="headshot" alt="❤️">
 
-I'm Anthony Craig.
+I'm Anthony.
 
-In early 2014, after months of hearing on my favorite [podcast](http://atp.fm) about the wonders of [Squarespace](www.squarespace.com), I started my own blog. I have no formal web development or design background, but I fancy myself a quick learner and a decently well-rounded nerd. It seemed like a neat way to learn some new things.
+In early 2014, after *months* of hearing on my favorite [podcast](http://atp.fm) advertisements for [Squarespace](www.squarespace.com), I took the plunge and started my own blog. I had no formal web development or design background, but I fancied myself a quick learner and a decently well-rounded nerd. It seemed like a neat way to learn some new things.
 
-Version 1 through version [2.5](https://instagram.com/p/2oFqCowLyD/?taken-by=theoveranalyzed) of TheOverAnalyzed was built on the Squarespace platform and several of its templates. The site was never stock, however. From nearly the beginning, it was heavily augmented with *tons* of [hacks](@@SiteRoot@@/tags/hacking-squarespace) to make everything appear how I wanted. More than anything, this blog has been an extreme exercise in patience. Things didn't always work out on the first try, but when they did, it was a [great feeling](https://twitter.com/caseyliss/status/601133285356531712).
+Consequently, Versions 1 through [2.5](https://instagram.com/p/2oFqCowLyD/?taken-by=theoveranalyzed) of TheOverAnalyzed were built on the Squarespace platform, across a couple of its templates. Version 1 was mostly stock, but about 6 months after starting the site, I accessed their Developer Platform, hoping it would allow me to tweak the site even more. I was exposed to HTML, CSS, and JavaScript -- languages I knew nothing about previously. Based on what I learned from stalking other people's CSS, as well as what I gathered from all corners of the internet, I employed tons of [hacks](@@SiteRoot@@/tags/hacking-squarespace) to make everything appear how I wanted. This took the better part of two solid weeks of intense trial and error. Things didn't always work out on the first try, but when they finally did, boy was it a [great feeling](https://twitter.com/caseyliss/status/601133285356531712). Check out posts tagged [TheOverAnalyzed](@@SiteRoot@@/tags/TheOverAnalyzed) for a pseudo-history of the site's various stages of development.
 
-All the while, I knew I wanted something better than Squarepace. Too many simple tasks were made difficult using Squarespace, and too *few* difficult tasks were made simple using Squarespace. But in the beginning, I lacked both the skills and courage to leave Squarespace.
+I eventually found that even on the developer platform, not everything was open for tweaking. Ultimately, too many simple tasks were made difficult using Squarespace, and too *few* difficult tasks were made simple using Squarespace. I knew I wanted something better, but wasn't sure I had the skills to leave a CMS and take on a self-hosted website myself.
 
-In mid 2014, Casey Liss [open-sourced](http://www.caseyliss.com/2014/5/2/camel-open-sourced) his lightweight blogging engine, [Camel](https://github.com/cliss/camel). With the option for an '[alternate RSS](@@SiteRoot@@/rss-alternate)' feed (linked posts point back to TheOverAnalyzed) and the openness of a completely customizable platform, I knew that was the direction I would eventually head. So in mid 2015, I did just that. Head over to [/nerd](@@SiteRoot@@/nerd) for more information.
+In early 2015, I caught wind of Casey Liss's blogging engine, Camel, which he open-sourced [months earlier](http://www.caseyliss.com/2014/5/2/camel-open-sourced). With the option for an '[alternate RSS](@@SiteRoot@@/rss-alternate)' feed (linked posts point back to TheOverAnalyzed) and the openness of a completely customizable platform, I knew that was the direction I would eventually head. I procrastinated for a month before finally starting work on Version 3.0 of the site. Head over to [/nerd](@@SiteRoot@@/nerd) for more information about the site.
 
 Thanks for stopping by.
