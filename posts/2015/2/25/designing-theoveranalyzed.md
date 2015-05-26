@@ -42,7 +42,7 @@ And here's a screenshot[^v] of my site from just a couple of weeks ago, before t
 
 ## Things Got Hairy
 
-I had been wanting to make a few changes to the way my posts behaved. For instance, I wanted an arrow (→) to follow the title on Linked posts, and I also wanted a permalink (∞) to follow the the Linked post's date. There didn't seem to be a way to do that from within the Configuration section. I looked around for some ideas, and found a [post](http://duner.webfactional.com/blog/squarespace-permalinks) discussing the `{.passthrough}` string. That post offered a great solution, but the author noted that the string was only exposed to Squarespace users with the Developer Platform turned on.
+I had been wanting to make a few changes to the way my posts behaved. For instance, I wanted an arrow `→` to follow the title on Linked posts, and I also wanted a permalink `∞` to follow the the Linked post's date. There didn't seem to be a way to do that from within the Configuration section. I looked around for some ideas, and found a [post](http://duner.webfactional.com/blog/squarespace-permalinks) discussing the `{.passthrough}` string. That post offered a great solution, but the author noted that the string was only exposed to Squarespace users with the Developer Platform turned on.
 
 Huh. I had heard on a podcast[^hp] that Squarespace had a [Developer Platform](http://developers.squarespace.com). Interesting. I wondered what that was all about, so I visited the developer landing page. It seemed pretty straightforward? 
 
