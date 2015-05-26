@@ -293,7 +293,14 @@ blockquote {
 }
 
 .homepage .postHeader h1 {
-    font-size: 1.9em;
+    font-size: 1.7em;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: .2em;
+}
+
+.homepage .postHeader h1 {
+    font-size: 1.6em;
     font-weight: 800;
     line-height: 1;
     margin-bottom: .2em;
@@ -361,6 +368,8 @@ body pre {
     text-align: center;
     margin-bottom: 2.5em;
     margin-top: 5em;
+    color: #545454;
+    line-height: 1.5; 
 }
 
 .post .postHeader h1 {
@@ -368,7 +377,8 @@ body pre {
     margin-bottom: 0em;
     font-size: 2em;
     text-decoration: none;
-    color: #545454;
+    line-height: 1.5;
+    color: #545454; 
 }
 
 a.linked,
@@ -451,7 +461,8 @@ section.footnotes {
 }
 
 .post .postHeader h1 a:visited {
-   color: black;
+    color: #545454;
+    line-height: 1.5;
 }
 
 .homepage .article hr {
