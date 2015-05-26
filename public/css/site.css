@@ -220,7 +220,6 @@ a:hover {
 }
 
 .content pre code {
-   font-size: .9em;
    white-space: pre-wrap;
    border: none;
    padding: 0;
@@ -551,7 +550,7 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
    color: #3f70a2;
    opacity: 0;
    position: absolute;
-   margin-left: -.8em;
+   margin-left: 0em;
 }
 
 #mastheadbackground {
