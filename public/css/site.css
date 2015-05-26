@@ -1,7 +1,7 @@
 body {
    background-color: #FFFFFF;
    color: #545454; 
-   line-height: 1.5;
+   line-height: 1.6;
    font-size: 1em;
    margin: 0 0 0 0;
    
@@ -127,6 +127,7 @@ a:hover {
    color: #ffffff;
    margin-bottom: 1em;
    margin-top:  -.1em;
+   font-weight: 600;
 }
 
 /* iPad */
@@ -145,36 +146,33 @@ a:hover {
     }
 
 	 .content {
-	   max-width:80%;
+	   max-width:90%;
 	 }
 
     .content .main {
-      font-size: 18px;
+      font-size: 1.2em;
     }
 
     .content .header .siteTitle {
-      font-size: 40px;
+      font-size: 3em;
     }
     
     .content .header .siteByline {
-    	font-size: 10px;
+    	font-size: 1.2em;
     }
     
     .content .header nav {
-      font-size: 14px;
+      font-size: 1.2em;
+      margin-bottom: 1em;
     }
 
    .content .header {
-      margin-bottom:1em;
-    }
-
-   .content .header nav {
-      margin-bottom: 1em;
+      margin-bottom:1.2em;
     }
 
    .content .header nav a {
       margin: 0 .2em;
-      font-size: 12px;
+      font-size: 1.2em;
     }
 
     .content ol {
@@ -182,7 +180,7 @@ a:hover {
     }
 
     .homepage h1 a {
-      font-size: 1.5em !important;
+      font-size: 2em !important;
     }
     
     .center img.wide {
