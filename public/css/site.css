@@ -3,8 +3,11 @@ body {
    color: #545454; 
    line-height: 1.5;
    font-size: 1em;
-   font-weight: 300;
    margin: 0 0 0 0;
+   
+   font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B'; 
+      font-weight: 300; 
+      font-style: normal;
 }
 
 h1, h2, h3, h4, h5 {
@@ -18,14 +21,17 @@ h2:nth-child(1) {
 
 h1 {
    font-size: 1.5em;
+   font-weight: 700;
 }
 
 h2 {
    font-size: 1.25em;
+   font-weight: 700;
 }
 
 h3 {
    font-size: 1.125em;
+   font-weight: 700;
 }
 
 h1.pages,
