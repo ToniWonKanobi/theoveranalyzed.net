@@ -233,7 +233,12 @@ body.connect, {
 }
 
 vdog {
-	padding: 2em 0 2em 0;
+	margin: 2em 0 0em 0;
+}
+
+ad {
+   font-color: #9e9e9e;
+   font-style: italic;
 }
 
 .center {
@@ -331,7 +336,7 @@ body pre {
 }
 
 .copyright {
-    margin: 10em auto -2.5em auto;
+    margin: 2em auto -2.5em auto;
     font-size: 0.8em;
     color: #9e9e9e;
     text-align: center;
