@@ -127,7 +127,7 @@ a:hover {
    color: #ffffff;
    margin-bottom: 1em;
    margin-top:  -.1em;
-   font-weight: 600;
+   font-weight: 400;
 }
 
 /* iPad */
@@ -293,7 +293,7 @@ blockquote {
 }
 
 .homepage .postHeader h1 {
-    font-size: 1.7em;
+    font-size: 1.9em;
     font-weight: 800;
     line-height: 1;
     margin-bottom: .2em;
@@ -308,6 +308,7 @@ blockquote {
 
 a.postTitle {
 	display: block;
+	color: #545454;
 }
 
 body pre {
@@ -367,6 +368,7 @@ body pre {
     margin-bottom: 0em;
     font-size: 2em;
     text-decoration: none;
+    color: #545454;
 }
 
 a.linked,
