@@ -310,6 +310,13 @@ blockquote {
     color: #545454; 
 }
 
+.homepage a.post-title {
+    font-size: .8em;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: .2em;
+}
+
 .postHeader h1 img {
 	width: 1.5em;
 	height: 1.5em;
