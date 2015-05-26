@@ -374,12 +374,15 @@ body pre {
 }*/
 
 .homepage a.previouspage {
-   text-align: left;
+   display: inline;
+   float:  left;
    text-transform: uppercase;
    font-weight: 400;
 }
 
 .homepage a.nextpage {
+   display:  inline;
+   float: right;
    text-align: right;
    text-transform: uppercase;
    font-weight: 400; 
