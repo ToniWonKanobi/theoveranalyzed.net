@@ -366,17 +366,23 @@ body pre {
 .homepage .paginationFooterPrevious {
     display: inline;
     float: left;
-    text-align: left;
-    text-transform: uppercase;
-    font-weight: 400;
 }
 
 .homepage .paginationFooterNext {
     display: inline;
     float: right;
-    text-align: right;
-    text-transform: uppercase;
-    font-weight: 400;
+}
+
+.homepage a.previouspage {
+   text-align: left;
+   text-transform: uppercase;
+   font-weight: 400;
+}
+
+.homepage a.nextpage {
+   text-align: right;
+   text-transform: uppercase;
+   font-weight: 400; 
 }
 
 /* POSTS */
