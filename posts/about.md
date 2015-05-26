@@ -2,7 +2,7 @@
 @@ HideHeader=true  
 @@ BodyClass=about  
 
-<h1 class="pages">About</h1>
+<h1>About</h1>
 <img src="http://d.pr/i/1d53F+" class="headshot" alt="❤️">
 
 I'm Anthony.

@@ -2,7 +2,7 @@
 @@ HideHeader=true  
 @@ BodyClass=nerd
 
-<h1 class=pages>Nerdy Stuff</h1>
+<h1>Nerdy Stuff</h1>
 
 ## What The Site's Made Of
 

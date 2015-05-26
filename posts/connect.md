@@ -2,7 +2,7 @@
 @@ HideHeader=true  
 @@ BodyClass=connect  
 
-<h1 class="pages">Connecting</h1>
+<h1>Ways To Connect</h1>
   
 ## Twitter
 
