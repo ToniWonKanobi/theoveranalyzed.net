@@ -363,7 +363,7 @@ body pre {
     margin-bottom: 2em;
 }
 
-.homepage .paginationFooterPrevious {
+/*.homepage .paginationFooterPrevious {
     display: inline;
     float: left;
 }
@@ -371,7 +371,7 @@ body pre {
 .homepage .paginationFooterNext {
     display: inline;
     float: right;
-}
+}*/
 
 .homepage a.previouspage {
    text-align: left;
