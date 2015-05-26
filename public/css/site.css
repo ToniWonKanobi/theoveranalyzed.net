@@ -180,7 +180,11 @@ a:hover {
     }
 
     .homepage h1 a {
-      font-size: 2em !important;
+      font-size: 1.5em !important;
+    }
+    
+    .homepage h1 a {
+      font-size: 1.5em !important;
     }
     
     .center img.wide {
@@ -244,7 +248,7 @@ a:hover {
     margin-left: 2em;
 }
 
-.center img.wide {
+.center  img.wide {
 	width: 140%; 
 	max-width: 140%;
 	margin: 0 -20%;
@@ -296,13 +300,15 @@ blockquote {
     font-weight: 800;
     line-height: 1;
     margin-bottom: .2em;
+    color: ;
 }
 
-.homepage .postHeader h1 {
+.homepage a.post-title.linked {
     font-size: 1.6em;
     font-weight: 800;
     line-height: 1;
     margin-bottom: .2em;
+    color: #545454; 
 }
 
 .postHeader h1 img {
@@ -550,7 +556,7 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
    color: #3f70a2;
    opacity: 0;
    position: absolute;
-   margin-left: 0em;
+   margin-left: -1em;
 }
 
 #mastheadbackground {
