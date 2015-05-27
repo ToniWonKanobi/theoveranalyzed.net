@@ -326,6 +326,10 @@ blockquote {
 	position: relative;
 }
 
+a.postTitle {
+   display: block;
+}
+
 body pre {
 	line-height: 1.0;
 }
@@ -388,6 +392,17 @@ body pre {
 
 /* POSTS */
 
+.post .postHeader {
+    text-align: left;
+    margin-bottom: 1em;
+}
+
+.post .postHeader h1 {
+	margin: 0px;
+    margin-top: 1em;
+    font-size: 2em;
+    text-decoration: none;
+}
 
 a.linked,
 a.linked:active,
@@ -468,10 +483,9 @@ section.footnotes {
 	color:#9e9e9e;
 }
 
-/*.post .postHeader h1 a:visited {
-    color: #545454;
-    line-height: 1.5;
-}*/
+.post .postHeader h1 a:visited {
+    color: black;
+}
 
 .homepage .article hr {
    width: 100%;
