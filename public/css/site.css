@@ -384,22 +384,22 @@ body pre {
 
 /* POSTS */
 
-.post .postHeader {
+/*.post .postHeader {
     text-align: center;
     margin-bottom: 2.5em;
     margin-top: 5em;
     color: #545454;
     line-height: 1.5; 
-}
+}*/
 
-/*.post .postHeader h1 {
+.post .postHeader h1 {
     margin-top: 2em;
     margin-bottom: 0em;
     font-size: 2em;
     text-decoration: none;
     line-height: 1.5;
     color: #545454; 
-}*/
+}
 
 a.linked,
 a.linked:active,
