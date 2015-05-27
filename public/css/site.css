@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5 {
 
 h1:nth-child(1),
 h2:nth-child(1) {
-   margin-top: .6em !important;
+   margin-top: .5em !important;
 }
 
 h1 {
@@ -106,7 +106,8 @@ a:hover {
    font-size: 3em;
    font-weight: bold;
    max-width: 60%; 
-   margin: .25em auto .2em auto;
+   margin-top: 0em;
+   margin-bottom: .1em;
    display: inline-block;
 }
 
@@ -122,7 +123,7 @@ a:hover {
 .content .header .siteByline {
    font-size: .92em;
    color: #ffffff;
-   margin: .4em auto 1.1em auto;
+   margin: -1em auto 1.1em auto;
 }
 
 .content .header nav,
@@ -152,7 +153,8 @@ a:hover {
 }
 
 /* iPhone */
-@media all and (max-width: 568px) {
+/*@media all and (max-width: 568px) {*/
+ @media (max-width: 520px) {
     .container {
         margin-left:auto;
         margin-right:auto;
@@ -431,7 +433,7 @@ body pre {
     text-align: left;
     margin-bottom: 0em;
     line-height: 1.2;
-    font-size: 1.3em;
+    font-size: 1.25em;
 }
 
 .post .postHeaderLinked .postPermalink {
@@ -442,7 +444,7 @@ body pre {
     display: none;
 }
 
-.post .postHeaderLinked .time {
+.post .postHeaderLinked .Linkedtime {
    font-size: .85em;
    color: #9e9e9e;
 }
@@ -479,10 +481,14 @@ a.linked:hover {
 }
 
 .postHeader .postPermalink {
-   font-size: 1em;
+   font-size: .9em;
 }
 
 .homepage .postHeader .postPermalink {
+   font-size: .85em;
+}
+
+.homepage .postHeaderLinked .postPermalink {
    font-size: .85em;
 }
 
