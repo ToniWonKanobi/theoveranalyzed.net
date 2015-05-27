@@ -1,10 +1,13 @@
 body {
    background-color: #FFFFFF;
    color: #545454; 
-   line-height: 1.5;
+   line-height: 1.6;
    font-size: 1em;
-   font-weight: 300;
    margin: 0 0 0 0;
+   
+   font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B'; 
+      font-weight: 300; 
+      font-style: normal;
 }
 
 h1, h2, h3, h4, h5 {
@@ -18,14 +21,22 @@ h2:nth-child(1) {
 
 h1 {
    font-size: 1.5em;
+   font-weight: 700;
 }
 
 h2 {
    font-size: 1.25em;
+   font-weight: 700;
 }
 
 h3 {
    font-size: 1.125em;
+   font-weight: 700;
+}
+
+h4 {
+   font-size: 1em;
+   font-weight: 700;
 }
 
 h1.pages,
@@ -121,6 +132,7 @@ a:hover {
    color: #ffffff;
    margin-bottom: 1em;
    margin-top:  -.1em;
+   font-weight: 400;
 }
 
 /* iPad */
@@ -134,41 +146,39 @@ a:hover {
 /* iPhone */
 @media all and (max-width: 568px) {
    .container {
-      margin-left:auto;
-      margin-right:auto;
+/*      margin-left:auto;
+      margin-right:auto;*/
+      max-width: 90%;
     }
 
 	 .content {
-	   max-width:80%;
+	   max-width:90%;
 	 }
 
     .content .main {
-      font-size: 18px;
+      font-size: 110%;
     }
 
     .content .header .siteTitle {
-      font-size: 40px;
+ /*     font-size: 3em;*/
     }
     
     .content .header .siteByline {
-    	font-size: 10px;
+/*    	font-size: 1.2em;*/
     }
     
     .content .header nav {
-      font-size: 14px;
+/*      font-size: 1.2em;*/
+      margin-bottom: 1em;
     }
 
    .content .header {
-      margin-bottom:1em;
-    }
-
-   .content .header nav {
-      margin-bottom: 1em;
+      margin-bottom:1.2em;
     }
 
    .content .header nav a {
       margin: 0 .2em;
-      font-size: 12px;
+/*      font-size: 1.2em;*/
     }
 
     .content ol {
@@ -176,7 +186,7 @@ a:hover {
     }
 
     .homepage h1 a {
-      font-size: 1.5em !important;
+      font-size: 110% !important;
     }
     
     .center img.wide {
@@ -216,7 +226,6 @@ a:hover {
 }
 
 .content pre code {
-   font-size: .9em;
    white-space: pre-wrap;
    border: none;
    padding: 0;
@@ -241,7 +250,7 @@ a:hover {
     margin-left: 2em;
 }
 
-.center img.wide {
+.center  img.wide {
 	width: 140%; 
 	max-width: 140%;
 	margin: 0 -20%;
@@ -293,6 +302,21 @@ blockquote {
     font-weight: 800;
     line-height: 1;
     margin-bottom: .2em;
+    color: ;
+}
+
+.homepage a.post-title {
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: .2em;
+    color: #545454; 
+}
+
+.homepage a.post-title.linked {
+    font-size: .8em;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: .2em;
 }
 
 .postHeader h1 img {
@@ -303,7 +327,7 @@ blockquote {
 }
 
 a.postTitle {
-	display: block;
+   display: block;
 }
 
 body pre {
@@ -338,9 +362,11 @@ body pre {
     width: 100%;
     margin-top: 2em;
     margin-bottom: 2em;
+    border-top: 1px solid #color: #3f70a2;
+    border-bottom: 1px solid #color: #3f70a2;
 }
 
-.homepage .paginationFooterPrevious {
+/*.homepage .paginationFooterPrevious {
     display: inline;
     float: left;
 }
@@ -348,19 +374,32 @@ body pre {
 .homepage .paginationFooterNext {
     display: inline;
     float: right;
+}*/
+
+.homepage a.previouspage {
+   display: inline;
+   float:  right;
+   text-transform: uppercase;
+   font-weight: 400;
+}
+
+.homepage a.nextpage {
+   display:  inline;
+   float: left;
+   text-transform: uppercase;
+   font-weight: 400; 
 }
 
 /* POSTS */
 
 .post .postHeader {
-    text-align: center;
-    margin-bottom: 2.5em;
-    margin-top: 5em;
+    text-align: left;
+    margin-bottom: 1em;
 }
 
 .post .postHeader h1 {
-    margin-top: 2em;
-    margin-bottom: 0em;
+	margin: 0px;
+    margin-top: 1em;
     font-size: 2em;
     text-decoration: none;
 }
@@ -384,15 +423,15 @@ a.linked:hover {
 	position: relative;
 }
 
-.post .postHeader .time {
+/*.post .postHeader .time {
    font-size: 1em;
    margin-bottom: 10em;
    color: #9e9e9e;
-}
+}*/
 
-.postHeader .postPermalink {
+/*.postHeader .postPermalink {
    font-size: 1em;
-}
+}*/
 
 .homepage .postHeader .postPermalink {
    font-size: .85em;
@@ -444,8 +483,8 @@ section.footnotes {
 	color:#9e9e9e;
 }
 
-.post .postHeader h1 a:visited {
-   color: black;
+.post .postHeader h1 a {
+    color: blue;
 }
 
 .homepage .article hr {
@@ -534,7 +573,7 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
    color: #3f70a2;
    opacity: 0;
    position: absolute;
-   margin-left: -.8em;
+   margin-left: -1em;
 }
 
 #mastheadbackground {
