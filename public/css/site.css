@@ -106,7 +106,11 @@ a:hover {
    font-size: 3em;
    font-weight: bold;
    max-width: 60%; 
+<<<<<<< HEAD
    margin-top: 0em;
+=======
+   margin-top: .1em;
+>>>>>>> e7050f21e13a2c8fa914466ea9aca5710d731b5c
    margin-bottom: .1em;
    display: inline-block;
 }
