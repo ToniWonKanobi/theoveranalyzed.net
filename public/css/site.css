@@ -384,7 +384,17 @@ body pre {
 
 /* POSTS */
 
-.post .postHeader h1 {
+/*.post .postHeader h1 {
+    text-align:  center;
+    margin-top: 4em;
+    margin-bottom: 0em;
+    font-size: 2em;
+    text-decoration: none;
+    line-height: 1.3;
+    color: #545454; 
+}*/
+
+.post a.post-title {
     text-align:  center;
     margin-top: 4em;
     margin-bottom: 0em;
@@ -396,7 +406,7 @@ body pre {
 
 .post a.post-title.linked {
    text-align: left;
-   font-size: .9em;
+   font-size: 1em;
    color: #3f70a2;
 }
 
