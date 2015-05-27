@@ -394,19 +394,19 @@ body pre {
     color: #545454; 
 }*/
 
-.post a.post-title {
-    text-align:  center;
+.post .postheader .post-title {
+    text-align:  center !important;
     margin-top: 4em;
     margin-bottom: 0em;
-    font-size: 2em;
+    font-size: 1.2em;
     text-decoration: none;
     line-height: 1.3;
     color: #545454; 
 }
 
-.post a.post-title.linked {
+.post .postheader .post-title linked {
    text-align: left;
-   font-size: 1em;
+   font-size: .9em;
    color: #3f70a2;
 }
 
