@@ -1,4 +1,4 @@
-@@ Title: Star Wars Rebels Season 2 Trailer & Poster: Rex Is Back And Darth Vader Fights The Jedi  
+@@ Title=Star Wars Rebels Season 2 Trailer & Poster: Rex Is Back And Darth Vader Fights The Jedi  
 @@ Date=2015-04-18 14:13  
 @@ Link=https://youtu.be/Av8GjpGK98A  
 @@ Description=Season 2 of Star Wars Rebels is looking great so far.  
