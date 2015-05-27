@@ -386,12 +386,18 @@ body pre {
 
 .post .postHeader h1 {
     text-align:  center;
-    margin-top: 2em;
-    margin-bottom: 2em;
+    margin-top: 4em;
+    margin-bottom: 0em;
     font-size: 2em;
     text-decoration: none;
     line-height: 1.3;
     color: #545454; 
+}
+
+.post a.post-title.linked {
+   text-align: left;
+   font-size: .9em;
+   color: #3f70a2;
 }
 
 a.linked,
@@ -419,9 +425,9 @@ a.linked:hover {
    color: #9e9e9e;
 }
 
-.postHeader .postPermalink {
+/*.postHeader .postPermalink {
    font-size: 1em;
-}
+}*/
 
 .homepage .postHeader .postPermalink {
    font-size: .85em;
@@ -473,10 +479,10 @@ section.footnotes {
 	color:#9e9e9e;
 }
 
-.post .postHeader h1 a:visited {
+/*.post .postHeader h1 a:visited {
     color: #545454;
     line-height: 1.5;
-}
+}*/
 
 .homepage .article hr {
    width: 100%;
