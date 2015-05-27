@@ -324,10 +324,6 @@ blockquote {
 	position: relative;
 }
 
-a.postTitle {
-	display: block;
-	color: #545454;
-}
 
 body pre {
 	line-height: 1.0;
