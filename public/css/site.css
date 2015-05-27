@@ -34,6 +34,11 @@ h3 {
    font-weight: 700;
 }
 
+h4 {
+   font-size: 1em;
+   font-weight: 700;
+}
+
 h1.pages,
 h1.tagheaders {
    padding-top: 2em;
@@ -141,8 +146,9 @@ a:hover {
 /* iPhone */
 @media all and (max-width: 568px) {
    .container {
-      margin-left:auto;
-      margin-right:auto;
+/*      margin-left:auto;
+      margin-right:auto;*/
+      max-width: 90%;
     }
 
 	 .content {
@@ -150,19 +156,19 @@ a:hover {
 	 }
 
     .content .main {
-      font-size: 1.2em;
+      font-size: 110%;
     }
 
     .content .header .siteTitle {
-      font-size: 3em;
+ /*     font-size: 3em;*/
     }
     
     .content .header .siteByline {
-    	font-size: 1.2em;
+/*    	font-size: 1.2em;*/
     }
     
     .content .header nav {
-      font-size: 1.2em;
+/*      font-size: 1.2em;*/
       margin-bottom: 1em;
     }
 
@@ -172,7 +178,7 @@ a:hover {
 
    .content .header nav a {
       margin: 0 .2em;
-      font-size: 1.2em;
+/*      font-size: 1.2em;*/
     }
 
     .content ol {
@@ -180,11 +186,7 @@ a:hover {
     }
 
     .homepage h1 a {
-      font-size: 1.5em !important;
-    }
-    
-    .homepage h1 a {
-      font-size: 1.5em !important;
+      font-size: 110% !important;
     }
     
     .center img.wide {
@@ -310,7 +312,7 @@ blockquote {
     color: #545454; 
 }
 
-a.post-title.linked {
+.homepage a.post-title.linked {
     font-size: .8em;
     font-weight: 800;
     line-height: 1;
@@ -356,6 +358,8 @@ body pre {
     width: 100%;
     margin-top: 2em;
     margin-bottom: 2em;
+    border-top: 1px solid #color: #3f70a2;
+    border-bottom: 1px solid #color: #3f70a2;
 }
 
 /*.homepage .paginationFooterPrevious {
@@ -394,7 +398,7 @@ body pre {
     color: #545454; 
 }*/
 
-.post .postheader .post-title {
+/*.post .postheader .post-title {
     text-align:  center !important;
     margin-top: 4em;
     margin-bottom: 0em;
@@ -408,6 +412,48 @@ body pre {
    text-align: left;
    font-size: .9em;
    color: #3f70a2;
+}*/
+
+.post a.post-title {
+    font-weight: 800;
+    line-height: 1;
+    margin-top: 4em;
+    margin-bottom: .2em;
+    color: #545454;
+    text-align: center; 
+    
+}
+
+.post .post-title .time {
+   text-align: center;
+   font-size: 1em;
+   color: #9e9e9e;
+}
+
+
+.post a.post-title.linked {
+    font-size: 1em !important;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: .2em;
+}
+
+.post .post-title.linked .time {
+   color: #9e9e9e;
+   font-size: 0.85em;
+}
+
+
+.post .post-title .postpermalink {
+   
+}
+
+/*.postHeader .postPermalink {
+   font-size: 1em;
+}*/
+
+.homepage .postHeader .postPermalink {
+   font-size: .85em;
 }
 
 a.linked,
@@ -429,11 +475,11 @@ a.linked:hover {
 	position: relative;
 }
 
-.post .postHeader .time {
+/*.post .postHeader .time {
    font-size: 1em;
    margin-bottom: 10em;
    color: #9e9e9e;
-}
+}*/
 
 /*.postHeader .postPermalink {
    font-size: 1em;
