@@ -106,7 +106,8 @@ a:hover {
    font-size: 3em;
    font-weight: bold;
    max-width: 60%; 
-   margin: .25em auto .2em auto;
+   margin-top: .1em;
+   margin-bottom: .1em;
    display: inline-block;
 }
 
@@ -122,7 +123,7 @@ a:hover {
 .content .header .siteByline {
    font-size: .92em;
    color: #ffffff;
-   margin: .4em auto 1.1em auto;
+   margin: -1em auto 1.1em auto;
 }
 
 .content .header nav,
@@ -143,50 +144,62 @@ a:hover {
     }
    }
 
+/* iPad */
+@media only screen and (min-device-width : 768px)  and (max-device-width : 1024px) {
+	.center img.wide {
+    	width: 115% !important;
+    	max-width: 115% !important;
+    }
+}
+
 /* iPhone */
-@media all and (max-width: 568px) {
-   .container {
-/*      margin-left:auto;
-      margin-right:auto;*/
-      max-width: 90%;
+/*@media all and (max-width: 568px) {*/
+ @media (max-width: 520px) {
+    .container {
+        margin-left:auto;
+        margin-right:auto;
     }
 
-	 .content {
-	   max-width:90%;
-	 }
+	.content {
+	    max-width:70%;
+	}
 
     .content .main {
-      font-size: 110%;
+        font-size: 115%;
     }
 
     .content .header .siteTitle {
- /*     font-size: 3em;*/
+/*        font-size: 40px;*/
+      max-width: 300px;
+        margin-top: 20px;
     }
     
     .content .header .siteByline {
-/*    	font-size: 1.2em;*/
+    	font-size: 14px;
+    	margin: px auto 5px auto;
     }
     
-    .content .header nav {
-/*      font-size: 1.2em;*/
-      margin-bottom: 1em;
-    }
 
    .content .header {
-      margin-bottom:1.2em;
+        margin-bottom:1em;
+    }
+
+   .content .header nav {
+        margin-bottom: 1em;
     }
 
    .content .header nav a {
-      margin: 0 .2em;
-/*      font-size: 1.2em;*/
+        margin: 0 .2em;
+        font-size: 1em;
     }
 
     .content ol {
-      margin-left: 0.25em;
+        margin-left: 0.25em;
     }
+    
 
-    .homepage h1 a {
-      font-size: 110% !important;
+    .homepage a.postTitle {
+        font-size: 2em !important;
     }
     
     .center img.wide {
@@ -194,13 +207,24 @@ a:hover {
     	max-width: 120% !important;
     }
     
-    #mastheadbackground {
-      width: 100%;
-      height: 150px;
-      margin-bottom: -150px;
-      background-color: #3f70a2;
+    .center img.left, .center img.right
+    {
+    	margin: 0;
     }
-
+    
+    .post .postHeader h1 {
+        text-align: center;
+        margin-top: 2em;
+        margin-bottom: 0em;
+        font-size: 1.2em;
+        line-height: 1.3;
+    }
+    
+   .post .postHeader .time {
+      font-size: .8em !important;
+      margin-bottom: 10em;
+      color: #9e9e9e;
+   }
 }
 
 .content pre {
@@ -271,10 +295,10 @@ table.sortable thead {
 }
 
 blockquote {  
-   margin: 10px 0px 20px 1px; 
+   margin: 10px 0px 20px 2px; 
    color: #9e9e9e; 
-   padding-left: 7px; 
-   border-left: 4px solid #dbdbdb;
+   padding-left: 9px; 
+   border-left: 5px solid #dbdbdb;
 }
 
 /* INDEX */
@@ -297,6 +321,11 @@ blockquote {
 	margin-top: 5em;
 }
 
+.homepage .postHeaderLinked:nth-of-type(1) {
+	margin-top: 5em;
+}
+
+
 .homepage .postHeader h1 {
     font-size: 1.7em;
     font-weight: 800;
@@ -313,7 +342,7 @@ blockquote {
 }
 
 .homepage a.post-title.linked {
-    font-size: .8em;
+    font-size: 1em;
     font-weight: 800;
     line-height: 1;
     margin-bottom: .2em;
@@ -393,15 +422,37 @@ body pre {
 /* POSTS */
 
 .post .postHeader {
-    text-align: left;
-    margin-bottom: 1em;
+    text-align: center;
+    margin-top: 4em;
+    margin-bottom: 2em;
+    font-size: 1.3em;
+    line-height: 1.5;
 }
 
-.post .postHeader h1 {
-	margin: 0px;
-    margin-top: 1em;
-    font-size: 2em;
-    text-decoration: none;
+.post .postHeaderLinked h1 {
+    text-align: left;
+    margin-bottom: 0em;
+    line-height: 1.2;
+    font-size: 1.3em;
+}
+
+.post .postHeaderLinked .postPermalink {
+    display: none;
+}
+
+.post .postHeaderLinked .dot {
+    display: none;
+}
+
+.post .postHeaderLinked .time {
+   font-size: .85em;
+   color: #9e9e9e;
+}
+
+.post .post-title {
+   color: #545454;
+   font-size: 1.2em;
+   text-align: center;
 }
 
 a.linked,
@@ -423,15 +474,15 @@ a.linked:hover {
 	position: relative;
 }
 
-/*.post .postHeader .time {
-   font-size: 1em;
+.post .postHeader .time {
+   font-size: .9em;
    margin-bottom: 10em;
    color: #9e9e9e;
-}*/
+}
 
-/*.postHeader .postPermalink {
+.postHeader .postPermalink {
    font-size: 1em;
-}*/
+}
 
 .homepage .postHeader .postPermalink {
    font-size: .85em;
@@ -483,9 +534,6 @@ section.footnotes {
 	color:#9e9e9e;
 }
 
-.post .postHeader h1 a {
-    color: blue;
-}
 
 .homepage .article hr {
    width: 100%;
@@ -505,20 +553,14 @@ section.footnotes {
 }
 
 .main {
-   margin-top: 3em !important;
+   margin-top: 5em;
 }
+
 
 .main hr.footnotes-sep {
    width: 50%;	
    border-top: 1px solid #555;
    display:  none;
-}
-
-body .about,
-body .nerd,
-body .live,
-body .connect {
-   text-align: center;
 }
 
 .homepage .article hr.footnotes-sep {
@@ -545,7 +587,7 @@ body .connect {
 .headshot {
    float: right;
    display: inline;
-   width: 250px;
+   width: 45%;
    margin: 0em 1em 1em 1em;
 }
 
