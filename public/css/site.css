@@ -395,33 +395,31 @@ body pre {
     width: 100%;
     margin-top: 2em;
     margin-bottom: 2em;
-    border-top: 1px solid #color: #3f70a2;
-    border-bottom: 1px solid #color: #3f70a2;
 }
 
-/*.homepage .paginationFooterPrevious {
+.homepage .paginationFooterPrevious {
     display: inline;
-    float: left;
+    text-transform: uppercase;
+    font-weight: 400; 
 }
 
 .homepage .paginationFooterNext {
     display: inline;
-    float: right;
-}*/
+    float: left;
+    text-transform: uppercase;
+    font-weight: 400; 
+}
 
-.homepage a.previouspage {
+/*.paginationFooter a.previouspage {
    display: inline;
-   float:  right;
    text-transform: uppercase;
    font-weight: 400;
 }
 
-.homepage a.nextpage {
+.paginationFooter a.nextpage {
    display:  inline;
    float: left;
-   text-transform: uppercase;
-   font-weight: 400; 
-}
+}*/
 
 /* POSTS */
 
@@ -436,7 +434,7 @@ body pre {
 .post .postHeaderLinked h1 {
     text-align: left;
     margin-bottom: 0em;
-    line-height: 1.2;
+    line-height: 1.5em;
     font-size: 1.25em;
 }
 

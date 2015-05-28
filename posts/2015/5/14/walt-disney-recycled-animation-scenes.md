@@ -1,4 +1,4 @@
-@@ Title=Walt Disney Recycled Animation Scenes  
+@@ Title=Walt Disney Recycled Animation Scenes    
 @@ Date=2015-05-14 09:16  
 @@ Link=https://www.youtube.com/watch?v=pbjVjZrrE3w&feature=youtu.be  
 @@ Description=Disney wasn't always the financial powerhouse that it is today.  

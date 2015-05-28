@@ -5,7 +5,6 @@
 @@ Tags=Apple, Apple Watch, security, Watch OS  
 
 Resident nerd for Ars Technica, Andrew Cunningham, on Apple Watch's apparent lack of device security:
-
 >When you first set up the Apple Watch, it asks you to assign the device a security passcode to stop just anyone from picking up your watch and looking at all the stuff on it. While that passcode is an effective tool to protect your data, it does nothing to stop someone from lifting your watch, resetting it, and using it themselves or selling it.
 >
 >As detailed in a post on iDownloadblog, it’s dead simple to find the Watch OS reset option without unlocking the device. Long-press the side button to bring up the power menu, then Force Touch that menu to find the “erase all content and settings” button. Once you’ve done that, pairing the watch to a new phone works exactly the same way as it did when you took the watch out of the box.
