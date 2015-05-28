@@ -88,12 +88,12 @@ a:hover {
    margin: 1em 0 1em .5em;
 }
 
-.container {
+/*.container {
    margin-bottom: 3em;
    margin-left:1em;
    margin-right:1em;
 
-}
+}*/
 
 .content .header {
    text-align: center;
@@ -387,8 +387,7 @@ body pre {
 
 .homepage .paginationFooter {
     width: 100%;
-    margin-top: 2em;
-    margin-bottom: 10em;
+    margin-top: 3em;
 }
 
 .homepage .paginationFooter .previousPage {
@@ -405,7 +404,7 @@ body pre {
     font-weight: 400; 
 }
 
-.footer {
+.navFooter {
    background-color: #3f70a2;
 }
 
@@ -508,7 +507,7 @@ figure.figright {
 	float: right;
 }
 
-figure.vdog {
+.vdog {
 	margin-bottom: 2em;
 }
 
