@@ -388,7 +388,7 @@ body pre {
 .homepage .paginationFooter {
     width: 100%;
     margin-top: 2em;
-    margin-bottom: 2em;
+    margin-bottom: 10em;
 }
 
 .homepage .paginationFooter .previousPage {
@@ -405,11 +405,10 @@ body pre {
     font-weight: 400; 
 }
 
-.navFooter {
-   width: 100%;
-   margin-top: 10em;
+footer {
    background-color: #3f70a2;
-   font-color: #ffffff;
+   margin: 0 0 0 0 !important;
+   width: 100%;
 }
 
 /* POSTS */
@@ -512,7 +511,7 @@ figure.figright {
 }
 
 figure.vdog {
-	margin: 10em 0 0em 0;
+	margin-bottom: 2em;
 }
 
 figcaption {
