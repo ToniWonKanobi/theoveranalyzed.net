@@ -137,14 +137,13 @@ a:hover {
    font-weight: 400;
 }
 
-.content .footer nav,
-.content .footer nav a {
-   text-transform: uppercase;
-   font-size: 1em;
-   color: #ffffff;
-   margin-bottom: 1em;
-   margin-top:  -.1em;
-   font-weight: 400;
+.navFooter {
+  text-transform: uppercase;
+  font-size: 1em;
+  color: #ffffff;
+  margin-bottom: 1em;
+  margin-top:  -.1em;
+  font-weight: 400; 
 }
 
 
