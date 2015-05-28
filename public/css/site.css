@@ -106,8 +106,7 @@ a:hover {
    font-size: 3em;
    font-weight: bold;
    max-width: 60%; 
-   margin-top: 0em;
-   margin-top: .1em;
+   margin-top: .5em;
    margin-bottom: .1em;
    display: inline-block;
 }
@@ -127,7 +126,7 @@ a:hover {
    margin: -1em auto 1.1em auto;
 }
 
-.content .header nav,
+/*.content .header nav,
 .content .header nav a {
    text-transform: uppercase;
    font-size: 1em;
@@ -135,16 +134,7 @@ a:hover {
    margin-bottom: 1em;
    margin-top:  -.1em;
    font-weight: 400;
-}
-
-.navFooter {
-  text-transform: uppercase;
-  font-size: 1em;
-  color: #ffffff;
-  margin-bottom: 1em;
-  margin-top:  -.1em;
-  font-weight: 400; 
-}
+}*/
 
 
 /* iPad */
