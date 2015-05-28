@@ -388,6 +388,7 @@ body pre {
 
 .homepage .paginationFooter .previousPage {
     display: inline;
+    float: right
     text-transform: uppercase;
     font-weight: 400; 
 }
