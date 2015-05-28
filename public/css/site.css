@@ -416,6 +416,11 @@ body pre {
    font-size: 1em;
    color: #ffffff;
    font-weight: 400;
+   text-align:  center;
+}
+
+.nav a {
+   color: #ffffff;
 }
 
 /* POSTS */
