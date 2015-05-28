@@ -14,13 +14,13 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 
 ## Useful URL Slugs
 
-[`*.md`](@@SiteRoot@@/nerd.md) You can append `.md` to the end of any post URL to see the actual Markdown for that file[^tr]
+[*.md](@@SiteRoot@@/nerd.md) You can append `.md` to the end of any post URL to see the actual Markdown for that file[^tr]
 
-[`/2015`](@@SiteRoot@@/2015) for a list of all posts during the year of 2015[^p]
+[/2015](@@SiteRoot@@/2015) for a list of all posts during the year of 2015[^p]
 
-[`/tags`](@@SiteRoot@@/tags) shows all tags[^t]
+[/tags](@@SiteRoot@@/tags) shows all tags[^t]
 
-[`/live`](@@SiteRoot@@/live) for coverage of live events like [WWDC](https://developer.apple.com/wwdc/)
+[/live](@@SiteRoot@@/live) for coverage of live events like [WWDC](https://developer.apple.com/wwdc/)
 
 [^pa]: Just add [`[[TOC]]`](https://github.com/Oktavilla/markdown-it-table-of-contents#example-markdown) where you want the table of contents to show up in the HTML. This is much like what Fletcher Penney's [MultiMarkdown Composer](http://multimarkdown.com) can do in Version 3 (currently in beta)
 [^tr]: [Try it!](@@SiteRoot@@/nerd.md)

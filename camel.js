@@ -776,7 +776,7 @@ function generateRss(request, feedUrl, linkGenerator, titleGenerator, completion
         site_url: config.Site.Url,
         author: config.Site.Author,
         webMaster: config.Site.Author,
-        copyright: '2013-' + new Date().getFullYear() + ' ' + config.Site.Author,
+        copyright: '2014-' + new Date().getFullYear() + ' ' + config.Site.Author,
         image_url: config.Site.DefaultImage,
 		language: 'en',
 		pubDate: new Date().toString(),
