@@ -141,7 +141,6 @@ a:hover {
 .content .navFooter nav a {
   text-transform: uppercase;
   font-size: 1em;
-  color: #ffffff;
   margin-bottom: 2em;
   margin-top:  2em;
   font-weight: 400; 
@@ -517,6 +516,7 @@ figure.figright {
 
 figure.vdog {
 	margin: 10em 0 0em 0;
+	text-align: center;
 }
 
 figcaption {
