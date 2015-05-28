@@ -371,7 +371,7 @@ body pre {
 }
 
 .copyright {
-    margin: 2em auto -2.5em auto;
+    margin: 2em 0 2em 0;
     font-size: 0.8em;
     color: #ffffff;
     text-align: center;
@@ -406,6 +406,7 @@ body pre {
 
 .navFooter {
    background-color: #3f70a2;
+   height: 100%;
 }
 
 /* POSTS */
@@ -508,6 +509,8 @@ figure.figright {
 }
 
 .vdog {
+   padding-top: 2em;
+   margin-top: 10em;
 	margin-bottom: 2em;
 }
 
