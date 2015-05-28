@@ -405,6 +405,11 @@ body pre {
     font-weight: 400; 
 }
 
+.footer {
+   background-color: #3f70a2;
+   font-color: #ffffff;
+}
+
 /* POSTS */
 
 .post .postHeader {
