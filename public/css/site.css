@@ -388,6 +388,7 @@ body pre {
 .homepage .paginationFooter {
     width: 100%;
     margin-top: 3em;
+    margin-bottom: 3em;
 }
 
 .homepage .paginationFooter .previousPage {
@@ -407,6 +408,14 @@ body pre {
 .navFooter {
    background-color: #3f70a2;
    height: 100%;
+}
+
+.nav {
+   margin-top: 2em;
+   text-transform: uppercase;
+   font-size: 1em;
+   color: #ffffff;
+   font-weight: 400;
 }
 
 /* POSTS */
@@ -521,9 +530,9 @@ figcaption {
    font-size:  .8em;
 }
 
-/*figcaption.ad {
-   color: #9e9e9e;
-}*/
+figcaption.ad {
+   color: #ffffff;
+}
 
 section.footnotes {
 	font-size: 0.8em;
