@@ -360,8 +360,8 @@ section.footnotes {
 }
 
 .homepage a.post-title:hover {
-	 color: #2e8eef;
-     -webkit-transition: all .3s ease-out;
+    color: #2e8eef;
+    -webkit-transition: all .3s ease-out;
 }
 
 .homepage a.post-title.linked {
@@ -370,6 +370,11 @@ section.footnotes {
     line-height: 1.5;
     margin-bottom: .2em;
     color: #3f70a2;
+}
+
+.homepage a.post-title.linked:hover {
+    color: #2e8eef;
+    -webkit-transition: all .3s ease-out;
 }
 
 .homepage .postHeader .postPermalink {
@@ -583,7 +588,7 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
 
 .nav .dot {
     color: #ffffff;
-    margin: 0 1em 0 1em;
+    margin: 0 .3em 0 .3em;
 }
 
 /* @end */
