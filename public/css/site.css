@@ -675,7 +675,7 @@ p.taggedIn a {
 @media all  
   and (min-device-width: 320px) 
   and (max-device-width: 568px) 
-  and (-webkit-min-device-pixel-ratio: 2) or (-webkit-min-device-pixel-ratio: 3) { 
+  and (-webkit-min-device-pixel-ratio: 3) { 
 
     .container {
         margin-left:auto;
@@ -687,7 +687,7 @@ p.taggedIn a {
 	}
 
     .content .main {
-        font-size: 120%;
+        font-size: 150%;
     }
 
     .content .header .siteTitle {
