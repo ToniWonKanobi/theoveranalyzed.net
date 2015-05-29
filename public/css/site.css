@@ -671,8 +671,12 @@ p.taggedIn a {
 }
 
 /* iPhone */
-/*@media all and (max-width: 520px) {*/
-@media (max-width: 520px) {
+/*@media all and (max-width: 568px) {*/
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
     .container {
         margin-left:auto;
         margin-right:auto;
