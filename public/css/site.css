@@ -677,6 +677,13 @@ p.taggedIn a {
   and (max-device-width: 568px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 
+    #mastheadbackground {
+       width: 100%;
+       height: 200px;
+       margin-bottom: 200px;
+       background-color: #3f70a2;
+    }
+    
     .container {
         margin-left:auto;
         margin-right:auto;
@@ -749,7 +756,7 @@ p.taggedIn a {
     
     .copyright {
         margin: 2em 0 2em 0;
-        font-size: 2em;
+        font-size: 1.5em;
         color: #ffffff;
         text-align: center;
     }
