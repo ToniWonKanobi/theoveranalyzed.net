@@ -821,7 +821,7 @@ p.taggedIn a {
     }
 }
 
-/* iPhone 4 to iPhone 6 */
+/* iPhone 4 to iPhone 6 
 
 @media all  
   and (min-device-width: 320px) 
@@ -863,7 +863,7 @@ p.taggedIn a {
         margin: -1em auto 1.1em auto;
     }
     
-/*    .content .header nav {
+    .content .header nav {
         font-size: 14px;
     }
 
@@ -878,11 +878,11 @@ p.taggedIn a {
    .content .header nav a {
         margin: 0 .2em;
         font-size: 12px;
-    }*/
+    }
 
-/*    .content ol {
+    .content ol {
         margin-left: 0.25em;
-    }*/
+    }
     
 
     .homepage a.postTitle {
@@ -912,7 +912,7 @@ p.taggedIn a {
         text-align: center;
     }
 
-}
+}*/
 
 /* @end */
 
