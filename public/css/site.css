@@ -680,7 +680,7 @@ p.taggedIn a {
     #mastheadbackground {
        width: 100%;
        height: 200px;
-       margin-bottom: 200px;
+       margin-bottom: -200px;
        background-color: #3f70a2;
     }
     
