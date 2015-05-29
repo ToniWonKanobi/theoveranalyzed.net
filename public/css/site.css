@@ -679,8 +679,8 @@ p.taggedIn a {
 
     #mastheadbackground {
        width: 100%;
-       height: 250px;
-       margin-bottom: -250px;
+       height: 220px;
+       margin-bottom: -220px;
        background-color: #3f70a2;
     }
     
@@ -700,8 +700,8 @@ p.taggedIn a {
     .content .header .siteTitle {
         font-size: 3em;
         font-weight: bold;
-        max-width: 60%; 
-        margin-top: .7em;
+        max-width: 70%; 
+        margin-top: 1em;
         margin-bottom: .1em;
         display: inline-block;
     }
