@@ -672,10 +672,9 @@ p.taggedIn a {
 
 /* iPhone */
 /*@media all and (max-width: 568px) {*/
-@media only screen 
-  and (min-device-width: 414px) 
-  and (max-device-width: 736px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
+@media all  
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) { 
 
     .container {
         margin-left:auto;
@@ -693,7 +692,7 @@ p.taggedIn a {
     .content .header .siteTitle {
         font-size: 3em;
         font-weight: bold;
-        max-width: 90%; 
+        max-width: 60%; 
         margin-top: .5em;
         margin-bottom: .1em;
         display: inline-block;
