@@ -740,6 +740,19 @@ p.taggedIn a {
     {
     	margin: 0;
     }
+    
+    .bottomAd {
+        border-top: 1px solid #ddd;
+        margin-top: 22em;
+        height: 165px;
+    }
+    
+    .copyright {
+        margin: 2em 0 2em 0;
+        font-size: 2em;
+        color: #ffffff;
+        text-align: center;
+    }
 
 }
 
