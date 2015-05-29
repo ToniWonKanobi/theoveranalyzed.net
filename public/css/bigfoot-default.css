@@ -247,3 +247,13 @@
 .is-positioned-top .bigfoot-footnote__tooltip {
   bottom: -0.65em;
 }
+
+@media all  
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) 
+  and (-webkit-min-device-pixel-ratio: 3) {
+  
+  .bigfoot-footnote__button {
+        font-size: .7rem;
+  }
+}
