@@ -10,7 +10,12 @@
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
 		<script type="text/javascript" src="/js/bigfoot.min.js"></script>
 		<script type="text/javascript">
-		    $.bigfoot();
+		  $.bigfoot(
+		        {
+		            numberResetSelector: "article"
+		            actionOriginalFN: "hide"
+		        }
+		    );
 		</script>
 		<script src="/js/fitvids.js"></script>
 		<script>
@@ -56,5 +61,5 @@
 						<a href="/connect" >Connect</a> <span class="dot">&bull;</span>
 						<a href="/nerd" >Nerd</a>
 					</nav>-->
-				   </div><!-- header -->
+				</div><!-- header -->
 				<div class="main">

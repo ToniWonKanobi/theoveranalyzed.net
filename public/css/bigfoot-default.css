@@ -247,3 +247,21 @@
 .is-positioned-top .bigfoot-footnote__tooltip {
   bottom: -0.65em;
 }
+
+/* @group @MEDIA QUERIES */
+
+/* @group iPhone 6 Plus */
+
+@media all  
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) 
+  and (-webkit-min-device-pixel-ratio: 3) {
+  
+  .bigfoot-footnote__button {
+        font-size: 1.5rem;
+  }
+}
+
+/* @end */
+
+/* @end */
