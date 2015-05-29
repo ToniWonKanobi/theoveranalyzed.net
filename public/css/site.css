@@ -686,7 +686,7 @@ p.taggedIn a {
     
     .bottomAd {
         border-top: 1px solid #ddd;
-        margin-top: 20em;
+        margin-top: 17em;
         height: 165px;
     }
 }
@@ -713,7 +713,7 @@ p.taggedIn a {
     
     .bottomAd {
         border-top: 1px solid #ddd;
-        margin-top: 20em;
+        margin-top: 17em;
         height: 165px;
     }
 }
@@ -725,8 +725,8 @@ p.taggedIn a {
 /* iPhone 6 Plus */
 
 @media all  
-  and (min-device-width: 320px) 
-  and (max-device-width: 568px) 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 
     #mastheadbackground {
@@ -795,14 +795,13 @@ p.taggedIn a {
     	max-width: 120% !important;
     }
     
-    .center img.left, .center img.right
-    {
+    .center img.left, .center img.right {
     	margin: 0;
     }
     
     .bottomAd {
         border-top: 1px solid #ddd;
-        margin-top: 25em;
+        margin-top: 30em;
         height: 165px;
     }
     
@@ -839,7 +838,7 @@ p.taggedIn a {
 	}
 
     .content .main {
-        font-size: 300%;
+        font-size: 250%;
     }
 
     .content .header .siteTitle {
@@ -895,7 +894,7 @@ p.taggedIn a {
     
     .bottomAd {
         border-top: 1px solid #ddd;
-        margin-top: 25em;
+        margin-top: 30em;
         height: 165px;
     }
     
