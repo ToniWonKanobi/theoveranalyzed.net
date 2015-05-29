@@ -683,6 +683,12 @@ p.taggedIn a {
     .content .main {
         font-size: 140%;
     }
+    
+    .bottomAd {
+        border-top: 1px solid #ddd;
+        margin-top: 20em;
+        height: 165px;
+    }
 }
 
 /* iPad 1, 2, mini*/
@@ -703,6 +709,12 @@ p.taggedIn a {
     
     .content .main {
         font-size: 140%;
+    }
+    
+    .bottomAd {
+        border-top: 1px solid #ddd;
+        margin-top: 20em;
+        height: 165px;
     }
 }
 
@@ -734,7 +746,7 @@ p.taggedIn a {
 	}
 
     .content .main {
-        font-size: 220%;
+        font-size: 200%;
     }
 
     .content .header .siteTitle {
@@ -769,9 +781,9 @@ p.taggedIn a {
         font-size: 12px;
     }*/
 
-    .content ol {
+/*    .content ol {
         margin-left: 0.25em;
-    }
+    }*/
     
 
     .homepage a.postTitle {
@@ -827,7 +839,7 @@ p.taggedIn a {
 	}
 
     .content .main {
-        font-size: 250%;
+        font-size: 300%;
     }
 
     .content .header .siteTitle {
@@ -862,9 +874,9 @@ p.taggedIn a {
         font-size: 12px;
     }*/
 
-    .content ol {
+/*    .content ol {
         margin-left: 0.25em;
-    }
+    }*/
     
 
     .homepage a.postTitle {
