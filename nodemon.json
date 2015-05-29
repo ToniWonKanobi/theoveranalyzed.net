@@ -1,9 +1,0 @@
-{
-    "watch": [
-        "./",
-        "public/css/",
-        "public/images/",
-        "posts/"
-    ],
-    "ext": "js md jpg png css"
-}
