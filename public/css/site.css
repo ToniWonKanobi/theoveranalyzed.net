@@ -11,28 +11,38 @@ body {
     font-style: normal;
 }
 
+i, em {
+    font-weight: 300;
+    font-style: italic;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
 h1, h2, h3, h4, h5 {
     margin: 1.2em 0em -.2em 0;
+    font-weight: 600;
 }
 
 h1 {
     font-size: 1.5em;
-    font-weight: 700;
 }
 
 h2 {
     font-size: 1.25em;
-    font-weight: 700;
 }
 
 h3 {
     font-size: 1.125em;
-    font-weight: 700;
 }
 
 h4 {
     font-size: 1em;
-    font-weight: 700;
+}
+
+h5 {
+    font-size: 1.05em;
 }
 
 h1:nth-child(1),
