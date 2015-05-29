@@ -750,7 +750,7 @@ p.taggedIn a {
 	}
 
     .content .main {
-        font-size: 200%;
+        font-size: 210%;
     }
 
     .content .header .siteTitle {
@@ -805,7 +805,7 @@ p.taggedIn a {
     
     .bottomAd {
         border-top: 1px solid #ddd;
-        margin-top: 30em;
+        margin-top: 22em;
         height: 165px;
     }
     
@@ -821,12 +821,13 @@ p.taggedIn a {
     }
 }
 
-/* iPhone 4 to iPhone 6 
+/* iPhone 4 to iPhone 6 */
 
 @media all  
   and (min-device-width: 320px) 
   and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2) { 
+  and (-webkit-min-device-pixel-ratio: 2)
+  not (-webkit-min-device-pixel-ratio: 3) { 
 
     #mastheadbackground {
         width: 100%;
@@ -912,7 +913,7 @@ p.taggedIn a {
         text-align: center;
     }
 
-}*/
+}
 
 /* @end */
 
