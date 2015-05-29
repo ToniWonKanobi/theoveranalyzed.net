@@ -69,7 +69,7 @@ a:hover {
 
 
 
-/* @group PAGE MARGINS / SPACING */
+/* @group PAGE SPACING */
 
 .main {
    margin-top: 8em;
@@ -560,14 +560,6 @@ p.taggedIn a {
 	color: #9e9e9e;
 }
 
-.homepage section.footnotes {
-    display: none;
-}
-
-.homepage .footnote-ref {
-    display: none;
-}
-
 .main hr.footnotes-sep {	
     border-top: 1px solid #9e9e9e;
     margin-bottom: 1.5em;
@@ -575,12 +567,19 @@ p.taggedIn a {
     margin-right: 25em;
 }
 
+.homepage section.footnotes {
+    display: none;
+}
+
 .homepage .article hr.footnotes-sep {
     display: none;
 }
 
+.homepage .footnote-ref {
+    display: none;
+}
+
 .post hr.footnotes-sep {
-    border-top: 1px solid #9e9e9e;
     margin-bottom: 1.5em;
     margin-top: 5em;
     margin-right: 25em;
