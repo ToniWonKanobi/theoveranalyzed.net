@@ -557,10 +557,6 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
     height: 165px;
 }
 
-figcaption.advert {
-    font-color: #9e9e9e !important;
-}
-
 .navFooter {
     background-color: #3f70a2;
     height: 165px;
