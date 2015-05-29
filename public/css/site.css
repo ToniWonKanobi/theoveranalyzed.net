@@ -681,7 +681,7 @@ p.taggedIn a {
     }
     
     .content .main {
-        font-size: 180%;
+        font-size: 140%;
     }
 }
 
@@ -702,7 +702,7 @@ p.taggedIn a {
     }
     
     .content .main {
-        font-size: 180%;
+        font-size: 140%;
     }
 }
 
@@ -790,7 +790,7 @@ p.taggedIn a {
     
     .bottomAd {
         border-top: 1px solid #ddd;
-        margin-top: 22em;
+        margin-top: 25em;
         height: 165px;
     }
     
@@ -803,7 +803,7 @@ p.taggedIn a {
 
 }
 
-/* @group iPhone 4 to iPhone 6 */
+/* iPhone 4 to iPhone 6 */
 
 @media all  
   and (min-device-width: 320px) 
@@ -827,7 +827,7 @@ p.taggedIn a {
 	}
 
     .content .main {
-        font-size: 220%;
+        font-size: 250%;
     }
 
     .content .header .siteTitle {
@@ -883,7 +883,7 @@ p.taggedIn a {
     
     .bottomAd {
         border-top: 1px solid #ddd;
-        margin-top: 22em;
+        margin-top: 25em;
         height: 165px;
     }
     
@@ -895,8 +895,6 @@ p.taggedIn a {
     }
 
 }
-
-/* @end */
 
 /* @end */
 
