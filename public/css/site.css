@@ -240,10 +240,6 @@ figcaption {
     font-size:  .8em;
 }
 
-figcaption.ad {
-    font-color: #9e9e9e;
-}
-
 .center {
     display: block;
     margin-left: auto;
@@ -301,11 +297,6 @@ blockquote {
     font-size: 0.8em;
     color: #ffffff;
     text-align: center;
-}
-
-.vdog {
-    margin-top: 11em;
-	margin-bottom: 2em;
 }
 
 section.footnotes {
@@ -559,6 +550,21 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
 
 
 /* @group BOTTOM NAV */
+
+.bottomAd {
+    border-top: .2em solid #ddd;
+    border-bottom: .2em solid #ddd;
+/*    height: .4em;*/
+}
+
+.bottomAd .figure {
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
+
+.bottomAd .figure .figcaption {
+    font-color: #9e9e9e;
+}
 
 .navFooter {
     background-color: #3f70a2;
