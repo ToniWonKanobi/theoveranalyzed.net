@@ -565,9 +565,15 @@ p.taggedIn a {
 	color: #9e9e9e;
 }
 
-/*.main hr.footnotes-sep {
-    display: none;
-}*/
+.main hr.footnotes-sep {
+    margin-left: 0;
+    margin-bottom: 1.5em;
+    margin-top: 5em;
+    width: 10em;
+    border-style: solid;
+    border-width: 1px 0 0 0;
+    border-color: #9e9e9e;
+}
 
 .homepage section.footnotes {
     display: none;
@@ -922,13 +928,211 @@ http://www.inessential.com) */
     }
 }
 
-/* iPhone 4 through iPhone 6 */
+/* iPhone 6 */
 
-@media all  
-  and (min-device-width: 320px) 
+@media only screen 
+  and (min-device-width: 375px) 
   and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2)
-  not (-webkit-device-pixel-ratio: 3) { 
+  and (-webkit-min-device-pixel-ratio: 2) {
+  
+    body {
+        margin: 0 0 0 0;
+    }
+      
+    #mastheadbackground {
+        width: 100%;
+        height: 220px;
+        margin-bottom: -220px;
+        background-color: #3f70a2;
+    }
+      
+    .container {
+        margin-left:auto;
+        margin-right:auto;
+    }
+  
+  	.content {
+  	    max-width:75%;
+  	}
+  
+    .content .main {
+        font-size: 210%;
+    }
+  
+    .content .header .siteTitle {
+        font-size: 3em;
+        font-weight: bold;
+        max-width: 70%; 
+        margin-top: 1em;
+        margin-bottom: .1em;
+        display: inline-block;
+      }
+      
+    .content .header .siteByline {
+        font-size: 1em;
+        color: #ffffff;
+        margin: -1em auto 1.1em auto;
+      }
+      
+  /*    .content .header nav {
+          font-size: 14px;
+      }
+  
+     .content .header {
+          margin-bottom:1em;
+      }
+  
+     .content .header nav {
+          margin-bottom: 1em;
+      }
+  
+     .content .header nav a {
+          margin: 0 .2em;
+          font-size: 12px;
+      }*/
+  
+  /*    .content ol {
+          margin-left: 0.25em;
+      }*/
+      
+  
+      .homepage a.postTitle {
+          font-size: 2em !important;
+      }
+      
+      .center img.wide {
+      	width: 120% !important;
+      	max-width: 120% !important;
+      }
+      
+      .center img.left, .center img.right {
+      	margin: 0;
+      }
+      
+      blockquote {  
+          margin: 10px 0px 20px 2px; 
+          color: #9e9e9e; 
+          padding-left: 9px; 
+          border-left: 5px solid #dbdbdb;
+      }
+      
+      .bottomAd {
+          border-top: 1px solid #ddd;
+          margin-top: 25em;
+          height: 165px;
+      }
+      
+      .copyright {
+          margin: 2em 0 2em 0;
+          font-size: 1.5em;
+          color: #ffffff;
+          text-align: center;
+      }
+      
+      .navFooter {
+          margin: 0 0 0 0;
+      }
+  }
+
+/* iPhone 5 */
+ 
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+    #mastheadbackground {
+        width: 100%;
+        height: 220px;
+        margin-bottom: -220px;
+        background-color: #3f70a2;
+    }
+    
+    .container {
+        margin-left:auto;
+        margin-right:auto;
+    }
+
+	.content {
+	    max-width:75%;
+	}
+
+    .content .main {
+        font-size: 275%;
+    }
+
+    .content .header .siteTitle {
+        font-size: 3em;
+        font-weight: bold;
+        max-width: 70%; 
+        margin-top: 1em;
+        margin-bottom: .1em;
+        display: inline-block;
+    }
+    
+    .content .header .siteByline {
+        font-size: 1em;
+        color: #ffffff;
+        margin: -1em auto 1.1em auto;
+    }
+    
+    .content .header nav {
+        font-size: 14px;
+    }
+
+   .content .header {
+        margin-bottom:1em;
+    }
+
+   .content .header nav {
+        margin-bottom: 1em;
+    }
+
+   .content .header nav a {
+        margin: 0 .2em;
+        font-size: 12px;
+    }
+
+    .content ol {
+        margin-left: 0.25em;
+    }
+    
+
+    .homepage a.postTitle {
+        font-size: 2em !important;
+    }
+    
+    .center img.wide {
+    	width: 120% !important;
+    	max-width: 120% !important;
+    }
+    
+    .center img.left, .center img.right
+    {
+    	margin: 0;
+    }
+    
+    .bottomAd {
+        border-top: 1px solid #ddd;
+        margin-top: 30em;
+        height: 200px;
+    }
+    
+    .copyright {
+        margin: 2em 0 2em 0;
+        font-size: 1.5em;
+        color: #ffffff;
+        text-align: center;
+    }
+
+}
+
+/* iPhone 4 */
+ 
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) { 
 
     #mastheadbackground {
         width: 100%;
