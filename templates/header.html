@@ -1,29 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, minimum-scale=1.0">
         <title>@@SiteTitle@@ &mdash; @@Title@@</title>
+        <meta name="author" content="Anthony Craig">
+        <meta property="article:author" content="604781976">
 		<link rel="stylesheet" href="/css/bigfoot-default.css"/>
 		<link rel="stylesheet" href="/css/hightlightjsgithub.css"/>
 		<link rel="stylesheet" type="text/css" href="/css/site.css">
 		<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7099154/750568/css/fonts.css" />
-
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
-		<script type="text/javascript" src="/js/bigfoot.min.js"></script>
-		<script type="text/javascript">
-		  $.bigfoot();
+		<link rel="alternate" type="application/rss+xml" title="@@SiteTitle@@" href="/rss" />
+		<link rel="alternate" type="application/rss+xml" title="Feed with linked entries pointing back to @@SiteTitle@@ instead of their targets" href="/rss-alternate" />
+		<link rel="icon" type="image/png" href="http://d.pr/i/1gOdX+"/>
+		<link rel="apple-touch-icon" href="http://d.pr/i/1gOdX+"/>
+			
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script src="/js/bigfoot.min.js"></script>
+		<script>
+            var bigfoot = $.bigfoot(
+                {
+//		            actionOriginalFN: "ignore",
+                    footnoteParentClass: "footnote-sep",
+                }
+		    );
 		</script>
 		<script src="/js/fitvids.js"></script>
 		<script>
-		  $(document).ready(function(){
-		    // Target your .container, .wrapper, .post, etc.
-		    $(".entry").fitVids();
-		  });
+		    $(document).ready(function(){
+		        $(".entry").fitVids();
+		    });
 		</script>
-
-		<link rel="alternate" type="application/rss+xml" title="@@SiteTitle@@" href="/rss" />
-		<link rel="alternate" type="application/rss+xml" title="with link posts pointed to @@SiteTitle@@" href="/rss-alternate" />
-
-		<meta property="article:author" content="604781976">
+		
 <!-- Twitter Cards -->	
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@@Twitter@@">
@@ -51,8 +59,8 @@
 					<a href="/"><img src="/images/SiteTitle.svg" alt="TheOverAnalyzed" /></a>
 					</div>
 					<div class="siteByline">By Anthony Craig</div>
-<!--					<nav>
-						<a href="/about" rel="author">About</a> <span class="dot">&bull;</span>
+<!-- Top Nav      	<nav>
+     Stuff			<a href="/about" rel="author">About</a> <span class="dot">&bull;</span>
 						<a href="/connect" >Connect</a> <span class="dot">&bull;</span>
 						<a href="/nerd" >Nerd</a>
 					</nav>-->
