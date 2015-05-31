@@ -1,4 +1,4 @@
-/* @group TEXT */
+/* @group Text */
 
 body {
     background-color:#FFFFFF;
@@ -62,17 +62,23 @@ a {
 
 a:hover {
 	color: #2e8eef;
-	-webkit-transition: all .3s ease-out;
+	-webkit-transition: all .45s ease-in-out;
 }
 
 /* @end */
 
 
 
-/* @group PAGE SPACING */
+/* @group Page Spacing */
 
 .main {
    margin-top: 8em;
+}
+
+.content {
+    text-align: left;
+    max-width: 580px;
+    margin: 1em auto 1em auto;
 }
 
 /*.container {
@@ -85,7 +91,7 @@ a:hover {
 
 
 
-/* @group TOP */
+/* @group Top Stuffs */
 
 .content .header {
     text-align: center;
@@ -143,13 +149,7 @@ a:hover {
 
 
 
-/* @group LISTS / TABLES */
-
-.content {
-    text-align: left;
-    max-width: 580px;
-    margin: 1em auto 1em auto;
-}
+/* @group Lists & Tables */
 
 .content li {
 	padding-left: .2em;
@@ -168,6 +168,14 @@ a:hover {
     margin: 1em 0 1em .5em;
 }
 
+.homepage .article th {
+    padding: 0 0.5em 0 0.5em
+}
+
+.homepage .article td {
+    padding: 0 0.5em 0 0.5em;
+}
+
 .post th {
     padding: 0 0.5em 0 0.5em;
 }
@@ -176,11 +184,17 @@ a:hover {
     padding: 0 0.5em 0 0.5em;
 }
 
+table.sortable thead {
+    cursor: default;
+}
+
+
+
 /* @end */
 
 
 
-/* @group CODE STUFFS */
+/* @group Pre & Code */
 
 .content pre {
     font-size: 1em;
@@ -219,7 +233,7 @@ a:hover {
 
 
 
-/* @group IMAGES */
+/* @group Images */
 
 figure {
     margin-top: 2em;
@@ -278,7 +292,7 @@ figcaption {
 
 /* @end */
 
-/* @group MISC ELEMENTS */
+/* @group Misc Elements */
 
 /* TOP BANNER */
 
@@ -287,10 +301,6 @@ figcaption {
    height: 165px;
    margin-bottom: -165px;
    background-color: #3f70a2;
-}
-
-table.sortable thead {
-    cursor: default;
 }
 
 .super {
@@ -318,30 +328,30 @@ blockquote {
 
 /* @end */
 
-/* @group ROLE SEPERATORS */
+/* @group Role Separators */
 
 .homepage .article hr {
     width: 100%;
     margin-top: 1.7em;
     margin-bottom: 1.7em;
-    border-top: 1px solid;
+    border-style: solid;
+    border-width: 1px 0 0 0; 
 }
-
-
 
 .post hr.small,
 .homepage hr.small {
     width: 60%;
     margin-top: 2.5em;
     margin-bottom: 2.5em;
-    border-top: 1px solid;
+    border-style: solid;
+    border-width: 1px 0 0 0; 
 }
 
 /* @end */
 
 
 
-/* @group INDEX / HOMEPAGE */
+/* @group Homepage */
 
 .homepage .postHeader h1 {
     font-size: 2em;
@@ -433,6 +443,7 @@ blockquote {
     color: #9e9e9e;
     margin-right: .2em;
     margin-left: .2em;
+    vertical-align: -.05em;
 }
 
 .homepage .postHeader:nth-of-type(1) {
@@ -456,7 +467,7 @@ blockquote {
 
 
 
-/* @group POSTS */
+/* @group Posts */
 
 .post .postHeader h1 {
     text-align: center;
@@ -517,33 +528,28 @@ blockquote {
 
 
 
-/* @group DATE PAGES */
+/* @group Time Page */
 
 .homepage .day .article {
     margin-bottom: 2em;
-}
-
-.homepage .article th {
-    padding: 0 0.5em 0 0.5em
-}
-
-.homepage .article td {
-    padding: 0 0.5em 0 0.5em;
 }
 
 /* @end */
 
 
 
-/* @group TAGS */
+/* @group Tags */
 
-/*p.taggedIn {
+/* (Unused in my version of Camel) */
+
+/* p.taggedIn {
 	padding: 12px 10px;
 	background: #eee;
 	border: 1px solid #ccc;
 	margin-top: 25px;
 	font-size: 14px;
 }
+
 p.taggedIn a {
 	font-size: 14px;
 }*/
@@ -552,20 +558,16 @@ p.taggedIn a {
 
 
 
-/* @group FOOTNOTES
- */
+/* @group Footnotes */
 
 .main section.footnotes {
 	font-size: 0.85em;
 	color: #9e9e9e;
 }
 
-.main hr.footnotes-sep {	
-    border-top: 1px solid #9e9e9e;
-    margin-bottom: 1.5em;
-    margin-top: 5em;
-    margin-right: 25em;
-}
+/*.main hr.footnotes-sep {
+    display: none;
+}*/
 
 .homepage section.footnotes {
     display: none;
@@ -579,17 +581,29 @@ p.taggedIn a {
     display: none;
 }
 
-.post hr.footnotes-sep {
-    margin-bottom: 1.5em;
-    margin-top: 5em;
-    margin-right: 25em;
+/* Makes the footnote anchors
+and backrefs 'meta' color */
+
+.footnote-ref a {
+    color: #9e9e9e;
+}
+
+a.footnote-backref {
+    vertical-align: -.1em;
+    color:  #9e9e9e;
+}
+
+.footnote-ref a:hover,
+a.footnote-backref:hover {
+    color: #2e8eef;
+    -webkit-transition: all .5s ease-out;
 }
 
 /* @end */
 
 
 
-/* @group MARKDOWN-IT-ANCHOR */
+/* @group markdown-it-anchor */
 
 .header-anchor, .header-anchor:hover, .title a {
     text-decoration: none
@@ -610,7 +624,7 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
 
 
 
-/* @group PAGINATION */
+/* @group Pagination */
 
 .homepage .paginationFooter {
     display: block;
@@ -637,7 +651,9 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
 
 
 
-/* @group BOTTOM NAV */
+/* @group Bottom Nav
+(Brent Simmons inspired -- 
+http://www.inessential.com) */
 
 .bottomAd {
     border-top: 1px solid #ddd;
@@ -672,13 +688,14 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
 .nav .dot {
     color: #ffffff;
     margin: 0 .3em 0 .3em;
+    vertical-align: -.05em;
 }
 
 /* @end */
 
 
 
-/* @group @MEDIA QUERIES */
+/* @group @Media Queries */
 
 /* @group Generic small browser windows */
 
@@ -905,7 +922,7 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
     }
 }
 
-/* iPhone 4 to iPhone 6 */
+/* iPhone 4 through iPhone 6 */
 
 @media all  
   and (min-device-width: 320px) 
