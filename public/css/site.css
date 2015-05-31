@@ -21,7 +21,7 @@ b, strong {
 }
 
 h1, h2, h3, h4, h5 {
-    margin: 1.2em 0em -.2em 0;
+    margin: 1.2em 0em -.3em 0;
     font-weight: 600;
 }
 
@@ -81,17 +81,20 @@ a:hover {
     margin: 1em auto 1em auto;
 }
 
-/*.container {
-   margin-bottom: 3em;
-   margin-left:1em;
-   margin-right:1em;
-}*/
-
 /* @end */
 
 
 
 /* @group Top Stuffs */
+
+/* TOP BANNER */
+
+#mastheadbackground {
+   width: 100%;
+   height: 165px;
+   margin-bottom: -165px;
+   background-color: #3f70a2;
+}
 
 .content .header {
     text-align: center;
@@ -293,15 +296,6 @@ figcaption {
 /* @end */
 
 /* @group Misc Elements */
-
-/* TOP BANNER */
-
-#mastheadbackground {
-   width: 100%;
-   height: 165px;
-   margin-bottom: -165px;
-   background-color: #3f70a2;
-}
 
 .super {
     vertical-align: super;
@@ -669,7 +663,7 @@ http://www.inessential.com) */
 
 .navFooter {
     background-color: #3f70a2;
-    height: 100%;
+    height: 165px;
 }
 
 .nav {
@@ -699,527 +693,51 @@ http://www.inessential.com) */
 
 /* @end */
 
-
-
-/* @group @Media Queries */
-
-/* @group Generic small browser windows */
-
 @media all and (max-width: 568px) {
-    body {
-        margin: 0 0 0 0;
-    }
-    
     .container {
         margin-left:auto;
         margin-right:auto;
     }
 
 	.content {
-	    max-width:75%;
+	    max-width:80%;
+	    font-size: 95%;
+	}
+	
+	.main {
+	    margin-top: 6em;
+	}
+	
+	#mastheadbackground {
+	   width: 100%;
+	   height: 120px;
+	   margin-bottom: -120px;
+	   background-color: #3f70a2;
 	}
 	
 	.content .header .siteTitle {
 	    font-size: 3em;
 	    font-weight: bold;
 	    max-width: 80%; 
-	    margin-top: .5em;
+	    margin-top: .1em;
 	    margin-bottom: .1em;
 	    display: inline-block;
 	}
-    
-/*    .content .header nav {
-        font-size: 14px;
-    }
-
-   .content .header {
-        margin-bottom:1em;
-    }
-
-   .content .header nav {
-        margin-bottom: 1em;
-    }
-
-   .content .header nav a {
-        margin: 0 .2em;
-        font-size: 12px;
-    }*/
-
-/*    .content ol {
-        margin-left: 0.25em;
-    }*/
-    
-    .center img.wide {
-    	width: 120% !important;
-    	max-width: 120% !important;
-    }
-    
-    .center img.left, .center img.right {
-    	margin: 0;
-    }
-}
-
-
-/* @end */
-
-/* @group iPad */
-
-/* iPad 3, 4, Air, Air 2*/
-
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (-webkit-min-device-pixel-ratio: 2) {
-
-	.center img.wide {
-    	width: 115% !important;
-    	max-width: 115% !important;
-    }
-    
-    .content {
-        max-width:80%;
-    }
-    
-    .content .main {
-        font-size: 140%;
-    }
-    
-    .bottomAd {
-        border-top: 1px solid #ddd;
-        margin-top: 17em;
-        height: 165px;
-    }
-}
-
-/* iPad 1, 2, mini*/
-
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (-webkit-min-device-pixel-ratio: 1) {
-
-    .center img.wide {
-    	width: 115% !important;
-    	max-width: 115% !important;
-    }
-    
-    .content {
-        max-width:80%;
-    }
-    
-    .content .main {
-        font-size: 140%;
-    }
-    
-    .bottomAd {
-        border-top: 1px solid #ddd;
-        margin-top: 17em;
-        height: 165px;
-    }
-}
-
-/* @end */
-
-/* @group iPhone */
-
-/* iPhone 6 Plus */
-
-@media all  
-  and (min-device-width: 414px) 
-  and (max-device-width: 736px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
-
-    body {
-        margin: 0 0 0 0;
-    }
-    
-    #mastheadbackground {
-        width: 100%;
-        height: 220px;
-        margin-bottom: -220px;
-        background-color: #3f70a2;
-    }
-    
-    .container {
-        margin-left:auto;
-        margin-right:auto;
-    }
-
-	.content {
-	    max-width:75%;
+	
+	.content .header .siteByline {
+	    font-size: .92em;
+	    color: #ffffff;
+	    margin: -1em auto 1.1em auto;
 	}
-
-    .content .main {
-        font-size: 210%;
-    }
-
-    .content .header .siteTitle {
-        font-size: 3em;
-        font-weight: bold;
-        max-width: 70%; 
-        margin-top: 1em;
-        margin-bottom: .1em;
-        display: inline-block;
-    }
-    
-    .content .header .siteByline {
-        font-size: 1em;
-        color: #ffffff;
-        margin: -1em auto 1.1em auto;
-    }
-    
-/*    .content .header nav {
-        font-size: 14px;
-    }
-
-   .content .header {
-        margin-bottom:1em;
-    }
-
-   .content .header nav {
-        margin-bottom: 1em;
-    }
-
-   .content .header nav a {
-        margin: 0 .2em;
-        font-size: 12px;
-    }*/
-
-/*    .content ol {
-        margin-left: 0.25em;
-    }*/
-    
-
-    .homepage a.postTitle {
-        font-size: 2em !important;
-    }
-    
-    .center img.wide {
-    	width: 120% !important;
-    	max-width: 120% !important;
-    }
-    
-    .center img.left, .center img.right {
-    	margin: 0;
-    }
-    
-    blockquote {  
-        margin: 10px 0px 20px 2px; 
-        color: #9e9e9e; 
-        padding-left: 9px; 
-        border-left: 5px solid #dbdbdb;
-    }
-    
-    .bottomAd {
-        border-top: 1px solid #ddd;
-        margin-top: 25em;
-        height: 165px;
-    }
-    
-    .copyright {
-        margin: 2em 0 2em 0;
-        font-size: 1.5em;
-        color: #ffffff;
-        text-align: center;
-    }
-    
-    .navFooter {
-        margin: 0 0 0 0;
-    }
-}
-
-/* iPhone 6 */
-
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2) {
-  
-    body {
-        margin: 0 0 0 0;
-    }
-      
-    #mastheadbackground {
-        width: 100%;
-        height: 220px;
-        margin-bottom: -220px;
-        background-color: #3f70a2;
-    }
-      
-    .container {
-        margin-left:auto;
-        margin-right:auto;
-    }
-  
-  	.content {
-  	    max-width:75%;
-  	}
-  
-    .content .main {
-        font-size: 210%;
-    }
-  
-    .content .header .siteTitle {
-        font-size: 3em;
-        font-weight: bold;
-        max-width: 70%; 
-        margin-top: 1em;
-        margin-bottom: .1em;
-        display: inline-block;
-      }
-      
-    .content .header .siteByline {
-        font-size: 1em;
-        color: #ffffff;
-        margin: -1em auto 1.1em auto;
-      }
-      
-  /*    .content .header nav {
-          font-size: 14px;
-      }
-  
-     .content .header {
-          margin-bottom:1em;
-      }
-  
-     .content .header nav {
-          margin-bottom: 1em;
-      }
-  
-     .content .header nav a {
-          margin: 0 .2em;
-          font-size: 12px;
-      }*/
-  
-  /*    .content ol {
-          margin-left: 0.25em;
-      }*/
-      
-  
-      .homepage a.postTitle {
-          font-size: 2em !important;
-      }
-      
-      .center img.wide {
-      	width: 120% !important;
-      	max-width: 120% !important;
-      }
-      
-      .center img.left, .center img.right {
-      	margin: 0;
-      }
-      
-      blockquote {  
-          margin: 10px 0px 20px 2px; 
-          color: #9e9e9e; 
-          padding-left: 9px; 
-          border-left: 5px solid #dbdbdb;
-      }
-      
-      .bottomAd {
-          border-top: 1px solid #ddd;
-          margin-top: 25em;
-          height: 165px;
-      }
-      
-      .copyright {
-          margin: 2em 0 2em 0;
-          font-size: 1.5em;
-          color: #ffffff;
-          text-align: center;
-      }
-      
-      .navFooter {
-          margin: 0 0 0 0;
-      }
-  }
-
-/* iPhone 5 */
- 
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 568px)
-  and (-webkit-min-device-pixel-ratio: 2) { 
-
-    #mastheadbackground {
-        width: 100%;
-        height: 220px;
-        margin-bottom: -220px;
-        background-color: #3f70a2;
-    }
-    
-    .container {
-        margin-left:auto;
-        margin-right:auto;
-    }
-
-	.content {
-	    max-width:75%;
+	
+	.navFooter {
+	    background-color: #3f70a2;
+	    height: 120px;
 	}
-
-    .content .main {
-        font-size: 275%;
-    }
-
-    .content .header .siteTitle {
-        font-size: 3em;
-        font-weight: bold;
-        max-width: 70%; 
-        margin-top: 1em;
-        margin-bottom: .1em;
-        display: inline-block;
-    }
-    
-    .content .header .siteByline {
-        font-size: 1em;
-        color: #ffffff;
-        margin: -1em auto 1.1em auto;
-    }
-    
-    .content .header nav {
-        font-size: 14px;
-    }
-
-   .content .header {
-        margin-bottom:1em;
-    }
-
-   .content .header nav {
-        margin-bottom: 1em;
-    }
-
-   .content .header nav a {
-        margin: 0 .2em;
-        font-size: 12px;
-    }
-
-    .content ol {
-        margin-left: 0.25em;
-    }
-    
-
-    .homepage a.postTitle {
-        font-size: 2em !important;
-    }
-    
-    .center img.wide {
-    	width: 120% !important;
-    	max-width: 120% !important;
-    }
-    
-    .center img.left, .center img.right
-    {
-    	margin: 0;
-    }
-    
-    .bottomAd {
-        border-top: 1px solid #ddd;
-        margin-top: 30em;
-        height: 200px;
-    }
-    
-    .copyright {
-        margin: 2em 0 2em 0;
-        font-size: 1.5em;
-        color: #ffffff;
-        text-align: center;
-    }
-
-}
-
-/* iPhone 4 */
- 
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2) { 
-
-    #mastheadbackground {
-        width: 100%;
-        height: 220px;
-        margin-bottom: -220px;
-        background-color: #3f70a2;
-    }
-    
-    .container {
-        margin-left:auto;
-        margin-right:auto;
-    }
-
-	.content {
-	    max-width:75%;
+	
+	.nav {
+	    padding-top: 2em;
+	    margin-bottom: .5em;
 	}
-
-    .content .main {
-        font-size: 275%;
-    }
-
-    .content .header .siteTitle {
-        font-size: 3em;
-        font-weight: bold;
-        max-width: 70%; 
-        margin-top: 1em;
-        margin-bottom: .1em;
-        display: inline-block;
-    }
-    
-    .content .header .siteByline {
-        font-size: 1em;
-        color: #ffffff;
-        margin: -1em auto 1.1em auto;
-    }
-    
-    .content .header nav {
-        font-size: 14px;
-    }
-
-   .content .header {
-        margin-bottom:1em;
-    }
-
-   .content .header nav {
-        margin-bottom: 1em;
-    }
-
-   .content .header nav a {
-        margin: 0 .2em;
-        font-size: 12px;
-    }
-
-    .content ol {
-        margin-left: 0.25em;
-    }
-    
-
-    .homepage a.postTitle {
-        font-size: 2em !important;
-    }
-    
-    .center img.wide {
-    	width: 120% !important;
-    	max-width: 120% !important;
-    }
-    
-    .center img.left, .center img.right
-    {
-    	margin: 0;
-    }
-    
-    .bottomAd {
-        border-top: 1px solid #ddd;
-        margin-top: 30em;
-        height: 200px;
-    }
-    
-    .copyright {
-        margin: 2em 0 2em 0;
-        font-size: 1.5em;
-        color: #ffffff;
-        text-align: center;
-    }
-
+		
 }
-
-/* @end */
-
-/* @end */

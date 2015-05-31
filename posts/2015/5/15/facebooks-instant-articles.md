@@ -35,7 +35,7 @@ Here's [John Gruber](http://daringfireball.net/linked/2015/05/14/facebook-instan
 
 Without those little Facebook/Twitter/Pinterest/Whatever share icons below articles, publishers' content would never see the light of day (relatively speaking). Their articles *have* to have a social presence to gain popularity. In these troubled times of the web, publishers *have* to embrace Facebook if they want to remain relevant. 
 
-And with Instant Articles, Facebook just might have pushed publishers to a decision. ''[Poop or get off the pot](http://www.urbandictionary.com/define.php?term=poop+or+get+off+the+pot&defid=7766046)," the saying goes. Adapt or give up.
+And with Instant Articles, Facebook just might have pushed publishers to a decision. "[Poop or get off the pot](http://www.urbandictionary.com/define.php?term=poop+or+get+off+the+pot&defid=7766046)," the saying goes. Adapt or give up.
 
 # Instant Articles: The Good
 
