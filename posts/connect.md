@@ -2,7 +2,7 @@
 @@ HideHeader=true  
 @@ BodyClass=connect  
 
-<h1>Ways To Connect</h1>
+# Connecting With TheOverAnalyzed
   
 ## Twitter
 
@@ -28,9 +28,19 @@ If you have questions, concerns, or any other feedback, you can send me an email
   
 ## RSS
 
-Every post gets sent to the RSS feed at [http://feedpress.me/theoveranalyzed](http://feedpress.me/theoveranalyzed)
-<br>
-An alternate RSS feed, for which linked posts point back to TheOverAnalyzed, instead of their targets, can be chosen at [http://feedpress.me/theoveranalyzed-alternate](http://feedpress.me/theoveranalyzed-alternate)
+You can subscribe to the full-text RSS feed: [http://www.theoveranalyzed.net/rss](@@SiteRoot@@/rss)
+
+There is also an alternate RSS feed, for which linked posts point back to TheOverAnalyzed instead of their targets. You can find that feed here: [http://www.theoveranalyzed.net/rss-alternate](@@SiteRoot@@/rss-alternate)
+
+# Supporting TheOverAnalyzed
+
+## Patreon
+
+You can crowdfund via [Patreon](https://www.patreon.com/theoveranalyzed)
+
+## Cash
+
+Or, you can just send cash to [$theoveranalyzed](https://cash.me/$theoveranalyzed)
 
 
 [^on]: Only occasionally updated
