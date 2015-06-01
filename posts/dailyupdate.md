@@ -1,5 +1,5 @@
-@@ Title=Subscribe  
-@@ HideHeader=true
+@@ Title=Daily Update    
+@@ HideHeader=true  
 
 # Subscribe To The Daily Update
 
@@ -21,7 +21,7 @@ Signup for the Daily Update:
 <form action="//theoveranalyzed.us3.list-manage.com/subscribe/post" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
 <div class="mc-field-group">
-	<label for="mce-EMAIL">michaelscott@dundermifflin.com </label>
+	<label for="mce-EMAIL">Email</label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 	<div id="mce-responses" class="clear">
