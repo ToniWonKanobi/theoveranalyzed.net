@@ -6,42 +6,50 @@
   
 ## Twitter
 
-The author [@toniwonkanobi](http://www.twitter.com/toniwonkanobi)
-<br>
-The site's automated account [@TheOverAnalyzed](http://www.twitter.com/theoveranalyzed)
+The author [@toniwonkanobi][1]  
+The site's automated account [@TheOverAnalyzed][2]
 
 ## Instagram
 
-The author [@toniwonkanobi](http://instagram.com/toniwonkanobi/)
-<br>
-The site [@TheOverAnalyzed](http://instagram.com/theoveranalyzed/)[^on]
+The author [@toniwonkanobi][3]  
+The site [@TheOverAnalyzed][4][^on]
 
 ## Facebook
 
-The author [@toniwonkanobi](www.facebook.com/toniwonkanobi)[^fb]
-<br>
-The site's automated account [@TheOverAnalyzed](www.facebook.com/theoveranalyzed)[^oa]
+The author [@toniwonkanobi][5][^fb]  
+The site's automated account [@TheOverAnalyzed][6][^oa]
 
 ## Email
 
-If you have questions, concerns, or any other feedback, you can send me an email at [anthony@theoveranalyzed.net](mailto:anthony@theoveranalyzed.net)
+If you have questions, concerns, or any other feedback, you can send me an email at [anthony@theoveranalyzed.net][7]
   
 ## RSS
 
-You can subscribe to the full-text RSS feed: [http://www.theoveranalyzed.net/rss](@@SiteRoot@@/rss)
+You can subscribe to the full-text RSS feed: [http://www.theoveranalyzed.net/rss][8]
 
-There is also an alternate RSS feed, for which linked posts point back to TheOverAnalyzed instead of their targets. You can find that feed here: [http://www.theoveranalyzed.net/rss-alternate](@@SiteRoot@@/rss-alternate)
+There is also an alternate RSS feed, for which linked posts point back to TheOverAnalyzed instead of their targets. You can find that feed here: [http://www.theoveranalyzed.net/rss-alternate][9]
 
 # Supporting TheOverAnalyzed
 
 ## Patreon
 
-You can crowdfund via [Patreon](https://www.patreon.com/theoveranalyzed)
+You can crowdfund via [Patreon][10]
 
 ## Cash
 
-Or, you can just send cash to [$theoveranalyzed](https://cash.me/$theoveranalyzed)
+Or, you can just send cash to [$theoveranalyzed][11]
 
+[1]: http://www.twitter.com/toniwonkanobi
+[2]: http://www.twitter.com/theoveranalyzed
+[3]: http://instagram.com/toniwonkanobi/
+[4]: http://instagram.com/theoveranalyzed/
+[5]: www.facebook.com/toniwonkanobi
+[6]: www.facebook.com/theoveranalyzed
+[7]: mailto:anthony@theoveranalyzed.net
+[8]: @@SiteRoot@@/rss
+[9]: @@SiteRoot@@/rss-alternate
+[10]: https://www.patreon.com/theoveranalyzed
+[11]: https://cash.me/$theoveranalyzed
 
 [^on]: Only occasionally updated
 [^fb]: Facebook requires that I have a personal page to create a page for TheOverAnalyzed. Sigh.
