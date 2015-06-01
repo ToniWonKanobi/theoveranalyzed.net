@@ -5,15 +5,20 @@
 
 Congratulations! You've made it to the super-secret corner of my site that contains information regarding the daily email subscription
 
-While most nerdy folk will subscribe to the site via [Twitter][1] or [RSS][2], most of my family and friends are not that nerdy. To accommodate their non-nerdy tendencies, I created a [MailChimp][3] newsletter connected to my [alternate RSS][4] feed. MailChimp can push out daily email updates with new posts from the site. 
+While most nerdy folk will subscribe to the site via [Twitter][twitter] or [RSS](@@SiteRoot@@/rss), most of my family and friends are not that nerdy. To accommodate their non-nerdy tendencies, I created a [MailChimp][mailchimp] newsletter connected to my [alternate RSS](@@SiteRoot@@/rss-alternate) feed. MailChimp can push out daily email updates with new posts from the site. 
 
-I have struggled with offering email subscriptions since founding TheOverAnalyzed in 2014. Originally, I was all for it, since I figured it would be better to include and not exclude non-nerdy people by default. However, my plans were thwarted when I realized that, at least [according to MailChimp][5], my email campaign would be subject to the [US CAN-SPAM Act][6]. In a nutshell, this would have required me to include my actual home address in the footer of the emails (since TheOverAnalyzed is not a business with its own business address). That was something I was just not comfortable with.
+I have struggled with offering email subscriptions since founding TheOverAnalyzed in 2014. Originally, I was all for it, since I figured it would be better to include and not exclude non-nerdy people by default. However, my plans were thwarted when I realized that, at least [according to MailChimp][mailchimp 2], my email campaign would be subject to the [US CAN-SPAM Act][business]. In a nutshell, this would have required me to include my actual home address in the footer of the emails (since TheOverAnalyzed is not a business with its own business address). That was something I was just not comfortable with.
 
 So what's changed? Nothing, really. I don't plan to use my actual address in the bodies of MailChimp's emails. It's just that I don't care about MailChimp's blind subscription application of the US CAN-SPAM Act. The Act was meant to curb spammers who so often mask nefarious intentions with tons of misleading text and flashy HTML graphics. That's not what I'm trying to do. I'm not selling anything. My blog is just for my rants, and sharing other people's rants. If that doesn't jive with MailChimp, whatever. Come at me MailChimp. I dare you.
 
-Since moving to Casey Liss's Camel, I have a built-in 'permalink RSS feed' of sorts. This [alternate RSS][7] feed contains linked entries pointing back to my site (in lieu of their targets). This was a great basis for the newsletter feed, since the same people put off by Twitter and RSS are probably the same people put off by the idea of a Linked List.
+Since moving to Casey Liss's Camel, I have a built-in 'permalink RSS feed' of sorts. This [alternate RSS](@@SiteRoot@@/rss-alternate) feed contains linked entries pointing back to my site (in lieu of their targets). This was a great basis for the newsletter feed, since the same people put off by Twitter and RSS are probably the same people put off by the idea of a Linked List.
 
 Signup for the Daily Update below
+
+[business]: http://www.business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business
+[mailchimp]: http://mailchimp.com
+[mailchimp 2]: http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns
+[twitter]: http://www.twitter.com/theoveranalyzed
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }</style>
@@ -35,13 +40,7 @@ Signup for the Daily Update below
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
-[1]: http://www.twitter.com/theoveranalyzed
-[2]: @@SiteRoot@@/rss
-[3]: http://mailchimp.com
-[4]: @@SiteRoot@@/rss-alternate
-[5]: http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns
-[6]: http://www.business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business
-[7]: @@SiteRoot@@/rss-alternate
+
 
 
 
