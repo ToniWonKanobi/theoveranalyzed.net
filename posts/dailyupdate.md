@@ -13,7 +13,7 @@ So what's changed? Nothing, really. I don't plan to use my actual address in the
 
 Since moving to Casey Liss's Camel, I have a built-in 'permalink RSS feed' of sorts. This [alternate RSS](@@SiteRoot@@/rss-alternate) feed contains linked entries pointing back to my site (in lieu of their targets). This was a great basis for the newsletter feed, since the same people put off by Twitter and RSS are probably the same people put off by the idea of a Linked List.
 
-Signup for the Daily Update:
+Signup for the Daily Update below
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }</style>
