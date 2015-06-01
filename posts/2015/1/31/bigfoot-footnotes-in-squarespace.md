@@ -1,7 +1,7 @@
 @@ Title=Bigfoot Footnotes In Squarespace  
 @@ Date=2015-01-31 08:00  
 @@ Description=A big milestone in my blogging development: footnotes are live on TheOverAnalyzed!  
-@@ Tags=meta, blogging, hacking Squarespace, TheOverAnalyzed  
+@@ Tags=meta, blogging, Squarespace, TheOverAnalyzed, Bigfoot, footnotes  
 
 *Exactly 20 days ago, I [publicly committed myself](https://twitter.com/TheOverAnalyzed/status/553716002999898112) to integrating [fancy](www.bigfootjs.com) footnotes into my blog (as seen on [Marco.org](http://www.marco.org/) and [Six Colors](www.sixcolors.com)). And guess what? I've done it![^di]*
 

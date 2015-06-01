@@ -1,7 +1,7 @@
 @@ Title=Byword, MultiMarkdown Composer, And More  
 @@ Date=2015-03-04 08:00  
 @@ Description=Here's my workflow for blogging in Squarespace.  
-@@ Tags=hacking Squarespace, blogging, apps, TheOverAnalyzed      
+@@ Tags=Squarespace, blogging, apps, TheOverAnalyzed, MultiMarkdown, Markdown, Byword    
 
 *Since writing this post originally, I moved to a custom blogging engine, one that is based on the actual Markdown files `.md`. And because of that, many MultiMarkdown features provided by MultiMarkdown Composer are no longer necessary, as `node.js` has plenty of `markdown-it` plugins that take the universal 'standard' Markdown documents and parse nifty stuff anyways. So I have actually reverted back to using Byword as my plain-text editor of choice. When I re-formatted this document to work with my new blogging engine, I kept the content the same, for both posterity's sake, and to help anyone out there who uses Squarespace.*
 

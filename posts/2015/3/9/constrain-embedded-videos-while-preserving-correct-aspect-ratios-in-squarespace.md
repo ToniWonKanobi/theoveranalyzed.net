@@ -1,7 +1,7 @@
 @@ Title=Constrain Embedded Videos While Preserving Correct Aspect Ratios In Squarespace
 @@ Date=2015-03-09 08:00  
 @@ Description=Here's how I get YouTube videos to behave responsively in my webpages.  
-@@ Tags=hacking Squarespace, TheOverAnalyzed, tech tips, JavaScript, HTML, CSS  
+@@ Tags=Squarespace, TheOverAnalyzed, tech tips  
 
 *I just can't leave well enough alone.[^foo] In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, constraining the proportions.*
 

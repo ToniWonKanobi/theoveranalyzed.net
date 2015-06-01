@@ -1,7 +1,7 @@
 @@ Title=Designing TheOverAnalyzed  
 @@ Date=2015-02-25 08:00  
 @@ Description=I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
-@@ Tags=hacking Squarespace, Sketch, TheOverAnalyzed, Pixelmator, design, web design, HTML, CSS, JavaScript     
+@@ Tags=Squarespace, Sketch, TheOverAnalyzed, Pixelmator, design, web design  
 
 *When I launched TheOverAnalyzed last year, I knew nothing about HTML, CSS, JavaScript, or web design in general. Now, a year later, I still know nothing relatively nothing about the aforementioned topics. But, I know a whole lot more than I did.*
 
