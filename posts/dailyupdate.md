@@ -1,9 +1,9 @@
 @@ Title=Daily Update    
 @@ HideHeader=true  
 
-# Subscribe To The Daily Update
+<h1>The Daily Update</h1>
 
-Congratulations! You've made it to the super-secret corner of my site that contains information regarding the daily email subscription
+Congratulations! You've made it to the super-secret corner of my site that contains information regarding the Daily Update[^du] email subscription.
 
 While most nerdy folk will subscribe to the site via [Twitter][twitter] or [RSS][rss], most of my family and friends are not that nerdy. To accommodate their non-nerdy tendencies, I created a [MailChimp][mailchimp] newsletter connected to my [alternate RSS][rssa] feed. MailChimp can push out daily email updates with new posts from the site. 
 
@@ -35,10 +35,13 @@ Signup for the Daily Update below
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
+[^du]: I borrowed the name from [Ben Thompson][bt]
+
 [business]: http://www.business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business
+[bt]: https://stratechery.com/membership/
 [mailchimp]: http://mailchimp.com
 [mailchimp 2]: http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns
-[move]: @@SiteRoot@@/2015/6/1/designing-theoveranalyzed-30
+[move]: @@SiteRoot@@/2015/6/1/theoveranalyzed-30
 [rss]: @@SiteRoot@@/rss
 [rssa]: @@SiteRoot@@/rss-alternate
 [twitter]: http://www.twitter.com/theoveranalyzed

@@ -2,7 +2,7 @@
 @@ HideHeader=true  
 @@ BodyClass=about  
 
-# About
+<h1>About</h1>
 
 <img src="http://d.pr/i/1d53F+" class="headshot" alt="❤️">
 
