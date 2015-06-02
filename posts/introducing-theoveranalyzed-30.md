@@ -20,7 +20,7 @@ Making all my old Markdown files play nice with Camel was easy, but extremely ti
 
 I wanted to make sure that links shared on Twitter -- although no longer canonical -- pointed to the old content's new location.
 
-### Part III: Modify A Camel
+### Part III: Modifying A Camel
 
 Camel came with several nifty Markdown plugins, but I wanted more. 
 
