@@ -348,7 +348,7 @@ blockquote {
 /* @group Homepage */
 
 .homepage .postHeader h1 {
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 800;
     line-height: 1.2;
     margin-bottom: 0em;
@@ -367,7 +367,7 @@ blockquote {
 }
 
 .homepage .postHeaderLinked h1 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-weight: 800;
     line-height: 1.2;
     margin-bottom: 0em;
