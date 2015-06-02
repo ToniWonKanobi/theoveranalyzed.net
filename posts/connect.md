@@ -11,12 +11,12 @@ The site's automated account [@TheOverAnalyzed][twitter 2]
 ## Instagram
 
 The author [@toniwonkanobi][instagram]  
-The site [@TheOverAnalyzed][instagram 2][^on]
+The site [@TheOverAnalyzed][instagram 2]
 
 ## Facebook
 
-The author [@toniwonkanobi](www.facebook.com/toniwonkanobi)[^fb]  
-The site's automated account [@TheOverAnalyzed][fb][^oa]
+The author [@toniwonkanobi](www.facebook.com/toniwonkanobi)  
+The site's automated account [@TheOverAnalyzed][fb]
 
 ## Email
 

@@ -1,4 +1,4 @@
-@@ Title=My Apple Watch Try-on Session, and That Keyboard  
+@@ Title=My Apple Watch Try-on Session, And That Keyboard  
 @@ Date=2015-04-10 22:57   
 @@ Description=I tried on some Apple Watches today, and I also checked out the new MacBook.  
 @@ Tags=Apple, Apple Watch, MacBook  
@@ -13,7 +13,7 @@ I decided on the stainless black Apple Watch in 42 mm. That was my first pick. U
 
 ## The MacBook
 
-Since this was going to be my primary computer, I opted for the 1.3 GHz BTO option. That pushed my ship date back to May 6. My friend ordered the base model, and he should have it by the end of this month. I assumed the MacBook would have been in great supply, so much so that I was banking on going to the Apple Store tonight to pick it up! Sadly, that wasn't the case. I spoke with the try-on lady and she said they didn't get *any* MacBook stock for launch day. Oh [Angela Ahrendts](http://www.businessinsider.com/angela-ahrendts-says-a-significant-change-in-mindset-to-launching-apple-watch-online-2015-4?op=1). 
+Since this was going to be my primary computer, I opted for the 1.3 GHz BTO option. That pushed my ship date back to May 6. My friend ordered the base model, and he should have it by the end of this month. I assumed the MacBook would have been in great supply, so much so that I was banking on going to the Apple Store tonight to pick it up! Sadly, that wasn't the case. I spoke with the try-on lady and she said they didn't get *any* MacBook stock for launch day. Oh [Angela Ahrendts][businessinsider]. 
 
 ## Impressions
 
@@ -28,7 +28,7 @@ Around 12:40 last night, I made my try-on appointment for the Apple Watch.
 	<figcaption>And it only took me three tries!</figcaption>
 </figure>
 
-Why did I do this? Especially after having already pre-ordered the Watch? I wanted to be sure I made the right choice. I'll echo what Tapbots developer [Paul Haddad](https://twitter.com/tapbot_paul/status/586570252672077824) said earlier today: June is a long way away, plenty of time for me to change my mind about a few things. 
+Why did I do this? Especially after having already pre-ordered the Watch? I wanted to be sure I made the right choice. I'll echo what Tapbots developer [Paul Haddad][twitter] said earlier today: June is a long way away, plenty of time for me to change my mind about a few things. 
 
 Another thing is that this was probably going to be the *only* opportunity I would have to play with the Watch and the new MacBook until they get to me weeks from now. 
 
@@ -59,7 +59,7 @@ The Apple Watch Sport is just as awesome and wonderful as it appears to be in Ap
 	<figcaption>Hello, I must be going.</figcaption>
 </figure>
 
-The "rubber" band is far from *just* rubber -- it is easily the biggest surprise out of all the models I got to touch. Gruber [agrees](http://daringfireball.net/2015/04/the_apple_watch) with me. Leave it to Apple to make a rubber watch band feel so much more exclusive than, well, regular rubber watch bands from other companies. 
+The "rubber" band is far from *just* rubber -- it is easily the biggest surprise out of all the models I got to touch. Gruber [agrees][daringfireball] with me. Leave it to Apple to make a rubber watch band feel so much more exclusive than, well, regular rubber watch bands from other companies. 
 
 Oh, another thing about the fluoroelastomer band: it is a real pain to get on and off. The lady spent the most time with that watch taking it on/off.
 
@@ -80,7 +80,7 @@ Oh, another thing about the fluoroelastomer band: it is a real pain to get on an
 
 ### Apple Watch (Stainless Steel, Link Bracelet)
 
-This was the model I was most interested in trying on, once I found out that the stainless black was not available (there was a model on display in the center aisle display case, but that's it). I was worried it might seem grandpa-ish, based on what [Marco](http://atp.fm/108) had to say about it. He couldn't have been more wrong. The satin-y finish of the bracelet nicely complements the polished appearance of the Watch case. And really, the stainless black color scheme evokes a rather modern vibe by default. 
+This was the model I was most interested in trying on, once I found out that the stainless black was not available (there was a model on display in the center aisle display case, but that's it). I was worried it might seem grandpa-ish, based on what [Marco][atp] had to say about it. He couldn't have been more wrong. The satin-y finish of the bracelet nicely complements the polished appearance of the Watch case. And really, the stainless black color scheme evokes a rather modern vibe by default. 
 
 <figure>
 	<img src="http://d.pr/i/19DK5+" alt="caption" width="80%" />
@@ -111,7 +111,7 @@ The display is absolutely gorgeous. I had no reason to doubt the reports saying 
 
 I've played with the trackpad on the 13" MacBook Pro with Retina display, and this felt the same.
 
-What I was most looking forward to was typing on this thing. Jason Snell has bemoaned it endlessly in his reviews for [Macworld](http://www.macworld.com/article/2908115/review-the-new-12-inch-macbook-is-a-laptop-without-an-ecosystem.html), [Six Colors](http://sixcolors.com/post/2015/04/the-new-macbook-a-reviewers-notebook/), and his podcast [Upgrade](relay.fm/upgrade). I assumed he other keyboard purists weren't really the target market, since,  for them, clicky keyboards are the best. I assumed that it would feel just the same as typing on my MacBook Pros and Air's of the past.
+What I was most looking forward to was typing on this thing. Jason Snell has bemoaned it endlessly in his reviews for [Macworld][macworld], [Six Colors][sixcolors], and his podcast [Upgrade](relay.fm/upgrade). I assumed he other keyboard purists weren't really the target market, since,  for them, clicky keyboards are the best. I assumed that it would feel just the same as typing on my MacBook Pros and Air's of the past.
 
 Boy was I wrong. It really, truly does feel just *slightly* more feedback-y than typing on an iPad screen. The latter is certainly the worst typing experience of all, but the former isn't that far ahead. Yes, the keys feel very sturdy. Typing on the keyboard evoke all those things I remember Jony Ive talking about in the promotional videos. Don't get me wrong: this keyboard is an excellent hardware milestone. I just think it will take some getting used to. If you preordered one, be ready. It's not going to feel like typing on anything you've typed on before. 
 
@@ -119,3 +119,10 @@ Boy was I wrong. It really, truly does feel just *slightly* more feedback-y than
 	<img src="http://d.pr/i/120bA+" alt="leave" width="80%" />
 	<figcaption>I'll leave you with this: the display case for try-on's. So clean.</figcaption>
 </figure>
+
+[atp]: http://atp.fm/108
+[businessinsider]: http://www.businessinsider.com/angela-ahrendts-says-a-significant-change-in-mindset-to-launching-apple-watch-online-2015-4?op=1
+[daringfireball]: http://daringfireball.net/2015/04/the_apple_watch
+[macworld]: http://www.macworld.com/article/2908115/review-the-new-12-inch-macbook-is-a-laptop-without-an-ecosystem.html
+[sixcolors]: http://sixcolors.com/post/2015/04/the-new-macbook-a-reviewers-notebook/
+[twitter]: https://twitter.com/tapbot_paul/status/586570252672077824
