@@ -9,7 +9,7 @@ I don't watch a whole lot of "TV" these days. I put TV in quotes because when I 
 
 What little TV (in the broader sense of the word) I *do* watch is via a streaming service like Netflix, or more recently, [HBO Now](http://www.theverge.com/2015/4/7/8362229/hbo-now-available-now-apple-tv). And with the exception of [Game of Thrones](https://en.wikipedia.org/wiki/GameofThrones), the TV shows I watch are all already-ended series. I call them 'old' TV shows
 
-This post is about my most recent 'old' TV show experience: *The Office.** But before I get [there](#TheOffice), I have to give some backstory, because *The Office* wasn't the first 'old' TV show I experienced. 
+This post is about my most recent 'old' TV show experience: *The Office.* But before I get [there](#TheOffice), I have to give some backstory, because *The Office* wasn't the first 'old' TV show I experienced. 
 
 # JAG
 
