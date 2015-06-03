@@ -325,7 +325,7 @@ blockquote {
 
 /* @group Role Separators */
 
-.homepage .article hr {
+hr {
     width: 100%;
     margin-top: 1.7em;
     margin-bottom: 1.7em;
@@ -333,8 +333,7 @@ blockquote {
     border-width: 1px 0 0 0; 
 }
 
-.post hr.small,
-.homepage hr.small {
+hr.small, {
     width: 60%;
     margin-top: 2.5em;
     margin-bottom: 2.5em;
