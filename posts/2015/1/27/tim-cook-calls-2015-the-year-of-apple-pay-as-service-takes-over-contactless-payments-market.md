@@ -1,4 +1,4 @@
-@@ Title=Time Cook Calls 2015 The 'Year Of Apple Pay' As Service Takes Over Contactless Payments Market  
+@@ Title=Tim Cook Calls 2015 The 'Year Of Apple Pay' As Service Takes Over Contactless Payments Market  
 @@ Date=2015-01-27 21:00  
 @@ Link=http://appleinsider.com/articles/15/01/27/tim-cook-calls-2015-the-year-of-apple-pay-as-service-takes-over-contactless-payments-market  
 @@ Description=Poor, poor CurrentC.  
