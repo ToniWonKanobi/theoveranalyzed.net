@@ -17,7 +17,7 @@ On Apple:
 
 Microsoft missed the boat on mobile, there's no denying that. And it sure is laughable that they had to acquire smaller companies *just* to get decent front end apps to mesh with their temperamental backend services. That said, I'm hopeful the Redmond team can come up with something grand. Otherwise all seven of those Lumia owners are going to be really disappointed.
 
-[From [The Loop][loopinsight]
+[From [The Loop][loopinsight]]
 
 [^sar]: Sarcasm.
 
