@@ -1,4 +1,4 @@
-@@ Title=Designing TheOverAnalyzed  
+@@ Title=Designing TheOverAnalyzed 2.0  
 @@ Date=2015-02-25 08:00  
 @@ Description=I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
 @@ Tags=Squarespace, Sketch, TheOverAnalyzed, Pixelmator, design, web design  
@@ -11,11 +11,11 @@
 
 # History
 
-[Squarespace](www.squarespace.com) <s>is the all-in-one</s>[^ss] made building a website insanely easy. Everything everyone has said about it has been pretty accurate in my experience. Typically, the biggest barrier to creating something is the lack of knowledge surrounding the framework upon which you might build. For making websites, that translates to the biggest barrier being a lack of knowledge regarding HTML, CSS, JavaScript, and Web Design.[^wd] Squarespace takes care of all that. With all of that out the way, I was able to focus on content, which, at the end of the day, is all that matters. 
+[Squarespace][sqs] <s>is the all-in-one</s>[^ss] made building a website insanely easy. Everything everyone has said about it has been pretty accurate in my experience. Typically, the biggest barrier to creating something is the lack of knowledge surrounding the framework upon which you might build. For making websites, that translates to the biggest barrier being a lack of knowledge regarding HTML, CSS, JavaScript, and Web Design.[^wd] Squarespace takes care of all that. With all of that out the way, I was able to focus on content, which, at the end of the day, is all that matters. 
 
 ## From The Beginning, I Was A Tinkerer
 
-I started with the [Native](http://native-demo.squarespace.com/) template, which was, like most templates, insanely sparse and clean-looking. It had a centered main content format, and by default, the top navigation was placed underneath the logo image, which was so much more pleasing than on the top right, which was the format of some of the other templates.
+I started with the [Native][squarespace] template, which was, like most templates, insanely sparse and clean-looking. It had a centered main content format, and by default, the top navigation was placed underneath the logo image, which was so much more pleasing than on the top right, which was the format of some of the other templates.
 
 Here's the Native demo page:
 
@@ -24,7 +24,7 @@ Here's the Native demo page:
 	<figcaption>The stock Native template</figcaption>
 </figure>
 
-Eventually, I noticed that the way Native implemented [blockquotes](http://d.pr/i/1cxvQ+) was kind of wonky. After some initial hesitation,[^ih] I decided to switch to the [Avenue](http://avenue-demo.squarespace.com) template, which was a lot like Native, but had [blockquotes](http://d.pr/i/1lKIz+) like I wanted.
+Eventually, I noticed that the way Native implemented [blockquotes][d] was kind of wonky. After some initial hesitation,[^ih] I decided to switch to the [Avenue][squarespace 2] template, which was a lot like Native, but had [blockquotes][d 2] like I wanted.
 
 Here's the Avenue demo page: 
 
@@ -42,15 +42,15 @@ And here's a screenshot[^v] of my site from just a couple of weeks ago, before t
 
 ## Things Got Hairy
 
-I had been wanting to make a few changes to the way my posts behaved. For instance, I wanted an arrow `→` to follow the title on Linked posts, and I also wanted a permalink `∞` to follow the the Linked post's date. There didn't seem to be a way to do that from within the Configuration section. I looked around for some ideas, and found a [post](http://duner.webfactional.com/blog/squarespace-permalinks) discussing the `{.passthrough}` string. That post offered a great solution, but the author noted that the string was only exposed to Squarespace users with the Developer Platform turned on.
+I had been wanting to make a few changes to the way my posts behaved. For instance, I wanted an arrow `→` to follow the title on Linked posts, and I also wanted a permalink `∞` to follow the the Linked post's date. There didn't seem to be a way to do that from within the Configuration section. I looked around for some ideas, and found a [post][webfactional] discussing the `{.passthrough}` string. That post offered a great solution, but the author noted that the string was only exposed to Squarespace users with the Developer Platform turned on.
 
-Huh. I had heard on a podcast[^hp] that Squarespace had a [Developer Platform](http://developers.squarespace.com). Interesting. I wondered what that was all about, so I visited the developer landing page. It seemed pretty straightforward? 
+Huh. I had heard on a podcast[^hp] that Squarespace had a [Developer Platform][squarespace 3]. Interesting. I wondered what that was all about, so I visited the developer landing page. It seemed pretty straightforward? 
 
-That is, until I got to the [part](http://developers.squarespace.com/initial-setup/) that mentioned [Git](https://en.wikipedia.org/wiki/Git_(software)) and [SFTP](https://en.wikipedia.org/wiki/SFTP). 
+That is, until I got to the [part][squarespace 4] that mentioned [Git][wikipedia]) and [SFTP][wikipedia 2]. 
 
 Uh, no thanks. 
 
-I had used GitHub a bit last year when I was [contributing](https://github.com/andreaslarsen/habesha/issues?q=is%3Aissue+is%3Aclosed) to a [repository](https://github.com/andreaslarsen/habesha) that contained jailbreak icon themes. I would find the BundleID for the app that needed theming, as well as the filenames of the icon sources. I would then find the iTunes Artwork using this [site,](http://bendodson.com/code/itunes-artwork-finder/index.html)[^bd] and then parse all that information into a new Issue for the designer to make the icons for the theme. Finally, I would use AFC to transfer to my iOS device, via USB, the themed icon sources to their respective folders in the app bundle and insure that they were showing up properly.
+I had used GitHub a bit last year when I was [contributing][github] to a [repository][github 2] that contained jailbreak icon themes. I would find the BundleID for the app that needed theming, as well as the filenames of the icon sources. I would then find the iTunes Artwork using this [site][bendodson],[^bd] and then parse all that information into a new Issue for the designer to make the icons for the theme. Finally, I would use AFC to transfer to my iOS device, via USB, the themed icon sources to their respective folders in the app bundle and insure that they were showing up properly.
 
 But the idea of using Git or SFTP seemed to require much more nerd knowledge than I had at the time.
 
@@ -64,11 +64,11 @@ I did what have always done when it comes to nerdery: I took the plunge. I turne
 
 ## Now What Do I Do?
 
-I wasn't sure whether Git or SFTP was the way to go, so I started with Git (due to my previous experience with GitHub). Turns Out™ that using Git involved using Terminal to push changes to the server, which seemed a little too [John Siracusa](http://hypercritical.co) [Mac OS 9](https://en.wikipedia.org/wiki/Mac_OS_9) for me. 
+I wasn't sure whether Git or SFTP was the way to go, so I started with Git (due to my previous experience with GitHub). Turns Out™ that using Git involved using Terminal to push changes to the server, which seemed a little too [John Siracusa][hypercritical] [Mac OS 9][wikipedia 3] for me. 
 
 So SFTP it was. 
 
-Interestingly, I wasn't sure how to use SFTP (or [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol)) either. So I checked in with the great teacher of our time, YouTube, and found a real [gem](https://www.youtube.com/watch?v=HzravxTgTe4). This guy basically spelled out how to use Espresso to manipulate my site in any way I wanted. 
+Interestingly, I wasn't sure how to use SFTP (or [FTP][wikipedia 4]) either. So I checked in with the great teacher of our time, YouTube, and found a real [gem][youtube]. This guy basically spelled out how to use Espresso to manipulate my site in any way I wanted. 
 
 How cool.
 
@@ -76,7 +76,7 @@ How cool.
 
 The first changes I made, like most 'first times,' were disastrous. I completely broke the site. I accidentally made changes to `global.less` without realizing what I had done. Unsure how to fix things, I turned off Developer mode in Squarespace, which reverted the site back to how it was before turning Developer mode on. Whew. Everything was fixed. Then I turned Developer mode back on, and tried again. 
 
-I quickly familiarized myself with `blog.list` and `blog.item` and was able to make the arrow and [permalink](@@SiteRoot@@/2015/2/1/permalinks-in-squarespace) changes like I wanted (and much [more](@@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace). 
+I quickly familiarized myself with `blog.list` and `blog.item` and was able to make the arrow and [permalink][pli] changes like I wanted (and much [more][more]).
 
 Here's a screenshot of Permalinks Version 1.0:[^pl]
 
@@ -87,21 +87,21 @@ Here's a screenshot of Permalinks Version 1.0:[^pl]
 
 ## Another Template Change
 
-Things were looking [how I wanted](http://d.pr/i/1cvPC+). Still, I wasn't quite satisfied. 
+Things were looking [how I wanted][d 3]. Still, I wasn't quite satisfied. 
 
-One [stretch goal](http://www.forbes.com/sites/stevedenning/2012/04/23/in-praise-of-stretch-goals/) I have had since the beginning is to be sponsored by [The Deck](http://decknetwork.net/). I have seen their ads on [Daring Fireball](www.daringfireball.net), [Marco.org](www.marco.org), [Six Colors](www.sixcolors.com), and [The Loop](www.loopinsight.com). *These are the blogs I aspire towards,* so of course I wanted to be like them.
+One [stretch goal][forbes] I have had since the beginning is to be sponsored by [The Deck][decknetwork]. I have seen their ads on [Daring Fireball](www.daringfireball.net), [Marco.org](www.marco.org), [Six Colors](www.sixcolors.com), and [The Loop](www.loopinsight.com). *These are the blogs I aspire towards,* so of course I wanted to be like them.
 
 And while I realized that this was so far off, I wanted to be ready.
 
 Being ready meant being able to implement the ads as soon as Jim Coudal knocks on my door.[^md]
 
-Problem was that I couldn't seem to envision a place for the ads on my current site. Avenue, just like Native before it, featured centered content. Where would[ The Deck](http://decknetwork.net/) ads go? Unlike almost every other terrible banner ad, The Deck ads are confined to a relatively small, square block. I couldn't place them at the very top of the site, because they would take a way from the logo. I also didn't think it would be fair, traffic-wise, to place them at the bottom of the site, say, above the `©`.
+Problem was that I couldn't seem to envision a place for the ads on my current site. Avenue, just like Native before it, featured centered content. Where would[ The Deck][decknetwork] ads go? Unlike almost every other terrible banner ad, The Deck ads are confined to a relatively small, square block. I couldn't place them at the very top of the site, because they would take a way from the logo. I also didn't think it would be fair, traffic-wise, to place them at the bottom of the site, say, above the `©`.
 
 Most of the other sites sponsored by The Deck had a sidebar.
 
 Naturally, I <s>needed</s> a sidebar. 
 
-I noticed [Above Avalon](http://aboveavalon.com) a few weeks ago, and loved the non-scrolling (`position: absolute`) sidebar. I also loved that the site was built on Squarespace. *This meant I could easily implement a sidebar on my own site.*
+I noticed [Above Avalon][aboveavalon] a few weeks ago, and loved the non-scrolling (`position: absolute`) sidebar. I also loved that the site was built on Squarespace. *This meant I could easily implement a sidebar on my own site.*
 
 Here is Niel Cybart's Stratechery-esche Above Avalon:
 
@@ -117,7 +117,7 @@ Here is Niel Cybart's Stratechery-esche Above Avalon:
 
 ## Sidebar Time
 
-I looked around the templates and discovered that Cybart had implemented a relatively unchanged version of [Wells](http://wells-demo.squarespace.com/). Wells is a great template for photographers or graphic designers, as it really makes content like pictures or graphics or videos the star of the web view. 
+I looked around the templates and discovered that Cybart had implemented a relatively unchanged version of [Wells][squarespace 5]. Wells is a great template for photographers or graphic designers, as it really makes content like pictures or graphics or videos the star of the web view. 
 
 Here is the Wells demo:
 
@@ -131,7 +131,7 @@ Here is the Wells demo:
 	<figcaption>And here is TheOverAnalyezd with Wells (Version 1.0 of the site)</figcaption>
 </figure>
 
-Note that the content was pushed all the way to the left of the window. This wasn't terrible, but it also wasn't [ideal](http://d.pr/i/14BaR+). I wanted the content to be basically centered, regardless of how big the window was. 
+Note that the content was pushed all the way to the left of the window. This wasn't terrible, but it also wasn't [ideal][d 4]. I wanted the content to be basically centered, regardless of how big the window was. 
 
 After consulting with the [Squarespace Answers Forum](answers.squarespace.com), I was able to move the content over to the center, more or less:
 
@@ -182,9 +182,9 @@ Here is how I decided to re-style the site, using `.less` slash `.css` stuffs:
 
 The final piece left in the puzzle was the logo. 
 
-When I started the site, I was lazy. Heck, I still am lazy. But I was even lazier a year ago. I wanted my logo to contain some reference to my faithful companion animal, [Smokey](http://d.pr/i/1h4fZ+).
+When I started the site, I was lazy. Heck, I still am lazy. But I was even lazier a year ago. I wanted my logo to contain some reference to my faithful companion animal, [Smokey][d 5].
 
-Squarespace had *just* rolled out their [logo designer tool](http://squarespace.com/logo).[^ld] I used it to combine a stock Getty-ish graphic of a dog with a relatively boring sans serif font for the site title's text.
+Squarespace had *just* rolled out their [logo designer tool][squarespace 6].[^ld] I used it to combine a stock Getty-ish graphic of a dog with a relatively boring sans serif font for the site title's text.
 
 I think it was actually a pretty nice logo considering it took me about 5 minutes to put together:
 
@@ -201,9 +201,9 @@ And that takes us to the present, conveniently serving to book-end this post.
 
 ## Pixelmator
 
-I started with [Pixelmator](http://www.pixelmator.com/). Hands-down, the team at Pixelmator have designed an amazing Photoshop alternative for Cocoa / OS X lovers like myself. I'm no photographer, but from what I gather, Pixelmator features about 90% of what Photoshop or Lightroom offer. That was more than enough to win me over.
+I started with [Pixelmator][pixelmator]. Hands-down, the team at Pixelmator have designed an amazing Photoshop alternative for Cocoa / OS X lovers like myself. I'm no photographer, but from what I gather, Pixelmator features about 90% of what Photoshop or Lightroom offer. That was more than enough to win me over.
 
-When they launched version 2.2 a couple of years ago, I remember hearing about [Vectormator](http://www.pixelmator.com/blog/2013/05/14/introducing-vectormator/). When I originally caught wind of that addition, I made a mental note to myself that if I ever needed to create a graphic, I was going to use Pixelmator.
+When they launched version 2.2 a couple of years ago, I remember hearing about [Vectormator][pixelmator 2]. When I originally caught wind of that addition, I made a mental note to myself that if I ever needed to create a graphic, I was going to use Pixelmator.
 
 But as I quickly found out, Pixelmator's (Vectormator's) vector graphic support was rather limited. I actually created a graphic using Pixelmator, but was unable to export it as a scalable vector graphic (SVG) file. I tried but just couldn't find a way to do so.  I contacted their team, hoping I was just overlooking something trivial. 
 
@@ -215,11 +215,11 @@ There was no way to properly export an SVG from Pixelmator. Instead of being an 
 
 ## If At First You Don't Succeed
 
-I needed a program that was easy to use like Pixelmator, but allowed easy exportation of a vector file. Interestingly enough, through my previous contact with the Pixelmator team, [Sketch was suggested to me](https://twitter.com/pixelmator/status/565182862128082946).
+I needed a program that was easy to use like Pixelmator, but allowed easy exportation of a vector file. Interestingly enough, through my previous contact with the Pixelmator team, [Sketch was suggested to me][twitter].
 
 ## Sketch
 
-Sketch is on its [third major version](http://bohemiancoding.com/sketch/whats-new/) now, and while its true power lies in its excellent suite of mobile design utilities, the app is great for just run-of-the-mill website stuff, like logos. 
+Sketch is on its [third major version][bohemiancoding] now, and while its true power lies in its excellent suite of mobile design utilities, the app is great for just run-of-the-mill website stuff, like logos. 
 
 I started with a photo of Smokey:
 
@@ -285,7 +285,7 @@ I ended up having to edit the `site.region` file that Squarespace uses as the si
 
 # Finally
 
-Finally. [It was finished](http://biblehub.com/john/19-30.htm). I was able to get things looking how I want.[^iw]
+Finally. [It was finished][biblehub]. I was able to get things looking how I want.[^iw]
 
 Desktop:
 
@@ -315,15 +315,15 @@ iPhone:
 	<figcaption>iPhone, portrait</figcaption>
 </figure>
 
-***
+<hr class="small" />
 
 # Conclusion
 
 As far as I can tell, I have reached the limits of what one man can do for a given Squarespace template.
 
-I recently listened to an old [episode](http://5by5.tv/buildanalyze/18) of [Build and Analyze](http://5by5.tv/buildanalyze), in which Marco talked about [Second Crack](https://github.com/marcoarment/secondcrack).
+I recently listened to an old [episode][5by5] of [Build and Analyze][5by6], in which Marco talked about [Second Crack][github 3].
 
-I then scoured over Casey Liss's blog to find this [post](http://www.caseyliss.com/2014/5/2/camel-open-sourced) discussing Camel, his blogging engine similar to Second Crack.
+I then scoured over Casey Liss's blog to find this [post][caseyliss] discussing Camel, his blogging engine similar to Second Crack.
 
 I want the dual RSS feeds of Camel, and the easy bookmarklets that Second Crack offers.
 
@@ -335,14 +335,57 @@ Until then, maybe I can get back to writing.
 
 [^ss]: Sorry, I couldn't help it: At the moment I was writing that, I felt as if I were hosting my own podcast and doing an ad read for Squarespace. 
 [^wd]: You get where I'm going with this now, don't you?
-[^v]: My site isn't cool enough to have been crawled by these guys yet, but have you heard of or visited [archive.org](archive.org)? I have spent hours there looking at old archives of [www.apple.com](https://web.archive.org/web/19980509035420/http://www.apple.com/). Such a great resource.
-[^ih]: Even before things got [crazy](http://d.pr/i/1kNyI+), I had changed *quite* a big of stuff from the default settings. Almost everything -- font size/styles/colors, as well as link colors, etc -- had been customized to my liking. And, at that time, because I didn't have any knowledge regarding how Squarespace made under-the-hood changes to the user interface, I was scared to just change to a completely new template.
-[^hp]: I can't remember which. Chances are it was either Upgrade or Inquisitive, because I can vaguely remember it being Myke Hurley to made reference to Stephen Hackett, who also uses the Developer Platform. Though, I feel safe saying that he hasn't used it *[nearly](https://twitter.com/ismh/status/564079479992360961)* as much as I have. 
+[^v]: My site isn't cool enough to have been crawled by these guys yet, but have you heard of or visited [archive.org][arc]? I have spent hours there looking at old archives of [www.apple.com][archive]. Such a great resource.
+[^ih]: Even before things got [crazy][d 6], I had changed *quite* a big of stuff from the default settings. Almost everything -- font size/styles/colors, as well as link colors, etc -- had been customized to my liking. And, at that time, because I didn't have any knowledge regarding how Squarespace made under-the-hood changes to the user interface, I was scared to just change to a completely new template.
+[^hp]: I can't remember which. Chances are it was either Upgrade or Inquisitive, because I can vaguely remember it being Myke Hurley to made reference to Stephen Hackett, who also uses the Developer Platform. Though, I feel safe saying that he hasn't used it *[nearly][twitter 2]* as much as I have. 
 [^bd]: Another great resource. 
-[^pl]: Before mastering `blog.item`, I wasn't sure how to place the permalink after the date on Linked items. I thought I was stuck with it following the title of linked items. I figured that out [eventually](http://d.pr/i/1hVrx+)
+[^pl]: Before mastering `blog.item`, I wasn't sure how to place the permalink after the date on Linked items. I thought I was stuck with it following the title of linked items. I figured that out [eventually][d 7]
 [^md]: Via email.
 [^mq]: Sometimes I wonder, do I *italicize* **too** ***much***? 
 [^ip]: 769px is exactly one pixel greater than the `device-width` of iPad in portrait mode.
-[^ld]: Apparently, this caused a bit of a controversy in the [web design community](http://www.fastcodesign.com/3025363/is-squarespaces-new-logo-generator-a-design-crime). 
+[^ld]: Apparently, this caused a bit of a controversy in the [web design community][fastcodesign]. 
 [^mlgl]: For all the flack I give Squarespace via email and twitter, these guys really have done a decent job of designing how developers can manipulate things. I wish they did more, like allow customization of RSS, as well as some default URL slug stupidness, but maybe that will come with time. 
  [^iw]: There are a few things I would like to change, but I think for the sake of my sanity, I will leave well enough alone for now. 
+
+[5by5]: http://5by5.tv/buildanalyze/18
+[5by6]: http://5by5.tv/buildanalyze
+[aboveavalon]: http://aboveavalon.com
+[arc]: https://archive.org
+[archive]: https://web.archive.org/web/19980509035420/http://www.apple.com/
+[bendodson]: http://bendodson.com/code/itunes-artwork-finder/index.html
+[biblehub]: http://biblehub.com/john/19-30.htm
+[bohemiancoding]: http://bohemiancoding.com/sketch/whats-new/
+[caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced
+[d]: http://d.pr/i/1cxvQ+
+[d 2]: http://d.pr/i/1lKIz+
+[d 3]: http://d.pr/i/1cvPC+
+[d 4]: http://d.pr/i/14BaR+
+[d 5]: http://d.pr/i/1h4fZ+
+[d 6]: http://d.pr/i/1kNyI+
+[d 7]: http://d.pr/i/1hVrx+
+[decknetwork]: http://decknetwork.net/
+[fastcodesign]: http://www.fastcodesign.com/3025363/is-squarespaces-new-logo-generator-a-design-crime
+[forbes]: http://www.forbes.com/sites/stevedenning/2012/04/23/in-praise-of-stretch-goals/
+[github]: https://github.com/andreaslarsen/habesha/issues?q=is%3Aissue+is%3Aclosed
+[github 2]: https://github.com/andreaslarsen/habesha
+[github 3]: https://github.com/marcoarment/secondcrack
+[hypercritical]: http://hypercritical.co
+[more]: @@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace
+[pixelmator]: http://www.pixelmator.com/
+[pixelmator 2]: http://www.pixelmator.com/blog/2013/05/14/introducing-vectormator/
+[pli]: @@SiteRoot@@/2015/2/1/permalinks-in-squarespace
+[squarespace]: http://native-demo.squarespace.com/
+[squarespace 2]: http://avenue-demo.squarespace.com
+[squarespace 3]: http://developers.squarespace.com
+[squarespace 4]: http://developers.squarespace.com/initial-setup/
+[squarespace 5]: http://wells-demo.squarespace.com/
+[squarespace 6]: http://squarespace.com/logo
+[sqs]: http://squarespace.com
+[twitter]: https://twitter.com/pixelmator/status/565182862128082946
+[twitter 2]: https://twitter.com/ismh/status/564079479992360961
+[webfactional]: http://duner.webfactional.com/blog/squarespace-permalinks
+[wikipedia]: https://en.wikipedia.org/wiki/Git_(software
+[wikipedia 2]: https://en.wikipedia.org/wiki/SFTP
+[wikipedia 3]: https://en.wikipedia.org/wiki/Mac_OS_9
+[wikipedia 4]: https://en.wikipedia.org/wiki/File_Transfer_Protocol
+[youtube]: https://www.youtube.com/watch?v=HzravxTgTe4
