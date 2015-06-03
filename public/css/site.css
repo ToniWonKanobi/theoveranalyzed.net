@@ -240,6 +240,7 @@ table.sortable thead {
 
 figure {
     margin-top: 2em;
+    margin-bottom: 1em;
     display: block;
     text-align: center;
 }
