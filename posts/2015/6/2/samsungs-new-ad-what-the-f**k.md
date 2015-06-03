@@ -1,5 +1,5 @@
 @@ Title=Samsung’s New Ad: WHAT. THE. F**K.  
-@@ Date=2015-06-02 19:55  
+@@ Date=2015-06-02 20:48  
 @@ Link=http://www.loopinsight.com/2015/06/02/samsungs-new-ad-what-the-fuck/  
 @@ Description=Regarding Samsung's new Galaxy ad, Jim Dalyrmple beats around the bush a bit.  
 @@ Tags=funny, Samsung, blogging, culture  
