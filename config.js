@@ -4,7 +4,7 @@ module.exports = {
 		Title: 'TheOverAnalyzed',
 		About: 'Overanalyzing Apple and the surrounding culture, as well as technology at large.',
 		Author: 'Anthony Craig',
-		DefaultImage: 'http://d.pr/i/1eKCj+'
+		DefaultImage: 'http://d.pr/i/1gOdX+'
 	},
 	Social: {
 		Twitter: "theoveranalyzed",
