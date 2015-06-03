@@ -16,7 +16,7 @@ The site [@TheOverAnalyzed][instagram 2]
 ## Facebook
 
 The author [@toniwonkanobi](www.facebook.com/toniwonkanobi)  
-The site's automated account [@TheOverAnalyzed][fb]
+The site's automated account [Theoveranalyzed][fb]
 
 ## Email
 
@@ -39,7 +39,7 @@ You can crowdfund via [Patreon][patreon]
 Or, you can just send cash to [$theoveranalyzed][cash]
 
 [cash]: https://cash.me/$theoveranalyzed
-[fb]: www.facebook.com/theoveranalyzed
+[fb]: http://www.facebook.com/theoveranalyzed
 [instagram]: http://instagram.com/toniwonkanobi/
 [instagram 2]: http://instagram.com/theoveranalyzed/
 [mail]: mailto:anthony@theoveranalyzed.net
