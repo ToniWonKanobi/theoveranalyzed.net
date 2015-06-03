@@ -2,6 +2,9 @@
 @@ Date=2015-02-14 08:00  
 @@ Description=Happy Valentine's Day Allison.  
 @@ Tags=Anthony, Allison    
+@@ HideHeader=true
+
+<hr>
 
 #### Eight years ago today, we went on [our first 'big' date](http://d.pr/i/1h9Gt+)
 
@@ -41,4 +44,8 @@
 
 #### I love you
 
-![Love](http://d.pr/i/11ITs+)
+<div style="margin-top: 2em; ">
+<figure>
+	<img src="http://d.pr/i/11ITs+" alt="allison" width="80%" />
+</figure>
+</div>
