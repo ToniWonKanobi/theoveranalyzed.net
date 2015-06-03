@@ -6,23 +6,23 @@
         <title>@@SiteTitle@@ &mdash; @@Title@@</title>
         <meta name="author" content="Anthony Craig">
         <meta property="article:author" content="604781976">
-        <meta name="google-site-verification" content="bTslVH_XkdLoX1gCjVeqGK1od1brDOtiVSfp5lyxJiE" /> <!--www version-->
-        <meta name="google-site-verification" content="bTslVH_XkdLoX1gCjVeqGK1od1brDOtiVSfp5lyxJiE" /> <!--non-www version-->
 		<link rel="stylesheet" href="/css/bigfoot-default.css"/>
 		<link rel="stylesheet" href="/css/hightlightjsgithub.css"/>
 		<link rel="stylesheet" type="text/css" href="/css/site.css">
+        <!-- Hoefler Font -->	
 		<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7099154/750568/css/fonts.css" />
 		<link rel="alternate" type="application/rss+xml" title="@@SiteTitle@@" href="/rss" />
 		<link rel="alternate" type="application/rss+xml" title="Feed with linked entries pointing back to @@SiteTitle@@ instead of their targets" href="/rss-alternate" />
 		<link rel="icon" type="image/png" href="http://d.pr/i/1gOdX+"/>
 		<link rel="apple-touch-icon" href="http://d.pr/i/1gOdX+"/>
-			
+		<link rel="canonical" href="@@canonicalLink@@">
+        <!-- JavaScript -->	
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 		<script src="/js/bigfoot.min.js"></script>
 		<script>
             var bigfoot = $.bigfoot(
                 {
-//		            actionOriginalFN: "ignore",
+        //          actionOriginalFN: "ignore",
                 }
 		    );
 		</script>
@@ -32,15 +32,26 @@
 		        $(".entry").fitVids();
 		    });
 		</script>
+        <!-- Stupid Google. Why oh why? -->	
+		<meta name="google-site-verification" content="bTslVH_XkdLoX1gCjVeqGK1od1brDOtiVSfp5lyxJiE" />
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 		
-<!-- Twitter Cards -->	
+		  ga('create', 'UA-47713949-2', 'auto');
+		  ga('send', 'pageview');
+		
+		</script>
+        <!-- Twitter Cards -->	
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@@Twitter@@">
 		<meta name="twitter:creator" content="@@Twitter@@">
 		<meta name="twitter:title" content="@@Title@@">
 		<meta name="twitter:description" content="@@Description@@">
-		<meta name="twitter:image" content="@@PostImage@@" />	
-<!-- Facebook Open Graph -->
+		<meta name="twitter:image" content="@@PostImage@@" />
+        <!-- Facebook Open Graph -->
 		<meta property="og:type" content="@@ogtype@@">
 		<meta property="og:title" content="@@Title@@">
 		<meta property="og:site_name" content="@@SiteTitle@@">
@@ -48,8 +59,6 @@
 		<meta property="og:url" content="@@canonicalLink@@">
 		<meta property="og:description" content="@@Description@@">
 		<meta property="og:locale" content="en_US">
-
-		<link rel="canonical" href="@@canonicalLink@@">
     </head>
 	<body class="@@BodyClass@@">
 	   <div id="mastheadbackground"></div>
@@ -57,13 +66,8 @@
 			<div class="content">
 				<div class="header">
 					<div class="siteTitle">
-					<a href="/"><img src="/images/SiteTitle.svg" alt="TheOverAnalyzed" /></a>
+					    <a href="/"><img src="/images/SiteTitle.svg" alt="TheOverAnalyzed" /></a>
 					</div>
 					<div class="siteByline">By Anthony Craig</div>
-<!-- Top Nav      	<nav>
-     Stuff			<a href="/about" rel="author">About</a> <span class="dot">&bull;</span>
-						<a href="/connect" >Connect</a> <span class="dot">&bull;</span>
-						<a href="/nerd" >Nerd</a>
-					</nav>-->
-				</div><!-- header -->
+				</div>
 				<div class="main">
