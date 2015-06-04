@@ -3,7 +3,7 @@
 @@ Description=A big milestone in my blogging development: footnotes are live on TheOverAnalyzed!  
 @@ Tags=meta, blogging, Squarespace, TheOverAnalyzed, Bigfoot, footnotes  
 
-*Exactly 20 days ago, I [publicly committed myself](https://twitter.com/TheOverAnalyzed/status/553716002999898112) to integrating [fancy](www.bigfootjs.com) footnotes into my blog (as seen on [Marco.org](http://www.marco.org/) and [Six Colors](www.sixcolors.com)). And guess what? I've done it![^di]*
+*Exactly 20 days ago, I [publicly committed myself][twitter] to integrating [fancy][bigfootjs] footnotes into my blog (as seen on [Marco.org][marco] and [Six Colors][sixcolors]). And guess what? I've done it![^di]*
 
 <h2>Contents</h2>
 
@@ -11,17 +11,17 @@
 
 # Backstory
 
-Ever since I started following [prominent Apple bloggers](http://www.daringfireball.net) a few years ago, the concept of footnotes really grew on me subconsciously. [^sc]
+Ever since I started following [prominent Apple bloggers][daringfireball] a few years ago, the concept of footnotes really grew on me subconsciously. [^sc]
 
 I'm sure by now you have concluded that I can talk incessantly and often go off on long tangents. I think that is just how my brain works. Occasionally, whilst conversing with people, I often step outside myself and say/think, "Am I really still talking right now? Is this person *not* yet burned out?"[^bo]
 
-And so it would not surprise you that, in my writing, I find myself often having to use parenthesis and [em dashes](http://www.thepunctuationguide.com/em-dash.html) to explain my thoughts in more detail. Peruse my longform articles and I'm sure you'll find that to be the truth. Problem is, parsing through all those em dashes and parenthesis gets daunting for the reader. I bet if someone analyzed my average sentence length[^asl], I would be far past the 'readability length.'
+And so it would not surprise you that, in my writing, I find myself often having to use parenthesis and [em dashes][thepunctuationguide] to explain my thoughts in more detail. Peruse my longform articles and I'm sure you'll find that to be the truth. Problem is, parsing through all those em dashes and parenthesis gets daunting for the reader. I bet if someone analyzed my average sentence length[^asl], I would be far past the 'readability length.'
 
 # Searching
 
-I searched high and low and came up on a [post](http://www.marco.org/2013/12/15/bigfoot) by Marco, in which he plugged a project by Chris Sauvé[^csa] of [lemondesign.com](http://www.lemondesign.com)[^ld] called [bigfoot.js](http://www.bigfootjs.com). I read through that and then did a few [DuckDuckGo](https://duckduckgo.com/?q=bigfootjs&t=osx) searches. I found this [post](http://recklessunicorn.net/blog/2014/2/11/how-to-use-bigfoot-on-squarespace)[^bfs] on [Reckless Unicorn](http://recklessunicorn.net/), and after **much** trial and error[^te], I finally got them working. 
+I searched high and low and came up on a [post][marco 2] by Marco, in which he plugged a project by Chris Sauvé[^csa] of [lemondesign.com][lemondesign][^ld] called [bigfoot.js][bigfootjs]. I read through that and then did a few [DuckDuckGo][duckduckgo] searches. I found this [post][recklessunicorn][^bfs] on [Reckless Unicorn][recklessunicorn 2], and after **much** trial and error[^te], I finally got them working. 
 
-Note my liberal use of [fancy schmancy](http://www.urbandictionary.com/define.php?term=Fancy+Schmancy) footnotes in this post? Yay Bigfoot.js.[^pu]
+Note my liberal use of [fancy schmancy][urbandictionary] footnotes in this post? Yay Bigfoot.js.[^pu]
 
 # `bigfoot-number.css` Troubles
 
@@ -29,11 +29,11 @@ I was having trouble getting the footnotes to reset their count for each new pos
 
 This isn't a super big deal, except that it totally is. 
 
-I looked everywhere for help. Unfortunately, there wasn't a single write-up out there that told me exactly what it was that I needed to do. So I contacted the author of `bigfoot.js` (again), and I didn't really get anywhere after talking with him, as there is only so much he can do since every CMS implements things differently. I saw some posts, one from [Crate of Penguins](http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites), and another from [Reckless Unicorn](http://recklessunicorn.net/blog/2014/2/11/how-to-use-bigfoot-on-squarespacecra). Those authors weren't much help beyond what they already wrote in their posts[^tp]
+I looked everywhere for help. Unfortunately, there wasn't a single write-up out there that told me exactly what it was that I needed to do. So I contacted the author of `bigfoot.js` (again), and I didn't really get anywhere after talking with him, as there is only so much he can do since every CMS implements things differently. I saw some posts, one from [Crate of Penguins][crateofpenguins], and another from [Reckless Unicorn][recklessunicorn 3]. Those authors weren't much help beyond what they already wrote in their posts[^tp]
 
 # `bigfoot-number.css` Solution
 
-Fortuitously, I saw a [thread](https://twitter.com/jsnell/status/560581646248722433) on Twitter between Jason Snell and a few other heavyweights talking about this very thing. I tried again tonight and it worked!
+Fortuitously, I saw a [thread][twitter 2] on Twitter between Jason Snell and a few other heavyweights talking about this very thing. I tried again tonight and it worked!
 
 The key was passing a particular object literal in the `Header` field of the `Code Injection` area.
 
@@ -72,14 +72,33 @@ So, for completeness, this is what my `Header` in the `Code Injection` field loo
 [^di]: Yay.
 [^sc]: Oh, authors can write, but put in all those 'asides,' without consciously distracting from the whole of the text? Nice.
 [^bo]: No doubt they are. 
-[^asl]: There is such a [metric](https://strainindex.wordpress.com/2008/07/28/the-average-sentence-length/).
+[^asl]: There is such a [metric][wordpress].
 [^csa]: No active Twitter for him, unfortunately.
-[^ld]: Defunct as well. His email *is* on [Git](https://github.com/lemonmade), however.
+[^ld]: Defunct as well. His email *is* on [Git][github], however.
 [^tp]: I suppose I can't blame them. Me asking quite rudimentary questions about jQuery implementation in what is, to them, a random blog engine (Squarespace) is probably just as confounded as someone asking me which fingers they should use to fret a power cord. 
 
 	Still, it felt terrible to not have closure on this issue. 
 [^ar]: This is only pertinent on an 'Archive' or 'All Posts' type of page, where every post is included on one page. If several posts contain footnotes, the default behavior of bigfoot.js is to just increase the footnote number as the page progresses. 
 [^bfs]: Money.
-[^te]: [Squarespace](www.sqarespace.com) is a wonderful CMS, and makes things really easy for novice bloggers. But Squarespace also makes things incredibly difficult for bloggers who want to step outside of the 'normal' and typical way of doing things (e.g., footnotes). 
+[^te]: [Squarespace][ss] is a wonderful CMS, and makes things really easy for novice bloggers. But Squarespace also makes things incredibly difficult for bloggers who want to step outside of the 'normal' and typical way of doing things (e.g., footnotes). 
 [^pu]: I have been wanting to do this for longer than just 20 days ago, so this is like months of pent up 'wanting to footnote' feelings.
 [^old]: This is an old slug from when I was still using Squarespace.
+
+[bigfootjs]: http://www.bigfootjs.com
+[crateofpenguins]: http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites
+[daringfireball]: http://www.daringfireball.net
+[duckduckgo]: https://duckduckgo.com/?q=bigfootjs&t=osx
+[github]: https://github.com/lemonmade
+[lemondesign]: http://www.lemondesign.com
+[marco]: http://www.marco.org/
+[marco 2]: http://www.marco.org/2013/12/15/bigfoot
+[recklessunicorn]: http://recklessunicorn.net/blog/2014/2/11/how-to-use-bigfoot-on-squarespace
+[recklessunicorn 2]: http://recklessunicorn.net/
+[recklessunicorn 3]: http://recklessunicorn.net/blog/2014/2/11/how-to-use-bigfoot-on-squarespacecra
+[sixcolors]: http://www.sixcolors.com
+[ss]: http://www.sqarespace.com
+[thepunctuationguide]: http://www.thepunctuationguide.com/em-dash.html
+[twitter]: https://twitter.com/TheOverAnalyzed/status/553716002999898112
+[twitter 2]: https://twitter.com/jsnell/status/560581646248722433
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=Fancy+Schmancy
+[wordpress]: https://strainindex.wordpress.com/2008/07/28/the-average-sentence-length/

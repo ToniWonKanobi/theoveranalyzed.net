@@ -1,7 +1,7 @@
 @@ Title=My Thoughts On Apple's Rumored 12" MacBook Air  
 @@ Date=2015-01-10 11:17  
 @@ Description=I can't wait for the new MacBook Air. Even if it does only have one port.  
-@@ Tags=Apple, hardware, rumors  
+@@ Tags=Apple, hardware, rumors, Daniel Eran Dilger  
 
 Daniel Eran Dilger of [AppleInsider][appleinsider] on why the [proposed][9to5mac] move to the USB 3.1 Type-C connector is a necessary change:
 >Newer platforms and devices are reaching a point where existing USB receptacles and plugs are inhibiting innovation

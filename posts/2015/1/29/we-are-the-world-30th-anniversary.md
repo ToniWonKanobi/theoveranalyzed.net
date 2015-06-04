@@ -5,7 +5,6 @@
 @@ Tags=music, music videos, culture, history  
 
 Brian Mansfield, for USA Today:
-
 >The all-star recording session for We Are the World, the biggest charity single of all time, took place 30 years ago Wednesday.
 
 >"A great song lasts for eternity," says Quincy Jones, who produced the track. "I guarantee you that if you travel anywhere on the planet today and start humming the first few bars of that tune, people will immediately know that song."

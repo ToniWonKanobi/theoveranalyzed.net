@@ -1,7 +1,7 @@
 @@ Title=New RSS Feeds  
 @@ Date=2015-06-01 17:35    
 @@ Description=New real simple syndication feeds for Version 3.0 of the site.  
-@@ Tags=meta, TheOverAnalyzed, announcements  
+@@ Tags=meta, TheOverAnalyzed, site announcements  
 
 One of the biggest pushes for [my move from Squarespace to Camel][theoveranalyzed] was to have an '[alternate RSS][alt]' feed, in which linked posts point back to my blog instead of their actual targets. This isn't true to Daring Fireball's original concept of a [Linked List][ll], but some people prefer that method of subscription.
 

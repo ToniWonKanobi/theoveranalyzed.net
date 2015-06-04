@@ -4,9 +4,9 @@
 @@ Tags=gear, t-shirts, business, Cotton Bureau, recommendations    
 @@ Image=https://cottonbureau.com/img/tee-pattern_2x.png  
 
-I recently became an ambassador of sorts for my favorite online T-shirt company, [Cotton Bureau](www.cottonbureau.com). The concept of the site is a lot like [Kickstarter](www.kickstarter.com) or [Indiegogo](www.indiegogo.com), in that the business model is basically crowdfunding.
+I recently became an ambassador of sorts for my favorite online T-shirt company, [Cotton Bureau][cottonbureau]. The concept of the site is a lot like [Kickstarter][kickstarter] or [Indiegogo][indiegogo], in that the business model is basically crowdfunding.
 
-The following is from Cotton Bureau's [FAQ](https://cottonbureau.com/faq) section.
+The following is from Cotton Bureau's [FAQ][cottonbureau 2] section.
 
 'How the design gets on a t-shirt and how the designer makes money:'
 >Designers choose their own profit margin. We give each designer a baseline price per blank that covers our cost and profit; they choose how much they want to earn on top of that number. As long as your design sells at least 25, you get paid! Over 12 and we still print your design, but we keep all sale proceeds to cover our costs.
@@ -27,3 +27,8 @@ That's pretty much it. I have spent more money here than my wife would like, so 
 # Update
 
 The referral program has ended, in case you were wondering why the discount no longer worked.
+
+[cottonbureau]: http://www.cottonbureau.com
+[cottonbureau 2]: https://cottonbureau.com/faq
+[indiegogo]: http://www.indiegogo.com
+[kickstarter]: http://www.kickstarter.com

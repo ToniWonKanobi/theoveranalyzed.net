@@ -2,7 +2,7 @@
 @@ Date=2015-02-01 18:00  
 @@ Link=http://www.theverge.com/2015/2/1/7957585/how-space-x-plans-to-land-largest-rocket-in-the-world  
 @@ Description=What is Elon Musk up to?  
-@@ Tags=science, industry, space, Elon Music, SpaceX, business  
+@@ Tags=science, industry, space, Elon Musk, SpaceX, business  
 
 While it's true that Elon Musk is [pretty polarizing](http://techcrunch.com/2013/03/09/elon-musk-nyt-rebuttal-sxsw/), it is undeniable how largely everything he does turns out to be [pretty awesome](http://www.autoblog.com/2015/01/27/tesla-model-s-p85d-reaction-video-swearing/) as well.
 

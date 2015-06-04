@@ -2,7 +2,7 @@
 @@ Date=2015-04-18 07:57
 @@ Link=https://www.youtube.com/watch?v=ZcuzkHkTnUY  
 @@ Description=Here's the Lego version of the second Star Wars: The Force Awakens trailer.  
-@@ Tags=Lego, Star Wars, The Force Awakens, sci-fi  
+@@ Tags=Lego, Star Wars, Star Wars The Force Awakens, sci-fi  
 
 How could [this](@@SiteRoot@@/2015/4/16/chewie-were-home) get any better, you ask?
 

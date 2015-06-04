@@ -4,4 +4,6 @@
 @@ Description=Apple Watch: April 2015.  
 @@ Tags=Apple, Apple Watch  
 
-Its time to liquidate all the junk you no longer want/need. Because come April, you'll need [all the spare change you can muster.](http://daringfireball.net/2014/09/apple_watch)
+Its time to liquidate all the junk you no longer want/need. Because come April, you'll need [all the spare change you can muster.][daringfireball]
+
+[daringfireball]: http://daringfireball.net/2014/09/apple_watch

@@ -2,20 +2,20 @@
 @@ Date=2014-02-02 22:54  
 @@ Description=A short review of Flexibit's calendar app, Fantastical 2, as well comparisons to several popular competitors.  
 @@ Image=http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg  
-@@ Tags=iPhone, apps, iOS 7, design  
+@@ Tags=iPhone, apps, iOS 7, design, reviews, App Store, iOS  
   
 ### So Here We Are at App Slot Number Two
 
-I had written quite a lengthy post devoted to all the ins and outs of this app. But then my domain crashed and I lost everything. In light of these events, I will instead go for the 'less is more' approach. While there are so many aspects of the app I could touch on, I will focus on only the most important aspects in which Fantastical 2 sets itself apart from the stock Calendar app and [Sunrise](http://www.sunrise.am/), and [Calendars 5](http://readdle.com/products/calendars5/), and etc.
+I had written quite a lengthy post devoted to all the ins and outs of this app. But then my domain crashed and I lost everything. In light of these events, I will instead go for the 'less is more' approach. While there are so many aspects of the app I could touch on, I will focus on only the most important aspects in which Fantastical 2 sets itself apart from the stock Calendar app and [Sunrise][sunrise], and [Calendars 5][readdle], and etc.
 
 <figure>
-	<img src="http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg" alt="The Iconfactory's [redesign](http://design.iconfactory.com/fantastical-2-for-ios-7/) for Fantastical 2 is so precious." width="50%" />
+	<img src="http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg" alt="The Iconfactory's [redesign][iconfactory] for Fantastical 2 is so precious." width="50%" />
 	<figcaption>The Iconfactory's <a href="http://design.iconfactory.com/fantastical-2-for-ios-7/" />redesign</a> for Fantastical 2 is so nice.</figcaption>
 </figure>
 
 # Claim to Fame
 
-When Flexibits [introduced Fantastical in 2012](http://www.macworld.com/article/2017389/review-fantastical-for-iphone-shines-despite-ios-caused-limitations.html), it was a favorite among many nerds like me. Despite its reliance on the stock Calendar app for "Push" notifications (there were no real push notifications), its natural language parsers was (is) the [bee's knees](http://www.macstories.net/reviews/fantastical-for-iphone-review/). 
+When Flexibits [introduced Fantastical in 2012][macworld], it was a favorite among many nerds like me. Despite its reliance on the stock Calendar app for "Push" notifications (there were no real push notifications), its natural language parsers was (is) the [bee's knees][macstories]. 
 
 It's as simple as this:
 
@@ -61,7 +61,7 @@ A big feature update for Fantastical 2 was the integration of the stock Reminder
 
 At first glance, not a whole lot has changed since the iOS 6 version of Fantastical. The reddish top bar remains, albeit with a much brighter and iOS 7-like hue. There is also a new Light theme, which, again, is pretty iOS 7 feeling. I like it and have been using it for a bit. 
 
-I'm the first to admit that when it comes to a lot of the visual and otherwise UI/UX changes iOS 7 brought, the grass was definitely not greener. Don't get me wrong, I like a lot of the sweeping changes Jony Ive brought. The [skeumorphic touches](http://www.cultofmac.com/189707/steve-jobs-himself-is-responsible-for-calendar-and-game-centers-hideous-skeuomorphic-designs/) that Steve Jobs and Scott Forstall favorited were like vestigial organs, once they were necessary, but now they are obsolete. In 2007, I'm sure everyone really did need the Notes app to have all that chrome. But this isn't 2007, it's 2014. I just wish Ive would have spent a little bit more time in the [details](http://ios7fail.tumblr.com/) (more on that later). 
+I'm the first to admit that when it comes to a lot of the visual and otherwise UI/UX changes iOS 7 brought, the grass was definitely not greener. Don't get me wrong, I like a lot of the sweeping changes Jony Ive brought. The [skeumorphic touches][cultofmac] that Steve Jobs and Scott Forstall favorited were like vestigial organs, once they were necessary, but now they are obsolete. In 2007, I'm sure everyone really did need the Notes app to have all that chrome. But this isn't 2007, it's 2014. I just wish Ive would have spent a little bit more time in the [details][tumblr] (more on that later). 
 
 <figure>
 	<img src="http://d.pr/i/A7lR+" alt="Fantastical 1.1.6 (iOS 6)" width="50%" />
@@ -99,9 +99,9 @@ Sunrise [tries to be](Http://www.idownloadblog.com/2014/01/09/Sunrise-Calendar-I
 
 Overall, Sunrise is quite pretty. It has more white space, and doesn't feel as task-y as Fantastical. But, if you haven't guessed it already, I am the type of person who wants to get as much information as possible on the screen (within reason). Sunrise isn't that. 
 
-## [Calendars 5](http://readdle.com/products/calendars5/)
+## [Calendars 5][readdle]
 
-This is kind of an [oddball](http://www.macstories.net/Reviews/Calendars-5-Review/). It's biggest pro is the unique portrait Day view, which is like what Fantastical 2 does in Landscape, only in portrait. Its parser is closer to Fantastical than Sunrise, and its design is more spartan than Sunrise, and to some extent, Fantastical.
+This is kind of an [oddball][macstories 2]. It's biggest pro is the unique portrait Day view, which is like what Fantastical 2 does in Landscape, only in portrait. Its parser is closer to Fantastical than Sunrise, and its design is more spartan than Sunrise, and to some extent, Fantastical.
 
 <figure>
 	<img src="http://d.pr/i/18doD+" alt="Meh" width="50%" />
@@ -115,9 +115,9 @@ This is kind of an [oddball](http://www.macstories.net/Reviews/Calendars-5-Revie
 
 # Summary
 
-When I am at work, I often only have a few of minutes between patients. And when it does come time to add an event or make a reminder, my goto apps are Fantastical and [Drafts](http://agiletortoise.com/drafts/) (more on that later). I want to be able to add an event quickly, lock my phone, put it in my pocket, and go on with my day. Fantastical is the bomb for this. 
+When I am at work, I often only have a few of minutes between patients. And when it does come time to add an event or make a reminder, my goto apps are Fantastical and [Drafts][agiletortoise] (more on that later). I want to be able to add an event quickly, lock my phone, put it in my pocket, and go on with my day. Fantastical is the bomb for this. 
 
-Fantastical 2 is $1.99 on the [App Store](https://itunes.apple.com/us/app/fantastical-2-calendar-reminders/id718043190?at=1l3vx9s) and is a small price to pay for expediency. I have quite a few thoughts on the current state of paid apps on the App Store (more on that later), but suffice it to say that I am more than willing to spend money on apps that make my iOS experience better. Fantastical is one of those apps.
+Fantastical 2 is $1.99 on the [App Store][apple] and is a small price to pay for expediency. I have quite a few thoughts on the current state of paid apps on the App Store (more on that later), but suffice it to say that I am more than willing to spend money on apps that make my iOS experience better. Fantastical is one of those apps.
 
 ## The Pros
 
@@ -128,3 +128,14 @@ Fantastical 2 is $1.99 on the [App Store](https://itunes.apple.com/us/app/fantas
 ## The Cons
 
 * Minimal white (dark) space in the Ticker view
+
+[agiletortoise]: http://agiletortoise.com/drafts/
+[apple]: https://itunes.apple.com/us/app/fantastical-2-calendar-reminders/id718043190?at=1l3vx9s
+[cultofmac]: http://www.cultofmac.com/189707/steve-jobs-himself-is-responsible-for-calendar-and-game-centers-hideous-skeuomorphic-designs/
+[iconfactory]: http://design.iconfactory.com/fantastical-2-for-ios-7/
+[macstories]: http://www.macstories.net/reviews/fantastical-for-iphone-review/
+[macstories 2]: http://www.macstories.net/Reviews/Calendars-5-Review/
+[macworld]: http://www.macworld.com/article/2017389/review-fantastical-for-iphone-shines-despite-ios-caused-limitations.html
+[readdle]: http://readdle.com/products/calendars5/
+[sunrise]: http://www.sunrise.am/
+[tumblr]: http://ios7fail.tumblr.com/

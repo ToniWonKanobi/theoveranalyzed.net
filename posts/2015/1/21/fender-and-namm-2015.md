@@ -1,9 +1,9 @@
 @@ Title=Fender And NAMM 2015  
 @@ Date=2015-01-25 11:24 
 @@ Description=The annual National Association of Music Merchants (NAMM) isn't what it used to be.  
-@@ Tags=music, industry, business, culture, Fender    
+@@ Tags=music, industry, business, culture, Fender, Jim Dalyrmple, NAMM    
 
-[NAMM](http://www.namm.org) 2015 starts tomorrow, and Fender might be in for a bit of trouble with its dealers. Here's [Jim Dalrymple's](http://www.loopinsight.com/2015/01/20/fender-guitars-in-for-a-tough-week-at-namm/) take on the issue:
+[NAMM][namm] 2015 starts tomorrow, and Fender might be in for a bit of trouble with its dealers. Here's [Jim Dalrymple's][loopinsight] take on the issue:
 > Guitars are one of those items that you really need to touch and feel to appreciate. I don’t think ordering online really works for buying a high-end guitar like a Strat or Tele. Fender is doing some damage here.
 
 Jim has a point. The idea of buying a musical instrument was (is) an insanely personal one. And in that quest to find the right instrument, many questions are likely to spring up:
@@ -21,9 +21,9 @@ These days, I just don't think that matters any more. I have several theories as
 
 # Backstory
 
-I started playing electric bass around 2008. I was around 20 at the time, rather late-in-the-game for picking up a new instrument. Like Jim suggests, I rightly bought my first guitar, a Korean-made [Ibanez GSR200](http://www.guitarcenter.com/Ibanez-GSR200-4-String-Bass-100463976-i1150632.gc) from my local Guitar Center. Looking back, it wasn't anything to write home about, but it was my first bass, so whatever. 
+I started playing electric bass around 2008. I was around 20 at the time, rather late-in-the-game for picking up a new instrument. Like Jim suggests, I rightly bought my first guitar, a Korean-made [Ibanez GSR200][guitarcenter] from my local Guitar Center. Looking back, it wasn't anything to write home about, but it was my first bass, so whatever. 
 
-Over the course of the next seven years, [I have bought and sold countless basses, as well as all other manner of bass gear](http://www.talkbass.com/members/ac3320.118334/). And without exception, every bass gear purchase I have made since my first one has taken place online.
+Over the course of the next seven years, [I have bought and sold countless basses, as well as all other manner of bass gear][talkbass]. And without exception, every bass gear purchase I have made since my first one has taken place online.
 
 So anecdotally, my gear acquisition experiences have been very internet-driven. 
 
@@ -31,7 +31,7 @@ Three key factors have led to a perfect storm for the shift toward internet purc
 
 # The Internet Is to Blame
 
-The internet has made it so that almost every aspect of an instrument can be measured and well-documented, effectively eliminating much of the 'unknown' when it comes to buying an instrument online. Consider any number of the big-box retailers like Guitar Center, Musician's Friend, or Music123 (all the same company by the way). Or, to show my support for the 'little guys,' take [Elderly Instruments](http://elderly.com). They have a detailed history of all their instruments, as well as hi-res pictures, and the weight of each instrument. Barring some aberration in the wood, or some other unforeseen malady, there are very few problems to be had when the purchase is made under such transparency. 
+The internet has made it so that almost every aspect of an instrument can be measured and well-documented, effectively eliminating much of the 'unknown' when it comes to buying an instrument online. Consider any number of the big-box retailers like Guitar Center, Musician's Friend, or Music123 (all the same company by the way). Or, to show my support for the 'little guys,' take [Elderly Instruments][elderly]. They have a detailed history of all their instruments, as well as hi-res pictures, and the weight of each instrument. Barring some aberration in the wood, or some other unforeseen malady, there are very few problems to be had when the purchase is made under such transparency. 
 
 # Quality Control At FMIC Higher Now Than Ever Before
 
@@ -41,7 +41,7 @@ This has made it, in most circumstances, unnecessary to physically inspect the i
 
 Let us consider the big stores again. I dare you to walk into Guitar Center, make eye contact with one of the bearded, overweight, glasses-wearing Caucasian 'men' and not feel disgusted when they ask you if you need help. They aren't asking you for help. They are asking you if you wouldn't mind buying this piece of shat hanging on the wall. This jacked-up formerly nice piece of wood, but now relegated to booger and nasty-hand hades. Guitar Center is like Wal-Mart. 
 
-Small mom-and-pops suffer a different problem. They are in constant competition with the big stores, so their focus is typically on the higher end of the market. Walk into [Bass San Diego](http://basssandiego.com) and you might find a few Fenders, but most of it will be stuff by the big boutique brands like [Sadowsky](http://www.sadowsky.com), [Dingwall](http://www.dingwallguitars.com/), [Fodera](http://www.fodera.com/) and then some middle-tier brands like [G&L](http://www.glguitars.com/). Places like Bass San Diego are great. Problem is, I can't imagine them taking too kindly to me strolling in and playing a $10K Fodera Monarch, or Sadowsky Will Lee model, just for kicks. They can't afford to let nobody's like me touch that stuff, for fear that we might break something. If it's going to be like that, what is the point of even going?
+Small mom-and-pops suffer a different problem. They are in constant competition with the big stores, so their focus is typically on the higher end of the market. Walk into [Bass San Diego][basssandiego] and you might find a few Fenders, but most of it will be stuff by the big boutique brands like [Sadowsky][sadowsky], [Dingwall][dingwallguitars], [Fodera][fodera] and then some middle-tier brands like [G&L][glguitars]. Places like Bass San Diego are great. Problem is, I can't imagine them taking too kindly to me strolling in and playing a $10K Fodera Monarch, or Sadowsky Will Lee model, just for kicks. They can't afford to let nobody's like me touch that stuff, for fear that we might break something. If it's going to be like that, what is the point of even going?
 
 <hr class="small" />
 
@@ -51,6 +51,20 @@ And, the experienced musician reader might find several rebuttals to be made tow
 
 Is this to say that shopping on the internet is a more enjoyable experience than doing it in person? For the most part, no. In the 'ideal' music store situation, one where I can play and touch whatever I want (this doesn't exist), buying on the internet would be so far behind the in-store experience. The problem is that the in-store experience often sucks, as I have mentioned.
 
-I am going to NAMM 2015 this weekend. I have gone almost every year for the past 7 years, thanks to a contact known my father-in-law. It is always fun. [Victor Wooten](http://www.victorwooten.com/), [Lee Sklar](https://en.wikipedia.org/wiki/Leland_Sklar), [Marcus Miller](http://www.marcusmiller.com/), and lots of other bass heroes are there to promote gear and play quick gigs. Every year, I wonder more and more whether NAMM will be there next year. 
+I am going to NAMM 2015 this weekend. I have gone almost every year for the past 7 years, thanks to a contact known my father-in-law. It is always fun. [Victor Wooten][victorwooten], [Lee Sklar][wikipedia], [Marcus Miller][marcusmiller], and lots of other bass heroes are there to promote gear and play quick gigs. Every year, I wonder more and more whether NAMM will be there next year. 
 
 Fender will have to convince its dealers that they are still important. If they can't do that, it makes me think: what's the point of NAMM anymore?
+
+[basssandiego]: http://basssandiego.com
+[dingwallguitars]: http://www.dingwallguitars.com/
+[elderly]: http://elderly.com
+[fodera]: http://www.fodera.com/
+[glguitars]: http://www.glguitars.com/
+[guitarcenter]: http://www.guitarcenter.com/Ibanez-GSR200-4-String-Bass-100463976-i1150632.gc
+[loopinsight]: http://www.loopinsight.com/2015/01/20/fender-guitars-in-for-a-tough-week-at-namm/
+[marcusmiller]: http://www.marcusmiller.com/
+[namm]: http://www.namm.org
+[sadowsky]: http://www.sadowsky.com
+[talkbass]: http://www.talkbass.com/members/ac3320.118334/
+[victorwooten]: http://www.victorwooten.com/
+[wikipedia]: https://en.wikipedia.org/wiki/Leland_Sklar
