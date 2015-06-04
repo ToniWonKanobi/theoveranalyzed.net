@@ -20,6 +20,8 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 
 **[/tags][tags]** shows all tags[^t]
 
+**[/brokenlinks][br]** if you looked high and low in a search engine and still can't find a working link, the post might be here
+
 **[/live][live]** for occasional coverage of live events such as [WWDC][apple]
 
 [^pa]: Just add [`[[TOC]]`][github 5] where you want the table of contents to show up in the HTML. This is much like what Fletcher Penney's [MultiMarkdown Composer][multimarkdown] can do in Version 3 (currently in beta)
@@ -31,6 +33,7 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 [ap]: @@SiteRoot@@/tags/Apple
 [apple]: https://developer.apple.com/wwdc/
 [bigfootjs]: http://bigfootjs.com
+[br]: @@SiteRoot@@/brokenlinks
 [d]: http://d.pr/i/1iSqM+
 [dec]: @@SiteRoot@@/2014/12/24
 [expressjs]: http://expressjs.com/
