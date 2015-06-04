@@ -1,7 +1,7 @@
 @@ Title=This Week On Cotton Bureau  
 @@ Date=2015-06-03 15:24  
 @@ Description=At least a couple times per month, I'll try to remember to share more of my pics from Cotton Bureau.  
-@@ Tags=Cotton Bureau, t-shirts  
+@@ Tags=Cotton Bureau, t-shirts, This Week On Cotton Bureau  
 @@ Image=https://cottonbureau.com/img/products/5037_cPUA_2400.jpg  
 
 I'm starting [this][theoveranalyzed] back up (been a while). I haven't been buying as many t-shirts as I used to, but some of these Star Wars ones are hard to say no to. Image captions have links to their pages on Cotton Bureau. 
