@@ -65,7 +65,7 @@ a:hover {
 	-webkit-transition: all .45s ease-in-out;
 }
 
-body a:hover {
+entry a:hover {
 	color: #2e8eef;
 	border-top: 0;
 	border-left: 0;
