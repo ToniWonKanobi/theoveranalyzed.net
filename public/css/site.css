@@ -65,6 +65,15 @@ a:hover {
 	-webkit-transition: all .45s ease-in-out;
 }
 
+body a:hover {
+	color: #2e8eef;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+	border-bottom: 1px solid #2e8eef;
+	-webkit-transition: all .45s ease-in-out;
+}
+
 /* @end */
 
 
