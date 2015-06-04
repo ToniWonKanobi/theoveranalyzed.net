@@ -8,6 +8,7 @@ Despite my best efforts, several of my posts since TheOverAnalyzed was on Square
 
 Here are permalinks to those posts:
 
+* [Christians [Not] Acting Like Christ][chr]
 * [Why I Couldn't Handle The iPhone 6 Plus][theoveranalyzed]
 * ["The Last American Who Knew What The F*** He Was Doing"][theoveranalyzed 2]
 * [Zoos][theoveranalyzed 3]
@@ -17,6 +18,7 @@ Here are permalinks to those posts:
 
 [^tr]: Trust me, I tried. [A bunch][d]. 
 
+[chr]: @@SiteRoot@@/2015/2/19/christians-not-acting-like-christ
 [d]: http://d.pr/i/1fnxi+
 [theoveranalyzed]: http://www.theoveranalyzed.net/2014/10/27/why-i-couldnt-handle-the-iphone-6-plus
 [theoveranalyzed 2]: http://www.theoveranalyzed.net/2014/10/7/the-last-american-who-knew-what-the-f-he-was-doing
