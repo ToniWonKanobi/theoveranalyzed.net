@@ -9,7 +9,7 @@
 
 # Introduction
 
-I wrote a [piece](@@SiteRoot@@/2015/1/31/bigfoot-footntes-in-squarespace) a few weeks back regarding all the 'back-end' things one should do in order to implement Bigfoot style footnotes. I also recently [updated](@@SiteRoot@@/2015/1/31/bigfoot-footntes-in-squarespace#update) it to include proper number resetting in the `blog.list` view.  Briefly, here was that workflow:
+I wrote a [piece][theoveranalyzed] a few weeks back regarding all the 'back-end' things one should do in order to implement Bigfoot style footnotes. I also recently [updated][theoveranalyzed 2] it to include proper number resetting in the `blog.list` view.  Briefly, here was that workflow:
 
 1. Download the necessary files from bigfootjs.com (the JavaScript itself, and then the stylesheet)
 2. Upload them to Squarespace, using Squarespace's wonky file uploading system
@@ -25,9 +25,9 @@ I have had a few people contact me regarding implementing Bigfoot footnotes into
 
 Everything I write usually starts with an idea. This post I am writing *right now* started with an idea. This sounds like obvious advice, but it really isn't. You have to have a good idea, otherwise you're just writing to write. There's nothing wrong with that, but it certainly won't help to endear yourself to potential readers, unless you are incredibly witty. 
 
-Many bloggers too easily succumb to the rush that accompanies publishing content, even bloggers operating on a small scale like what I am doing. On the latest episode of [Inquisitive](http://www.relay.fm/inquisitive/26), Myke Hurley discussed this phenomenon with Merlin Mann. They talked about how content creators sometimes fall in love with the drudgery-like aspects of creating. That could mean an author might be tempted to crank out a bunch of content, just to satisfy that insatiable desire to fill in all the little text fields, simply because it is ingrained and a habit. The problem with going down that path is it can lead to lesser-quality content in the long run
+Many bloggers too easily succumb to the rush that accompanies publishing content, even bloggers operating on a small scale like what I am doing. On the latest episode of [Inquisitive][relay], Myke Hurley discussed this phenomenon with Merlin Mann. They talked about how content creators sometimes fall in love with the drudgery-like aspects of creating. That could mean an author might be tempted to crank out a bunch of content, just to satisfy that insatiable desire to fill in all the little text fields, simply because it is ingrained and a habit. The problem with going down that path is it can lead to lesser-quality content in the long run
 
-I can related to their topic wholeheartedly. It feels good to put something out there. It feels even better to know [someone is listening](@@SiteRoot@@/2015/2/6/one-year-later).
+I can related to their topic wholeheartedly. It feels good to put something out there. It feels even better to know [someone is listening][theoveranalyzed 3].
 
 Almost all CMS's have a workflow that's pretty easy to master. With Squarespace, when I want to write something new, I simply fill out the pre-populated fields, click a few buttons, and then it's done. "Oh, this post is going to be a link to external content," I might ask myself whilst creating a new post. "I better be sure to copy and paste the source URL into the proper field, and then check the external link box accordingly," I might add. Finally, "I should switch that little Twitter slider so that my content gets automatically pushed to social media." 
 
@@ -57,13 +57,13 @@ If you want to write using those apps, go for it. *It is by far the easiest way 
 
 ### Markdown
 
-[Markdown](http://daringfireball.net/projects/markdown/) was developed by John Gruber over ten years ago as an alternative to writing in pure HTML. Somewhat controversially, it has had many [non-standard](https://news.ycombinator.com/item?id=8264733) re-iterations. But pure, regular ol' Markdown is a great way to write with a more-or-less regular syntax, while having the power to easily convert that to HTML if need-be.[^nb]
+[Markdown][daringfireball] was developed by John Gruber over ten years ago as an alternative to writing in pure HTML. Somewhat controversially, it has had many [non-standard][ycombinator] re-iterations. But pure, regular ol' Markdown is a great way to write with a more-or-less regular syntax, while having the power to easily convert that to HTML if need-be.[^nb]
 
-Squarespace offers [Markdown Blocks](http://help.squarespace.com/guides/using-the-markdown-block), and if you so desire, you can set it so that your default text editor is Markdown instead of the default Rich Text. I used that workflow for a while myself.
+Squarespace offers [Markdown Blocks][squarespace], and if you so desire, you can set it so that your default text editor is Markdown instead of the default Rich Text. I used that workflow for a while myself.
 
 ### MultiMarkdown → HTML
 
-I don't think even Gruber himself could have predicted the future popularity of his text parsing engine. Over the years, many -- *many* -- non-standard iterations of Markdown have been devised (too many to even mention). [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) is about as close as one could get to retaining Gruber's 'standard' Markdown's simplicity, without getting all crazy like some of the other Markdown flavors have done. 
+I don't think even Gruber himself could have predicted the future popularity of his text parsing engine. Over the years, many -- *many* -- non-standard iterations of Markdown have been devised (too many to even mention). [MultiMarkdown][fletcherpenney] is about as close as one could get to retaining Gruber's 'standard' Markdown's simplicity, without getting all crazy like some of the other Markdown flavors have done. 
 
 The beauty of MultiMarkdown is that it is parsed to HTML just as easily as standard Markdown. Because of this, **I use MultiMarkdown almost anytime I write.** If you want to do the same, continue reading.
 
@@ -71,15 +71,15 @@ The beauty of MultiMarkdown is that it is parsed to HTML just as easily as stand
 
 ### Choices
 
-A few years ago, [third-party alternatives to the standard iOS app were becoming very popular](http://gizmodo.com/5970972/how-third-party-apps-are-taking-over-ios). When the App Store launched in 2008, developers clamored to create apps better than Apple's stock ones. First it was [email](http://sparrowmailapp.com/iphone.php), then later on it was [podcast apps](http://www.shiftyjelly.com/android/pocketcasts). Before that, though, it was notes apps. 
+A few years ago, [third-party alternatives to the standard iOS app were becoming very popular][gizmodo]. When the App Store launched in 2008, developers clamored to create apps better than Apple's stock ones. First it was [email][sparrowmailapp], then later on it was [podcast apps][shiftyjelly]. Before that, though, it was notes apps. 
 
 I bought several different apps, and both OS X, iPad, and iPhone versions if they were available:
 
-* [iA](https://ia.net/writer/ios)
-* [Drafts](http://agiletortoise.com/drafts/)
-* [Byword](http://bywordapp.com/)
-* [Simplenote](http://simplenote.com/)
-* [Vesper](http://vesperapp.co/)
+* [iA][ia]
+* [Drafts][agiletortoise]
+* [Byword][bywordapp]
+* [Simplenote][simplenote]
+* [Vesper][vesperapp]
 
 ### Backstory
 
@@ -91,13 +91,13 @@ I knew I needed a way to write without the constant worry of hoping Squarespace 
 
 ### Learning Markdown, MultiMarkdown
 
-Things really started heat up for me when I forced myself to use some Markdown syntax. The main motivator for using Markdown was that I wanted to start writing with footnotes. Before that, a lot of my writing included many [en-/em- dashes](https://en.wikipedia.org/wiki/Dash), and much of my writing was [parenthetical](http://www.steves-digicams.com/knowledge-center/how-tos/filmmaking-tips/screenwriting-how-to-write-parenthetical.html). There's nothing completely wrong about that, it just made everything I wrote even more long-winded than it already was.[^lw] I kept using Byword during this transition, typing in Markdown in that app, and then simply copy and pasting that into a Markdown Block in Squarespace. 
+Things really started heat up for me when I forced myself to use some Markdown syntax. The main motivator for using Markdown was that I wanted to start writing with footnotes. Before that, a lot of my writing included many [en-/em- dashes][wikipedia], and much of my writing was [parenthetical][steves-digicams]. There's nothing completely wrong about that, it just made everything I wrote even more long-winded than it already was.[^lw] I kept using Byword during this transition, typing in Markdown in that app, and then simply copy and pasting that into a Markdown Block in Squarespace. 
 
 When I was feeling brave enough, I looked up how to implement footnotes using Markdown. I had a hard time finding any solid information as to why it wasn't working.[^to] I was so deflated. Why did footnotes show up in Byword's HTML Preview, but not Squarespace?
 
-I thought the problem might be Byword's. And around that time, Gruber linked to an encouraging [piece](http://blog.desk.pm/df/) from [Desk](http://blog.desk.pm/) regarding Daring Fireball [sponsorships](http://daringfireball.net/feeds/sponsors/2014/11/desk_a_desktop_blogging_app_yo). Desk is an app a lot like Byword, but with more features supposedly. I thought I would see if I could do with Desk what I had been trying to do with Byword: write footnotes in Markdown. Alas, no. It didn't work with Desk either.
+I thought the problem might be Byword's. And around that time, Gruber linked to an encouraging [piece][desk] from [Desk][desk 2] regarding Daring Fireball [sponsorships][daringfireball 2]. Desk is an app a lot like Byword, but with more features supposedly. I thought I would see if I could do with Desk what I had been trying to do with Byword: write footnotes in Markdown. Alas, no. It didn't work with Desk either.
 
-I looked up the [Byword syntax guide](http://bywordapp.com/markdown/guide.html). And then:
+I looked up the [Byword syntax guide][bywordapp 2]. And then:
 
 **Boom.**
 
@@ -132,21 +132,50 @@ Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview
 	`I like turtles.`
 2. And here is the text I want to be the content of a *footnote*, affixed at the end of the sentence in this case:  
 	`Turtles are super cool.`
-3. [Typing with MultiMarkdown Syntax in Byword](http://d.pr/v/18FFK)
-4. [Using Byword to Convert The Text to HTML](http://d.pr/v/13oR1) 
-5. [Pasting the Previously Copied HTML into a Code Block in Squarespace](http://d.pr/v/SSVK) 
+3. [Typing with MultiMarkdown Syntax in Byword][d]
+4. [Using Byword to Convert The Text to HTML][d 2] 
+5. [Pasting the Previously Copied HTML into a Code Block in Squarespace][d 3] 
 
 # Conclusion
 
-As you can see, my workflow is not that complicated. Byword makes things incredibly easier than typing in straight HTML. Imagine how much time John Siracusa puts into his [OS X reviews](http://arstechnica.com/author/john-siracusa/)?[^sir]
+As you can see, my workflow is not that complicated. Byword makes things incredibly easier than typing in straight HTML. Imagine how much time John Siracusa puts into his [OS X reviews][arstechnica]?[^sir]
 
 # Update
 
-Since writing this post, I have switched from Byword to MultiMarkdown Composer for my text editor.  I also no longer use `Code blocks` for my content -- I am using `Markdown blocks` instead. I just paste the raw HTML parsed from MultiMarkdown Composer into a `Markdown block`, just like I was doing previously with `Code blocks`. Because editing content in `Code blocks` required a desktop browser, I was stuck waiting until I could get to my MacBook before fixing a typo I noticed after publishing. Using the `Markdown blocks` allows me to edit posts on the go from the Squarespace iOS [Blog](https://itunes.apple.com/us/app/squarespace-blog/id715084234?ls=1&mt=8&at=1l3vx9s) app. See my [post](@@SiteRoot@@/2015/3/4/byword-multimarkdown-composer-and-more) for details. 
+Since writing this post, I have switched from Byword to MultiMarkdown Composer for my text editor.  I also no longer use `Code blocks` for my content -- I am using `Markdown blocks` instead. I just paste the raw HTML parsed from MultiMarkdown Composer into a `Markdown block`, just like I was doing previously with `Code blocks`. Because editing content in `Code blocks` required a desktop browser, I was stuck waiting until I could get to my MacBook before fixing a typo I noticed after publishing. Using the `Markdown blocks` allows me to edit posts on the go from the Squarespace iOS [Blog][apple] app. See my [post][theoveranalyzed 4] for details. 
 
 [^ci]: These steps are arguably the hardest part of implementing Bigfoot footnotes. Most early bloggers are like myself -- they don't know *any* HTML. They don't know any JavaScript, either.
 [^nb]: That is, in actuality, the entire purpose of Markdown: easy parsing to HTML.
 [^lw]: I really do try to keep things brief.  
 [^to]:Turns Out™ that standard-Markdown, what Squarespace supports, does *not* support footnotes natively. Dumb.
-[^sir]: Accidental Tech Podcast [Episode 87](http://atp.fm/episodes/87), in which Siracusa describes his workflow, consisting of almost 100% writing in HTML (wow)
+[^sir]: Accidental Tech Podcast [Episode 87][atp], in which Siracusa describes his workflow, consisting of almost 100% writing in HTML (wow)
 
+[agiletortoise]: http://agiletortoise.com/drafts/
+[apple]: https://itunes.apple.com/us/app/squarespace-blog/id715084234?ls=1&mt=8&at=1l3vx9s
+[arstechnica]: http://arstechnica.com/author/john-siracusa/
+[atp]: http://atp.fm/episodes/87
+[bywordapp]: http://bywordapp.com/
+[bywordapp 2]: http://bywordapp.com/markdown/guide.html
+[d]: http://d.pr/v/18FFK
+[d 2]: http://d.pr/v/13oR1
+[d 3]: http://d.pr/v/SSVK
+[daringfireball]: http://daringfireball.net/projects/markdown/
+[daringfireball 2]: http://daringfireball.net/feeds/sponsors/2014/11/desk_a_desktop_blogging_app_yo
+[desk]: http://blog.desk.pm/df/
+[desk 2]: http://blog.desk.pm/
+[fletcherpenney]: http://fletcherpenney.net/multimarkdown/
+[gizmodo]: http://gizmodo.com/5970972/how-third-party-apps-are-taking-over-ios
+[ia]: https://ia.net/writer/ios
+[relay]: http://www.relay.fm/inquisitive/26
+[shiftyjelly]: http://www.shiftyjelly.com/android/pocketcasts
+[simplenote]: http://simplenote.com/
+[sparrowmailapp]: http://sparrowmailapp.com/iphone.php
+[squarespace]: http://help.squarespace.com/guides/using-the-markdown-block
+[steves-digicams]: http://www.steves-digicams.com/knowledge-center/how-tos/filmmaking-tips/screenwriting-how-to-write-parenthetical.html
+[theoveranalyzed]: http://www.theoveranalyzed.net/2015/1/31/bigfoot-footntes-in-squarespace
+[theoveranalyzed 2]: http://www.theoveranalyzed.net/2015/1/31/bigfoot-footntes-in-squarespace#update
+[theoveranalyzed 3]: http://www.theoveranalyzed.net/2015/2/6/one-year-later
+[theoveranalyzed 4]: http://www.theoveranalyzed.net/2015/3/4/byword-multimarkdown-composer-and-more
+[vesperapp]: http://vesperapp.co/
+[wikipedia]: https://en.wikipedia.org/wiki/Dash
+[ycombinator]: https://news.ycombinator.com/item?id=8264733

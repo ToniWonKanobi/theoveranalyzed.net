@@ -171,7 +171,7 @@ This is just crazy. It's like a dream come true for net neutrality advocates.
 [wikipedia 10]: https://en.wikipedia.org/wiki/Jason_Lee_Scott#Power_Rangers_Zeo
 [wikipedia 11]: https://en.wikipedia.org/wiki/Capitalism#Criticism
 [wikipedia 2]: https://en.wikipedia.org/wiki/Capitalism
-[wikipedia 3]: https://en.wikipedia.org/wiki/Republican_Party_(United_States
+[wikipedia 3]: https://en.wikipedia.org/wiki/Republican_Party_(United_States)
 [wikipedia 4]: https://en.wikipedia.org/wiki/Net_neutrality#Definition_and_related_principles
 [wikipedia 5]: https://en.wikipedia.org/wiki/Net_neutrality#Dumb_pipe
 [wikipedia 6]: https://en.wikipedia.org/wiki/Net_neutrality#Open_Internet

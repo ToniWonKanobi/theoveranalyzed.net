@@ -13,5 +13,11 @@ This clip just about sums up everything that is great about Stewart. His crushin
 
 He will be missed.[^m]
 
-[^bb]: [Breaking Bad](http://amctv.com/shows/breaking-bad), [Star Wars Rebels](http://disneyxd.disney.com/star-wars-rebels), and guilty pleasure musts like [Game of Thrones](http://www.hbo.com/game-of-thrones) and [Downton Abbey](http://www.itv.com/downtonabbey) *\--* that sums up my list of appreciated TV medias quite well.
-[^m]: And on the bright side, this might open up even more of an audience for [John Oliver](http://www.hbo.com/last-week-tonight-with-john-oliver), who is just plain awesome.
+[^bb]: [Breaking Bad][amctv], [Star Wars Rebels][disney], and guilty pleasure musts like [Game of Thrones][hbo] and [Downton Abbey][itv] *\--* that sums up my list of appreciated TV medias quite well.
+[^m]: And on the bright side, this might open up even more of an audience for [John Oliver][hbo 2], who is just plain awesome.
+
+[amctv]: http://amctv.com/shows/breaking-bad
+[disney]: http://disneyxd.disney.com/star-wars-rebels
+[hbo]: http://www.hbo.com/game-of-thrones
+[hbo 2]: http://www.hbo.com/last-week-tonight-with-john-oliver
+[itv]: http://www.itv.com/downtonabbey

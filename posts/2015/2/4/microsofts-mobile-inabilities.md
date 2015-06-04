@@ -2,7 +2,7 @@
 @@ Date=2015-02-04 14:30  
 @@ Link=http://om.co/2015/02/04/microsofts-mobile-inabilities/  
 @@ Description=Microsoft has a distinctly different philosophy when it comes to consumer products.  
-@@ Tags=Apple, business, Microsoft, industry  
+@@ Tags=Apple, business, Microsoft, industry, Jim Dalrymple, Om Malik  
 
 Jim Dalrymple of The Loop, reporting on a piece by [Om Malik][om]:
 >Microsoft has a long history of not getting product trends. They didn’t get the iPod, tablets, iPhone and a host of other products that it could have made a lot of money on.

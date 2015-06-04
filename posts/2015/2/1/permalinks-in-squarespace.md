@@ -3,7 +3,7 @@
 @@ Description=I figured out how to enable permalinks in posts (with the help of someone smarter than me).  
 @@ Tags=Squarespace, TheOverAnalyzed, blogging, permalinks  
 
-*Squarespace is a great CMS. "[The Apple of content management services](http://stream-seo.com/squarespace-review/)," it has been said. And I would generally agree. With just a minimal amount of effort from the user, it would be *very* difficult to make a website with Squarespace that wasn't halfway decent. That said, there are some caveats to be told. Just like my experiences with everyone's favorite fruit company, whenever I have strayed just a bit from the Squarespace Beaten Path™, things got hairy. One of those areas was [footnotes](http://www.theoveranalyzed.net/posts/2015/1/bigfoot-footntes-squarespace). I figured that out with the help of the internet. Next on the list: permalinks.*
+*Squarespace is a great CMS. "[The Apple of content management services][stream-seo]," it has been said. And I would generally agree. With just a minimal amount of effort from the user, it would be *very* difficult to make a website with Squarespace that wasn't halfway decent. That said, there are some caveats to be told. Just like my experiences with everyone's favorite fruit company, whenever I have strayed just a bit from the Squarespace Beaten Path™, things got hairy. One of those areas was [footnotes][theoveranalyzed]. I figured that out with the help of the internet. Next on the list: permalinks.*
 
 <h2>Contents</h2>
 
@@ -11,7 +11,7 @@
 
 # Backstory
 
-If all I wrote on this site consisted of completely original thoughts and content, Squarespace would be doing pretty right by me. However, I am a big [Daring Fireball](daringfireball.net) fan. One of my favorite parts of following Daring Fireball is the "[Linked List](http://daringfireball.net/archive/)" posts. While I enjoy John Gruber's longform content, his Linked List entires are much more frequent, and thus offer up a greater understanding of who John Gruber is as a person and a writer. That's interesting stuff. And so naturally, I wanted to do the same thing on my site. 
+If all I wrote on this site consisted of completely original thoughts and content, Squarespace would be doing pretty right by me. However, I am a big Daring Fireball fan. One of my favorite parts of following Daring Fireball is the "[Linked List][daringfireball]" posts. While I enjoy John Gruber's longform content, his Linked List entires are much more frequent, and thus offer up a greater understanding of who John Gruber is as a person and a writer. That's interesting stuff. And so naturally, I wanted to do the same thing on my site. 
 
 # What's Right Is Right
 
@@ -33,9 +33,9 @@ This 'system' of linking-through can be problematic in some RSS feed readers. So
 
 Up until a few days ago, I had been using my own laborious system of permalinking.[^pl] Turns out, I wasn't alone.[^wa] I wanted something better than this. 
 
-In my hunt for how best to add footnotes to Squarespace posts, I also found a [real gem](http://smithjw.me/blog/permalinking-with-squarespace) from [James Smith](https://twitter.com/smithjw) regarding permalinks.
+In my hunt for how best to add footnotes to Squarespace posts, I also found a [real gem][real] from [James Smith][twitter] regarding permalinks.
 
-He suggested pasting a line of HTML code in the [Post Blog Item Code Injection](http://answers.squarespace.com/search/?q=Post+Blog+Code+Injection&Submit=ô&t=question) section.
+He suggested pasting a line of HTML code in the [Post Blog Item Code Injection][squarespace] section.
 
 Here is the line of HTML code he suggested:
 
@@ -67,11 +67,11 @@ By placing the permalink in the Post Blog Item Code Injection section, I no long
 
 # Update
 
-Since initially writing this post, I have since turned on the [Developer Platform](http://developers.squarespace.com) for Squarespace. This has opened up both a bunch of possibilities, and a bunch of frustrations.[^bf]
+Since initially writing this post, I have since turned on the [Developer Platform][squarespace 2] for Squarespace. This has opened up both a bunch of possibilities, and a bunch of frustrations.[^bf]
 
-As mentioned previously, prior to the Developer Platform, there was no way for me to insert a Permalink to my post in the title of a Linked List item. So what I did was implement what James Smith [suggested](http://smithjw.me/blog/permalinking-with-squarespace). 
+As mentioned previously, prior to the Developer Platform, there was no way for me to insert a Permalink to my post in the title of a Linked List item. So what I did was implement what James Smith suggested. 
 
-Once I turned on the Developer Platform, I knew I wanted to implement what Alex Durner [did](http://alexduner.com/blog/squarespace-permalinks), which was much more up my alley.
+Once I turned on the Developer Platform, I knew I wanted to implement what Alex Durner [did][alexduner], which was much more up my alley.
 
 He noticed the `{.passthrough?}` in the `blog.item` section found here: 
 
@@ -98,11 +98,27 @@ Now, whenever I post a "Linked List" item, as long as the "External link" checkb
 </figure>
 
 [^cc]: And just good 'internet form'
-[^hc]: Many of the sites I follow use a similar Linked List format as Daring Fireball. [Six Colors](sixcolors.com), [Marco.org](marco.org), [The Sweet Setup](thesweetsetup.com), [The Loop](http://loopinsight.com), [512 Pixels](512pixels.net), and more use this style of posting. And just like with Daring Fireball, sometimes I enjoy these authors' commentary on the links more than the actual content they are linking to.
+[^hc]: Many of the sites I follow use a similar Linked List format as Daring Fireball. [Six Colors][sixcolors], [Marco.org][marco], [The Sweet Setup][thesweetsetup], [The Loop][loopinsight], [512 Pixels][512pixels], and more use this style of posting. And just like with Daring Fireball, sometimes I enjoy these authors' commentary on the links more than the actual content they are linking to.
 [^rss]: Or save to Instapaper
 [^af]: I trust the authors I follow more than the average website or Twitter account promoting content. And I have found many blogs I enjoy reading whose website was unknown to me until it was linked-to by Gruber or someone else. If he didn't include his commentary I may have never even followed the original link (again, out of laziness).
-[^pl]: I was copying and pasting the link string of the post and placing it in the appropirate location after "http://www.theoveranalyzed.net/" I then took that link and placed it at the bottom of every Linked-List style post I had made as "[Permalink]." It worked well enough, but what a [PITA](http://www.urbandictionary.com/define.php?term=pita&defid=549368). 
-[^wa]: Come to find out, MacSparky was [doing something similar](http://macsparky.com/blog/permalinkingss), though he made use of a [TextExpander](http://smilesoftware.com/TextExpander/index.html) snippet.
+[^pl]: I was copying and pasting the link string of the post and placing it in the appropriate location after "http://www.theoveranalyzed.net/" I then took that link and placed it at the bottom of every Linked-List style post I had made as "[Permalink]." It worked well enough, but what a [PITA][urbandictionary]. 
+[^wa]: Come to find out, MacSparky was [doing something similar][macsparky], though he made use of a [TextExpander][smilesoftware] snippet.
 [^bf]: Well, duh. 
 [^pth]: I *will* take some credit for this bit of code, because Alex assumed that anyone looking to implement this code would know where to find it. Turns out, I wasn't that smart by default, and had to look for it. 
 
+[512pixels]: http://www.512pixels.net
+[alexduner]: http://alexduner.com/blog/squarespace-permalinks
+[daringfireball]: http://daringfireball.net/2004/06/linked_list
+[loopinsight]: http://loopinsight.com
+[macsparky]: http://macsparky.com/blog/permalinkingss
+[marco]: http://www.marco.org
+[real]: http:///http://smithjw.me/blog/permalinking-with-squarespace
+[sixcolors]: http://www.sixcolors.com
+[smilesoftware]: http://smilesoftware.com/TextExpander/index.html
+[squarespace]: http://help.squarespace.com/guides/using-code-injection
+[squarespace 2]: http://developers.squarespace.com
+[stream-seo]: http://stream-seo.com/squarespace-review/
+[theoveranalyzed]: http://www.theoveranalyzed.net/2015/1/31/bigfoot-footnotes-in-squarespace
+[thesweetsetup]: http://www.thesweetsetup.com
+[twitter]: https://twitter.com/smithjw
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=pita&defid=549368

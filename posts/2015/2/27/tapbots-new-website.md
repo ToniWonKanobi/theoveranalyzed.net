@@ -5,11 +5,11 @@
 
 It wasn't long after I got my iPhone 5 that I started feeling like Facebook wasn't for me anymore. 
 
-Like everyone else, I [checked out Twitter,](https://twitter.com/ToniWonKanobi/statuses/242981123301453827)[^tw] and also [App.net](https://alpha.app.net/toniwonkanobi/post/1130894). 
+Like everyone else, I [checked out Twitter,][twitter][^tw] and also [App.net][app]. 
 
 Three years later, and only one of those two services is still alive.[^sa] It's crazy how much things can change in a few years. 
 
-Back in 2012, [Twitter had only recently started to crack down on third-party clients](http://arstechnica.com/information-technology/2011/03/twitter-tells-third-party-devs-to-stop-making-twitter-client-apps/) using their APIs. And there were plenty of [third-party clients](https://quixey.studio.quixey.com/search?q=store%20twitter%20client) on the App Store. The best examples of which were [Tweetbot](https://web.archive.org/web/20120906232823/http://tapbots.com/software/tweetbot/) and [Twitterrific](https://web.archive.org/web/20121101170526/http://twitterrific.com/iphone/).
+Back in 2012, [Twitter had only recently started to crack down on third-party clients][arstechnica] using their APIs. And there were plenty of [third-party clients][studio] on the App Store. The best examples of which were [Tweetbot][archive] and [Twitterrific][archive 2].
 
 Ecstatic with the concept of apps (this was my first iPhone), I downloaded both and tried both. Unlike a lot of iPhone owners on Twitter, I was never forced to use the official Twitter client, on iOS *or* Mac OS X.[^os] 
 
@@ -22,16 +22,30 @@ While Tweetbot 2's visual esthetic was, in 2012, much heavier and less 'flat'[^f
 
 <hr class="small">
 
-Yesterday, Tapbots launched their newly-redesigned website. They had [this](http://tapbots.com/news/15-2-26-new-website-new-focus/) to say about the change:
+Yesterday, Tapbots launched their newly-redesigned website. They had [this][tapbots] to say about the change:
 >Welcome to the new tapbots.com! We hope this long overdue refresh is a better place to stay up to date with our apps. Our goal this year is to not only ship updates on a more regular basis, but also provide more insight into what we are currently working on. So lets get on to the important bits of information.
 
-[Mark Jardine](www.twitter.com/markjardine), designer for Tapbots since its inception, did a great job with the site's new look.
+[Mark Jardine][twitter 2], designer for Tapbots since its inception, did a great job with the site's new look.
 
-You can check out their new site, as well as all of their wonderful apps [here](http://tapbots.com).
+You can check out their new site, as well as all of their wonderful apps [here][tapbots 2].
 
-[From [Macstories](http://www.macstories.net/linked/tapbots-relaunches-website-working-on-tweetbot-4-0-for-ios/)]
+[From [Macstories][macstories]]
 
-[^tw]: Here's my [first tweet ever](https://twitter.com/ToniWonKanobi/statuses/113085950388748289), auto-posted from -- get this -- iTunes. 
+[^tw]: Here's my [first tweet ever][twitter 3], auto-posted from -- get this -- iTunes. 
 [^sa]: Notice how I didn't say "thrive?" It will be interesting to see how things look for Twitter three years from *today*. 
-[^os]: [Boom](https://web.archive.org/web/20121207191103/http://tapbots.com/software/tweetbot/mac/).
-[^flt]: Flat was so in back then. I guess it still is, but it's more 'flat, and non-flat when needed,' which I like much better. Tapbots really has taken this new 'flat' and ran with it. While Tweetbot and [Calcbot](http://tapbots.com/calcbot/) are still technically quite flat compared to older versions pre-iOS 7, they both have tons of delicious animations and textures that enhance the app experience tremendously. Sometimes plain ol' flat just doesn't work that well.
+[^os]: [Boom][archive 3].
+[^flt]: Flat was so in back then. I guess it still is, but it's more 'flat, and non-flat when needed,' which I like much better. Tapbots really has taken this new 'flat' and ran with it. While Tweetbot and [Calcbot][tapbots 3] are still technically quite flat compared to older versions pre-iOS 7, they both have tons of delicious animations and textures that enhance the app experience tremendously. Sometimes plain ol' flat just doesn't work that well.
+
+[app]: https://alpha.app.net/toniwonkanobi/post/1130894
+[archive]: https://web.archive.org/web/20120906232823/http://tapbots.com/software/tweetbot/
+[archive 2]: https://web.archive.org/web/20121101170526/http://twitterrific.com/iphone/
+[archive 3]: https://web.archive.org/web/20121207191103/http://tapbots.com/software/tweetbot/mac/
+[arstechnica]: http://arstechnica.com/information-technology/2011/03/twitter-tells-third-party-devs-to-stop-making-twitter-client-apps/
+[macstories]: http://www.macstories.net/linked/tapbots-relaunches-website-working-on-tweetbot-4-0-for-ios/
+[studio]: https://quixey.studio.quixey.com/search?q=store%20twitter%20client
+[tapbots]: http://tapbots.com/news/15-2-26-new-website-new-focus/
+[tapbots 2]: http://www.tapbots.com
+[tapbots 3]: http://tapbots.com/calcbot/
+[twitter]: https://twitter.com/ToniWonKanobi/statuses/242981123301453827
+[twitter 2]: http://www.twitter.com/markjardine
+[twitter 3]: https://twitter.com/ToniWonKanobi/statuses/113085950388748289

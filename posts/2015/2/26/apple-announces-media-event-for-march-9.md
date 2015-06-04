@@ -2,7 +2,7 @@
 @@ Date=2015-02-26 09:34  
 @@ Link=http://www.apple.com/live/  
 @@ Description=Here comes more info on Apple Watch.  
-@@ Tags=Apple announcements, Apple  
+@@ Tags=Apple announcements, Apple, Jim Dalrymple  
 
 Is it wrong to want to be sick on this day?
 

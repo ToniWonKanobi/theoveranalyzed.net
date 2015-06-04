@@ -4,4 +4,6 @@
 @@ Description=Honey. Easy access. Nice.  
 @@ Tags=food, funny, animals, Kickstarter    
 
-[Vaporware](https://en.wikipedia.org/wiki/Vaporware), or the best Kickstarter EVER?
+[Vaporware][wikipedia], or the best Kickstarter EVER?
+
+[wikipedia]: https://en.wikipedia.org/wiki/Vaporware
