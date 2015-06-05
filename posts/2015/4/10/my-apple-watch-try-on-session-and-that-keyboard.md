@@ -3,7 +3,11 @@
 @@ Description=I tried on some Apple Watches today, and I also checked out the new MacBook.  
 @@ Tags=Apple, Apple Watch, MacBook  
 
-By now, on Friday night of the 'embargo week,' you have no doubt read and watched *plenty* in regards to Apple Watch and the new MacBook. I was one of the silly folk who stayed up <s>last night</s> this morning to preorder both. I was also one of the souls who scheduled a try-on appointment this evening.
+*By now, on Friday night of the 'embargo week,' you have no doubt read and watched *plenty* in regards to Apple Watch and the new MacBook. I was one of the silly folk who stayed up <s>last night</s> this morning to preorder both. I was also one of the souls who scheduled a try-on appointment this evening.*
+
+<h2>Contents</h2>
+
+[[TOC]]
 
 # Ordering The Things
 

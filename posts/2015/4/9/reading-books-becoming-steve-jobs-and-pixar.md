@@ -3,7 +3,7 @@
 @@ Description=I got through about a third of the Steve Jobs book. This is about that, as well as Steve Jobs in general.  
 @@ Tags=Steve Jobs, Apple, Pixar  
 
-[Devour](http://devour.com/video/best-of-pixar/) recently featured a [supercut](http://www.urbandictionary.com/define.php?term=supercut&defid=6174084) of [Pixar](https://en.wikipedia.org/wiki/Pixar) films called "[The Best of Pixar](https://www.youtube.com/embed/QAF8QAw6R58)":
+[Devour][devour] recently featured a [supercut][urbandictionary] of [Pixar][wikipedia] films called "[The Best of Pixar][youtube]":
 
 <iframe src="https://www.youtube.com/embed/QAF8QAw6R58" frameborder="0" allowfullscreen></iframe>
  
@@ -29,11 +29,11 @@ I have even gone so far as to specifically ask for books as gifts, in the hopes 
 
 ***
 
-Thankfully, the new biography "[Becoming Steve Jobs](http://www.amazon.com/dp/0385347405/?tag=theov0c-20)" by Brent Schlender and Rick Tetzeli might just be the motivation I need.
+Thankfully, the new biography "[Becoming Steve Jobs][amazon]" by Brent Schlender and Rick Tetzeli might just be the motivation I need.
 
-When I need to pass the time, my go-to apps are what they have been for years: Instagram, [Tweetbot](https://itunes.apple.com/us/app/tweetbot-3-for-twitter-iphone/id722294701?mt=8&at=1l3vx9s), and [Reeder](https://itunes.apple.com/us/app/reeder-2/id697846300?mt=8&at=1l3vx9s). The former for absolute time-wasting, and the latter two for browsing my feeds for things to read. I save articles I want to read to [Instapaper](https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&at=1l3vx9s), so that I can read them later, with stripped-down and clean formatting.[^th]
+When I need to pass the time, my go-to apps are what they have been for years: Instagram, [Tweetbot][apple], and [Reeder][apple 2]. The former for absolute time-wasting, and the latter two for browsing my feeds for things to read. I save articles I want to read to [Instapaper][apple 3], so that I can read them later, with stripped-down and clean formatting.[^th]
 
-Historically, when I've gone through my whole [Instapaper](https://www.instapaper.com/p/toniwonkanobi) queue, I might launch an indie game and truly veg-out. Or if I have an article saved to Instapaper that I want to write about, I might do that instead.
+Historically, when I've gone through my whole [Instapaper][instapaper] queue, I might launch an indie game and truly veg-out. Or if I have an article saved to Instapaper that I want to write about, I might do that instead.
 
 <figure>
 	<img src="http://d.pr/i/1hDH9+" alt="games" width="50%" />
@@ -42,15 +42,15 @@ Historically, when I've gone through my whole [Instapaper](https://www.instapape
 
 # Becoming Steve Jobs
 
-Not until Becoming Steve Jobs have I considered reading a book in my downtime. Despite my initial protestations and apprehensions regarding reading such a 'big' book, I find it quite relaxing. This is especially true because reading a book doesn't carry with it the emotional baggage of a [completionist](http://www.wordnik.com/words/completionist).
+Not until Becoming Steve Jobs have I considered reading a book in my downtime. Despite my initial protestations and apprehensions regarding reading such a 'big' book, I find it quite relaxing. This is especially true because reading a book doesn't carry with it the emotional baggage of a [completionist][wordnik].
 
 Also, the fact that I am holding something *physical* and tangible is not lost on me. If I am holding a book, I am not holding my iPhone. In fact, it's probably in my pocket. That makes it more bothersome, and therefore, less tempting to press the home button and look for another app silo to tap into. This physical separation from my electronic device allows me to read away, with little distraction, just like people of old, before all the screens. Becoming Steve Jobs might just be the perfect way to re-introduce me to reading: less stress, more relaxation.
 
 <hr class="small" />
 
-I'm almost halfway through Becoming Steve Jobs and I am enjoying it so far. This is in stark contrast to the opinions of long-time Apple devotees Jason Snell and John Siracusa. On the latest episode of [Upgrade](http://overca.st/DeCkrTEVE?t=953), both admitted they weren't entirely pleased with the authors' presentation of Steve Jobs or Apple on the whole. 
+I'm almost halfway through Becoming Steve Jobs and I am enjoying it so far. This is in stark contrast to the opinions of long-time Apple devotees Jason Snell and John Siracusa. On the latest episode of [Upgrade][overca], both admitted they weren't entirely pleased with the authors' presentation of Steve Jobs or Apple on the whole. 
 
-Firstly, they felt the authors come off as shills, and that having Apple [seemingly endorse](http://www.macworld.com/article/2900540/apple-gives-stamp-of-approval-to-new-steve-jobs-biography.html) the book can't possibly bode well for the book's supposed veracity and non-bias.
+Firstly, they felt the authors come off as shills, and that having Apple [seemingly endorse][macworld] the book can't possibly bode well for the book's supposed veracity and non-bias.
 
 Also, in their attempt to paint Jobs as not *just* an a**hole, the authors seem to make up their own version of events. And worse yet, say Snell and Siracusa, the authors fail to support their claims with quotes from people who were 'there.' After all, the recollections those people who lived through the events might illuminate the somewhat cloudy history of events.[^the] Why not put to rest the cloudiness and set the record straight? Snell and Siracusa make good points, no doubt about that. 
 
@@ -67,14 +67,33 @@ According to Schlender, Lasseter was worried, to say the least:[^be]
 > 
 >“ ‘What do you mean?’ I asked him,” continues Lasseter. “And Mickey said, ‘Computer hardware and software companies, they go through layoffs and it’s business. It’s the ups and downs of the business. But when people think of Pixar, it’s not our computers or our software. They think of those little short films you’ve made. That’s the identity of Pixar to the rest of the world. So if Pixar were to stop making those films and lay everybody off in Animation, that would signal to the entire world that Pixar is done. That,’ he said, ‘is why they’re not gonna close Animation.’ ”
 
-Even then, before the [Tin Toy (1989)](https://en.wikipedia.org/wiki/Tin_Toy) and the [Oscar](http://www.youtube.com/watch?v=lph0JuWv_ko), Pixar *was* animation. Today, nothing's changed. Pixar is still about the stories through brilliant animation. If you haven't watched anything from Pixar, start with [Toy Story (1995)](https://en.wikipedia.org/wiki/Toy_Story), and then just go through them all, up until today. I really like [Cars (2006)](https://en.wikipedia.org/wiki/Cars_(film)), though I can admit that it probably wasn't, cinematically-speaking, the best Pixar film ever.[^all]
+Even then, before the [Tin Toy (1989)][wikipedia 2] and the [Oscar][youtube 2], Pixar *was* animation. Today, nothing's changed. Pixar is still about the stories through brilliant animation. If you haven't watched anything from Pixar, start with [Toy Story (1995)][wikipedia 3], and then just go through them all, up until today. I really like [Cars (2006)][wikipedia 4]), though I can admit that it probably wasn't, cinematically-speaking, the best Pixar film ever.[^all]
 
 <hr class="small">
 
-Becoming Steve Jobs is an exploration into the parts of Steve Jobs' life that Apple nerds care about. It glosses over all the personal relationship stuff that formed the basis of [Isaacson's biography](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/ref=la_B000APFLB8_1_2?ie=UTF8&sr=1-2&s=books&tag=theov0c-20&qid=1428477831). Instead, Schlender and Tetzeli paint the picture of a man who got kicked out of the company he founded. They show us a man who desperately needed to start something new, but ultimately failed at what would be his next endeavor as well. And after gaining some managerial skills from his little animation house, they show us how he comes back to the company he started, this time with the skills necessary to catalyze a monumental change in the personal computer industry, and later on, the entire consumer electronics space.
+Becoming Steve Jobs is an exploration into the parts of Steve Jobs' life that Apple nerds care about. It glosses over all the personal relationship stuff that formed the basis of [Isaacson's biography][amazon 2]. Instead, Schlender and Tetzeli paint the picture of a man who got kicked out of the company he founded. They show us a man who desperately needed to start something new, but ultimately failed at what would be his next endeavor as well. And after gaining some managerial skills from his little animation house, they show us how he comes back to the company he started, this time with the skills necessary to catalyze a monumental change in the personal computer industry, and later on, the entire consumer electronics space.
 
-[^th]: This also allows me to read articles in my current typeface of choice, [Ideal Sans](http://typographica.org/typeface-reviews/ideal-sans/)
+[^th]: This also allows me to read articles in my current typeface of choice, [Ideal Sans][typographica]
 [^the]: The major events of his life and of Apple lore are undisputed. However, on the nit-picky, detail side of things, there are conflicting accounts. As an example, Jason Snell brought up Schlender's inaccurate timeline around the iPhone 4S's introduction and Jobs' death.
 [^ne]: Truly a facade at this point. By the time Jobs acquired the Pixar team, NeXT hadn't even sold its first workstation. It was already a failure, more or less.
 [^be]: Becoming Steve Jobs, p.327
 [^all]: Allison and I like it for sentimental reasons, which can be a powerful motivator when it comes to watching so-so movies.
+
+[amazon]: http://www.amazon.com/dp/0385347405/?tag=theov0c-20
+[amazon 2]: http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/ref=la_B000APFLB8_1_2?tag=theov0c-20
+[apple]: https://itunes.apple.com/us/app/tweetbot-3-for-twitter-iphone/id722294701?mt=8&at=1l3vx9s
+[apple 2]: https://itunes.apple.com/us/app/reeder-2/id697846300?mt=8&at=1l3vx9s
+[apple 3]: https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&at=1l3vx9s
+[devour]: http://devour.com/video/best-of-pixar/
+[instapaper]: https://www.instapaper.com/p/toniwonkanobi
+[macworld]: http://www.macworld.com/article/2900540/apple-gives-stamp-of-approval-to-new-steve-jobs-biography.html
+[overca]: http://overca.st/DeCkrTEVE?t=953
+[typographica]: http://typographica.org/typeface-reviews/ideal-sans/
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=supercut&defid=6174084
+[wikipedia]: https://en.wikipedia.org/wiki/Pixar
+[wikipedia 2]: https://en.wikipedia.org/wiki/Tin_Toy
+[wikipedia 3]: https://en.wikipedia.org/wiki/Toy_Story
+[wikipedia 4]: https://en.wikipedia.org/wiki/Cars_(film)
+[wordnik]: http://www.wordnik.com/words/completionist
+[youtube]: https://www.youtube.com/embed/QAF8QAw6R58
+[youtube 2]: http://www.youtube.com/watch?v=lph0JuWv_ko

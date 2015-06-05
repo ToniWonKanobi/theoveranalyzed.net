@@ -6,4 +6,6 @@
 
 Talk about living the dream. 
 
-[From [Devour](http://devour.com/video/portrait-of-a-dog-walker/)]
+[From [Devour][devour]]
+
+[devour]: http://devour.com/video/portrait-of-a-dog-walker/

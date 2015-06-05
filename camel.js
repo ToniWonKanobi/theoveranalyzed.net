@@ -1096,7 +1096,7 @@ app.get('/tags', function (request, response) {
 		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
 		_.each(orderedKeys, function (key) {
 //			retVal += '<h3><a href="/tags/' + key.toLowerCase() + '">' + key.capitalize() + '</a></h3>';
-			retVal += '<h2><a href="/tags/' + key + '">' + key + '</a></h2>';
+			retVal += '<h3><a href="/tags/' + key + '">' + key + '</a></h3>';
 			retVal += '<ul>';
 			_.each(postsByTag[key], function (post) {
 				retVal += '<li><a href="' + post.url + '">' + post.title  + '</a></li>';
@@ -1257,7 +1257,7 @@ app.get('/:year/:month/:day', function (request, response) {
 				var html = '';
 				html += performMetadataReplacements([], singleHeaderTemplate([]) );
 //				html += "<header><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
-                html += "<header><h1>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h1></header>";
+                html += "<header><h1>" + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h1></header>";
 				html += "<ul>";
 				var anyFound = false;
 				day.articles.each(function (article) {
