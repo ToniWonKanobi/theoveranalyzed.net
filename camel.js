@@ -1213,7 +1213,7 @@ app.get('/:year/:month', function (request, response) {
 			if (thisDay.is(seekingDay.format('{Month} {yyyy}'))) {
 				anyFound = true;
 
-				html += "<h2>" + thisDay.format('{Weekday}, {Month} {d}') + "</h2>";
+				html += "<h3>" + thisDay.format('{Weekday}, {Month} {d}') + "</h3>";
 				html += "<ul>";
 				day.articles.each(function (article) {
 					html += '<li><a href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
