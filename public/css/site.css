@@ -30,19 +30,19 @@ h1 {
 }
 
 h2 {
-    font-size: 1.25em;
+    font-size: 1.3em;
 }
 
 h3 {
-    font-size: 1.125em;
+    font-size: 1.1em;
 }
 
 h4 {
-    font-size: 1.075em;
+    font-size: 1em;
 }
 
 h5 {
-    font-size: 1em;
+    font-size: .95em;
 }
 
 h1:nth-child(1),
@@ -66,16 +66,17 @@ a:hover {
 }
 
 .entry a:hover {
+    padding-bottom: 1px; /*Adjusts space in between the "underline" (border-bottom) and the text*/
 	color: #2e8eef;
 	border-top: 0;
 	border-left: 0;
 	border-right: 0;
 	border-bottom: 0px solid #2e8eef;
-	border-width: 1.5px;
+	border-width: 1.5px; /*Makes the transition less janky*/
 	-webkit-transition: all .17s ease-in-out;
 }
 
-a.nohover:hover {
+a.nohover:hover {  /*No border on image links*/
     background: none;
     border: none;
 }

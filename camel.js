@@ -1065,7 +1065,7 @@ app.get('/tags', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-		retVal += "<header><h2>Posts By Tag</h2></header>";
+		retVal += "<header><h1>Posts By Tag</h1></header>";
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );		
 		postsByDay.each(function (day) {
 			day['articles'].each(function (article) {
@@ -1093,7 +1093,7 @@ app.get('/tags', function (request, response) {
 		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
 		_.each(orderedKeys, function (key) {
 //			retVal += '<h3><a href="/tags/' + key.toLowerCase() + '">' + key.capitalize() + '</a></h3>';
-			retVal += '<h3><a href="/tags/' + key + '">' + key + '</a></h3>';
+			retVal += '<h2><a href="/tags/' + key + '">' + key + '</a></h2>';
 			retVal += '<ul>';
 			_.each(postsByTag[key], function (post) {
 				retVal += '<li><a href="' + post.url + '">' + post.title  + '</a></li>';
@@ -1131,7 +1131,8 @@ app.get('/tags/:tag', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-		retVal += '<header><h2>' + thetag.capitalize() + ' Archives</h2></header>';
+//		retVal += '<header><h2>' + thetag.capitalize() + ' Archives</h2></header>';
+		retVal += '<header><h1>' + thetag + ' Archives</h1></header>';
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );	
 		retVal += '<ul>';	
 
@@ -1176,7 +1177,8 @@ app.get('/tags/:tag', function (request, response) {
 		retVal += performMetadataReplacements([], singleFooterTemplate([]) );
 
 		var replacements = {};
-		replacements.Title = thetag.capitalize() + ' Archives';
+//		replacements.Title = thetag.capitalize() + ' Archives';
+		replacements.Title = thetag + ' Archives';
 		replacements.canonicalLink = config.Site.Url + '/tags/' + thetag;
 		replacements.ogtype = 'website';
 		replacements.Image = config.Site.DefaultImage;
@@ -1185,7 +1187,8 @@ app.get('/tags/:tag', function (request, response) {
 		var header = performMetadataReplacements(replacements, headerSource);
 		header = header.replace(
 			metadataMarker + 'Title' + metadataMarker, 
-			thetag.capitalize() + ' Archives' 
+//			thetag.capitalize() + ' Archives' 
+			thetag + ' Archives'
 		);
 		response.status(200).send(header + retVal + footerSource);
 	});
@@ -1198,7 +1201,7 @@ app.get('/:year/:month', function (request, response) {
 
 		var html = '';
 		html += performMetadataReplacements([], singleHeaderTemplate([]) );
-		html += '<header><h2>' + seekingDay.format('{Month} {yyyy}') + "</h2></header>";
+		html += '<header><h1>' + seekingDay.format('{Month} {yyyy}') + "</h1></header>";
 		html += performMetadataReplacements([], postBodyStartTemplate([]) );	
 
 		var anyFound = false;
@@ -1207,7 +1210,7 @@ app.get('/:year/:month', function (request, response) {
 			if (thisDay.is(seekingDay.format('{Month} {yyyy}'))) {
 				anyFound = true;
 
-				html += "<h3>" + thisDay.format('{Weekday}, {Month} {d}') + "</h3>";
+				html += "<h2>" + thisDay.format('{Weekday}, {Month} {d}') + "</h2>";
 				html += "<ul>";
 				day.articles.each(function (article) {
 					html += '<li><a href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
@@ -1250,7 +1253,7 @@ app.get('/:year/:month/:day', function (request, response) {
 	
 				var html = '';
 				html += performMetadataReplacements([], singleHeaderTemplate([]) );
-				html += "<header><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
+				html += "<header><h1>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h1></header>";
 				html += "<ul>";
 				var anyFound = false;
 				day.articles.each(function (article) {
