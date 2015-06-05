@@ -4,10 +4,9 @@
 @@ Description=John Kirk versus James Stewart: is Apple a fluke?  
 @@ Tags=Apple, business, industry, history    
 
-A few weeks ago, John Kirk of TechPinions took apart an [article](http://www.nytimes.com/2015/01/30/business/how-and-why-apple-overtook-microsoft.html?_r=0) by James B. Stewart of Common Sense. In that piece, Stewart attempted to delineate the reasons why Apple became the success that it has -- from the perspective of Microsoft's decline. 
+A few weeks ago, John Kirk of TechPinions took apart an [article][nytimes] by James B. Stewart of Common Sense. In that piece, Stewart attempted to delineate the reasons why Apple became the success that it has -- from the perspective of Microsoft's decline. 
 
 Kirk had several rebuttals to Stewart's series of rather flawed comparisons, and I thought his comments boded well towards a more general take on Apple:
-
 >Suggesting that there are lessons to be learned from Apple’s unprecedented rise is obvious. However, suggesting that the Apple of today is in a similar position to the Microsoft of yesterday, simply because Apple is dependent upon a single product, is dubious. And suggesting that Apple needs to learn from Microsoft’s mistakes in order to avoid Microsoft’s fate is, frankly, ludicrous.
 
 I suppose it's natural to draw comparisons between Apple and what was once Apple's most obvious rival. But at this stage, not only are those comparisons tired, they are not grounded in any reality I'm aware of.
@@ -45,15 +44,20 @@ And finally, Kirk posits his great thesis in response to Stewart:
 
 <hr class="small"/>
 
-John Gruber recently [retweeted](https://twitter.com/bottledfries/status/576690254280810497) a video in which a guy tirades for nearly twenty minutes on 'everything that was wrong' with Apple's [Spring Forward](https://www.apple.com/live/) event last week:
+John Gruber recently [retweeted][twitter] a video in which a guy tirades for nearly twenty minutes on 'everything that was wrong' with Apple's [Spring Forward][apple] event last week:
 
 <iframe src="https://www.youtube.com/embed/alXya_qowbE" frameborder="0" allowfullscreen></iframe>
 
 I got through about five minutes of it before switching off. Before I did, I had this epiphany: 
 
-Apple naysayers and Wall Street Apple bears alike can't be taken seriously because they continue to analyze Apple like they analyze every other company. Truthfully, at some point, Apple won't be Apple. All great things come to an end. I get it. But I feel pretty confident in saying this: barring some astronomical catastrophe in the upper echelon of Apple's executive team (leading to uncharacteristically bad management decisions), and barring a radical new way to experience the world around us (pioneered by an Apple competitor), that day -- the end of the [good times](http://www.youtube.com/watch?v=rTusMLs9SJE) for Apple -- is not going to be tomorrow, nor any time soon for that matter.
+Apple naysayers and Wall Street Apple bears alike can't be taken seriously because they continue to analyze Apple like they analyze every other company. Truthfully, at some point, Apple won't be Apple. All great things come to an end. I get it. But I feel pretty confident in saying this: barring some astronomical catastrophe in the upper echelon of Apple's executive team (leading to uncharacteristically bad management decisions), and barring a radical new way to experience the world around us (pioneered by an Apple competitor), that day -- the end of the [good times][youtube] for Apple -- is not going to be tomorrow, nor any time soon for that matter.
 
-And now -- almost eight years after the iPhone was released -- with [last quarter's earnings](https://www.apple.com/pr/library/2013/10/28Apple-Reports-Fourth-Quarter-Results.html) as high as they were, there has never been a greater time in which the naysayer's analysis of Apple could be more flawed. 
+And now -- almost eight years after the iPhone was released -- with [last quarter's earnings][apple 2] as high as they were, there has never been a greater time in which the naysayer's analysis of Apple could be more flawed. 
 
 So,  you can add Stewart's take to the never-ending pile of 'well-meaning, but uninformed' analysis of Apple.
 
+[apple]: https://www.apple.com/live/
+[apple 2]: https://www.apple.com/pr/library/2013/10/28Apple-Reports-Fourth-Quarter-Results.html
+[nytimes]: http://www.nytimes.com/2015/01/30/business/how-and-why-apple-overtook-microsoft.html?_r=0
+[twitter]: https://twitter.com/bottledfries/status/576690254280810497
+[youtube]: http://www.youtube.com/watch?v=rTusMLs9SJE

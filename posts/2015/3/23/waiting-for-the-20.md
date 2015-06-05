@@ -1,9 +1,9 @@
 @@ Title=Waiting for The 2.0  
 @@ Date=2015-03-23 12:30  
 @@ Description=When is it best to wait for the second generation of product? Won't there always be something better in the pipeline?  
-@@ Tags=Apple, Apple Watch    
+@@ Tags=Apple, Apple Watch, Craig Hockenberry  
 
-Craig Hockenberry of Iconfactory recently [wrote](http://furbo.org/2015/03/23/a-new-way-to-display/) on the OLED[^fv] display technology in the Apple Watch:
+Craig Hockenberry of Iconfactory recently [wrote][furbo] on the OLED[^fv] display technology in the Apple Watch:
 
 >From Apple’s point-of-view, one of the most important things about OLED is how it consumes power. A transistor on the display only uses energy when it’s producing light. Compare this with an LCD backlight which must be lit in order to see any pixel.
 
@@ -19,13 +19,20 @@ One other interesting bit:
 
 This got me thinking. At what point is it worth it to forego a Version 1.0 product and opt instead for Version 2.0? If you believe what Hockenberry has to say about the lifetime of OLED displays, you also want to wait for the inevitably better Apple Watch 2.0 launching in 2016.
 
-I had a discussion on this very notion this weekend, in which I posited that one could invariably wait forever, always hoping the next product will be better. Having this approach to new hardware isn't necessarily a bad one. Imagine how much better the 12-inch MacBook will be when it has [two USB-C ports](https://www.youtube.com/watch?v=ZrZISyPucMg&amp;t=3m14s)? And likewise, imagine how much better the Apple Watch will be when it is truly waterproof and when the battery lasts for an entire week? Following that logic would preclude you from ever buying anything.* The next best thing is *always* around the corner.
+I had a discussion on this very notion this weekend, in which I posited that one could invariably wait forever, always hoping the next product will be better. Having this approach to new hardware isn't necessarily a bad one. Imagine how much better the 12-inch MacBook will be when it has [two USB-C ports][youtube]? And likewise, imagine how much better the Apple Watch will be when it is truly waterproof and when the battery lasts for an entire week? Following that logic would preclude you from ever buying anything.* The next best thing is *always* around the corner.
 
 I don't think Hockenberry's piece is reason enough for me to change my mind about waiting; however, it certainly lends some credence to the opposite opinion.
 
-Apple is set to release two *major* new products this quarter, both of which have far-reaching implications for my hardware setup. Getting [the new MacBook](http://uncrate.com/stuff/apple-12-inch-macbook/) could end up being a great experience. On the other hand, it could also end up being a long and arduous process of buying back everything [I'm set to sell in the next few weeks.](http://www.ebay.com/sch/toniwonkanobi/m.html?_nkw=&amp;_armrs=1&amp;_ipg=&amp;_from=)[^im] The same is true for Apple Watch: I could decide that a screen on my wrist just isn't worth it, especially for a 1.0 product.
+Apple is set to release two *major* new products this quarter, both of which have far-reaching implications for my hardware setup. Getting [the new MacBook][uncrate] could end up being a great experience. On the other hand, it could also end up being a long and arduous process of buying back everything [I'm set to sell in the next few weeks.][ebay][^im] The same is true for Apple Watch: I could decide that a screen on my wrist just isn't worth it, especially for a 1.0 product.
 
 Either way, I know that I'll be happier having tried it instead of waiting. 
 
-[^fv]: Federico Vicicci wisely called [this](http://www.macstories.net/linked/a-new-way-to-display/) a [rumor](http://www.oled-info.com/confirmed-apples-watch-uses-amoled-display), because at this point, that's exactly what it is. As much as it *seems* that OLED is the display technology on the Apple Watch, we technically don't yet know that for sure. 
+[^fv]: Federico Vicicci wisely called [this][macstories] a [rumor][oled-info], because at this point, that's exactly what it is. As much as it *seems* that OLED is the display technology on the Apple Watch, we technically don't yet know that for sure. 
 [^im]: If the new MacBook doesn't have the power I need to accomplish relatively simple tasks such as an occasional Sketch or iMovie project, I'll likely grab an updated 2015 MacBook Air 11-inch.
+
+[ebay]: http://www.ebay.com/sch/toniwonkanobi/m.html?_nkw=&amp;_armrs=1&amp;_ipg=&amp;_from=
+[furbo]: http://furbo.org/2015/03/23/a-new-way-to-display/
+[macstories]: http://www.macstories.net/linked/a-new-way-to-display/
+[oled-info]: http://www.oled-info.com/confirmed-apples-watch-uses-amoled-display
+[uncrate]: http://uncrate.com/stuff/apple-12-inch-macbook/
+[youtube]: https://www.youtube.com/watch?v=ZrZISyPucMg&amp;t=3m14s

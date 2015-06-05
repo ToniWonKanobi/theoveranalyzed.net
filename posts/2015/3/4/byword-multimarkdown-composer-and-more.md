@@ -1,7 +1,7 @@
 @@ Title=Byword, MultiMarkdown Composer, And More  
 @@ Date=2015-03-04 08:00  
 @@ Description=Here's my workflow for blogging in Squarespace.  
-@@ Tags=Squarespace, blogging, apps, TheOverAnalyzed, MultiMarkdown, Markdown, Byword    
+@@ Tags=Squarespace, blogging, apps, TheOverAnalyzed, MultiMarkdown, Markdown, Byword  
 
 *Since writing this post originally, I moved to a custom blogging engine, one that is based on the actual Markdown files `.md`. And because of that, many MultiMarkdown features provided by MultiMarkdown Composer are no longer necessary, as `node.js` has plenty of `markdown-it` plugins that take the universal 'standard' Markdown documents and parse nifty stuff anyways. So I have actually reverted back to using Byword as my plain-text editor of choice. When I re-formatted this document to work with my new blogging engine, I kept the content the same, for both posterity's sake, and to help anyone out there who uses Squarespace.*
 
@@ -11,7 +11,7 @@
   
 # Introduction
 
-Some time ago, I wrote a rather [lengthy and exclamatory piece](http://www.theoveranalyzed.net/archive/2015/1/bigfoot-footntes-squarespace) recounting how I implemented [Bigfoot footnotes](http://www.bigfootjs.com). I will refrain from rehashing the entire post, but would like to discuss footnotes in general for a bit. Footnotes, and my recent change to [MultiMarkdown Composer](http://multimarkdown.com/) from [Byword](http://bywordapp.com).
+Some time ago, I wrote a rather [lengthy and exclamatory piece][theoveranalyzed] recounting how I implemented [Bigfoot footnotes][bigfootjs]. I will refrain from rehashing the entire post, but would like to discuss footnotes in general for a bit. Footnotes, and my recent change to [MultiMarkdown Composer][multimarkdown] from [Byword][bywordapp].
 
 What I might have failed to fully articulate previously is this: I learned how to do Bigfoot footnotes *and* regular ol' non-Bigfoot footnotes at the same time. In fact, if I had never even heard of Bigfoot footnotes, I still would have been plenty happy with just regular footnotes. 
 
@@ -21,7 +21,7 @@ Once I figured that out, I started nitpicking the *way* I was footnoting.
 
 # The Problem
 
-One big problem with my previous footnoting was a lack of knowledge regarding **multi-paragraph** footnotes. Up until yesterday, I didn't know how to do a footnote like [this](http://www.marco.org/2015/01/04/apple-lost-functional-high-ground#fnref:p0z3WgkpC1). 
+One big problem with my previous footnoting was a lack of knowledge regarding **multi-paragraph** footnotes. Up until yesterday, I didn't know how to do a footnote like [this][marco]. 
 
 Yesterday, I fixed that. How did I fix that?  TL;DR: I switched from Byword to MultiMarkdown Composer. 
 
@@ -32,9 +32,9 @@ Consider the following. This is the type of reference-style footnote I might hav
 ```md
 Yes you did, Brett. Yes you did.[^1]
 
-[^1]: [Chyeah](http://www.urbandictionary.com/define.php?term=chyeah&amp;defid=2623427).
+[^1]: [Chyeah][urbandictionary].
 
-	[Boom](http://www.urbandictionary.com/define.php?term=Boom&amp;defid=3837129).
+	[Boom][urbandictionary 2].
 ```
 
 The above snippet *should* get translated to the following HTML:
@@ -75,7 +75,7 @@ Notice how only the `Chyeah` footnote got parsed into HTML (and not the `Boom` o
 
 I consulted with the MultiMarkdown syntax guide just to make sure I was formatting my referenced multi-paragraph footnotes correctly.
 
-I [was](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#footnotes).
+I [was][github].
 
 So what to do? 
 
@@ -102,7 +102,7 @@ This is how MultiMarkdown Composer parses MultiMarkdown, and this is how the res
 
 # Byword Versus MultiMarkdown Composer
 
-First, let me say this: I love, *love* Byword. The guys at [Metaclassy](http://metaclassy.com) have built an incredibly easy to use and beautiful app. 
+First, let me say this: I love, *love* Byword. The guys at [Metaclassy][metaclassy] have built an incredibly easy to use and beautiful app. 
 
 <figure>
 	<img src="http://d.pr/i/1fsbq+" alt="sparsity" width="80%" />
@@ -125,7 +125,7 @@ Contrast this with MultiMarkdown Composer, in which the hotkey is buried in the 
 
 ## What's So Wrong With Byword?
 
-The problem with Byword is that while the app *does* support [the most important aspects](http://bywordapp.com/markdown/guide.html) of MultiMarkdown, it does *not* support every MultiMarkdown feature under the sun.[^us] For me, one of their more important MultiMarkdown omissions was lack of support for multi-paragraph footnotes and inline footnotes. And that was enough for me to try MultiMarkdown Composer.
+The problem with Byword is that while the app *does* support [the most important aspects][bywordapp 2] of MultiMarkdown, it does *not* support every MultiMarkdown feature under the sun.[^us] For me, one of their more important MultiMarkdown omissions was lack of support for multi-paragraph footnotes and inline footnotes. And that was enough for me to try MultiMarkdown Composer.
 
 ## And What's So Great About MultiMarkdown Composer?
 
@@ -181,12 +181,25 @@ Basically, this whole list:
 
 Ultimately, my nostalgic attachment to Byword was quickly forgotten. For all its beauty and simplicity, Byword just doesn't offer nearly the amount of features that MultiMarkdown Composer does.
 
-And you know what? That's [okay](http://d.pr/i/14RQX+).
+And you know what? That's [okay][d].
 
-[^bw]: It was with Byword, after all, that I shared my great [aha moment](http://dictionary.reference.com/browse/aha+moment) in which 'appropriately formatted Markdown → HTML with footnotes'
+[^bw]: It was with Byword, after all, that I shared my great [aha moment][reference] in which 'appropriately formatted Markdown → HTML with footnotes'
 [^us]: And why should it? MultiMarkdown is filled with lots of 'extras' beyond standard Markdown, some of which most Markdown users could care less about.
 [^inf]: So completely amazing.
 [^ww]: When I need to do that, I just copy and paste what I have for the footnote so far, and then make a reference-style footnote at the bottom like I used to (or wherever).
 
 	I wish there were an easier way to convert the footnote content to from "inline" to "reference style" and vice versa.
 [^ff]: That gets old.
+
+[bigfootjs]: http://www.bigfootjs.com
+[bywordapp]: http://bywordapp.com
+[bywordapp 2]: http://bywordapp.com/markdown/guide.html
+[d]: http://d.pr/i/14RQX+
+[github]: https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#footnotes
+[marco]: http://www.marco.org/2015/01/04/apple-lost-functional-high-ground#fnref:p0z3WgkpC1
+[metaclassy]: http://metaclassy.com
+[multimarkdown]: http://multimarkdown.com/
+[reference]: http://dictionary.reference.com/browse/aha+moment
+[theoveranalyzed]: http://www.theoveranalyzed.net/archive/2015/1/bigfoot-footntes-squarespace
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=chyeah&amp;defid=2623427
+[urbandictionary 2]: http://www.urbandictionary.com/define.php?term=Boom&amp;defid=3837129

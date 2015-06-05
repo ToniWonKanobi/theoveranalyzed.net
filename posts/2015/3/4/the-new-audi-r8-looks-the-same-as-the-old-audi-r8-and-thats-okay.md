@@ -1,8 +1,8 @@
 @@ Title=The New Audi R8 Looks The Same As The Old Audi R8, And That's Okay  
 @@ Date=2015-03-04 10:07  
 @@ Link=http://www.theverge.com/2015/3/4/8144427/the-new-audi-r8-look-the-same-as-the-old-audi-r8-and-thats-okay  
-@@ Description=The new Audi R8 is just as boring as ever.    
-@@ Tags=Audi, R8, Audi R8, cars    
+@@ Description=The new Audi R8 is just as boring as ever.  
+@@ Tags=Audi, R8, Audi R8, cars  
 
 Chris Ziegler for The Verge:
 >And let's not forget that the R8 is a legitimate sports car:

@@ -1,10 +1,10 @@
 @@ Title=The Man Behind The Apple Watch  
 @@ Date=2015-03-13 14:00  
 @@ Link=http://howtospendit.ft.com/articles/77791-the-man-behind-the-apple-watch  
-@@ Description=Jony Ive's profile in The New Yorker looks to be an excellent read. Nik Foulkes also wrote on Ive.     
-@@ Tags=Jony Ive, Apple Watch, Apple, business, design    
+@@ Description=Jony Ive's profile in The New Yorker looks to be an excellent read. Nick Foulkes also wrote on Ive.  
+@@ Tags=Jony Ive, Apple Watch, Apple, business, design, Nick Foulkes  
 
-I still haven't read The New Yorker's Jony Ive [piece,](http://www.newyorker.com/magazine/2015/02/23/shape-things-come) but this one by Nick Foulkes was a nice intro. 
+I still haven't read The New Yorker's Jony Ive [piece,][newyorker] but this one by Nick Foulkes was a nice intro. 
 
 There were also some neat little tidbits about Apple Watch:
 
@@ -22,3 +22,5 @@ And on a more practical level, Foulkes had this to say about the strap options:
 >The strap options alone are dazzling: there are ribbons of metal mesh that loop through each other to be held in place by magnets; there are others that click into place both mechanically and magnetically; there are straps of quilted leather; straps of fluoroelastomer; **metal bracelets with easily removable links** [emphasis added]; bracelets that can be swapped in and out.
 
 So let that put to bed my fear that the link bracelet's 'one size fits all' did not really mean that the bracelet was non-adjustable.
+
+[newyorker]: http://www.newyorker.com/magazine/2015/02/23/shape-things-come

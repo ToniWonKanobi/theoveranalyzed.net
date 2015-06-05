@@ -1,4 +1,4 @@
-@@ Title=Dark Sky For Apple Watch   
+@@ Title=Dark Sky For Apple Watch  
 @@ Date=2015-03-13 12:00  
 @@ Link=http://blog.forecast.io/dark-sky-for-apple-watch/  
 @@ Description=The best weather app on iOS is coming to Watch OS.  

@@ -1,7 +1,7 @@
 @@ Title=Standalone Showtime Streaming Is Coming in the Near Future  
 @@ Date=2015-03-11 12:00  
 @@ Link=http://www.slashfilm.com/standalone-showtime-streaming/  
-@@ Description=Cord-cutters: get excited.    
+@@ Description=Cord-cutters: get excited.  
 @@ Tags=cord-cutting, cable, industry, business, Showtime, HBO  
 
 Angie Han, for /Film:

@@ -2,7 +2,7 @@
 @@ Date=2015-03-12 16:00  
 @@ Link=http://qz.com/361280/intel-says-small-businesses-still-arent-upgrading-from-windows-xp-and-its-hurting-the-pc-market/  
 @@ Description=And Windows XP still persists.  
-@@ Tags=Microsoft, business, industry, Windows XP, Intel    
+@@ Tags=Microsoft, business, industry, Windows XP, Intel  
 
 When it comes time for me to buy/start my own practice in a few years, the biggest mental and emotional hurdle for me won't be all the normal dentist ones, such as patient base, staff, city codes, etc. 
 

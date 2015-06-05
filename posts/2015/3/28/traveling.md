@@ -3,7 +3,7 @@
 @@ Description=Traveling doesn't have to be terrible.  
 @@ Tags=traveling, Anthony  
 
-I don't travel much. When I do, it is usually by car, accompanied my [wife](http://www.twitter.com/venusautumn), and my [dog](http://www.twitter.com/smokeythedingo). 
+I don't travel much. When I do, it is usually by car, accompanied my [wife][twitter], and my [dog][twitter 2]. 
 
 The drive to Northern California -- where our parents live -- while not particularly terrible, isn't exactly thrilling either. The 7-8 hour journey is mired with long, *long* stretches of either desert-y terrain, or SoCal freeways. Neither scenery is much better than the other. 
 
@@ -11,7 +11,7 @@ Flying is a much nicer experience:[^th]
 
 * Arrive at the airport an hour before departure
 * Because I'm lazy and hate lines, I forego checking a bag, and instead send my 'bag'[^ba] with Allison
-* Sit in a terminal for about 40 minutes while I finishing several [podcasts](http://overcast.fm) and plowing through my [Read It Later](www.instapaper.com) queue 
+* Sit in a terminal for about 40 minutes while I finishing several [podcasts][overcast] and plowing through my [read-it-later][instapaper] queue 
 * Get on the plane and, an hour later, arrive at my destination
 
 Easy-peasy. 
@@ -35,7 +35,7 @@ After my fellow air travelers and I passed onto and then off of the escalators i
 
 After that, I saw a college-aged girl greet her parents before driving off, followed by what appeared to be a reunion between a 30-something couple. 
 
-Perhaps it was my having been separated from my wife for a few days that had me feeling [sentimental](http://gif.co/qxYq.gif). But at that moment, it just struck me how, in less than a couple of hours, I had managed to travel almost five hundred miles -- a distance that would have costed me almost *four* times that amount of time via car. And I could imagine other people in that airport who might have traveled even further to reach their destination. 
+Perhaps it was my having been separated from my wife for a few days that had me feeling [sentimental][gif]. But at that moment, it just struck me how, in less than a couple of hours, I had managed to travel almost five hundred miles -- a distance that would have costed me almost *four* times that amount of time via car. And I could imagine other people in that airport who might have traveled even further to reach their destination. 
 
 Some of them might have been businesspeople, sure. Perhaps in-between meetings or conferences or something of that sort? But if what I saw in that pickup area was any indication of the 'business or pleasure'-ness of their travels, it would seem that most of them were traveling to get to reach other people, to *connect with people they cared about*.
 
@@ -47,7 +47,16 @@ As routine as flying has become in these times, I can't help but feel a sense of
 
 And what is even more special about this is how we can enjoy the fruits of our labors every time we use air travel -- or any technological achievement -- to further connect us to each other. 
 
-[^th]: That is, with the exception of [this](http://instagram.com/p/0t37k5Qz2q/)
-[^ba]: [This one](https://www.amazon.com/dp/B00EDFX9HO/?tag=theov0c-20)
+[^th]: That is, with the exception of [this][instagram]
+[^ba]: [This one][amazon]
 [^ca]: I calculate this by adding the time it took to drive to the airport, park, sit in the terminal, fly to my destination, depart the aircraft, and get picked up.
-[^ts]: Touchscreen glass that acts also as [a widescreen iPod with touch controls, a revolutionary mobile phone, and a breakthrough internet communications device](https://m.youtube.com/watch?v=e7EfxMOElBE#t=22m34s)
+[^ts]: Touchscreen glass that acts also as [a widescreen iPod with touch controls, a revolutionary mobile phone, and a breakthrough internet communications device][youtube]
+
+[amazon]: https://www.amazon.com/dp/B00EDFX9HO/?tag=theov0c-20
+[gif]: http://gif.co/qxYq.gif
+[instagram]: http://instagram.com/p/0t37k5Qz2q/
+[instapaper]: http://www.instapaper.com
+[overcast]: http://overcast.fm
+[twitter]: http://www.twitter.com/venusautumn
+[twitter 2]: http://www.twitter.com/smokeythedingo
+[youtube]: https://www.youtube.com/watch?v=e7EfxMOElBE#t=22m34s

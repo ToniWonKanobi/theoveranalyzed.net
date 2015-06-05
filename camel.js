@@ -686,8 +686,9 @@ function sendYearListing(request, response) {
 	var year = request.params.slug;
 	var retVal = '';
 	retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-	retVal += '<header><h2>Posts for ' + year + '</h2></header>';
-
+//	retVal += '<header><h2>Posts for ' + year + '</h2></header>';
+	retVal += '<header><h1>' + year + '</h1></header>';
+	
 	var currentMonth = null;
 	var anyFound = false;
 	retVal += performMetadataReplacements([], postBodyStartTemplate([]) );		
@@ -771,7 +772,8 @@ function baseRouteHandler(file, sender, generator) {
 function generateRss(request, feedUrl, linkGenerator, titleGenerator, completion) {
 	var feed = new Rss({
 		title: config.Site.Title,
-		description: 'Posts to ' + config.Site.Title,
+//		description: 'Posts to ' + config.Site.Title,
+		description: 'Posts from ' + config.Site.Title,
         feed_url: config.Site.Url + feedUrl,
         site_url: config.Site.Url,
         author: config.Site.Author,
@@ -1065,6 +1067,7 @@ app.get('/tags', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
+//		retVal += "<header><h2>Posts By Tag</h2></header>";
 		retVal += "<header><h1>Posts By Tag</h1></header>";
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );		
 		postsByDay.each(function (day) {
@@ -1253,7 +1256,8 @@ app.get('/:year/:month/:day', function (request, response) {
 	
 				var html = '';
 				html += performMetadataReplacements([], singleHeaderTemplate([]) );
-				html += "<header><h1>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h1></header>";
+//				html += "<header><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
+                html += "<header><h1>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h1></header>";
 				html += "<ul>";
 				var anyFound = false;
 				day.articles.each(function (article) {

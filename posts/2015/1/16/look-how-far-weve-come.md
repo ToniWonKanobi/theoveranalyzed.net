@@ -55,7 +55,7 @@ When I finally convinced my clueless parents to adopt AT&T's broadband service c
 
 We have become so spoiled in the age of fast internet. Whenever a webpage ceases to load instantly, I immediately assume something is bottlenecking the process. Maybe it's my CPU, lack of RAM, or, perhaps, my crappy ISP being flakey? [Nah, it couldn't be that last one][jsonline]. Simply put, I couldn't imagine going back to those times. 
 
-But back then, that was just a part of life. Things took time. Imagine loading a dynamic webpage like [The Verge](www.theverge.com) on a personal computer 15 years ago, with 56 Kbps as the *maximum* download speed possible. Yeah, I'm having trouble imagining that scenario as well.
+But back then, that was just a part of life. Things took time. Imagine loading a dynamic webpage like [The Verge][vergee] on a personal computer 15 years ago, with 56 Kbps as the *maximum* download speed possible. Yeah, I'm having trouble imagining that scenario as well.
 
 There was so much to hate about the internet back then. The experience was completely lackluster compared to now. It might surprise the generation that follows me just how crazy it was for all of us to endure such technological [failwhales][readwrite]. 
 
@@ -73,6 +73,7 @@ For the first time ever, I knew more about something than most every adult I cam
 [readwrite]: http://readwrite.com/2008/07/17/the_story_of_the_fail_whale
 [speedtest]: http://speedtest.org
 [theoveranalyzed]: http://www.theoveranalyzed.net/2015/1/5/facebook-is-the-new-aol
+[vergee]: http://www.theverge.com
 [wikipedia]: https://en.wikipedia.org/wiki/AOL
 [wikipedia 2]: https://en.wikipedia.org/wiki/56_kbit/s_modem
 [wikipedia 3]: https://en.wikipedia.org/wiki/Digital_subscriber_line

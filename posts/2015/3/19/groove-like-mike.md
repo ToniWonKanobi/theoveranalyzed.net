@@ -6,4 +6,6 @@
 
 Gatorade -- now 50 years old.
 
-What better way to celebrate their anniversary than with a montage of ads with [MJ](https://en.wikipedia.org/wiki/Michael_Jordan)?
+What better way to celebrate their anniversary than with a montage of ads with [MJ][wikipedia]?
+
+[wikipedia]: https://en.wikipedia.org/wiki/Michael_Jordan

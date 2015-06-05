@@ -4,4 +4,6 @@
 @@ Description=The Verge has a hands-on preview of the new MacBook announced today from Apple.  
 @@ Tags=MacBook, Apple, hardware, previews  
 
-Such [want](/2015/1/10/my-thoughts-on-apples-rumored-12-inch-macbook-air).
+Such [want][theovernanalyzed].
+
+[theovernanalyzed]: http://www.theovernanalyzed.net/2015/1/10/my-thoughts-on-apples-rumored-12-inch-macbook-air

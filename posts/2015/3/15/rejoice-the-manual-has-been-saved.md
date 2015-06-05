@@ -1,7 +1,7 @@
-@@ Title=Rejoice, The Manual Has Been Saved!    
+@@ Title=Rejoice, The Manual Has Been Saved!  
 @@ Date=2015-03-15 14:00  
 @@ Link=http://jalopnik.com/rejoice-the-manual-has-been-saved-1688464485  
-@@ Description=Chris Harris takes the new Cayman GT4.    
+@@ Description=Chris Harris takes the new Cayman GT4.  
 @@ Tags=Chris Harris, cars, Porsche, Cayman, GT4  
 
 Chris Harris, for Jalopnik, as cheeky as ever:
@@ -19,4 +19,6 @@ Harris notes that the brands' choice to forego the manual option is a purely fin
 
 Maybe the GT4 will usher in a new era in which the manual box will be available, albeit with a nifty 'nostalgia tax' along with it? 
 
-Sounds about as worth it as [The Apple Tax™](http://gizmodo.com/5065133/the-truth-about-the-apple-tax).
+Sounds about as worth it as [The Apple Tax™][gizmodo].
+
+[gizmodo]: http://gizmodo.com/5065133/the-truth-about-the-apple-tax

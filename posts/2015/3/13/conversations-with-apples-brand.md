@@ -2,7 +2,7 @@
 @@ Date=2015-03-13 15:00  
 @@ Link=http://www.asymco.com/2015/03/11/conversations-with-apples-brand/  
 @@ Description=Horace Dediu gives a quick tour of Apple's brand through the decades.  
-@@ Tags=Horace Dediu, Apple, culture, industry  
+@@ Tags=Horace Dediu, Apple, culture, industry, Ben Thompson  
 
 I haven't linked to much from Horace Dediu much on this site, mostly because I haven't been following him until a few days ago.[^bt] He had some great thoughts on Apple's historical approach to technology in culture. 
 
@@ -18,5 +18,6 @@ And for today:
 Here's the take-away message:
 >[Apple] has managed to move from a rational, to a neurological, to an endocrine response.
 
-[^bt]: For me, [Ben Thompson](http://stratechery.com) has been fulfilling that corner of the Apple bloggosphere that deals with how Apple, culture, business, and the market all collide together.
+[^bt]: For me, [Ben Thompson][stratechery] has been fulfilling that corner of the Apple bloggosphere that deals with how Apple, culture, business, and the market all collide together.
 
+[stratechery]: http://stratechery.com

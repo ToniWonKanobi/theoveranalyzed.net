@@ -6,4 +6,6 @@
 
 I too am still trying to decide between the 38 mm and 42 mm sizes. 
 
-See [this page](http://store.apple.com/Catalog/regional/amr/pdf/static/pdf/content/Watch_Sizing_Guide.pdf) for Apple's guide on sizing.
+See [this page][apple] for Apple's guide on sizing.
+
+[apple]: http://store.apple.com/Catalog/regional/amr/pdf/static/pdf/content/Watch_Sizing_Guide.pdf

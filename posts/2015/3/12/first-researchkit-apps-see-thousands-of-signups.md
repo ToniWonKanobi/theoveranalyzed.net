@@ -1,7 +1,7 @@
-@@ Title=First ResearchKit Apps See Thousands Of Signups   
+@@ Title=First ResearchKit Apps See Thousands Of Signups  
 @@ Date=2015-03-12 09:44  
 @@ Link=http://www.appleworld.today/blog/2015/3/12/first-researchkit-apps-see-thousands-of-signups  
-@@ Description=ResearchKit could be a big deal for the medical profession.    
+@@ Description=ResearchKit could be a big deal for the medical profession.  
 @@ Tags=health, medicine, iOS, Apple, ResearchKit  
 
 Medical director of Stanford University Cardiovascular Health Alan Yeung:

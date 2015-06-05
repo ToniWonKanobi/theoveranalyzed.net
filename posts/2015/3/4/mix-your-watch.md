@@ -11,4 +11,6 @@ Pretty cool little demo:
 	<figcaption>Neat.</figcaption>
 </figure>
 
-[From [John Moltz](http://verynicewebsite.net/2015/03/mixyourwatch/)]
+[From [John Moltz][verynicewebsite]]
+
+[verynicewebsite]: http://verynicewebsite.net/2015/03/mixyourwatch/
