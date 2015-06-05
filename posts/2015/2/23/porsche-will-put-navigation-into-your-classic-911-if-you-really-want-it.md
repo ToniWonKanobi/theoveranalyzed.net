@@ -1,12 +1,12 @@
 @@ Title=Porsche Will Put Navigation Into Your Classic 911 If You Really Want It  
 @@ Date=2015-02-23 12:24  
 @@ Link=http://jalopnik.com/porsche-will-put-navigation-into-your-classic-911-if-yo-1687429377  
-@@ Description=Owning a classic 911 is the pipe dream of many a car lover. However, how many of them would even consider throwing a Jensen single-DIN deck in there? Not likely as many.    
-@@ Tags=Porsche, cars, radio    
+@@ Description=Owning a classic 911 is the pipe dream of many a car lover. However, how many of them would even consider throwing a Jensen single-DIN deck in there? Not likely as many.  
+@@ Tags=Porsche, cars, radio, 911, 964, 993, culture  
 
-Someday -- though that someday is definitely not today -- I hope to have a [964](https://en.wikipedia.org/wiki/Porsche_964).
+Someday -- though that someday is definitely not today -- I hope to have a [964][wikipedia].
 
-As I've written [many times before](@@SiteRoot@@/2015/2/13/the-honda-nsx), I love early 90's cars like the last 'true' air-cooled classic 911. 
+As I've written [many times before][theoveranalyzed], I love early 90's cars like the last 'true' air-cooled classic 911. 
 
 The idea of having a car(s) from the era of my childhood is appealing not just because of the visual aspects, though that is a big part of it.
 
@@ -24,7 +24,7 @@ Why would you want to adorn your old car with such gaudy visual diarrhea?
 
 ***
 
-And on a less esthetic level, our modern-day reliance on technical amenities like [BTLE](https://en.wikipedia.org/wiki/Bluetooth_low_energy) and handsfree *could* -- if you're that sort of person -- make driving less enjoyable in their absence.[^could] 
+And on a less esthetic level, our modern-day reliance on technical amenities like [BTLE][wikipedia 2] and handsfree *could* -- if you're that sort of person -- make driving less enjoyable in their absence.[^could] 
 
 Porsche, ever the company to embrace its heritage, is offering a really classy-looking audio / navigation combo head unit for classic[^cl] 911's.[^mod]
 
@@ -42,6 +42,14 @@ Finally:
 
 Yes. Yes it is Patrick.
 
-[^could]: Obviously, the very *lack* of such amenities can be part of the allure of older automobiles. Do you think Jay Leno sighs at the lack of CarPlay when he goes for a drive in his [Outlaw](https://www.youtube.com/watch?v=xxSKO3Er-Yg)? Yeah, I don't either.
-[^cl]: I use the term "classic" here quite technically, because technically, the classic era ended in 1995 with the [993](https://en.wikipedia.org/wiki/Porsche_911#993_Series_.281994.E2.80.93mid_1998.29). 
-[^mod]: 993 and below it seems, though the [previous offerings](http://www.cnet.com/news/classic-porsches-getting-oem-navigation-option/) by Porsche only worked for the truly classic-classic 911's, the pre-[SC](https://en.wikipedia.org/wiki/Porsche_911#911SC_.281978.E2.80.931983.29) models
+[^could]: Obviously, the very *lack* of such amenities can be part of the allure of older automobiles. Do you think Jay Leno sighs at the lack of CarPlay when he goes for a drive in his [Outlaw][youtube]? Yeah, I don't either.
+[^cl]: I use the term "classic" here quite technically, because technically, the classic era ended in 1995 with the [993][wikipedia 3]. 
+[^mod]: 993 and below it seems, though the [previous offerings][cnet] by Porsche only worked for the truly classic-classic 911's, the pre-[SC][wikipedia 4] models
+
+[cnet]: http://www.cnet.com/news/classic-porsches-getting-oem-navigation-option/
+[theoveranalyzed]: http://www.theoveranalyzed.net/2015/2/13/the-honda-nsx
+[wikipedia]: https://en.wikipedia.org/wiki/Porsche_964
+[wikipedia 2]: https://en.wikipedia.org/wiki/Bluetooth_low_energy
+[wikipedia 3]: https://en.wikipedia.org/wiki/Porsche_911#993_Series_.281994.E2.80.93mid_1998.29
+[wikipedia 4]: https://en.wikipedia.org/wiki/Porsche_911#911SC_.281978.E2.80.931983.29
+[youtube]: https://www.youtube.com/watch?v=xxSKO3Er-Yg

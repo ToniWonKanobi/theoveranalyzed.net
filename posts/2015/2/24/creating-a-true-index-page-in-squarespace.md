@@ -3,7 +3,7 @@
 @@ Description=Here's how I hacked Squarespace to have a true Index page    
 @@ Tags=hacking Squarespace, blogging, TheOverAnalyzed  
 
-I thought I should do a quick post outlining how I crafted my [Index](http://www.theoveranalyzed.net/index) page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content.[^mc] True, [/archive](http://www.theoveranalyzed.net/archive) [^old] contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an `/index/` page and `Command + F` to query a string of words that might fit the title. 
+I thought I should do a quick post outlining how I crafted my [Index][theoveranalyzed][^old] page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content.[^mc] True, [/archive][theoveranalyzed 2][^old] contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an `/index/` page and `Command + F` to query a string of words that might fit the title. 
 
 <h2>Contents</h2>
 
@@ -11,21 +11,21 @@ I thought I should do a quick post outlining how I crafted my [Index](http://www
 
 # Dealing With Content Management Systems
 
-As you may or may not know, Squarespace does *not* offer a truly unlimited-length index page. Some templates do include an [Index page,](http://help.squarespace.com/guides/using-the-index-page)[^in] which is sort of like the [Summary block](http://answers.squarespace.com/questions/30592/summary-block), but neither of those act as true indices. 
+As you may or may not know, Squarespace does *not* offer a truly unlimited-length index page. Some templates do include an [Index page,][squarespace][^in] which is sort of like the [Summary block][squarespace 2], but neither of those act as true indices. 
 
-Moreover, if you have [Linked](http://www.theoveranalyzed.net/archive?tag=linked)-style posts, the native Index page and Summary blocks present the *external URL* as the post title -- not the post's *permalink.* Proper support of Daring Fireball style [linked](http://daringfireball.net/linked/) content came [late](http://help.squarespace.com/guides/linking-a-post-title-to-external-content) for Squarespace, maybe as late as Squarespace 6. Thing is: I don't think it ever made it off of the back burner. There seem to be quite a few things that haven't -- and probably won't -- make it off of the back burner.
+Moreover, if you have [Linked][theoveranalyzed 3][^old]-style posts, the native Index page and Summary blocks present the *external URL* as the post title -- not the post's *permalink.* Proper support of Daring Fireball style [linked][daringfireball] content came [late][squarespace 3] for Squarespace, maybe as late as Squarespace 6. Thing is: I don't think it ever made it off of the back burner. There seem to be quite a few things that haven't -- and probably won't -- make it off of the back burner.
 
 Having used this content management system (CMS) for over a year, it is painfully apparent to me that having managed content comes with its good and its bad. The good is obvious: I don't have to stress about my site. I never worry about server maintenance or anything of that nature. And I have complete control of the content that I publish. 
 
 But the bad is just as obvious: I have relatively *little* control in how that content is presented. Admittedly, I have spent more time in the last month tweaking the template(s) than I have spent actually creating content. I have spent the past month largely coding *against* the Squarespace platform in order to achieve my design goals.
 
-Squarespace's lack of a true index page, as well as its so-so support of Linked content, are examples of the bad aspects of both this particular platform, as well as CMS in general. If it didn't seem so daunting to do so, I would gladly switch to a static, text files-based system like what [Marco Arment](http://www.marco.org/secondcrack) and [Casey Liss](http://www.caseyliss.com/2014/5/2/camel-open-sourced) are doing.
+Squarespace's lack of a true index page, as well as its so-so support of Linked content, are examples of the bad aspects of both this particular platform, as well as CMS in general. If it didn't seem so daunting to do so, I would gladly switch to a static, text files-based system like what [Marco Arment][marco] and [Casey Liss][caseyliss] are doing.
 
 But until then, I will make do.
 
 # How I Made A True Index Page
 
-First, I should give tremendous credit where credit's due: [Sid O'Neill](http://sidoneill.com) from [Crate of Penguins](http://crateofpenguins.com/) posted the how-to over [a year ago](http://crateofpenguins.com/blog/2013-9-squarespace-post-index-non-hacky-version). I stumbled upon his Index [how-to](http://crateofpenguins.com/blog/2013-9-squarespace-post-index-non-hacky-version) while looking for help with Bigfoot footnotes in Squarespace, a topic which he also [covered](http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites).[^bfs] 
+First, I should give tremendous credit where credit's due: [Sid O'Neill][sidoneill] from [Crate of Penguins][crateofpenguins] posted the how-to over [a year ago][crateofpenguins 2]. I stumbled upon his Index [how-to][crateofpenguins 2] while looking for help with Bigfoot footnotes in Squarespace, a topic which he also [covered][crateofpenguins 3].[^bfs] 
 
 In a nutshell, implementing this Index page involves the following:
 
@@ -39,7 +39,7 @@ In a nutshell, implementing this Index page involves the following:
 
 Pre-Squarespace 7, the `CollectionID`[^ci] was  much easier to find. But in their newest version of Layout Engine, finding the `CollectionID` is harder than it has to be. 
 
-In order to do this, I navigated to my blog page and [viewed the source](http://appletoolbox.com/2013/04/how-to-view-html-source-code-in-safari/) for the page. 
+In order to do this, I navigated to my blog page and [viewed the source][appletoolbox] for the page. 
 
 I then searched the source for `"collectionid"`. I found several entries. The one I wanted was the one that contained this bit of text:
  
@@ -136,11 +136,25 @@ $('#allarchive').append('<p>');
 </figure>
  
 [^mc]: I often refer to previous pieces I have written, and it is somewhat cumbersome grabbing the permalink to content without a working Index page.
-[^old]: This is an old hyperlink from when I was still using Squarespace.
+[^old]: This is an old URL slug from when I was still using Squarespace.
 [^in]: You can also hack one if you are a part of the Developer Platform.
 [^bfs]: Funnily enough, Sid has an entire page dedicated to Squarespace hacks. (I'm not alone in this universe.)
-[^ci]: Is [CamelCase](https://en.wikipedia.org/wiki/CamelCase) appropriate here?
+[^ci]: Is [CamelCase][wikipedia] appropriate here?
 [^bt]: "Archive" is the name of my blog page. Your string should have whatever you  chose for the name of your blog in place of "Archive".
 [^ind]: I tweaked Sid's code slightly to better suit my needs
 
-
+[appletoolbox]: http://appletoolbox.com/2013/04/how-to-view-html-source-code-in-safari/
+[caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced
+[crateofpenguins]: http://crateofpenguins.com/
+[crateofpenguins 2]: http://crateofpenguins.com/blog/2013-9-squarespace-post-index-non-hacky-version
+[crateofpenguins 3]: http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites
+[daringfireball]: http://daringfireball.net/linked/
+[marco]: http://www.marco.org/secondcrack
+[sidoneill]: http://sidoneill.com
+[squarespace]: http://help.squarespace.com/guides/using-the-index-page
+[squarespace 2]: http://answers.squarespace.com/questions/30592/summary-block
+[squarespace 3]: http://help.squarespace.com/guides/linking-a-post-title-to-external-content
+[theoveranalyzed]: http://www.theoveranalyzed.net/index
+[theoveranalyzed 2]: http://www.theoveranalyzed.net/archive
+[theoveranalyzed 3]: http://www.theoveranalyzed.net/archive?tag=linked
+[wikipedia]: https://en.wikipedia.org/wiki/CamelCase

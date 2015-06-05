@@ -2,7 +2,7 @@
 @@ Date=2015-02-24 07:35   
 @@ Link=https://www.youtube.com/watch?v=L4E4MWLzKrg  
 @@ Description=Kenny G and Warren G, both G's, perform on Kimmel.  
-@@ Tags=music, music videos, bass
+@@ Tags=music, music videos, bass, Kenny G, Andrew Gouche  
 
 Thanks Jimmy Kimmel.
 
@@ -10,7 +10,10 @@ Thanks Jimmy Kimmel.
 
 2. Warren G with his catchiest song ever.
 
-3. And I'm pretty sure that's [Andrew Gouche](https://twitter.com/andrewgouche) playing his [MTD](http://www.musiciansfriend.com/bass/mtd-kingston-andrew-gouche-signature-6-string-electric-bass).
+3. And I'm pretty sure that's [Andrew Gouche][twitter] playing his [MTD][musiciansfriend].
 
-[From [Devour](http://devour.com/video/kenny-g-and-warren-g-perform-regulate/)]
+[From [Devour][devour]]
 
+[devour]: http://devour.com/video/kenny-g-and-warren-g-perform-regulate/
+[musiciansfriend]: http://www.musiciansfriend.com/bass/mtd-kingston-andrew-gouche-signature-6-string-electric-bass
+[twitter]: https://twitter.com/andrewgouche

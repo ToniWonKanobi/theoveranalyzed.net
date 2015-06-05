@@ -6,7 +6,7 @@
 
 John Lilly wrote recently on Apple's reaching $750B in market capitalization. And the most interesting part about it isn't so much how high Apple has soared, but instead, it is seeing how far them have come. 
 
-The post-Jobs days at Apple were [the dark times](https://en.wikipedia.org/wiki/Apple_Inc.#1990.E2.80.9399:_Decline.2C_restructuring.2C_acquisitions). That Apple Computer, Inc. maintained enough of a following throughout those terrible years speaks *volumes* as to just how great the UI/UX must have been to garner such a loyal fanbase.
+The post-Jobs days at Apple were [the dark times][wikipedia]. That Apple Computer, Inc. maintained enough of a following throughout those terrible years speaks *volumes* as to just how great the UI/UX must have been to garner such a loyal fanbase.
 
 Things did get better, though. 
 
@@ -30,3 +30,5 @@ I wouldn't live through any other decade -- I would just relive the 90's. But th
 Imagine that: instead of reading about Apple in the 90's like I do today -- almost twenty years later -- I could have lived it in real-time. 
 
 [^ny]: Neil Young was *never* good. And he is, right now, almost as washed up as Bon Jovi.
+
+[wikipedia]: https://en.wikipedia.org/wiki/Apple_Inc.#1990.E2.80.9399:_Decline.2C_restructuring.2C_acquisitions

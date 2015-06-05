@@ -4,4 +4,6 @@
 @@ Description=Apple Watch as a fashion accessory is starting to become more and more a thing as April quickly approaches.    
 @@ Tags=Apple Watch, Apple, fashion, culture    
 
-And so it [begins](http://time.com/3625118/apple-watch-store/).
+And so it [begins][time].
+
+[time]: http://time.com/3625118/apple-watch-store/

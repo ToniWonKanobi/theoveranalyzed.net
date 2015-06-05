@@ -2,7 +2,7 @@
 @@ Date=2015-02-12 15:00  
 @@ Link=http://www.aboveavalon.com/notes/2015/1/21/the-evolving-notification  
 @@ Description=Seems like the smart thing to do is to start culling notifications now, so that when you actually get your Apple Watch, you'll be ready.  
-@@ Tags=Apple Watch, Apple  
+@@ Tags=Apple Watch, Apple, Neil Cybart  
 
 Neil Cybart with Above Avalon:
 >Apple Watch has the potential to put the notification back on track. With the expectation that the device will be worn on the wrist for most of the day, an Apple Watch will not only add personalization and customization to notifications, but it will transform the way we think of notifications in mobile. Apple Watch will turn notifications into a new form of communication.

@@ -7,6 +7,10 @@
 Brandon Ambrosino for Vox: 
 >This is part of a much broader trend of musicians getting less and less money from album or download sales and more and more from things like endorsements, cross-promotions, concerts, and video games.
 
-In a time when the old ways of consuming media are dying off, you either [adapt](http://www.aboveavalon.com/notes/2015/2/5/apples-new-music-strategy), or [get left behind](http://mashable.com/2012/07/24/music-sales-decline/). Good for Aerosmith.[^ae]
+In a time when the old ways of consuming media are dying off, you either [adapt][aboveavalon], or [get left behind][mashable]. Good for Aerosmith.[^ae]
 
-[^ae]: I'm pretty sure Guitar Hero single-handedly introduced [Allison](http://www.twitter.com/venusautumn) to classic rock.
+[^ae]: I'm pretty sure Guitar Hero single-handedly introduced [Allison][twitter] to classic rock.
+
+[aboveavalon]: http://www.aboveavalon.com/notes/2015/2/5/apples-new-music-strategy
+[mashable]: http://mashable.com/2012/07/24/music-sales-decline/
+[twitter]: http://www.twitter.com/venusautumn
