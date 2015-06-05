@@ -12,13 +12,13 @@ I am usually surprised at just how terrible the in-house Wi-Fi is for both perso
 
 Today's situation was no different from the norm. This was my Speedtest today over LTE:
 
-<center><a href="http://www.speedtest.net/my-result/4065330285"><img src="http://www.speedtest.net/result/4065330285.png" /></a></center>
+<center><a href="http://www.speedtest.net/my-result/4065330285" class="nohover"><img src="http://www.speedtest.net/result/4065330285.png" /></a></center>
 
 Interestingly, Speedtest garnered a mere A- for these speeds. I guess that's fair, considering the relativity of it all.
 
 Here was a Speedtest from a few months ago, when Time Warner decided to grace its Inland Empire customers with an exorbitant amount of speed increases. (We should totally be okay with them [merging with Comcast][bgr], right? Uh, no.)
 
-<center><a href="http://www.speedtest.net/my-result/3867339763"><img src="http://www.speedtest.net/result/3867339763.png"></a></center>
+<center><a href="http://www.speedtest.net/my-result/3867339763" class="nohover"><img src="http://www.speedtest.net/result/3867339763.png"></a></center>
 
 <hr class="small">
 

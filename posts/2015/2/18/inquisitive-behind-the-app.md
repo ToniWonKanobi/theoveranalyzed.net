@@ -37,6 +37,8 @@ Today Myke Hurley launched a new format for his podcast Inquisitive. He's callin
 
 * [Agile Tortoise][agiletortoise]
 
+<hr class="small" />
+
 Inquisitive launched several months back when Myke Hurley and Stephen Hackett [formed Relay.fm][extras 2]. Inquisitive continued where [CMD+Space][5by5] left off, featuring one-on-one interviews with prominent members of the Apple community.
 
 Be sure to check it out the new Inquisitive in your podcatcher of choice!

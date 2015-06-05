@@ -1,7 +1,7 @@
 @@ Title=Constrain Embedded Videos While Preserving Correct Aspect Ratios In Squarespace
 @@ Date=2015-03-09 08:00  
 @@ Description=Here's how I get YouTube videos to behave responsively in my webpages.  
-@@ Tags=Squarespace, TheOverAnalyzed, tech tips  
+@@ Tags=Squarespace, TheOverAnalyzed, tech tips, web design  
 
 *I just can't leave well enough alone.[^foo] In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, constraining the proportions.*
 
@@ -11,7 +11,7 @@
 
 # The Problem
 
-Consider this YouTube [video](https://www.youtube.com/watch?v=kOh6iATnEnw).
+Consider this YouTube [video][youtube].
 
 Suppose I wanted to embed it in the body of my post, rather than simply have it linked to externally via the Linked [post] title.
 
@@ -64,7 +64,7 @@ So what to do?
 
 # The New Fix
 
-Good ol' [CSS-Tricks](http://css-tricks.com/). Chris Coyier comes through again. I looked around for help and found a pretty decent [article](https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php) on the subject. This pointed me to the *coup de grâce* by Coyier and [Dave Rupert](http://daverupert.com/), called [FitVids.js](http://fitvidsjs.com/).
+Good ol' [CSS-Tricks][css-tricks]. Chris Coyier comes through again. I looked around for help and found a pretty decent [article][css-tricks 2] on the subject. This pointed me to the *coup de grâce* by Coyier and [Dave Rupert][daverupert], called [FitVids.js][fitvidsjs].
 
 It's a nifty jQuery plugin that basically does everything I was trying to do previously with inline HTML/CSS.
 
@@ -117,7 +117,7 @@ Once I recognized the `.container` that Squarespace uses for main post content (
 
 # Putting It All Together
 
-Paste the following code into either the site-wide [`Code injection`](http://help.squarespace.com/guides/using-code-injection) area,[^co] or the `Page Header Code Injection` area:[^con]
+Paste the following code into either the site-wide [`Code injection`][squarespace] area,[^co] or the `Page Header Code Injection` area:[^con]
 
 ```javascript
 <script src="/scripts/fitvids.js"></script>
@@ -128,7 +128,7 @@ Paste the following code into either the site-wide [`Code injection`](http://hel
 </script>
 ```
 
-* The string `/scripts/fitvids.js` is just where I have placed the `fitvids.js` plugin. If you do not have [Developer mode](http://developers.squarespace.com/) turned on, you could always upload it via the [wonky Squarespace method of uploading files](http://help.squarespace.com/guides/uploading-and-managing-files), and then call the script at the stock location, `/s/fitvids.js`
+* The string `/scripts/fitvids.js` is just where I have placed the `fitvids.js` plugin. If you do not have [Developer mode][squarespace 2] turned on, you could always upload it via the [wonky Squarespace method of uploading files][squarespace 3], and then call the script at the stock location, `/s/fitvids.js`
 * Notice the `.main-content` wrapped in double quotes. *That* is the container that FitVids.js will target.
 
 Finally, we are ready to test the YouTube video again. After copying the embed code from YouTube, be sure to remove the size modifiers (`width=` and `height=`) in the `<iframe>` code, so that the script can take over.[^ify]
@@ -152,3 +152,12 @@ The FitVids.js solution works on all `<iframe>` elements found on `.main-content
 [^co]: `Config` → `Settings` → `Advanced` → `Code Injection` → `Header`]
 [^con]: `Pages` → `_your_blog_name_here_` → `Blog settings` → `Page Header Code Injection`]:
 [^ify]: If you don't do this, the size modifiers might override the script, leading to weird aspect ratios.
+
+[css-tricks]: http://css-tricks.com/
+[css-tricks 2]: https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
+[daverupert]: http://daverupert.com/
+[fitvidsjs]: http://fitvidsjs.com/
+[squarespace]: http://help.squarespace.com/guides/using-code-injection
+[squarespace 2]: http://developers.squarespace.com/
+[squarespace 3]: http://help.squarespace.com/guides/uploading-and-managing-files
+[youtube]: https://www.youtube.com/watch?v=kOh6iATnEnw

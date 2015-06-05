@@ -69,10 +69,15 @@ a:hover {
 	color: #2e8eef;
 	border-top: 0;
 	border-left: 0;
-	border-right: px;
+	border-right: 0;
 	border-bottom: 0px solid #2e8eef;
 	border-width: 1.5px;
 	-webkit-transition: all .17s ease-in-out;
+}
+
+a.nohover:hover {
+    background: none;
+    border: none;
 }
 
 /* @end */
