@@ -1135,7 +1135,7 @@ app.get('/tags/:tag', function (request, response) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
 //		retVal += '<header><h2>' + thetag.capitalize() + ' Archives</h2></header>';
-		retVal += '<header><h1>' + thetag + ' Archives</h1></header>';
+		retVal += '<header><h1>Posts tagged <em>' + thetag + '</em></h1></header>';
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );	
 		retVal += '<ul>';	
 
