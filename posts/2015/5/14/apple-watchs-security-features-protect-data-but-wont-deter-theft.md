@@ -9,5 +9,7 @@ Resident nerd for Ars Technica, Andrew Cunningham, on Apple Watch's apparent lac
 >
 >As detailed in a post on iDownloadblog, it’s dead simple to find the Watch OS reset option without unlocking the device. Long-press the side button to bring up the power menu, then Force Touch that menu to find the “erase all content and settings” button. Once you’ve done that, pairing the watch to a new phone works exactly the same way as it did when you took the watch out of the box.
 
-[Activation Lock](https://support.apple.com/en-us/HT201365) this is not. Still, I'm confident this will be addressed by Apple soon, perhaps even as soon as their cozy annual get-together in Moscone West, happening [June 8-12](https://developer.apple.com/wwdc/).
+[Activation Lock][apple] this is not. Still, I'm confident this will be addressed by Apple soon, perhaps even as soon as their cozy annual get-together in Moscone West, happening [June 8-12][apple 2].
 
+[apple]: https://support.apple.com/en-us/HT201365
+[apple 2]: https://developer.apple.com/wwdc/

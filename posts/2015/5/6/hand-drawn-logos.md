@@ -4,6 +4,9 @@
 @@ Description=Logos, logos.  
 @@ Tags=design, logos  
 
-Some [more](@@SiteRoot@@/2015/4/2/freehand-famous-logos) freehand design for you.
+Some [more][theoveranalyzed] freehand design for you.
 
-[From [Devour](http://devour.com/video/hand-drawn-logos/)]
+[From [Devour][devour]]
+
+[devour]: http://devour.com/video/hand-drawn-logos/
+[theoveranalyzed]: http://www.theoveranalyzed.net/2015/4/2/freehand-famous-logos

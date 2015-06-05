@@ -2,7 +2,7 @@
 @@ Date=2015-05-06 18:00  
 @@ Link=http://arstechnica.com/business/2015/05/tom-wheeler-tells-cable-industry-to-stop-complaining-start-competing/  
 @@ Description=Tom Wheeler tells cable industry to suck it up.  
-@@ Tags=Net Neutrality, business, industry, politics  
+@@ Tags=Net Neutrality, business, industry, politics, Tom Wheeler  
 
 
 Jon Brodkin for Ars Technica, quoting FCC chairman Tom Wheeler:

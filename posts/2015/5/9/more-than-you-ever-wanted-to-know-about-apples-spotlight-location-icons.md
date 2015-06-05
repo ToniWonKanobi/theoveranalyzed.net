@@ -7,4 +7,6 @@
 Rusty Mitchell shares a fascinating look at Apple's Spotlight location icons in iOS 8:
 > I was excited to discover these icons because they are the first large-scale generalized set of pictograms created by Apple, and I was curious to see the depth of the set and how harmonious it is when viewed together. To date I’ve been able to locate 96 of these icons, but there are a few that I have seen in Maps that I haven’t been able to trigger in Spotlight. I’m sure there are still others that I have yet to find at all.
 
-[From [Macstories](http://www.macstories.net/linked/apples-spotlight-location-icons/)]
+[From [Macstories][macstories]]
+
+[macstories]: http://www.macstories.net/linked/apples-spotlight-location-icons/

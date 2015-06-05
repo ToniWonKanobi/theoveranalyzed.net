@@ -1,5 +1,5 @@
 @@ Title=New RSS Feeds  
-@@ Date=2015-06-01 17:35    
+@@ Date=2015-06-01 17:35  
 @@ Description=New real simple syndication feeds for Version 3.0 of the site.  
 @@ Tags=meta, TheOverAnalyzed, site announcements  
 

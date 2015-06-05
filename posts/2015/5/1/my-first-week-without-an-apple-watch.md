@@ -2,9 +2,9 @@
 @@ Date=2015-05-01  
 @@ Link=http://mrgan.tumblr.com/post/117864539382/my-first-week-without-an-apple-watch  
 @@ Description=Looks like Neven Mrgan doesn't have his Apple Watch yet either.  
-@@ Tags=Apple Watch, Apple, funny  
+@@ Tags=Apple Watch, Apple, funny, Neven Mrgan  
 
-[Panic](https://www.panic.com)'s Neven Mrgan, as sarcastic as ever:
+[Panic][panic]'s Neven Mrgan, as sarcastic as ever:
 >I stayed up until midnight on launch day so I could order an Apple Watch and get it as soon as possible (late May). So, here’s my first week without an Apple Watch.
 
 >In photos, the case has a pleasant matte feel. Its weight is 30 g, which I imagine feels light (something like 4 ounces?)
@@ -27,4 +27,7 @@ And here's my situation:
 	<figcaption>Yep, still June. Sigh.</figcaption>
 </figure>
 
-[Hat tip to [Mike Rundle](https://twitter.com/mrgan/status/594178748439625728)]
+[Hat tip to [Mike Rundle][twitter]]
+
+[panic]: https://www.panic.com
+[twitter]: https://twitter.com/mrgan/status/594178748439625728

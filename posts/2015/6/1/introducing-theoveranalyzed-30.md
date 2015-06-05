@@ -4,7 +4,7 @@
 @@ Tags=meta, TheOverAnalyzed, TheOverAnalyzed 3.0, design, blogging, web design, Squarespace, endings  
 @@ Image=http://d.pr/i/1lvGR+  
 
-Over the course of the next few days (weeks?), I am going to explain how exactly I left Squarespace and transitioned to Casey Liss's static blogging engine, [Camel][github]. I am aptly calling this series [TheOverAnalyzed 3.0](@@SiteRoot@@/tags/TheOverAnalyzed%203.0).
+Over the course of the next few days (weeks?), I am going to explain how exactly I left Squarespace and transitioned to Casey Liss's static blogging engine, [Camel][github]. I am aptly calling this series [TheOverAnalyzed 3.0][tag].
 
 I said "weeks" because it might actually take that long to finish the series. I haven't even begun to write the posts. Moreover, moving TheOverAnalyzed to Camel has taken up almost all of my free time over the past two weeks. Because of that, I'm sure I have several links saved to my "Blog Content" folder in Instapaper -- links I'm sure I'll want to share in-between these long-winded design pieces. My intent for this series to be part how-to[^for] and part web design philosophy in general.[^ph]
 
@@ -40,5 +40,6 @@ In the meantime, please explore the new site! I'm pretty proud of it. And as alw
 [^ph]: I could get pretty meta about the how and why of some of the things I have implemented on the site. 
 
 [github]: https://github.com/cliss/camel
+[tag]: http://www.theoveranalyzed.net/tags/TheOverAnalyzed%203.0
 [twitter]: https://twitter.com/caseyliss/status/603267259855982592
 [twitter 2]: https://twitter.com/freekrai/status/600328265576763392
