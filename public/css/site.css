@@ -69,9 +69,10 @@ a:hover {
 	color: #2e8eef;
 	border-top: 0;
 	border-left: 0;
-	border-right: 0;
-	border-bottom: 2px solid #2e8eef;
-	-webkit-transition: all .45s ease-in-out;
+	border-right: px;
+	border-bottom: 0px solid #2e8eef;
+	border-width: 1.5px;
+	-webkit-transition: all .17s ease-in-out;
 }
 
 /* @end */
@@ -632,6 +633,9 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
     margin-left: -1em;
 }
 
+a.header-anchor:hover {
+    border-bottom: none;
+}
 /* @end */
 
 
