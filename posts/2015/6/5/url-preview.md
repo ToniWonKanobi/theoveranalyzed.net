@@ -8,14 +8,14 @@ Brett Terpstra just released a nifty utility called [URL Preview][0402-0001], wh
 
 Since moving to [Camel][camel], I have been using [Byword][0402-0003] for all my writing on both OS X and iOS. I was previously using [MultiMarkdown Composer][0402-0004] by Fletcher Penney (the creator of [MultiMarkdown][0402-0005]) on OS X due to all the features included with MultiMarkdown spec. However, since the `npm` plugin Camel uses to parse Markdown [`markdown-it`][0402-0006] does everything that MultiMarkdown Composer did, and since I greatly prefer Byword's interface, I'm using it full-time ([again][again]).
 
-I just recently started using another utility from Brett called [SearchLink][0402-0002]. Using that in conjunction with with URL Preview makes writing significantly easier and less stressful, because it allows me to *just* write in Markdown, and worry about all the hyperlinks once I'm finished writing. 
+I recently started using another utility from Brett called [SearchLink][0402-0002]. Using that in conjunction with URL Preview makes writing significantly easier and less stressful, because it allows me to *just* write in Markdown, and worry about all the hyperlinks once I'm finished writing. 
 
 <figure>
 	<img src="http://d.pr/i/1glDj+" alt="sl and url preview" width="80%" />
-	<figcaption>StretchLink and URL Preview were made for each other.</figcaption>
+	<figcaption>SearchLink and URL Preview were made for each other.</figcaption>
 </figure>
 
-While both are free utilities, I'm sure Brett wouldn't mind a few bucks tossed his way for the trouble. Head over to his site for lengthy how-to's for both StretchLink and URL Preview.
+While both are free utilities, I'm sure Brett wouldn't mind a few bucks tossed his way for the trouble. Head over to his site for lengthy how-to's for both SearchLink and URL Preview.
 
 [0402-0001]: http://brettterpstra.com/projects/url-preview/
 [0402-0002]: http://brettterpstra.com/projects/searchlink/
