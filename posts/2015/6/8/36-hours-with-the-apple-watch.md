@@ -59,8 +59,8 @@ My biggest complaint with Watch OS deals specifically with Messages on the Watch
 My current watch face of choice is Modular. I tried the analog Utility mode, but I find the digital readout works better for me. I might switch it up at some point, but right now I am pretty happy with Modular's balance of complications and ease of time-telling (it *is* still a watch, after all).
 
 <div class="center">
-    <img src="http://d.pr/i/j7A8+" class="left" />
-    <img src="http://d.pr/i/19VQQ+" class="right"  />
+    <img src="http://d.pr/i/j7A8+" class="left"  width="40%" />
+    <img src="http://d.pr/i/19VQQ+" class="right" width="40%"  />
 <figcaption>Utility (Left) and Modular (Right)</figcaption>
 </div>
 
