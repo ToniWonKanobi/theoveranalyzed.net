@@ -29,7 +29,7 @@ This box was heavy. For all the poo-pooing I saw on Twitter regarding the dispar
 
 I [spent some time][theoveranalyzed 2] with the Watches in April, but no amount of Apple Retail Store employee fumbling with my wrist is a replacement for actually wearing it for a while. The Space Gray Watch is very, very sleek. At my try-on session, I think I was so enamored by the Watch collection to give due attention to its 'lesser' siblings.[^re]
 
-<figure>
+<figure class="nohover">
 	<a href="https://instagram.com/p/2ZlpBWGMyG/"><img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="spacegray" width="80%" /></a>
 	<figcaption>When Space Gray &#8800; Space Gray</figcaption>
 </figure>
