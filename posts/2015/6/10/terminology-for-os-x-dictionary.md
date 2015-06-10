@@ -1,5 +1,5 @@
 @@ Title=Terminology for OS X Dictionary  
-@@ Date=2015-06-10 14:00  
+@@ Date=2015-06-10 14:06  
 @@ Link=http://agiletortoise.com/terminology/mac/  
 @@ Description=Here's a better-than-stock dictionary service for OS X.  
 @@ Tags=OS X, utilities, Brett Terpstra, Terminology, Agile Tortoise  
