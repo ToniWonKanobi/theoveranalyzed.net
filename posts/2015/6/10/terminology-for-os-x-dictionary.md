@@ -7,7 +7,7 @@
 
 <figure class="figleft">
 	<a class="nohover" href="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg">
-		<img src="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg" alt="pic" width="80%" />
+		<img src="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg" alt="mac" />
 	</a>
 	<figcaption>Terminology integrates with OS X's three-finger tap (and Force Touch 'hard press'). </figcaption>
 </figure>
