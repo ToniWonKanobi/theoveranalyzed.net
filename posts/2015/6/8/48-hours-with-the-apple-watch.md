@@ -9,7 +9,9 @@ I did everything I was supposed to do.
 On the night of April 9th, I stayed up late like a big boy and placed my order for the Space Black Apple Watch. Despite the higher price tag, I was convinced this was the watch for me. It had that Darth Vader look, and as I mentioned [previously][theoveranalyzed], black is usually the better choice. I ordered the watch from the [Apple Store app][apple] on my iPhone, which has [traditionally][usatoday] been the most surefire way to ensure that I always had Apple's latest and greatest piece of glass on launch day. 
 
 <figure>
-	<img src="http://d.pr/i/1bp1g+" alt="sigh" width="80%" />
+	<a class="nohover" href="http://d.pr/i/1bp1g+">
+		<img src="http://d.pr/i/1bp1g+" alt="sigh" width="80%" />
+	</a>
 	<figcaption>Still.</figcaption>
 </figure>
 
@@ -30,7 +32,9 @@ This box was heavy. For all the poo-pooing I saw on Twitter regarding the dispar
 I [spent some time][theoveranalyzed 2] with the Watches in April, but no amount of Apple Retail Store employee fumbling with my wrist is a replacement for actually wearing it for a while. The Space Gray Watch is very, very sleek. At my try-on session, I think I was so enamored by the Watch collection to give due attention to its 'lesser' siblings.[^re]
 
 <figure>
-	<a class="nohover" href="https://instagram.com/p/2ZlpBWGMyG/"><img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="spacegray" width="80%" /></a>
+	<a class="nohover" href="https://instagram.com/p/2ZlpBWGMyG/">
+		<img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="spacegray" width="80%" />
+	</a>
 	<figcaption>When Space Gray &#8800; Space Gray</figcaption>
 </figure>
 
@@ -59,7 +63,7 @@ My biggest complaint with Watch OS deals specifically with Messages on the Watch
 My current watch face of choice is Modular. I tried the analog Utility mode, but I find the digital readout works better for me. I might switch it up at some point, but right now I am pretty happy with Modular's balance of complications and ease of time-telling (it *is* still a watch, after all).
 
 <figure>
-	<a href="http://d.pr/i/1aOLh+">
+	<a class="nohover" href="http://d.pr/i/1aOLh+">
 		<img src="http://d.pr/i/1aOLh+" alt="faces" width="80%" />
 	</a>
 	<figcaption>Utility (Left) and Modular (Right)</figcaption>
@@ -92,7 +96,9 @@ This isn't exactly a convenient way to change songs (or select a different podca
 I didn't even bother including the battery complication on my watch face. I used it for the better part of Sunday: waking up at 7 AM and going to bed around 10 PM. And after all that time, I stillI had ~10% battery life.
 
 <figure>
-	<img src="http://d.pr/i/diJa+" alt="left" width="80%" />
+	<a class="nohover" href="http://d.pr/i/diJa+">
+		<img src="http://d.pr/i/diJa+" alt="left" width="80%" />
+	</a>
 	<figcaption>Ignoring the prompts to enable Power Reserve</figcaption>
 </figure>
 
