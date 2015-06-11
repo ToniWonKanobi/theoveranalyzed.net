@@ -1,8 +1,8 @@
-@@ Title=Typeface Mechanics 001  
+@@ Title=Typeface Mechanics: 001  
 @@ Date=2015-03-15 10:00  
 @@ Link=http://www.frerejones.com/blog/typeface-mechanics-001/  
-@@ Description=Frere-Jones gives a primer on fonts.    
-@@ Tags=typefaces, fonts, design, web design, Tobias Frere-Jones      
+@@ Description=Frere-Jones gives a primer on fonts.  
+@@ Tags=typefaces, fonts, design, web design, Tobias Frere-Jones  
 
 By the time I really started paying attention to fonts about a year ago, [Tobias Frere-Jones][frerejones] had [already split][wikipedia] from [Jonathan Hoefler][typography].
 
