@@ -487,6 +487,10 @@ blockquote {
 
 /* @group Posts */
 
+.post .container {
+	margin-bottom: 8em;
+}
+
 .post .postHeader h1 {
     text-align: center;
     margin-bottom: 0em;
