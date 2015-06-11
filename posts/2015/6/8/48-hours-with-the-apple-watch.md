@@ -64,7 +64,7 @@ My current watch face of choice is Modular. I tried the analog Utility mode, but
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1aOLh+">
-		<img src="http://d.pr/i/1aOLh+" alt="faces" width="80%" />
+		<img src="http://d.pr/i/1aOLh+" alt="faces" />
 	</a>
 	<figcaption>Utility (Left) and Modular (Right)</figcaption>
 </figure>

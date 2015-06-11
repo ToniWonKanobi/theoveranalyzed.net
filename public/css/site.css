@@ -264,14 +264,14 @@ figure {
 figure.figleft {
 	margin: 1em 2em 2em 0em;
 	width: 50%;
-	display: inline;
+	display: inline-block;
 	float: left;
 }
 
 figure.figright {
 	margin: 1em 0em 2em 2em;
 	width: 50%;
-	display: inline;
+	display: inline-block;
 	float: right;
 }
 
@@ -770,18 +770,12 @@ center.bottomAd {
 	    margin-bottom: .5em;
 	}	
 	
-	figure.figleft {
-		margin-top: 2em;
-		margin-bottom: 2em;
-		display: inline-block;
-		text-align: center;
-	}
-	
+	figure.figleft,
 	figure.figright {
-		margin-top: 2em;
-		margin-bottom: 2em;
-		display: inline-block;
-		text-align: center;
+	    float: none;
+	    width: 100%;
+	    text-align: center;
+	    margin: auto;
 	}
 }
 
