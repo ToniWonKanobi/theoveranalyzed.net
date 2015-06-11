@@ -727,7 +727,7 @@ center.bottomAd {
 
 /* @group @media Queries */
 
-@media all and (max-width: 568px) {
+@media all and (max-width: 600px) {
 
     .container {
         margin-left:auto;
