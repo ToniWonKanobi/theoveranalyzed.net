@@ -262,14 +262,14 @@ figure {
 }
 
 figure.figleft {
-	margin: 2em 2em 2em 0em;
+	margin: 1em 2em 2em 0em;
 	width: 50%;
 	display: inline;
 	float: left;
 }
 
 figure.figright {
-	margin: 2em 2em 0em 2em;
+	margin: 1em 0em 2em 2em;
 	width: 50%;
 	display: inline;
 	float: right;
