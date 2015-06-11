@@ -8,7 +8,7 @@ I did everything I was supposed to do.
 
 On the night of April 9th, I stayed up late like a big boy and placed my order for the Space Black Apple Watch. Despite the higher price tag, I was convinced this was the watch for me. It had that Darth Vader look, and as I mentioned [previously][theoveranalyzed], black is usually the better choice. I ordered the watch from the [Apple Store app][apple] on my iPhone, which has [traditionally][usatoday] been the most surefire way to ensure that I always had Apple's latest and greatest piece of glass on launch day. 
 
-<figure>
+<figure class="figleft">
 	<a class="nohover" href="http://d.pr/i/1bp1g+">
 		<img src="http://d.pr/i/1bp1g+" alt="sigh" width="80%" />
 	</a>
@@ -31,7 +31,7 @@ This box was heavy. For all the poo-pooing I saw on Twitter regarding the dispar
 
 I [spent some time][theoveranalyzed 2] with the Watches in April, but no amount of Apple Retail Store employee fumbling with my wrist is a replacement for actually wearing it for a while. The Space Gray Watch is very, very sleek. At my try-on session, I think I was so enamored by the Watch collection to give due attention to its 'lesser' siblings.[^re]
 
-<figure>
+<figure class="figright">
 	<a class="nohover" href="https://instagram.com/p/2ZlpBWGMyG/">
 		<img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="spacegray" width="80%" />
 	</a>
@@ -95,7 +95,7 @@ This isn't exactly a convenient way to change songs (or select a different podca
 
 I didn't even bother including the battery complication on my watch face. I used it for the better part of Sunday: waking up at 7 AM and going to bed around 10 PM. And after all that time, I stillI had ~10% battery life.
 
-<figure>
+<figure class="figleft">
 	<a class="nohover" href="http://d.pr/i/diJa+">
 		<img src="http://d.pr/i/diJa+" alt="left" width="80%" />
 	</a>
