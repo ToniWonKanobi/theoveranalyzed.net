@@ -10,7 +10,7 @@ On the night of April 9th, I stayed up late like a big boy and placed my order f
 
 <figure class="figleft">
 	<a class="nohover" href="http://d.pr/i/1bp1g+">
-		<img src="http://d.pr/i/1bp1g+" alt="sigh" width="80%" />
+		<img src="http://d.pr/i/1bp1g+" alt="sigh" />
 	</a>
 	<figcaption>Still.</figcaption>
 </figure>
@@ -33,7 +33,7 @@ I [spent some time][theoveranalyzed 2] with the Watches in April, but no amount 
 
 <figure class="figright">
 	<a class="nohover" href="https://instagram.com/p/2ZlpBWGMyG/">
-		<img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="spacegray" width="80%" />
+		<img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="spacegray"  />
 	</a>
 	<figcaption>When Space Gray &#8800; Space Gray</figcaption>
 </figure>
@@ -97,7 +97,7 @@ I didn't even bother including the battery complication on my watch face. I used
 
 <figure class="figleft">
 	<a class="nohover" href="http://d.pr/i/diJa+">
-		<img src="http://d.pr/i/diJa+" alt="left" width="80%" />
+		<img src="http://d.pr/i/diJa+" alt="left" />
 	</a>
 	<figcaption>Ignoring the prompts to enable Power Reserve</figcaption>
 </figure>
