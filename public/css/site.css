@@ -76,7 +76,7 @@ a:hover {
 	-webkit-transition: all .17s ease-in-out;
 }
 
-a.nohover:hover {  /*No border on image links*/
+a.nohover:hover {  /*No border-bottom on image links*/
     background: none;
     border: none;
 }
