@@ -280,10 +280,11 @@ figcaption {
     text-align: center;
     font-style: italic;
     font-size:  .8em;
+    color: #9e9e9e;
 }
 
 .center {
-    display: block;
+    display: inline-block;
     margin-top: 2em;
     margin-bottom: 2em;
     margin-left: auto;
@@ -689,6 +690,10 @@ http://www.inessential.com) */
     height: 165px;
     margin-left: auto;
     margin-right: auto;
+}
+
+center.bottomAd {
+    margin: 2em;
 }
 
 .navFooter {
