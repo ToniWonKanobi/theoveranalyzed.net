@@ -257,16 +257,20 @@ table.sortable thead {
 figure {
     margin-top: 2em;
     margin-bottom: 2em;
-    display: block;
+    display: inline-block;
     text-align: center;
 }
 
 figure.figleft {
+	margin: 2em 2em 2em 0em;
+	width: 50%;
 	display: inline;
 	float: left;
 }
 
 figure.figright {
+	margin: 2em 2em 0em 2em;
+	width: 50%;
 	display: inline;
 	float: right;
 }
