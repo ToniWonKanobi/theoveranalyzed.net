@@ -284,7 +284,7 @@ figcaption {
 }
 
 .center {
-    display: inline-block;
+    display: inline;
     margin-top: 2em;
     margin-bottom: 2em;
     margin-left: auto;
@@ -684,16 +684,11 @@ a.header-anchor:hover {
 (Brent Simmons inspired -- 
 http://www.inessential.com) */
 
-.bottomAd {
-    border-top: 1px solid #ddd;
-    margin-top: 12em;
-    height: 165px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 center.bottomAd {
-    margin: 2em;
+    border-top: 1px solid #ddd;
+    height: 130px;
+    padding-top: 2em;
+    margin-top: 12em;
 }
 
 .navFooter {
@@ -733,6 +728,7 @@ center.bottomAd {
 /* @group @media Queries */
 
 @media all and (max-width: 568px) {
+
     .container {
         margin-left:auto;
         margin-right:auto;
@@ -773,6 +769,20 @@ center.bottomAd {
 	    padding-top: 2em;
 	    margin-bottom: .5em;
 	}	
+	
+	figure.figleft {
+		margin-top: 2em;
+		margin-bottom: 2em;
+		display: inline-block;
+		text-align: center;
+	}
+	
+	figure.figright {
+		margin-top: 2em;
+		margin-bottom: 2em;
+		display: inline-block;
+		text-align: center;
+	}
 }
 
 /* Fix for big ol' Bigfoot button on iPhone 6 Plus */
