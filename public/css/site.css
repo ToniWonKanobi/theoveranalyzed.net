@@ -777,7 +777,7 @@ center.bottomAd {
 	    float: none;
 	    width: 100%;
 	    text-align: center;
-	    margin: 2em;
+	    margin: 2em auto 2em auto;
 	}
 }
 
