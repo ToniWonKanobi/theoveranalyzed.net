@@ -406,7 +406,7 @@ blockquote {
     font-weight: 800;
     line-height: 1.5;
     margin-bottom: .2em;
-    color: #545454; 
+    color: #545454;
 }
 
 .homepage a.post-title:hover {
@@ -464,21 +464,24 @@ blockquote {
     vertical-align: -.05em;
 }
 
-.homepage .postHeader:nth-of-type(1) {
+/*.homepage .postHeader:nth-of-type(1) {
 	margin-top: 5em;
 }
 
 .homepage .postHeaderLinked:nth-of-type(1) {
 	margin-top: 5em;
-}
+}*/
 
 .homepage .day .daybreak {
     margin-top: 5em;
     margin-bottom:  5em;
+    margin-left: -20%;
     border: 0;
-    color: #ddd;
+    border-radius: 2px;
+	color: #ddd;
 	background-color: #ddd;
-	height: .4em;
+	height: .3em;
+	width: 140%;
 }
 
 /* @end */
@@ -664,6 +667,7 @@ a.header-anchor:hover {
     width: 100%;
     margin-top: 3em;
     margin-bottom: 12em;
+    padding-top: 0em;
 }
 
 .homepage .paginationFooter .previousPage {
@@ -743,7 +747,7 @@ center.bottomAd {
 	}
 	
 	.main {
-	    margin-top: 7em;
+	    margin-top: 5em;
 	}
 	
 	#mastheadbackground {
@@ -761,6 +765,18 @@ center.bottomAd {
 	    font-size: 95%;
 	    color: #ffffff;
 	    margin: -1em auto 1.1em auto;
+	}
+	
+	.homepage .day .daybreak {
+		margin-top: 3em;
+		margin-bottom: -1em;
+	    margin-left: -10%;
+		width: 120%;
+	}
+	
+	.homepage .paginationFooter {
+		margin-bottom: 6em;
+	    padding-top: 2em;
 	}
 	
 	.navFooter {
