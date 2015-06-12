@@ -488,7 +488,7 @@ blockquote {
 /* @group Posts */
 
 .post .container {
-	margin-bottom: 8em;
+	margin-bottom: 12em;
 }
 
 .post .postHeader h1 {
@@ -663,7 +663,7 @@ a.header-anchor:hover {
     display: block;
     width: 100%;
     margin-top: 3em;
-    margin-bottom: 3em;
+    margin-bottom: 12em;
 }
 
 .homepage .paginationFooter .previousPage {
@@ -692,7 +692,6 @@ center.bottomAd {
     border-top: 1px solid #ddd;
     height: 130px;
     padding-top: 2em;
-    margin-top: 12em;
 }
 
 .navFooter {
