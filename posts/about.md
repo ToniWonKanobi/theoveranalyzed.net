@@ -14,7 +14,7 @@ Consequently, Versions 1 through [2.5][instagram] of the site were built on the 
 
 I eventually found that even on Squarespace's Developer Platform, not *everything* was open for tweaking. Ultimately, too many simple tasks were made difficult using Squarespace, and too *few* difficult tasks were made simple using Squarespace. I knew I wanted something better, but wasn't sure I had the skills to leave a CMS and take on a self-hosted website.
 
-In early 2015, I caught wind of Casey Liss's blogging engine, Camel, which he open-sourced [months earlier][caseyliss]. With the option for an '[alternate RSS][rssa]' feed (linked posts point back to TheOverAnalyzed) and the openness of a completely customizable platform, I knew that was the direction I would eventually head. I procrastinated for a month before finally starting work on Version 3.0 of the site. Head over to [/nerd][nerd] for more technical information about the site.
+In early 2015, I caught wind of Casey Liss's blogging engine, Camel, which he open-sourced [months earlier][caseyliss]. With the option for an '[alternate][rssa]' RSS feed (linked posts point back to TheOverAnalyzed) and the openness of a completely customizable platform, I knew that was the direction I would eventually head. I procrastinated for a month before finally starting work on Version 3.0 of the site. Head over to [/nerd][nerd] for more technical information about the site.
 
 Thanks for stopping by.
 
