@@ -97,6 +97,11 @@ a.nohover:hover {  /*No border-bottom on image links*/
     margin: 1em auto 1em auto;
 }
 
+.entry {
+	margin-bottom: 12em;
+}
+
+
 /* @end */
 
 
@@ -371,6 +376,10 @@ blockquote {
 
 /* @group Homepage */
 
+.homepage .entry {
+	margin-bottom:  inherit;
+}
+
 .homepage .postHeader h1 {
     font-size: 2em;
     font-weight: 800;
@@ -494,10 +503,6 @@ blockquote {
 
 
 /* @group Posts */
-
-.post .container {
-	margin-bottom: 12em;
-}
 
 .post .postHeader h1 {
     text-align: center;
