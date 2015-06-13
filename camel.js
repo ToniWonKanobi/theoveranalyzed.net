@@ -1010,7 +1010,8 @@ app.get('/rss', function (request, response) {
 		if ( typeof(article.metadata.Link) !== 'undefined' ) {
 			return '→ ' + article.metadata.Title;	
 		}
-		return article.metadata.Title;
+//		return article.metadata.Title;
+		return '🐺 ' + article.metadata.Title;
 	}, function (rss) {
 		renderedRss = rss;
 		response.status(200).send(renderedRss.rss);
