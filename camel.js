@@ -1008,8 +1008,7 @@ app.get('/rss', function (request, response) {
 		return externalFilenameForFile(article.file, request);
 	}, function (article){
 		if ( typeof(article.metadata.Link) !== 'undefined' ) {
-//			return '→ ' + article.metadata.Title;	
-			return article.metadata.Title;
+			return '→ ' + article.metadata.Title;	
 		}
 //		return article.metadata.Title;
 		return '🐺 ' + article.metadata.Title;
