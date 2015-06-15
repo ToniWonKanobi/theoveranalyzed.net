@@ -1,6 +1,5 @@
 @@ Title=Nerd  
 @@ HideHeader=true  
-@@ BodyClass=nerd
 
 <h1>Nerdy Stuff</h1>
 
@@ -24,18 +23,21 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 
 **[/live][live]** for occasional coverage of live events such as [WWDC][apple]
 
+**[/dailyupdate][du]** for the daily emails with links to posts
+
 [^pa]: Just add [`[[TOC]]`][github 5] where you want the table of contents to show up in the HTML. This is much like what Fletcher Penney's [MultiMarkdown Composer][multimarkdown] can do in Version 3 (currently in beta)
 [^tr]: [Try it!][try]
 [^p]: You could similarly do something similar for [2014][2014] (or any other year). You could even get more specific than that and list posts by year *and* month *and* day (e.g., [/2014/12/24][dec])
 [^t]: You even get more specific than that and list posts having a particular tag (e.g., maybe you wanted to see every post having to do with [Apple][ap]. (Note that tags are Case Sensitive.)
 
-[2014]: @@SiteRoot@@/2014
-[ap]: @@SiteRoot@@/tags/Apple
+[2014]: http://www.theoveranalyzed.net/2014
+[ap]: http://www.theoveranalyzed.net/tags/Apple
 [apple]: https://developer.apple.com/wwdc/
 [bigfootjs]: http://bigfootjs.com
-[br]: @@SiteRoot@@/brokenlinks
+[br]: http://www.theoveranalyzed.net/brokenlinks
 [d]: http://d.pr/i/1iSqM+
-[dec]: @@SiteRoot@@/2014/12/24
+[dec]: http://www.theoveranalyzed.net/2014/12/24
+[du]: http://www.theoveranalyzed.net/dailyupdate
 [expressjs]: http://expressjs.com/
 [fitvidsjs]: http://fitvidsjs.com
 [github]: https://github.com/DataMcFly/camel
@@ -43,7 +45,7 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 [github 3]: https://github.com/cliss/camel/blob/master/package.json
 [github 4]: https://github.com/markdown-it/markdown-it#simple
 [github 5]: https://github.com/Oktavilla/markdown-it-table-of-contents#example-markdown
-[live]: @@SiteRoot@@/live
+[live]: http://www.theoveranalyzed.net/live
 [marco]: http://www.marco.org/2011/10/17/instapaper-4-released
 [multimarkdown]: http://multimarkdown.com
 [nodejs]: https://nodejs.org/
@@ -52,9 +54,9 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 [npmjs 3]: https://www.npmjs.com/package/markdown-it-anchor
 [npmjs 4]: https://www.npmjs.com/package/markdown-it-table-of-contents
 [npmjs 5]: https://www.npmjs.com/package/markdown-it-highlightjs
-[nerd]: @@SiteRoot@@/nerd.md
-[pro]: @@SiteRoot@@/2015/3/9/constrain-embedded-videos-while-preserving-correct-aspect-ratios-in-squarespace
-[tags]: @@SiteRoot@@/tags
-[try]: @@SiteRoot@@/nerd.md
+[nerd]: http://www.theoveranalyzed.net/nerd.md
+[pro]: http://www.theoveranalyzed.net/2015/3/9/constrain-embedded-videos-while-preserving-correct-aspect-ratios-in-squarespace
+[tags]: http://www.theoveranalyzed.net/tags
+[try]: http://www.theoveranalyzed.net/nerd.md
 [twitter]: https://twitter.com/caseyliss
-[year]: @@SiteRoot@@/2015
+[year]: http://www.theoveranalyzed.net/2015

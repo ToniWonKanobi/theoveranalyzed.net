@@ -3,17 +3,19 @@
 
 <h1>The Daily Update</h1>
 
-Congratulations! You've made it to the super-secret corner of my site that contains information regarding the Daily Update[^du] email subscription.
+Congratulations.
 
-While most nerdy folk will subscribe to the site via [Twitter][twitter] or [RSS][rss], most of my family and friends are not that nerdy. To accommodate their non-nerdy tendencies, I created a [MailChimp][mailchimp] newsletter connected to my [alternate RSS][rssa] feed. MailChimp can push out daily email updates with new posts from the site. 
+You have stumbled onto the super-secret corner of my site that contains information regarding the Daily Update[^du] email subscription.
+
+While most nerdy folks will subscribe to the site via [Twitter][twitter] or [RSS][rss], most of my family and friends are not that nerdy. To accommodate their non-nerdy tendencies, I created a [MailChimp][mailchimp] newsletter powered by my RSS feed. MailChimp pushes daily email updates with new posts from the site. 
 
 I have struggled with offering email subscriptions since founding TheOverAnalyzed in 2014. Originally, I was all for it, since I figured it would be better to include and not exclude non-nerdy people by default. However, my plans were thwarted when I realized that, at least [according to MailChimp][mailchimp 2], my email campaign would be subject to the [US CAN-SPAM Act][business]. In a nutshell, this would have required me to include my actual home address in the footer of the emails (since TheOverAnalyzed is not a business with its own business address). That was something I was just not comfortable with.
 
-So what's changed? Nothing, really. I don't plan to use my actual address in the bodies of MailChimp's emails. It's just that I don't care about MailChimp's blind subscription application of the US CAN-SPAM Act. The Act was meant to curb spammers who so often mask nefarious intentions with tons of misleading text and flashy HTML graphics. That's not what I'm trying to do. I'm not selling anything. My blog is just for my rants, and sharing other people's rants. If that doesn't jive with MailChimp, whatever. Come at me MailChimp. I dare you.
+So what's changed? Nothing, really. I still don't plan to use my actual address in the bodies of MailChimp's emails. I have just come to the realization that I simply don't care enough about MailChimp's blind subscription application of the US CAN-SPAM Act. The Act was meant to curb spammers who so often mask nefarious intentions with tons of misleading text and flashy HTML graphics. That's not what I'm trying to do. I'm not selling anything. My blog is just for my rants, and sharing other people's rants. If that doesn't jive with MailChimp, whatever. Come at me MailChimp: I dare you.
 
-Since [moving][move] to Casey Liss's Camel, I have a built-in 'permalink RSS feed' of sorts. This alternate RSS feed contains linked entries pointing back to my site (in lieu of their targets). This was a great basis for the newsletter feed, since the same people put off by Twitter and RSS are probably the same people put off by the idea of a Linked List.
+Since [moving][move] to Casey Liss's Camel, I have a built-in 'permalink RSS feed' of sorts. The [alternate RSS][rssa] feed has linked entries pointing back to my site (in lieu of their targets). This was a great basis for the newsletter feed, since the same people put off by Twitter and RSS are probably the same people put off by the idea of a Linked List.
 
-Signup for the Daily Update below
+Signup for the Daily Update below:
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }</style>
@@ -41,7 +43,7 @@ Signup for the Daily Update below
 [bt]: https://stratechery.com/membership/
 [mailchimp]: http://mailchimp.com
 [mailchimp 2]: http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns
-[move]: @@SiteRoot@@/2015/6/1/theoveranalyzed-30
-[rss]: @@SiteRoot@@/rss
-[rssa]: @@SiteRoot@@/rss-alternate
+[move]: http://www.theoveranalyzed.net/2015/6/1/introducing-theoveranalyzed-30
+[rss]: http://www.theoveranalyzed.net/rss
+[rssa]: http://www.theoveranalyzed.net/rss-alternate
 [twitter]: http://www.twitter.com/theoveranalyzed
