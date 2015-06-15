@@ -12,7 +12,7 @@ In addition to the loads of Tweet-learning passed to me from both [Casey Liss][t
 
 The tentative outline:
 
-### Part I: Making Files Play Nice With Camel
+### Part I: Modifying Files To Play Nice With Camel
 
 Making all my old Markdown files play nice with Camel was easy, but extremely time-consuming.
 
@@ -20,7 +20,7 @@ Making all my old Markdown files play nice with Camel was easy, but extremely ti
 
 I wanted to make sure that links shared on Twitter -- although no longer canonical -- pointed to the old content's new location.
 
-### Part III: Modifying Camel
+### Part III: Making Camel My Own
 
 Camel came with several nifty Markdown plugins, but I wanted more. 
 
