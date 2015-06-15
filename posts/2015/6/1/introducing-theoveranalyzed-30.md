@@ -40,6 +40,6 @@ In the meantime, please explore the new site! I'm pretty proud of it. And as alw
 [^ph]: I could get pretty meta about the how and why of some of the things I have implemented on the site. 
 
 [github]: https://github.com/cliss/camel
-[tag]: http://www.theoveranalyzed.net/tags/Leaving%20Squarespace%20TheOverAnalyzed%203.0
+[tag]: http://www.theoveranalyzed.net/tags/Leaving%20Squarespace:%20TheOverAnalyzed%203.0
 [twitter]: https://twitter.com/caseyliss/status/603267259855982592
 [twitter 2]: https://twitter.com/freekrai/status/600328265576763392
