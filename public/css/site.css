@@ -266,6 +266,15 @@ figure {
     text-align: center;
 }
 
+figure.wide {
+	width: 140%;
+	margin-left: 20%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    display: inline-block;
+    text-align: center;
+}
+
 figure.figleft {
 	margin: 0.5em 2em 1em .5em;
 	width: 50%;
@@ -297,7 +306,7 @@ figcaption {
     text-align: center;
 }
 
-.center img.left {
+/*.center img.left {
     margin-right: 2em;
 }
 
@@ -313,7 +322,7 @@ figcaption {
 
 .content img {
     max-width: 100%;
-}
+}*/
 
 .headshot {
     float: right;
