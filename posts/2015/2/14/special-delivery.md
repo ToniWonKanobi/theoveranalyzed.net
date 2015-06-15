@@ -2,10 +2,10 @@
 @@ Date=2015-02-14 08:00  
 @@ Description=Happy Valentine's Day Allison.  
 @@ Tags=Anthony, Allison  
-@@ HideHeader=true
+@@ HideHeader=true  
 @@ HideFooter=true  
-@@ HidepageHeader=true
-@@ HidepageFooter=true 
+@@ HidepageHeader=true  
+@@ HidepageFooter=true  
 
 <div class="center">
 
