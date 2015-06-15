@@ -4,8 +4,8 @@
 @@ Tags=Anthony, Allison  
 @@ HideHeader=true
 @@ HideFooter=true  
-@@ HidesiteHeader=true
-@@ HidesiteFooter=true 
+@@ HidepageHeader=true
+@@ HidepageFooter=true 
 
 <div class="center">
 
