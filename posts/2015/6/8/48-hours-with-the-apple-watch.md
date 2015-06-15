@@ -97,7 +97,7 @@ I didn't even bother including the battery complication on my watch face. I used
 
 I think Apple way-overshot their battery conservation measures. It feels like the display turns off the instant I look away. I wish it was just a little bit longer before auto-off. I can't blame Apple, though. Imagine all the complaints they would have gotten if the Watch died in the middle of the day like everyone feared after last year's introduction. 
 
-<figure class="figleft">
+<figure class="figright">
 	<a class="nohover" href="http://d.pr/i/diJa+">
 		<img src="http://d.pr/i/diJa+" alt="left" />
 	</a>
