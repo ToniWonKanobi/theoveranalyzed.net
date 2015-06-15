@@ -24,7 +24,7 @@ I wanted to make sure that links shared on Twitter -- although no longer canonic
 
 Camel came with several nifty Markdown plugins, but I wanted more. 
 
-### Part IV: Making A Camel Look Nice
+### Part IV: Making Camel Look Nice
 
 Second only to the time spent modifying the files, this step took the longest (and for good reason).
 
