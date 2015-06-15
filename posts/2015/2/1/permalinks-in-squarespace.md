@@ -93,7 +93,7 @@ Here is the relevant code he suggests pasting there:[^pth]
 Now, whenever I post a "Linked List" item, as long as the "External link" checkbox is checked in the New Post Advanced panel, a permalink will show up just to the right of the title of the post (which is the target external link):
 
 <figure>
-	<img src="http://d.pr/i/1lSZU+" alt="boom" width="80%" />
+	<img src="http://d.pr/i/1lSZU+" alt="boom" />
 	<figcaption>Boom</figcaption>
 </figure>
 

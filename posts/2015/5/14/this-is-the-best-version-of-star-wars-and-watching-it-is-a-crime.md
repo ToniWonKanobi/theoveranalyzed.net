@@ -26,7 +26,7 @@ I suppose it all depends on your [point of view][youtube].
 In case you were wondering:
 
 <figure>
-	<img src="http://d.pr/i/NHJO+" width="80%">
+	<img src="http://d.pr/i/NHJO+" />
 	<figcaption><a href="https://github.com/donmelton/video-transcoding-scripts">Don Melton</a>-ing these has been on my list of things to do for way too long</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@
 @@ Tags=Apple, Apple Watch, John Gruber  
 
 Steven Sande for Apple World Today: 
->What this tells us, of course, is that for a lot more people, the Watch Sport may be the model that they'll go for. The price is right and they get the same functionality as the $10,000 model with a lot less pretentiousness.
+>What this tells us, of course, is that for a lot more people, the Apple Watch Sport may be the model that they'll go for. The price is right and they get the same functionality as the $10,000 model with a lot less pretentiousness.
 
 I couldn't *disagree* more. I think, if anything, this will push people *upmarket* -- not downmarket -- to the Apple Watch collection, away from the Apple Watch Sport collection. 
 
@@ -16,7 +16,7 @@ It's the [iPad effect][daringfireball]. When iPad launched in 2010, everyone tho
 The same will be true for Apple Watch collection. Gruber [thought][daringfireball 2] the Edition might fall closer to the $10,000 - $20,000 range. 
 
 <figure>
-	<img src="http://d.pr/i/1epcH+" alt="gruber" width="80%" />
+	<img src="http://d.pr/i/1epcH+" alt="gruber" />
 	<figcaption>Gruber was so right.</figcaption>
 </figure>
 

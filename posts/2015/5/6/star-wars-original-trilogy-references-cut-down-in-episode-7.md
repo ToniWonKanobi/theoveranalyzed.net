@@ -10,8 +10,8 @@ Ethan Anderton, reporting for /Film:
 Fan service isn' a new concept in movie-making. Often, sequels/prequels, and franchise reboots -- they can all pay some nerd-level homage to previous works. Fans like that. 
 
 <figure>
-<img src="http://www.nerdist.com/wp-content/uploads/2012/12/trek-hands-touching1.jpg" alt="Didnt seeing this make you so happy on the inside?" id="spock" style="width:80%;" />
-<figcaption>Didn&#8217;t seeing this make you so happy on the inside?</figcaption>
+	<img src="http://www.nerdist.com/wp-content/uploads/2012/12/trek-hands-touching1.jpg" alt="Didnt seeing this make you so happy on the inside?" alt="spock"  />
+	<figcaption>Didn&#8217;t seeing this make you so happy on the inside?</figcaption>
 </figure>
 
 But, like Anderson notes, going overboard on references can be detrimental to the movie. Here's a Vanity Fair (via [The Playlist][indiewire]) quote from Abrams on the subject:

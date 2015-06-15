@@ -17,14 +17,14 @@ If their 'mission statement' of sorts seems rather ambiguous, that's because it 
 And there's nothing wrong with that. The hip and 'responsive design'-ed technology blog / site corner of the interweb has become terribly crowded in the past few years. There are only so many stores one can read about the next iPhone. 
 
 <figure>
-	<img src="http://d.pr/i/11ugt+" alt="how" width="80%" />
+	<img src="http://d.pr/i/11ugt+" alt="how" />
 	<figcaption>How many technology sites does it take?</figcaption>
 </figure>
 
 As an aside, consider my [RSS subscriptions][d]. In my so-called "Favorites" folder, created by me to contain the absolute *most* important authors I follow, it takes no less than **seven** blogs to satisfy my desire for tech opinions. 
 
 <figure>
-	<img src="http://d.pr/i/1jrql+" alt="caption" width="80%" />
+	<img src="http://d.pr/i/1jrql+" alt="caption" />
 	<figcaption>Loving that dog-shaped favicon on that last entry in my Favorites list. I wonder whose <a href="@@SiteRoot@@/2015/2/25/designing-theoveranalyzed" >clever work</a> created that?</figcaption>
 </figure>
 

@@ -3,8 +3,8 @@
 @@ Description=In anticipation for the new MacBook, I've sold my MacBook Air, and have been going without. It's been interesting.  
 @@ Tags=Anthony, MacBook  
 
-<figure>
-	<img src="http://d.pr/i/1fwsW+" alt="not" width="60%" />
+<figure class="wide">
+	<img src="http://d.pr/i/1fwsW+" alt="not" />
 	<figcaption>Not sure how <a href="http://www.imore.com/how-ipad-air-2-became-federico-viticcis-main-computer">Viticci</a> does it.</figcaption>
 </figure>
 

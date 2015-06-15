@@ -5,7 +5,7 @@
 @@ Image=http://d.pr/i/1dizS+   
 
 <figure>
-	<img src="http://d.pr/i/1d78E+" alt="Soft Remix is one of the earliest available WinterBoard themes for iOS 7" width="50%" />
+	<img src="http://d.pr/i/1d78E+" alt="Soft Remix is one of the earliest available WinterBoard themes for iOS 7" width="63%" />
 	<figcaption>Soft Remix is one of the earliest available WinterBoard themes for iOS 7</figcaption>
 </figure>
 
@@ -14,7 +14,7 @@ One of the most wonderful things about jailbreaking an iOS device is [WinterBoar
 When the evasi0n team brought out the jailbreak for 2012, one of the first themes I installed was [FlatIcons][flaticonsios]. An update to that theme was just recently submitted to its repository, and should be live on Cydia soon. To tide me over until them, a few weeks ago I installed a theme borne of a similar design esthetic: I call it 'flat, but not ugly' (as opposed to some hideous stock [iOS 7 app icons][cultofmac])
 
 <figure>
-	<img src="http://d.pr/i/179Co+" alt="I can't remember where I found this random meme." width="50%" />
+	<img src="http://d.pr/i/179Co+" alt="I can't remember where I found this random meme." width="63%" />
 	<figcaption>I cannot recall where I found this meme.</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ It's called [Soft Remix][thebigboss], and it's great. Besides a few glaringly ug
 Even apps that have not been specifically drawn by López look great with the custom mask overlaid. 
 
 <figure>
-	<img src="http://d.pr/i/1dizS+" alt="Precious" width="50%" />
+	<img src="http://d.pr/i/1dizS+" alt="Precious" width="63%" />
 	<figcaption>Precious</figcaption>
 </figure>
 

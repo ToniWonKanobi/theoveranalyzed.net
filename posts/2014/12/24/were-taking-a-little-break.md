@@ -10,7 +10,7 @@ I love all three of the three aforementioned brands. Toms' charity has been [wel
 Upon opening all three websites, I noticed something about the Cotton Bureau one that induced some warm-fuzzy feelings: 
 
 <figure>
-	<img src="http://d.pr/i/HrLu+" alt="Precious 🎄" width="80%" />
+	<img src="http://d.pr/i/HrLu+" alt="Precious 🎄" />
 	<figcaption>Precious 🎄</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ After all my hyperbole, you can, therefore, imagine my delight upon navigating t
 This was Patagonia's website when I navigated there today: 
 
 <figure>
-	<img src="http://d.pr/i/17jKj+" alt="They aren't closed for the holidays, but they are still legit. See story below." width="80%" />
+	<img src="http://d.pr/i/17jKj+" alt="They aren't closed for the holidays, but they are still legit. See story below." />
 	<figcaption>They aren't closed for the holidays, but they are still legit. See story below.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Wow. How refreshing.
 And how about Toms?
 
 <figure>
-	<img src="http://d.pr/i/jVnS+" alt="Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight." width="80%" />
+	<img src="http://d.pr/i/jVnS+" alt="Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight." />
 	<figcaption>Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight.</figcaption>
 </figure>
 

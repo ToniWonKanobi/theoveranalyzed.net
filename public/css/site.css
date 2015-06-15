@@ -264,11 +264,12 @@ figure {
     margin-bottom: 2em;
     display: inline-block;
     text-align: center;
+    width: 80%;
 }
 
 figure.wide {
 	width: 140%;
-	margin-left: 20%;
+	margin-left: -20%;
     margin-top: 2em;
     margin-bottom: 2em;
     display: inline-block;
@@ -289,6 +290,14 @@ figure.figright {
 	float: right;
 }
 
+/* Makes the wide images stay within the content
+width for the homepage */
+.homepage figure.wide {
+	width: 80%;
+	margin-left: 10%;
+	text-align: center;
+}
+
 figcaption {
     margin-top: .5em;
     text-align: center;
@@ -306,7 +315,7 @@ figcaption {
     text-align: center;
 }
 
-/*.center img.left {
+.center img.left {
     margin-right: 2em;
 }
 
@@ -322,7 +331,7 @@ figcaption {
 
 .content img {
     max-width: 100%;
-}*/
+}
 
 .headshot {
     float: right;
@@ -362,7 +371,8 @@ blockquote {
 
 /* @group Role Separators */
 
-.homepage .article hr {
+.homepage hr,
+.post hr {
     width: 100%;
     margin-top: 1.7em;
     margin-bottom: 1.7em;
@@ -810,12 +820,15 @@ center.bottomAd {
 	
 /* Makes 'Casey Liss' style floated-images behave like regular <figure> images */
 
+	figure,
 	figure.figleft,
-	figure.figright {
+	figure.figright,
+	figure.wide,
+	.homepage figure.wide {
 	    float: none;
 	    width: 100%;
 	    text-align: center;
-	    margin: 2em auto 2em auto;
+	    margin: 1em auto 1em auto;
 	}
 }
 

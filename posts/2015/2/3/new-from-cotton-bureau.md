@@ -9,7 +9,7 @@ Starting this week, I will be occasionally featuring neat designs from my favori
 Up this week, "[MTR][cottonbureau 2]" by [Sean Duncan][twitter]:
 
 <figure>
-	<img src="https://cottonbureau.com/img/products/3422_8cnL_1600.jpg" alt="MTR" width="70%" />
+	<img src="https://cottonbureau.com/img/products/3422_8cnL_1600.jpg" alt="MTR" />
 	<figcaption>MTR</figcaption>
 </figure>
 

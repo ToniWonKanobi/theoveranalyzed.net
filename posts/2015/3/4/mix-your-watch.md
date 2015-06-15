@@ -7,7 +7,7 @@
 Pretty cool little demo:
 
 <figure>
-	<img src="http://d.pr/i/1dPkU+" alt="neat" width="80%" />
+	<img src="http://d.pr/i/1dPkU+" alt="neat" />
 	<figcaption>Neat.</figcaption>
 </figure>
 

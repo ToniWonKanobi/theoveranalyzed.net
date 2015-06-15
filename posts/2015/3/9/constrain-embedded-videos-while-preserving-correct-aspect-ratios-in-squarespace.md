@@ -29,7 +29,7 @@ Now, because I have set the width of my "main content" to 450px,[^on][^tr] I wou
 The problem with that is that it leads to aspect ratio weirdness like this:
 
 <figure>
-	<img src="http://d.pr/i/10yC5+" alt="stubby" width="80%" />
+	<img src="http://d.pr/i/10yC5+" alt="stubby" />
 	<figcaption>Stubby</figcaption>
 </figure>
 
@@ -86,14 +86,14 @@ Copier says to "Target your .container, .wrapper, .post, etc." The problem was t
 To figure out what container to target using Safari, first make sure you have turned on "Show Develop menu in menu bar" (Chrome users can do something similar).
 
 <figure>
-	<img src="http://d.pr/i/1097d+" alt="make" width="80%" />
+	<img src="http://d.pr/i/1097d+" alt="make" />
 	<figcaption>Make sure the Develop option is checked</figcaption>
 </figure>
 
 Then, navigate to your page and then navigate to `Develop` → `Show Page Source`.[^or]
 
 <figure>
-	<img src="http://d.pr/i/1bkxh+" alt="showing" width="80%" />
+	<img src="http://d.pr/i/1bkxh+" alt="showing"  />
 	<figcaption>Showing the page source has helped me with lots of HTML/CSS problems in the past</figcaption>
 </figure>
 
@@ -102,14 +102,14 @@ For my site, I visited the `/archive/` page, which is the URL slug for my main b
 After viewing the source, make sure that "Source Code" is selected and then click "Inspect Element". This will allow you to hover over the main content area of the blog post to try and figure out what that area is called. Whatever that main area is called -- *that's* what you're looking to target with the script.
 
 <figure>
-	<img src="http://d.pr/i/10stf+" alt="looking" width="80%" />
+	<img src="http://d.pr/i/10stf+" alt="looking"  />
 	<figcaption>Looking for the important stuff</figcaption>
 </figure>
 
 What we are looking for (at least in my template): `.main-content`
 
 <figure>
-	<img src="http://d.pr/i/1enKi+" alt="there" width="80%" />
+	<img src="http://d.pr/i/1enKi+" alt="there"  />
 	<figcaption>There you are, <code>.main-content</code></figcaption>
 </figure>
 

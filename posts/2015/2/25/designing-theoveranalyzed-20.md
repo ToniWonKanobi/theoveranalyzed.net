@@ -3,7 +3,9 @@
 @@ Description=I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
 @@ Tags=Squarespace, Sketch, TheOverAnalyzed, Pixelmator, design, web design  
 
+<div class="center">
 *When I launched TheOverAnalyzed last year, I knew nothing about HTML, CSS, JavaScript, or web design in general. Now, a year later, I still know nothing relatively nothing about the aforementioned topics. But, I know a whole lot more than I did.*
+</div>
 
 <h2>Contents</h2>
 
@@ -20,7 +22,7 @@ I started with the [Native][squarespace] template, which was, like most template
 Here's the Native demo page:
 
 <figure>
-	<img src="http://d.pr/i/196ta+" alt="native" width="80%" />
+	<img src="http://d.pr/i/196ta+" alt="native"  />
 	<figcaption>The stock Native template</figcaption>
 </figure>
 
@@ -29,14 +31,14 @@ Eventually, I noticed that the way Native implemented [blockquotes][d] was kind 
 Here's the Avenue demo page: 
 
 <figure>
-	<img src="http://d.pr/i/rxBP+" alt="avenue" width="80%" />
+	<img src="http://d.pr/i/rxBP+" alt="avenue"  />
 	<figcaption>The stock Avenue template</figcaption>
 </figure>
 
 And here's a screenshot[^v] of my site from just a couple of weeks ago, before the first big design change:
 
 <figure>
-	<img src="http://d.pr/i/1cvPC+" alt="caption" width="80%" />
+	<img src="http://d.pr/i/1cvPC+" alt="caption"  />
 	<figcaption>TheOverAnalyzed with the Avenue template (Version 1)</figcaption>
 </figure>
 
@@ -81,7 +83,7 @@ I quickly familiarized myself with `blog.list` and `blog.item` and was able to m
 Here's a screenshot of Permalinks Version 1.0:[^pl]
 
 <figure>
-	<img src="http://d.pr/i/1lSZU+" alt="Permalinks Version 1" width="80%" />
+	<img src="http://d.pr/i/1lSZU+" alt="Permalinks Version 1"  />
 	<figcaption>Permalinks Version 1.0</figcaption>
 </figure>
 
@@ -106,12 +108,12 @@ I noticed [Above Avalon][aboveavalon] a few weeks ago, and loved the non-scrolli
 Here is Niel Cybart's Stratechery-esche Above Avalon:
 
 <figure>
-	<img src="http://d.pr/i/11RRa+" alt="aboveavalon" width="80%" />
+	<img src="http://d.pr/i/11RRa+" alt="aboveavalon"  />
 	<figcaption>Above Avalon's homepage</figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/19QPN+" alt="caption" width="80%" />
+	<img src="http://d.pr/i/19QPN+" alt="caption"  />
 	<figcaption>Look at that <code>.main-content</code> scroll</figcaption>
 </figure>
 
@@ -122,12 +124,12 @@ I looked around the templates and discovered that Cybart had implemented a relat
 Here is the Wells demo:
 
 <figure>
-	<img src="http://d.pr/i/1bItW+" alt="wells" width="80%" />
+	<img src="http://d.pr/i/1bItW+" alt="wells"  />
 	<figcaption>Wells template</figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/Q7z1+" alt="caption" width="80%" />
+	<img src="http://d.pr/i/Q7z1+" alt="caption"  />
 	<figcaption>And here is TheOverAnalyezd with Wells (Version 1.0 of the site)</figcaption>
 </figure>
 
@@ -136,14 +138,14 @@ Note that the content was pushed all the way to the left of the window. This was
 After consulting with the [Squarespace Answers Forum](answers.squarespace.com), I was able to move the content over to the center, more or less:
 
 <figure>
-	<img src="http://d.pr/i/EfZ+" alt="sorta" width="80%" />
+	<img src="http://d.pr/i/EfZ+" alt="sorta"  />
 	<figcaption>Sorta-centered</figcaption>
 </figure>
 
 But this led to a terrible design on mobile:
 
 <figure>
-	<img src="http://d.pr/i/1l1L9+" alt="mobile" width="50%" />
+	<img src="http://d.pr/i/1l1L9+" alt="mobile" width="63%" />
 	<figcaption>Mobile, pre-<code>custom.less</code></figcaption>
 </figure>
 
@@ -189,7 +191,7 @@ Squarespace had *just* rolled out their [logo designer tool][squarespace 6].[^ld
 I think it was actually a pretty nice logo considering it took me about 5 minutes to put together:
 
 <figure>
-	<img src="http://d.pr/i/1b8Ss+" alt="logo1" width="85%" />
+	<img src="http://d.pr/i/1b8Ss+" alt="logo1" />
 	<figcaption>Logo Version 1.0</figcaption>
 </figure>
 
@@ -224,49 +226,49 @@ Sketch is on its [third major version][bohemiancoding] now, and while its true p
 I started with a photo of Smokey:
 
 <figure>
-	<img src="http://d.pr/i/19uo2+" alt="original" width="80%" />
+	<img src="http://d.pr/i/19uo2+" alt="original"  />
 	<figcaption>Original picture of Smokey</figcaption>
 </figure>
 
 Then I reduced the opacity to 50%, to make vectorizing the image easier:
 
 <figure>
-	<img src="http://d.pr/i/19gqG+" alt="opacity" width="80%" />
+	<img src="http://d.pr/i/19gqG+" alt="opacity"  />
 	<figcaption>Opacity reduced</figcaption>
 </figure>
 
 And here's the vector, minus some smoothing:
 
 <figure>
-	<img src="http://d.pr/i/9MUF+" alt="vector" width="80%" />
+	<img src="http://d.pr/i/9MUF+" alt="vector"  />
 	<figcaption>Original vector</figcaption>
 </figure>
 
 And here's the circle logo:
 
 <figure>
-	<img src="http://d.pr/i/dOCb+" alt="circke" width="80%" />
+	<img src="http://d.pr/i/dOCb+" alt="circke"  />
 	<figcaption>Circle logo</figcaption>
 </figure>
 
 Next, the logo with text. I chose Futura Condensed ExtraBold. I like the weight, and I especially like Futura because of its versatility. It's not as trendy or readable as Proxima Nova (`body-font-font-family`), sure. But it conveys a certain amount of gravitas, without seeming too formal. It's almost comical, but only slightly so. I think that suits the site well:
 
 <figure>
-	<img src="http://d.pr/i/19wtr+" alt="logotext" width="80%" />
+	<img src="http://d.pr/i/19wtr+" alt="logotext"  />
 	<figcaption>Logo with text</figcaption>
 </figure>
 
 Finally, the full logo with the subtitle. I included the subtitle because I originally had trouble aligning the subtitle text on the different target displays. Making it part of the logo made things easier for me:
 
 <figure>
-	<img src="http://d.pr/i/qW89+" alt="finished" width="80%" />
+	<img src="http://d.pr/i/qW89+" alt="finished"  />
 	<figcaption>Finished logo with subtitle/figcaption>
 </figure>
 
 I also used the Circle Logo to make the browser favicon:
 
 <figure>
-	<img src="http://d.pr/i/13py7+" alt="favicon" width="80%" />
+	<img src="http://d.pr/i/13py7+" alt="favicon"  />
 	<figcaption>Favicon</figcaption>
 </figure>
 
@@ -275,7 +277,7 @@ I also used the Circle Logo to make the browser favicon:
 I spent a fair amount of time trying to use my (`Logo.svg`) in place of the static image Squarespace uses for the logo. This was important to me because I wanted everything about my site to look good on Retina displays. And, even though most humans wouldn't zoom in to this level:
 
 <figure>
-	<img src="http://d.pr/i/1hJo2+" alt="broken" width="50%" />
+	<img src="http://d.pr/i/1hJo2+" alt="broken" width="63%" />
 	<figcaption>Broken on mobile</figcaption>
 </figure>
 
@@ -290,28 +292,28 @@ Finally. [It was finished][biblehub]. I was able to get things looking how I wan
 Desktop:
 
 <figure>
-	<img src="http://d.pr/i/1bVv2+" alt="sidebar" width="80%" />
+	<img src="http://d.pr/i/1bVv2+" alt="sidebar"  />
 	<figcaption>Sidebar. Desktop. Yes.</figcaption>
 </figure>
 
 iPad (Portrait):
 
 <figure>
-	<img src="http://d.pr/i/OgsK+" alt="portrait" width="50%" />
+	<img src="http://d.pr/i/OgsK+" alt="portrait" width="63%" />
 	<figcaption>iPad, portrait</figcaption>
 </figure>
 
 iPad (Landscape):
 
 <figure>
-	<img src="http://d.pr/i/pAIQ+" alt="landscape" width="50%" />
+	<img src="http://d.pr/i/pAIQ+" alt="landscape" width="63%" />
 	<figcaption>iPad, landscape</figcaption>
 </figure>
 
 iPhone:
 
 <figure>
-	<img src="http://d.pr/i/1fcI8+" alt="iphone" width="50%" />
+	<img src="http://d.pr/i/1fcI8+" alt="iphone" width="63%" />
 	<figcaption>iPhone, portrait</figcaption>
 </figure>
 

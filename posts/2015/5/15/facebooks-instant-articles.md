@@ -91,7 +91,7 @@ Today I reactivated my long dormant [Facebook][toni] profile so that I could cre
 Interestingly, Facebook kindly sent their rejection:[^noo]
 
 <figure>
-	<img src="http://d.pr/i/1ctm4+" alt="whatever" width="80%" />
+	<img src="http://d.pr/i/1ctm4+" alt="whatever" />
 	<figcaption>Whatever Facebook.</figcaption>
 </figure>
 

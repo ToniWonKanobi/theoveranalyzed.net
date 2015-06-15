@@ -39,7 +39,7 @@ But what I remember the most vividly is so ephemeral for me, and so emotionally 
 What I most remember about AOL was that perspiration-inducing and absolutely curse-worthy [noise][youtube] that accompanied my  quest to make it online. 
 
 <figure>
-	<img src="http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" alt="Does the sight of this GIF not make your blood boil?" width="80%" />
+	<img src="http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" alt="Does the sight of this GIF not make your blood boil?" />
 	<figcaption>Does the sight of this GIF <em>not</em> make your blood boil?</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ When I *could* finally get online, there was another seemingly unsurmountable ob
 
 When I finally convinced my clueless parents to adopt AT&T's broadband service called [DSL][wikipedia 3], it was glorious. 768 Kbps never felt so great! 
 
-<hr class="small">
+<hr class="small" />
 
 We have become so spoiled in the age of fast internet. Whenever a webpage ceases to load instantly, I immediately assume something is bottlenecking the process. Maybe it's my CPU, lack of RAM, or, perhaps, my crappy ISP being flakey? [Nah, it couldn't be that last one][jsonline]. Simply put, I couldn't imagine going back to those times. 
 
