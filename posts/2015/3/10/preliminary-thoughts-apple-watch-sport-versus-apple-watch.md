@@ -1,4 +1,4 @@
-@@ Title=Apple Watch Sport Or Apple Watch Collection  
+@@ Title=Preliminary Thoughts: Apple Watch Sport Versus Apple Watch  
 @@ Date=2015-03-10 15:00  
 @@ Description=I'm still deciding between Watch Sport and the Watch collection.  
 @@ Tags=Apple, Apple Watch, Anthony, recommendations  
