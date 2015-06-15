@@ -20,15 +20,15 @@ Making all my old Markdown files play nice with Camel was easy, but extremely ti
 
 I wanted to make sure that links shared on Twitter -- although no longer canonical -- pointed to the old content's new location.
 
-### Part III: Modifying The Camel
+### Part III: Adding To Camel
 
 Camel came with several nifty Markdown plugins, but I wanted more. 
 
-### Part IV: Making A Camel Look Nice - Layout And Style
+### Part IV: Making A Camel Look Nice
 
 Second only to the time spent modifying the files, this step took the longest (and for good reason).
 
-### Part V: Taking Camel Live - Pushing To Heroku &  The Finishing Touches 
+### Part V: Taking Camel Live
 
 Getting the site up and running on Heroku was easy. I also had a few odds and ends to straighten out before I was finished.
 
