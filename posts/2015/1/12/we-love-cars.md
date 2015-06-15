@@ -1,7 +1,7 @@
 @@ Title=We Love Cars  
 @@ Date=2015-01-12 09:00  
 @@ Description=Why is it that we humans dedicate so much space to our personal transportation devices? Could it be because we absolutely love them?  
-@@ Tags=cars, culture, Anthony, Porsche, Honda, Acura, NSX, 911, Chevrolet, Porsche, Corvette, 911, 964  
+@@ Tags=cars, culture, Anthony, Porsche, Honda, Acura, NSX, Chevrolet, Porsche, Corvette, 911, 964  
 @@ Image=http://www.total911.com/wp-content/uploads/2014/10/Porsche-964-driving.jpg  
 
 Joseph Stromberg from [Vox][vox] on an interesting illustration by Claes Tingvall:
