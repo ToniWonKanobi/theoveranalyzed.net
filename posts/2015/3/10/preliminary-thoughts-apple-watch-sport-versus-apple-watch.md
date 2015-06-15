@@ -1,4 +1,4 @@
-@@ Title=Preliminary Thoughts: Apple Watch Sport Versus Apple Watch  
+@@ Title=Preliminary Thoughts: The Space Gray Apple Watch Sport Versus The Space Black Apple Watch  
 @@ Date=2015-03-10 15:00  
 @@ Description=I'm still deciding between Watch Sport and the Watch collection.  
 @@ Tags=Apple, Apple Watch, Anthony, recommendations  
