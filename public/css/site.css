@@ -219,7 +219,6 @@ table.sortable thead {
 .content pre {
     font-size: 1em;
     white-space: pre-wrap;
-    margin-bottom: 24px;
     overflow: auto;
     padding: 5px 10px;
     -webkit-border-radius: 3px;

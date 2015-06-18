@@ -162,7 +162,7 @@ You're almost done. To test that Camel is indeed up and running, query `localhos
 
 <hr class="small" />
 
-If you didn't have too much trouble with this tutorial, I doubt you'll have any with future posts in this series. The hardest part is
+If you didn't have too much trouble with this tutorial, I doubt you'll have any with future posts in this series. The next step: making all the old files work with Camel. Stay tuned.
 
 [^be]: Be sure that you are still in the directory where Camel lives (e.g., `~/Desktop/camel` in my example)
 [^he]: Note that the dependencies are not required after deploying. Since part of the `camel.js` script includes dependencies for various packages, the script will locate those online. This is why, after deploying and linking to Dropbox, the `node_packages` folder does not show up in the Dropbox version of your site. More on this in a future post. 
