@@ -22,7 +22,7 @@ var markdownit = require('markdown-it')({
 	.use(require("markdown-it-table-of-contents"), {
 	includeLevel: 1,
 	})
-	.use(require('markdown-it-highlightjs'));
+//	.use(require('markdown-it-highlightjs'));
 var Rss = require('rss');
 var Handlebars = require('handlebars');
 

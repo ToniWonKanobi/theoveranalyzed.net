@@ -4,9 +4,13 @@
 @@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, meta  
 @@ Image=http://d.pr/i/1go0O+  
 
-<center class="topstory"><em>This is Part I of my series entitled [Leaving Squarespace][ls]. Note that much of this post (and future posts) was made possible due to [Roger Stringer][rs]. Check out his Camel installation guide found [here][he]. Because I wasn't a master at the command line before Camel -- I'm still not -- and because you may not be a command line master yourself, I thought it would be useful to detail a step-by-step procedure on how I got Camel working on my local machine. Note that this post will not discuss the actual deployment of the site to Heroku. That comes later.</em></center>
+<center class="topstory"><em>This is Part I of my series entitled <a href="http://www.theoveranalyzed.net/tags/Leaving%20Squarespace">Leaving Squarespace</a>. Note that much of this post (and future posts) was made possible due to <a href="https://twitter.com/freekrai">Roger Stringer</a>. Check out his Camel installation guide found <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/">here</a>. Because I wasn't a master at the command line before Camel -- I'm still not -- and because you may not be a command line master yourself, I thought it would be useful to detail a step-by-step procedure on how I got Camel working on my local machine. Note that this post will not discuss the actual deployment of the site to Heroku. That comes later.</em></center>
 
-<h2>Following The Leader</h2>
+<h2>Contents</h2>
+
+[[TOC]]
+
+## Following The Leader
 
 If you take a look at the Camel's [GitHub page][github], it would seem, at first glance, that everything is straightforward enough. However, [Casey Liss][twitter] is an *actual* developer. And although he fashions himself as merely a 'GitHub novice,' even an unexperienced GitHub-er might unintentionally omit the absolute *basics* of how the command line works.[^it]
 
@@ -20,10 +24,6 @@ Take a look at Casey's installation [instructions][github 2]:
 I was lost at step 1. 
 
 Allow me to take you through each of his steps, [like you're two year old][youtube].
-
-<h2>Contents</h2>
-
-[[TOC]]
 
 # Step 1 - Installing Node & npm
 
@@ -161,8 +161,8 @@ Camel v1.5.0 server started on port 5000
 You're almost done. To test that Camel is indeed up and running, query `localhost:5000` in the address bar of your browser. You should then be able to navigate a [rather sparse looking] version of 'stock' Camel:
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1lmVC">
-		<img src="http://d.pr/i/1lmVC" alt="alttext" />
+	<a class="nohover" href="http://d.pr/i/1lmVC+">
+		<img src="http://d.pr/i/1lmVC+" alt="alttext" />
 	</a>
 </figure>
 
@@ -182,13 +182,10 @@ If you didn't have too much trouble with this tutorial, I doubt you'll have any 
 [git-scm 2]: http://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac
 [github]: https://github.com/cliss/camel
 [github 2]: https://github.com/cliss/camel#installation
-[he]: http://www.sitepoint.com/deploying-camel-js-blog-heroku/
 [housepub]: http://jtimberman.housepub.org/blog/2012/02/26/xcode-command-line-tools/
-[ls]: http://www.theoveranalyzed.net/tags/Leaving%20Squarespace
 [nodejs]: http://nodejs.org/
 [nodejs 2]: http://nodejs.org/dist/v0.12.4/node-v0.12.4.pkg
 [npmjs]: https://www.npmjs.org/
-[rs]: https://twitter.com/freekrai
 [twitter]: https://twitter.com/caseyliss
 [wikipedia]: https://en.wikipedia.org/wiki/Terminal_(OS_X
 [wikipedia 2]: https://en.wikipedia.org/wiki/Cd_(command

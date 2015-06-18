@@ -58,7 +58,7 @@ to
 So my line of HTML code looks like this:
 
 ```
-<left><a href="{permalink}">∞ Permalink</a></center></left></pre>
+<left><a href="{permalink}">∞ Permalink</a></center></left>
 ```
 
 # The Results
