@@ -216,25 +216,24 @@ table.sortable thead {
 
 /* @group Pre & Code */
 
-.content pre {
+/*.content pre {
     font-size: 1em;
     white-space: pre-wrap;
-    overflow: auto;
+    overflow-x: visible;
     padding: 5px 10px;
     -webkit-border-radius: 3px;
     background-color: #eee;
-/*   border: 1px solid #ddd;*/
+/*   border: 1px solid #ddd;*!/
 }
 
 .content code {
-    white-space: pre-wrap;
-    word-wrap: break-word; 
+    white-space: pre-wrap; 
     font-size: .9em;
     padding: 3px;
-    overflow: auto; 
+    overflow-x: visible; 
     -webkit-border-radius: 4px;
     background-color: #eee;
-/*   border: 1px solid #ddd;*/
+/*   border: 1px solid #ddd;*!/
 }
 
 .content pre code {
@@ -242,11 +241,11 @@ table.sortable thead {
     white-space: pre-wrap;
     border: none;
     padding: 0;
-    overflow: auto;
+    overflow-x: visible;
     background-color: #eee;
     -webkit-border-radius: 0;
     line-height: 1.5;
-}
+}*/
 
 /* @end */
 
