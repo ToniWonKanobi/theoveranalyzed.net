@@ -216,7 +216,7 @@ table.sortable thead {
 
 /* @group Pre & Code */
 
-pre {
+.content pre {
     font-size: 1em;
     white-space: pre-wrap;
     overflow: auto;
@@ -226,7 +226,7 @@ pre {
 /*   border: 1px solid #ddd;*/
 }
 
-code {
+.content code {
     white-space: pre-wrap;
     word-wrap: break-word; 
     font-size: .9em;
@@ -237,7 +237,7 @@ code {
 /*   border: 1px solid #ddd;*/
 }
 
-pre code {
+.content pre code {
     font-size: 1em;
     white-space: pre-wrap;
     border: none;
