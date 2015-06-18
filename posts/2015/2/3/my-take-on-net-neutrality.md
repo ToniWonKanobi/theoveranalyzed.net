@@ -3,7 +3,8 @@
 @@ Description=What's all the hubbub about? Is Net Neutrality *that* important? Well, only if you value choices and a decent internet.  
 @@ Tags=politics, Net Neutrality, opinion, industry, business  
 
-*The team at [BackBlaze][bb] posted a short [piece][backblaze] regarding the FCC's recent [re-defining of broadband][gigaom] internet access in America. In their article they quoted [Gizmodo][gizmodo], saying this: "The redefinition of broadband should increase competition between ISPs and cable companies as well as encourage the development of better infrastructure." That would be a step in the right direction, that's for sure.*
+<center class="topstory">The team at <a href="http://www.backblaze.com">BackBlaze</a> posted a short <a href="https://www.backblaze.com/blog/broadband-getting-broader/">piece</a> regarding the FCC's recent <a href="https://gigaom.com/2015/01/29/bam-the-fcc-just-defined-broadband-as-25-mbps-down-and-4-mbps-up/">re-defining of broadband</a> internet access in America. In their article they quoted <a href="http://gizmodo.com/fcc-redefines-broadband-to-bring-you-faster-internet-1682516928">Gizmodo</a>, saying this: "The redefinition of broadband should increase competition between ISPs and cable companies as well as encourage the development of better infrastructure." That would be a step in the right direction, that's for sure.
+</center>
 
 <h2>Contents</h2>
 
@@ -145,14 +146,10 @@ This is just crazy. It's like a dream come true for net neutrality advocates.
 [^cba]: Yeah, [that really happened][cnet]. 
 [^vv]: Apple is likely the worst example for me to use here, because it probably would continue to make excellent things, even if Samsung wasn't copying everything they did and thereby forcing Apple to re-invent itself [quicker than it would like][marco] just to remain fresh
 
-[backblaze]: https://www.backblaze.com/blog/broadband-getting-broader/
-[bb]: http://www.backblaze.com
 [cnet]: http://www.cnet.com/news/comcast-apologizes-after-re-naming-customer-with-expletive/
 [daringfireball]: http://daringfireball.net/linked/2015/01/30/aol
 [dnsrsearch]: http://www.dnsrsearch.com/index.php?origURL=http%3A//www.thedogelor.com/&r=
 [duckduckgo]: https://duckduckgo.com/?q=problems+with+government+regulation&ia=about
-[gigaom]: https://gigaom.com/2015/01/29/bam-the-fcc-just-defined-broadband-as-25-mbps-down-and-4-mbps-up/
-[gizmodo]: http://gizmodo.com/fcc-redefines-broadband-to-bring-you-faster-internet-1682516928
 [go]: http://abc.go.com/shows/the-bachelor/cast/host-chris-harrison
 [marco]: http://www.marco.org/2015/01/04/apple-lost-functional-high-ground
 [meme]: http://cdn.meme.am/instances/500x/58763138.jpg
