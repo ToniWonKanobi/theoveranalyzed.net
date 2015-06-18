@@ -160,7 +160,11 @@ Camel v1.5.0 server started on port 5000
 
 You're almost done. To test that Camel is indeed up and running, query `localhost:5000` in the address bar of your browser. You should then be able to navigate a [rather sparse looking] version of 'stock' Camel:
 
-![][d 2]
+<figure>
+	<a class="nohover" href="http://d.pr/i/1lmVC">
+		<img src="http://d.pr/i/1lmVC" alt="alttext" />
+	</a>
+</figure>
 
 <hr class="small" />
 
@@ -174,7 +178,6 @@ If you didn't have too much trouble with this tutorial, I doubt you'll have any 
 [^os]: This guide, as well as all that follow, are OS X based. Apologizes to Windows users.
 
 [d]: http://d.pr/i/1hkag+
-[d 2]: http://d.pr/i/1lmVC+
 [git-scm]: http://git-scm.com
 [git-scm 2]: http://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac
 [github]: https://github.com/cliss/camel
