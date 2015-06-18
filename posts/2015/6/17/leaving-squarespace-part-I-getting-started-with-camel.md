@@ -37,13 +37,13 @@ The next step involves copying Camel's website framework to you local machine. T
 
 From the command line interface of your choice ([Terminal.app][wikipedia]) for me), navigate to your desired destination:[^th]
 
-```markdown
+```md
 Anthonys-MacBook:~ Anthony$ cd ~/Desktop/camel
 ```
 
 You're now ready to clone the repository. Note that if you've never tried the [`git`][git-scm] command before, Terminal will [prompt you to install][git-scm 2] the [Xcode Command Line Tools][housepub]. You should do so. Afterwards, clone the repository:
 
-```
+```md
 Anthonys-MacBook:camel Anthony$ git clone https://github.com/cliss/camel.git
 ```
 
@@ -53,13 +53,13 @@ Once the Camel repository has been 'copied' to your local machine, you'll need t
 
 Assuming you are still 'in' Camel's location:[^if]
 
-```
+```md
 Anthonys-MacBook:camel Anthony$ npm install
 ```
 
 The output should look something like this:
 
-```
+```md
 Anthonys-MacBook:camel Anthony$ npm install
 basic-auth@1.0.2 node_modules/basic-auth
 
@@ -147,13 +147,13 @@ Anthonys-MacBook:camel Anthony$
 
 If you're confident `npm install` did its thing, run the following command to initialize Camel:[^be]
 
-```
+```md
 Anthonys-MacBook:camel Anthony$ node camel.js
 ```
 
 If successful, the Terminal output should look like this:
 
-```
+```md
 Anthonys-MacBook:camel Anthony$ node camel.js
 Camel v1.5.0 server started on port 5000
 ```
