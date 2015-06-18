@@ -21,6 +21,8 @@ I was lost at step 1.
 
 Allow me to take you through each of his steps, [like you're two year old][youtube].
 
+<h2>Contents</h2>
+
 [[TOC]]
 
 # Step 1 - Installing Node & npm
