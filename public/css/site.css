@@ -500,6 +500,11 @@ blockquote {
 	margin-top: 5em;
 }*/
 
+.post center.topstory {
+	margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 .homepage .day .daybreak {
     margin-top: 5em;
     margin-bottom:  5em;
