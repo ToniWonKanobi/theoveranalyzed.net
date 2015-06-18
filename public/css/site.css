@@ -310,6 +310,10 @@ figcaption {
     text-align: center;
 }
 
+center.topstory {
+    margin-bottom: 5em;
+}
+
 .center img.left {
     margin-right: 2em;
 }
