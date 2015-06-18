@@ -310,10 +310,6 @@ figcaption {
     text-align: center;
 }
 
-center.topstory {
-    margin-bottom: 5em;
-}
-
 .center img.left {
     margin-right: 2em;
 }
@@ -575,6 +571,10 @@ blockquote {
 .post .postHeaderLinked .date .Linkedtime {
     font-size: .85em;
     color: #9e9e9e;
+}
+
+.post center.topstory {
+    margin-bottom: 5em;
 }
 
 /* @end */
