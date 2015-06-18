@@ -390,7 +390,7 @@ blockquote {
 /* @group Homepage */
 
 .homepage .entry {
-	margin-bottom:  inherit;
+	margin-bottom:  7em;
 }
 
 .homepage .postHeader h1 {
@@ -508,7 +508,7 @@ blockquote {
 
 .homepage .day .daybreak {
     margin-top: 5em;
-    margin-bottom:  5em;
+    margin-bottom:  7em;
     margin-left: -20%;
     border: 0;
     border-radius: 2px;
@@ -700,9 +700,9 @@ a.header-anchor:hover {
 .homepage .paginationFooter {
     display: block;
     width: 100%;
-    margin-top: 3em;
-    margin-bottom: 12em;
-    padding-top: 0em;
+    margin-top: 0em;
+    margin-bottom: 7em;
+    padding-top: 2em;
 }
 
 .homepage .paginationFooter .previousPage {
@@ -803,15 +803,15 @@ center.bottomAd {
 	}
 	
 	.homepage .day .daybreak {
-		margin-top: 4em;
-		margin-bottom: -1em;
+		margin-top: -2em;
+		margin-bottom: 2em;
 	    margin-left: -10%;
 		width: 120%;
 	}
 	
 	.homepage .paginationFooter {
-		margin-bottom: 6em;
-	    padding-top: 2em;
+		margin-bottom: -3em;
+	    padding-top: 3em;
 	}
 	
 	.navFooter {
