@@ -303,8 +303,8 @@ figcaption {
 
 .center {
     display: inline;
-    margin-top: 2em;
-    margin-bottom: 2em;
+    margin-top: inherit;
+    margin-bottom: 3em;
     margin-left: auto;
     margin-right: auto;
     text-align: center;

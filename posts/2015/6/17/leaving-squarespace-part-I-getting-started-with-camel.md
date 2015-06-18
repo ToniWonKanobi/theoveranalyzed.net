@@ -4,7 +4,7 @@
 @@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, meta  
 @@ Image=http://d.pr/i/1go0O+  
 
-<center><em>This is Part I of my series entitled [Leaving Squarespace][ls]. Note that much of this post (and future posts) was made possible due to [Roger Stringer][rs]. Check out his Camel installation guide found [here][he]. Because I wasn't a master at the command line before Camel -- I'm still not -- and because you may not be a command line master yourself, I thought it would be useful to detail a step-by-step procedure on how I got Camel working on my local machine. Note that this post will not discuss the actual deployment of the site to Heroku. That comes later.</em></center>
+<center class="topstory"><em>This is Part I of my series entitled [Leaving Squarespace][ls]. Note that much of this post (and future posts) was made possible due to [Roger Stringer][rs]. Check out his Camel installation guide found [here][he]. Because I wasn't a master at the command line before Camel -- I'm still not -- and because you may not be a command line master yourself, I thought it would be useful to detail a step-by-step procedure on how I got Camel working on my local machine. Note that this post will not discuss the actual deployment of the site to Heroku. That comes later.</em></center>
 
 <h2>Following The Leader</h2>
 
@@ -37,7 +37,7 @@ The next step involves copying Camel's website framework to you local machine. T
 
 From the command line interface of your choice ([Terminal.app][wikipedia]) for me), navigate to your desired destination:[^th]
 
-```
+```markdown
 Anthonys-MacBook:~ Anthony$ cd ~/Desktop/camel
 ```
 
