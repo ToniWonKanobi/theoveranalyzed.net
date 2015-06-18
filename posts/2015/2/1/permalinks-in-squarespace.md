@@ -3,7 +3,8 @@
 @@ Description=I figured out how to enable permalinks in posts (with the help of someone smarter than me).  
 @@ Tags=Squarespace, TheOverAnalyzed, blogging, permalinks  
 
-*Squarespace is a great CMS. "[The Apple of content management services][stream-seo]," it has been said. And I would generally agree. With just a minimal amount of effort from the user, it would be *very* difficult to make a website with Squarespace that wasn't halfway decent. That said, there are some caveats to be told. Just like my experiences with everyone's favorite fruit company, whenever I have strayed just a bit from the Squarespace Beaten Path™, things got hairy. One of those areas was [footnotes][theoveranalyzed]. I figured that out with the help of the internet. Next on the list: permalinks.*
+<center class="topstory">Squarespace is a great CMS. "<a href="http://stream-seo.com/squarespace-review/">The Apple of content management services</a>," it has been said. And I would generally agree. With just a minimal amount of effort from the user, it would be *very* difficult to make a website with Squarespace that wasn't halfway decent. That said, there are some caveats to be told. Just like my experiences with everyone's favorite fruit company, whenever I have strayed just a bit from the Squarespace Beaten Path™, things got hairy. One of those areas was <a href="http://www.theoveranalyzed.net/2015/1/31/bigfoot-footnotes-in-squarespace">footnotes</a>. I figured that out with the help of the internet. Next on the list: permalinks.
+</center>
 
 <h2>Contents</h2>
 
@@ -39,25 +40,25 @@ He suggested pasting a line of HTML code in the [Post Blog Item Code Injection][
 
 Here is the line of HTML code he suggested:
 
-```
+```html
 <center><a href="http://smithjw.me{permalink}">∞</a></center>
 ```
 
 Now, because I tend to gravitate toward content being left-adjusted, I changed
 
-```
+```html
 <center></center>
 ```
  	
 to
 
-```
+```html
 <left></left>
 ```
 
 So my line of HTML code looks like this:
 
-```
+```html
 <left><a href="{permalink}">∞ Permalink</a></center></left>
 ```
 
@@ -75,7 +76,7 @@ Once I turned on the Developer Platform, I knew I wanted to implement what Alex 
 
 He noticed the `{.passthrough?}` in the `blog.item` section found here: 
 
-```
+```md
 my_squarespace_domain.top_level_domain/collections/blog.item
 ```
 
@@ -117,8 +118,6 @@ Now, whenever I post a "Linked List" item, as long as the "External link" checkb
 [smilesoftware]: http://smilesoftware.com/TextExpander/index.html
 [squarespace]: http://help.squarespace.com/guides/using-code-injection
 [squarespace 2]: http://developers.squarespace.com
-[stream-seo]: http://stream-seo.com/squarespace-review/
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/1/31/bigfoot-footnotes-in-squarespace
 [thesweetsetup]: http://www.thesweetsetup.com
 [twitter]: https://twitter.com/smithjw
 [urbandictionary]: http://www.urbandictionary.com/define.php?term=pita&defid=549368

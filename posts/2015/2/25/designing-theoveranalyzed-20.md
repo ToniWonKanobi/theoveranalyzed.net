@@ -3,9 +3,8 @@
 @@ Description=I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
 @@ Tags=Squarespace, Sketch, TheOverAnalyzed, Pixelmator, design, web design  
 
-<div class="center">
-*When I launched TheOverAnalyzed last year, I knew nothing about HTML, CSS, JavaScript, or web design in general. Now, a year later, I still know nothing relatively nothing about the aforementioned topics. But, I know a whole lot more than I did.*
-</div>
+<center class="topstory">When I launched TheOverAnalyzed last year, I knew nothing about HTML, CSS, JavaScript, or web design in general. Now, a year later, I still know nothing relatively nothing about the aforementioned topics. But, I know a whole lot more than I did.
+</center>
 
 <h2>Contents</h2>
 
@@ -91,7 +90,7 @@ Here's a screenshot of Permalinks Version 1.0:[^pl]
 
 Things were looking [how I wanted][d 3]. Still, I wasn't quite satisfied. 
 
-One [stretch goal][forbes] I have had since the beginning is to be sponsored by [The Deck][decknetwork]. I have seen their ads on [Daring Fireball](www.daringfireball.net), [Marco.org](www.marco.org), [Six Colors](www.sixcolors.com), and [The Loop](www.loopinsight.com). *These are the blogs I aspire towards,* so of course I wanted to be like them.
+One [stretch goal][forbes] I have had since the beginning is to be sponsored by [The Deck][decknetwork]. I have seen their ads on [Daring Fireball][df], [Marco.org][ma], [Six Colors][sc], and [The Loop][lp]. *These are the blogs I aspire towards,* so of course I wanted to be like them.
 
 And while I realized that this was so far off, I wanted to be ready.
 
@@ -365,6 +364,7 @@ Until then, maybe I can get back to writing.
 [d 5]: http://d.pr/i/1h4fZ+
 [d 6]: http://d.pr/i/1kNyI+
 [d 7]: http://d.pr/i/1hVrx+
+[df]: http://www.daringfireball.net
 [decknetwork]: http://decknetwork.net/
 [fastcodesign]: http://www.fastcodesign.com/3025363/is-squarespaces-new-logo-generator-a-design-crime
 [forbes]: http://www.forbes.com/sites/stevedenning/2012/04/23/in-praise-of-stretch-goals/
@@ -372,10 +372,13 @@ Until then, maybe I can get back to writing.
 [github 2]: https://github.com/andreaslarsen/habesha
 [github 3]: https://github.com/marcoarment/secondcrack
 [hypercritical]: http://hypercritical.co
-[more]: @@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace
+[lp]: http://www.loopinsight.com
+[ma]: http://www.marco.org
+[more]: http://www.theoveranalyzed.net/2015/1/31/bigfoot-footnotes-in-squarespace
 [pixelmator]: http://www.pixelmator.com/
 [pixelmator 2]: http://www.pixelmator.com/blog/2013/05/14/introducing-vectormator/
-[pli]: @@SiteRoot@@/2015/2/1/permalinks-in-squarespace
+[pli]: http://www.theoveranalyzed.net/2015/2/1/permalinks-in-squarespace
+[sc]: http://www.sixcolors.com
 [squarespace]: http://native-demo.squarespace.com/
 [squarespace 2]: http://avenue-demo.squarespace.com
 [squarespace 3]: http://developers.squarespace.com

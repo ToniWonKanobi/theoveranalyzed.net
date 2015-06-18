@@ -1,9 +1,10 @@
 @@ Title=Creating A True Index Page In Squarespace  
 @@ Date=2015-02-24 23:26  
 @@ Description=Here's how I hacked Squarespace to have a true Index page    
-@@ Tags=hacking Squarespace, blogging, TheOverAnalyzed  
+@@ Tags=Squarespace, blogging, TheOverAnalyzed  
 
-*I thought I should do a quick post outlining how I crafted my [Index][theoveranalyzed][^old] page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content.[^mc] True, [/archive][theoveranalyzed 2][^old] contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an `/index` page and `Command + F` to query a string of words that might fit the title.*
+<center class="topstory>I thought I should do a quick post outlining how I crafted my Index page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content. True, <code>/archive</code> contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an <code>/index</code> page and <code>Command + F</code> to query a string of words that might fit the title.
+</center>
 
 <h2>Contents</h2>
 
@@ -135,8 +136,6 @@ $('#allarchive').append('<p>');
 	<figcaption>Yes.</figcaption>
 </figure>
  
-[^mc]: I often refer to previous pieces I have written, and it is somewhat cumbersome grabbing the permalink to content without a working Index page.
-[^old]: This is an old URL slug from when I was still using Squarespace.
 [^in]: You can also hack one if you are a part of the Developer Platform.
 [^bfs]: Funnily enough, Sid has an entire page dedicated to Squarespace hacks. (I'm not alone in this universe.)
 [^ci]: Is [CamelCase][wikipedia] appropriate here?
@@ -154,7 +153,5 @@ $('#allarchive').append('<p>');
 [squarespace]: http://help.squarespace.com/guides/using-the-index-page
 [squarespace 2]: http://answers.squarespace.com/questions/30592/summary-block
 [squarespace 3]: http://help.squarespace.com/guides/linking-a-post-title-to-external-content
-[theoveranalyzed]: http://www.theoveranalyzed.net/index
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/archive
 [theoveranalyzed 3]: http://www.theoveranalyzed.net/archive?tag=linked
 [wikipedia]: https://en.wikipedia.org/wiki/CamelCase

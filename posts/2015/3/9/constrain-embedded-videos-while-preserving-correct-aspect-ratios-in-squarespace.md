@@ -3,7 +3,8 @@
 @@ Description=Here's how I get YouTube videos to behave responsively in my webpages.  
 @@ Tags=Squarespace, TheOverAnalyzed, tech tips, web design  
 
-*I just can't leave well enough alone.[^foo] In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, constraining the proportions.*
+<center class="topstory">I just can't leave well enough alone. In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, constraining the proportions.
+</center>
 
 <h2>Contents</h2>
 
@@ -11,7 +12,7 @@
 
 # The Problem
 
-Consider this YouTube [video][youtube].
+Consider this YouTube [video][youtube].[^foo]
 
 Suppose I wanted to embed it in the body of my post, rather than simply have it linked to externally via the Linked [post] title.
 
@@ -119,7 +120,7 @@ Once I recognized the `.container` that Squarespace uses for main post content (
 
 Paste the following code into either the site-wide [`Code injection`][squarespace] area,[^co] or the `Page Header Code Injection` area:[^con]
 
-```javascript
+```js
 <script src="/scripts/fitvids.js"></script>
 <script>
   $(document).ready(function(){
