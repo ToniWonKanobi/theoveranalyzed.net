@@ -30,6 +30,6 @@ Prior to this month's snapshot, the order was somewhat confused. The Mac, and th
 
 Now, however, it appears Apple is arranging them all by size, which, for OCD types like me, makes more sense.
 
+[Hat tip to [John Gruber][twitter]]
 
-
-
+[twitter]: https://twitter.com/jamesdempsey/status/611946629386518528
