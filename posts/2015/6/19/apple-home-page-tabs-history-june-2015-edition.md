@@ -7,7 +7,7 @@
 
 James Dempsey, former software engineer at Apple, shared a picture showing the various top navigation bars apple.com has featured over the years. It's interesting to look at how much the navigation bar has changed, and, at the same time, how much it has stayed the same. 
 
-<figure class="wide">
+<figure>
 	<a class="nohover" href="http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png">
 		<img src="http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png" alt="Apple home page navigation tabs" />
 	</a>
@@ -16,13 +16,13 @@ James Dempsey, former software engineer at Apple, shared a picture showing the v
 
 Note the addition of the "Mac OS X" tab after January 2000. Also note the transition from "iTunes" to "iPod + iTunes" from September 2003 to October of that same year. Most recently, the omission of the "iPod" tab. Interestingly, Apple seems to have cleaned up the hierarchy of the individual items in the navigation bar list. Prior to the June 2015 portion of Dempsey's picture, the navigation bar was arranged seemingly haphazardly. In September 2014, the order was, from left to right: 
 
-```
+```md
 Store   Mac   iPhone   Watch   iPad   iPod   iTunes   Support
 ```
 
 And here's the order for most recent snapshot for June 2015:
 
-```
+```md
 Store   Mac   iPad   iPhone   Watch   Music   Support
 ```
 
