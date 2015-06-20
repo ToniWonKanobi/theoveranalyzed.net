@@ -167,11 +167,27 @@ You're almost done. To test that Camel is indeed up and running, query `localhos
 	</a>
 </figure>
 
+# [Optional] Step V - Enable Manual Cache Tossing
+
+The default setting for cache tossing is every 30 minutes. This is fine once your site is up and running. However, while you are tweaking things (especially CSS), it would be a lot easier to be able to instantly preview your changes.
+
+To accomplish this, uncomment these lines of code in `camel.js`:
+
+```js
+//  app.get('/tosscache', function (request, response) {
+//  emptyCache();
+//  response.status(200).send(205);
+//  });
+```
+
+What this does is allow you to make changes to CSS, or posts, or whatever -- all without having to close and re-deploy the local version of your site.[^ex]
+
 <hr class="small" />
 
 If you didn't have too much trouble with this tutorial, I doubt you'll have any with future posts in this series. The next step: making all the old files work with Camel. Stay tuned.
 
 [^be]: Be sure that you are still in the directory where Camel lives (e.g., `~/Desktop/camel` in my example)
+[^ex]: The exception here is changes made to any of the template files, or the actual JavaScript files that power Camel. If you make changes to those files, you *still* have to close and re-deploy the site via the command line.
 [^he]: Note that the dependencies are not required after deploying. Since part of the `camel.js` script includes dependencies for various packages, the script will locate those online. This is why, after deploying and linking to Dropbox, the `node_packages` folder does not show up in the Dropbox version of your site. More on this in a future post. 
 [^if]: If not, you can always `cd`  to Camel's location
 [^it]: It could be argued that using GitHub is already a pretty developer-focused endeavor, and because of that, Casey is okay in assuming that the people who try Camel should know a little about the command line. And really, I can't really disagree. 
