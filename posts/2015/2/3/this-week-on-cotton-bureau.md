@@ -17,4 +17,4 @@ Be sure to use my coupon code CBANTHONYC10 at checkout for 10% off.[^cb]
 
 [^cb]: You can find all my Cotton Bureau pics via this [tag][theoveranalyzed]
 
-[theoveranalyzed]: http://www.theoveranalyzed.net/tags/Cotton%20Bureau
+[theoveranalyzed]: http://www.theoveranalyzed.net/tags/This%20Week%20On%20Cotton%20Bureau
