@@ -3,7 +3,7 @@
 @@ Link=http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png  
 @@ Description=Former Apple software engineer James Dempsey shared an image showcasing the various apple.com navigation tabs over the years. 
 @@ Tags=Apple, history, design  
-@@ Image=http://d.pr/i/1fFns+  
+@@ Image=http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png  
 
 James Dempsey, former software engineer at Apple, shared a picture showing the various top navigation bars apple.com has featured over the years. It's interesting to look at how much the navigation bar has changed, and, at the same time, how much it has stayed the same. 
 
