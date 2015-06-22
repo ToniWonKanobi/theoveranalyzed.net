@@ -7,7 +7,7 @@
 <center class="topstory">Starting this week, I will be occasionally featuring neat designs from my favorite T-shirt company, <a href="http://www.cottonbureau.com/">Cotton Bureau</a>.
 </center>
 
-<figure>
+<figure class="wide">
 	<a class="nohover" href="https://cottonbureau.com/products/mtr">
 		<img src="https://cottonbureau.com/img/products/3422_8cnL_1600.jpg" alt="MTR" />
 	</a>
