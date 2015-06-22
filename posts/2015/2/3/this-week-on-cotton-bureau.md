@@ -8,8 +8,9 @@
 </center>
 
 <figure>
-	<a href="https://cottonbureau.com/products/mtr"
+	<a class="nohover" href="https://cottonbureau.com/products/mtr">
 		<img src="https://cottonbureau.com/img/products/3422_8cnL_1600.jpg" alt="MTR" />
+	</a>
 	<figcaption><a href="http://twitter.com/seanevd">Sean Duncan</a>: "The significance of an acronym shouldn't mtr."</figcaption>
 </figure>
 
