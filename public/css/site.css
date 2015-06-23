@@ -502,7 +502,6 @@ blockquote {
 .homepage center.topstory {
 	margin-top: 2em;
     margin-bottom: 2em;
-    text-align: center;
     font-style: italic;
 }
 
@@ -582,6 +581,7 @@ blockquote {
 .post center.topstory {
     margin-bottom: 5em;
     font-style: italic;
+    text-align: center;
 }
 
 /* @end */
