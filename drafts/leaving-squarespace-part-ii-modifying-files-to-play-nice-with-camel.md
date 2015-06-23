@@ -14,8 +14,6 @@
 	<figcaption><code>camel.js</code> leverages <a href="http://handlebarsjs.com/"><code>Handlebars.js</code></a> for metadata</figcaption>
 </figure>
 
-[[TOC]]
-
 ## Introduction
 
 Modifying my plain-text files for use with Camel wasn't particularly difficult. It was, however, extremely time-consuming. I made tweaks to metadata, images, and general Markdown syntax in preparation for my move to Camel.
