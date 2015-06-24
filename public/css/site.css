@@ -829,13 +829,16 @@ center.bottomAd {
 
 	figure,
 	figure.figleft,
-	figure.figright,
-	figure.wide,
-	.homepage figure.wide {
+	figure.figright, {
 	    float: none;
 	    width: 100%;
 	    text-align: center;
 	    margin: 1em auto 1em auto;
+	}
+	
+	figure.wide,
+	.homepage figure.wide {
+		max-width: 100vw;	
 	}
 }
 
