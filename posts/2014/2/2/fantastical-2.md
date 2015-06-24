@@ -8,8 +8,8 @@
 
 I had written quite a lengthy post devoted to all the ins and outs of this app. But then my domain crashed and I lost everything. In light of these events, I will instead go for the 'less is more' approach. While there are so many aspects of the app I could touch on, I will focus on only the most important aspects in which Fantastical 2 sets itself apart from the stock Calendar app and [Sunrise][sunrise], and [Calendars 5][readdle], and etc.
 
-<figure class="iphone" />
-	<img src="http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg" alt="The Iconfactory's [redesign][iconfactory] for Fantastical 2 is so precious." width="63%" />
+<figure>
+	<img src="http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg" alt="The Iconfactory's [redesign][iconfactory] for Fantastical 2 is so precious." />
 	<figcaption>The Iconfactory's <a href="http://design.iconfactory.com/fantastical-2-for-ios-7/" />redesign</a> for Fantastical 2 is so nice.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ It's as simple as this:
 4. *Done.*
 
 <figure class="iphone" />
-	<img src="http://d.pr/i/1dddh+" alt="Yeah, that's it." width="63%" />
+	<img src="http://d.pr/i/1dddh+" alt="Yeah, that's it." />
 	<figcaption>Yeah, that's it.</figcaption>
 </figure>
 
