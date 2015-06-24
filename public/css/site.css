@@ -258,12 +258,12 @@ figure {
     margin-bottom: 2em;
     display: inline-block;
     text-align: center;
-    width: 100%;
+    width: 80%;
 }
 
 figure.wide {
-	width: 160%;
-	margin-left: -30%;
+	width: 140%;
+	margin-left: -20%;
     margin-top: 2em;
     margin-bottom: 2em;
     display: inline-block;
@@ -287,7 +287,9 @@ figure.figright {
 /* Makes the wide images stay within the content
 width for the homepage */
 .homepage figure.wide {
-	width: 100%;
+	width: 80%;
+	margin-left: 10%;
+	text-align: center;
 }
 
 figcaption {
