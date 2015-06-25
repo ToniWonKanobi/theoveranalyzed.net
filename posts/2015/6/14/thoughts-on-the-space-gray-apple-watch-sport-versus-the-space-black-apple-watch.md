@@ -2,7 +2,7 @@
 @@ Date=2015-06-14 21:05  
 @@ Description=Apparently, Apple overestimated the transit time for my Space Black Apple Watch. Here are my thoughts regarding it and the Space Gray Apple Watch Sport.  
 @@ Tags=Apple Watch, Apple Watch Sport, Apple, reviews, opinion, Anthony  
-@@ Image=http://d.pr/i/14NO5+  
+@@ Image=http://d.pr/i/1aUO8+  
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/1aUO8+">

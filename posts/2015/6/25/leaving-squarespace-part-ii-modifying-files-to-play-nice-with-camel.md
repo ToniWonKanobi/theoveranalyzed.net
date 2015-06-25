@@ -13,7 +13,7 @@
 
 # Introduction
 
-A goal of mine from the beginning was to port over the ~250 posts I had accrued while using Squarespace. Not only would redirects have to get sorted out,[^iw] I also needed to make sure that the old posts looked correct in the new platform. Modifying my plain text files for use with Camel wasn't particularly difficult. It was, however, extremely time-consuming. In preparation for the move, I made tweaks to metadata, images, and footnotes.
+A goal of mine from the beginning was to port over the ~250 posts I had accrued while using Squarespace. Not only would redirects have to get sorted out, I also needed to make sure that the old posts looked correct in the new platform. Modifying my plain text files for use with Camel wasn't particularly difficult. It was, however, extremely time-consuming. In preparation for the move, I made tweaks to metadata, images, and footnotes.
 
 # Metadata
 
@@ -32,7 +32,7 @@ Before transitioning to Camel, I adopted a hybrid metadata system inspired by bo
 	<a class="nohover" href="http://d.pr/i/13n6Z+">
 		<img src="http://d.pr/i/13n6Z+" alt="Smart Byword" />
 	</a>
-	<figcaption>Because Byword recognizes metadata, its omitted when parsed to HTML</figcaption>
+	<figcaption>Because Byword recognizes metadata, it's omitted when parsed to HTML</figcaption>
 </figure>
 
 Byword's metadata support is everything I would want in a plain text filing system. The metadata's there when viewing the Markdown source, but disappears when parsed to HTML. I wish Camel supported metadata in the format that Byword supports, but it doesn't out of the box.[^ma]
@@ -167,7 +167,7 @@ Neither inline footnotes nor multi-paragraph footnotes are supported by [Byword]
 
 During the two solid weeks I spent transitioning to Camel, most of my time dealt with tweaking how the site looked. Second only to that was re-formatting my old posts. I would get home around 5-6 most days, and after eating dinner, I was glued to my MacBook screen, re-writing the image syntax and making other small. It was arduous, but so worth it in the end.
 
-[^fi]: In a future post, I'll talk about some of the `classes` I made. For images, there's a `wide` class for larger images in the `.post` view; `figleft` for left-justified floating images; 'figright` for right-justified floating images; and more. 
+[^fi]: In a future post, I'll talk about some of the `classes` I made. For images, there's a `wide` class for larger images; `figleft` for left-justified floating images; 'figright` for right-justified floating images; and more. 
 [^ik]: I know there's [Text Expander][smilesoftware], and I don't doubt that an app like [BBEdit][barebones] or [Visual Studio Code][visualstudio] probably has some sort of 'snippets' feature. I might check those out someday. But for now, Byword works for me.
 [^lo]: When writing a new post, I open `template.md` and start typing. Note that I have [locked][macworld] the `template.md` file. So when I attempt to modify `template.md`, Byword automatically prompts me to [Duplicate][apple] it. This prevents accidentally over-writing the template text with actual links and so on. 
 [^ma]: I haven't spent much time looking into this aspect of Casey's default `camel.js` configuration, but it seems to me that `Handlebars.js` needs some sort of [modifier][d 5] to call out "Hey, this next string of text is metadata." I can't imagine a scenario in which Byword's [cleaner] metadata auto-format would work with Handlebars. 
