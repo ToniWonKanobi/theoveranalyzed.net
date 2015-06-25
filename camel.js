@@ -56,40 +56,40 @@ var cacheResetTimeInMillis = 1800000;
 
 
 //	set your twitter information...
-var twitterClient = new Twitter({
-	consumer_key: config.Social.autoTweets.consumer_key,
-	consumer_secret: config.Social.autoTweets.consumer_secret,
-	access_token_key: config.Social.autoTweets.access_token_key,
-	access_token_secret: config.Social.autoTweets.access_token_secret
-});
-var twitterUsername = config.Social.autoTweets.twitterUsername;
-var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
-var renderedPosts = {};
-var renderedRss = {};
-var renderedAlternateRss = {};
-var allPostsSortedGrouped = {};
-var headerSource;
-var footerSource = null;
-
-var pageHeaderTemplate = null;
-var pageFooterTemplate = null;
-var postHeaderTemplate = null;
-var postFooterTemplate = null;
-var rssFooterTemplate = null;
-var singleHeaderTemplate = null;
-var singleFooterTemplate = null;
-var postBodyStartTemplate = null;
-var postBodyEndTemplate = null;
-
-var siteMetadata = {};
-siteMetadata.SiteUrl = config.Site.Url;
-siteMetadata.SiteRoot = config.Site.Url;
-siteMetadata.SiteTitle = config.Site.Title;
-siteMetadata.Twitter = config.Social.Twitter;
-siteMetadata.siteAbout = config.Site.About;
-siteMetadata.siteAuthor = config.Site.Author;
-siteMetadata.DefaultImage = config.Site.DefaultImage;
-siteMetadata.CurrentYear = new Date().getFullYear();
+//var twitterClient = new Twitter({
+//	consumer_key: config.Social.autoTweets.consumer_key,
+//	consumer_secret: config.Social.autoTweets.consumer_secret,
+//	access_token_key: config.Social.autoTweets.access_token_key,
+//	access_token_secret: config.Social.autoTweets.access_token_secret
+//});
+//var twitterUsername = config.Social.autoTweets.twitterUsername;
+//var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
+//var renderedPosts = {};
+//var renderedRss = {};
+//var renderedAlternateRss = {};
+//var allPostsSortedGrouped = {};
+//var headerSource;
+//var footerSource = null;
+//
+//var pageHeaderTemplate = null;
+//var pageFooterTemplate = null;
+//var postHeaderTemplate = null;
+//var postFooterTemplate = null;
+//var rssFooterTemplate = null;
+//var singleHeaderTemplate = null;
+//var singleFooterTemplate = null;
+//var postBodyStartTemplate = null;
+//var postBodyEndTemplate = null;
+//
+//var siteMetadata = {};
+//siteMetadata.SiteUrl = config.Site.Url;
+//siteMetadata.SiteRoot = config.Site.Url;
+//siteMetadata.SiteTitle = config.Site.Title;
+//siteMetadata.Twitter = config.Social.Twitter;
+//siteMetadata.siteAbout = config.Site.About;
+//siteMetadata.siteAuthor = config.Site.Author;
+//siteMetadata.DefaultImage = config.Site.DefaultImage;
+//siteMetadata.CurrentYear = new Date().getFullYear();
 
 
 /***************************************************
@@ -278,7 +278,8 @@ function generateHtmlAndMetadataForFile(file) {
 			metadata.canonicalLink = metadata.SiteRoot;
 			metadata.ogtype = 'website';
 		}else{
-			metadata.canonicalLink = metadata.SiteRoot + '/' + metadata.permalink;
+//			metadata.canonicalLink = metadata.SiteRoot + '/' + metadata.permalink;
+			metadata.canonicalLink = metadata.SiteRoot + metadata.permalink;
 			metadata.ogtype = 'article';
 		}
 
