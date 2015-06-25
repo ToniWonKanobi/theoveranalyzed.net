@@ -28,7 +28,7 @@ var Handlebars = require('handlebars');
 
 var config = require('./config');
 var version = require('./package.json').version;
-var Twitter = require('twitter');
+//var Twitter = require('twitter');
 
 var app = express();
 app.use(compress());
@@ -62,7 +62,7 @@ var twitterClient = new Twitter({
 	access_token_key: config.Social.autoTweets.access_token_key,
 	access_token_secret: config.Social.autoTweets.access_token_secret
 });
-//var twitterUsername = config.Social.autoTweets.twitterUsername;
+var twitterUsername = config.Social.autoTweets.twitterUsername;
 var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
 var renderedPosts = {};
 var renderedRss = {};
