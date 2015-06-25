@@ -13,7 +13,7 @@
 
 # Introduction
 
-A goal of mine from the beginning was to port over the ~250 posts I had accrued while using Squarespace. Not only would redirects have to get sorted out,[^iw] I also needed to make sure that the old posts looked correct in the new platform. Modifying my plain text files for use with Camel wasn't particularly difficult. It was, however, extremely time-consuming. In preparation for the move, I made tweaks to metadata, images, and footnotes.
+A goal of mine from the beginning was to port over the ~250 posts I had accrued while using Squarespace. Not only would redirects have to get sorted out, I also needed to make sure that the old posts looked correct in the new platform. Modifying my plain text files for use with Camel wasn't particularly difficult. It was, however, extremely time-consuming. In preparation for the move, I made tweaks to metadata, images, and footnotes.
 
 # Metadata
 
