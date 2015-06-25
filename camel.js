@@ -509,7 +509,7 @@ function emptyCache() {
 	renderedAlternateRss = {};
 	allPostsSortedGrouped = {};
 
-	tweetLatestPost();
+//	tweetLatestPost();
 }
 
 function init() {
@@ -580,7 +580,7 @@ function init() {
 	// Kill the cache every 30 minutes.
 	setInterval(emptyCache, cacheResetTimeInMillis);
 
-	tweetLatestPost();
+//	tweetLatestPost();
 }
 
 // Gets the rendered HTML for this file, with header/footer.
