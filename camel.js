@@ -28,7 +28,7 @@ var Handlebars = require('handlebars');
 
 var config = require('./config');
 var version = require('./package.json').version;
-//var Twitter = require('twitter');
+var Twitter = require('twitter');
 
 var app = express();
 app.use(compress());
