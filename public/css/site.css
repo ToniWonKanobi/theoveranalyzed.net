@@ -282,11 +282,13 @@ figure.figright {
 figure.twoleft {
 	width: 48%;
 	float: left;
+	display: inline-block;
 }
 
 figure.tworight {
 	width: 48%;
 	float: right;
+	display: inline-block;
 }
 
 /* Makes the wide images stay within the content
