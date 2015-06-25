@@ -55,7 +55,7 @@ var utcOffset = 5;
 var cacheResetTimeInMillis = 1800000;
 
 
-	set your twitter information...
+//	set your twitter information...
 var twitterClient = new Twitter({
 //	consumer_key: config.Social.autoTweets.consumer_key,
 //	consumer_secret: config.Social.autoTweets.consumer_secret,
@@ -89,7 +89,7 @@ siteMetadata.Twitter = config.Social.Twitter;
 siteMetadata.siteAbout = config.Site.About;
 siteMetadata.siteAuthor = config.Site.Author;
 siteMetadata.DefaultImage = config.Site.DefaultImage;
-siteMetadata.CurrentYear = new Date().getFullYear();
+//siteMetadata.CurrentYear = new Date().getFullYear();
 
 
 /***************************************************
