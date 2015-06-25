@@ -217,7 +217,7 @@ You can test that the plugin is working by editing a sample post and launching a
 
 <hr class="small" />
 
-There are other aspects of TheOverAnalyzed that took some tweaking. I might detail those changes someday. But the bulk of the changes I made to Camel are in this post.
+There are other aspects of TheOverAnalyzed that took some tweaking. I might detail those changes someday. But the bulk of the changes I made to underlying structure Camel are detailed in this post. 
 
 [^la]: I'll talk more my CSS philosophy/changes in a future post. 
 [^sa]: Appending `--save` marks the package as a dependency in Camel's `package.json`, which is important if you actually want the plugin to work.

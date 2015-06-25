@@ -37,8 +37,8 @@ Thinking ahead: if there were a color option in between Space Black and the regu
 Sitting at my desk at work the other day, I glanced over to my left wrist and saw the light reflect off of the brushed black links. What a sight to behold. 
 
 <figure class="wide">
-	<a class="nohover" href="http://d.pr/i/1fDRN+">
-		<img src="http://d.pr/i/1fDRN+" alt="Links at work" />
+	<a class="nohover" href="http://d.pr/i/1kr4i+">
+		<img src="http://d.pr/i/1kr4i+" alt="Links at work" />
 	</a>
 	<figcaption>How much longer until I have to get up and do work again?</figcaption>
 </figure>
