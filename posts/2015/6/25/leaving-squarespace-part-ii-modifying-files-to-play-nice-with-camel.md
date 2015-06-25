@@ -145,13 +145,13 @@ Because I was using the parsed HTML as the content for my posts in Squarespace, 
 
 Out of the box, Camel includes the [`markdown-it`][mdi] plugin `markdown-it-footnote`, which allows for MultiMarkdown 3-style inline and multi-paragraph footnotes. 
 
-<figure class="figleft">
+<figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/1aazM+">
 		<img src="http://d.pr/i/1aazM+" />
 	</a>
 </figure>
 
-<figure class="figright">
+<figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/12gMj+">
 		<img src="http://d.pr/i/12gMj+" />
 	</a>

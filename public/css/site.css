@@ -279,6 +279,16 @@ figure.figright {
 	float: right;
 }
 
+figure.twoleft {
+	width: 48%;
+	float: left;
+}
+
+figure.tworight {
+	width: 48%;
+	float: right;
+}
+
 /* Makes the wide images stay within the content
 width for the homepage */
 .homepage figure.wide {
