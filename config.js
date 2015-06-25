@@ -6,15 +6,15 @@ module.exports = {
 		Author: 'Anthony Craig',
 		DefaultImage: '@@SiteRoot@@/images/favicon.png'
 	},
-//	Social: {
-//		Twitter: "@theoveranalyzed",
-//		autoTweets: {
-//			twitterUserName: "@theoveranalyzed",
-//			twitterClientNeedle: "TOA Headquarters",
-//			consumer_key: "ZIS1PGzL6UuepbKUeC4EmGlcP",
-//			consumer_secret: "6NMAASTVIgfGGxdaocEqUTbhyMIa8W27c9OeeK8R3ruMOEfphu",
-//			access_token_key: "2323336988-nqK1A4tNDHQb4mrXPYgMeIIPJ1KhyUrw8reCZzO",
-//			access_token_secret: "4ww8YBPtsriZ66QIdIINmxgQbtfCTDJRvWRUZB6jRjvid"
-//		}
-//	}
+	Social: {
+		Twitter: "",
+		autoTweets: {
+			twitterUserName: "",
+			twitterClientNeedle: "",
+			consumer_key: "",
+			consumer_secret: "",
+			access_token_key: "",
+			access_token_secret: ""
+		}
+	}
 };
