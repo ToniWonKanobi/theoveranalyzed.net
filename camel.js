@@ -57,12 +57,12 @@ var cacheResetTimeInMillis = 1800000;
 
 //	set your twitter information...
 var twitterClient = new Twitter({
-//	consumer_key: config.Social.autoTweets.consumer_key,
-//	consumer_secret: config.Social.autoTweets.consumer_secret,
-//	access_token_key: config.Social.autoTweets.access_token_key,
-//	access_token_secret: config.Social.autoTweets.access_token_secret
+	consumer_key: config.Social.autoTweets.consumer_key,
+	consumer_secret: config.Social.autoTweets.consumer_secret,
+	access_token_key: config.Social.autoTweets.access_token_key,
+	access_token_secret: config.Social.autoTweets.access_token_secret
 });
-var twitterUsername = config.Social.autoTweets.twitterUsername;
+//var twitterUsername = config.Social.autoTweets.twitterUsername;
 var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
 var renderedPosts = {};
 var renderedRss = {};
