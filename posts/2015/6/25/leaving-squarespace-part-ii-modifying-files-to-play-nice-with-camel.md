@@ -145,14 +145,17 @@ Because I was using the parsed HTML as the content for my posts in Squarespace, 
 
 Out of the box, Camel includes the [`markdown-it`][mdi] plugin `markdown-it-footnote`, which allows for MultiMarkdown 3-style inline and multi-paragraph footnotes. 
 
-<div class="center">
+<figure class="figleft">
 	<a class="nohover" href="http://d.pr/i/1aazM+">
-    	<img src="http://d.pr/i/1aazM+" class="left" width="45%" />
-    </a>
-    <a class="nohover" href="http://d.pr/i/12gMj+">
-    	<img src="http://d.pr/i/12gMj+" class="right" width="45%" />
-    </a>
-</div>
+		<img src="http://d.pr/i/1aazM+" />
+	</a>
+</figure>
+
+<figure class="figright">
+	<a class="nohover" href="http://d.pr/i/12gMj+">
+		<img src="http://d.pr/i/12gMj+" />
+	</a>
+</figure>
 
 Neither inline footnotes nor multi-paragraph footnotes are supported by [Byword][bywordapp]. But as long as I format the footnotes syntax correctly, everything will display properly in the parsed HTML.
 
