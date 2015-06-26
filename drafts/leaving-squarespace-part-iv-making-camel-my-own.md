@@ -140,7 +140,7 @@ Installing the plugin wasn't difficult, but it took me a while to figure it out:
 	
 6. The 'markdownit' section should look like this now
 	
-	```js
+	```
 	var markdownit = require('markdown-it')({
 		html: true,
 		xhtmlOut: true,

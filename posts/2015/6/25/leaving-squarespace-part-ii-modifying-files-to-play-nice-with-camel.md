@@ -58,6 +58,7 @@ In the months leading up to [TheOverAnalyzed 3.0][theoveranalyzed 3], I transiti
 
 For instance, if I wanted to embed an image with caption in MultiMarkdown Composer, this is all I would have to write:
 
+
 ```
 ![Caption][alt]
 
