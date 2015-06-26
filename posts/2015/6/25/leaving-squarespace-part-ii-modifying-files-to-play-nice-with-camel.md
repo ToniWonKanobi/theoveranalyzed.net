@@ -19,13 +19,13 @@ A goal of mine from the beginning was to port over the ~250 posts I had accrued 
 
 ## Previously On TheOverAnalyzed
 
-Before transitioning to Camel, I adopted a hybrid metadata system inspired by both [Byword's][bywordapp] [MultiMarkdown guide][bywordapp 2], and, perhaps fortuitously, [Camel][github] itself. All of my posts since [TheOverAnalyzed 2.0][theoveranalyzed] launched had `Title:`, `Date:`, and `Link:` metadata. Byword is smart enough to know that properly-formatted text placed at the top of the document denotes metadata. Byword would then omit that when parsed to HTML.
+Before transitioning to Camel, I adopted a hybrid metadata system inspired by both [Byword's][bywordapp] [MultiMarkdown guide][bywordapp 2], and, perhaps fortuitously, [Camel][github] itself. All of my posts since [TheOverAnalyzed 2.0][theoveranalyzed] had `Title:`, `Date:`, and `Link:` metadata. Byword is smart enough to know that properly-formatted text placed at the top of the document denotes metadata. Byword would then omit that when parsed to HTML.
 
 <figure class="left">
 	<a class="nohover" href="http://d.pr/i/1lii9+">
 		<img src="http://d.pr/i/1lii9+" alt="Old style metadata" />
 	</a>
-	<figcaption>Byword auto-magically recognized metadata</figcaption>
+	<figcaption>Byword auto-magically recognizes metadata</figcaption>
 </figure>
 
 <figure class="right">
@@ -39,23 +39,16 @@ Byword's metadata support is everything I would want in a plain text filing syst
 
 ## Metadata In Camel
 
-In Camel, metadata isn't extraneous like it was while on Squarespace. In camel, metadata is absolutely *necessary*. Casey designed his blogging engine such that `camel.js` pieces together all the posts -- and the whole website actually -- using template files. These template files specify page attributes such as page headers, page footers, etc. These templates are based on Handlebars `{{strings}}`. `camel.js` uses strings called out as metadata to piece together important parts of the posts as well, such as the post headers, post footers, and so on. And because of the way the Handlebars script works, metadata *must* be called out in a particular way. In Camel, that's via `@@`.
+Unlike Squarespace, in Camel, having metadata within the actual Markdown files is absolutely *necessary*. Casey designed his blogging engine such such that `camel.js` generates all the posts and the rest of the website using these template files. These template files specify page attributes such as page headers, page footers, etc. The template files are based on Handlebars `{{strings}}`. Camel uses metadata strings to piece together the parts of the posts, such as the post header, the post footer, etc. And because of the way the Handlebars script works in conjunction with Camel, metadata *must* be called out in a particular way. In the default configuration of Camel, that's via a `@@` prefix.
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1gomf+">
 		<img src="http://d.pr/i/1gomf+" alt="Camel and metadata" />
 	</a>
-	<figcaption>Camel looks at the top of documents for <code>@@ _Metadata_Name_: _Metadata_Value_</code></figcaption>
+	<figcaption>Camel looks at the top of documents for <code>@@</code> prefixes, which denote metadata.</figcaption>
 </figure>
 
 Once metadata was squared away, Camel was able to parse my plain text-files accordingly:
-
-<figure>
-	<a class="nohover" href="http://d.pr/i/1c3kt+">
-		<img src="http://d.pr/i/1c3kt+" alt="test post" />
-	</a>
-	<figcaption>Proof that Camel is indeed parsing the plain text Markdown files in the directory.</figcaption>
-</figure>
 
 # Images
 
@@ -65,7 +58,7 @@ In the months leading up to [TheOverAnalyzed 3.0][theoveranalyzed 3], I transiti
 
 For instance, if I wanted to embed an image with caption in MultiMarkdown Composer, this is all I would have to write:
 
-```md
+```nohighlight
 ![Caption][alt]
 
 [alt]: link
@@ -75,11 +68,11 @@ Byword, for whatever reason, doesn't offer easy image-captioning. Subsequently, 
 
 ## I Can't Get No
 
-While MultiMarkdown Composer surely got the job done, it never quite felt like *home.* Yes, I realize how weird it may seem for me to describe a plain-text editor as homey. But it's true: Byword's UI/UX is just *better* than MultiMarkdown Composer's. Because of that, it is an absolute joy to use. [Metaclassy][metaclassy] did a [great job][gj] with gradients and shadow effects, as well as other pleasing design touches. It's the little things that always made me yearn for Byword instead of MultiMarkdown Composer. Still, I was stuck with the latter due to my dependence on the full MultiMarkdown 3 spec for easy image captions. Moving to Camel was an opportunity to re-examine my writing workflow. Within Camel, maybe Byword could find a new purpose. 
+While MultiMarkdown Composer surely got the job done, it never quite felt like *home.* Yes, I realize how weird it may seem for me to describe a plain-text editor as homey. But it's true: Byword's UI/UX is just *better* than MultiMarkdown Composer's. Because of that, it is an absolute joy to use. [Metaclassy][metaclassy] did a [great job][gj] with gradients and shadow effects, as well as other pleasing design touches. It's the little things that always made me yearn for Byword instead of MultiMarkdown Composer. Still, I was stuck with the latter due to my dependence on the full MultiMarkdown 3 spec for easy image captions. Moving to Camel was an opportunity to re-examine my writing workflow. Within Camel, perhaps Byword could find a new purpose?
 
 ## Images In Camel
 
-Camel uses an npm package called `markdown-it`, which is what actually takes the Markdown files and parses them to HTML. When supplemented with several plugins, `markdown-it` can do just about everything MultiMarkdown 3 can do.
+Camel uses an [npm][npm] package called `markdown-it`, which is what actually takes the Markdown files and parses them to HTML. When supplemented with several plugins, `markdown-it` can do just about everything MultiMarkdown 3 can do.
 
 However, with the good comes the bad. `markdown-it`, even with plugins, does not support *any* of the nifty image syntax offered by MultiMarkdown 3 and MultiMarkdown Composer. So the 'easy' image syntax I used in the example above would not work using `markdown-it` and Camel. This nullified my reliance on MultiMarkdown Composer and made it so that I could [go back to using Byword][d]. 
 
@@ -89,9 +82,9 @@ Unsure of what image syntax Camel would support, I followed Casey's lead. As has
 
 Here's what I found:
 
-```md
+```nohighlight
 <figure class="figleft">
-	<img src="@@SiteRoot@@/images/2015/3/iphone.png" alt="Steve Jobs debuts the iPhone" width="300" />
+	<img src="http://www.caseyliss.com/images/2015/3/iphone.png" alt="Steve Jobs debuts the iPhone" width="300" />
 	<figcaption>Are You Getting It?</figcaption>
 </figure>
 ```
@@ -118,13 +111,13 @@ Once I wrapped my brain around that, I began the long and tedious process of ope
 
 My previous usage of MultiMarkdown Composer would also cause me trouble with footnotes in Camel. Previously, I wrote all inline footnotes in the following format:
 
-```md
+```nohighlight
 Text.[^Inline footnote]
 ```
 
 This would then get parsed to this:
 
-```html
+```nohighlight
 <p>Text.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
 
 <div class="footnotes">
@@ -193,6 +186,7 @@ During the two solid weeks I spent transitioning to Camel, most of my time dealt
 [mdi]: https://www.npmjs.com/package/markdown-it
 [metaclassy]: http://metaclassy.com/
 [multimarkdown]: http://multimarkdown.com/
+[npm]: http://npmjs.com
 [smilesoftware]: http://smilesoftware.com/TextExpander/index.html
 [theoveranalyzed]: http://www.theoveranalyzed.net/2015/2/25/designing-theoveranalyzed-20
 [theoveranalyzed 2]: http://www.theoveranalyzed.net/2015/3/4/byword-multimarkdown-composer-and-more#byword-versus-multimarkdown-composer
