@@ -111,13 +111,13 @@ Once I wrapped my brain around that, I began the long and tedious process of ope
 
 My previous usage of MultiMarkdown Composer would also cause me trouble with footnotes in Camel. Previously, I wrote all inline footnotes in the following format:
 
-```nohighlight
+```
 Text.[^Inline footnote]
 ```
 
 This would then get parsed to this:
 
-```nohighlight
+```
 <p>Text.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
 
 <div class="footnotes">
