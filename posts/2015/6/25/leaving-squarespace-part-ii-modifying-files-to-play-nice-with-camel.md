@@ -58,7 +58,7 @@ In the months leading up to [TheOverAnalyzed 3.0][theoveranalyzed 3], I transiti
 
 For instance, if I wanted to embed an image with caption in MultiMarkdown Composer, this is all I would have to write:
 
-```nohighlight
+```
 ![Caption][alt]
 
 [alt]: link
@@ -82,7 +82,7 @@ Unsure of what image syntax Camel would support, I followed Casey's lead. As has
 
 Here's what I found:
 
-```nohighlight
+```
 <figure class="figleft">
 	<img src="http://www.caseyliss.com/images/2015/3/iphone.png" alt="Steve Jobs debuts the iPhone" width="300" />
 	<figcaption>Are You Getting It?</figcaption>
