@@ -30,19 +30,19 @@ h1 {
 }
 
 h2 {
-    font-size: 1.25em;
+    font-size: 1.3em;
 }
 
 h3 {
-    font-size: 1.125em;
+    font-size: 1.1em;
 }
 
 h4 {
-    font-size: 1.075em;
+    font-size: 1em;
 }
 
 h5 {
-    font-size: 1em;
+    font-size: .93em;
 }
 
 h1:nth-child(1),
@@ -66,13 +66,19 @@ a:hover {
 }
 
 .entry a:hover {
+    padding-bottom: 2px; /*Adjusts space in between the "underline" (border-bottom) and the text*/
 	color: #2e8eef;
 	border-top: 0;
 	border-left: 0;
-	border-right: px;
+	border-right: 0;
 	border-bottom: 0px solid #2e8eef;
-	border-width: 1.5px;
+	border-width: 1.5px; /*Makes the transition less janky*/
 	-webkit-transition: all .17s ease-in-out;
+}
+
+a.nohover:hover {  /*No border-bottom on image links*/
+    background: none;
+    border: none;
 }
 
 /* @end */
@@ -83,6 +89,7 @@ a:hover {
 
 .main {
    margin-top: 8em;
+   margin-bottom: 12em;
 }
 
 .content {
@@ -209,10 +216,9 @@ table.sortable thead {
 
 /* @group Pre & Code */
 
-.content pre {
+pre {
     font-size: 1em;
-    white-space: pre-wrap;
-    margin-bottom: 24px;
+    white-space: pre;
     overflow: auto;
     padding: 5px 10px;
     -webkit-border-radius: 3px;
@@ -220,26 +226,30 @@ table.sortable thead {
 /*   border: 1px solid #ddd;*/
 }
 
-.content code {
-    white-space: pre-wrap;
-    word-wrap: break-word; 
+code {
+    white-space: pre; 
     font-size: .9em;
     padding: 3px;
-    overflow: auto; 
+    overflow: auto;
     -webkit-border-radius: 4px;
     background-color: #eee;
 /*   border: 1px solid #ddd;*/
 }
 
-.content pre code {
+pre code {
     font-size: 1em;
-    white-space: pre-wrap;
+    white-space: pre;
     border: none;
     padding: 0;
     overflow: auto;
     background-color: #eee;
-    -webkit-border-radius: 0;
+    -webkit-border-radius: 3px;
     line-height: 1.5;
+}
+
+/* Fixes funkiness on homepage <pre><code> */
+.homepage pre code {
+	white-space: pre-line;
 }
 
 /* @end */
@@ -249,37 +259,72 @@ table.sortable thead {
 /* @group Images */
 
 figure {
-    margin-top: 2em;
-    margin-bottom: 2em;
-    display: block;
+    margin: 1em auto 1em auto;
+    display: inline-block;
     text-align: center;
+    width: 100%;
+}
+
+figure.wide {
+	width: 1100px;
+	margin-left: -260px;
 }
 
 figure.figleft {
-	display: inline;
+	margin: 0.5em 2em 1em 0.5em;
+	width: 50%;
+	display: inline-block;
 	float: left;
 }
 
 figure.figright {
-	display: inline;
+	margin: 0.5em 0.5em 1em 2em;
+	width: 50%;
+	display: inline-block;
 	float: right;
 }
 
+figure.twoleft {
+	width: 48%;
+	float: left;
+	display: inline-block;
+}
+
+figure.tworight {
+	width: 48%;
+	float: right;
+	display: inline-block;
+}
+
+/* Makes the wide images stay within the content
+width for the homepage */
+.homepage figure.wide {
+	width: 100%;
+	margin: 1em auto 1em auto;
+	text-align: center;
+}
+
 figcaption {
-    margin-top: .5em;
+    margin: .5em auto auto auto;
     text-align: center;
     font-style: italic;
     font-size:  .8em;
+    color: #9e9e9e;
+    width: 50%;
+    word-wrap: normal;
+    
 }
 
 .center {
-    display: block;
+    display: inline;
+    margin-top: inherit;
+    margin-bottom: 3em;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
 
-.center img.left {
+/*.center img.left {
     margin-right: 2em;
 }
 
@@ -291,7 +336,7 @@ figcaption {
 	width: 140%; 
 	max-width: 140%;
 	margin: 0 -20%;
-}
+}*/
 
 .content img {
     max-width: 100%;
@@ -308,9 +353,14 @@ figcaption {
 
 /* @group Misc Elements */
 
-.super {
+.sup {
     vertical-align: super;
     font-size: 50%;
+}
+
+.sub {
+	vertical-align: sub;
+	font-size: 50%;
 }
 
 blockquote {  
@@ -335,7 +385,8 @@ blockquote {
 
 /* @group Role Separators */
 
-.homepage .article hr {
+.homepage hr,
+.post hr {
     width: 100%;
     margin-top: 1.7em;
     margin-bottom: 1.7em;
@@ -358,6 +409,10 @@ blockquote {
 
 /* @group Homepage */
 
+.homepage .entry {
+	margin-bottom:  7em;
+}
+
 .homepage .postHeader h1 {
     font-size: 2em;
     font-weight: 800;
@@ -377,6 +432,11 @@ blockquote {
     margin-bottom: 1em;
 }
 
+.homepage .postHeaderLinked {
+    margin-top: 4em;
+    margin-bottom: 1em;
+}
+
 .homepage .postHeaderLinked h1 {
     font-size: 1.5em;
     font-weight: 800;
@@ -384,16 +444,16 @@ blockquote {
     margin-bottom: 0em;
 }
 
-.homepage .postHeaderLinked {
-    margin-top: 4em;
-    margin-bottom: 1em;
+.homepage header.postHeader,
+.homepage header.postHeaderLinked {
+	margin-top: 5em;
 }
 
 .homepage a.post-title {
     font-weight: 800;
     line-height: 1.5;
     margin-bottom: .2em;
-    color: #545454; 
+    color: #545454;
 }
 
 .homepage a.post-title:hover {
@@ -451,21 +511,33 @@ blockquote {
     vertical-align: -.05em;
 }
 
-.homepage .postHeader:nth-of-type(1) {
+/* I don't remember what this was for */
+
+/* .homepage .postHeader:nth-of-type(1) {
 	margin-top: 5em;
 }
 
 .homepage .postHeaderLinked:nth-of-type(1) {
 	margin-top: 5em;
+} */
+
+.homepage center.topstory {
+	margin-top: 2em;
+    margin-bottom: 2em;
+    font-style: italic;
+    text-align: left;
 }
 
 .homepage .day .daybreak {
     margin-top: 5em;
-    margin-bottom:  5em;
+    margin-bottom:  7em;
+    margin-left: -20%;
     border: 0;
-    color: #ddd;
+    border-radius: 2px;
+	color: #ddd;
 	background-color: #ddd;
-	height: .4em;
+	height: .3em;
+	width: 140%;
 }
 
 /* @end */
@@ -478,13 +550,13 @@ blockquote {
     text-align: center;
     margin-bottom: 0em;
     line-height: 1.5;
-    font-size: 2.3em;
+    font-size: 2.15em;
     font-weight: 800;
 }
 
 .post .postHeader {
-    margin-top: 4em;
-    margin-bottom: 5em;
+    margin-top: 3em;
+    margin-bottom: 4em;
     text-align: center;
 }
 
@@ -529,6 +601,12 @@ blockquote {
     color: #9e9e9e;
 }
 
+.post center.topstory {
+    margin-bottom: 5em;
+    font-style: italic;
+    text-align: center;
+}
+
 /* @end */
 
 
@@ -545,7 +623,7 @@ blockquote {
 
 /* @group Tags */
 
-/* (Unused in my version of Camel) */
+/* Unused in my version of Camel */
 
 /* p.taggedIn {
 	padding: 12px 10px;
@@ -626,11 +704,18 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
     opacity: 1;
 }
 
-.header-anchor {
+/*.header-anchor {
     color: #3f70a2;
     opacity: 0;
     position: absolute;
     margin-left: -1em;
+}*/
+
+.header-anchor {
+    color: #3f70a2;
+    opacity: 0;
+    position: absolute;
+    padding-left: 5px;
 }
 
 a.header-anchor:hover {
@@ -645,8 +730,9 @@ a.header-anchor:hover {
 .homepage .paginationFooter {
     display: block;
     width: 100%;
-    margin-top: 3em;
-    margin-bottom: 3em;
+    margin-top: 0em;
+    margin-bottom: 7em;
+    padding-top: 2em;
 }
 
 .homepage .paginationFooter .previousPage {
@@ -671,10 +757,10 @@ a.header-anchor:hover {
 (Brent Simmons inspired -- 
 http://www.inessential.com) */
 
-.bottomAd {
+center.bottomAd {
     border-top: 1px solid #ddd;
-    margin-top: 12em;
-    height: 165px;
+    height: 130px;
+    padding-top: 2em;
 }
 
 .navFooter {
@@ -713,19 +799,27 @@ http://www.inessential.com) */
 
 /* @group @media Queries */
 
-@media all and (max-width: 568px) {
+@media (max-width: 1100px) {
+	figure.wide { 
+		margin-left: calc((100vw - 580px) / -2); 
+		max-width: 100vw;
+	}
+}
+
+@media all and (max-width: 580px) {
+
     .container {
         margin-left:auto;
         margin-right:auto;
     }
 
 	.content {
-	    max-width:75%;
+	    max-width: 400px;
 	    font-size: 95%;
 	}
 	
 	.main {
-	    margin-top: 7em;
+	    margin-top: 5em;
 	}
 	
 	#mastheadbackground {
@@ -745,6 +839,35 @@ http://www.inessential.com) */
 	    margin: -1em auto 1.1em auto;
 	}
 	
+	.homepage .postHeader h1 {
+	    font-size: 1.8em;
+	}
+	
+	.homepage .day .daybreak {
+		margin-top: -2em;
+		margin-bottom: 2em;
+	    margin-left: -10%;
+		width: 120%;
+	}
+	
+	.homepage .paginationFooter {
+		margin-bottom: -3em;
+	    padding-top: 3em;
+	}
+	
+	.post .postHeader h1 {
+	    font-size: 1.8em;
+	}
+	
+	.post .postHeader {
+	    margin-top: 3em;
+	    margin-bottom: 3em;
+	}
+	
+	.post center.topstory {
+	    margin-bottom: 3em;
+	}
+	
 	.navFooter {
 	    background-color: #3f70a2;
 	    height: 120px;
@@ -754,6 +877,30 @@ http://www.inessential.com) */
 	    padding-top: 2em;
 	    margin-bottom: .5em;
 	}	
+	
+/* Makes 'Casey Liss' style floated-images behave like regular <figure> images */
+
+	figure.figleft,
+	figure.figright,
+	figure.twoleft,
+	figure.tworight {
+	    float: none;
+	    width: 100%;
+	    text-align: center;
+	    margin: 1em auto 1em auto;
+	}
+	
+/* Undoes my keeping wide images on hompeage 
+to 100% of the container */	
+	.homepage figure.wide {
+		width: 100vw;
+		margin-left: calc((100vw - 400px) / -2);
+	}
+	
+	figure.wide {
+		max-width: 100vw;
+		margin-left: calc((100vw - 400px) / -2);
+	}
 }
 
 /* Fix for big ol' Bigfoot button on iPhone 6 Plus */
