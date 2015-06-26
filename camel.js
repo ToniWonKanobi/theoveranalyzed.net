@@ -88,7 +88,7 @@ siteMetadata.Twitter = config.Social.Twitter;
 siteMetadata.siteAbout = config.Site.About;
 siteMetadata.siteAuthor = config.Site.Author;
 siteMetadata.DefaultImage = config.Site.DefaultImage;
-//siteMetadata.CurrentYear = new Date().getFullYear();
+siteMetadata.CurrentYear = new Date().getFullYear();
 
 
 /***************************************************
