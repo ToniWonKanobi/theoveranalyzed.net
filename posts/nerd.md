@@ -5,7 +5,7 @@
 
 ## What The Site's Made Of
 
-The site is built on a [forked version][github] of [Casey Liss's][twitter]  static blogging engine called [Camel][github 2], itself based on [Node][nodejs], [Express][expressjs], and several other [npm][npmjs] [packages][github 3]. I've also installed several additional [`markdown-it`][npmjs 2] plugins, beyond what Casey included with Camel by default. First, there's [`markdown-it-anchor`][npmjs 3], which makes for easy linking to specific headers like on [GitHub][d]. Second, I added [`markdown-it-table-of-contents`][npmjs 4], which can parse a 'table of contents' when called for in the `.md`.[^pa] And the last plugin is [`markdown-it-highlightjs`][npmjs 5], which highlights text in ```<pre><code>``` blocks based on the detected language, much like on [GitHub][github 4].
+The site is built on a [forked version][github] of [Casey Liss's][twitter]  static blogging engine called [Camel][github 2], itself based on [Node][nodejs], [Express][expressjs], and several other [npm][npmjs] [packages][github 3]. I've also installed several additional [`markdown-it`][npmjs 2] plugins, beyond what Casey included with Camel by default. First, there's [`markdown-it-anchor`][npmjs 3], which makes for easy linking to specific headers like on [GitHub][d]. Second, I added [`markdown-it-table-of-contents`][npmjs 4], which can parse a 'table of contents' when called for in the `.md`.[^pa]
 
 As far as client-side packages go, I have employed several additional open-source JavaScript projects. The first is [Bigfoot][bigfootjs], for fancy footnotes like what Marco Arment used in [Instapaper][marco]. And then there's [FitVids][fitvidsjs], for [proportion-retained][pro] `<iframe>` content (makes YouTube videos scale to fit the horizontal `.container`).
  
@@ -53,7 +53,6 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 [npmjs 2]: https://www.npmjs.com/package/markdown-it
 [npmjs 3]: https://www.npmjs.com/package/markdown-it-anchor
 [npmjs 4]: https://www.npmjs.com/package/markdown-it-table-of-contents
-[npmjs 5]: https://www.npmjs.com/package/markdown-it-highlightjs
 [nerd]: http://www.theoveranalyzed.net/nerd.md
 [pro]: http://www.theoveranalyzed.net/2015/3/9/constrain-embedded-videos-while-preserving-correct-aspect-ratios-in-squarespace
 [tags]: http://www.theoveranalyzed.net/tags

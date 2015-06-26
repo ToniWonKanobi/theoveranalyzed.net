@@ -20,10 +20,10 @@ Thanks for stopping by.
 
 [atp]: http://atp.fm
 [caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced
-[hacks]: @@SiteRoot@@/tags/Squarespace
+[hacks]: http://www.theoveranalyzed.net/tags/Squarespace
 [instagram]: https://instagram.com/p/2oFqCowLyD/?taken-by=theoveranalyzed
-[nerd]: @@SiteRoot@@/nerd
+[nerd]: http://www.theoveranalyzed.net/nerd
 [ss]: http://www.squarespace.com
-[toa]: @@SiteRoot@@/tags/TheOverAnalyzed
-[rssa]: @@SiteRoot@@/rss-alternate
+[toa]: http://www.theoveranalyzed.net/tags/TheOverAnalyzed
+[rssa]: http://www.theoveranalyzed.net/rss-alternate
 [twitter]: https://twitter.com/caseyliss/status/601133285356531712
