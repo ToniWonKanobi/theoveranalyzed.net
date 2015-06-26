@@ -296,23 +296,13 @@ figure.tworight {
 	display: inline-block;
 }
 
-/* Makes the wide images stay within the content
-width for the homepage */
-.homepage figure.wide {
-	width: 100%;
-	margin: 1em auto 1em auto;
-	text-align: center;
-}
-
 figcaption {
     margin: .5em auto auto auto;
     text-align: center;
     font-style: italic;
     font-size:  .8em;
     color: #9e9e9e;
-    width: 50%;
-    word-wrap: normal;
-    
+    width: 65%;
 }
 
 .center {
@@ -799,36 +789,40 @@ center.bottomAd {
 
 /* @group @media Queries */
 
-@media (max-width: 1100px) {
+@media all and (max-width: 1100px) {
 	figure.wide { 
 		margin-left: calc((100vw - 580px) / -2); 
 		max-width: 100vw;
 	}
+	
+/* Makes the wide images stay within the content
+width for the homepage */
+	.homepage figure.wide {
+		max-width: 100%;
+		margin: 1em auto 1em auto;
+		text-align: center;
+}
+
 }
 
 @media all and (max-width: 580px) {
-
-    .container {
-        margin-left:auto;
-        margin-right:auto;
-    }
-
-	.content {
-	    max-width: 400px;
-	    font-size: 95%;
-	}
-	
-	.main {
-	    margin-top: 5em;
-	}
 	
 	#mastheadbackground {
 	   height: 120px;
 	   margin-bottom: -120px;
 	}
 	
+	.content{
+		margin: .6em auto 5em auto;
+		width: 325px;
+	}
+	
+	.main {
+		margin-top: 5em;
+	}
+	
 	.content .header .siteTitle {
-	    max-width: 85%; 
+	    max-width: 325px; 
 	    margin-top: 0em;
 	    margin-bottom: .1em;
 	}
@@ -846,13 +840,8 @@ center.bottomAd {
 	.homepage .day .daybreak {
 		margin-top: -2em;
 		margin-bottom: 2em;
-	    margin-left: -10%;
-		width: 120%;
-	}
-	
-	.homepage .paginationFooter {
-		margin-bottom: -3em;
-	    padding-top: 3em;
+	    margin-left: -5%;
+		width: 110%;
 	}
 	
 	.post .postHeader h1 {
@@ -892,14 +881,15 @@ center.bottomAd {
 	
 /* Undoes my keeping wide images on hompeage 
 to 100% of the container */	
-	.homepage figure.wide {
-		width: 100vw;
-		margin-left: calc((100vw - 400px) / -2);
-	}
 	
 	figure.wide {
-		max-width: 100vw;
-		margin-left: calc((100vw - 400px) / -2);
+		width: 100vw;
+		margin-left: calc((100vw - 325px) / -2);
+	}
+	
+	.homepage figure wide {
+		width: 100vw;
+		margin-left: calc((100vw - 325px) / -2);
 	}
 }
 
