@@ -30,19 +30,19 @@ h1 {
 }
 
 h2 {
-    font-size: 1.3em;
+    font-size: 1.25em;
 }
 
 h3 {
-    font-size: 1.1em;
+    font-size: 1.125em;
 }
 
 h4 {
-    font-size: 1em;
+    font-size: 1.075em;
 }
 
 h5 {
-    font-size: .93em;
+    font-size: 1em;
 }
 
 h1:nth-child(1),
@@ -66,19 +66,13 @@ a:hover {
 }
 
 .entry a:hover {
-    padding-bottom: 2px; /*Adjusts space in between the "underline" (border-bottom) and the text*/
 	color: #2e8eef;
 	border-top: 0;
 	border-left: 0;
-	border-right: 0;
+	border-right: px;
 	border-bottom: 0px solid #2e8eef;
-	border-width: 1.5px; /*Makes the transition less janky*/
+	border-width: 1.5px;
 	-webkit-transition: all .17s ease-in-out;
-}
-
-a.nohover:hover {  /*No border-bottom on image links*/
-    background: none;
-    border: none;
 }
 
 /* @end */
@@ -89,7 +83,6 @@ a.nohover:hover {  /*No border-bottom on image links*/
 
 .main {
    margin-top: 8em;
-   margin-bottom: 12em;
 }
 
 .content {
@@ -218,7 +211,8 @@ table.sortable thead {
 
 .content pre {
     font-size: 1em;
-    white-space: pre-line;
+    white-space: pre-wrap;
+    margin-bottom: 24px;
     overflow: auto;
     padding: 5px 10px;
     -webkit-border-radius: 3px;
@@ -227,10 +221,11 @@ table.sortable thead {
 }
 
 .content code {
-    white-space: pre-line; 
+    white-space: pre-wrap;
+    word-wrap: break-word; 
     font-size: .9em;
     padding: 3px;
-    overflow: auto;
+    overflow: auto; 
     -webkit-border-radius: 4px;
     background-color: #eee;
 /*   border: 1px solid #ddd;*/
@@ -238,7 +233,7 @@ table.sortable thead {
 
 .content pre code {
     font-size: 1em;
-    white-space: pre-line;
+    white-space: pre-wrap;
     border: none;
     padding: 0;
     overflow: auto;
@@ -256,40 +251,18 @@ table.sortable thead {
 figure {
     margin-top: 2em;
     margin-bottom: 2em;
-    display: inline-block;
-    text-align: center;
-    width: 80%;
-}
-
-figure.wide {
-	width: 140%;
-	margin-left: -20%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    display: inline-block;
+    display: block;
     text-align: center;
 }
 
 figure.figleft {
-	margin: 0.5em 2em 1em .5em;
-	width: 50%;
-	display: inline-block;
+	display: inline;
 	float: left;
 }
 
 figure.figright {
-	margin: 0.5em .5em 1em 2em;
-	width: 50%;
-	display: inline-block;
+	display: inline;
 	float: right;
-}
-
-/* Makes the wide images stay within the content
-width for the homepage */
-.homepage figure.wide {
-	width: 80%;
-	margin-left: 10%;
-	text-align: center;
 }
 
 figcaption {
@@ -297,13 +270,10 @@ figcaption {
     text-align: center;
     font-style: italic;
     font-size:  .8em;
-    color: #9e9e9e;
 }
 
 .center {
-    display: inline;
-    margin-top: inherit;
-    margin-bottom: 3em;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -365,8 +335,7 @@ blockquote {
 
 /* @group Role Separators */
 
-.homepage hr,
-.post hr {
+.homepage .article hr {
     width: 100%;
     margin-top: 1.7em;
     margin-bottom: 1.7em;
@@ -389,10 +358,6 @@ blockquote {
 
 /* @group Homepage */
 
-.homepage .entry {
-	margin-bottom:  7em;
-}
-
 .homepage .postHeader h1 {
     font-size: 2em;
     font-weight: 800;
@@ -412,11 +377,6 @@ blockquote {
     margin-bottom: 1em;
 }
 
-.homepage .postHeaderLinked {
-    margin-top: 4em;
-    margin-bottom: 1em;
-}
-
 .homepage .postHeaderLinked h1 {
     font-size: 1.5em;
     font-weight: 800;
@@ -424,16 +384,16 @@ blockquote {
     margin-bottom: 0em;
 }
 
-.homepage header.postHeader,
-.homepage header.postHeaderLinked {
-	margin-top: 5em;
+.homepage .postHeaderLinked {
+    margin-top: 4em;
+    margin-bottom: 1em;
 }
 
 .homepage a.post-title {
     font-weight: 800;
     line-height: 1.5;
     margin-bottom: .2em;
-    color: #545454;
+    color: #545454; 
 }
 
 .homepage a.post-title:hover {
@@ -491,31 +451,21 @@ blockquote {
     vertical-align: -.05em;
 }
 
-/*.homepage .postHeader:nth-of-type(1) {
+.homepage .postHeader:nth-of-type(1) {
 	margin-top: 5em;
 }
 
 .homepage .postHeaderLinked:nth-of-type(1) {
 	margin-top: 5em;
-}*/
-
-.homepage center.topstory {
-	margin-top: 2em;
-    margin-bottom: 2em;
-    text-align: center;
-    font-style: italic;
 }
 
 .homepage .day .daybreak {
     margin-top: 5em;
-    margin-bottom:  7em;
-    margin-left: -20%;
+    margin-bottom:  5em;
     border: 0;
-    border-radius: 2px;
-	color: #ddd;
+    color: #ddd;
 	background-color: #ddd;
-	height: .3em;
-	width: 140%;
+	height: .4em;
 }
 
 /* @end */
@@ -577,11 +527,6 @@ blockquote {
 .post .postHeaderLinked .date .Linkedtime {
     font-size: .85em;
     color: #9e9e9e;
-}
-
-.post center.topstory {
-    margin-bottom: 5em;
-    font-style: italic;
 }
 
 /* @end */
@@ -700,9 +645,8 @@ a.header-anchor:hover {
 .homepage .paginationFooter {
     display: block;
     width: 100%;
-    margin-top: 0em;
-    margin-bottom: 7em;
-    padding-top: 2em;
+    margin-top: 3em;
+    margin-bottom: 3em;
 }
 
 .homepage .paginationFooter .previousPage {
@@ -727,10 +671,10 @@ a.header-anchor:hover {
 (Brent Simmons inspired -- 
 http://www.inessential.com) */
 
-center.bottomAd {
+.bottomAd {
     border-top: 1px solid #ddd;
-    height: 130px;
-    padding-top: 2em;
+    margin-top: 12em;
+    height: 165px;
 }
 
 .navFooter {
@@ -769,8 +713,7 @@ center.bottomAd {
 
 /* @group @media Queries */
 
-@media all and (max-width: 600px) {
-
+@media all and (max-width: 568px) {
     .container {
         margin-left:auto;
         margin-right:auto;
@@ -782,7 +725,7 @@ center.bottomAd {
 	}
 	
 	.main {
-	    margin-top: 5em;
+	    margin-top: 7em;
 	}
 	
 	#mastheadbackground {
@@ -802,18 +745,6 @@ center.bottomAd {
 	    margin: -1em auto 1.1em auto;
 	}
 	
-	.homepage .day .daybreak {
-		margin-top: -2em;
-		margin-bottom: 2em;
-	    margin-left: -10%;
-		width: 120%;
-	}
-	
-	.homepage .paginationFooter {
-		margin-bottom: -3em;
-	    padding-top: 3em;
-	}
-	
 	.navFooter {
 	    background-color: #3f70a2;
 	    height: 120px;
@@ -823,19 +754,6 @@ center.bottomAd {
 	    padding-top: 2em;
 	    margin-bottom: .5em;
 	}	
-	
-/* Makes 'Casey Liss' style floated-images behave like regular <figure> images */
-
-	figure,
-	figure.figleft,
-	figure.figright,
-	figure.wide,
-	.homepage figure.wide {
-	    float: none;
-	    width: 100%;
-	    text-align: center;
-	    margin: 1em auto 1em auto;
-	}
 }
 
 /* Fix for big ol' Bigfoot button on iPhone 6 Plus */
