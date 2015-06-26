@@ -270,6 +270,13 @@ figure.wide {
 	margin-left: -260px;
 }
 
+/* Makes the wide images stay within the content
+width for the homepage */
+.homepage figure.wide {
+	width: 100%;
+	margin-left: auto;
+}
+
 figure.figleft {
 	margin: 0.5em 2em 1em 0.5em;
 	width: 50%;
@@ -694,7 +701,8 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
     opacity: 1;
 }
 
-/*.header-anchor {
+/* Old code. Need to fix this */
+/* .header-anchor {
     color: #3f70a2;
     opacity: 0;
     position: absolute;
@@ -794,18 +802,9 @@ center.bottomAd {
 		margin-left: calc((100vw - 580px) / -2); 
 		max-width: 100vw;
 	}
-	
-/* Makes the wide images stay within the content
-width for the homepage */
-	.homepage figure.wide {
-		max-width: 100%;
-		margin: 1em auto 1em auto;
-		text-align: center;
 }
 
-}
-
-@media all and (max-width: 580px) {
+@media all and (max-width: 600px) {
 	
 	#mastheadbackground {
 	   height: 120px;
@@ -857,6 +856,10 @@ width for the homepage */
 	    margin-bottom: 3em;
 	}
 	
+	.homepage .paginationFooter {
+	    margin-bottom: -5.5em;
+	}
+	
 	.navFooter {
 	    background-color: #3f70a2;
 	    height: 120px;
@@ -868,7 +871,6 @@ width for the homepage */
 	}	
 	
 /* Makes 'Casey Liss' style floated-images behave like regular <figure> images */
-
 	figure.figleft,
 	figure.figright,
 	figure.twoleft,
@@ -879,22 +881,20 @@ width for the homepage */
 	    margin: 1em auto 1em auto;
 	}
 	
-/* Undoes my keeping wide images on hompeage 
-to 100% of the container */	
-	
 	figure.wide {
 		width: 100vw;
 		margin-left: calc((100vw - 325px) / -2);
 	}
 	
-	.homepage figure wide {
+	/* Undoes my keeping wide images on hompeage 
+	to 100% of the container */	
+	.homepage figure.wide {
 		width: 100vw;
 		margin-left: calc((100vw - 325px) / -2);
 	}
 }
 
 /* Fix for big ol' Bigfoot button on iPhone 6 Plus */
-
 @media only screen 
     and (min-device-width: 414px) 
     and (max-device-width: 736px) 
