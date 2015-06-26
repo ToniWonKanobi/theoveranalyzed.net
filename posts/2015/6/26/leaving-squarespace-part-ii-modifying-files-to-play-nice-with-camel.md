@@ -1,5 +1,5 @@
 @@ Title=Leaving Squarespace Part II: Modifying Files To Play Nice With Camel  
-@@ Date=2015-06-25 12:12  
+@@ Date=2015-06-26 12:12  
 @@ Description=Almost all of my old posts were based on local Markdown files. I had to modify them slightly in order to work with Camel.  
 @@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, meta  
 @@ Image=http://d.pr/i/1em7V+  
@@ -21,18 +21,16 @@ A goal of mine from the beginning was to port over the ~250 posts I had accrued 
 
 Before transitioning to Camel, I adopted a hybrid metadata system inspired by both [Byword's][bywordapp] [MultiMarkdown guide][bywordapp 2], and, perhaps fortuitously, [Camel][github] itself. All of my posts since [TheOverAnalyzed 2.0][theoveranalyzed] had `Title:`, `Date:`, and `Link:` metadata. Byword is smart enough to know that properly-formatted text placed at the top of the document denotes metadata. Byword would then omit that when parsed to HTML.
 
-<figure class="left">
+<figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/1lii9+">
 		<img src="http://d.pr/i/1lii9+" alt="Old style metadata" />
 	</a>
-	<figcaption>Byword auto-magically recognizes metadata</figcaption>
 </figure>
 
-<figure class="right">
+<figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/13n6Z+">
 		<img src="http://d.pr/i/13n6Z+" alt="Smart Byword" />
 	</a>
-	<figcaption>Because Byword recognizes metadata, it's omitted when parsed to HTML</figcaption>
 </figure>
 
 Byword's metadata support is everything I would want in a plain text filing system. The metadata's there when viewing the Markdown source, but disappears when parsed to HTML. I wish Camel supported metadata in the format that Byword supports, but it doesn't out of the box.[^ma]
