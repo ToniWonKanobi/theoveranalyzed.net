@@ -64,8 +64,8 @@ I can also say that without a doubt, the Sport band is more comfortable than the
 Switching between the link bracelet and the sport band couldn't be more cumbersome. I'm not sure if it's due to the DLC coating or what, but removing the link bracelet isn't a trivial task. It's almost like the link ends are too big for the slots they slide into. Note that insertion isn't nearly as difficult as removal. That said, neither operation is as easy as with the Sport bands. This could be, as [Greg Koenig][twitter] said to John Gruber, due to the fact that some link bracelets were bound to have been manufactured ever so slightly on the bigger end of Apple's spec. Maybe Gruber's and my particular watches had bigger band attachments (or small case slide-in areas) than the average setup?
 
 <figure class="wide">
-	<a class="nohover" href="http://d.pr/i/XRqE+">
-		<img src="http://d.pr/i/XRqE+" alt="Changing links" />
+	<a class="nohover" href="http://d.pr/i/19gTc+">
+		<img src="http://d.pr/i/19gTc+" alt="Changing links" />
 	</a>
 </figure>
 

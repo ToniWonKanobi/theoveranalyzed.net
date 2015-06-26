@@ -149,14 +149,12 @@ Out of the box, Camel includes the [`markdown-it`][mdi] plugin `markdown-it-foot
 	<a class="nohover" href="http://d.pr/i/1aazM+">
 		<img src="http://d.pr/i/1aazM+" />
 	</a>
-	<figcaption>Testing inline and multi-paragraph footnotes</figcaption>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/12gMj+">
 		<img src="http://d.pr/i/12gMj+" />
 	</a>
-	<figcaption>Byword can't parse either</figcaption>
 </figure>
 
 Neither inline footnotes nor multi-paragraph footnotes are supported by [Byword][bywordapp]. But as long as I format the footnotes syntax correctly, everything will display properly in the parsed HTML.

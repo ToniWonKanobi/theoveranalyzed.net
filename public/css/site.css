@@ -867,7 +867,9 @@ center.bottomAd {
 /* Makes 'Casey Liss' style floated-images behave like regular <figure> images */
 
 	figure.figleft,
-	figure.figright {
+	figure.figright,
+	figure.twoleft,
+	figure.tworight {
 	    float: none;
 	    width: 100%;
 	    text-align: center;
