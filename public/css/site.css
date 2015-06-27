@@ -804,6 +804,34 @@ center.bottomAd {
 	}
 }
 
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+	.content{
+		width: 580px;
+	}
+
+	.main {
+		margin-top: 5em;
+	}
+	
+	figure.wide {
+		width: 100vw;
+		margin-left: calc((100vw - 580px) / -2);
+	}
+	
+	/* Undoes my keeping wide images on hompeage 
+	to 100% of the container */	
+	.homepage figure.wide {
+		width: 100vw;
+		margin-left: calc((100vw - 580px) / -2);
+	}
+
+}
+
 @media all and (max-width: 600px) {
 	
 	#mastheadbackground {
