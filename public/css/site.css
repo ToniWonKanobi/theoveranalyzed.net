@@ -399,9 +399,11 @@ blockquote {
 .post hr.small,
 .homepage hr.small {
     width: 60%;
+    color: #eee;
     margin-top: 2.5em;
     margin-bottom: 2.5em;
     border-style: solid;
+    border-radius: 1px;
     border-width: 1px 0 0 0; 
 }
 
