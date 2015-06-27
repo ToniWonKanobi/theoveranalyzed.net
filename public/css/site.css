@@ -811,6 +811,7 @@ center.bottomAd {
   and (-webkit-min-device-pixel-ratio: 1) {
 
 	.content{
+		margin: auto auto 5em auto;
 		width: 580px;
 	}
 
