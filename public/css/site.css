@@ -844,7 +844,7 @@ center.bottomAd {
 	}
 	
 	.homepage .day .daybreak {
-		margin-top: -2em;
+		margin-top: 0;
 		margin-bottom: 2em;
 	    margin-left: -5%;
 		width: 110%;
@@ -864,7 +864,7 @@ center.bottomAd {
 	}
 	
 	.homepage .paginationFooter {
-	    margin: 3em auto 5em auto;
+	    margin: 3em auto -4em auto;
 	}
 	
 	.navFooter {
