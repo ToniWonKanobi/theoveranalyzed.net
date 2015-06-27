@@ -3,7 +3,7 @@
 @@ Description=New real simple syndication feeds for Version 3.0 of the site.  
 @@ Tags=meta, TheOverAnalyzed, TheOverAnalyzed 3.0, Camel, RSS, site announcements  
 
-One of the reasons for [my move from Squarespace to Camel][theoveranalyzed] was to have an '[alternate RSS][alt]' feed, in which linked posts point back to my blog instead of their actual targets. This isn't true to John Gruber's original implementation of a [Linked List][ll], but some people prefer that method of subscription.
+One of the reasons for [my move from Squarespace to Camel][theoveranalyzed] was to have an ['alternate'][alt] RSS feed, for which linked posts point back to my blog instead of their actual targets. This isn't true to John Gruber's original implementation of a [Linked List][ll], but some people prefer that method of subscription.
 
 Subscribe to standard feed: [http://www.theoveranalyzed.net/rss][theoveranalyzed 2]
 
