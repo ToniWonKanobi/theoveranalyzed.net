@@ -139,12 +139,10 @@ a.nohover:hover {  /*No border-bottom on image links*/
     color: black;
 }
 
-.content .header .siteByline,
-.content .header a.siteByline,
-.content .header a.siteByline:hover, {
+.content .header .siteByline {
     font-size: .92em;
     color: #ffffff;
-    margin: auto;
+    margin: -1em auto 1.1em auto;
 }
 
 /* @group THIS IS FOR CASEY'S DEFAULT TOP NAV */
