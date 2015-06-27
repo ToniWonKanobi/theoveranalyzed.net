@@ -6,7 +6,7 @@
 
 <img src="http://d.pr/i/1d53F+" class="headshot" alt="❤️">
 
-I'm Anthony.
+I'm [Anthony][ant].
 
 After months of hearing on my favorite [podcast][atp] various advertisements for [Squarespace][ss], I took the plunge and started my own blog in early 2014: TheOverAnalyzed. I had no formal web development or design background, but I am a quick learner and a pretty well-rounded nerd. Blogging seemed like an outlet as well as a way to learn some new things.
 
@@ -18,6 +18,7 @@ In early 2015, I caught wind of Casey Liss's blogging engine, Camel, which he op
 
 Thanks for stopping by.
 
+[ant]: http://www.twitter.com/toniwonkanobi
 [atp]: http://atp.fm
 [caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced
 [hacks]: http://www.theoveranalyzed.net/tags/Squarespace
