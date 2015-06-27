@@ -392,19 +392,19 @@ blockquote {
     width: 100%;
     margin-top: 1.7em;
     margin-bottom: 1.7em;
-    border-style: solid;
-    border-width: 1px 0 0 0; 
+    border-radius: 1px;
+    border: 1px solid #ddd;
+    background-color: #ddd;
 }
 
 .post hr.small,
 .homepage hr.small {
     width: 60%;
-    color: #9e9e9e;
     margin-top: 2.5em;
     margin-bottom: 2.5em;
-    border-style: solid;
     border-radius: 1px;
-    border-width: 2px 0 0 0; 
+    border: 1px solid #ddd;
+    background-color: #ddd;
 }
 
 /* @end */

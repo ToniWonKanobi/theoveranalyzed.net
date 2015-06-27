@@ -8,7 +8,7 @@
 
 I'm [Anthony][ant].
 
-After months of hearing on my favorite [podcast][atp] various advertisements for [Squarespace][ss], I took the plunge and started my own blog in early 2014: TheOverAnalyzed. I had no formal web development or design background, but I am a quick learner and a pretty well-rounded nerd. Blogging seemed like an outlet as well as a way to learn some new things.
+After months of hearing on my favorite [podcast][atp] various advertisements for [Squarespace][ss], I took the plunge and started my own blog in [early 2014][ear]: TheOverAnalyzed. I had no formal web development or design background, but I am a quick learner and a pretty well-rounded nerd. Blogging seemed like an outlet as well as a way to learn some new things.
 
 Consequently, Versions 1 through [2.5][instagram] of the site were built on the Squarespace platform, across a couple of its templates. Version 1 was mostly stock, but about 6 months after starting the site, I accessed their Developer Platform, hoping it would allow me to tweak the site even more. I was exposed to HTML, CSS, and JavaScript -- languages I knew nothing about previously. Based on what I learned from stalking other people's CSS, as well as what I gathered from all corners of the internet, I employed tons of [hacks][hacks] to make everything appear how I wanted. CSS isn't particularly easy to get right on the first try. But when things finally worked out, boy was it a [great feeling][twitter]. Check out posts tagged [TheOverAnalyzed][toa] for a history of the site's various stages of development.
 
@@ -21,6 +21,7 @@ Thanks for stopping by.
 [ant]: http://www.twitter.com/toniwonkanobi
 [atp]: http://atp.fm
 [caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced
+[ear]: https://twitter.com/TheOverAnalyzed/status/430233457029947392
 [hacks]: http://www.theoveranalyzed.net/tags/Squarespace
 [instagram]: https://instagram.com/p/2oFqCowLyD/?taken-by=theoveranalyzed
 [nerd]: http://www.theoveranalyzed.net/nerd
