@@ -1,5 +1,5 @@
 @@ Title=Easily Create Filenames & URL Slugs From Blog Post Titles 
-@@ Date=2015-06-27 16:30  
+@@ Date=2015-06-27 17:26  
 @@ Description=I wanted a quick and easy way to select the text in the title of a post and easily create a URL-friendly ASCII string. Here's how I did it (with help).  
 @@ Tags=Blogging, filesystem, AppleScript, scripts  
 @@ Image=http://d.pr/i/155iQ+  
@@ -19,7 +19,7 @@ First, I would select and copy the title's text:
 	<figcaption><code>Cmd + C</code></figcaption>
 </figure>
 
-Next, I would `Cmd + S` to invoke the save dialog box:
+Next, `Cmd + S` to invoke the save dialog box:
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/BPjq+">
@@ -28,7 +28,7 @@ Next, I would `Cmd + S` to invoke the save dialog box:
 	<figcaption><code>Cmd + S</code></figcaption>
 </figure>
 
-And then, I would paste the previously selected text into the Save As field:
+Then I paste the previously selected text into the Save As field:
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/14x3d+">
@@ -37,7 +37,7 @@ And then, I would paste the previously selected text into the Save As field:
 	<figcaption><code>Cmd + V</code></figcaption>
 </figure>
 
-After that, I would start manually changing the uppercase letters to lowercase, removing spaces and replacing them with hyphens, and deleting URL-unfriendly characters like `&`:
+After that, I start manually changing the uppercase letters to lowercase, removing spaces and replacing them with hyphens, and deleting URL-unfriendly characters like `&`:
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/15iqM+">
@@ -57,9 +57,9 @@ There had to be a better way.
 
 # The Solution
 
-I tried a few browser searches, but nothing came up. I also the king of scripting (at least amongst my Twitter follow's):
+I tried a few browser searches, but nothing came up. I decided it would be a good idea to ask the king of scripting (at least amongst my Twitter follow's):
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/drdrang">@drdrang</a> You know of any OS X service/script that could take a text string like “This Is A Post” and turn it into `this-is-a-post`?</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/614810347266949121">June 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> I wrote a Python function that does that as part of a blog-posting script. You could build a script/service from it.</p>&mdash; Dr. Drang (@drdrang) <a href="https://twitter.com/drdrang/status/614814467923120129">June 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The [good](http://www.leancrew.com/all-this/) [doctor](https://twitter.com/drdrang) was kind enough to send me an email with the contents of a Python script. 
 
@@ -140,7 +140,7 @@ Anthonys-MacBook:Unidecode-0.04.18 Anthony$
 
 Brett Terpstra's suggestion ended up being the winner:
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ttscoff">@ttscoff</a> You know of any OS X service/script that could take a text string like “This Is A Post” and turn it into `this-is-a-post`?</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/614895411724050432">June 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328">June 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Ah. [Slugify](https://github.com/cocur/slugify). I went back and double-checked Dr. Drang's script. It was basically leveraging Slugify.
 
@@ -242,7 +242,7 @@ Essentially, what `Slugify.workflow` does is take selected text and automate the
 I also assigned a keyboard shortcut to the service, so that I don't have to invoke the 'right-click' submenu.
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1lBKU+>
+	<a class="nohover" href="http://d.pr/i/1lBKU+">
 		<img src="http://d.pr/i/1lBKU+" alt="keyboard shortcut for slugify.workflow" />
 	</a>
 	<figcaption><code>Cmd + Opt + Shift + R</code></figcaption>
@@ -259,13 +259,15 @@ This couldn't get any easier.
 </figure>
 
 <figure class="tworight">
-	<a class="nohover" href="http://d.pr/i/10cCw+">
-		<img src="http://d.pr/i/10cCw+" alt="and done" />
+	<a class="nohover" href="http://d.pr/i/11dN3+">
+		<img src="http://d.pr/i/11dN3+" alt="and done" />
 	</a>
 	<figcaption style="font-style: normal;">😑 &#8594; 😄</figcaption>
 </figure>
 
-You can download `Slugify.workflow` [here](http://d.pr/f/1lx3X).
+# Download
+
+You can download `Slugify.workflow` [here](http://d.pr/f/1lx3X). 
 
 
 
