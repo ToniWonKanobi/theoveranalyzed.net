@@ -43,7 +43,7 @@ Or, you can just send cash to [$theoveranalyzed][cash]
 [instagram]: http://instagram.com/toniwonkanobi/
 [instagram 2]: http://instagram.com/theoveranalyzed/
 [mail]: mailto:anthony@theoveranalyzed.net
-[patreon]: https://www.patreon.com/theoveranalyzed
+[patreon]: https://www.patreon.com/toniwonkanobi
 [rss]: @@SiteRoot@@/rss
 [rssa]: @@SiteRoot@@/rss-alternate
 [twitter]: http://www.twitter.com/toniwonkanobi

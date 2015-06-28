@@ -29,6 +29,20 @@
 	<figcaption>caption</figcaption>
 </figure>
 
+<figure class="twoleft">
+	<a class="nohover" href="link">
+		<img src="link" alt="alt" />
+	</a>
+	<figcaption>caption</figcaption>
+</figure>
+
+<figure class="tworight">
+	<a class="nohover" href="link">
+		<img src="link" alt="alt" />
+	</a>
+	<figcaption>caption</figcaption>
+</figure>
+
 <div class="center">
 	<a class="nohover" href="link">
     	<img src="link" class="left" width="45%" style="padding-bottom: 1.5em;" />
