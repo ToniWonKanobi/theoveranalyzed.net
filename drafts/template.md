@@ -8,6 +8,10 @@
 <center class="topstory">Blah
 </center>
 
+&#8592;
+
+&#8594;
+
 <figure>
 	<a class="nohover" href="link">
 		<img src="image" alt="alttext" />
