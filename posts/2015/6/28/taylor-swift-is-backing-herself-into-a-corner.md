@@ -1,5 +1,5 @@
 @@ Title=Taylor Swift is Backing Herself Into a Corner  
-@@ Date=2015-06-28 13:29  
+@@ Date=2015-06-28 13:41  
 @@ Link=http://www.aboveavalon.com/notes/2015/6/26/taylor-swift-is-backing-herself-into-a-corner-above-avalon-premium  
 @@ Description=Above Avalon has the best take on 'Tae v. Apple'.  
 @@ Tags=Taylor Swift, Apple, culture, music, industry, business  
