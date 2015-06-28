@@ -8,7 +8,13 @@
 
 My workflow for naming files has never been anything to write home about. Squarespace had a nifty 'auto-create-a-URL-slug' feature that I sorely missed after transitioning to Camel. For the past month, I had been doing it by hand. And frankly, it was just long and tedious as you can imagine.
 
-For instance, suppose I wanted to create the filename (and for Camel, the resultant URL slug) for this post. The title `Easily Create Filenames & URL Slugs From Blog Post Titles` isn't the longest I've ever dreamt up, but it certainly isn't the shortest.
+For instance, suppose I wanted to create the filename (and for Camel, the resultant URL slug) for this post. Consider the title of this post:
+
+```
+Easily Create Filenames & URL Slugs From Blog Post Titles
+```
+
+It isn't the longest I've ever dreamt up, but it certainly isn't the shortest, either. If I wanted to create a URL-friendly filename, it would take *several* steps. 
 
 First, I would select and copy the title's text:
 
