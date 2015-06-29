@@ -10,7 +10,7 @@ My workflow for naming files has never been anything to write home about. Square
 
 For instance, suppose I wanted to create the filename (and in Camel, the resultant URL slug) for this post:
 
-```
+```md
 Easily Create Filenames & URL Slugs From Blog Post Titles
 ```
 
@@ -69,7 +69,7 @@ I tried a few browser searches, but nothing came up. I decided it would be a goo
 
 The [good](http://www.leancrew.com/all-this/) [doctor](https://twitter.com/drdrang) was kind enough to send me an email with the contents of a Python script. 
 
-```
+```md
 > On June 27, 2015 at 8:34:20 AM, Dr. Drang (drdrang@gmail.com) wrote: 
 > 
 > This takes the title as standard input and returns the 
@@ -111,7 +111,7 @@ The [good](http://www.leancrew.com/all-this/) [doctor](https://twitter.com/drdra
 
 I tried getting it to work, but, alas, it was beyond my understanding. 
 
-```
+```md
 Anthonys-MacBook:Unidecode-0.04.18 Anthony$ python setup.py install
 running install
 Checking .pth file support in /Library/Python/2.7/site-packages/
