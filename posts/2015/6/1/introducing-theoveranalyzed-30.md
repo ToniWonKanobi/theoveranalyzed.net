@@ -20,19 +20,15 @@ In order to start fiddling with Camel, I had to learn some command line tools.
 
 Making all my old Markdown files play nice with Camel was easy, but extremely time-consuming.
 
-### Part III: Redirecting Old Links Using Camel
-
-I wanted to make sure that links shared on Twitter -- although no longer canonical -- pointed to the old content's new location.
-
-### Part IV: Making Camel My Own
+### Part III: Making Camel My Own
 
 Camel came with several nifty Markdown plugins, but I wanted more. 
 
-### Part V: Making Camel Look Nice
+### Part IV: Redirecting Old Links Using Camel
 
-Second only to the time spent modifying the files, this step took the longest (and for good reason).
+I wanted to make sure that links shared on Twitter -- although no longer canonical -- pointed to the old content's new location.
 
-### Part VI: Taking Camel Live
+### Part V: Taking Camel Live
 
 Getting the site up and running on Heroku was easy. I also had a few odds and ends to straighten out before I was finished.
 
