@@ -68,7 +68,8 @@
     "underscore": "^1.8.2"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.10.x",
+    "npm": "2.12.0"
   },
   "devDependencies": {}
 }
