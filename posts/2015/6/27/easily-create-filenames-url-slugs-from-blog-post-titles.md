@@ -260,7 +260,7 @@ This couldn't get any easier.
 	<a class="nohover" href="http://d.pr/i/10cCw+">
 		<img src="http://d.pr/i/10cCw+" alt="select the text" />
 	</a>
-	<figcaption style="font-style: normal;">😐 →😊
+	<figcaption style="font-style: normal;">😐 → 😊
 	</figcaption>
 </figure>
 
@@ -268,7 +268,7 @@ This couldn't get any easier.
 	<a class="nohover" href="http://d.pr/i/11dN3+">
 		<img src="http://d.pr/i/11dN3+" alt="and done" />
 	</a>
-	<figcaption style="font-style: normal;">😑 →😄</figcaption>
+	<figcaption style="font-style: normal;">😑 → 😄</figcaption>
 </figure>
 
 # Download
