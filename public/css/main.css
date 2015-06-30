@@ -684,7 +684,7 @@ p.taggedIn a {
 }
 
 /* Prevents footnote content from appearing on the homepage */
-.homepage section.footnotes {
+/*.homepage section.footnotes {
     display: none;
 }
 
@@ -694,7 +694,7 @@ p.taggedIn a {
 
 .homepage .footnote-ref {
     display: none;
-}
+}*/
 
 /* @group Meta color for footnotes */
 
