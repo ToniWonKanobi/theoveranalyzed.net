@@ -3,8 +3,8 @@
 @@ Description=A big milestone in my blogging development: footnotes are live on TheOverAnalyzed!  
 @@ Tags=meta, blogging, Squarespace, TheOverAnalyzed, Bigfoot, footnotes  
 
-<center class="topstory">Exactly 20 days ago, I <a href="https://twitter.com/TheOverAnalyzed/status/553716002999898112">publicly committed myself</a> to integrating <a href="http://www.bigfootjs.com">fancy</a> footnotes into my blog (as seen on <a href="http://marco.org/">Marco.org</a> and <a href="http://www.sixcolors.com/">Six Colors</a>). And guess what? I've done it!
-</center>
+<div class="topstory">Exactly 20 days ago, I <a href="https://twitter.com/TheOverAnalyzed/status/553716002999898112">publicly committed myself</a> to integrating <a href="http://www.bigfootjs.com">fancy</a> footnotes into my blog (as seen on <a href="http://marco.org/">Marco.org</a> and <a href="http://www.sixcolors.com/">Six Colors</a>). And guess what? I've done it!
+</div>
 
 <h2>Contents</h2>
 

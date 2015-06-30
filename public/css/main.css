@@ -531,7 +531,7 @@ table.sortable thead {
 	margin-top: 5em;
 } */
 
-.homepage center.topstory {
+.homepage .topstory {
 	margin-top: 2em;
     margin-bottom: 2em;
     font-style: italic;
@@ -618,7 +618,7 @@ table.sortable thead {
 }
 
 /* Makes the topstory stand out more in the post view */
-.post center.topstory {
+.post .topstory {
     margin-bottom: 5em;
     font-style: italic;
     text-align: center;
@@ -915,7 +915,7 @@ center.bottomAd {
 	    margin-bottom: 3em;
 	}
 	
-	.post center.topstory {
+	.post .topstory {
 	    margin-bottom: 3em;
 	}
 	

@@ -4,8 +4,8 @@
 @@ Description=I'll be featuring Cotton Bureau t-shirts here and there. This one seemed pretty neat.  
 @@ Tags=Cotton Bureau, t-shirts, This Week On Cotton Bureau  
 
-<center class="topstory">Starting this week, I will be occasionally featuring neat designs from my favorite T-shirt company, <a href="http://www.cottonbureau.com/">Cotton Bureau</a>.
-</center>
+<div class="topstory">Starting this week, I will be occasionally featuring neat designs from my favorite T-shirt company, <a href="http://www.cottonbureau.com/">Cotton Bureau</a>.
+</div>
 
 <figure class="wide">
 	<a class="nohover" href="https://cottonbureau.com/products/mtr">

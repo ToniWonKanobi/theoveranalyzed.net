@@ -3,8 +3,8 @@
 @@ Description=I figured out how to enable permalinks in posts (with the help of someone smarter than me).  
 @@ Tags=Squarespace, TheOverAnalyzed, blogging, permalinks  
 
-<center class="topstory">Squarespace is a great CMS. "<a href="http://stream-seo.com/squarespace-review/">The Apple of content management services</a>," it has been said. And I would generally agree. With just a minimal amount of effort from the user, it would be *very* difficult to make a website with Squarespace that wasn't halfway decent. That said, there are some caveats to be told. Just like my experiences with everyone's favorite fruit company, whenever I have strayed just a bit from the Squarespace Beaten Path™, things got hairy. One of those areas was <a href="http://www.theoveranalyzed.net/2015/1/31/bigfoot-footnotes-in-squarespace">footnotes</a>. I figured that out with the help of the internet. Next on the list: permalinks.
-</center>
+<div class="topstory">Squarespace is a great CMS. "<a href="http://stream-seo.com/squarespace-review/">The Apple of content management services</a>," it has been said. And I would generally agree. With just a minimal amount of effort from the user, it would be *very* difficult to make a website with Squarespace that wasn't halfway decent. That said, there are some caveats to be told. Just like my experiences with everyone's favorite fruit company, whenever I have strayed just a bit from the Squarespace Beaten Path™, things got hairy. One of those areas was <a href="http://www.theoveranalyzed.net/2015/1/31/bigfoot-footnotes-in-squarespace">footnotes</a>. I figured that out with the help of the internet. Next on the list: permalinks.
+</div>
 
 <h2>Contents</h2>
 

@@ -4,8 +4,8 @@
 @@ Tags=Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, meta  
 @@ Image=http://d.pr/i/118YD+  
 
-<center class="topstory">When I started trying to figure out Camel, all I knew was that it was going to be both more open and easier to tweak than Squarespace. Little did I know that I would discover several additional 'extras' that would make <em>my</em> version of Camel the perfect blogging platform for me. As always, check Roger Stringer's thorough post <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/">here</a> for more in-depth information, such as how to install <code>npm</code> and <code>node</code>
-</center>
+<div class="topstory">When I started trying to figure out Camel, all I knew was that it was going to be both more open and easier to tweak than Squarespace. Little did I know that I would discover several additional 'extras' that would make <em>my</em> version of Camel the perfect blogging platform for me. As always, check Roger Stringer's thorough post <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/">here</a> for more in-depth information, such as how to install <code>npm</code> and <code>node</code>
+</div>
 
 <h2>Contents</h2>
 

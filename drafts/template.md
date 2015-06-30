@@ -5,8 +5,8 @@
 @@ Tags=  
 @@ Image=  
 
-<center class="topstory">Blah
-</center>
+<div class="topstory">Blah
+</div>
 
 &#8592;
 

@@ -4,8 +4,8 @@
 @@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, meta  
 @@ Image=http://d.pr/i/1em7V+  
 
-<center class="topstory">This is Part II of the series entitled <a href="http://www.theoveranalyzed.net/tags/Leaving%20Squarespace">Leaving Squarespace</a>, in which I outline how I left the CMS giant and dived deep into <a href="http://www.twitter.com/caseyliss">Casey Liss</a>'s static blogging engine, <a href="https://github.com/cliss/camel">Camel</a>. 
-</center>
+<div class="topstory">This is Part II of the series entitled <a href="http://www.theoveranalyzed.net/tags/Leaving%20Squarespace">Leaving Squarespace</a>, in which I outline how I left the CMS giant and dived deep into <a href="http://www.twitter.com/caseyliss">Casey Liss</a>'s static blogging engine, <a href="https://github.com/cliss/camel">Camel</a>. 
+</div>
 
 <h2>Contents</h2>
 
