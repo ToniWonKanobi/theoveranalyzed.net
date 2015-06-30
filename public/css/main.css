@@ -63,6 +63,7 @@ a {
 a:hover {
 	color: #2e8eef;
 	-webkit-transition: all .45s ease-in-out;
+	-moz-transition: all .45s ease-in-out;
 }
 
 .entry a:hover {
@@ -74,6 +75,7 @@ a:hover {
 	border-bottom: 0px solid #2e8eef;
 	border-width: 1.5px; /* Makes the transition less janky */
 	-webkit-transition: all .17s ease-in-out;
+	-moz-transition: all .17s ease-in-out;
 }
 
 /* No border-bottom on image links on hover*/
@@ -98,11 +100,6 @@ blockquote {
     padding-left: 9px; 
     border-left: 5px solid #dbdbdb;
 }
-
-blockquote.twitter-tweet {  
-    text-align: center;
-}
-
 
 /* @end */
 
@@ -171,6 +168,7 @@ blockquote.twitter-tweet {
     border: 0;
     border-width: 0;
     -webkit-transition: none;
+    -moz-transition: none;
 }
 
 /* @group Casey's Default Top Navigation */
@@ -309,6 +307,7 @@ pre {
     overflow: auto;
     padding: 5px 10px;
     -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
     background-color: #eee;
 /*   border: 1px solid #ddd;*/
 }
@@ -319,6 +318,7 @@ code {
     padding: 3px;
     overflow: auto;
     -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
     background-color: #eee;
 /*   border: 1px solid #ddd;*/
 }
@@ -331,6 +331,7 @@ pre code {
     overflow: auto;
     background-color: #eee;
     -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
     line-height: 1.5;
 }
 
@@ -466,6 +467,7 @@ table.sortable thead {
 .homepage a.post-title:hover {
     color: #2e8eef;
     -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
 }
 
 .homepage a.post-title.linked {
@@ -479,6 +481,7 @@ table.sortable thead {
 .homepage a.post-title.linked:hover {
     color: #2e8eef;
     -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
 }
 
 .homepage .postHeader .postPermalink {
@@ -710,6 +713,7 @@ a.footnote-backref {
 a.footnote-backref:hover {
     color: #2e8eef;
     -webkit-transition: all .5s ease-out;
+    -moz-transition: all .5s ease-out;
 }
 
 /* @end */
@@ -820,6 +824,7 @@ center.bottomAd {
 .nav a:hover {
     color: #8abef4;
     -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
 }
 
 .nav .dot {
