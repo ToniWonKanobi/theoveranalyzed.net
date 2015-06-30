@@ -63,49 +63,29 @@ a {
 a:hover {
 	color: #2e8eef;
 	-webkit-transition: all .45s ease-in-out;
-	-moz-transition: all .45s ease-in-out;
 }
 
 .entry a:hover {
-    padding-bottom: 1px; /* Adjusts space in between the "underline" (border-bottom) and the text */
+    padding-bottom: 2px; /*Adjusts space in between the "underline" (border-bottom) and the text*/
 	color: #2e8eef;
 	border-top: 0;
 	border-left: 0;
 	border-right: 0;
 	border-bottom: 0px solid #2e8eef;
-	border-width: 1.5px; /* Makes the transition less janky */
+	border-width: 1.5px; /*Makes the transition less janky*/
 	-webkit-transition: all .17s ease-in-out;
-	-moz-transition: all .17s ease-in-out;
 }
 
-/* No border-bottom on image links on hover*/
-a.nohover:hover { 
+a.nohover:hover {  /*No border-bottom on image links*/
     background: none;
     border: none;
-}
-
-.sup {
-    vertical-align: super;
-    font-size: 50%;
-}
-
-.sub {
-	vertical-align: sub;
-	font-size: 50%;
-}
-
-blockquote {  
-    margin: 10px 0px 20px 2px; 
-    color: #9e9e9e; 
-    padding-left: 9px; 
-    border-left: 5px solid #dbdbdb;
 }
 
 /* @end */
 
 
 
-/* @group Main Page Spacing */
+/* @group Page Spacing */
 
 .main {
    margin-top: 8em;
@@ -122,9 +102,9 @@ blockquote {
 
 
 
-/* @group Top */
+/* @group Top Stuffs */
 
-/* Banner */
+/* TOP BANNER */
 
 #mastheadbackground {
    width: 100%;
@@ -135,7 +115,7 @@ blockquote {
 
 .content .header {
     text-align: center;
-/*    border-bottom-style: solid; Casey's default 'underline' of top navigation */
+/*    border-bottom-style: solid;*/
     border-bottom-style: none;
 	border-bottom-color: rgb(228, 228, 228);
 	border-bottom-width: 0.3em;
@@ -168,10 +148,9 @@ blockquote {
     border: 0;
     border-width: 0;
     -webkit-transition: none;
-    -moz-transition: none;
 }
 
-/* @group Casey's Default Top Navigation */
+/* @group THIS IS FOR CASEY'S DEFAULT TOP NAV */
 
 /*.content .header nav,
 .content .header nav a {
@@ -190,155 +169,6 @@ blockquote {
 }*/
 
 /* @end */
-
-/* @end */
-
-
-
-/* @group Images */
-
-figure {
-    margin: 1em auto 1em auto;
-    display: inline-block;
-    text-align: center;
-    width: 100%;
-}
-
-figure.wide {
-	width: 1100px;
-	margin-left: -260px;
-}
-
-/* Left-floated images */
-figure.figleft {
-	margin: 0.5em 2em 1em 0.5em;
-	width: 50%;
-	display: inline-block;
-	float: left;
-}
-
-/* Right-floated images */
-figure.figright {
-	margin: 0.5em 0.5em 1em 2em;
-	width: 50%;
-	display: inline-block;
-	float: right;
-}
-
-/* @group MacStories-style inline images */
-/* Because I don't know how to do it the right way */
-
-figure.twoleft {
-	width: 48%;
-	float: left;
-	display: inline-block;
-}
-
-figure.tworight {
-	width: 48%;
-	float: right;
-	display: inline-block;
-}
-
-/* @end */
-
-figcaption {
-    margin: .5em auto auto auto;
-    text-align: center;
-    font-style: italic;
-    font-size:  .8em;
-    color: #9e9e9e;
-    width: 65%;
-}
-
-/* Makes <code> blocks within figure captions non-italicized*/
-figcaption code {
-	font-style: normal;
-}
-
-.center {
-    display: inline;
-    margin-top: inherit;
-    margin-bottom: 3em;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-
-.content img {
-    max-width: 100%;
-}
-
-/* In-use on the About page (/about) */
-.headshot {
-    float: right;
-    display: inline;
-    width: 45%;
-    margin: 0em 1em 1em 1em;
-}
-
-/* @group Casey's Center Images */
-
-/*.center img.left {
-    margin-right: 2em;
-}
-
-.center img.right {
-    margin-left: 2em;
-}
-
-.center img.wide {
-	width: 140%; 
-	max-width: 140%;
-	margin: 0 -20%;
-}*/
-
-/* @end */
-
-/* @end */
-
-
-
-/* @group Pre & Code */
-
-pre {
-    font-size: 1em;
-    white-space: pre;
-    overflow: auto;
-    padding: 5px 10px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    background-color: #eee;
-/*   border: 1px solid #ddd;*/
-}
-
-code {
-    white-space: pre; 
-    font-size: .9em;
-    padding: 3px;
-    overflow: auto;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    background-color: #eee;
-/*   border: 1px solid #ddd;*/
-}
-
-pre code {
-    font-size: 1em;
-    white-space: pre;
-    border: none;
-    padding: 0;
-    overflow: auto;
-    background-color: #eee;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    line-height: 1.5;
-}
-
-/* Fixes funkiness on homepage <pre><code> */
-.homepage pre code {
-	white-space: pre-line;
-}
 
 /* @end */
 
@@ -389,6 +219,172 @@ table.sortable thead {
 
 
 
+/* @group Pre & Code */
+
+pre {
+    font-size: 1em;
+    white-space: pre;
+    overflow: auto;
+    padding: 5px 10px;
+    -webkit-border-radius: 3px;
+    background-color: #eee;
+/*   border: 1px solid #ddd;*/
+}
+
+code {
+    white-space: pre; 
+    font-size: .9em;
+    padding: 3px;
+    overflow: auto;
+    -webkit-border-radius: 4px;
+    background-color: #eee;
+/*   border: 1px solid #ddd;*/
+}
+
+pre code {
+    font-size: 1em;
+    white-space: pre;
+    border: none;
+    padding: 0;
+    overflow: auto;
+    background-color: #eee;
+    -webkit-border-radius: 3px;
+    line-height: 1.5;
+}
+
+/* Fixes funkiness on homepage <pre><code> */
+.homepage pre code {
+	white-space: pre-line;
+}
+
+/* @end */
+
+
+
+/* @group Images */
+
+figure {
+    margin: 1em auto 1em auto;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+figure.wide {
+	width: 1100px;
+	margin-left: -260px;
+}
+
+/* Makes the wide images stay within the content
+width for the homepage */
+.homepage figure.wide {
+	width: 100%;
+	margin-left: auto;
+}
+
+figure.figleft {
+	margin: 0.5em 2em 1em 0.5em;
+	width: 50%;
+	display: inline-block;
+	float: left;
+}
+
+figure.figright {
+	margin: 0.5em 0.5em 1em 2em;
+	width: 50%;
+	display: inline-block;
+	float: right;
+}
+
+figure.twoleft {
+	width: 48%;
+	float: left;
+	display: inline-block;
+}
+
+figure.tworight {
+	width: 48%;
+	float: right;
+	display: inline-block;
+}
+
+figcaption {
+    margin: .5em auto auto auto;
+    text-align: center;
+    font-style: italic;
+    font-size:  .8em;
+    color: #9e9e9e;
+    width: 65%;
+}
+
+.center {
+    display: inline;
+    margin-top: inherit;
+    margin-bottom: 3em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/*.center img.left {
+    margin-right: 2em;
+}
+
+.center img.right {
+    margin-left: 2em;
+}
+
+.center img.wide {
+	width: 140%; 
+	max-width: 140%;
+	margin: 0 -20%;
+}*/
+
+.content img {
+    max-width: 100%;
+}
+
+.headshot {
+    float: right;
+    display: inline;
+    width: 45%;
+    margin: 0em 1em 1em 1em;
+}
+
+/* @end */
+
+/* @group Misc Elements */
+
+.sup {
+    vertical-align: super;
+    font-size: 50%;
+}
+
+.sub {
+	vertical-align: sub;
+	font-size: 50%;
+}
+
+blockquote {  
+    margin: 10px 0px 20px 2px; 
+    color: #9e9e9e; 
+    padding-left: 9px; 
+    border-left: 5px solid #dbdbdb;
+}
+
+.copyright {
+    margin: 2em 0 2em 0;
+    font-size: 0.8em;
+    color: #ffffff;
+    text-align: center;
+}
+
+.linkarrow {
+    color: #9e9e9e;
+}
+
+/* @end */
+
 /* @group Role Separators */
 
 .homepage hr,
@@ -401,8 +397,8 @@ table.sortable thead {
     background-color: #ddd;
 }
 
-.homepage hr.small,
-.post hr.small {
+.post hr.small,
+.homepage hr.small {
     width: 60%;
     margin-top: 2.5em;
     margin-bottom: 2.5em;
@@ -467,7 +463,6 @@ table.sortable thead {
 .homepage a.post-title:hover {
     color: #2e8eef;
     -webkit-transition: all .3s ease-out;
-    -moz-transition: all .3s ease-out;
 }
 
 .homepage a.post-title.linked {
@@ -481,7 +476,6 @@ table.sortable thead {
 .homepage a.post-title.linked:hover {
     color: #2e8eef;
     -webkit-transition: all .3s ease-out;
-    -moz-transition: all .3s ease-out;
 }
 
 .homepage .postHeader .postPermalink {
@@ -536,12 +530,6 @@ table.sortable thead {
     margin-bottom: 2em;
     font-style: italic;
     text-align: left;
-}
-
-/* Makes figure.wide images stay within the horizontal container width on the homepage */
-.homepage figure.wide {
-	width: 100%;
-	margin-left: auto;
 }
 
 .homepage .day .daybreak {
@@ -617,7 +605,6 @@ table.sortable thead {
     color: #9e9e9e;
 }
 
-/* Makes the topstory stand out more in the post view */
 .post center.topstory {
     margin-bottom: 5em;
     font-style: italic;
@@ -628,7 +615,7 @@ table.sortable thead {
 
 
 
-/* @group Day/Month/Year Pages */
+/* @group Time Page */
 
 .homepage .day .article {
     margin-bottom: 2em;
@@ -640,7 +627,7 @@ table.sortable thead {
 
 /* @group Tags */
 
-/* From Roger Stringer's fork of Camel */
+/* Unused in my version of Camel */
 
 /* p.taggedIn {
 	padding: 12px 10px;
@@ -658,71 +645,7 @@ p.taggedIn a {
 
 
 
-/*/* @group Footnotes *!/
-
-/* Turned off until I can fix markdown-it-footnote *!/
-.main hr.footnotes-sep {
-    margin-left: 0;
-    margin-bottom: 1.5em;
-    margin-top: 5em;
-    width: 10em;
-    border-style: solid;
-    border-width: 0 0 0 0;
-/*	border-width: 2px 0 0 0;*!/ 
-    border-color: #ddd;
-    display: none;
-}
-
-.main section.footnotes {
-	margin-top: 5em;
-	font-size: 0.85em;
-	color: #9e9e9e;
-	padding-left: 1em;
-	border-top: 1px solid #333; /* Mimics `.main hr.footnotes-sep` *!/
-	border-color: #ddd;
-	padding-top: 1em;
-}
-
-/* Prevents footnote content from appearing on the homepage *!/
-/*.homepage section.footnotes {
-    display: none;
-}
-
-.homepage .article hr.footnotes-sep {
-    display: none;
-}
-
-.homepage .footnote-ref {
-    display: none;
-}*!/
-
-/* @group Meta color for footnotes *!/
-
-/* Makes the footnote anchors
-and backrefs 'meta' color *!/
-
-.footnote-ref a {
-    color: #9e9e9e;
-}
-
-a.footnote-backref {
-    vertical-align: -.1em;
-    color:  #9e9e9e;
-}
-
-.footnote-ref a:hover,
-a.footnote-backref:hover {
-    color: #2e8eef;
-    border: none;
-    -webkit-transition: all .5s ease-out;
-    -moz-transition: all .5s ease-out;
-}
-
-/* @end *!/
-
-/* @end *!/*/
-
-/* @group Footnotes TEST */
+/* @group Footnotes */
 
 .main section.footnotes {
 	font-size: 0.85em;
@@ -774,26 +697,8 @@ a.footnote-backref:hover {
 /* @end */
 
 
-/* @group Custom Classes */
 
-.copyright {
-    margin: 2em 0 2em 0;
-    font-size: 0.8em;
-    color: #ffffff;
-    text-align: center;
-}
-
-.linkarrow {
-    color: #9e9e9e;
-}
-
-/* @end */
-
-
-
-/* @group Header Anchors */
-
-/* From https://www.npmjs.com/package/markdown-it-anchor */
+/* @group markdown-it-anchor */
 
 .header-anchor, .header-anchor:hover, .title a {
     text-decoration: none
@@ -802,6 +707,14 @@ a.footnote-backref:hover {
 h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:hover .header-anchor, h5:hover .header-anchor, h6:hover .header-anchor {
     opacity: 1;
 }
+
+/* Old code. Need to fix this */
+/* .header-anchor {
+    color: #3f70a2;
+    opacity: 0;
+    position: absolute;
+    margin-left: -1em;
+}*/
 
 .header-anchor {
     color: #3f70a2;
@@ -813,7 +726,6 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
 a.header-anchor:hover {
     border-bottom: none;
 }
-
 /* @end */
 
 
@@ -843,10 +755,9 @@ a.header-anchor:hover {
 
 
 
-/* @group Bottom Navigation */
-
-/* Brent Simmons inspired -- 
-http://www.inessential.com */
+/* @group Bottom Nav
+(Brent Simmons inspired -- 
+http://www.inessential.com) */
 
 center.bottomAd {
     border-top: 1px solid #ddd;
@@ -876,7 +787,6 @@ center.bottomAd {
 .nav a:hover {
     color: #8abef4;
     -webkit-transition: all .3s ease-out;
-    -moz-transition: all .3s ease-out;
 }
 
 .nav .dot {
@@ -891,8 +801,6 @@ center.bottomAd {
 
 /* @group @media Queries */
 
-/* @group Desktop Displays */
-
 /* Sets figure.wide pics */
 @media all and (max-width: 1200px) {
 	figure.wide { 
@@ -900,10 +808,6 @@ center.bottomAd {
 		max-width: 100vw;
 	}
 }
-
-/* @end */
-
-/* @group iPad */
 
 /* Fixes huge daybreak on iPad */
 @media all and (min-width: 1100px) {
@@ -913,10 +817,7 @@ center.bottomAd {
 	}
 }
 
-/* @end */
-
-/* @group iPhone */
-
+/* iPhone-sized displays */
 @media all and (max-width: 580px) {
 	
 	#mastheadbackground {
@@ -983,7 +884,8 @@ center.bottomAd {
 	    margin-bottom: .5em;
 	}	
 	
-	/* Makes 'Casey Liss' style floated-images behave like regular <figure> images */
+	/* Makes 'Casey Liss' style floated-images 
+	behave like regular <figure> images */
 	figure.figleft,
 	figure.figright,
 	figure.twoleft,
@@ -999,14 +901,15 @@ center.bottomAd {
 		margin-left: calc((100vw - 325px) / -2);
 	}
 	
-	/* Undoes my keeping figure.wide images on hompeage to 100% of the container */	
+	/* Undoes my keeping figure.wide images 
+	on hompeage to 100% of the container */	
 	.homepage figure.wide {
 		width: 100vw;
 		margin-left: calc((100vw - 325px) / -2);
 	}
 }
 
-/* Fix for the too-big Bigfoot button on iPhone 6 Plus */
+/* Fix for big ol' Bigfoot button on iPhone 6 Plus */
 @media only screen 
     and (min-device-width: 414px) 
     and (max-device-width: 736px) 
@@ -1016,7 +919,5 @@ center.bottomAd {
       font-size: .7rem;
     }
 }
-
-/* @end */
 
 /* @end */
