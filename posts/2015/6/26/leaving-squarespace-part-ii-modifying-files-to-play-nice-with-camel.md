@@ -137,13 +137,13 @@ Out of the box, Camel includes the `markdown-it` plugin [`markdown-it-footnote`]
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/1aazM+">
-		<img src="http://d.pr/i/1aazM+" />
+		<img src="http://d.pr/i/1aazM+" alt="non-parsed text in Byword" />
 	</a>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/12gMj+">
-		<img src="http://d.pr/i/12gMj+" />
+		<img src="http://d.pr/i/12gMj+" alt="parsed text in Byword" />
 	</a>
 </figure>
 

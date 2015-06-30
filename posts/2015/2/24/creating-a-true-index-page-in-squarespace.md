@@ -3,8 +3,8 @@
 @@ Description=Here's how I hacked Squarespace to have a true Index page    
 @@ Tags=Squarespace, blogging, TheOverAnalyzed  
 
-<center class="topstory>I thought I should do a quick post outlining how I crafted my Index page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content. True, <code>/archive</code> contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an <code>/index</code> page and <code>Command + F</code> to query a string of words that might fit the title.
-</center>
+<div class="topstory>I thought I should do a quick post outlining how I crafted my Index page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content. True, <code>/archive</code> contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an <code>/index</code> page and <code>Command + F</code> to query a string of words that might fit the title.
+</div>
 
 <h2>Contents</h2>
 
