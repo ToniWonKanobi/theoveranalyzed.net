@@ -99,6 +99,11 @@ blockquote {
     border-left: 5px solid #dbdbdb;
 }
 
+blockquote.twitter-tweet {  
+    text-align: center;
+}
+
+
 /* @end */
 
 
