@@ -660,6 +660,19 @@ p.taggedIn a {
 
 /* @group Footnotes */
 
+/* Turned off until I can fix markdown-it-footnote */
+.main hr.footnotes-sep {
+    margin-left: 0;
+    margin-bottom: 1.5em;
+    margin-top: 5em;
+    width: 10em;
+    border-style: solid;
+    border-width: 0 0 0 0;
+/*	border-width: 2px 0 0 0;*/ 
+    border-color: #ddd;
+    display: none;
+}
+
 .main section.footnotes {
 	margin-top: 5em;
 	font-size: 0.85em;
@@ -679,22 +692,9 @@ p.taggedIn a {
     display: none;
 }
 
-/* Turned off until I can fix markdown-it-footnote */
-.main hr.footnotes-sep {
-    margin-left: 0;
-    margin-bottom: 1.5em;
-    margin-top: 5em;
-    width: 10em;
-    border-style: solid;
-    border-width: 0 0 0 0;
-/*	border-width: 2px 0 0 0;*/ 
-    border-color: #ddd;
+.homepage .footnote-ref {
     display: none;
 }
-
-/*.homepage .footnote-ref {
-    display: none;
-}*/
 
 /* @group Meta color for footnotes */
 
