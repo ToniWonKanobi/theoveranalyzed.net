@@ -670,6 +670,15 @@ p.taggedIn a {
 	padding-top: 1em;
 }
 
+/* Prevents footnote content from appearing on the homepage */
+.homepage section.footnotes {
+    display: none;
+}
+
+.homepage .article hr.footnotes-sep {
+    display: none;
+}
+
 /* Turned off until I can fix markdown-it-footnote */
 .main hr.footnotes-sep {
     margin-left: 0;
@@ -683,17 +692,9 @@ p.taggedIn a {
     display: none;
 }
 
-.homepage section.footnotes {
+/*.homepage .footnote-ref {
     display: none;
-}
-
-.homepage .article hr.footnotes-sep {
-    display: none;
-}
-
-.homepage .footnote-ref {
-    display: none;
-}
+}*/
 
 /* @group Meta color for footnotes */
 
