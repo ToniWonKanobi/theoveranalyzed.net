@@ -798,10 +798,11 @@ a.header-anchor:hover {
 /* Brent Simmons inspired -- 
 http://www.inessential.com */
 
-center.bottomAd {
+.bottomAd {
     border-top: 1px solid #ddd;
     height: 130px;
     padding-top: 2em;
+    text-align: center;
 }
 
 .navFooter {
