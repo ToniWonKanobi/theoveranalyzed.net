@@ -20,7 +20,7 @@ Coles also [noted](http://fontsinuse.com/uses/9788/apple-watch-os-watchos) the u
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1hMSZ+">
-		<img src="http://d.pr/i/1hMSZ+" alt="apple watch font" />
+		<img src="http://d.pr/i/1hMSZ+" alt="apple watch font" width="80%" />
 	</a>
 	<figcaption>"San Francisco has a vertically-centered contextual alternate colon that appears when placed between numerals."</figcaption>
 </figure>
