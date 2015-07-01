@@ -5,7 +5,7 @@
 @@ Tags=fonts, SF, SF Compact, typefaces, design, Apple, Apple Music  
 @@ Image=http://d.pr/i/1b7mC+  
 
-Stephen Coles' Fonts In Use had a series of short posts yesterday, coinciding with the launch of [Apple Music](http://sixcolors.com/post/2015/06/apple-music-first-looks-trumpet-curation-over-algorithms/). 
+Yesterday, Stephen Coles's Fonts In Use had a series of short posts coinciding with the launch of [Apple Music](http://sixcolors.com/post/2015/06/apple-music-first-looks-trumpet-curation-over-algorithms/). 
 
 The Apple Music logo boldy features SF Compact:
 
