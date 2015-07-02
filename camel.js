@@ -3,6 +3,7 @@
 ***************************************************/
 
 var express = require('express');
+var bodyParser = require('body-parser');
 var compress = require('compression');
 var http = require('http');
 var fs = require('fs');
@@ -28,7 +29,21 @@ var Handlebars = require('handlebars');
 
 var config = require('./config');
 var version = require('./package.json').version;
+
 var Twitter = require('twitter');
+var twitterClient = new Twitter({
+	consumer_key: config.Social.autoTweets.consumer_key,
+	consumer_secret: config.Social.autoTweets.consumer_secret,
+	access_token_key: config.Social.autoTweets.access_token_key,
+	access_token_secret: config.Social.autoTweets.access_token_secret
+var twitterUsername = config.Social.autoTweets.twitterUsername;
+var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
+
+var basicAuth = require('basic-auth');
+var draftAuthInfo = {
+	user: process.env.anthony,
+	pass: process.env.AUTH_PASSWORD
+};
 
 var app = express();
 app.use(compress());
@@ -55,15 +70,8 @@ var utcOffset = 5;
 var cacheResetTimeInMillis = 1800000;
 
 
-//	set your twitter information...
-var twitterClient = new Twitter({
-	consumer_key: config.Social.autoTweets.consumer_key,
-	consumer_secret: config.Social.autoTweets.consumer_secret,
-	access_token_key: config.Social.autoTweets.access_token_key,
-	access_token_secret: config.Social.autoTweets.access_token_secret
 });
-var twitterUsername = config.Social.autoTweets.twitterUsername;
-var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
+
 var renderedPosts = {};
 var renderedRss = {};
 var renderedAlternateRss = {};
@@ -107,6 +115,19 @@ function leadingZero(value){
 	}
 	return value.toString();	
 }
+
+// Middleware to require auth for routes
+function requireAuth(request, response, next) {
+	if (Object.values(draftAuthInfo).all(function (i) { typeof i !== 'undefined' && i.length > 0; })) {
+		var user = basicAuth(request);
+
+		if (!user || user.name !== draftAuthInfo.user || user.pass !== draftAuthInfo.pass) {
+		  response.set('WWW-Authenticate', 'Basic realm=Authorization Required');
+		  return response.status(401).send('You have to say the magic word.');
+		}
+ 	}
+    next();
+};
 
 function normalizedFileName(file) {
 	var retVal = file;
@@ -1305,6 +1326,15 @@ app.get('/:year/:month/:day/:slug', function (request, response) {
 app.get('/tosscache', function (request, response) {
 	 emptyCache();
 	 response.status(200).send(205);
+});
+
+app.post('/render-draft', [requireAuth, bodyParser.urlencoded({extended: true})], function (request, response) {
+	var pieces = getLinesFromData(request.body.markdown);
+	pieces.metadata = _.union(pieces.metadata, ["@@ BodyClass=post"]);
+	//var titleIndex = pieces.metadata.findIndex(/^@@ Title=/);
+	//pieces.metadata[titleIndex] = "@@ Title=DRAFT – " + pieces.metadata[titleIndex].substr(9) + " – DRAFT";
+	var result = generateHtmlAndMetadataForLines(pieces);
+	response.send(result.html());
 });
 
 app.get('/count', function (request, response) {
