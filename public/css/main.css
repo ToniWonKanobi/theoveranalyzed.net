@@ -884,7 +884,8 @@ http://www.inessential.com */
 	}
 	
 	.content .header .siteTitle {
-	    max-width: 80%; 
+	    width: 90%;
+	    height: auto;
 	    margin-top: 0em;
 	    margin-bottom: .1em;
 	}
