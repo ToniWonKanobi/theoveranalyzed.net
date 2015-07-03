@@ -145,8 +145,8 @@ blockquote {
     font-size: 3em;
     font-weight: bold;
     max-width: 75%; 
-    margin-top: .5em;
-    margin-bottom: .1em;
+    margin-top: .4em;
+    margin-bottom: 0em;
     display: inline-block;
 }
 
@@ -164,7 +164,7 @@ blockquote {
 .content .header .siteByline a:hover {
     font-size: .92em;
     color: #ffffff;
-    margin: -2em auto auto auto;
+    margin: -2.4em auto auto auto;
     border: 0;
     border-width: 0;
     -webkit-transition: none;
@@ -884,16 +884,15 @@ http://www.inessential.com */
 	}
 	
 	.content .header .siteTitle {
-	    width: 90%;
-	    height: auto;
-	    margin-top: 0em;
+            max-width: 100%;
+	    margin-top: .2em;
 	    margin-bottom: .1em;
 	}
 	
 	.content .header .siteByline {
 	    font-size: 95%;
 	    color: #ffffff;
-	    margin: -2em auto auto auto;
+	    margin: -2.7em auto auto auto;
 	}
 	
 	.homepage .postHeader h1 {

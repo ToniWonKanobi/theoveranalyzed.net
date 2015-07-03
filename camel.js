@@ -28,7 +28,14 @@ var Handlebars = require('handlebars');
 
 var config = require('./config');
 var version = require('./package.json').version;
-var Twitter = require('twitter');
+var Twitter = require('twitter’);
+var basicAuth = require('basic-auth');
+var draftAuthInfo = {
+	user: process.env.AUTH_USER_NAME,
+	pass: process.env.AUTH_PASSWORD
+};
+process.env['AUTH_USER_NAME'] = anthony;
+process.env['AUTH_PASSWORD’] = fuzzydonkeylovefriend;
 
 var app = express();
 app.use(compress());
@@ -108,16 +115,24 @@ function leadingZero(value){
 	return value.toString();	
 }
 
+// Middleware to require auth for routes
+function requireAuth(request, response, next) {
+	if (Object.values(draftAuthInfo).all(function (i) { typeof i !== 'undefined' && i.length > 0; })) {
+		var user = basicAuth(request);
+
+		if (!user || user.name !== draftAuthInfo.user || user.pass !== draftAuthInfo.pass) {
+		  response.set('WWW-Authenticate', 'Basic realm=Authorization Required');
+		  return response.status(401).send('You have to say the magic word.');
+		}
+ 	}
+    next();
+};
+
 function normalizedFileName(file) {
-	var retVal = file;
-	if (file.startsWith('posts')) {
-		retVal = './' + file;
-	}
-
-	retVal = retVal.replace('.md', '');
-
-	return retVal;
-}
+    var retVal = file;
+    if (file.startsWith('posts')) {
+        retVal = './' + file;
+    }
 
 function fetchFromCache(file) {
 	return renderedPosts[normalizedFileName(file)] || null;
@@ -1319,6 +1334,15 @@ app.get('/count', function (request, response) {
 		}
 		response.status(200).send(count + ' articles, across ' + days + ' days that have at least one post.');
 	});
+});
+
+app.post('/render-draft', [requireAuth, bodyParser.urlencoded({extended: true})], function (request, response) {
+	var pieces = getLinesFromData(request.body.markdown);
+	pieces.metadata = _.union(pieces.metadata, ["@@ BodyClass=post"]);
+	//var titleIndex = pieces.metadata.findIndex(/^@@ Title=/);
+	//pieces.metadata[titleIndex] = "@@ Title=DRAFT – " + pieces.metadata[titleIndex].substr(9) + " – DRAFT";
+	var result = generateHtmlAndMetadataForLines(pieces);
+	response.send(result.html());
 });
 
 // Support for non-blog posts, such as /about, as well as years, such as /2014.
