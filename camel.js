@@ -3,6 +3,7 @@
 ***************************************************/
 
 var express = require('express');
+var bodyParser = require('body-parser');
 var compress = require('compression');
 var http = require('http');
 var fs = require('fs');
