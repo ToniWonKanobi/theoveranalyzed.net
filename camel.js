@@ -42,8 +42,8 @@ var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
 
 var basicAuth = require('basic-auth');
 var draftAuthInfo = {
-	user: process.env.anthony,
-	pass: process.env.fuzzydonkeylovefriend
+	user: process.env.AUTH_USER_NAME,
+	pass: process.env.AUTH_PASSWORD
 };
 
 var app = express();
