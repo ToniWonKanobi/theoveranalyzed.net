@@ -28,14 +28,22 @@ var Handlebars = require('handlebars');
 
 var config = require('./config');
 var version = require('./package.json').version;
+
 var Twitter = require('twitter');
+var twitterClient = new Twitter({
+	consumer_key: config.Social.autoTweets.consumer_key,
+	consumer_secret: config.Social.autoTweets.consumer_secret,
+	access_token_key: config.Social.autoTweets.access_token_key,
+	access_token_secret: config.Social.autoTweets.access_token_secret
+});
+var twitterUsername = config.Social.autoTweets.twitterUsername;
+var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
+
 var basicAuth = require('basic-auth');
 var draftAuthInfo = {
-	user: process.env.AUTH_USER_NAME,
-	pass: process.env.AUTH_PASSWORD
+	user: process.env.anthony,
+	pass: process.env.fuzzydonkeylovefriend
 };
-process.env['AUTH_USER_NAME'] = anthony;
-process.env['AUTH_PASSWORD’] = fuzzydonkeylovefriend;
 
 var app = express();
 app.use(compress());
@@ -61,16 +69,6 @@ var footnoteIdRegex = /fnref\d+/g;
 var utcOffset = 5;
 var cacheResetTimeInMillis = 1800000;
 
-
-//	set your twitter information...
-var twitterClient = new Twitter({
-	consumer_key: config.Social.autoTweets.consumer_key,
-	consumer_secret: config.Social.autoTweets.consumer_secret,
-	access_token_key: config.Social.autoTweets.access_token_key,
-	access_token_secret: config.Social.autoTweets.access_token_secret
-});
-var twitterUsername = config.Social.autoTweets.twitterUsername;
-var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
 var renderedPosts = {};
 var renderedRss = {};
 var renderedAlternateRss = {};
@@ -124,7 +122,7 @@ function requireAuth(request, response, next) {
 		  response.set('WWW-Authenticate', 'Basic realm=Authorization Required');
 		  return response.status(401).send('You have to say the magic word.');
 		}
- 	}
+	}
     next();
 };
 
@@ -134,7 +132,10 @@ function normalizedFileName(file) {
         retVal = './' + file;
     }
 
-function fetchFromCache(file) {
+    retVal = retVal.replace('.md', '');
+
+    return retVal;
+}function fetchFromCache(file) {
 	return renderedPosts[normalizedFileName(file)] || null;
 }
 
