@@ -6,17 +6,17 @@
 
 I'm starting [this][theoveranalyzed] back up (been a while). I haven't been buying as many t-shirts as I used to, but some of these Star Wars ones are hard to say no to. Image captions have links to their pages on Cotton Bureau. 
 
-<figure>
+<figure class="wide">
 	<img src="https://cottonbureau.com/img/products/5037_cPUA_2400.jpg" alt="deathstar" />
 	<figcaption><a href="https://cottonbureau.com/products/death-star">Death Star</a> by Tim Payne. I also got <a href="https://cottonbureau.com/products/thats-no-moon">this one</a> a few months back.</figcaption>
 </figure>
 
-<figure>
+<figure class="wide">
 	<img src="https://cottonbureau.com/img/products/4899_MAee_2400.jpg" alt="falcon" />
 	<figcaption><a href="https://cottonbureau.com/products/the-falcon">The Falcon</a> by Nikita Vlasov. *Cough* I also got <a href="https://cottonbureau.com/products/bucket-of-bolts">this one</a> a few months back. I know, I have a problem.</figcaption>
 </figure>
 
-<figure>
+<figure class="wide">
 	<img src="https://cottonbureau.com/img/products/801_PB1n_2400.jpg" alt="realmac" />
 	<figcaption><a href="https://cottonbureau.com/products/realmac">Realmac</a> by Dan Counsell. This is version 2. I got version 1 last year.</figcaption>
 </figure>
