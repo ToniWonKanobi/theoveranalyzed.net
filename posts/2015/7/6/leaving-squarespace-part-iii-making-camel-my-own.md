@@ -202,7 +202,7 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 			includeLevel: 1,
 		})
 		.use(require('markdown-it-highlightjs'));
-```
+	```
 	
 7. Now that `markdown-it-highlightjs` is installed, you'll need to load a stylesheet. Navigate to Camel's directory, and from there, `/node_modules/markdown-it-highlightjs/node_modules/highlight.js/styles`. Grab whichever stylesheet you prefer, place that in Camel's public directory where stylesheets go: `/public/css`
 8. Finally, you'll need to edit `header.html` to load whichever stylesheet you chose in the prior step
