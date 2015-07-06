@@ -6,6 +6,6 @@
 	<p>
 		<input id="go" type="submit" value="Render Draft" />&nbsp;
 		<input id="clear" type="submit" value="Clear" onClick="this.form.reset(); return false;" /><br />
-		<textarea id="markdown" name="markdown" cols="105" rows="50" wrap="off"></textarea>
+		<textarea id="markdown" name="markdown" cols="80" rows="30" wrap="on"></textarea>
 	</p>
 </form>

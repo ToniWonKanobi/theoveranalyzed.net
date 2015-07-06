@@ -3,7 +3,6 @@
 ***************************************************/
 
 var express = require('express');
-var bodyParser = require('body-parser');
 var compress = require('compression');
 var http = require('http');
 var fs = require('fs');
@@ -39,12 +38,6 @@ var twitterClient = new Twitter({
 });
 var twitterUsername = config.Social.autoTweets.twitterUsername;
 var twitterClientNeedle = config.Social.autoTweets.twitterClientNeedle;
-
-var basicAuth = require('basic-auth');
-var draftAuthInfo = {
-	user: process.env.AUTH_USER_NAME,
-	pass: process.env.AUTH_PASSWORD
-};
 
 var app = express();
 app.use(compress());
@@ -113,19 +106,6 @@ function leadingZero(value){
 	}
 	return value.toString();	
 }
-
-// Middleware to require auth for routes
-function requireAuth(request, response, next) {
-	if (Object.values(draftAuthInfo).all(function (i) { typeof i !== 'undefined' && i.length > 0; })) {
-		var user = basicAuth(request);
-
-		if (!user || user.name !== draftAuthInfo.user || user.pass !== draftAuthInfo.pass) {
-		  response.set('WWW-Authenticate', 'Basic realm=Authorization Required');
-		  return response.status(401).send('You have to say the magic word.');
-		}
-	}
-    next();
-};
 
 function normalizedFileName(file) {
     var retVal = file;
@@ -379,14 +359,14 @@ function generateHtmlAndMetadataForFile(file) {
 
 // Gets the external link for this file. Relative if request is
 // not specified. Absolute if request is specified.
-//function externalFilenameForFile(file, request) {
-//	var hostname = request != undefined ? request.headers.host : '';
-//
-//	var retVal = hostname.length ? ('http://' + hostname) : '';
-//	retVal += file.at(0) == '/' && hostname.length > 0 ? '' : '/';
-//	retVal += file.replace('.md', '').replace(postsRoot, '').replace(postsRoot.replace('./', ''), '');
-//	return retVal;
-//}
+function externalFilenameForFile(file, request) {
+	var hostname = request != undefined ? request.headers.host : '';
+
+	var retVal = hostname.length ? ('http://' + hostname) : '';
+	retVal += file.at(0) == '/' && hostname.length > 0 ? '' : '/';
+	retVal += file.replace('.md', '').replace(postsRoot, '').replace(postsRoot.replace('./', ''), '');
+	return retVal;
+}
 
 // Gets all the posts, grouped by day and sorted descending.
 // Completion handler gets called with an array of objects.
@@ -405,112 +385,6 @@ function generateHtmlAndMetadataForFile(file) {
 //				+-- (Article Object)
 //				+-- ...
 //				`-- (Article Object)
-
-// Gets the external link for this file. Relative if request is
-// not specified. Absolute if request is specified.
-function externalFilenameForFile(file, request) {
-    var hostname = typeof(request) !== 'undefined' ? request.headers.host : '';
-
-    var retVal = hostname.length ? ('http://' + hostname) : '';
-    retVal += file.at(0) === '/' && hostname.length > 0 ? '' : '/';
-    retVal += file.replace('.md', '').replace(postsRoot, '').replace(postsRoot.replace('./', ''), '');
-    return retVal;
-}
-
-function performMetadataReplacements(replacements, haystack) {
-    _.keys(replacements).each(function (key) {
-        // Ensure that it's a global replacement; non-regex treatment is first-only.
-        haystack = haystack.replace(new RegExp(metadataMarker + key + metadataMarker, 'g'), replacements[key]);
-    });
-
-    return haystack;
-}
-
-function generateHtmlAndMetadataForLines(lines, file) {
-	var metadata = parseMetadata(lines.metadata);
-	if (typeof(file) !== 'undefined') {
-		metadata.relativeLink = externalFilenameForFile(file);
-		// If this is a post, assume a body class of 'post'.
-		if (postRegex.test(file)) {
-			metadata.BodyClass = 'post';
-		}
-	}
-
-	return {
-		metadata: metadata,
-		header: performMetadataReplacements(metadata, headerSource),
-		postHeader:  performMetadataReplacements(metadata, postHeaderTemplate(metadata)),
-		rssFooter: performMetadataReplacements(metadata, rssFooterTemplate(metadata)),
-		unwrappedBody: performMetadataReplacements(metadata, markdownit.render(lines.body)),
-		html: function () {
-			return this.header +
-				this.postHeader +
-				this.unwrappedBody +
-				footerSource;
-		}
-	};
-}
-
- // Gets the metadata & rendered HTML for this file
-function generateHtmlAndMetadataForFile(file) {
-    var retVal = fetchFromCache(file);
-    if (typeof(retVal) !== 'undefined') {
-        var lines = getLinesFromPost(file);
-        addRenderedPostToCache(file, generateHtmlAndMetadataForLines(lines, file));
-    }
-
-    return fetchFromCache(file);
-}
-function allPostsSortedAndGrouped(completion) {
-	if (Object.size(allPostsSortedGrouped) !== 0) {
-		completion(allPostsSortedGrouped);
-	} else {
-		qfs.listTree(postsRoot, function (name, stat) {
-			return postRegex.test(name);
-		}).then(function (files) {
-			// Lump the posts together by day
-			var groupedFiles = _.groupBy(files, function (file) {
-				var parts = file.split('/');
-				return new Date(parts[1], parts[2] - 1, parts[3]);
-			});
-
-			// Sort the days from newest to oldest
-			var retVal = [];
-			var sortedKeys = _.sortBy(_.keys(groupedFiles), function (date) {
-				return new Date(date);
-			}).reverse();
-
-			// For each day...
-			_.each(sortedKeys, function (key) {
-				// Get all the filenames...
-				var articleFiles = groupedFiles[key];
-				var articles = [];
-				// ...get all the data for that file ...
-				_.each(articleFiles, function (file) {
-					if (!file.endsWith('redirect')) {
-						articles.push(generateHtmlAndMetadataForFile(file));
-					}
-				});
-
-				// ...so we can sort the posts...
-				articles = _.sortBy(articles, function (article) {
-					// ...by their post date and TIME.
-					return Date.create(article.metadata.Date);
-				}).reverse();
-				// Array of objects; each object's key is the date, value
-				// is an array of objects
-				// In that array of objects, there is a body & metadata.
-				// Note if this day only had a redirect, it may have no articles.
-				if (articles.length > 0) {
-					retVal.push({date: key, articles: articles});
-				}
-			});
-
-			allPostsSortedGrouped = retVal;
-			completion(retVal);
-		});
-	}
-}
 
 //function tweetLatestPost() {
 //	if (twitterClient !== null && typeof(config.Social.autoTweets.consumer_key) !== 'undefined') {
@@ -1410,15 +1284,6 @@ app.get('/count', function (request, response) {
 		}
 		response.status(200).send(count + ' articles, across ' + days + ' days that have at least one post.');
 	});
-});
-
-app.post('/render-draft', [requireAuth, bodyParser.urlencoded({extended: true})], function (request, response) {
-	var pieces = getLinesFromData(request.body.markdown);
-	pieces.metadata = _.union(pieces.metadata, ["@@ BodyClass=post"]);
-	//var titleIndex = pieces.metadata.findIndex(/^@@ Title=/);
-	//pieces.metadata[titleIndex] = "@@ Title=DRAFT – " + pieces.metadata[titleIndex].substr(9) + " – DRAFT";
-	var result = generateHtmlAndMetadataForLines(pieces);
-	response.send(result.html());
 });
 
 // Support for non-blog posts, such as /about, as well as years, such as /2014.
