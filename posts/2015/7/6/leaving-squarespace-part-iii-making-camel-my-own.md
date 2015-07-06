@@ -213,7 +213,7 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 
 You can test that the plugin is working by editing a sample post and launching a local version of your site.
 
-![](http://d.pr/i/1d63D+)                                               
+![](http://d.pr/i/BuH9+)                                               
 
 <hr class="small" />
 
