@@ -45,11 +45,16 @@ Here's how to enable header anchors:
 	![](http://d.pr/i/126Ir+)
 2. Further navigate to the `node_modules` directory (this is where all of Camel's modules live, such as `handlebars`, `express`, and `markdown-it`)
 	![](http://d.pr/i/118cQ+)
-3. Run the command `npm i markdown-it-anchor --save`[^sa]
+3. Run the command
+
+	```
+	npm i markdown-it-anchor --save
+	```[^sa]
+	
 	![](http://d.pr/i/1hluY+)
-4. Test the installation by checking `package.json` for a new dependency
+5. Test the installation by checking `package.json` for a new dependency
 	![](http://d.pr/i/1kT9a+)
-5. Open `camel.js` and add the following to the Initialization section
+6. Open `camel.js` and add the following to the Initialization section
 
 	```
 	.use(require('markdown-it-anchor'), {
@@ -176,11 +181,12 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 	![](http://d.pr/i/126Ir+)
 2. Further navigate to the `node_modules` directory
 	![](http://d.pr/i/118cQ+)
-3. Run the command `npm i markdown-it-highlightjs --save`
+3. Run the command 
+	```npm i markdown-it-highlightjs --save```
 	![](http://d.pr/i/14A8k+)
-4. Test the installation by checking `package.json` for a new dependency
+5. Test the installation by checking `package.json` for a new dependency
 	![](http://d.pr/i/Z46L+)
-5. Open `camel.js` and add the following to the Initialization section:
+6. Open `camel.js` and add the following to the Initialization section:
 
 	```
 	.use(require('markdown-it-highlightjs'))
@@ -204,8 +210,12 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 		.use(require('markdown-it-highlightjs'));
 	```
 	
-7. Now that `markdown-it-highlightjs` is installed, you'll need to load a stylesheet. Navigate to Camel's directory, and from there, `/node_modules/markdown-it-highlightjs/node_modules/highlight.js/styles`. Grab whichever stylesheet you prefer, place that in Camel's public directory where stylesheets go: `/public/css`
-8. Finally, you'll need to edit `header.html` to load whichever stylesheet you chose in the prior step
+7. Now that `markdown-it-highlightjs` is installed, you'll need to load a stylesheet. Navigate to Camel's directory, and from there, 
+	```
+	/node_modules/markdown-it-highlightjs/node_modules/highlight.js/styles
+	```
+	Grab whichever stylesheet you prefer, place that in Camel's public directory where stylesheets go: `/public/css`
+9. Finally, you'll need to edit `header.html` to load whichever stylesheet you chose in the prior step
 	
 	```html
 	<link rel="stylesheet" type="text/css" href="/css/default.css">
