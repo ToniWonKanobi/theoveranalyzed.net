@@ -168,17 +168,35 @@ function addRenderedPostToCache(file, postData) {
 	//console.log('Cache has ' + JSON.stringify(_.keys(renderedPosts)));
 }
 
+// Separate the metadata from the body
+function getLinesFromData(data) {
+	// Extract the metadata
+    var metadataLines = _.filter(data.lines(), function (line) { return line.startsWith(metadataMarker); });
+    // The body starts after metadata. Thus, it starts at (index of last line of metadata + length of metadata).
+    var body = data.substring(data.indexOf(metadataLines[metadataLines.length - 1]) + metadataLines[metadataLines.length - 1].length).trim();
+
+    return {metadata: metadataLines, body: body};
+}
+
+// Gets all the lines in a post and separates the metadata from the body
+//function getLinesFromPost(file) {
+//	file = file.endsWith('.md') ? file : file + '.md';
+//	var data = fs.readFileSync(file, {encoding: 'UTF8'});
+//
+//	 Extract the pieces
+//	var lines = data.lines();
+//	var metadataLines = _.filter(lines, function (line) { return line.startsWith(metadataMarker); });
+//	var body = _.difference(lines, metadataLines).join('\n');
+//
+//	return {metadata: metadataLines, body: body};
+//}
+
 // Gets all the lines in a post and separates the metadata from the body
 function getLinesFromPost(file) {
-	file = file.endsWith('.md') ? file : file + '.md';
-	var data = fs.readFileSync(file, {encoding: 'UTF8'});
+    file = file.endsWith('.md') ? file : file + '.md';
+    var data = fs.readFileSync(file, {encoding: 'UTF8'});
 
-	// Extract the pieces
-	var lines = data.lines();
-	var metadataLines = _.filter(lines, function (line) { return line.startsWith(metadataMarker); });
-	var body = _.difference(lines, metadataLines).join('\n');
-
-	return {metadata: metadataLines, body: body};
+    return getLinesFromData(data);
 }
 
 // Parses the metadata in the file
