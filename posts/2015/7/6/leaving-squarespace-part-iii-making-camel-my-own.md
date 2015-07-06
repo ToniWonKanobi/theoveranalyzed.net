@@ -1,8 +1,8 @@
 @@ Title=Leaving Squarespace Part III: Making Camel My Own  
-@@ Date=  
-@@ Description=Casey Liss's Camel (as well as Roger Stringer's fork) made for excellent starting points for TheOverAnalyzed. I added some things to make it my own. 
+@@ Date=2015-07-06 10:27  
+@@ Description=Casey Liss's Camel (as well as Roger Stringer's fork) made for excellent starting points for TheOverAnalyzed. I added some things to make it my own.  
 @@ Tags=Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, meta  
-@@ Image=http://d.pr/i/118YD+  
+@@ Image=http://d.pr/i/1d63D+  
 
 <div class="topstory">When I started trying to figure out Camel, all I knew was that it was going to be both more open and easier to tweak than Squarespace. Little did I know that I would discover several additional 'extras' that would make <em>my</em> version of Camel the perfect blogging platform for me. As always, check Roger Stringer's thorough post <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/">here</a> for more in-depth information, such as how to install <code>npm</code> and <code>node</code>
 </div>
@@ -213,7 +213,7 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 
 You can test that the plugin is working by editing a sample post and launching a local version of your site.
 
-![](http://d.pr/i/1cCkG+)                                               
+![](http://d.pr/i/1d63D+)                                               
 
 <hr class="small" />
 
