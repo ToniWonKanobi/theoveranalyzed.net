@@ -379,14 +379,14 @@ function generateHtmlAndMetadataForFile(file) {
 
 // Gets the external link for this file. Relative if request is
 // not specified. Absolute if request is specified.
-function externalFilenameForFile(file, request) {
-	var hostname = request != undefined ? request.headers.host : '';
-
-	var retVal = hostname.length ? ('http://' + hostname) : '';
-	retVal += file.at(0) == '/' && hostname.length > 0 ? '' : '/';
-	retVal += file.replace('.md', '').replace(postsRoot, '').replace(postsRoot.replace('./', ''), '');
-	return retVal;
-}
+//function externalFilenameForFile(file, request) {
+//	var hostname = request != undefined ? request.headers.host : '';
+//
+//	var retVal = hostname.length ? ('http://' + hostname) : '';
+//	retVal += file.at(0) == '/' && hostname.length > 0 ? '' : '/';
+//	retVal += file.replace('.md', '').replace(postsRoot, '').replace(postsRoot.replace('./', ''), '');
+//	return retVal;
+//}
 
 // Gets all the posts, grouped by day and sorted descending.
 // Completion handler gets called with an array of objects.
@@ -405,6 +405,62 @@ function externalFilenameForFile(file, request) {
 //				+-- (Article Object)
 //				+-- ...
 //				`-- (Article Object)
+
+// Gets the external link for this file. Relative if request is
+// not specified. Absolute if request is specified.
+function externalFilenameForFile(file, request) {
+    var hostname = typeof(request) !== 'undefined' ? request.headers.host : '';
+
+    var retVal = hostname.length ? ('http://' + hostname) : '';
+    retVal += file.at(0) === '/' && hostname.length > 0 ? '' : '/';
+    retVal += file.replace('.md', '').replace(postsRoot, '').replace(postsRoot.replace('./', ''), '');
+    return retVal;
+}
+
+function performMetadataReplacements(replacements, haystack) {
+    _.keys(replacements).each(function (key) {
+        // Ensure that it's a global replacement; non-regex treatment is first-only.
+        haystack = haystack.replace(new RegExp(metadataMarker + key + metadataMarker, 'g'), replacements[key]);
+    });
+
+    return haystack;
+}
+
+function generateHtmlAndMetadataForLines(lines, file) {
+	var metadata = parseMetadata(lines.metadata);
+	if (typeof(file) !== 'undefined') {
+		metadata.relativeLink = externalFilenameForFile(file);
+		// If this is a post, assume a body class of 'post'.
+		if (postRegex.test(file)) {
+			metadata.BodyClass = 'post';
+		}
+	}
+
+	return {
+		metadata: metadata,
+		header: performMetadataReplacements(metadata, headerSource),
+		postHeader:  performMetadataReplacements(metadata, postHeaderTemplate(metadata)),
+		rssFooter: performMetadataReplacements(metadata, rssFooterTemplate(metadata)),
+		unwrappedBody: performMetadataReplacements(metadata, markdownit.render(lines.body)),
+		html: function () {
+			return this.header +
+				this.postHeader +
+				this.unwrappedBody +
+				footerSource;
+		}
+	};
+}
+
+ // Gets the metadata & rendered HTML for this file
+function generateHtmlAndMetadataForFile(file) {
+    var retVal = fetchFromCache(file);
+    if (typeof(retVal) !== 'undefined') {
+        var lines = getLinesFromPost(file);
+        addRenderedPostToCache(file, generateHtmlAndMetadataForLines(lines, file));
+    }
+
+    return fetchFromCache(file);
+}
 function allPostsSortedAndGrouped(completion) {
 	if (Object.size(allPostsSortedGrouped) !== 0) {
 		completion(allPostsSortedGrouped);
