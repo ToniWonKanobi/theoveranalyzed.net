@@ -1,8 +1,5 @@
 @@ Title=About  
-@@ HideHeader=true  
 @@ BodyClass=about  
-
-<h1>About</h1>
 
 <img src="http://d.pr/i/1d53F+" class="headshot" alt="❤️">
 

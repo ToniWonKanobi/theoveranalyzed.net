@@ -1,7 +1,4 @@
-@@ Title=Daily Update    
-@@ HideHeader=true  
-
-<h1>The Daily Update</h1>
+@@ Title=The Daily Update  
 
 Congratulations.
 

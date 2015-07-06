@@ -1,7 +1,4 @@
-@@ Title=Nerd  
-@@ HideHeader=true  
-
-<h1>Nerdy Stuff</h1>
+@@ Title=Nerdy Stuff  
 
 ## What The Site's Made Of
 

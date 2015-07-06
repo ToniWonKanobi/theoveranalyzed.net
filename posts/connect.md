@@ -1,7 +1,4 @@
-@@ Title=Connect  
-@@ HideHeader=true   
-
-<h1>Connecting With TheOverAnalyzed</h1>
+@@ Title=Connecting With TheOverAnalyzed  
   
 ## Twitter
 
