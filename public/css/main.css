@@ -110,6 +110,7 @@ blockquote {
 .main {
    margin-top: 8em;
    margin-bottom: 12em;
+   min-height: 100vh;
 }
 
 .content {
