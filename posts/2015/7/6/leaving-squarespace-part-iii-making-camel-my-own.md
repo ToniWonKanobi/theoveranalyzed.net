@@ -153,7 +153,7 @@ Installing the plugin wasn't difficult, but it took me a while to figure it out:
 		.use(require("markdown-it-table-of-contents"), {
 			includeLevel: 1,
 		});
-```
+	```
 	
 Note that the `includeLevel: 1` string is telling the plugin that I want `<h1>` level headers to be in the table of contents. You could choose `<h2>` or `<h3>` level headers if you want. Sadly, you cannot have nested headers (e.g., `<h1>` *and* `<h2>` headers in the same table of contents). 
 
