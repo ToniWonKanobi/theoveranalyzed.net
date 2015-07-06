@@ -1006,10 +1006,10 @@ app.get('/rss', function (request, response) {
 		return externalFilenameForFile(article.file, request);
 	}, function (article){
 		if ( typeof(article.metadata.Link) !== 'undefined' ) {
-			return 'â†’ ' + article.metadata.Title;	
+			return '→ ' + article.metadata.Title;	
 		}
 //		return article.metadata.Title;
-		return 'ðŸº ' + article.metadata.Title;
+		return '🐺 ' + article.metadata.Title;
 	}, function (rss) {
 		renderedRss = rss;
 		response.status(200).send(renderedRss.rss);
