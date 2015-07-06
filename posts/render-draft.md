@@ -1,4 +1,5 @@
 @@ Title=Draft Tester  
+@@ Date=2015-07-05 23:21  
 @@ HideHeader=true  
 
 <form method="post" action="/render-draft">
