@@ -137,13 +137,18 @@ Installing the plugin wasn't difficult, but it took me a while to figure it out:
 2. Further navigate to the `node_modules` directory
 	![](http://d.pr/i/118cQ+)
 	
-3. Run the command `npm i markdown-it-table-of-contents --save`
+3. Run the command 
+
+	```
+	npm i markdown-it-table-of-contents --save
+	```
+	
 	![](http://d.pr/i/1eUNj+)
 	
-4. Test the installation by checking `package.json` for a new dependency
+5. Test the installation by checking `package.json` for a new dependency
 	![](http://d.pr/i/1lwKV+)
 	
-5. Open `camel.js` and add the following to the Initialization section
+6. Open `camel.js` and add the following to the Initialization section
 
 	```
 	.use(require("markdown-it-table-of-contents"), {
