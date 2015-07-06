@@ -148,35 +148,17 @@ function addRenderedPostToCache(file, postData) {
 	//console.log('Cache has ' + JSON.stringify(_.keys(renderedPosts)));
 }
 
-// Separate the metadata from the body
-function getLinesFromData(data) {
-	// Extract the metadata
-    var metadataLines = _.filter(data.lines(), function (line) { return line.startsWith(metadataMarker); });
-    // The body starts after metadata. Thus, it starts at (index of last line of metadata + length of metadata).
-    var body = data.substring(data.indexOf(metadataLines[metadataLines.length - 1]) + metadataLines[metadataLines.length - 1].length).trim();
-
-    return {metadata: metadataLines, body: body};
-}
-
-// Gets all the lines in a post and separates the metadata from the body
-//function getLinesFromPost(file) {
-//	file = file.endsWith('.md') ? file : file + '.md';
-//	var data = fs.readFileSync(file, {encoding: 'UTF8'});
-//
-//	 Extract the pieces
-//	var lines = data.lines();
-//	var metadataLines = _.filter(lines, function (line) { return line.startsWith(metadataMarker); });
-//	var body = _.difference(lines, metadataLines).join('\n');
-//
-//	return {metadata: metadataLines, body: body};
-//}
-
 // Gets all the lines in a post and separates the metadata from the body
 function getLinesFromPost(file) {
-    file = file.endsWith('.md') ? file : file + '.md';
-    var data = fs.readFileSync(file, {encoding: 'UTF8'});
+	file = file.endsWith('.md') ? file : file + '.md';
+	var data = fs.readFileSync(file, {encoding: 'UTF8'});
 
-    return getLinesFromData(data);
+	// Extract the pieces
+	var lines = data.lines();
+	var metadataLines = _.filter(lines, function (line) { return line.startsWith(metadataMarker); });
+	var body = _.difference(lines, metadataLines).join('\n');
+
+	return {metadata: metadataLines, body: body};
 }
 
 // Parses the metadata in the file
@@ -385,6 +367,56 @@ function externalFilenameForFile(file, request) {
 //				+-- (Article Object)
 //				+-- ...
 //				`-- (Article Object)
+function allPostsSortedAndGrouped(completion) {
+	if (Object.size(allPostsSortedGrouped) !== 0) {
+		completion(allPostsSortedGrouped);
+	} else {
+		qfs.listTree(postsRoot, function (name, stat) {
+			return postRegex.test(name);
+		}).then(function (files) {
+			// Lump the posts together by day
+			var groupedFiles = _.groupBy(files, function (file) {
+				var parts = file.split('/');
+				return new Date(parts[1], parts[2] - 1, parts[3]);
+			});
+
+			// Sort the days from newest to oldest
+			var retVal = [];
+			var sortedKeys = _.sortBy(_.keys(groupedFiles), function (date) {
+				return new Date(date);
+			}).reverse();
+
+			// For each day...
+			_.each(sortedKeys, function (key) {
+				// Get all the filenames...
+				var articleFiles = groupedFiles[key];
+				var articles = [];
+				// ...get all the data for that file ...
+				_.each(articleFiles, function (file) {
+					if (!file.endsWith('redirect')) {
+						articles.push(generateHtmlAndMetadataForFile(file));
+					}
+				});
+
+				// ...so we can sort the posts...
+				articles = _.sortBy(articles, function (article) {
+					// ...by their post date and TIME.
+					return Date.create(article.metadata.Date);
+				}).reverse();
+				// Array of objects; each object's key is the date, value
+				// is an array of objects
+				// In that array of objects, there is a body & metadata.
+				// Note if this day only had a redirect, it may have no articles.
+				if (articles.length > 0) {
+					retVal.push({date: key, articles: articles});
+				}
+			});
+
+			allPostsSortedGrouped = retVal;
+			completion(retVal);
+		});
+	}
+}
 
 //function tweetLatestPost() {
 //	if (twitterClient !== null && typeof(config.Social.autoTweets.consumer_key) !== 'undefined') {
@@ -974,10 +1006,10 @@ app.get('/rss', function (request, response) {
 		return externalFilenameForFile(article.file, request);
 	}, function (article){
 		if ( typeof(article.metadata.Link) !== 'undefined' ) {
-			return '→ ' + article.metadata.Title;	
+			return 'â†’ ' + article.metadata.Title;	
 		}
 //		return article.metadata.Title;
-		return '🐺 ' + article.metadata.Title;
+		return 'ðŸº ' + article.metadata.Title;
 	}, function (rss) {
 		renderedRss = rss;
 		response.status(200).send(renderedRss.rss);
