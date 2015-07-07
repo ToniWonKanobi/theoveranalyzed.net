@@ -1038,6 +1038,7 @@ app.get('/rss2', function (request, response) {
 		response.status(200).send(renderedAlternateRss.rss);
 	}
 });
+
 app.get('/rss-alternate', function (request, response) {
 	if ('user-agent' in request.headers && request.headers['user-agent'].has('subscriber')) {
 		console.log('Alternate RSS: ' + request.headers['user-agent']);
@@ -1057,7 +1058,6 @@ app.get('/rss-alternate', function (request, response) {
 		response.status(200).send(renderedAlternateRss.rss);
 	}
 });
-
 
 //	Tags view
 app.get('/tags', function (request, response) {
@@ -1126,6 +1126,7 @@ app.get('/tags', function (request, response) {
 		response.status(200).send(header + retVal + footerSource);
 	});
 });
+
 app.get('/tags/:tag', function (request, response) {
 	var thetag = request.params.tag;
 	var postsByTag = {};
