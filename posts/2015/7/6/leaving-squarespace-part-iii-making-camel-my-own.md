@@ -19,19 +19,14 @@ Here's how to do that:
 
 1. Navigate to Camel's directory with `cd`:
 	![](http://d.pr/i/126Ir+)
-	
 2. Locate the `package.json`
 3. Modify the line that lists Camel's dependency on `markdown-it` such that the `^` is replaced by the `>`. This makes it so that any subsequent updates to `markdown-it` will be okay with Camel:
-
 	```sh
 	"markdown-it": "^3.1.0",
 	```
-	
 4. Further navigate to the `node_modules` directory (this is where all of Camel's modules live, such as `handlebars`, `express`, and `markdown-it`):
 	![](http://d.pr/i/118cQ+)
-	
 5.  Run the command `npm update markdown-it` and confirm that `markdown-it` has been updated:
-
 	![](http://d.pr/i/10848+)
 	
 You can now proceed with installing these additional `markdown-it` plugins.
@@ -46,20 +41,16 @@ Here's how to enable header anchors:
 
 1. Navigate to Camel's directory with `cd`
 	![](http://d.pr/i/126Ir+)
-	
 2. Further navigate to the `node_modules` directory (this is where all of Camel's modules live, such as `handlebars`, `express`, and `markdown-it`)
 	![](http://d.pr/i/118cQ+)
-	
 3. Run the command
 	```
 	npm i markdown-it-anchor --save
 	```
 	[^sa]
 	![](http://d.pr/i/1hluY+)
-	
 5. Test the installation by checking `package.json` for a new dependency
 	![](http://d.pr/i/1kT9a+)
-	
 6. Open `camel.js` and add the following to the Initialization section
 	```
 	.use(require('markdown-it-anchor'), {
@@ -67,7 +58,6 @@ Here's how to enable header anchors:
 	})
 	```
 6. The 'markdownit' section should look like this now
-
 	```js
 	var markdownit = require('markdown-it')({
 		html: true,
@@ -133,31 +123,19 @@ Installing the plugin wasn't difficult, but it took me a while to figure it out:
 
 1. Navigate to Camel's directory with `cd`
 	![](http://d.pr/i/126Ir+)
-	
 2. Further navigate to the `node_modules` directory
 	![](http://d.pr/i/118cQ+)
-	
-3. Run the command 
-
-	```
-	npm i markdown-it-table-of-contents --save
-	```
-	
+3. Run the command `npm i markdown-it-table-of-contents --save`
 	![](http://d.pr/i/1eUNj+)
-	
 5. Test the installation by checking `package.json` for a new dependency
 	![](http://d.pr/i/1lwKV+)
-	
 6. Open `camel.js` and add the following to the Initialization section
-
 	```
 	.use(require("markdown-it-table-of-contents"), {
 	includeLevel: 1,
 	})
 	```
-	
 6. The 'markdownit' section should look like this now
-	
 	```
 	var markdownit = require('markdown-it')({
 		html: true,
@@ -192,29 +170,17 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 
 1. Navigate to Camel's directory with `cd`
 	![](http://d.pr/i/126Ir+)
-	
 2. Further navigate to the `node_modules` directory
 	![](http://d.pr/i/118cQ+)
-	
-3. Run the command 
-
-	```
-	npm i markdown-it-highlightjs --save
-	```
-	
+3. Run the command `npm i markdown-it-highlightjs --save`
 	![](http://d.pr/i/14A8k+)
-	
 5. Test the installation by checking `package.json` for a new dependency
 	![](http://d.pr/i/Z46L+)
-	
 6. Open `camel.js` and add the following to the Initialization section:
-
 	```
 	.use(require('markdown-it-highlightjs'))
 	```
-	
 6. The 'markdownit' section should look like this now
-
 	```js
 	var markdownit = require('markdown-it')({
 		html: true,
@@ -230,21 +196,17 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 		})
 		.use(require('markdown-it-highlightjs'));
 	```
-	
 7. Now that `markdown-it-highlightjs` is installed, you'll need to load a stylesheet. Navigate to Camel's directory, and from there:
-
 	```
 	/node_modules/markdown-it-highlightjs/node_modules/highlight.js/styles
 	```
-	
 	Grab whichever stylesheet you prefer, place that in Camel's public directory where stylesheets go: `/public/css`
 
 9. Finally, you'll need to edit `header.html` to load whichever stylesheet you chose in the prior step
-	
 	```html
 	<link rel="stylesheet" type="text/css" href="/css/default.css">
 	```
-
+	
 You can test that the plugin is working by editing a sample post and launching a local version of your site.
 
 ![](http://d.pr/i/BuH9+)                                               
