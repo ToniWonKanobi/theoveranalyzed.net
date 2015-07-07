@@ -35,7 +35,7 @@ You can now proceed with installing these additional `markdown-it` plugins.
 
 [`markdown-it-anchor`](https://www.npmjs.com/package/markdown-it-anchor) is a `markdown-it` plugin that creates headers-based permalinks in the parsed HTML. This is similar to what [GitHub has all over its site](http://d.pr/i/16frZ+). Essentially, `markdown-it-anchor` looks through the Markdown document for header markers (`#`) and then creates permalinks to those headers, displaying them only on `a:hover` (at least in my CSS). 
 
-This is useful if you, like me, might want to direct readers to particular sections of a post. For instance, what if a reader wanted to know how I enabled header anchors on my site? After locating the section of the post that discusses header anchors (called "Header Anchors" `# Header Anchors`) I would just copy the permalink glyph on `a:hover. I could then send *that* link to the reader. 
+This is useful if you, like me, might want to direct readers to particular sections of a post. For instance, what if a reader wanted to know how I enabled header anchors on my site? After locating the section of the post that discusses header anchors ("Header Anchors" `# Header Anchors`) I would just copy the permalink glyph on `a:hover`. I could then send *that* link to the reader. 
 
 Here's how to enable header anchors:
 
