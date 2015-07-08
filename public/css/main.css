@@ -64,22 +64,23 @@ a:hover {
 	color: #2e8eef;
 	-webkit-transition: all .45s ease-in-out;
 	-moz-transition: all .45s ease-in-out;
+	transition: all .45s ease-in-out;
 }
 
 .entry a:hover {
-    padding-bottom: 2px;	/* 	Adjusts space in between the "underline" 
+    padding-bottom: 1.5px;	/* 	Adjusts space in between the "underline" 
     							(border-bottom) and the text  */
 	color: #2e8eef;
 	border-top: 0;
 	border-left: 0;
 	border-right: 0;
-	border-bottom: 0px solid #2e8eef;
-	border-width: 1.5px; 	/* 	Makes the transition less janky  */
+	border-bottom: 1.5px solid #2e8eef;
 	-webkit-transition: all .17s ease-in-out;
 	-moz-transition: all .17s ease-in-out;
+	transition: all .17s ease-in-out;
 }
 
-/*	No border-bottom on image links on hover  */
+/* No border-bottom on image links on hover */
 a.nohover:hover { 
     background: none;
     border: none;
@@ -148,13 +149,18 @@ blockquote {
 	border-bottom-width: 0.3em;
 }
 
-.content .header .siteTitle {
+/*.content .header .siteTitle {
     font-size: 3em;
     font-weight: bold;
-    max-width: 75%; 
+    width: 85%;
     margin-top: .4em;
     margin-bottom: 0em;
     display: inline-block;
+}*/
+
+.content .header .siteTitle img {
+	width: 80%;
+	margin: 1em auto auto auto;
 }
 
 .content .header .siteTitle a {
@@ -169,13 +175,14 @@ blockquote {
 .content .header .siteByline,
 .content .header .siteByline a,
 .content .header .siteByline a:hover {
-    font-size: .92em;
+    font-size: .95em;
     color: #ffffff;
-    margin: -2.4em auto auto auto;
+    margin: -1.75em auto auto auto;
     border: 0;
     border-width: 0;
     -webkit-transition: none;
     -moz-transition: none;
+    transition: none;
 }
 
 /* @group Casey's Default Top Navigation */
@@ -204,11 +211,14 @@ blockquote {
 
 /* @group Images */
 
+img {
+	max-width: 100%;
+}
+
 figure {
     margin: 1em auto 1em auto;
     display: inline-block;
     text-align: center;
-    width: 100%;
 }
 
 figure.wide {
@@ -272,11 +282,7 @@ figcaption code {
     text-align: center;
 }
 
-.content img {
-    width: 100%;
-}
-
-/* In-use on the About page (/about) */
+/* 	In-use on the About page (/about)  */
 .headshot {
     float: right;
     display: inline;
@@ -315,19 +321,30 @@ pre {
     padding: 5px 10px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
+    border-radius: 3px;
     background-color: #eee;
-/*   border: 1px solid #ddd;*/
+/*  border: 1px solid #ddd;  */	/*	This is for Byword-style code
+									highlighting  */
 }
 
 code {
-    white-space: pre; 
-    font-size: .9em;
-    padding: 3px;
-    overflow-x: auto;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
+    white-space: pre-line; 
+    font-size: .95em;
+    padding: 4px;
+    overflow: auto;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
     background-color: #eee;
-/*   border: 1px solid #ddd;*/
+/*  border: 1px solid #ddd;  */	
+}
+
+a code:hover {
+	padding-bottom: 2px;
+}
+
+.topstory code {
+	font-style: normal;
 }
 
 pre code {
@@ -339,7 +356,9 @@ pre code {
     background-color: #eee;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
+    border-radius: 3px;
     line-height: 1.5;
+/*  border: 1px solid #ddd;  */
 }
 
 /* Fixes funkiness on homepage <pre><code> */
@@ -475,6 +494,7 @@ table.sortable thead {
     color: #2e8eef;
     -webkit-transition: all .3s ease-out;
     -moz-transition: all .3s ease-out;
+    transition: all .3s ease-out;
 }
 
 .homepage a.post-title.linked {
@@ -489,6 +509,7 @@ table.sortable thead {
     color: #2e8eef;
     -webkit-transition: all .3s ease-out;
     -moz-transition: all .3s ease-out;
+    transition: all .3s ease-out;
 }
 
 .homepage .postHeader .postPermalink {
@@ -725,6 +746,7 @@ a.footnote-backref:hover {
     border: none;
     -webkit-transition: all .5s ease-out;
     -moz-transition: all .5s ease-out;
+    transition: all .5s ease-out;
 }
 
 /* @end */
@@ -836,6 +858,7 @@ a.header-anchor:hover {
     color: #8abef4;
     -webkit-transition: all .3s ease-out;
     -moz-transition: all .3s ease-out;
+    transition: all .3s ease-out;
 }
 
 .nav .dot {
@@ -883,7 +906,7 @@ a.header-anchor:hover {
 	   margin-bottom: -120px;
 	}
 	
-	.content{
+	.content {
 		margin: .6em auto 5em auto;
 		width: 325px;
 	}
@@ -892,16 +915,18 @@ a.header-anchor:hover {
 		margin-top: 5em;
 	}
 	
-	.content .header .siteTitle {
-            max-width: 100%;
-	    margin-top: .2em;
-	    margin-bottom: .1em;
+/*	.content .header .siteTitle {
+        width: 100%;
+	}*/
+	
+	.content .header .siteTitle img {
+	    width: 100%;
 	}
 	
 	.content .header .siteByline {
-	    font-size: 95%;
+	    font-size: .95em;
 	    color: #ffffff;
-	    margin: -2.7em auto auto auto;
+	    margin: -1.75em auto auto auto;
 	}
 	
 	.homepage .postHeader h1 {
@@ -941,6 +966,11 @@ a.header-anchor:hover {
 	    padding-top: 2em;
 	    margin-bottom: .5em;
 	}	
+	
+	.copyright {
+	    margin: 1.2em auto auto auto;
+	    font-size: 0.9em;
+	}
 	
 	/*	Makes 'Casey Liss' style floated-images behave 
 		like regular <figure> images  */

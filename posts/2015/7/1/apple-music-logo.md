@@ -19,8 +19,8 @@ Coles also [noted](http://fontsinuse.com/uses/9788/apple-watch-os-watchos) the u
 >San Francisco Compact was designed specifically for the Apple Watch. In the same genre as Neue Helvetica, which has long been Apple’s choice for system fonts, this typeface has larger apertures, flatter sides, and looser spacing, making for a more legible experience overall, especially for the small, glanceable type on a watch display.
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1hMSZ+">
-		<img src="http://d.pr/i/1hMSZ+" alt="apple watch font" width="80%" />
+	<a class="nohover" href="http://d.pr/i/12c69+">
+		<img src="http://d.pr/i/12c69+" alt="apple watch font" width="60%" />
 	</a>
 	<figcaption>"San Francisco has a vertically-centered contextual alternate colon that appears when placed between numerals."</figcaption>
 </figure>

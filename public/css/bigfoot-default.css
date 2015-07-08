@@ -8,7 +8,7 @@
   padding: 0.35em;
   margin: 0 0.1em 0 0.2em;
   border: none;
-  border-radius: 0.3em;
+  border-radius: .4em;
   cursor: pointer;
   background-color: rgba(110, 110, 110, 0.2);
   -webkit-backface-visibility: hidden;
@@ -45,7 +45,7 @@
   display: inline-block;
   width: 0.25em;
   height: 0.25em;
-  margin-right: 0.25em;
+  margin-right: 0.3em;
   float: left;
 }
 .bigfoot-footnote__button__circle:last-child {
