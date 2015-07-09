@@ -3,7 +3,7 @@
 @@ Description=The Song Exploder podcast breaks down theme music in popular TV shows/movies.  
 @@ Tags=music, movies, music composition, podcasts, Song Exploder, Downton Abbey, House of Cards  
 
-Are you a [House of Cards][wikipedia]) fan [like me][lm]? If so, be sure to check out the [Song Exploder Podcast][songexploder], in which the host [Hrishikesh Hirway][twitter] [interviews][overcast] [Jeff Beal][jeffbeal], the creator of the House of Cards main title theme.
+Are you a [House of Cards][wikipedia] fan [like me][lm]? If so, be sure to check out the [Song Exploder Podcast][songexploder], in which the host [Hrishikesh Hirway][twitter] [interviews][overcast] [Jeff Beal][jeffbeal], the creator of the House of Cards main title theme.
 
 Beal states that one of the more important elements of the theme is the bass line. Beal's son, currently studying jazz bass, actually contributed to the bass line that loops throughout the theme song. Beal recorded the bass an octave above, so that it would stand out and not get lost in the dense mix. He mentions the tension created between the bass line and ensuing harmony. The main bass line is in A minor, while the string harmony is A major:
 
