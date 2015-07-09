@@ -3,7 +3,7 @@
 @@ Link=http://www.ew.com/article/2015/07/08/iron-giant-rerelease  
 @@ Description=The cult classic that helped springboard Brad Bird's career is getting an update this fall.  
 @@ Tags=movies, Brad Bird, The Iron Giant, pop culture  
-@@ Image=http://twitter.com/BradBirdA113/status/618829026610671620/photo/1  
+@@ Image=https://pbs.twimg.com/media/CJaFt2SUsAAqIv_.jpg  
 
 <figure>
 	<a class="nohover" href="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/The-Iron-Giant.jpg">
