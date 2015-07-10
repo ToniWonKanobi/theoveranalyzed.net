@@ -9,7 +9,7 @@
 	<a class="nohover" href="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/The-Iron-Giant.jpg">
 		<img src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/The-Iron-Giant.jpg" alt="The Iron Giant" />
 	</a>
-	<figcaption>A portion of <a href="https://en.m.wikipedia.org/wiki/The_Iron_Giant#/media/File:The_Iron_Giant_poster.JPG">theatrical release poster</a></figcaption>
+	<figcaption>A portion of the <a href="https://en.m.wikipedia.org/wiki/The_Iron_Giant#/media/File:The_Iron_Giant_poster.JPG">theatrical release poster</a></figcaption>
 </figure>
 
 While not an initial success at the [box office][bo], [Brad Bird][bb]'s 1999 animated feature has stood the test of time, becoming somewhat of a [cult classic][cc] in the years since its release.
