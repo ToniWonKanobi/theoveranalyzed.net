@@ -7,7 +7,7 @@
   						 	minimum height. This way, the blue bart
   						 	at the bottom of the page is not 'floating'
   						 	above the bottom of the window on short pages 
-  						 	like `/about`  */
+  						 	like `/404` or `/about`  */
 }
 
 .content {
@@ -264,11 +264,6 @@ figcaption {
     width: 65%;
 }
 
-/*	Makes <code> blocks within figure captions non-italicized  */
-figcaption code {
-	font-style: normal;
-}
-
 .center {
     display: inline;
     margin-top: inherit;
@@ -324,6 +319,7 @@ pre {
 }
 
 code {
+	font-style: normal;
     white-space: pre-line; 
     font-size: .95em;
     padding: 4px;
@@ -831,6 +827,12 @@ a.header-anchor:hover {
     text-align: center;
 }
 
+figure.bottomAd {
+	border-top: none;
+	margin-top: 1.5em;
+	height: 80px;
+}
+
 .navFooter {
     background-color: #3f70a2;
     height: 165px;
@@ -909,6 +911,7 @@ a.header-anchor:hover {
 	
 	.main {
 		margin-top: 5em;
+		min-height: 10vh;
 	}
 	
 /*	.content .header .siteTitle {
