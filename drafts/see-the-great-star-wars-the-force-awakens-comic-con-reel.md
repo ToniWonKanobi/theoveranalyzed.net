@@ -1,5 +1,5 @@
 @@ Title=See the Great ‘Star Wars: The Force Awakens’ Comic Con Reel  
-@@ Date=2015-07-11 07:14  
+@@ Date=2015-07-11 07:27  
 @@ Link=http://www.slashfilm.com/the-force-awakens-comic-con-reel/  
 @@ Description=The producers of Star Wars: The Force Awakens brought to Comic Con the most excellent teaser footage.   
 @@ Tags=Star Wars, The Force Awakens, Comic Con, culture, movies  
@@ -12,7 +12,7 @@ The offical Star Wars twitter shared as much last night:
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We&#39;re going in! A video just revealed at <a href="https://twitter.com/Comic_Con">@Comic_Con</a> takes you behind the scenes of <a href="https://twitter.com/hashtag/StarWars?src=hash">#StarWars</a>: TheForceAwakens. <a href="https://twitter.com/hashtag/SDCC?src=hash">#SDCC</a>&#10;<a href="https://t.co/ASq8xrIKrF">https://t.co/ASq8xrIKrF</a></p>&mdash; Star Wars (@starwars) <a href="https://twitter.com/starwars/status/619684902762516480">July 11, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Via voiceover, Mark Hamill:
->Real sets. Practical Effects. You've been here, but you don't know *this* story. Nothing's changed, really. I mean everything's changed, but nothing's changed. THat's the way you want it to be,really. To see the way the technology has evolved. And yet, keeping one foot in the pre-digital world. 
+>Real sets. Practical Effects. You've been here, but you don't know *this* story. Nothing's changed, really. I mean everything's changed, but nothing's changed. That's the way you want it to be, really. To see the way the technology has evolved. And yet, keeping one foot in the pre-digital world. 
 
 And Carrie Fischer:
 >It couldn't be more exciting. It's still surreal.
