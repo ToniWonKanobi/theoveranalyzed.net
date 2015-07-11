@@ -14,7 +14,7 @@ The offical Star Wars twitter shared as much last night:
 Via voiceover, Mark Hamill:
 >Real sets. Practical Effects. You've been here, but you don't know *this* story. Nothing's changed, really. I mean everything's changed, but nothing's changed. That's the way you want it to be, really. To see the way the technology has evolved. And yet, keeping one foot in the pre-digital world. 
 
-And Carrie Fischer:
+And Carrie Fisher:
 >It couldn't be more exciting. It's still surreal.
 
 <hr class="small" />
