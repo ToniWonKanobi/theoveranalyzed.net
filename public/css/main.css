@@ -190,7 +190,7 @@ blockquote {
     color: #ffffff;
     margin-bottom: 1em;
     margin-top:  -.1em;
-    font-weight: 400;
+    font-weight: 600;
 }*/
 
 /*.header .dot {
@@ -441,7 +441,7 @@ table.sortable thead {
 
 .homepage .postHeader h1 {
     font-size: 2em;
-    font-weight: 800;
+    font-weight: 700;
     line-height: 1.2;
     margin-bottom: 0em;
 }
@@ -465,7 +465,7 @@ table.sortable thead {
 
 .homepage .postHeaderLinked h1 {
     font-size: 1.5em;
-    font-weight: 800;
+    font-weight: 700;
     line-height: 1.2;
     margin-bottom: 0em;
 }
@@ -476,7 +476,7 @@ table.sortable thead {
 }
 
 .homepage a.post-title {
-    font-weight: 800;
+    font-weight: 700;
     line-height: 1.5;
     margin-bottom: .2em;
     color: #545454;
@@ -491,7 +491,7 @@ table.sortable thead {
 
 .homepage a.post-title.linked {
     font-size: 1em;
-    font-weight: 800;
+    font-weight: 700;
     line-height: 1.5;
     margin-bottom: .2em;
     color: #3f70a2;
@@ -588,7 +588,7 @@ table.sortable thead {
     margin-bottom: 0em;
     line-height: 1.5;
     font-size: 2.15em;
-    font-weight: 800;
+    font-weight: 700;
 }
 
 .post .postHeader {
@@ -605,7 +605,7 @@ table.sortable thead {
     margin-bottom: 0em;
     line-height: 1.5;
     font-size: 1.5em;
-    font-weight: 800;
+    font-weight: 700;
 }
 
 .post .postHeaderLinked {
@@ -803,14 +803,14 @@ a.header-anchor:hover {
     display: inline;
     float: right;
     text-transform: uppercase;
-    font-weight: 400; 
+    font-weight: 600; 
 }
 
 .homepage .paginationFooter .nextPage{
     display: inline;
     float: left;
     text-transform: uppercase;
-    font-weight: 400; 
+    font-weight: 600; 
 }
 
 /* @end */
@@ -845,7 +845,7 @@ a.header-anchor:hover {
     text-transform: uppercase;
     font-size: 1em;
     color: #ffffff;
-    font-weight: 400;
+    font-weight: 600;
     text-align: center;
 }
 
