@@ -10,35 +10,35 @@ Josh Barnett of Total 911 was at the 2015 [Goodwood Festival of Speed][goodwood]
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/11Snd+">
-		<img src="http://d.pr/i/11Snd+" alt="GT4, GT3 RS, 918" />
+		<img class="lazy" data-original="http://d.pr/i/11Snd+" alt="GT4, GT3 RS, 918" />
 	</a>
 	<figcaption>The new <a href="https://en.wikipedia.org/wiki/Porsche_Cayman#Cayman_GT4">Cayman GT4</a>, <a href="https://en.wikipedia.org/wiki/Porsche_911_GT3#991_GT3_RS">991 GT3 RS</a>, and a <a href="https://en.wikipedia.org/wiki/Porsche_918">918</a></figcaption>
 </figure>
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/GMyV+">
-		<img src="http://d.pr/i/GMyV+" alt="991 GT3 RS" />
+		<img class="lazy" data-original="http://d.pr/i/GMyV+" alt="991 GT3 RS" />
 	</a>
 	<figcaption>991 GT3 RS</figcaption>
 </figure>
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/1awY6+">
-		<img src="http://d.pr/i/1awY6+" alt="Singer 911" />
+		<img class="lazy" data-original="http://d.pr/i/1awY6+" alt="Singer 911" />
 	</a>
 	<figcaption>The <a href="http://singervehicledesign.com/gallery/the-machines/united-kingdom/">UK build</a> Singer 911</figcaption>
 </figure>
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/1c9KN+">
-		<img src="http://d.pr/i/1c9KN+" alt="956" />
+		<img class="lazy" data-original="http://d.pr/i/1c9KN+" alt="956" />
 	</a>
 	<figcaption><a href="https://en.wikipedia.org/wiki/Porsche_956">956</a></figcaption>
 </figure>
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/Nc8B+">
-		<img src="http://d.pr/i/Nc8B+" alt="919" />
+		<img class="lazy" data-original="http://d.pr/i/Nc8B+" alt="919" />
 	</a>
 	<figcaption><a href="https://en.wikipedia.org/wiki/Porsche_919_Hybrid">919</a></figcaption>
 </figure>
