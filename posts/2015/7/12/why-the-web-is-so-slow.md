@@ -1,5 +1,5 @@
 @@ Title=Why The Web Is So Slow  
-@@ Date=2015-07-12T14:00:00-0700  
+@@ Date=2015-07-12T14:00:00-07:00  
 @@ Description=I've struggled with keeping TheOverAnalyzed's page load times to less than 2 seconds. I'm not alone: everyone wants a faster web. But not everyone is experiencing it. And it's mostly publishers' faults.
 @@ Tags=culture, web design, web, design  
 @@ Image=http://d.pr/i/1iLFm+  
