@@ -1019,25 +1019,25 @@ app.get('/rss', function (request, response) {
 	}
 });
 
-app.get('/rss2', function (request, response) {
-	if ('user-agent' in request.headers && request.headers['user-agent'].has('subscriber')) {
-		console.log('Alternate RSS: ' + request.headers['user-agent']);
-	}
-	response.type('application/rss+xml');
-	
-	if (typeof(renderedAlternateRss.date) === 'undefined' || new Date().getTime() - renderedAlternateRss.date.getTime() > 3600000) {
-		generateRss(request, '/rss-alternate', function (article) {
-			return externalFilenameForFile(article.file, request);
-		}, function (article){
-			return article.metadata.Title;
-		}, function (rss) {
-			renderedAlternateRss = rss;
-			response.status(200).send(renderedAlternateRss.rss);
-		});
-	} else {
-		response.status(200).send(renderedAlternateRss.rss);
-	}
-});
+//app.get('/rss2', function (request, response) {
+//	if ('user-agent' in request.headers && request.headers['user-agent'].has('subscriber')) {
+//		console.log('Alternate RSS: ' + request.headers['user-agent']);
+//	}
+//	response.type('application/rss+xml');
+//	
+//	if (typeof(renderedAlternateRss.date) === 'undefined' || new Date().getTime() - renderedAlternateRss.date.getTime() > 3600000) {
+//		generateRss(request, '/rss-alternate', function (article) {
+//			return externalFilenameForFile(article.file, request);
+//		}, function (article){
+//			return article.metadata.Title;
+//		}, function (rss) {
+//			renderedAlternateRss = rss;
+//			response.status(200).send(renderedAlternateRss.rss);
+//		});
+//	} else {
+//		response.status(200).send(renderedAlternateRss.rss);
+//	}
+//});
 
 app.get('/rss-alternate', function (request, response) {
 	if ('user-agent' in request.headers && request.headers['user-agent'].has('subscriber')) {
