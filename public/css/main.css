@@ -436,7 +436,7 @@ table.sortable thead {
 /* @group Homepage */
 
 .homepage .entry {
-	margin-bottom:  5em;
+	margin-bottom:  6em;
 }
 
 .homepage .postHeader h1 {
@@ -567,7 +567,7 @@ table.sortable thead {
 
 .homepage .day .daybreak {
     margin-top: 0em;
-    margin-bottom:  5em;
+    margin-bottom:  6em;
     margin-left: -10%;
     border: 0;
     border-radius: 2px;
@@ -796,6 +796,7 @@ a.header-anchor:hover {
 .homepage .paginationFooter {
     display: block;
     width: 100%;
+    margin-bottom: 14em; /* Fixes the stupid section */
 }
 
 .homepage .paginationFooter .previousPage {
