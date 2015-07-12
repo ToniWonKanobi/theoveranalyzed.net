@@ -435,10 +435,6 @@ table.sortable thead {
 
 /* @group Homepage */
 
-.homepage figure {
-	display: none;
-}
-
 .homepage .entry {
 	margin-bottom:  6em;
 }
