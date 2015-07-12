@@ -1,4 +1,4 @@
-@@ Title=Making The Web Faster  
+@@ Title=Why The Web Is Slow  
 @@ Date=2015-07-12T08:00:00-0700  
 @@ Description=I've struggled with keeping TheOverAnalyzed's page load times to less than 2 seconds. I'm not alone: everyone wants a faster web. But not everyone is experiencing it. And it's mostly publishers' faults.
 @@ Tags=culture, web design, web, design  
@@ -74,15 +74,15 @@ Websites should be fast. I get it. But how do I put my money where my mouth is? 
 Well enough, I think.
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/9u7E+">
-		<img src="http://d.pr/i/9u7E+" alt="Regular page load of TheOverAnalyzed" />
+	<a class="nohover" href="http://d.pr/i/14dQN+">
+		<img src="http://d.pr/i/14dQN+" alt="Regular page load of TheOverAnalyzed" />
 	</a>
 	<figcaption>A run-of-the-mill page load for TheOverAnalyzed</figcaption>
 </figure>
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/OCLP+">
-		<img src="http://d.pr/i/OCLP+" alt="No-JS page load of TheOverAnalyzed" />
+	<a class="nohover" href="http://d.pr/i/14ER8+">
+		<img src="http://d.pr/i/14ER8+" alt="No-JS page load of TheOverAnalyzed" />
 	</a>
 	<figcaption>A page load for TheOverAnalyzed with JavaScript disabled</figcaption>
 </figure>
