@@ -864,6 +864,7 @@ a.header-anchor:hover {
     color: #ffffff;
     margin: 0 .3em 0 .3em;
     vertical-align: -.05em;
+    font-weight: 300;
 }
 
 /* @end */
