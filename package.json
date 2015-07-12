@@ -65,7 +65,8 @@
     "rss": "^1.1.1",
     "sugar": "^1.4.1",
     "twitter": "^1.2.1",
-    "underscore": "^1.8.2"
+    "underscore": "^1.8.2",
+   	"jquery-lazyload": "^1.9.5"
   },
   "engines": {
     "node": "0.10.x"
