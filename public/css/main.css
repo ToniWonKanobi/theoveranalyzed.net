@@ -96,6 +96,7 @@ a:hover {
 	-webkit-transition: all .17s ease-in-out;
 	-moz-transition: all .17s ease-in-out;
 	transition: all .17s ease-in-out;
+	transform: translateY(5px);
 }
 
 /* No border-bottom on image links on hover */
