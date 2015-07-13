@@ -17,7 +17,7 @@ If you take a look at the Camel's [GitHub page][github], it would seem, at first
 
 Take a look at Casey's installation [instructions][github 2]:
 
-1. 	Install [Node][nodejs] & [npm][npmjs]
+1. Install [Node][nodejs] & [npm][npmjs]
 2. Clone the repository
 3. Get all the dependencies using NPM: `npm install`
 4. `node ./camel.js`
@@ -163,7 +163,7 @@ You're almost done. To test that Camel is indeed up and running, query `localhos
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1lmVC+">
-		<img src="http://d.pr/i/1lmVC+" alt="alttext" />
+		<img class="lazy" data-original="http://d.pr/i/1lmVC+" alt="Done" />
 	</a>
 </figure>
 

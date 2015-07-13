@@ -7,7 +7,7 @@
 
 <figure class="wide">
 	<a class="nohover" href="https://cottonbureau.com/products/bass-players-shirt">
-		<img src="https://cottonbureau.com/img/products/5320_APdl_2400.jpg" alt="bass" />
+		<img class="lazy" data-original="http://d.pr/i/QbaB+" alt="bass" />
 	</a>
 	<figcaption><a href="http://twitter.com/DesignEpiphany">Tim Kordik</a>: "Bass - it's like guitar, but cooler."</figcaption>
 </figure>

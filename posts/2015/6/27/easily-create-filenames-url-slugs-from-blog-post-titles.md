@@ -20,7 +20,7 @@ First, I would select and copy the title's text:
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/MDC4+">
-		<img src="http://d.pr/i/MDC4+" alt="copying the title text" />
+		<img class="lazy" data-original="http://d.pr/i/MDC4+" alt="copying the title text" />
 	</a>
 	<figcaption><code>Cmd + C</code></figcaption>
 </figure>
@@ -29,7 +29,7 @@ Next, `Cmd + S` to invoke the save dialog box:
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/BPjq+">
-		<img src="http://d.pr/i/BPjq+" alt="invoking the save dialog" />
+		<img class="lazy" data-original="http://d.pr/i/BPjq+" alt="invoking the save dialog" />
 	</a>
 	<figcaption><code>Cmd + S</code></figcaption>
 </figure>
@@ -38,7 +38,7 @@ Then I paste the previously selected text into the Save As field:
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/14x3d+">
-		<img src="http://d.pr/i/14x3d+" alt="pasting the title text" />
+		<img class="lazy" data-original="http://d.pr/i/14x3d+" alt="pasting the title text" />
 	</a>
 	<figcaption><code>Cmd + V</code></figcaption>
 </figure>
@@ -47,14 +47,14 @@ After that, I start manually changing the uppercase letters to lowercase, removi
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/15iqM+">
-		<img src="http://d.pr/i/15iqM+" alt="starting the process" />
+		<img class="lazy" data-original="http://d.pr/i/15iqM+" alt="starting the process" />
 	</a>
 	<figcaption style="font-style: normal;">😐</figcaption>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/184Ox+">
-		<img src="http://d.pr/i/184Ox+" alt="this takes forever" />
+		<img class="lazy" data-original="http://d.pr/i/184Ox+" alt="this takes forever" />
 	</a>
 	<figcaption style="font-style: normal;">😑</figcaption>
 </figure>
@@ -236,7 +236,7 @@ And here's a screenshot of the workflow (it's actually a Service):
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/107X5+">
-		<img src="http://d.pr/i/107X5+" alt="finished workflow" />
+		<img class="lazy" data-original="http://d.pr/i/107X5+" alt="finished workflow" />
 	</a>
 	<figcaption><code>Slugify.workflow</code></figcaption>
 </figure>
@@ -249,7 +249,7 @@ I also assigned a keyboard shortcut to the service, so that I don't have to invo
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1lBKU+">
-		<img src="http://d.pr/i/1lBKU+" alt="keyboard shortcut for slugify.workflow" />
+		<img class="lazy" data-original="http://d.pr/i/1lBKU+" alt="keyboard shortcut for slugify.workflow" />
 	</a>
 	<figcaption><code>Cmd + Opt + Shift + R</code></figcaption>
 </figure>
@@ -258,15 +258,14 @@ This couldn't get any easier.
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/10cCw+">
-		<img src="http://d.pr/i/10cCw+" alt="select the text" />
+		<img class="lazy" data-original="http://d.pr/i/10cCw+" alt="select the text" />
 	</a>
-	<figcaption style="font-style: normal;">😐 → 😊
-	</figcaption>
+	<figcaption style="font-style: normal;">😐 → 😊</figcaption>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/11dN3+">
-		<img src="http://d.pr/i/11dN3+" alt="and done" />
+		<img class="lazy" data-original="http://d.pr/i/11dN3+" alt="and done" />
 	</a>
 	<figcaption style="font-style: normal;">😑 → 😄</figcaption>
 </figure>

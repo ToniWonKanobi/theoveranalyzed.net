@@ -9,7 +9,7 @@ I've heard of [Terminology for iOS][apple] before, but have never used it myself
 
 <figure class="figright">
 	<a class="nohover" href="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg">
-		<img src="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg" alt="mac" />
+		<img class="lazy" data-original="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg" alt="mac" />
 	</a>
 	<figcaption>Terminology integrates with OS X's three-finger tap (and Force Touch 'hard press').
 	</figcaption>

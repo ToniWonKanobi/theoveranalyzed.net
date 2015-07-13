@@ -23,13 +23,13 @@ Before transitioning to Camel, I adopted a hybrid metadata system inspired by bo
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/1lii9+">
-		<img src="http://d.pr/i/1lii9+" alt="Old style metadata" />
+		<img class="lazy" data-original="http://d.pr/i/1lii9+" alt="Old style metadata" />
 	</a>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/13n6Z+">
-		<img src="http://d.pr/i/13n6Z+" alt="Smart Byword" />
+		<img class="lazy" data-original="http://d.pr/i/13n6Z+" alt="Smart Byword" />
 	</a>
 </figure>
 
@@ -41,7 +41,7 @@ Unlike Squarespace, in Camel, having metadata within the actual Markdown files i
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1gomf+">
-		<img src="http://d.pr/i/1gomf+" alt="Camel and metadata" />
+		<img class="lazy" data-original="http://d.pr/i/1gomf+" alt="Camel and metadata" />
 	</a>
 	<figcaption>Camel looks at the top of documents for <code>@@</code> prefixes, which denote metadata.</figcaption>
 </figure>
@@ -82,7 +82,7 @@ Here's what I found:
 
 ```
 <figure class="figleft">
-	<img src="http://www.caseyliss.com/images/2015/3/iphone.png" alt="Steve Jobs debuts the iPhone" width="300" />
+	<img class="lazy" data-original="http://www.caseyliss.com/images/2015/3/iphone.png" alt="Steve Jobs debuts the iPhone" width="300" />
 	<figcaption>Are You Getting It?</figcaption>
 </figure>
 ```
@@ -137,13 +137,13 @@ Out of the box, Camel includes the `markdown-it` plugin [`markdown-it-footnote`]
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/1aazM+">
-		<img src="http://d.pr/i/1aazM+" alt="non-parsed text in Byword" />
+		<img class="lazy" data-original="http://d.pr/i/1aazM+" alt="non-parsed text in Byword" />
 	</a>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/12gMj+">
-		<img src="http://d.pr/i/12gMj+" alt="parsed text in Byword" />
+		<img class="lazy" data-original="http://d.pr/i/12gMj+" alt="parsed text in Byword" />
 	</a>
 </figure>
 
@@ -151,7 +151,7 @@ Neither inline footnotes nor multi-paragraph footnotes are supported by Byword. 
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/12mep+">
-		<img src="http://d.pr/i/12mep+" alt="footnotes" />
+		<img class="lazy" data-original="http://d.pr/i/12mep+" alt="footnotes" />
 	</a>
 	<figcaption>While Byword may not be able to understand inline and/or multi-paragraph footnotes, Camel can thanks to <code>markdown-it-footnote</code></figcaption>
 </figure>

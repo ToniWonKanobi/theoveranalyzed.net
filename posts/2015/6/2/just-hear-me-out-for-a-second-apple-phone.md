@@ -5,7 +5,6 @@
 @@ Tags=Apple, culture, history, iPhone  
 @@ Image=https://cdn2.vox-cdn.com/uploads/chorus_asset/file/3748066/apple-phone.0.png  
 
-
 The Verge's Chris Ziegler:
 >"IPHONE" doesn't look good set in all-caps, which is how the Apple Watch's logo is styled. In fact, it looks terrible. If you kill the "i," your problem is solved.
 >

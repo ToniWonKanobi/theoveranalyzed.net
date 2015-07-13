@@ -7,9 +7,9 @@
 
 By now you're familiar with the story:
 
-1. Last Sunday, Taylor Swift went to tumblr to explain why she was withholding her latest effort, [1989](https://en.wikipedia.org/wiki/1989_(Taylor_Swift_album)), from the soon-to-be-launched Apple Music streaming service
+1. Last Sunday, Taylor Swift went to tumblr to explain why she was withholding her latest effort, [1989][wikipedia]), from the soon-to-be-launched Apple Music streaming service
 	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">To Apple, Love Taylor &#10;<a href="http://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor">http://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor</a></p>&mdash; Taylor Swift (@taylorswift13) <a href="https://twitter.com/taylorswift13/status/612575467787407360">June 21, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-2. Some 17 hours later, Eddy Cue, Apple's [Senior Vice President of Internet Software and Services](https://www.apple.com/pr/bios/eddy-cue.html), effectively backtracked on Apple's [then] current policy of not compensating artists[^la] during Apple Music's 3-month trial period
+2. Some 17 hours later, Eddy Cue, Apple's [Senior Vice President of Internet Software and Services][apple], effectively backtracked on Apple's [then] current policy of not compensating artists[^la] during Apple Music's 3-month trial period
 	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We hear you <a href="https://twitter.com/taylorswift13">@taylorswift13</a> and indie artists. Love, Apple</p>&mdash; Eddy Cue (@cue) <a href="https://twitter.com/cue/status/612824947342229504">June 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/AppleMusic?src=hash">#AppleMusic</a> will pay artist for streaming, even during customer’s free trial period</p>&mdash; Eddy Cue (@cue) <a href="https://twitter.com/cue/status/612824775220555776">June 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 3. Still Sunday, Swift took to Twitter to acknowledge Apple's change of heart
@@ -21,9 +21,9 @@ By now you're familiar with the story:
 
 Quite the tumultuous week for both Taylor Swift *and* Apple. 
 
-While [the](http://daringfireball.net/linked/2015/06/21/taylor-swift-apple-music) [Apple](http://sixcolors.com/link/2015/06/taylor-swifts-1989-to-be-on-apple-music/) [blogosphere](http://www.macstories.net/linked/taylor-swift-criticizes-apple-music-for-lack-of-artist-compensation-in-free-trial-period/) covered the event in full force, the [mainstream](http://www.wsj.com/articles/taylor-swift-withholds-album-from-apple-music-1434916050) [media](http://www.forbes.com/sites/georgehoward/2015/06/21/the-real-message-in-taylor-swifts-open-letter-to-apple-music-be-more-like-me/) [also](http://www.theatlantic.com/entertainment/archive/2015/06/taylor-swift-apple-music/396470/) [took](http://usatoday.com/videos/life/music/2015/06/21/29068579/) [note](http://www.huffingtonpost.com/2015/06/21/taylor-swift-apple-music_n_7631054.html). There is so much to unpack with regards to [Taylor Swift herself](http://time.com/3554468/why-taylor-swift-spotify/), [Apple](https://www.apple.com/pr/library/2003/04/28Apple-Launches-the-iTunes-Music-Store.html), [Apple's stance on steaming music](http://allthingsd.com/20130110/beats-jimmy-iovine-on-steve-jobs-spotify-and-why-he-can-make-subscriptions-work/), and [the entire music industry as a whole](http://www.economist.com/news/business/21599350-record-bosses-now-hope-online-streaming-could-become-big-enough-business-arrest-their).
+While [the][daringfireball] [Apple][sixcolors] [blogosphere][macstories] covered the event in full force, the [mainstream][wsj] [media][forbes] [also][theatlantic] [took][usatoday] [note][huffingtonpost]. There is so much to unpack with regards to [Taylor Swift herself][time], [Apple][apple 2], [Apple's stance on steaming music][allthingsd], and [the entire music industry as a whole][economist].
 
-By far the best wrap-up and analysis comes from Neil Cybart of [Above Avalon](http://www.aboveavalon.com/notes/2015/6/26/taylor-swift-is-backing-herself-into-a-corner-above-avalon-premium). While he praises Swift's stance on streaming music, Cybart seems to suggest that her efforts might just be in vain. Perhaps her take on streaming music is too naive to be relevant? 
+By far the best wrap-up and analysis comes from Neil Cybart of [Above Avalon][aboveavalon]. While he praises Swift's stance on streaming music, Cybart seems to suggest that her efforts might just be in vain. Perhaps her take on streaming music is too naive to be relevant? 
 >I think it's important to note that Taylor Swift knows exactly what she is doing. Beginning with her WSJ op-ed last year and her recent spat with Spotify where she removed her entire music catalog from the music streaming service, Swift has fully embraced the message that music needs to be valued appropriately. Not only does such positioning likely hold true to her beliefs, but it serves her well from a business sense.
 
 And because Taylor Swift is so big, her voice carries further than it otherwise would if she were less popular:
@@ -39,3 +39,19 @@ In other words, Taylor Swift can moan all she wants about the value of music,[^o
 
 [^la]: Labels.
 [^on]: Moaning that is echoed by *multitudes* of other people, Cybart and myself included (obviously)
+
+[aboveavalon]: http://www.aboveavalon.com/notes/2015/6/26/taylor-swift-is-backing-herself-into-a-corner-above-avalon-premium
+[allthingsd]: http://allthingsd.com/20130110/beats-jimmy-iovine-on-steve-jobs-spotify-and-why-he-can-make-subscriptions-work/
+[apple]: https://www.apple.com/pr/bios/eddy-cue.html
+[apple 2]: https://www.apple.com/pr/library/2003/04/28Apple-Launches-the-iTunes-Music-Store.html
+[daringfireball]: http://daringfireball.net/linked/2015/06/21/taylor-swift-apple-music
+[economist]: http://www.economist.com/news/business/21599350-record-bosses-now-hope-online-streaming-could-become-big-enough-business-arrest-their
+[forbes]: http://www.forbes.com/sites/georgehoward/2015/06/21/the-real-message-in-taylor-swifts-open-letter-to-apple-music-be-more-like-me/
+[huffingtonpost]: http://www.huffingtonpost.com/2015/06/21/taylor-swift-apple-music_n_7631054.html
+[macstories]: http://www.macstories.net/linked/taylor-swift-criticizes-apple-music-for-lack-of-artist-compensation-in-free-trial-period/
+[sixcolors]: http://sixcolors.com/link/2015/06/taylor-swifts-1989-to-be-on-apple-music/
+[theatlantic]: http://www.theatlantic.com/entertainment/archive/2015/06/taylor-swift-apple-music/396470/
+[time]: http://time.com/3554468/why-taylor-swift-spotify/
+[usatoday]: http://usatoday.com/videos/life/music/2015/06/21/29068579/
+[wikipedia]: https://en.wikipedia.org/wiki/1989_(Taylor_Swift_album
+[wsj]: http://www.wsj.com/articles/taylor-swift-withholds-album-from-apple-music-1434916050

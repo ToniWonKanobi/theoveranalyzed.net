@@ -6,7 +6,7 @@
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/1aUO8+">
-		<img src="http://d.pr/i/1aUO8+" alt="Both Watches" />
+		<img class="lazy" data-original="http://d.pr/i/1aUO8+" alt="Both Watches" />
 	</a>
 	<figcaption>When I look at both models side by side it's hard to see the Sport as anything but quality hardware.</figcaption>
 </figure>
@@ -25,7 +25,7 @@ It's black. Just not *that* black. More like 'super dark gray.' Yes, the Space B
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/1eGgI+">
-		<img src="http://d.pr/i/1eGgI+" alt="Sport and Watch" />
+		<img class="lazy" data-original="http://d.pr/i/1eGgI+" alt="Sport and Watch" />
 	</a>
 	<figcaption>Two different takes on black</figcaption>
 </figure>
@@ -38,7 +38,7 @@ Sitting at my desk at work the other day, I glanced over to my left wrist and sa
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/1kr4i+">
-		<img src="http://d.pr/i/1kr4i+" alt="Links at work" />
+		<img class="lazy" data-original="http://d.pr/i/1kr4i+" alt="Links at work" />
 	</a>
 	<figcaption>How much longer until I have to get up and do work again?</figcaption>
 </figure>
