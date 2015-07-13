@@ -1,5 +1,5 @@
 @@ Title=Emojipedia Blog  
-@@ Date=2015-06-19 10:07  
+@@ Date=2015-06-19T10:07:00-07:00  
 @@ Link=http://blog.emojipedia.org  
 @@ Description=There's a whole blog about Emoji. Insta-subscribe.  
 @@ Tags=Emoji, culture  

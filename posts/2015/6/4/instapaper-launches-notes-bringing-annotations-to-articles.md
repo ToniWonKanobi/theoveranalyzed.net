@@ -1,5 +1,5 @@
 @@ Title=Instapaper Launches Notes, Bringing Annotations to Articles  
-@@ Date=2015-06-04 13:29  
+@@ Date=2015-06-04T13:29:00-07:00  
 @@ Link=http://www.macstories.net/ios/instapaper-launches-notes-bringing-annotations-to-articles/  
 @@ Description=Federico Viticci did a short write-up about my favorite Read-it-later service, Instapaper.  
 @@ Tags=Instapaper, Federico Viticci, read-it-later, apps, App Store, iOS  

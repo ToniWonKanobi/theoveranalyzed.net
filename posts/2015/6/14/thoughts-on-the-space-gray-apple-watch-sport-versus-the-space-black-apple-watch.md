@@ -1,12 +1,12 @@
 @@ Title=Thoughts On The Space Gray Apple Watch Sport Versus The Space Black Apple Watch  
-@@ Date=2015-06-14 21:05  
+@@ Date=2015-06-14T21:05:00-07:00  
 @@ Description=Apparently, Apple overestimated the transit time for my Space Black Apple Watch. Here are my thoughts regarding it and the Space Gray Apple Watch Sport.  
 @@ Tags=Apple Watch, Apple Watch Sport, Apple, reviews, opinion, Anthony  
 @@ Image=http://d.pr/i/1aUO8+  
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/1aUO8+">
-		<img class="lazy" data-original="http://d.pr/i/1aUO8+" alt="Both Watches" />
+		<img class="lazy" src="http://d.pr/i/1aUO8+" data-original="http://d.pr/i/1aUO8+" alt="Both Watches" />
 	</a>
 	<figcaption>When I look at both models side by side it's hard to see the Sport as anything but quality hardware.</figcaption>
 </figure>
@@ -25,7 +25,7 @@ It's black. Just not *that* black. More like 'super dark gray.' Yes, the Space B
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/1eGgI+">
-		<img class="lazy" data-original="http://d.pr/i/1eGgI+" alt="Sport and Watch" />
+		<img class="lazy" src="http://d.pr/i/1eGgI+" data-original="http://d.pr/i/1eGgI+" alt="Sport and Watch" />
 	</a>
 	<figcaption>Two different takes on black</figcaption>
 </figure>
@@ -38,7 +38,7 @@ Sitting at my desk at work the other day, I glanced over to my left wrist and sa
 
 <figure class="wide">
 	<a class="nohover" href="http://d.pr/i/1kr4i+">
-		<img class="lazy" data-original="http://d.pr/i/1kr4i+" alt="Links at work" />
+		<img class="lazy" src="http://d.pr/i/1kr4i+" data-original="http://d.pr/i/1kr4i+" alt="Links at work" />
 	</a>
 	<figcaption>How much longer until I have to get up and do work again?</figcaption>
 </figure>

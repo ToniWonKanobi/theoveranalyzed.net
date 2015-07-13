@@ -1,5 +1,5 @@
 @@ Title=Leaving Squarespace Part II: Modifying Files To Play Nice With Camel  
-@@ Date=2015-06-26 11:00  
+@@ Date=2015-06-26T11:00:00-07:00  
 @@ Description=Almost all of my old posts were based on local Markdown files. I had to modify them slightly in order to work with Camel.  
 @@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, meta  
 @@ Image=http://d.pr/i/1em7V+  
@@ -23,13 +23,13 @@ Before transitioning to Camel, I adopted a hybrid metadata system inspired by bo
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/1lii9+">
-		<img class="lazy" data-original="http://d.pr/i/1lii9+" alt="Old style metadata" />
+		<img class="lazy" src="http://d.pr/i/1lii9+" data-original="http://d.pr/i/1lii9+" alt="Old style metadata" />
 	</a>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/13n6Z+">
-		<img class="lazy" data-original="http://d.pr/i/13n6Z+" alt="Smart Byword" />
+		<img class="lazy" src="http://d.pr/i/13n6Z+" data-original="http://d.pr/i/13n6Z+" alt="Smart Byword" />
 	</a>
 </figure>
 
@@ -41,7 +41,7 @@ Unlike Squarespace, in Camel, having metadata within the actual Markdown files i
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1gomf+">
-		<img class="lazy" data-original="http://d.pr/i/1gomf+" alt="Camel and metadata" />
+		<img class="lazy" src="http://d.pr/i/1gomf+" data-original="http://d.pr/i/1gomf+" alt="Camel and metadata" />
 	</a>
 	<figcaption>Camel looks at the top of documents for <code>@@</code> prefixes, which denote metadata.</figcaption>
 </figure>
@@ -62,7 +62,7 @@ For instance, if I wanted to embed an image with caption in MultiMarkdown Compos
 
 And this is the resultant HTML:
 
-![](http://d.pr/i/1lCHL+)
+<img class="lazy" src="http://d.pr/i/1lCHL+" data-original="http://d.pr/i/1lCHL+" />
 
 Byword, for whatever reason, doesn't offer easy image-captioning. MultiMarkdown Composer was the only way to achieve easy image captions, so I started using it instead of Byword. 
 
@@ -82,7 +82,7 @@ Here's what I found:
 
 ```
 <figure class="figleft">
-	<img class="lazy" data-original="http://www.caseyliss.com/images/2015/3/iphone.png" alt="Steve Jobs debuts the iPhone" width="300" />
+	<img src="http://www.caseyliss.com/images/2015/3/iphone.png" alt="Steve Jobs debuts the iPhone" width="300" />
 	<figcaption>Are You Getting It?</figcaption>
 </figure>
 ```
@@ -97,7 +97,7 @@ Here's what I decided to do:
 
 1. I created a 'starter' post file called `template.md`, which lives in my Camel folder at `~/TheOverAnalyzed/Camel`, and has a [shortcut on the Dock][d 3].
 2. The contents of that template file are thus:
-	![][d 4]
+	<img class="lazy" src="http://d.pr/i/1hwpq+" data-original="http://d.pr/i/1hwpq+" />
 3. When I need to embed a picture, I can just copy and paste the `<figure>` syntax I prefer[^fi] from `template.md`[^lo]
 
 Having the `<figure>` syntax pre-populated makes embedding images easier because it eliminates much of the time associated with writing pure HTML[^ik] Once I wrapped my brain around that, I began the long and tedious process of opening my old posts and switching all the MultiMarkdown 3 image syntax to regular HTML. 
@@ -137,13 +137,13 @@ Out of the box, Camel includes the `markdown-it` plugin [`markdown-it-footnote`]
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/1aazM+">
-		<img class="lazy" data-original="http://d.pr/i/1aazM+" alt="non-parsed text in Byword" />
+		<img class="lazy" src="http://d.pr/i/1aazM+ data-original="http://d.pr/i/1aazM+" alt="non-parsed text in Byword" />
 	</a>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/12gMj+">
-		<img class="lazy" data-original="http://d.pr/i/12gMj+" alt="parsed text in Byword" />
+		<img class="lazy" src="http://d.pr/i/12gMj+" data-original="http://d.pr/i/12gMj+" alt="parsed text in Byword" />
 	</a>
 </figure>
 
@@ -151,7 +151,7 @@ Neither inline footnotes nor multi-paragraph footnotes are supported by Byword. 
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/12mep+">
-		<img class="lazy" data-original="http://d.pr/i/12mep+" alt="footnotes" />
+		<img class="lazy" src="http://d.pr/i/12mep+" data-original="http://d.pr/i/12mep+" alt="footnotes" />
 	</a>
 	<figcaption>While Byword may not be able to understand inline and/or multi-paragraph footnotes, Camel can thanks to <code>markdown-it-footnote</code></figcaption>
 </figure>
@@ -173,7 +173,6 @@ During the two solid weeks I spent transitioning to Camel, most of my time dealt
 [caseyliss 2]: http://www.caseyliss.com/2015/3/13/are-you-getting-it
 [d]: http://d.pr/i/Q2Wv+
 [d 3]: http://d.pr/i/1bOn2+
-[d 4]: http://d.pr/i/1hwpq+
 [d 5]: http://d.pr/i/1gz4O+
 [github]: https://github.com/cliss/camel#files
 [gj]: http://www.engadget.com/2013/06/04/byword-2-0-for-mac-adds-publishing-more/

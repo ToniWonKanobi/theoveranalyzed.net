@@ -29,7 +29,7 @@ And [here's](http://fontsinuse.com/uses/9786/apple-music-tumblr-site) Coles on A
 >As far as I know, this is the first time Apple has used their new San Francisco family as webfonts. Apple Music is also SF’s first use outside the Watch app/OS/logo and 2015 MacBook keyboard. There are two subfamilies of San Francisco. This is Compact, the narrower version intended for the Watch display. I hope they’ll continue to use SF Compact for stuff like this because they own it — making it much more distinctive than Myriad. It’s also more interesting than the standard San Francisco family, which departs less from the Helvetica it replaces.
 
 <figure>
-	<a class="nohover" href="http://assets.fontsinuse.com/static/use-media-items/31/30548/full-2430x1776/5593308d/Apple%20Music%20tumblr.png?resolution=0">
-		<img class="lazy" data-original="http://assets.fontsinuse.com/static/use-media-items/31/30548/full-2430x1776/5593308d/Apple%20Music%20tumblr.png?resolution=0" alt="apple's tumblr" />
+	<a class="nohover" href="http://assets.fontsinuse.com/static/use-media-items/31/30548/full-2430x1776/5593308d/Apple%20Music%20tumblr.png">
+		<img class="lazy" data-original="http://assets.fontsinuse.com/static/use-media-items/31/30548/full-2430x1776/5593308d/Apple%20Music%20tumblr.png" alt="apple's tumblr" />
 	</a>
 </figure>

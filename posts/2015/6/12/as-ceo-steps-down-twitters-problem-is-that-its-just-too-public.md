@@ -1,5 +1,5 @@
 @@ Title=As CEO Steps Down, Twitter's Problem Is That It's Just Too Public  
-@@ Date=2015-06-12 10:54  
+@@ Date=2015-06-12T10:54:00-07:00  
 @@ Link=http://www.theverge.com/2015/6/12/8769349/state-of-twitter-dick-costolo-jack-dorsey-ipo  
 @@ Description=Will an executive changeup really be the answer to Twitter's woe's?  
 @@ Tags=Twitter, social media, Ben Thompson, Dick Costolo  

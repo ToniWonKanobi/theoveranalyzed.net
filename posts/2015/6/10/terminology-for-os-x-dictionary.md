@@ -1,5 +1,5 @@
 @@ Title=Terminology For OS X Dictionary  
-@@ Date=2015-06-10 14:10  
+@@ Date=2015-06-10T14:10:00-07:00
 @@ Link=http://agiletortoise.com/terminology/mac/  
 @@ Description=Here's a better-than-stock dictionary service for OS X.  
 @@ Tags=OS X, utilities, Brett Terpstra, Terminology, Agile Tortoise  
@@ -9,7 +9,7 @@ I've heard of [Terminology for iOS][apple] before, but have never used it myself
 
 <figure class="figright">
 	<a class="nohover" href="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg">
-		<img class="lazy" data-original="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg" alt="mac" />
+		<img class="lazy" src="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg" data-original="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg" alt="mac" />
 	</a>
 	<figcaption>Terminology integrates with OS X's three-finger tap (and Force Touch 'hard press').
 	</figcaption>

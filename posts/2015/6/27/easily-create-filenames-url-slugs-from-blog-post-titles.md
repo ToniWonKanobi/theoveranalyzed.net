@@ -1,5 +1,5 @@
 @@ Title=Easily Create Filenames & URL Slugs From Blog Post Titles 
-@@ Date=2015-06-27 17:26  
+@@ Date=2015-06-27T17:26:00-07:00  
 @@ Description=I wanted a quick and easy way to select the text in the title of a post and create a URL-friendly ASCII string. Here's how I did it (with help).  
 @@ Tags=Blogging, filesystem, AppleScript, scripts  
 @@ Image=http://d.pr/i/155iQ+  
@@ -16,45 +16,21 @@ Easily Create Filenames & URL Slugs From Blog Post Titles
 
 It isn't the longest I've ever dreamt up, but it certainly isn't the shortest, either. If I wanted to create a URL-friendly filename, it would take *several* steps. 
 
-First, I would select and copy the title's text:
-
-<figure>
-	<a class="nohover" href="http://d.pr/i/MDC4+">
-		<img class="lazy" data-original="http://d.pr/i/MDC4+" alt="copying the title text" />
-	</a>
-	<figcaption><code>Cmd + C</code></figcaption>
-</figure>
-
-Next, `Cmd + S` to invoke the save dialog box:
-
-<figure>
-	<a class="nohover" href="http://d.pr/i/BPjq+">
-		<img class="lazy" data-original="http://d.pr/i/BPjq+" alt="invoking the save dialog" />
-	</a>
-	<figcaption><code>Cmd + S</code></figcaption>
-</figure>
-
-Then I paste the previously selected text into the Save As field:
-
-<figure>
-	<a class="nohover" href="http://d.pr/i/14x3d+">
-		<img class="lazy" data-original="http://d.pr/i/14x3d+" alt="pasting the title text" />
-	</a>
-	<figcaption><code>Cmd + V</code></figcaption>
-</figure>
-
-After that, I start manually changing the uppercase letters to lowercase, removing spaces and replacing them with hyphens, and deleting URL-unfriendly characters like `&`:
+1. First, I would select and copy the [title's text][d]
+2. Next, `Cmd + S` to invoke the [save dialog box][d 2]
+3. Then I paste the previously selected text into the [Save As field][d 3]:
+4. After that, I start manually changing the uppercase letters to lowercase, removing spaces and replacing them with hyphens, and deleting URL-unfriendly characters like `&`:
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/15iqM+">
-		<img class="lazy" data-original="http://d.pr/i/15iqM+" alt="starting the process" />
+		<img class="lazy" src="http://d.pr/i/15iqM+" data-original="http://d.pr/i/15iqM+" alt="starting the process" />
 	</a>
 	<figcaption style="font-style: normal;">😐</figcaption>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/184Ox+">
-		<img class="lazy" data-original="http://d.pr/i/184Ox+" alt="this takes forever" />
+		<img class="lazy" src="http://d.pr/i/184Ox+" data-original="http://d.pr/i/184Ox+" alt="this takes forever" />
 	</a>
 	<figcaption style="font-style: normal;">😑</figcaption>
 </figure>
@@ -67,7 +43,7 @@ I tried a few browser searches, but nothing came up. I decided it would be a goo
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> I wrote a Python function that does that as part of a blog-posting script. You could build a script/service from it.</p>&mdash; Dr. Drang (@drdrang) <a href="https://twitter.com/drdrang/status/614814467923120129">June 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The [good](http://www.leancrew.com/all-this/) [doctor](https://twitter.com/drdrang) was kind enough to send me an email with the contents of a Python script. 
+The [good][leancrew] [doctor][twitter] was kind enough to send me an email with the contents of a Python script. 
 
 ```md
 > On June 27, 2015 at 8:34:20 AM, Dr. Drang (drdrang@gmail.com) wrote: 
@@ -148,9 +124,9 @@ Brett Terpstra's suggestion ended up being the winner:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328">June 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Ah. [Slugify](https://github.com/cocur/slugify). I went back and double-checked Dr. Drang's script. It was basically leveraging Slugify.
+Ah. [Slugify][github]. I went back and double-checked Dr. Drang's script. It was basically leveraging Slugify.
 
-After a bit more searching, I found this [page](http://superuser.com/questions/635351/process-clipboard-content-on-mac-os), in which Alex Plumb shared his [AppleScript](http://superuser.com/revisions/635370/2), cribbed from [two](http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html) [other](http://www.j-schell.de/node/269) AppleScripts he found elsewhere online.
+After a bit more searching, I found this [page][superuser], in which Alex Plumb shared his [AppleScript][superuser 2], cribbed from [two][macosxautomation] [other][j-schell] AppleScripts he found elsewhere online.
 
 After some cribbing of my own, here is the contents of my version of Alex's script:
 
@@ -236,7 +212,7 @@ And here's a screenshot of the workflow (it's actually a Service):
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/107X5+">
-		<img class="lazy" data-original="http://d.pr/i/107X5+" alt="finished workflow" />
+		<img class="lazy" src="http://d.pr/i/107X5+" data-original="http://d.pr/i/107X5+" alt="finished workflow" />
 	</a>
 	<figcaption><code>Slugify.workflow</code></figcaption>
 </figure>
@@ -249,7 +225,7 @@ I also assigned a keyboard shortcut to the service, so that I don't have to invo
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1lBKU+">
-		<img class="lazy" data-original="http://d.pr/i/1lBKU+" alt="keyboard shortcut for slugify.workflow" />
+		<img class="lazy" src="http://d.pr/i/1lBKU+" data-original="http://d.pr/i/1lBKU+" alt="keyboard shortcut for slugify.workflow" />
 	</a>
 	<figcaption><code>Cmd + Opt + Shift + R</code></figcaption>
 </figure>
@@ -258,21 +234,30 @@ This couldn't get any easier.
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/10cCw+">
-		<img class="lazy" data-original="http://d.pr/i/10cCw+" alt="select the text" />
+		<img class="lazy" src="http://d.pr/i/10cCw+" data-original="http://d.pr/i/10cCw+" alt="select the text" />
 	</a>
 	<figcaption style="font-style: normal;">😐 → 😊</figcaption>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/11dN3+">
-		<img class="lazy" data-original="http://d.pr/i/11dN3+" alt="and done" />
+		<img class="lazy" src="http://d.pr/i/11dN3+" data-original="http://d.pr/i/11dN3+" alt="and done" />
 	</a>
 	<figcaption style="font-style: normal;">😑 → 😄</figcaption>
 </figure>
 
 # Download
 
-You can download `Slugify.workflow` [here](http://d.pr/f/1lx3X). 
+You can download `Slugify.workflow` [here][d 4]. 
 
-
-
+[d]: http://d.pr/i/MDC4+
+[d 2]: http://d.pr/i/BPjq+
+[d 3]: http://d.pr/i/14x3d+
+[d 4]: http://d.pr/f/1lx3X
+[github]: https://github.com/cocur/slugify
+[j-schell]: http://www.j-schell.de/node/269
+[leancrew]: http://www.leancrew.com/all-this/
+[macosxautomation]: http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html
+[superuser]: http://superuser.com/questions/635351/process-clipboard-content-on-mac-os
+[superuser 2]: http://superuser.com/revisions/635370/2
+[twitter]: https://twitter.com/drdrang
