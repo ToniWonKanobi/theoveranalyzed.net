@@ -18,15 +18,20 @@ Before starting with the rest of the post, you should update Camel's version of 
 Here's how to do that:
 
 1. Navigate to Camel's directory with `cd`:
+	
 	<img class="lazy" data-orginal="http://d.pr/i/126Ir+" src="http://d.pr/i/126Ir+" alt="cd to Camel dir" />
+	
 2. Locate the `package.json`
 3. Modify the line that lists Camel's dependency on `markdown-it` such that the `^` is replaced by the `>`. This makes it so that any subsequent updates to `markdown-it` will be okay with Camel:
 	```sh
 	"markdown-it": "^3.1.0",
 	```
 4. Further navigate to the `node_modules` directory (this is where all of Camel's modules live, such as `handlebars`, `express`, and `markdown-it`):
-	<img class="lazy" data-orginal="http://d.pr/i/118cQ+" alt="Navigating to node_modules" />
+
+	<img class="lazy" data-orginal="http://d.pr/i/118cQ+" alt="Navigating to node_modules" >
+	
 5.  Run the command `npm update markdown-it` and confirm that `markdown-it` has been updated:
+
 	<img class="lazy" data-orginal="http://d.pr/i/10848+" alt="`npm update markdown-it`" />
 	
 You can now proceed with installing these additional `markdown-it` plugins.
@@ -40,13 +45,21 @@ This is useful if you, like me, might want to direct readers to particular secti
 Here's how to enable header anchors:
 
 1. Navigate to Camel's directory with `cd`
+
 	<img class="lazy" data-orginal="http://d.pr/i/126Ir+" alt="Navigate with `cd`" />
+	
 2. Further navigate to the `node_modules` directory (this is where all of Camel's modules live, such as `handlebars`, `express`, and `markdown-it`)
+	
 	<img class="lazy" data-orginal="http://d.pr/i/118cQ++" />
+	
 3. Run the command `npm i markdown-it-anchor --save`[^sa]
+	
 	<img class="lazy" data-orginal="http://d.pr/i/1hluY++" />
+	
 5. Test the installation by checking `package.json` for a new dependency
+	
 	<img class="lazy" data-orginal="http://d.pr/i/1kT9a++"  />
+	
 6. Open `camel.js` and add the following to the Initialization section
 	```
 	.use(require('markdown-it-anchor'), {
@@ -118,13 +131,21 @@ I also installed an additional `markdown-it` plugin called `markdown-it-table-of
 Installing the plugin wasn't difficult, but it took me a while to figure it out:
 
 1. Navigate to Camel's directory with `cd`
+	
 	<img class="lazy" data-orginal="http://d.pr/i/126Ir+" />
+	
 2. Further navigate to the `node_modules` directory
+	
 	<img class="lazy" data-orginal="http://d.pr/i/118cQ+" />
+	
 3. Run the command `npm i markdown-it-table-of-contents --save`
+	
 	<img class="lazy" data-orginal="http://d.pr/i/1eUNj+" />
+	
 5. Test the installation by checking `package.json` for a new dependency
+	
 	<img class="lazy" data-orginal="http://d.pr/i/1lwKV+" />
+	
 6. Open `camel.js` and add the following to the Initialization section
 	```
 	.use(require("markdown-it-table-of-contents"), {
@@ -165,13 +186,21 @@ When I was still using Squarespace, I tried installing a server-side script call
 For whatever reason, I was never able to get it to work with my Squarespace site. I forgot about it actually. But while I was browsing the `markdown-it` plugin database (for problems eventually solved by the two aforementioned plugins in this post), I stumbled upon a `markdown-it` plugin called [`markdown-it-highlightjs`](https://www.npmjs.com/package/markdown-it-highlightjs/), which -- you guessed it -- sets `markdown-it` to use `highlight.js` by default.
 
 1. Navigate to Camel's directory with `cd`
+	
 	<img class="lazy" data-orginal="http://d.pr/i/126Ir+"  />
+	
 2. Further navigate to the `node_modules` directory
+	
 	<img class="lazy" data-orginal="http://d.pr/i/118cQ+" />
+	
 3. Run the command `npm i markdown-it-highlightjs --save`
+	
 	<img class="lazy" data-orginal="http://d.pr/i/14A8k+" />
+	
 5. Test the installation by checking `package.json` for a new dependency
+	
 	<img class="lazy" data-orginal="http://d.pr/i/Z46L+" />
+	
 6. Open `camel.js` and add the following to the Initialization section:
 	```
 	.use(require('markdown-it-highlightjs'))
