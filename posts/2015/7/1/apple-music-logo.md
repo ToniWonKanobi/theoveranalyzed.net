@@ -1,5 +1,5 @@
 @@ Title=Apple Music Logo  
-@@ Date=2015-07-01 14:04  
+@@ Date=2015-07-01T14:04:00-07:00  
 @@ Link=http://fontsinuse.com/uses/9787/apple-music-logo  
 @@ Description=Yesterday's launch of Apple Music ushered in an era of even more SF font usage.  
 @@ Tags=fonts, SF, SF Compact, typefaces, design, Apple, Apple Music  
@@ -11,7 +11,7 @@ The Apple Music logo boldy features SF Compact:
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1b7mC+">
-		<img src="http://d.pr/i/1b7mC+" alt="apple music logo" />
+		<img class="lazy" data-original="http://d.pr/i/1b7mC+" alt="apple music logo" />
 	</a>
 </figure>
 
@@ -20,7 +20,7 @@ Coles also [noted](http://fontsinuse.com/uses/9788/apple-watch-os-watchos) the u
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/12c69+">
-		<img src="http://d.pr/i/12c69+" alt="apple watch font" width="60%" />
+		<img class="lazy" data-original="http://d.pr/i/12c69+" alt="apple watch font" width="60%" />
 	</a>
 	<figcaption>"San Francisco has a vertically-centered contextual alternate colon that appears when placed between numerals."</figcaption>
 </figure>
@@ -30,6 +30,6 @@ And [here's](http://fontsinuse.com/uses/9786/apple-music-tumblr-site) Coles on A
 
 <figure>
 	<a class="nohover" href="http://assets.fontsinuse.com/static/use-media-items/31/30548/full-2430x1776/5593308d/Apple%20Music%20tumblr.png?resolution=0">
-		<img src="http://assets.fontsinuse.com/static/use-media-items/31/30548/full-2430x1776/5593308d/Apple%20Music%20tumblr.png?resolution=0" alt="apple's tumblr" />
+		<img class="lazy" data-original="http://assets.fontsinuse.com/static/use-media-items/31/30548/full-2430x1776/5593308d/Apple%20Music%20tumblr.png?resolution=0" alt="apple's tumblr" />
 	</a>
 </figure>

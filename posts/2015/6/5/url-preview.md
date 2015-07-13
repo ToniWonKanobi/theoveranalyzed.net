@@ -1,5 +1,5 @@
 @@ Title=URL Preview  
-@@ Date=2015-06-05 22:21  
+@@ Date=2015-06-05T22:21:00-07:00  
 @@ Link=http://brettterpstra.com/projects/url-preview/  
 @@ Description=Brett Terpstra just released a nifty URL previewer for all your plain-texters out there.  
 @@ Tags=Brett Terpstra, Markdown, blogging  
