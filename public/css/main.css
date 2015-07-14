@@ -211,6 +211,11 @@ img {
 	max-width: 100%;
 }
 
+figure img {
+	width: inherit;
+	height: inherit;
+}
+
 figure {
     margin: 1em auto 1em auto;
     display: inline-block;

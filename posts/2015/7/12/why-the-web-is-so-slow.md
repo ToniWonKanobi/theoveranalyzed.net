@@ -31,14 +31,14 @@ When iPhone [launched in 2007][wikipedia 4] with a version of the venerable Safa
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/17moY+">
-		<img class="lazy" src="http://d.pr/i/17moY+" data-original="http://d.pr/i/17moY+" alt="The Verge" />
+		<img class="lazy" data-original="http://d.pr/i/17moY+" alt="The Verge" />
 	</a>
 	<figcaption><a href="http://theverge.com/">The Verge</a></figcaption>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/1cIGg+">
-		<img class="lazy" src="http://d.pr/i/1cIGg+" data-original="http://d.pr/i/1cIGg+" alt="iMore" />
+		<img class="lazy" data-original="http://d.pr/i/1cIGg+" alt="iMore" />
 	</a>
 	<figcaption><a href="http://imore.com/">iMore</a></figcaption>
 </figure>
@@ -47,7 +47,7 @@ Because Gruber picked on iMore, I'll do the same. As seen above -- on the [bigge
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/6WhJ+">
-		<img class="lazy" src="http://d.pr/i/6WhJ+" data-original="http://d.pr/i/6WhJ+" alt="Look at all those scripts" />
+		<img class="lazy" data-original="http://d.pr/i/6WhJ+" alt="Look at all those scripts" />
 	</a>
 	<figcaption>I couldn't even fit all of iMore's JavaScript extensions on this screenshot.</figcaption>
 </figure>
@@ -75,14 +75,14 @@ Well enough, I think.
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/14dQN+">
-		<img class="lazy" src="http://d.pr/i/14dQN+" data-original="http://d.pr/i/14dQN+" alt="Regular page load of TheOverAnalyzed" />
+		<img class="lazy" data-original="http://d.pr/i/14dQN+" alt="Regular page load of TheOverAnalyzed" />
 	</a>
 	<figcaption>A run-of-the-mill page load for TheOverAnalyzed</figcaption>
 </figure>
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/14ER8+">
-		<img class="lazy" src="http://d.pr/i/14ER8+" data-original="http://d.pr/i/14ER8+" alt="No-JS page load of TheOverAnalyzed" />
+		<img class="lazy" data-original="http://d.pr/i/14ER8+" alt="No-JS page load of TheOverAnalyzed" />
 	</a>
 	<figcaption>A page load for TheOverAnalyzed with JavaScript disabled</figcaption>
 </figure>
