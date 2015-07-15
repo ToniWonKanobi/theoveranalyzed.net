@@ -24,13 +24,13 @@ body {
     line-height: 1.55;
     font-size: 1em;
     margin: 0 0 0 0;
-    font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Avenir", "Lucida Grande", sans-serif;
-    font-weight: 300; 
+    font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Avenir Next", "Lucida Grande", sans-serif;
+    font-weight: 400; 
     font-style: normal;
 }
 
 i, em {
-    font-weight: 300;
+    font-weight: 400;
     font-style: italic;
 }
 
@@ -86,7 +86,7 @@ a:hover {
 }
 
 .entry a:hover {
-    padding-bottom: 1.5px;	/* Adjusts space in between the "underline" (border-bottom) and the text */
+    padding-bottom: 1px;	/* Adjusts space in between the "underline" (border-bottom) and the text */
 	color: #2e8eef;
 	border-top: 0;
 	border-left: 0;
