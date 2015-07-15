@@ -10,7 +10,7 @@ On the night of April 9th, I stayed up late like a big boy and placed my order f
 
 <figure class="figleft">
 	<a class="nohover" href="http://d.pr/i/1bp1g+">
-		<img class="lazy" src="http://d.pr/i/1bp1g+" data-original="http://d.pr/i/1bp1g+" alt="sigh" />
+		<img class="lazy" data-original="http://d.pr/i/1bp1g+" alt="sigh" />
 	</a>
 	<figcaption>Still.</figcaption>
 </figure>
@@ -33,7 +33,7 @@ I [spent some time][theoveranalyzed 2] with the Watches in April, but no amount 
 
 <figure class="figright">
 	<a class="nohover" href="https://instagram.com/p/2ZlpBWGMyG/">
-		<img class="lazy" src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" data-original="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="spacegray"  />
+		<img class="lazy" data-original="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="spacegray"  />
 	</a>
 	<figcaption>When Space Gray &#8800; Space Gray</figcaption>
 </figure>
@@ -64,7 +64,7 @@ My current watch face of choice is Modular. I tried the analog Utility mode, but
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1aOLh+">
-		<img class="lazy" src="http://d.pr/i/1aOLh+" data-original="http://d.pr/i/1aOLh+" alt="faces" />
+		<img class="lazy" data-original="http://d.pr/i/1aOLh+" alt="faces" />
 	</a>
 	<figcaption>Utility (Left) and Modular (Right)</figcaption>
 </figure>
@@ -99,7 +99,7 @@ I think Apple way-overshot their battery conservation measures. It feels like th
 
 <figure class="figright">
 	<a class="nohover" href="http://d.pr/i/diJa+">
-		<img class="lazy" src="http://d.pr/i/diJa+" data-original="http://d.pr/i/diJa+" alt="left" />
+		<img class="lazy" data-original="http://d.pr/i/diJa+" alt="left" />
 	</a>
 	<figcaption>Ignoring the prompts to enable Power Reserve</figcaption>
 </figure>

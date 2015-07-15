@@ -163,7 +163,7 @@ You're almost done. To test that Camel is indeed up and running, query `localhos
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1lmVC+">
-		<img class="lazy" src="http://d.pr/i/1lmVC+" data-original="http://d.pr/i/1lmVC+" alt="Done" />
+		<img class="lazy" data-original="http://d.pr/i/1lmVC+" alt="Done" />
 	</a>
 </figure>
 

@@ -7,7 +7,7 @@
 
 <figure>
 	<a class="nohover" href="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/The-Iron-Giant.jpg">
-		<img class="lazy" src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/The-Iron-Giant.jpg" data-original="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/The-Iron-Giant.jpg" alt="The Iron Giant" />
+		<img class="lazy" data-original="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/The-Iron-Giant.jpg" alt="The Iron Giant" />
 	</a>
 	<figcaption>A portion of the <a href="https://en.m.wikipedia.org/wiki/The_Iron_Giant#/media/File:The_Iron_Giant_poster.JPG">theatrical release poster</a></figcaption>
 </figure>

@@ -11,7 +11,7 @@ Since moving to [Camel][camel], I have been using [Byword][0402-0003] for all my
 I recently started using another utility from Brett called [SearchLink][0402-0002]. Using that in conjunction with URL Preview makes writing significantly easier and less stressful, because it allows me to *just* write in Markdown, and worry about all the hyperlinks once I'm finished writing. 
 
 <figure>
-	<img class="lazy" src="http://d.pr/i/1glDj+" data-original="http://d.pr/i/1glDj+" alt="sl and url preview" />
+	<img class="lazy" data-original="http://d.pr/i/1glDj+" alt="sl and url preview" />
 	<figcaption>SearchLink and URL Preview were made for each other.</figcaption>
 </figure>
 

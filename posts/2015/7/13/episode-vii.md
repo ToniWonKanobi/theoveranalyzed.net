@@ -9,7 +9,7 @@ Only [*true*][sw] Star Wars nerds will understand this.
 
 <figure>
 	<a class="nohover" href="http://imgs.xkcd.com/comics/episode_vii.png">
-		<img class="lazy" src="http://imgs.xkcd.com/comics/episode_vii.png" data-orginal="http://imgs.xkcd.com/comics/episode_vii.png" alt="xkcd Star Wars" />
+		<img class="lazy" data-orginal="http://imgs.xkcd.com/comics/episode_vii.png" alt="xkcd Star Wars" />
 	</a>
 	<figcaption><a href="http://m.youtube.com/watch?v=X66jntR0MVE">What could have been.</a></figcaption>
 </figure>
