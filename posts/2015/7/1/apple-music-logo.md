@@ -11,7 +11,7 @@ The Apple Music logo boldy features SF Compact:
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1b7mC+">
-		<img class="lazy" data-original="http://d.pr/i/1b7mC+" alt="apple music logo" />
+		<img src="http://d.pr/i/1b7mC+" alt="apple music logo" />
 	</a>
 </figure>
 
@@ -20,7 +20,7 @@ Coles also [noted][fontsinuse] the use of SF Compact in Apple Watch:
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/12c69+">
-		<img class="lazy" data-original="http://d.pr/i/12c69+" alt="apple watch font" width="60%" />
+		<img src="http://d.pr/i/12c69+" alt="apple watch font" width="60%" />
 	</a>
 	<figcaption>"San Francisco has a vertically-centered contextual alternate colon that appears when placed between numerals."</figcaption>
 </figure>
@@ -30,7 +30,7 @@ And [here's][fontsinuse 2] Coles on Apple's [tumblr][tumblr] for Apple Music:
 
 <figure>
 	<a class="nohover" href="http://assets.fontsinuse.com/static/use-media-items/31/30548/full-2430x1776/5593308d/Apple%20Music%20tumblr.png">
-		<img class="lazy" data-original="http://assets.fontsinuse.com/static/use-media-items/31/30548/full-2430x1776/5593308d/Apple%20Music%20tumblr.png" alt="apple's tumblr" />
+		<img src="http://assets.fontsinuse.com/static/use-media-items/31/30548/full-2430x1776/5593308d/Apple%20Music%20tumblr.png" alt="apple's tumblr" />
 	</a>
 </figure>
 

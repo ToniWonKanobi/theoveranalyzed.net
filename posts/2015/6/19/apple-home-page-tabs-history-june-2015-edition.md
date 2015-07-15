@@ -9,7 +9,7 @@ James Dempsey, former software engineer at Apple, shared a picture showing the v
 
 <figure>
 	<a class="nohover" href="http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png">
-		<img class="lazy" data-original="http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png" alt="Apple home page navigation tabs" />
+		<img src="http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png" alt="Apple home page navigation tabs" />
 	</a>
 	<figcaption>15 years of apple.com home page navigation bars</figcaption>
 </figure>

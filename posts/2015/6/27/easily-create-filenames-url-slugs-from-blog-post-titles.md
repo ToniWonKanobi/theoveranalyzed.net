@@ -23,14 +23,14 @@ It isn't the longest I've ever dreamt up, but it certainly isn't the shortest, e
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/15iqM+">
-		<img class="lazy" data-original="http://d.pr/i/15iqM+" alt="starting the process" />
+		<img src="http://d.pr/i/15iqM+" alt="starting the process" />
 	</a>
 	<figcaption style="font-style: normal;">😐</figcaption>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/184Ox+">
-		<img class="lazy" data-original="http://d.pr/i/184Ox+" alt="this takes forever" />
+		<img src="http://d.pr/i/184Ox+" alt="this takes forever" />
 	</a>
 	<figcaption style="font-style: normal;">😑</figcaption>
 </figure>
@@ -212,7 +212,7 @@ And here's a screenshot of the workflow (it's actually a Service):
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/107X5+">
-		<img class="lazy" data-original="http://d.pr/i/107X5+" alt="finished workflow" />
+		<img src="http://d.pr/i/107X5+" alt="finished workflow" />
 	</a>
 	<figcaption><code>Slugify.workflow</code></figcaption>
 </figure>
@@ -225,7 +225,7 @@ I also assigned a keyboard shortcut to the service, so that I don't have to invo
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1lBKU+">
-		<img class="lazy" data-original="http://d.pr/i/1lBKU+" alt="keyboard shortcut for slugify.workflow" />
+		<img src="http://d.pr/i/1lBKU+" alt="keyboard shortcut for slugify.workflow" />
 	</a>
 	<figcaption><code>Cmd + Opt + Shift + R</code></figcaption>
 </figure>
@@ -234,14 +234,14 @@ This couldn't get any easier.
 
 <figure class="twoleft">
 	<a class="nohover" href="http://d.pr/i/10cCw+">
-		<img class="lazy" data-original="http://d.pr/i/10cCw+" alt="select the text" />
+		<img src="http://d.pr/i/10cCw+" alt="select the text" />
 	</a>
 	<figcaption style="font-style: normal;">😐 → 😊</figcaption>
 </figure>
 
 <figure class="tworight">
 	<a class="nohover" href="http://d.pr/i/11dN3+">
-		<img class="lazy" data-original="http://d.pr/i/11dN3+" alt="and done" />
+		<img src="http://d.pr/i/11dN3+" alt="and done" />
 	</a>
 	<figcaption style="font-style: normal;">😑 → 😄</figcaption>
 </figure>

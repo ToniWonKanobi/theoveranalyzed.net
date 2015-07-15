@@ -7,7 +7,7 @@
 
 <figure>
 	<a class="nohover" href="http://www.frerejones.com/assets/Futura-O-anim.gif">
-		<img class="lazy" data-original="http://www.frerejones.com/assets/Futura-O-anim.gif" alt="futurao"  />
+		<img src="http://www.frerejones.com/assets/Futura-O-anim.gif" alt="futurao"  />
 	</a>
 	<figcaption>Frere-Jones: "Upright and sideways: Futura Medium by Paul Renner, Bauer 1927"</figcaption>
 </figure>
@@ -16,7 +16,7 @@ I've been [following][theoveranalyzed] Frere-Jones' blog since it was linked on 
 
 <figure>
 	<a class="nohover" href="http://www.frerejones.com/assets/Horiz&Vert01.gif">
-		<img class="lazy" data-original="http://www.frerejones.com/assets/Horiz&Vert01.gif" alt="weight" />
+		<img src="http://www.frerejones.com/assets/Horiz&Vert01.gif" alt="weight" />
 	</a>
 	<figcaption>Frere-Jones: "Weights, mathematically equal and optically equal"</figcaption>
 </figure>
