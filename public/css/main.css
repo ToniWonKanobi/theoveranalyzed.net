@@ -801,14 +801,14 @@ a.header-anchor:hover {
     display: inline;
     float: right;
     text-transform: uppercase;
-    font-weight: 300; 
+    font-weight: 400; 
 }
 
 .homepage .paginationFooter .nextPage{
     display: inline;
     float: left;
     text-transform: uppercase;
-    font-weight: 300; 
+    font-weight: 400; 
 }
 
 /* @end */
@@ -843,7 +843,7 @@ a.header-anchor:hover {
     text-transform: uppercase;
     font-size: 1em;
     color: #ffffff;
-    font-weight: 300;
+    font-weight: 400;
     text-align: center;
 }
 
@@ -862,7 +862,7 @@ a.header-anchor:hover {
     color: #ffffff;
     margin: 0 .3em 0 .3em;
     vertical-align: -.05em;
-    font-weight: 300;
+    font-weight: ;
 }
 
 /* @end */
