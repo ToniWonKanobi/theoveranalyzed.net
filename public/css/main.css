@@ -306,6 +306,17 @@ figcaption {
 
 
 
+/* @group iFrame */
+
+iframe {
+	width: 300px;
+	margin-left: 140px;
+}
+
+/* @end */
+
+
+
 /* @group Pre & Code */
 
 pre {
@@ -994,6 +1005,7 @@ a.header-anchor:hover {
 		width: 100vw;
 		margin-left: calc((100vw - 325px) / -2);
 	}
+
 }
 
 /* Fix for the too-big Bigfoot button on iPhone 6 Plus */
