@@ -803,14 +803,14 @@ a.header-anchor:hover {
     display: inline;
     float: right;
     text-transform: uppercase;
-    font-weight: 600; 
+    font-weight: 300; 
 }
 
 .homepage .paginationFooter .nextPage{
     display: inline;
     float: left;
     text-transform: uppercase;
-    font-weight: 600; 
+    font-weight: 300; 
 }
 
 /* @end */
@@ -845,7 +845,7 @@ a.header-anchor:hover {
     text-transform: uppercase;
     font-size: 1em;
     color: #ffffff;
-    font-weight: 600;
+    font-weight: 300;
     text-align: center;
 }
 
