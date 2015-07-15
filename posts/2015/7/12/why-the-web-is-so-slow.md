@@ -80,7 +80,7 @@ Well enough, I think.
 	<figcaption>A run-of-the-mill page load for TheOverAnalyzed</figcaption>
 </figure>
 
-<figure>
+<figure id="nojs">
 	<a class="nohover" href="http://d.pr/i/14ER8+">
 		<img src="http://d.pr/i/14ER8+" alt="No-JS page load of TheOverAnalyzed" />
 	</a>

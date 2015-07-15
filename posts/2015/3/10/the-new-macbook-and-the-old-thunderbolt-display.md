@@ -14,7 +14,7 @@ Sadly, I am beginning to think that my efforts will end up being rather fruitles
 
 He wasn't the only one who thought as much:
 
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/ToniWonKanobi">@toniwonkanobi</a> I don&#39;t think it&#39;s possible.</p>&mdash; Jason Snell (@jsnell) <a href="https://twitter.com/jsnell/status/575428012935675904">March 10, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" lang="en"><p><a href="https://twitter.com/ToniWonKanobi">@toniwonkanobi</a> I don&#39;t think it&#39;s possible.</p>&mdash; Jason Snell (@jsnell) <a href="https://twitter.com/jsnell/status/575428012935675904">March 10, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So, the tentative plan is to sell my recently-acquired Thunderbolt display, and choose a suitable replacement (one that will be compatible with the new MacBook).
 

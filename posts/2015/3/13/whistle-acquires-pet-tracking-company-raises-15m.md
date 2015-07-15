@@ -12,7 +12,7 @@ A few months back, I bought a [Whistle Activity Monitor][whistle], in the hopes 
 
 I recall catching wind of Tagg at this year's CES, and I had a rather opinionated take on their prospects. My thoughts were premised on the notion that Whistle GPS was going to be a thing, and based on the web/UI/UX differences between Whistle and Tagg (Tagg being the lesser), I assumed Tagg would flop:
 
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/taggtracker">@taggtracker</a> Soooo <a href="https://twitter.com/verge">@verge</a> featured you for their <a href="https://twitter.com/hashtag/CES2015?src=hash">#CES2015</a> coverage ...&#10;&#10;... And your iPhone app is at least from 2011, if not earlier :/</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/552312590064709634">January 6, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center " lang="en"><p><a href="https://twitter.com/taggtracker">@taggtracker</a> Soooo <a href="https://twitter.com/verge">@verge</a> featured you for their <a href="https://twitter.com/hashtag/CES2015?src=hash">#CES2015</a> coverage ...&#10;&#10;... And your iPhone app is at least from 2011, if not earlier :/</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/552312590064709634">January 6, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The hope is that, a short time in the future, if we ever have to leave Smokey again, he will be *much* more retrievable than he currently might be, without GPS tracking.
 

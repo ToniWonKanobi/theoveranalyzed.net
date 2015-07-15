@@ -42,7 +42,7 @@ Here's how to enable header anchors:
 2. Further navigate to the `node_modules` directory (this is where all of Camel's modules live, such as `handlebars`, `express`, and `markdown-it`)
 3. Run the command `npm i markdown-it-anchor --save`[^sa]
 5. Test the installation by checking `package.json` for a new dependency
-	<img src="http://d.pr/i/1kT9asrc+"  />
+	<img src="http://d.pr/i/1kT9a+" />
 6. Open `camel.js` and add the following to the Initialization section
 	```
 	.use(require('markdown-it-anchor'), {

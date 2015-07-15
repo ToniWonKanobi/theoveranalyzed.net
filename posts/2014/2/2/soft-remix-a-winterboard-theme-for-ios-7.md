@@ -4,8 +4,8 @@
 @@ Tags=jailbreak, iOS, iOS 7, apps, themes, iPhone  
 @@ Image=http://d.pr/i/1dizS+   
 
-<figure>
-	<img src="http://d.pr/i/1d78E+" alt="Soft Remix is one of the earliest available WinterBoard themes for iOS 7" width="63%" />
+<figure class="iphone">
+	<img src="http://d.pr/i/1d78E+" alt="Soft Remix is one of the earliest available WinterBoard themes for iOS 7" />
 	<figcaption>Soft Remix is one of the earliest available WinterBoard themes for iOS 7</figcaption>
 </figure>
 
@@ -22,8 +22,8 @@ It's called [Soft Remix][thebigboss], and it's great. Besides a few glaringly ug
 
 Even apps that have not been specifically drawn by López look great with the custom mask overlaid. 
 
-<figure>
-	<img src="http://d.pr/i/1dizS+" alt="Precious" width="63%" />
+<figure class="iphone">
+	<img src="http://d.pr/i/1dizS+" alt="Precious" />
 	<figcaption>Precious</figcaption>
 </figure>
 
@@ -31,11 +31,11 @@ Soft Remix is a theme worth checking out if you tire of the ugly stock app icons
 
 He tweeted this earlier today:
 
-<blockquote class="twitter-tweet" lang="en"><p>FlatIcons for iOS7 v1.0 has been submitted to <a href="https://twitter.com/macciti">@macciti</a>! Keep an eye out for it in Cydia. Includes over 500 icons!</p>&mdash; FlatIcons (@FlatIcons) <a href="https://twitter.com/FlatIcons/status/430179506523889665">February 3, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" lang="en"><p>FlatIcons for iOS7 v1.0 has been submitted to <a href="https://twitter.com/macciti">@macciti</a>! Keep an eye out for it in Cydia. Includes over 500 icons!</p>&mdash; FlatIcons (@FlatIcons) <a href="https://twitter.com/FlatIcons/status/430179506523889665">February 3, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And [circul8][idownloadblog]'s designer, Andreas Larsen, has been updating his followers about an upcoming theme called Habesha:
 
-<blockquote class="twitter-tweet" lang="en"><p>Almost done - spotify icon + info.plist won&#39;t play nice... <a href="http://t.co/m2gSjQkPdK">pic.twitter.com/m2gSjQkPdK</a></p>&mdash; Andreas Larsen (@andreaslarsendk) <a href="https://twitter.com/andreaslarsendk/status/428945236166180864">January 30, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" lang="en"><p>Almost done - spotify icon + info.plist won&#39;t play nice... <a href="http://t.co/m2gSjQkPdK">pic.twitter.com/m2gSjQkPdK</a></p>&mdash; Andreas Larsen (@andreaslarsendk) <a href="https://twitter.com/andreaslarsendk/status/428945236166180864">January 30, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Though the Themes section in Cydia is full of utter crap, there are probably about 5-10 themes we design-centric nerds can actually love.
 

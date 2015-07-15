@@ -5,7 +5,7 @@
 
 John Siracusa recently linked to an interesting [post][manton] by Manton Reece:
 
-<blockquote class="twitter-tweet" lang="en"><p>Manton on footnotes: <a href="http://t.co/5gw7pCOno9">http://t.co/5gw7pCOno9</a> (I mostly agree.)</p>&mdash; John Siracusa (@siracusa) <a href="https://twitter.com/siracusa/status/583316200383492096">April 1, 2015</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" lang="en"><p>Manton on footnotes: <a href="http://t.co/5gw7pCOno9">http://t.co/5gw7pCOno9</a> (I mostly agree.)</p>&mdash; John Siracusa (@siracusa) <a href="https://twitter.com/siracusa/status/583316200383492096">April 1, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Reece:

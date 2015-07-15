@@ -211,7 +211,6 @@ img {
 
 figure {
     margin: 1em auto 1em auto;
-    display: inline-block;
     text-align: center;
 }
 
@@ -249,6 +248,12 @@ figure.tworight {
 	width: 48%;
 	float: right;
 	display: inline-block;
+}
+
+figure.iphone,
+figure.applewatch {
+	width: 50%;
+	margin: auto;
 }
 
 /* @end */
