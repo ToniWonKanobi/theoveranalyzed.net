@@ -1,5 +1,5 @@
 @@ Title=Ditching Webfonts  
-@@ Date=2015-07-15T11:10:00-07:00  
+@@ Date=2015-07-15T11:41:00-07:00  
 @@ Description=Over the past few years, I've become increasingly interested in design and specifically, typography. Ideal Sans was *it* for me. But maybe Hoefler's webfont is just too much of a drag right now?  
 @@ Tags=web, web design, fonts, typeface, Ideal Sans, webfonts  
 @@ Image=http://d.pr/i/138Zv+  
