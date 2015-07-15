@@ -26,7 +26,7 @@ Here's how to do that:
 4. Further navigate to the `node_modules` directory (this is where all of Camel's modules live, such as `handlebars`, `express`, and `markdown-it`):
 5.  Run the command `npm update markdown-it` and confirm that `markdown-it` has been updated:
 
-	<img class="lazy" data-original="http://d.pr/i/10848+" alt="npm update markdown-it" />
+	<img src="http://d.pr/i/10848+" alt="npm update markdown-it" />
 	
 You can now proceed with installing these additional `markdown-it` plugins.
 
@@ -42,7 +42,7 @@ Here's how to enable header anchors:
 2. Further navigate to the `node_modules` directory (this is where all of Camel's modules live, such as `handlebars`, `express`, and `markdown-it`)
 3. Run the command `npm i markdown-it-anchor --save`[^sa]
 5. Test the installation by checking `package.json` for a new dependency
-	<img class="lazy" data-original="http://d.pr/i/1kT9asrc+"  />
+	<img src="http://d.pr/i/1kT9asrc+"  />
 6. Open `camel.js` and add the following to the Initialization section
 	```
 	.use(require('markdown-it-anchor'), {
@@ -92,7 +92,7 @@ To test that everything worked as it should, `cd` to Camel's main directory and 
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1cpAW+">
-		<img class="lazy" data-original="http://d.pr/i/1cpAW+" alt="anchors working" />
+		<img src="http://d.pr/i/1cpAW+" alt="anchors working" />
 	</a>
 	<figcaption>Permalink ("header anchor") only visible on hover. Perfect.</figcaption>
 </figure>
@@ -102,7 +102,7 @@ Note the `#header-test` appended to the hyperlink (check the status bar on the b
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1lpF3+">
-		<img class="lazy" data-original="http://d.pr/i/1lpF3+" alt="finished anchors" />
+		<img src="http://d.pr/i/1lpF3+" alt="finished anchors" />
 	</a>
 	<figcaption>Success</figcaption>
 </figure>
@@ -117,7 +117,7 @@ Installing the plugin wasn't difficult, but it took me a while to figure it out:
 2. Further navigate to the `node_modules` directory	
 3. Run the command `npm i markdown-it-table-of-contents --save`
 4. Test the installation by checking `package.json` for a new dependency
-	<img class="lazy" data-original="http://d.pr/i/1lwKV+" />
+	<img src="http://d.pr/i/1lwKV+" />
 6. Open `camel.js` and add the following to the Initialization section
 	```
 	.use(require("markdown-it-table-of-contents"), {
@@ -146,7 +146,7 @@ We can test that the plugin worked correctly by modifying a sample post. After l
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1d63D+">
-		<img class="lazy" data-original="http://d.pr/i/1d63D+" alt="toc working" />
+		<img src="http://d.pr/i/1d63D+" alt="toc working" />
 	</a>
 	<figcaption>Success</figcaption>
 </figure>
@@ -161,7 +161,7 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 2. Further navigate to the `node_modules` directory
 3. Run the command `npm i markdown-it-highlightjs --save`
 4. Test the installation by checking `package.json` for a new dependency
-	<img class="lazy" data-original="http://d.pr/i/Z46L+" />
+	<img src="http://d.pr/i/Z46L+" />
 6. Open `camel.js` and add the following to the Initialization section:
 	```
 	.use(require('markdown-it-highlightjs'))
@@ -195,7 +195,7 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 	
 You can test that the plugin is working by editing a sample post and launching a local version of your site.
 
-<img class="lazy" data-original="http://d.pr/i/BuH9+" />
+<img src="http://d.pr/i/BuH9+" />
                                           
 <hr class="small" />
 

@@ -2,7 +2,7 @@
 @@ Date=2015-06-15T09:07:00-07:00  
 @@ Link=https://cottonbureau.com/products/mac-classic  
 @@ Description=Another week, another pick from my favorite t-shirt repository.  
-@@ Tags=Cotton Bureau, t-shirts, apparel  
+@@ Tags=Cotton Bureau, t-shirts, apparel, This Week On Cotton Bureau
 @@ Image=https://cottonbureau.com/img/products/5300_Y5LE_2400.jpg  
 
 <figure class="wide">
