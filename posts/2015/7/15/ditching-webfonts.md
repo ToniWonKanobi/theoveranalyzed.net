@@ -128,7 +128,7 @@ And because I'm in the purging mood, I'm going to try TheOverAnalyzed without al
 
 	During Bigfoot-less situations, I `display: none;`'d footnote links and the footnote section at the end of posts, via [css][d 3] (sort of a ghetto `<noscript>` without jQuery). It's only on the homepage, so on the permalink page for the post, all that stuff is still there.
 [^no]: Nothing's changed. I don't think I'll ever be truly done with my website. 
-[^sf]: I tried [San Francisco][wikipedia 3]), per Craig Hockenberry's [recommendation][furbo], but I think the font name changed since his original post. He warned that might happen, since iOS 9 / 10.11 are still in beta. I'll have to revisit this when both OS's are officially released.
+[^sf]: I tried [San Francisco][wikipedia 3], per Craig Hockenberry's [recommendation][furbo], but I think the font name changed since his original post. He warned that might happen, since iOS 9 / 10.11 are still in beta. I'll have to revisit this when both OS's are officially released.
 
 [bigfootjs]: http://www.bigfootjs.com/
 [d]: http://d.pr/i/1hGao+
