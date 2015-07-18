@@ -15,14 +15,14 @@
 
 <figure>
 <figure class="iphone">
-<figure class="watch">
+<figure class="applewatch">
 <figure class="wide">
 <figure class="figleft">
 <figure class="fright">
 <figure class="twoleft">
 <figure class="tworight">
-	<a class="nohover" href="link">
-		<img src="imagelink" src="imagelink" alt="text" />
+	<a class="nohover" href="contentlink">
+		<img src="imagelink" alt="text" />
 	</a>
 	<figcaption>caption</figcaption>
 </figure>

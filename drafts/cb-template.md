@@ -2,7 +2,7 @@
 @@ Date=  
 @@ Link=  
 @@ Description=  
-@@ Tags=  
+@@ Tags=This Week On Cotton Bureau, Cotton Bureau, T-shirts, Apparel  
 @@ Image=  
 
 <figure class="wide">
