@@ -1,5 +1,6 @@
 @@ Title=This Week On Cotton Bureau  
 @@ Date=2015-06-03T15:24:00-07:00  
+@@ Link=https://cottonbureau.com/products/death-star  
 @@ Description=At least a couple times per month, I'll try to remember to share more of my pics from Cotton Bureau.  
 @@ Tags=Cotton Bureau, t-shirts, This Week On Cotton Bureau  
 @@ Image=https://cottonbureau.com/img/products/5037_cPUA_2400.jpg  
@@ -10,6 +11,8 @@ I'm starting [this][theoveranalyzed] back up (been a while). I haven't been buyi
 	<img src="http://d.pr/i/1hUxR+" alt="deathstar" />
 	<figcaption><a href="https://cottonbureau.com/products/death-star">Death Star</a> by Tim Payne. I also got <a href="https://cottonbureau.com/products/thats-no-moon">this one</a> a few months back.</figcaption>
 </figure>
+
+Here are two other nifty picks for this week:
 
 <figure class="wide">
 	<img src="http://d.pr/i/b5Ao+" alt="falcon" />
