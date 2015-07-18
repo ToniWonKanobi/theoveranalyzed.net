@@ -5,9 +5,6 @@
 	<div class="date">
 		<time class="Linkedtime" dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time>
 		<span class="dot">&bull;</span> <a class="postPermalink" title="Permalink" href="{{permalink}}">Permalink</a>
-		{{#if tags}}
-		<span class="dot">&bull; {{#each tags}} {{{this}}} {{/each}}</span>
-		{{/if}}
 	</div>
 </header>
 {{else}}
@@ -17,8 +14,5 @@
 	<div class="date">
 		<time class="time" dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time>
 	</div>
-	{{#if tags}}
-	<span class="dot">&bull; {{#each tags}} {{{this}}} {{/each}}</span>
-	{{/if}}
 </header>
 {{/if}}

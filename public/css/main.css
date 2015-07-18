@@ -85,9 +85,12 @@ a:hover {
 	transition: all .45s ease-in-out;
 }
 
+a:visited {
+	color: #83bcf5;
+}
+
 .entry a:hover {
     padding-bottom: 1px;	/* Adjusts space in between the "underline" (border-bottom) and the text */
-	color: #2e8eef;
 	border-top: 0;
 	border-left: 0;
 	border-right: 0;
