@@ -29,6 +29,17 @@ body {
     font-style: normal;
 }
 
+.takehome {
+	background: #9ab8d7;
+	color: #fff;
+	border-radius: 5px;
+	padding: 1em 2em 1em 2em;
+	margin: 2em auto 2em auto;
+	font-style: italic;
+	font-size: 1.1em;
+	line-height: 2;
+}
+
 i, em {
     font-weight: 400;
     font-style: italic;

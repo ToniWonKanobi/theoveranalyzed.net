@@ -22,7 +22,7 @@ When I moved from Squarespace to Camel [last month][theoveranalyzed], one of the
 
 I had done it. I made my own website. And I made it look *good*.
 
-# Settling On Sorta-Ideal
+# Settling On Ideal
 
 Over the course of the next few weeks, I was constantly tweaking this and that in CSS.[^no] Up until a few days ago, page load times were a rather trivial matter for me. From the beginning, I knew there would be no way to match John Gruber's lightning-quick [Daring Fireball][daringfireball], which loads in approximately [1 second][d] on desktop *and* mobile. 
 
@@ -48,7 +48,7 @@ How is it possible that a plugin designed to speed page loading could actually m
 
 Less than an hour after that deploy, I had re-edited my posts to remove the Lazy Load image classes and attributes, and I had completely removed the plugin from TheOverAnalyzed. So then: back to square one.
 
-# Trying Other Things
+# Trying Stuff
 
 Yesterday, I experimented more with disabling JavaScript. Without JavaScript enabled, page load times were only marginally faster. [And as I said previously][theoveranalyzed 5], gaining less than a quarter second in page loading times didn't warrant losing Bigfoot footnotes. But while I was experimenting in Safari's `View Page Source` window, I noticed something. In general, TheOverAnalyzed initializes rather quickly, somewhere in the range of 100 ms. However, immediately thereafter -- before loading the next resource -- there was latency of around 800 ms. That "next resource" I speak of is the Ideal Sans webfont, served up via Hoefler & Co's [Cloud.typography][typography 3] backend. 
 
@@ -56,7 +56,7 @@ Yesterday, I experimented more with disabling JavaScript. Without JavaScript ena
 
 Could I fix this?
 
-# Considering The Unthinkable
+# Considering The Inconsiderable
 
 Interestingly, while I was examining TheOverAnalyzed's page source and realizing that the Hoefler webfont was killing my page loading, an important conversation was happening on Twitter. 
 
@@ -124,9 +124,9 @@ Still, I am not sure if I'll stay away from webfonts forever. I haven't taken a 
 And because I'm in the purging mood, I'm going to try TheOverAnalyzed without all JavaScript as well.[^big] I'll probably turn it back on, but I want to enjoy speedy page loads to the fullest extent possible. I've always wondered why Daring Fireball didn't have any fancy JavaScript. Now I know why. Because it's faster without it. And for the web, faster is *always* better.
 
 [^atp]: [ATP reference][overcast].
-[^big]: No Bigfoot footnotes!? I've dedicated entire [posts][theoveranalyzed 7] to how I enabled them in the first place. Oh well. This is probably just temporary. In my defense of completely removing Bigfoot footnotes, know this: I've already hidden non-Bigfoot footnotes on the homepage (`.homepage`). 
+[^big]: No Bigfoot footnotes!? How can this be? (Especially when I've dedicated entire [posts][theoveranalyzed 7] to how I enabled them in the first place.)
 
-	During Bigfoot-less situations, I `display: none;`'d footnote links and the footnote section at the end of posts, via [css][d 3] (sort of a ghetto `<noscript>` without jQuery). It's only on the homepage, so on the permalink page for the post, all that stuff is still there.
+	This is probably just temporary. But only time will tell.
 [^no]: Nothing's changed. I don't think I'll ever be truly done with my website. 
 [^sf]: I tried [San Francisco][wikipedia 3], per Craig Hockenberry's [recommendation][furbo], but I think the font name changed since his original post. He warned that might happen, since iOS 9 / 10.11 are still in beta. I'll have to revisit this when both OS's are officially released.
 
@@ -142,6 +142,7 @@ And because I'm in the purging mood, I'm going to try TheOverAnalyzed without al
 [fontsinuse]: http://fontsinuse.com/uses/1577/instapaper-ios-app
 [furbo]: http://furbo.org/2015/07/09/i-left-my-system-fonts-in-san-francisco/
 [google]: https://encrypted.google.com/fonts
+[hippa]: https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act
 [instagram]: https://instagram.com/p/4XAr5Fwz3M/
 [marco]: http://marco.org
 [overcast]: https://overcast.fm/+CdRcwCsQ/43:24
