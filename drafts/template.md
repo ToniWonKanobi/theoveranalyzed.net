@@ -6,8 +6,7 @@
 @@ Image=  
 @@ Video=  
 
-<div class="topstory">Blah
-</div>
+<div class="topstory">Blah</div>
 
 &#8592;
 
@@ -24,6 +23,6 @@
 	<a class="nohover" href="contentlink">
 		<img src="imagelink" alt="text" />
 	</a>
-	<figcaption>caption</figcaption>
+	<figcaption><a href="">text</a></figcaption>
 </figure>
 

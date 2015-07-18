@@ -68,11 +68,82 @@ Pay close attention to the timeline view. Anything look familiar? Yes, that's *l
 
 So what does this tell me? Well, for starters, it tells me that I'm not crazy. I'm not just imagining that my site was slower than everyone else's that used non-Cloud.typography webfonts. Also, this tells me that I'm not completely incompetent -- I haven't done anything idiotic in designing my website.
 
-Most importantly, however, it tells me this:
+Most importantly, however, it tells me that Cloud.typography has significantly more latency than TypeKit. Or, put another way:
 
-<p class="takehome" id="boom">Cloud.typography has more latency than TypeKit (and probably Google Fonts, too).</p>
+<p class="takehome" id="boom">Cloud.typography is slower than TypeKit</p>
 
+And that's too bad, because Hoefler fonts are the *best* fonts. Typography isn't about WebKit rendering, or CSS wonkery, or `@font-family` limitations: it's about conveying a language. 
 
+# Hoefler & Co.
+
+Over the past three decades, Hoefler & Co (prev. Hoefler & Frere-Jones) has been a prolific font foundry. They have contributed to a wide variety of clients, from everyone's favorite fruit company to Barry. Font nerds: do your self a solid and check out their website. 
+
+Here are some of my favorites:[^acc] 
+
+<figure class="wide">
+	<a class="nohover" href="contentlink">
+		<img src="imagelink" alt="text" />
+	</a>
+	<figcaption><a href="">caption</a></figcaption>
+</figure>
+
+<figure class="wide">
+	<a class="nohover" href="contentlink">
+		<img src="imagelink" alt="text" />
+	</a>
+	<figcaption><a href="">caption</a></figcaption>
+</figure>
+
+<figure class="wide">
+	<a class="nohover" href="contentlink">
+		<img src="imagelink" alt="text" />
+	</a>
+	<figcaption><a href="">caption</a></figcaption>
+</figure>
+
+<figure class="wide">
+	<a class="nohover" href="contentlink">
+		<img src="imagelink" alt="text" />
+	</a>
+	<figcaption><a href="">caption</a></figcaption>
+</figure>
+
+<figure class="wide">
+	<a class="nohover" href="contentlink">
+		<img src="imagelink" alt="text" />
+	</a>
+	<figcaption><a href="">caption</a></figcaption>
+</figure>
+
+<figure class="wide">
+	<a class="nohover" href="contentlink">
+		<img src="imagelink" alt="text" />
+	</a>
+	<figcaption><a href="">caption</a></figcaption>
+</figure>
+
+<figure class="wide">
+	<a class="nohover" href="contentlink">
+		<img src="imagelink" alt="text" />
+	</a>
+	<figcaption><a href="">caption</a></figcaption>
+</figure>
+
+<figure class="wide">
+	<a class="nohover" href="contentlink">
+		<img src="imagelink" alt="text" />
+	</a>
+	<figcaption><a href="">caption</a></figcaption>
+</figure>
+
+<figure class="wide">
+	<a class="nohover" href="contentlink">
+		<img src="imagelink" alt="text" />
+	</a>
+	<figcaption><a href="">caption</a></figcaption>
+</figure>
+
+[^acc]: This just became an Accidental <del>Tech</del> Font <del>Podcast</del> Post. If you want to skip ahead to my final thoughts about Hoefler webfonts, click [here](http://www.theoveranalyzed.net/2015/7/18/ditching-webfonts-part-ii#final-thoughts).
 [^has]: But correct
 [^hippa]: I am inclined to link to his development studio, but since we met in a professional setting, [HIPPA][hippa] would not approve of me doing so.
 [^hy]: The hygienist was most displeased since, as you might imagine, our nerdy conversation was impeding her from moving on to her next patient.
