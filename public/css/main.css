@@ -81,15 +81,9 @@ a {
 
 a:hover {
 	color: #2e8eef;
-	/* -webkit-transition: all .45s ease-in-out;
+	-webkit-transition: all .45s ease-in-out;
 	-moz-transition: all .45s ease-in-out;
-	transition: all .45s ease-in-out;*/
-	-webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
-	-moz-transition: opacity 0.3s, -moz-transform 0.3s;
-	transition: opacity 0.3s, transform 0.3s;
-	-webkit-transform: translateY(10px);
-	-moz-transform: translateY(10px);
-	transform: translateY(10px);
+	transition: all .45s ease-in-out;
 }
 
 .entry a:hover {
@@ -97,10 +91,27 @@ a:hover {
 /*	-webkit-transition: all .17s ease-in-out;
 	-moz-transition: all .17s ease-in-out;
 	transition: all .17s ease-in-out;*/
+	
+	opacity: 100%;
+	-webkit-transition: opacity 0.3s ease-in-out, border-bottom 0.3s ease-in-out;  
+	-moz-transition: opacity 0.3s ease-in-out, border-bottom 0.3s ease-in-out;  
+  	transition: opacity 0.3s ease-in-out, border-bottom 0.3s ease-in-out;  
+  	-webkit-transform: translateY(10px);
+  	-moz-transform: translateY(10px);
+  	transform: translateY(10px);
+	}
 }
 
+.entry a:link,
 .entry a:visited {
-	color: #2e8eef;
+	opacity: 0;
+	-webkit-transition: opacity 0.1s linear, border-bottom .1s linear;
+	-moz-transition: opacity 0.1s linear, border-bottom .1s linear;
+	transition: opacity 0.1s linear, border-bottom .1s linear;
+	-webkit-transform: translateY(0px);
+	-moz-transform: translateY(0px);
+	transform: translateY(0px);
+	
 }
 
 /* No border-bottom on image links on hover */
