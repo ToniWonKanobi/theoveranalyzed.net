@@ -30,18 +30,6 @@ body {
     font-weight: 400;
 }
 
-.takehome {
-	background: #a8c2db;
-	color: #fff;
-	border-radius: 2px;
-	padding: .5em 1em .5em 1em;
-	margin: auto;
-	font-weight: 600;
-	font-style: italic;
-	font-size: 1.1em;
-	line-height: 1.6;
-	text-align: center;
-}
 
 i, em {
     font-style: italic;
@@ -93,16 +81,22 @@ a {
 
 a:hover {
 	color: #2e8eef;
-	-webkit-transition: all .45s ease-in-out;
+	/* -webkit-transition: all .45s ease-in-out;
 	-moz-transition: all .45s ease-in-out;
-	transition: all .45s ease-in-out;
+	transition: all .45s ease-in-out;*/
+	-webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+	-moz-transition: opacity 0.3s, -moz-transform 0.3s;
+	transition: opacity 0.3s, transform 0.3s;
+	-webkit-transform: translateY(10px);
+	-moz-transform: translateY(10px);
+	transform: translateY(10px);
 }
 
 .entry a:hover {
 	border-bottom: 1.5px solid #2e8eef;
-	-webkit-transition: all .17s ease-in-out;
+/*	-webkit-transition: all .17s ease-in-out;
 	-moz-transition: all .17s ease-in-out;
-	transition: all .17s ease-in-out;
+	transition: all .17s ease-in-out;*/
 }
 
 .entry a:visited {
@@ -759,6 +753,19 @@ a.footnote-backref:hover {
 
 .linkarrow {
     color: #9e9e9e;
+}
+
+.takehome {
+	background: #a8c2db;
+	color: #fff;
+	border-radius: 2px;
+	padding: .5em 1em .5em 1em;
+	margin: auto;
+	font-weight: 600;
+	font-style: italic;
+	font-size: 1.1em;
+	line-height: 1.6;
+	text-align: center;
 }
 
 /* @end */
