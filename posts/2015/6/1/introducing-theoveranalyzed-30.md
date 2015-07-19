@@ -12,15 +12,15 @@ In addition to the loads of Tweet-learning passed to me from both [Casey Liss][t
 
 The tentative outline:
 
-### Part I: Getting Started With Camel
+### [Part I: Getting Started With Camel](http://www.theoveranalyzed.net/2015/6/17/leaving-squarespace-part-I-getting-started-with-camel)
 
 In order to start fiddling with Camel, I had to learn some command line tools.
 
-### Part II: Modifying Files To Play Nice With Camel
+### [Part II: Modifying Files To Play Nice With Camel](http://www.theoveranalyzed.net/2015/6/26/leaving-squarespace-part-ii-modifying-files-to-play-nice-with-camel)
 
 Making all my old Markdown files play nice with Camel was easy, but extremely time-consuming.
 
-### Part III: Making Camel My Own
+### [Part III: Making Camel My Own](http://www.theoveranalyzed.net/2015/7/6/leaving-squarespace-part-iii-making-camel-my-own)
 
 Camel came with several nifty Markdown plugins, but I wanted more. 
 
