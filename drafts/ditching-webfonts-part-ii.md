@@ -4,7 +4,7 @@
 @@ Tags=Ditching Webfonts, Cloud.typography, TypeKit, Hoefler, Adobe, web, design  
 @@ Image=http://www.typography.com/images/overviewPageImages/whitney_cell_07.png  
 
-<div class="topstory">What started out as a simple rant about the slowness of the web morphed into a mini-series about webfonts. Be sure to check out the <a href-"http://www.theoveranalyzed.net/2015/7/12/why-the-web-is-so-slow">first</a> and <a href="http://www.theoveranalyzed.net/2015/7/15/ditching-webfonts">second</a> posts on the subject.</div>
+<div class="topstory">What started out as a simple rant about the slowness of the web morphed into a <a href="http://www.theoveranalyzed.net/tags/Ditching%20Webfonts">mini-series</a> about webfonts. Be sure to check out the <a href-"http://www.theoveranalyzed.net/2015/7/12/why-the-web-is-so-slow">first</a> and <a href="http://www.theoveranalyzed.net/2015/7/15/ditching-webfonts">second</a> posts on the subject.</div>
 
 # A Good Point
 
@@ -39,32 +39,32 @@ This afternoon, I thought some more about my alternatives to Cloud.typography. I
 
 Bowler wrote this post in 2013, right as Hoefler was launching its webfont service.[^this] Bowler had nothing to say about latency because the service probably hadn't been live long enough to evaluate such a metric.
 
-In that same post, Bowler linked to three websites, all of which helped beta test Hoefler webfonts before they officially launched Cloud.typography: [kottke.org](http://kottke.org), [Rands in Repose](http://randsinrepose.com), and [SimpleBits](http://simplebits.com).
+In that same post, Bowler linked to three websites, all of which helped beta test Hoefler webfonts before they officially launched [Cloud.typography](http://cloud.typography.com): [kottke.org](http://kottke.org), [Rands in Repose](http://randsinrepose.com), and [SimpleBits](http://simplebits.com).
 
 And of course I checked out their source code as well
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1avLf+">
-		<img src="http://d.pr/i/1avLf+" alt="kottke.org source" />
+	<a class="nohover" href="http://d.pr/i/1k8Wv+">
+		<img src="http://d.pr/i/1k8Wv+" alt="kottke.org source" />
 	</a>
 	<figcaption><a href="http://kottke.org">kottke.org</a></figcaption>
 </figure>
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/15wmR+">
-		<img src="http://d.pr/i/15wmR+" alt="Rands in Repose source" />
+	<a class="nohover" href="http://d.pr/i/14hQq+">
+		<img src="http://d.pr/i/14hQq+" alt="Rands in Repose source" />
 	</a>
 	<figcaption><a href="http://http://randsinrepose.com">Rands in Repose</a></figcaption>
 </figure>
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/12YZx+">
-		<img src="http://d.pr/i/12YZx+" alt="SimpleBits source" />
+	<a class="nohover" href="http://d.pr/i/11Gtm+">
+		<img src="http://d.pr/i/11Gtm+" alt="SimpleBits source" />
 	</a>
 	<figcaption><a href="http://http://simplebits.com">SimpleBits</a></figcaption>
 </figure>
 
-Pay close attention to the timeline view. Anything look familiar? Yes, that's *latency* you see, found in two of the three sites that originally tested Hoefler webfonts. Notice anything else? There is relatively *no* latency for SimpleBits, which -- wouldn't you know it -- now uses TypeKit for the webfont.
+Pay close attention to the timeline view. Anything look familiar? Yes, that's *latency* you see, found in two of the three sites that originally tested Hoefler webfonts. Notice anything else? There is relatively *no* latency for SimpleBits, which -- wouldn't you know it -- *now* uses TypeKit for the webfont.
 
 So what does this tell me? Well, for starters, it tells me that I'm not crazy. I'm not just imagining that my site was slower than everyone else's that used non-Cloud.typography webfonts. Also, this tells me that I'm not completely incompetent -- I haven't done anything idiotic in designing my website.
 
@@ -81,67 +81,33 @@ Over the past three decades, Hoefler & Co (prev. Hoefler & Frere-Jones) has been
 Here are some of my favorites:[^acc] 
 
 <figure class="wide">
-	<a class="nohover" href="contentlink">
-		<img src="imagelink" alt="text" />
+	<a class="nohover" href="http://www.typography.com/images/overviewPageImages/archer-A-07.png">
+		<img src="http://www.typography.com/images/overviewPageImages/archer-A-07.png" alt="Archer" />
 	</a>
-	<figcaption><a href="">caption</a></figcaption>
+	<figcaption><a href="http://www.typography.com/fonts/archer/overview/">Archer</a> is a slab-serif that can be seen in the poster for <a href="http://fontsinuse.com/uses/7035/the-grand-budapest-hotel-poster-and-props">The Grand Budapest Hotel (2014)</a>, as well as in <a href="https://en.wikipedia.org/wiki/Martha_Stewart_Living">Martha Stewart Living</a></figcaption>
 </figure>
 
 <figure class="wide">
-	<a class="nohover" href="contentlink">
-		<img src="imagelink" alt="text" />
+	<a class="nohover" href="http://www.typography.com/images/overviewPageImages/gotham_cell_02.png">
+		<img src="http://www.typography.com/images/overviewPageImages/gotham_cell_02.png" alt="Gotham" />
 	</a>
-	<figcaption><a href="">caption</a></figcaption>
+	<figcaption><a href="http://www.typography.com/fonts/gotham/overview/">Gotham</a> is probably Hoefler & Frere-Jones's most well-known font. What started as GQ commission became an 'everywhere' font. Gotham was featured in <a href="https://en.wikipedia.org/wiki/Gotham_(typeface)#In_the_Obama_campaign">Obama's</a> <a href="http://fontsinuse.com/uses/1603/obama-2008-campaign-posters">2008 presidential campaign</a>.</figcaption>
 </figure>
 
 <figure class="wide">
-	<a class="nohover" href="contentlink">
-		<img src="imagelink" alt="text" />
+	<a class="nohover" href="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png">
+		<img src="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png" alt="Whitney" />
 	</a>
-	<figcaption><a href="">caption</a></figcaption>
+	<figcaption><a href="http://www.typography.com/fonts/whitney/overview/">Whitney</a> was the second-most contender for the webfont for TheOverAnalyzed. If it weren't for all the personal history associated with Ideal Sans, I probably would have chosen Whitney. <a href="http://fontsinuse.com/uses/2384/romney-2012-presidential-campaign">Mitt Romney's 2012 presidential campaign</a> featured this font.</figcaption>
 </figure>
 
-<figure class="wide">
-	<a class="nohover" href="contentlink">
-		<img src="imagelink" alt="text" />
-	</a>
-	<figcaption><a href="">caption</a></figcaption>
-</figure>
+These are just a few of the great fonts available from Hoefler.
 
-<figure class="wide">
-	<a class="nohover" href="contentlink">
-		<img src="imagelink" alt="text" />
-	</a>
-	<figcaption><a href="">caption</a></figcaption>
-</figure>
+# Final Thoughts
 
-<figure class="wide">
-	<a class="nohover" href="contentlink">
-		<img src="imagelink" alt="text" />
-	</a>
-	<figcaption><a href="">caption</a></figcaption>
-</figure>
+If it isn't immediately obvious, I am a big fan of this font foundry. And that's why I wrote this post. If by some strange intervention I am able to get Hoefler's attention, maybe I can use their fonts again. Every since the beginning of June, I view my own webpage all throughout the day. I love seeing that logo I made in Sketch. And, up until a few days ago, I loved seeing Ideal Sans, with all it's humanist influences, adorning my website. I miss it. 
 
-<figure class="wide">
-	<a class="nohover" href="contentlink">
-		<img src="imagelink" alt="text" />
-	</a>
-	<figcaption><a href="">caption</a></figcaption>
-</figure>
-
-<figure class="wide">
-	<a class="nohover" href="contentlink">
-		<img src="imagelink" alt="text" />
-	</a>
-	<figcaption><a href="">caption</a></figcaption>
-</figure>
-
-<figure class="wide">
-	<a class="nohover" href="contentlink">
-		<img src="imagelink" alt="text" />
-	</a>
-	<figcaption><a href="">caption</a></figcaption>
-</figure>
+I hope Cloud.typography webfonts can become less latent. As soon as they do, I'll be back. You can count on that.
 
 [^acc]: This just became an Accidental <del>Tech</del> Font <del>Podcast</del> Post. If you want to skip ahead to my final thoughts about Hoefler webfonts, click [here](http://www.theoveranalyzed.net/2015/7/18/ditching-webfonts-part-ii#final-thoughts).
 [^has]: But correct
