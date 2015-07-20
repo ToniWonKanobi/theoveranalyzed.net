@@ -1,5 +1,5 @@
 @@ Title=Apple Music Logo  
-@@ Date=2015-07-01T14:04:00-07:00  
+@@ Date=2015-07-01T14:04:00  
 @@ Link=http://fontsinuse.com/uses/9787/apple-music-logo  
 @@ Description=Yesterday's launch of Apple Music ushered in an era of even more SF font usage.  
 @@ Tags=fonts, SF, SF Compact, typefaces, design, Apple, Apple Music  

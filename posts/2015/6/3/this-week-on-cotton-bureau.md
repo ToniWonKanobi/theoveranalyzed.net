@@ -1,5 +1,5 @@
 @@ Title=This Week On Cotton Bureau  
-@@ Date=2015-06-03T15:24:00-07:00  
+@@ Date=2015-06-03T15:24:00  
 @@ Link=https://cottonbureau.com/products/death-star  
 @@ Description=At least a couple times per month, I'll try to remember to share more of my pics from Cotton Bureau.  
 @@ Tags=Cotton Bureau, t-shirts, This Week On Cotton Bureau, apparel  

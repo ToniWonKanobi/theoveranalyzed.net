@@ -1,5 +1,5 @@
 @@ Title=The Tesla Model S Just Got Upgraded To LUDICROUS SPEED  
-@@ Date=2015-07-18T11:26:00-07:00  
+@@ Date=2015-07-18T11:26:00  
 @@ Link=http://jalopnik.com/the-tesla-model-s-just-got-upgraded-to-ludicrous-speed-1718577723  
 @@ Description=Quicker than the original McLaren F1. And the 997.1/.2 Turbo. And pretty much everything else.  
 @@ Tags=Tesla, Model S, cars  

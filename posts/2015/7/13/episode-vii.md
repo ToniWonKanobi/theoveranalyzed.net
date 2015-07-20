@@ -1,5 +1,5 @@
 @@ Title=Episode VII  
-@@ Date=2015-07-13T15:09:00-07:00  
+@@ Date=2015-07-13T15:09:00  
 @@ Link=http://xkcd.com/1550/  
 @@ Description=Here's some Monday Star Wars superfan-themed xkcd for you.  
 @@ Tags=Star Wars, Star Wars: The Force Awakens, movies, culture  

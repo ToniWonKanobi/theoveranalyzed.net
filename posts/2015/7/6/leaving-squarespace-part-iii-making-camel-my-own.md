@@ -1,5 +1,5 @@
 @@ Title=Leaving Squarespace Part III: Making Camel My Own  
-@@ Date=2015-07-06T10:27:00-07:00  
+@@ Date=2015-07-06T10:27:00  
 @@ Description=Casey Liss's Camel (as well as Roger Stringer's fork) made for excellent starting points for TheOverAnalyzed. I added some things to make it my own.  
 @@ Tags=Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, meta  
 @@ Image=http://d.pr/i/1d63D+  

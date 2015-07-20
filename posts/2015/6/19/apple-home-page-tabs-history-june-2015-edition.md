@@ -1,5 +1,5 @@
 @@ Title=Apple Home Page Tabs History — June 2015 Edition  
-@@ Date=2015-06-19T12:02:00-07:00  
+@@ Date=2015-06-19T12:02:00  
 @@ Link=http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png  
 @@ Description=Former Apple software engineer James Dempsey shared an image showcasing the various apple.com navigation tabs over the years. 
 @@ Tags=Apple, history, design  

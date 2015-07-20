@@ -1,5 +1,5 @@
 @@ Title=48 Hours With The Apple Watch  
-@@ Date=2015-06-08T08:00:00-07:00  
+@@ Date=2015-06-08T08:00:00  
 @@ Description=One shady Saturday eBay deal later, and I too have a 42 mm piece of glass on my left wrist.  
 @@ Tags=Apple Watch, Apple, review  
 @@ Image=http://d.pr/i/18vPS+  

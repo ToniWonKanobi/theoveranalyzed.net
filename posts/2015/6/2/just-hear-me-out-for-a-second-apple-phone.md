@@ -1,5 +1,5 @@
 @@ Title=Just Hear Me Out Out For A Second: "Apple Phone"  
-@@ Date=2015-06-02T07:25:00-07:00  
+@@ Date=2015-06-02T07:25:00  
 @@ Link=http://www.theverge.com/2015/6/2/8704891/just-hear-me-out-for-a-second-apple-phone  
 @@ Description=iGoodbye, iThings?  
 @@ Tags=Apple, culture, history, iPhone  

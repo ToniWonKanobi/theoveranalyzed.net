@@ -1,5 +1,5 @@
 @@ Title=Leaving Squarespace Part I: Getting Started With Camel  
-@@ Date=2015-06-17T17:02:00-07:00  
+@@ Date=2015-06-17T17:02:00  
 @@ Description=Getting Camel setup required some command-line hackery, as well as lots of help from Casey Liss and Roger Stringer.  
 @@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, meta  
 @@ Image=http://d.pr/i/1go0O+   

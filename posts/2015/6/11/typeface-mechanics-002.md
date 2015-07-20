@@ -1,5 +1,5 @@
 @@ Title=Typeface Mechanics: 002  
-@@ Date=2015-06-11T10:51:00-07:00  
+@@ Date=2015-06-11T10:51:00  
 @@ Link=http://www.frerejones.com/blog/typeface-mechanics-002/  
 @@ Description=Tobias Frere-Jones' latest blog post examines "degrees of weight" in typefaces.  
 @@ Tags=design, fonts, typefaces, Futura, Tobias Frere-Jones  
