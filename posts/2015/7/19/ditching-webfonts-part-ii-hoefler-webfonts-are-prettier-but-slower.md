@@ -114,21 +114,21 @@ Here are some of my favorites:[^acc]
 	<a class="nohover" href="http://www.typography.com/images/overviewPageImages/archer-A-07.png">
 		<img src="http://www.typography.com/images/overviewPageImages/archer-A-07.png" alt="Archer" />
 	</a>
-	<figcaption><a href="http://www.typography.com/fonts/archer/overview/">Archer</a> is a slab-serif, featured in the poster for <a href="http://fontsinuse.com/uses/7035/the-grand-budapest-hotel-poster-and-props">The Grand Budapest Hotel (2014)</a>, as well as in the <a href="https://en.wikipedia.org/wiki/Martha_Stewart_Living">Martha Stewart Living</a> magazine.</figcaption>
+	<figcaption class="long"><a href="http://www.typography.com/fonts/archer/overview/">Archer</a> is a slab-serif, featured in the poster for <a href="http://fontsinuse.com/uses/7035/the-grand-budapest-hotel-poster-and-props">The Grand Budapest Hotel (2014)</a>, as well as in the <a href="https://en.wikipedia.org/wiki/Martha_Stewart_Living">Martha Stewart Living</a> magazine.</figcaption>
 </figure>
 
 <figure class="wide">
 	<a class="nohover" href="http://www.typography.com/images/overviewPageImages/gotham_cell_02.png">
 		<img src="http://www.typography.com/images/overviewPageImages/gotham_cell_02.png" alt="Gotham" />
 	</a>
-	<figcaption><a href="http://www.typography.com/fonts/gotham/overview/">Gotham</a> is probably Hoefler & Frere-Jones's most well-known font. What started as GQ commission became an 'everywhere' font. Notably, Gotham was featured in <a href="https://en.wikipedia.org/wiki/Gotham_(typeface)#In_the_Obama_campaign">Obama's</a> <a href="http://fontsinuse.com/uses/1603/obama-2008-campaign-posters">2008 and 2012 presidential campaigns</a>.</figcaption>
+	<figcaption class="long"><a href="http://www.typography.com/fonts/gotham/overview/">Gotham</a> is probably Hoefler & Frere-Jones's most well-known font. What started as GQ commission became an 'everywhere' font. Notably, Gotham was featured in <a href="https://en.wikipedia.org/wiki/Gotham_(typeface)#In_the_Obama_campaign">Obama's</a> <a href="http://fontsinuse.com/uses/1603/obama-2008-campaign-posters">2008 and 2012 presidential campaigns</a>.</figcaption>
 </figure>
 
 <figure class="wide">
 	<a class="nohover" href="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png">
 		<img src="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png" alt="Whitney" />
 	</a>
-	<figcaption><a href="http://www.typography.com/fonts/whitney/overview/">Whitney</a> was the runner-up font for TheOverAnalyzed. If it weren't for all the <a href="http://www.theoveranalyzed.net/2015/7/15/ditching-webfonts#becoming-ideal">personal history</a> associated with Ideal Sans, I probably would have chosen Whitney instead. <a href="http://fontsinuse.com/uses/2384/romney-2012-presidential-campaign">Mitt Romney's 2012 presidential campaign</a> featured this font.</figcaption>
+	<figcaption class="long"><a href="http://www.typography.com/fonts/whitney/overview/">Whitney</a> was the runner-up font for TheOverAnalyzed. If it weren't for all the <a href="http://www.theoveranalyzed.net/2015/7/15/ditching-webfonts#becoming-ideal">personal history</a> associated with Ideal Sans, I probably would have chosen Whitney instead. <a href="http://fontsinuse.com/uses/2384/romney-2012-presidential-campaign">Mitt Romney's 2012 presidential campaign</a> featured this font.</figcaption>
 </figure>
 
 These are just a [few][typography] of the [great][typography 2] [fonts][typography 3] [available][typography 4] from [Hoefler][typography 5]. And unfortunately, I can't use any of them.

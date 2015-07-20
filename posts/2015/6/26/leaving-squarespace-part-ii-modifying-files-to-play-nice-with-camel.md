@@ -153,7 +153,7 @@ Neither inline footnotes nor multi-paragraph footnotes are supported by Byword. 
 	<a class="nohover" href="http://d.pr/i/12mep+">
 		<img src="http://d.pr/i/12mep+" alt="footnotes" />
 	</a>
-	<figcaption>While Byword may not be able to understand inline and/or multi-paragraph footnotes, Camel can thanks to <code>markdown-it-footnote</code></figcaption>
+	<figcaption class="long">While Byword may not be able to understand inline and/or multi-paragraph footnotes, Camel can thanks to <code>markdown-it-footnote</code></figcaption>
 </figure>
 
 <hr class="small" />
