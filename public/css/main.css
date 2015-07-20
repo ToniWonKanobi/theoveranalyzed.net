@@ -1,15 +1,14 @@
-/* @group Main Page Spacing */
-
-.main {
-  	margin-top: 8em;
-  	margin-bottom: 12em;
-  	min-height: 25vh; 	/* This makes it so that the page content is a minimum height. This way, the blue bart at the bottom of the page is not 'floating'above the bottom of the window on short pages like `/404` or `/about` */
-}
+/* @group Container */
 
 .content {
     text-align: left;
     max-width: 580px;
-    margin: 1em auto 1em auto;
+    margin: auto;
+}
+
+.main {
+  	margin: 8em auto 12em auto;
+  	min-height: 25vh; 	/* This makes it so that the page content is a minimum height. This way, the blue bart at the bottom of the page is not 'floating'above the bottom of the window on short pages like `/404` or `/about` */
 }
 
 /* @end */
@@ -19,7 +18,6 @@
 /* @group Text */
 
 body {
-    background-color:#FFFFFF;
     color: #545454; 
     line-height: 1.55;
     font-size: 1em;
@@ -30,7 +28,6 @@ body {
     font-weight: 400;
 }
 
-
 i, em {
     font-style: italic;
 }
@@ -40,7 +37,7 @@ b, strong {
 }
 
 h1, h2, h3, h4, h5 {
-    margin: 1.2em 0em -.3em 0;
+    margin: 1.2em auto -0.3em auto;
     font-weight: 600;
 }
 
@@ -69,11 +66,6 @@ h2:nth-child(1) {
    margin-top: 1em;
 }
 
-/*h1.pages,
-h1.tagheaders {
-   margin-top: 2em;
-}*/
-
 a {
 	text-decoration: none;
 	color: #3f70a2;
@@ -81,40 +73,17 @@ a {
 
 a:hover {
 	color: #2e8eef;
-	-webkit-transition: all .45s ease-in-out;
-	-moz-transition: all .45s ease-in-out;
-	transition: all .45s ease-in-out;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
 }
 
+/* This is so that the 'link underlines' only show up in the body text */
 .entry a:hover {
 	border-bottom: 1.5px solid #2e8eef;
-/*	-webkit-transition: all .17s ease-in-out;
-	-moz-transition: all .17s ease-in-out;
-	transition: all .17s ease-in-out;*/
-	
-	opacity: 100%;
-	-webkit-transition: opacity 0.3s ease-in-out, border-bottom 0.3s ease-in-out;  
-	-moz-transition: opacity 0.3s ease-in-out, border-bottom 0.3s ease-in-out;  
-  	transition: opacity 0.3s ease-in-out, border-bottom 0.3s ease-in-out;  
-  	-webkit-transform: translateY(10px);
-  	-moz-transform: translateY(10px);
-  	transform: translateY(10px);
-	}
 }
 
-.entry a:link,
-.entry a:visited {
-	opacity: 0;
-	-webkit-transition: opacity 0.1s linear, border-bottom .1s linear;
-	-moz-transition: opacity 0.1s linear, border-bottom .1s linear;
-	transition: opacity 0.1s linear, border-bottom .1s linear;
-	-webkit-transform: translateY(0px);
-	-moz-transform: translateY(0px);
-	transform: translateY(0px);
-	
-}
-
-/* No border-bottom on image links on hover */
+/* No border-bottom on image links */
 a.nohover:hover { 
     background: none;
     border: none;
@@ -152,42 +121,12 @@ blockquote {
    background-color: #3f70a2;
 }
 
-.content .header {
+.content .header,
+.content .header a {
+	margin: auto;
     text-align: center;
-    border-bottom-style: none;
-	border-bottom-color: rgb(228, 228, 228);
-	border-bottom-width: 0.3em;
-}
-
-/*.content .header .siteTitle {
-    font-size: 3em;
-    font-weight: bold;
-    width: 85%;
-    margin-top: .4em;
-    margin-bottom: 0em;
-    display: inline-block;
-}*/
-
-.content .header .siteTitle img {
-	width: 80%;
-	margin: 1em auto auto auto;
-}
-
-.content .header .siteTitle a {
     text-decoration: none;
-    color: black;
-}
-
-.content .header .siteTitle a:visited {
-    color: black;
-}
-
-.content .header .siteByline,
-.content .header .siteByline a,
-.content .header .siteByline a:hover {
-    font-size: .95em;
-    color: #ffffff;
-    margin: -1.75em auto auto auto;
+    color: #fff;
     border: 0;
     border-width: 0;
     -webkit-transition: none;
@@ -195,25 +134,14 @@ blockquote {
     transition: none;
 }
 
-/* @group Casey's Default Top Navigation */
+.content .header .siteTitle img {
+	width: 80%;
+	margin: 2em auto -1.5em auto;
+}
 
-/*.content .header nav,
-.content .header nav a {
-    text-transform: uppercase;
-    font-size: 1em;
-    color: #ffffff;
-    margin-bottom: 1em;
-    margin-top:  -.1em;
-    font-weight: 600;
-}*/
-
-/*.header .dot {
-    font-weight: bold;
-    margin: 0 0.5em 0 .7em;
-    color: #ffffff !important;
-}*/
-
-/* @end */
+.content .header .siteByline {
+    font-size: .95em;
+}
 
 /* @end */
 
@@ -275,21 +203,12 @@ figure.applewatch {
 }
 
 figcaption {
-    margin: .5em auto auto auto;
+    margin: .5em auto;
     text-align: center;
     font-style: italic;
-    font-size:  .8em;
+    font-size: 0.8em;
     color: #9e9e9e;
-    width: 65%;
-}
-
-.center {
-    display: inline;
-    margin-top: inherit;
-    margin-bottom: 3em;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+    width: 60%;
 }
 
 /* Only in-use on the About page (/about) */
@@ -297,26 +216,15 @@ figcaption {
     float: right;
     display: inline;
     width: 45%;
-    margin: 0em auto auto auto;
+    margin: 0em auto;
 }
 
-/* @group Casey's Center Images */
-
-/*.center img.left {
-    margin-right: 2em;
+/* Makes figure.wide images stay within the
+horizontal container width on the homepage */
+.homepage figure.wide {
+	width: 100%;
+	margin-left: auto;
 }
-
-.center img.right {
-    margin-left: 2em;
-}
-
-.center img.wide {
-	width: 140%; 
-	max-width: 140%;
-	margin: 0 -20%;
-}*/
-
-/* @end */
 
 /* @end */
 
@@ -333,7 +241,6 @@ pre {
     -moz-border-radius: 3px;
     border-radius: 3px;
     background-color: #eee;
-/*  border: 1px solid #ddd; This is for Byword-style code highlighting  */
 }
 
 code {
@@ -349,6 +256,7 @@ code {
 /*  border: 1px solid #ddd;  */	
 }
 
+/* This fixes the wonkey border-bottom hover on code blocks */
 a code:hover {
 	padding-bottom: 2px;
 }
@@ -390,31 +298,18 @@ pre code {
    /*list-style: circle;*/
 }
 
-.content ul {
+.content ul,
+.content ol {
 	padding-left: 1em;
 	margin: 1em 0 1em .5em;
    /*list-style: circle;*/
 }
 
-.content ol {
-    padding-left: 1em;
-    margin: 1em 0 1em .5em;
-}
-
-.homepage .article th {
-    padding: 0 0.5em 0 0.5em
-}
-
-.homepage .article td {
-    padding: 0 0.5em 0 0.5em;
-}
-
-.post th {
-    padding: 0 0.5em 0 0.5em;
-}
-
+.homepage .article th,
+.homepage .article td,
+.post th,
 .post td {
-    padding: 0 0.5em 0 0.5em;
+    padding: 0 0.5em 0 0.5em
 }
 
 table.sortable thead {
@@ -430,11 +325,9 @@ table.sortable thead {
 .homepage hr,
 .post hr {
     width: 100%;
-    margin-top: 1.7em;
-    margin-bottom: 1.7em;
+    margin-top: 1.7em auto 1.7em auto;
     border-radius: 1px;
     border: 1px solid #ddd;
-    background-color: #ddd;
 }
 
 .homepage hr.small,
@@ -442,9 +335,6 @@ table.sortable thead {
     width: 60%;
     margin-top: 2.5em;
     margin-bottom: 2.5em;
-    border-radius: 1px;
-    border: 1px solid #ddd;
-    background-color: #ddd;
 }
 
 /* @end */
@@ -453,40 +343,24 @@ table.sortable thead {
 
 /* @group Homepage */
 
-.homepage .entry {
-	margin-bottom:  6em;
-}
-
-.homepage .postHeader h1 {
+.homepage .postHeader h1,
+.homepage .postHeaderLinked h1 {
     font-size: 2em;
     font-weight: 700;
     line-height: 1.2;
     margin-bottom: 0em;
 }
 
-/*.homepage .postHeader h1 img {
-	width: 1.5em;
-	height: 1.5em;
-	top: 0.4em; 
-	position: relative;
-}*/
-
-.homepage .postHeader {
-    margin-top: 4em;
-    margin-bottom: 1em;
+.homepage .postHeaderLinked h1 {
+    font-size: 1.5em;
 }
 
+.homepage .postHeader,
 .homepage .postHeaderLinked {
     margin-top: 4em;
     margin-bottom: 1em;
 }
 
-.homepage .postHeaderLinked h1 {
-    font-size: 1.5em;
-    font-weight: 700;
-    line-height: 1.2;
-    margin-bottom: 0em;
-}
 
 .homepage header.postHeader,
 .homepage header.postHeaderLinked {
@@ -566,43 +440,32 @@ table.sortable thead {
     text-align: left;
 }
 
-/* Makes figure.wide images stay within the
-horizontal container width on the homepage */
-.homepage figure.wide {
-	width: 100%;
-	margin-left: auto;
-}
-
 .homepage .day .daybreak {
-    margin-top: 0em;
-    margin-bottom:  6em;
-    margin-left: -10%;
-    border: 0;
+    width: 120%;
+    margin: 6em auto 6em -10%;
     border-radius: 2px;
-	color: #ddd;
 	background-color: #ddd;
-	height: .3em;
-	width: 120%;
+	height: 0.2em;
+	
 }
 
 /* @end */
 
 
 
-/* @group Posts */
-
-.post .postHeader h1 {
-    text-align: center;
-    margin-bottom: 0em;
-    line-height: 1.5;
-    font-size: 2.15em;
-    font-weight: 700;
-}
+/* @group Posts Pages */
 
 .post .postHeader {
     margin-top: 3em;
     margin-bottom: 4em;
     text-align: center;
+}
+
+.post .postHeader h1 {
+    margin-bottom: 0em;
+    line-height: 1.5;
+    font-size: 2.15em;
+    font-weight: 700;
 }
 
 .post .postHeader a {
@@ -616,21 +479,7 @@ horizontal container width on the homepage */
     font-weight: 700;
 }
 
-.post .postHeaderLinked {
-    margin-bottom: 1em;
-}
-
-.post .postHeaderLinked .postPermalink {
-    display: none;
-}
-
-/*.post .postHeader .postPermalink img {
-	width: 1.5em;
-	height: 1.5em;
-	top: 5px; 
-	position: relative;
-}*/
-
+.post .postHeaderLinked .postPermalink,
 .post .postHeaderLinked .dot {
     display: none;
 }
@@ -667,38 +516,13 @@ horizontal container width on the homepage */
 
 
 
-/* @group Tags */
-
-/* From Roger Stringer's fork of Camel */
-
-/* p.taggedIn {
-	padding: 12px 10px;
-	background: #eee;
-	border: 1px solid #ccc;
-	margin-top: 25px;
-	font-size: 14px;
-}
-
-p.taggedIn a {
-	font-size: 14px;
-}*/
-
-/* @end */
-
-
-
 /* @group Footnotes */
 
 /* Turned off until I can fix markdown-it-footnote */
 .main hr.footnotes-sep {
-    margin-left: 0;
-    margin-bottom: 1.5em;
-    margin-top: 5em;
     width: 10em;
-    border-style: solid;
-    border-width: 0 0 0 0;
-/*	border-width: 2px 0 0 0; */ 
-    border-color: #ddd;
+    margin: 5em auto 1.5em 0;
+    border: 1px solid #ddd;
     display: none;
 }
 
@@ -714,14 +538,8 @@ p.taggedIn a {
 
 /* Prevents footnote content from appearing 
 	on the homepage */
-.homepage section.footnotes {
-    display: none;
-}
-
-.homepage .article hr.footnotes-sep {
-    display: none;
-}
-
+.homepage section.footnotes,
+.homepage .article hr.footnotes-sep,
 .homepage .footnote-ref {
     display: none;
 }
@@ -771,7 +589,6 @@ a.footnote-backref:hover {
 	color: #fff;
 	border-radius: 2px;
 	padding: .5em 1em .5em 1em;
-	margin: auto;
 	font-weight: 600;
 	font-style: italic;
 	font-size: 1.1em;
@@ -798,8 +615,6 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
 .header-anchor {
     color: #3f70a2;
     opacity: 0;
-    position: absolute;
-    padding-left: 5px;
 }
 
 a.header-anchor:hover {
@@ -813,23 +628,22 @@ a.header-anchor:hover {
 /* @group Pagination */
 
 .homepage .paginationFooter {
+	margin-top: -2em;
     display: block;
     width: 100%;
-    margin-bottom: 14em; /* Fixes the stupid section */
+    text-transform: uppercase;
+    font-weight: 400; 
+    font-size: 1.1em;
 }
 
 .homepage .paginationFooter .previousPage {
     display: inline;
     float: right;
-    text-transform: uppercase;
-    font-weight: 400; 
 }
 
 .homepage .paginationFooter .nextPage{
     display: inline;
     float: left;
-    text-transform: uppercase;
-    font-weight: 400; 
 }
 
 /* @end */
@@ -855,34 +669,31 @@ a.header-anchor:hover {
 .navFooter {
     background-color: #3f70a2;
     height: 165px;
-}
-
-.nav {
-    padding-top: 3em;
-    margin-bottom: 1em;
-    text-transform: uppercase;
-    font-size: 1em;
     color: #ffffff;
     font-weight: 400;
     text-align: center;
 }
 
+.nav,
 .nav a {
+	text-transform: uppercase;
+    padding-top: 2.5em;
+    margin-bottom: 1em;
     color: #ffffff;
+    font-size: 1.1em;
 }
 
 .nav a:hover {
     color: #8abef4;
-    -webkit-transition: all .3s ease-out;
-    -moz-transition: all .3s ease-out;
-    transition: all .3s ease-out;
+    -webkit-transition: color .3s ease-out;
+    -moz-transition: color .3s ease-out;
+    transition: color .3s ease-out;
 }
 
 .nav .dot {
-    color: #ffffff;
     margin: 0 .3em 0 .3em;
     vertical-align: -.05em;
-    font-weight: ;
+    color: #ffffff;
 }
 
 /* @end */
@@ -934,18 +745,13 @@ a.header-anchor:hover {
 		min-height: 10vh;
 	}
 	
-/*	.content .header .siteTitle {
-        width: 100%;
-	}*/
-	
 	.content .header .siteTitle img {
 	    width: 100%;
+	    margin-top: 1em;
 	}
 	
 	.content .header .siteByline {
-	    font-size: .95em;
-	    color: #ffffff;
-	    margin: -1.75em auto auto auto;
+	    margin: auto;
 	}
 	
 	.homepage .postHeader h1 {
@@ -953,7 +759,7 @@ a.header-anchor:hover {
 	}
 	
 	.homepage .day .daybreak {
-		margin-top: 0;
+		margin-top: 6em;
 		margin-bottom: 6em;
 	    margin-left: -5%;
 		width: 110%;
@@ -982,12 +788,12 @@ a.header-anchor:hover {
 	}
 	
 	.nav {
-	    padding-top: 2em;
+	    padding-top: 1.75em;
 	    margin-bottom: .5em;
 	}	
 	
 	.copyright {
-	    margin: 1.2em auto auto auto;
+	    margin: 1.2em auto;
 	    font-size: 0.9em;
 	}
 	
@@ -1029,23 +835,5 @@ a.header-anchor:hover {
 }
 
 /* @end */
-
-/* @end */
-
-
-
-/* @group iFrame Experiment */
-
-iframe {
-	width: 300px;
-	margin-left: 140px;
-}
-
-@media all and (max-width: 580px) {
-	iframe {
-		width: auto;
-		margin-left: auto;
-	}
-}
 
 /* @end */
