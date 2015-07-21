@@ -69,13 +69,16 @@ h2:nth-child(1) {
 a {
 	text-decoration: none;
 	color: #3f70a2;
-	-webkit-transition: all .3s ease-in-out;
-	-moz-transition: all .3s ease-in-out;
-	transition: all .3s ease-in-out;
 }
 
 a:hover {
 	color: #2e8eef;
+}
+
+.entry a {
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
 }
 
 /* This is so that the 'link underlines' only show up in the body text */
@@ -357,23 +360,20 @@ hr.small {
     margin-bottom: 2.5em;
 }
 
+.homepage .day .daybreak {
+    width: 120%;
+    margin: 6em auto 6em -10%;
+    border-radius: 2px;
+	background-color: #ddd;
+	height: 0.2em;
+	
+}
+
 /* @end */
 
 
 
 /* @group Homepage */
-
-.homepage .postHeader h1,
-.homepage .postHeaderLinked h1 {
-    font-size: 1.75em;
-    font-weight: 700;
-    line-height: 1.2;
-    margin-bottom: 0em;
-}
-
-.homepage .postHeaderLinked h1 {
-    font-size: 1.5em;
-}
 
 .homepage .postHeader,
 .homepage .postHeaderLinked {
@@ -381,66 +381,62 @@ hr.small {
     margin-bottom: 1em;
 }
 
-
 .homepage header.postHeader,
 .homepage header.postHeaderLinked {
 	margin-top: 5em;
 }
 
-.homepage a.post-title {
+.homepage .postHeader h1,
+.homepage .postHeaderLinked h1 {
     font-weight: 700;
-    line-height: 1.5;
-    margin-bottom: .2em;
-    color: #545454;
+    line-height: 1.2;
+    margin-bottom: 0em;
 }
 
-.homepage a.post-title:hover {
-    color: #2e8eef;
-    -webkit-transition: all .3s ease-out;
-    -moz-transition: all .3s ease-out;
-    transition: all .3s ease-out;
+.homepage .postHeader h1 {
+	font-size: 1.75em;
 }
 
+.homepage .postHeaderLinked h1 {
+    font-size: 1.5em;
+}
+
+.homepage a.post-title,
 .homepage a.post-title.linked {
-    font-size: 1em;
     font-weight: 700;
     line-height: 1.5;
     margin-bottom: .2em;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.homepage a.post-title {
+	color: #545454;
+}
+
+.homepage a.post-title.linked  {
     color: #3f70a2;
 }
 
+.homepage a.post-title:hover, 
 .homepage a.post-title.linked:hover {
-    color: #2e8eef;
-    -webkit-transition: all .3s ease-out;
-    -moz-transition: all .3s ease-out;
-    transition: all .3s ease-out;
+	color: #2e8eef;
 }
 
-.homepage .postHeader .postPermalink {
-    font-size: .85em;
-}
-
+.homepage .postHeader .postPermalink,
 .homepage .postHeaderLinked .postPermalink {
     font-size: .85em;
 }
 
-.homepage .postHeader .postDate {
-    font-size: .85em;
-    margin: 1em 0 1em 0;
-    display: block;
-}
-
+.homepage .postHeader .postDate,
 .homepage .postHeaderLinked .postDate {
     font-size: .85em;
     margin: 1em 0 1em 0;
     display: block;
 }
 
-.homepage .time {
-	color: #9e9e9e;
-	font-size: .85em;
-}
-
+.homepage .time,
 .homepage .Linkedtime {
 	color: #9e9e9e;
 	font-size: .85em;
@@ -460,15 +456,6 @@ hr.small {
     text-align: left;
 }
 
-.homepage .day .daybreak {
-    width: 120%;
-    margin: 6em auto 6em -10%;
-    border-radius: 2px;
-	background-color: #ddd;
-	height: 0.2em;
-	
-}
-
 /* @end */
 
 
@@ -481,22 +468,39 @@ hr.small {
     text-align: center;
 }
 
-.post .postHeader h1 {
-    margin-bottom: 0em;
-    line-height: 1.5;
-    font-size: 2.15em;
-    font-weight: 700;
-}
-
-.post .postHeader a {
-    color: #545454;
-}
-
+.post .postHeader h1,
 .post .postHeaderLinked h1 {
     margin-bottom: 0em;
     line-height: 1.5;
-    font-size: 1.5em;
     font-weight: 700;
+}
+
+.post .postHeader h1 {
+    font-size: 2.15em;
+}
+
+.post .postHeaderLinked h1 {
+    font-size: 1.5em;
+}
+
+.post a.post-title,
+.post a.post-title.linked  {
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.post a.post-title {
+    color: #545454;
+}
+
+.post a.post-title.linked {
+   	color: #3f70a2;
+}
+
+.post a.post-title:hover,
+.post a.post-title.linked:hover {
+   	color: #2e8eef;
 }
 
 .post .postHeaderLinked .postPermalink,
