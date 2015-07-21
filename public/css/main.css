@@ -69,19 +69,15 @@ h2:nth-child(1) {
 a {
 	text-decoration: none;
 	color: #3f70a2;
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
 }
 
 a:hover {
 	color: #2e8eef;
 }
 
-.entry a {
-	-webkit-transition: all .3s ease-in-out;
-	-moz-transition: all .3s ease-in-out;
-	transition: all .3s ease-in-out;
-}
-
-/* This is so that the 'link underlines' only show up in the body text */
 .entry a:hover {
 	border-bottom: 1.25px solid #2e8eef;
 }
@@ -449,9 +445,8 @@ hr.small {
     text-align: left;
 }
 
-.homepage a.post-title.linked:hover .linkarrow,
-.post a.post-title.linked:hover .linkarrow {
-	transform: translateX(.1em);
+.post-title.linked:hover {
+	margin-right: .15em;
 }
 
 /* @end */
@@ -651,7 +646,7 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
 }
 
 a.header-anchor:hover {
-    border-bottom: none;
+   border-bottom: none;
 }
 
 /* @end */
@@ -678,22 +673,6 @@ a.header-anchor:hover {
     display: inline;
     float: left;
 }
-
-.homepage .paginationFooter a.nextPage,
-.homepage .paginationFooter a.previousPage {
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-}
-
-.homepage .paginationFooter a.nextPage:hover,
-.homepage .paginationFooter a.previousPage:hover {
-	-webkit-transform: translate(-.1em,-.1em);
-	-moz-transform: translate(-.1em,-.1em);
-	-ms-transform: translate(-.1em,-.1em);
-	transform: translate(-.1em,-.1em);	
-}
-
 
 /* @end */
 
