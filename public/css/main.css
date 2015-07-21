@@ -69,18 +69,18 @@ h2:nth-child(1) {
 a {
 	text-decoration: none;
 	color: #3f70a2;
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
 }
 
 a:hover {
 	color: #2e8eef;
-	-webkit-transition: all .2s ease-in-out;
-	-moz-transition: all .2s ease-in-out;
-	transition: all .2s ease-in-out;
 }
 
 /* This is so that the 'link underlines' only show up in the body text */
 .entry a:hover {
-	border-bottom: 1.5px solid #2e8eef;
+	border-bottom: 1.25px solid #2e8eef;
 }
 
 /* No border-bottom on image links */
@@ -156,11 +156,28 @@ img {
 figure {
     margin: 2em auto 2em auto;
     text-align: center;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+figure:hover {
+	-webkit-transform: scale(1.05);
+	-moz-transform: scale(1.05);
+	-ms-transform: scale(1.05);
+	transform: scale(1.05);
 }
 
 figure.wide {
 	width: 1100px;
 	margin-left: -260px;
+}
+
+.homepage figure.wide:hover {
+	-webkit-transform: none;
+	-moz-transform: none;
+	-ms-transform: none;
+	transform: none;
 }
 
 /* Left-floated images */
@@ -207,13 +224,13 @@ figcaption {
     font-style: italic;
     font-size: 0.8em;
     color: #9e9e9e;
-    width: 70%;
+    width: 80%;
     text-align: center;
 }
 
 figcaption.long {
 	text-align: left;
-	margin: .5em 20% auto 10%;
+	margin: .5em 10% auto 10%;
 }
 
 /* Only in-use on the About page (/about) */
@@ -327,16 +344,14 @@ table.sortable thead {
 
 /* @group Role Separators */
 
-.homepage hr,
-.post hr {
+hr {
     width: 100%;
     margin-top: 1.7em auto 1.7em auto;
     border-radius: 1px;
     border: 1px solid #ddd;
 }
 
-.homepage hr.small,
-.post hr.small {
+hr.small {
     width: 60%;
     margin-top: 2.5em;
     margin-bottom: 2.5em;
@@ -590,15 +605,26 @@ a.footnote-backref:hover {
 }
 
 .takehome {
-	background: #a8c2db;
+/*	background: #a8c2db;*/
+	background: #3f70a2;
 	color: #fff;
-	border-radius: 2px;
+	border-radius: 4px;
 	padding: .5em 1em .5em 1em;
 	font-weight: 600;
 	font-style: italic;
-	font-size: 1.1em;
+	font-size: 1.3em;
 	line-height: 1.6;
 	text-align: center;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+.takehome:hover {
+	-webkit-transform: scale(1.05);
+	-moz-transform: scale(1.05);
+	-ms-transform: scale(1.05);
+	transform: scale(1.05);
 }
 
 /* @end */
@@ -646,10 +672,26 @@ a.header-anchor:hover {
     float: right;
 }
 
-.homepage .paginationFooter .nextPage{
+.homepage .paginationFooter .nextPage {
     display: inline;
     float: left;
 }
+
+.homepage .paginationFooter a.nextPage,
+.homepage .paginationFooter a.previousPage {
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+.homepage .paginationFooter a.nextPage:hover,
+.homepage .paginationFooter a.previousPage:hover {
+	-webkit-transform: translate(-.1em,-.1em);
+	-moz-transform: translate(-.1em,-.1em);
+	-ms-transform: translate(-.1em,-.1em);
+	transform: translate(-.1em,-.1em);	
+}
+
 
 /* @end */
 
@@ -671,10 +713,6 @@ a.header-anchor:hover {
 	height: 70px;
 }
 
-.bottomAd figcaption {
-	text-align: center;
-}
-
 .navFooter {
     background-color: #3f70a2;
     height: 165px;
@@ -683,20 +721,25 @@ a.header-anchor:hover {
     text-align: center;
 }
 
-.nav,
-.nav a {
+.nav {
 	text-transform: uppercase;
-    padding-top: 2.5em;
-    margin-bottom: 1em;
-    color: #ffffff;
-    font-size: 1.1em;
+	padding-top: 2.5em;
+	margin-bottom: 1em;
+	font-size: 1.1em;
+}
+.nav a {
+	color: #ffffff;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
 }
 
 .nav a:hover {
     color: #8abef4;
-    -webkit-transition: color .3s ease-out;
-    -moz-transition: color .3s ease-out;
-    transition: color .3s ease-out;
+    -webkit-transform: translate(-.1em,-.1em);
+    -moz-transform: translate(-.1em,-.1em);
+    -ms-transform: translate(-.1em,-.1em);
+    transform: translate(-.1em,-.1em);	
 }
 
 .nav .dot {
