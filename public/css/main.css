@@ -79,7 +79,9 @@ a:hover {
 }
 
 .entry a:hover {
-	border-bottom: 1.25px solid #2e8eef;
+	background: #3f70a2;
+	color: #fff;
+	border-radius: 2px;
 }
 
 /* No border-bottom on image links */
@@ -150,21 +152,23 @@ blockquote {
 
 img {
 	max-width: 100%;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
 }
 
+.entry img:hover {
+/*	-webkit-transform: translate(.2em, .2em);
+	-moz-transform: translate(.2em, .2em);
+	-ms-transform: translate(.2em, .2em);*/
+	-webkit-transform: rotate(1deg);
+	-moz-transform: rotate(1deg);
+	-ms-transform: rotate(1deg);
+}
+	
 figure {
     margin: 2em auto 2em auto;
     text-align: center;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-}
-
-figure:hover {
-	-webkit-transform: scale(1.05);
-	-moz-transform: scale(1.05);
-	-ms-transform: scale(1.05);
-	transform: scale(1.05);
 }
 
 figure.wide {
@@ -575,11 +579,10 @@ a.footnote-backref {
 
 .footnote-ref a:hover,
 a.footnote-backref:hover {
+    border-bottom: none;
+    background: none;
     color: #2e8eef;
-    border: none;
-    -webkit-transition: all .5s ease-out;
-    -moz-transition: all .5s ease-out;
-    transition: all .5s ease-out;
+    border-radius: none;
 }
 
 /* @end */
@@ -593,7 +596,7 @@ a.footnote-backref:hover {
 .copyright {
     margin: 2em 0 2em 0;
     font-size: 0.8em;
-    color: #ffffff;
+    color: #fff;
     text-align: center;
 }
 
@@ -618,10 +621,10 @@ a.footnote-backref:hover {
 }
 
 .takehome:hover {
-	-webkit-transform: scale(1.05);
-	-moz-transform: scale(1.05);
-	-ms-transform: scale(1.05);
-	transform: scale(1.05);
+	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
 }
 
 /* @end */
@@ -633,7 +636,10 @@ a.footnote-backref:hover {
 /* From https://www.npmjs.com/package/markdown-it-anchor */
 
 .header-anchor, .header-anchor:hover, .title a {
-    text-decoration: none
+    text-decoration: none;
+    background: none;
+    color: #3f70a2;
+    border-radius: none;
 }
 
 h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:hover .header-anchor, h5:hover .header-anchor, h6:hover .header-anchor {
@@ -647,6 +653,9 @@ h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:ho
 
 a.header-anchor:hover {
    border-bottom: none;
+   background: none;
+   color: #2e8eef;
+   border-radius: none;
 }
 
 /* @end */
