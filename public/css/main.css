@@ -176,13 +176,6 @@ figure.wide {
 	margin-left: -260px;
 }
 
-.homepage figure.wide:hover {
-	-webkit-transform: none;
-	-moz-transform: none;
-	-ms-transform: none;
-	transform: none;
-}
-
 /* Left-floated images */
 figure.figleft {
 	margin: 0.5em 2em 1em 0.5em;
@@ -454,6 +447,11 @@ hr.small {
     margin-bottom: 2em;
     font-style: italic;
     text-align: left;
+}
+
+.homepage a.post-title.linked:hover .linkarrow,
+.post a.post-title.linked:hover .linkarrow {
+	transform: translateX(.1em);
 }
 
 /* @end */
