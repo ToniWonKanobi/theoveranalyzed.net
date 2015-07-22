@@ -163,14 +163,10 @@ figure {
 }
 
 .entry img:hover {
-/*	-webkit-transform: translate(.05em, .05em);
-	-moz-transform: translate(.05em, .05em);
-	-ms-transform: translate(.05em, .05em);
-	transform: translate(.05em, .05em);*/
-	-webkit-transform: scale(1.02);
-	-moz-transform: scale(1.02);
-	-ms-transform: scale(1.02);
-	transform: scale(1.02);
+	-webkit-transform: scale(1.05);
+	-moz-transform: scale(1.05);
+	-ms-transform: scale(1.05);
+	transform: scale(1.05);
 }
 
 figure.wide {
@@ -265,7 +261,6 @@ code {
     -moz-border-radius: 3px;
     border-radius: 3px;
     background-color: #eee;
-/*  border: 1px solid #ddd;  */	
 }
 
 /* This fixes the wonkey border-bottom hover on code blocks */
@@ -289,7 +284,6 @@ pre code {
     -moz-border-radius: 3px;
     border-radius: 3px;
     line-height: 1.5;
-/*  border: 1px solid #ddd;  */
 }
 
 /* Fixes funkiness on homepage <pre><code> 
@@ -353,7 +347,6 @@ hr.small {
     border-radius: 2px;
 	background-color: #ddd;
 	height: 0.2em;
-	
 }
 
 /* @end */
@@ -551,8 +544,7 @@ hr.small {
 	padding-top: 1em;
 }
 
-/* Prevents footnote content from appearing 
-	on the homepage */
+/* Prevents footnote content from appearing on the homepage */
 .homepage section.footnotes,
 .homepage .article hr.footnotes-sep,
 .homepage .footnote-ref {
@@ -609,9 +601,9 @@ a.footnote-backref:hover {
 	font-size: 1.3em;
 	line-height: 1.6;
 	text-align: center;
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 
 .takehome:hover {
@@ -713,17 +705,13 @@ a.header-anchor:hover {
 }
 .nav a {
 	color: #fff;
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 
 .nav a:hover {
     color: #8abef4;
-    -webkit-transform: translate(-.1em,-.1em);
-    -moz-transform: translate(-.1em,-.1em);
-    -ms-transform: translate(-.1em,-.1em);
-    transform: translate(-.1em,-.1em);	
 }
 
 .nav .dot {
