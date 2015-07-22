@@ -22,10 +22,10 @@ body {
     line-height: 1.55;
     font-size: 1em;
     margin: 0 0 0 0;
-/*	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Avenir Next", sans-serif;
-	font-weight: 300;*/
-    font-family: "Avenir Next", "Helvetica Neue", sans-serif;
-    font-weight: 400;
+	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Avenir Next", sans-serif;
+	font-weight: 300;
+/*    font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+    font-weight: 400;*/
 }
 
 i, em {
@@ -699,8 +699,8 @@ a.header-anchor:hover {
 .navFooter {
     background-color: #3f70a2;
     height: 165px;
-    color: #ffffff;
-    font-weight: 400;
+    color: #fff;
+    font-weight: 300;
     text-align: center;
 }
 
@@ -711,7 +711,7 @@ a.header-anchor:hover {
 	font-size: 1.1em;
 }
 .nav a {
-	color: #ffffff;
+	color: #fff;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
@@ -728,7 +728,7 @@ a.header-anchor:hover {
 .nav .dot {
     margin: 0 .3em 0 .3em;
     vertical-align: -.05em;
-    color: #ffffff;
+    color: #fff;
 }
 
 /* @end */
