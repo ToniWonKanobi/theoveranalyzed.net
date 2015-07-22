@@ -82,6 +82,7 @@ a:hover {
 	background: #3f70a2;
 	color: #fff;
 	border-radius: 2px;
+	padding: 2px;
 }
 
 /* No border-bottom on image links */
