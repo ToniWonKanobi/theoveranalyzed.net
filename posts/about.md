@@ -1,7 +1,7 @@
 @@ Title=About  
 @@ BodyClass=about  
 
-<img src="http://d.pr/i/1d53F+" class="headshot" alt="❤️">
+<img src="http://d.pr/i/1d53F+" alt="❤️" style="float: right; display: inline; width: 45%; margin: 0 0 1em 1em;">
 
 I'm [Anthony][ant].
 

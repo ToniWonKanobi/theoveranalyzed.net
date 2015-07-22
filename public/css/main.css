@@ -229,14 +229,6 @@ figcaption.long {
 	margin: .5em 10% auto 10%;
 }
 
-/* Only in-use on the About page (/about) */
-.headshot {
-    float: right;
-    display: inline;
-    width: 45%;
-    margin: 0em auto;
-}
-
 /* Makes figure.wide images stay within the
 horizontal container width on the homepage */
 .homepage figure.wide {
