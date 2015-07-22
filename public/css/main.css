@@ -82,7 +82,6 @@ a:hover {
 	background: #3f70a2;
 	color: #fff;
 	border-radius: 2px;
-	padding: 2px;
 }
 
 /* No border-bottom on image links */
@@ -648,7 +647,7 @@ a.header-anchor:hover {
    border-bottom: none;
    background: none;
    color: #2e8eef;
-   border-radius: none;
+   padding: 0px;
 }
 
 /* @end */
