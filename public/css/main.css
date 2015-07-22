@@ -152,23 +152,25 @@ blockquote {
 
 img {
 	max-width: 100%;
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-}
-
-.entry img:hover {
-/*	-webkit-transform: translate(.2em, .2em);
-	-moz-transform: translate(.2em, .2em);
-	-ms-transform: translate(.2em, .2em);*/
-	-webkit-transform: rotate(1deg);
-	-moz-transform: rotate(1deg);
-	-ms-transform: rotate(1deg);
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 	
 figure {
     margin: 2em auto 2em auto;
     text-align: center;
+}
+
+.entry img:hover {
+/*	-webkit-transform: translate(.05em, .05em);
+	-moz-transform: translate(.05em, .05em);
+	-ms-transform: translate(.05em, .05em);
+	transform: translate(.05em, .05em);*/
+	-webkit-transform: scale(1.02);
+	-moz-transform: scale(1.02);
+	-ms-transform: scale(1.02);
+	transform: scale(1.02);
 }
 
 figure.wide {
