@@ -20,7 +20,7 @@ And okay. Fair enough: Patel admits that The Verge has some serious crap on thei
 
 Could Safari be a little bit more open to the "open web" stuff we've been hearing about? Sure. Of course. But let me be clear: [this][theoveranalyzed 2] isn't Mobile Safari's fault. This is *The Verge's* fault. And it's [*iMore's*][theoveranalyzed 3] fault. These companies have become enslaved by terrible JavaScript ads and otherwise website bloatware. As [Don Melton][dm] so eloquently put it on this week's [Debug][overcast] (and on many other episodes as well): 
 
-<p class="takehome">"Everyone needs to calm the f**k down."</p>
+<p class="takehome">"Everyone needs to just calm the f**k down."</p>
 
 How can Nilay expect anything to get better when it's *his* website that sucks at loading quickly? Contrary to what he suggests, Apple making Mobile Safari as performant as Desktop Safari won't fix this. 
 

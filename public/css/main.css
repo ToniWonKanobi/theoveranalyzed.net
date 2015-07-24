@@ -163,10 +163,10 @@ figure {
 }
 
 .entry img:hover {
-	-webkit-transform: scale(1.05);
-	-moz-transform: scale(1.05);
-	-ms-transform: scale(1.05);
-	transform: scale(1.05);
+	-webkit-transform: translate(2px,2px);
+	-moz-transform: translate(2px,2px);
+	-ms-transform: translate(2px,2px);
+	transform: translate(2px,2px);
 }
 
 figure.wide {
