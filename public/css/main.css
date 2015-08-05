@@ -331,6 +331,10 @@ i.fa.fa-code.fa-fw {
 	font-size: 0.95em;
 }
 
+i.fa.fa-question.fa-fw {
+	margin-left: -2px;
+}
+
 i.fa.fa-tags.fa-fw,
 i.fa.fa-cog.fa-fw,
 i.fa.fa-magic.fa-fw,
