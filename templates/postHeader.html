@@ -7,9 +7,13 @@
 			<li><a href="http://www.historynet.com/today-in-history/{{formatCalendar Date}}"><time class="linkedTime" dateTime="{{formatIsoDate Date}}"><i class="fa fa-clock-o fa-fw"></i> {{formatPostDate Date}}</time></a></li>
 			<li class="postPermalink"><a class="postPermalink" title="Permalink to post" href="{{permalink}}"><i class="fa fa-paragraph fa-fw"></i> Permalink</a></li>
 			<li class="postSource"><a class="postSource" title="Source code for page" href="{{permalink}}.md"><i class="fa fa-code fa-fw"></i> Source</a></li>
+		</ul>
+	</div>
+	<div class="postSubtitleTags">	
+		<ul class="postSubtitleTagsItems">
 			<li><i class="fa fa-tags fa-fw"></i> Tags
 				<input type="checkbox" class="tagsList">
-				<ul class="postSubtitleTags">
+				<ul class="eachTag">
 					{{#each tags}}
 					<li><i class="fa fa-tag fa-fw"></i> {{{this}}}</li>
 					{{/each}}
@@ -26,15 +30,19 @@
 		<ul class="postSubtitleItems">
 			<li><a href="http://www.historynet.com/today-in-history/{{formatCalendar Date}}"><time class="linkedTime" dateTime="{{formatIsoDate Date}}"><i class="fa fa-clock-o fa-fw"></i> {{formatPostDate Date}}</time></a></li>
 			<li class="postSource"><a class="postSource" title="Source code for page" href="{{relativeLink}}.md"><i class="fa fa-code fa-fw"></i> Source</a></li>
+		</ul>
+	<div class="postSubtitleTags">	
+		<ul class="postSubtitleTagsItems">
 			<li><i class="fa fa-tags fa-fw"></i> Tags
 				<input type="checkbox" class="tagsList">
-				<ul class="postSubtitleTags">
+				<ul class="eachTag">
 					{{#each tags}}
 					<li><i class="fa fa-tag fa-fw"></i> {{{this}}}</li>
 					{{/each}}
 				</ul>
 			</li>
 		</ul>
+	</div>
 	</div>
 </header>
 {{/if}}
