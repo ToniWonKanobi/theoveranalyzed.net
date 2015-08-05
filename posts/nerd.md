@@ -1,16 +1,19 @@
 @@ Title=Nerdy Stuff  
+@@ HideHeader=true
 
-## What The Site's Made Of
+<h1><i class="fa fa-terminal fa-fw"></i> Nerdy Stuff</h1>
+
+## <i class="fa fa-cog fa-fw"></i> What The Site's Made Of
 
 The site is built on a [forked version][github] of [Casey Liss's][twitter]  static blogging engine called [Camel][github 2], itself based on [Node][nodejs], [Express][expressjs], and several other [npm][npmjs] [packages][github 3]. I've also installed several additional [`markdown-it`][npmjs 2] plugins, beyond what Casey included with Camel by default. First, there's [`markdown-it-anchor`][npmjs 3], which makes for easy linking to specific headers like on [GitHub][d]. Second, I added [`markdown-it-table-of-contents`][npmjs 4], which can parse a 'table of contents' when called for in the `.md`.[^pa]
 
 As far as client-side packages go, I have employed several additional open-source JavaScript projects. The first is [Bigfoot][bigfootjs], for fancy footnotes like what Marco Arment used in [Instapaper][marco]. And then there's [FitVids][fitvidsjs], for [proportion-retained][pro] `<iframe>` content (makes YouTube videos scale to fit the horizontal `.container`).
  
-To the best of my knowledge, TheOverAnalyzed should perform well in most modern web browsers. A notable exception is Internet Explorer (I'm sure my site looks terrible in IE). I can't help you with that one. 
+To the best of my knowledge, TheOverAnalyzed should perform well in most modern web browsers. For users of Internet Explorer version 6 and prior: I'm sure my site looks terrible. I can't help you with that one. 
 
-## Useful URL Slugs
+## <i class="fa fa-magic fa-fw"></i> Useful URL Slugs
 
-**[.md][nerd]** You can append `.md` to the end of any post URL to see the actual Markdown for that file[^tr]
+**[.md][nerd]** You can append `.md` to the end of any post URL to see the actual source (Markdown) for that page[^tr]
 
 **[/2015][year]** for a list of all posts during the year of 2015[^p]
 
@@ -23,7 +26,7 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 **[/dailyupdate][du]** for the daily emails with links to posts
 
 [^pa]: Just add [`[[TOC]]`][github 5] where you want the table of contents to show up in the HTML. This is much like what Fletcher Penney's [MultiMarkdown Composer][multimarkdown] can do in Version 3 (currently in beta)
-[^tr]: [Try it!][try]
+[^tr]: Alternatively, while viewing a post at it's Permalink location (i.e., not on the homepage `/`), you could also just follow the hyperlink called "<i class="fa fa-code fa-fw"></i> Source," located below the post title.
 [^p]: You could similarly do something similar for [2014][2014] (or any other year). You could even get more specific than that and list posts by year *and* month *and* day (e.g., [/2014/12/24][dec])
 [^t]: You even get more specific than that and list posts having a particular tag (e.g., maybe you wanted to see every post having to do with [Apple][ap]. (Note that tags are Case Sensitive.)
 

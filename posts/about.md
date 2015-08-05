@@ -1,9 +1,12 @@
 @@ Title=About  
+@@ HideHeader=true  
 @@ BodyClass=about  
+
+<h1><i class="fa fa-user fa-fw"></i> About</h1>
 
 <img src="http://d.pr/i/1d53F+" alt="❤️" style="float: right; display: inline; width: 45%; margin: 0 0 1em 1em;">
 
-I'm [Anthony][ant].
+I'm [Anthony][ant] <i class="fa fa-child fa-fw"></i>
 
 After months of hearing on my favorite [podcast][atp] various advertisements for [Squarespace][ss], I took the plunge and started my own blog in [early 2014][ear]: TheOverAnalyzed. I had no formal web development or design background, but I am a quick learner and a pretty well-rounded nerd. Blogging seemed like an outlet as well as a way to learn some new things.
 
@@ -13,7 +16,7 @@ I eventually found that even on Squarespace's Developer Platform, not *everythin
 
 In early 2015, I caught wind of Casey Liss's blogging engine, Camel, which he open-sourced [months earlier][caseyliss]. With the option for an ['alternate'][rssa] RSS feed (linked posts point back to TheOverAnalyzed) and the openness of a completely customizable platform, I knew that was the direction I would eventually head. I procrastinated for a month before finally starting work on Version 3.0 of the site. Head over to [/nerd][nerd] for more technical information about the site.
 
-Thanks for stopping by.
+Thanks for stopping by <i class="fa fa-bicycle fa-fw"></i>
 
 [ant]: http://www.twitter.com/toniwonkanobi
 [atp]: http://atp.fm

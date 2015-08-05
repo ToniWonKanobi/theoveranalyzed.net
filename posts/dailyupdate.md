@@ -1,4 +1,7 @@
 @@ Title=The Daily Update  
+@@ HideHeader=true  
+
+<h1><i class="fa fa-envelope-o fa-fw"></i> The Daily Update</h1>
 
 Congratulations.
 

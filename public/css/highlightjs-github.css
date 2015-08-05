@@ -28,7 +28,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-request,
 .hljs-status {
   color: #333;
-  font-weight: bold;
+/*  font-weight: bold;*/
 }
 
 .hljs-number,
@@ -48,7 +48,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-id,
 .scss .hljs-preprocessor {
   color: #900;
-  font-weight: bold;
+/*  font-weight: bold;*/
 }
 
 .hljs-list .hljs-keyword,
@@ -61,7 +61,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .vhdl .hljs-literal,
 .tex .hljs-command {
   color: #458;
-  font-weight: bold;
+/*  font-weight: bold;*/
 }
 
 .hljs-tag,

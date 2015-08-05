@@ -4,13 +4,7 @@
 @@ Description=  
 @@ Tags=  
 @@ Image=  
-@@ Video=  
-
-<div class="topstory">Blah</div>
-
-&#8592;
-
-&#8594;
+@@ Video=
 
 <figure>
 <figure class="iphone">
@@ -25,4 +19,3 @@
 	</a>
 	<figcaption><a href="">text</a></figcaption>
 </figure>
-

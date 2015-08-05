@@ -17,12 +17,12 @@ var markdownit = require('markdown-it')({
 	.use(require('markdown-it-footnote'))
 	.use(require('markdown-it-anchor'), {
 	permalink: true,
-	permalinkSymbol: '#' 
+	permalinkSymbol: '¶'
 	})
 	.use(require("markdown-it-table-of-contents"), {
 	includeLevel: 1,
 	})
-//	.use(require("markdown-it-highlightjs"));
+	.use(require("markdown-it-highlightjs"));
 var Rss = require('rss');
 var Handlebars = require('handlebars');
 
@@ -550,6 +550,9 @@ function init() {
 		Handlebars.registerHelper('formatPostDate', function (date) {
 			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
 		});
+		Handlebars.registerHelper('formatCalendar', function (date) {
+			return new Handlebars.SafeString(new Date(date).format('{Month}-{dd}'));
+		});
 		Handlebars.registerHelper('formatIsoDate', function (date) {
 			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
 		});
@@ -1067,7 +1070,7 @@ app.get('/tags', function (request, response) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
 //		retVal += "<header><h2>Posts By Tag</h2></header>";
-		retVal += "<header><h1>Posts By Tag</h1></header>";
+		retVal += '<header><h1>Posts By Tag</h1></header>';
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );		
 		postsByDay.each(function (day) {
 			day['articles'].each(function (article) {
@@ -1095,10 +1098,10 @@ app.get('/tags', function (request, response) {
 		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
 		_.each(orderedKeys, function (key) {
 //			retVal += '<h3><a href="/tags/' + key.toLowerCase() + '">' + key.capitalize() + '</a></h3>';
-			retVal += '<h3><a href="/tags/' + key + '">' + key + '</a></h3>';
+			retVal += '<h3><a href="/tags/' + key + '" style="border-bottom:none"><i class="fa fa-tag fa-fw"></i> ' + key + '</a></h3>';
 			retVal += '<ul>';
 			_.each(postsByTag[key], function (post) {
-				retVal += '<li><a href="' + post.url + '">' + post.title  + '</a></li>';
+				retVal += '<li><a href="' + post.url + '">' + post.title + '</a></li>';
 			});
 			retVal += '</ul>';
 		});
@@ -1135,7 +1138,7 @@ app.get('/tags/:tag', function (request, response) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
 //		retVal += '<header><h2>' + thetag.capitalize() + ' Archives</h2></header>';
-		retVal += '<header><h1>Posts tagged <em>' + thetag + '</em></h1></header>';
+		retVal += '<header><h1><i class="fa fa-tag fa-fw"></i> ' + thetag + '</em></h1></header>';
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );	
 		retVal += '<ul>';	
 
@@ -1213,7 +1216,7 @@ app.get('/:year/:month', function (request, response) {
 			if (thisDay.is(seekingDay.format('{Month} {yyyy}'))) {
 				anyFound = true;
 
-				html += "<h4>" + thisDay.format('{Weekday}, {Month} {d}') + "</h4>";
+				html += "<h3>" + thisDay.format('{Weekday}, {Month} {d}') + "</h3>";
 				html += "<ul>";
 				day.articles.each(function (article) {
 					html += '<li><a href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
