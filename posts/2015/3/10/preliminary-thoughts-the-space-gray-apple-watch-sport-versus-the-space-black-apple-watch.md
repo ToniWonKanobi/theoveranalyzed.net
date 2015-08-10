@@ -57,25 +57,29 @@ I'll leave you with this, a conversation with a friend who knows me all too well
 	<figcaption>Touche.</figcaption>
 </figure>
 
-# Update
+<div class="update"><h3 id="update">Update</h3>
 
-Casey Liss [linked][caseyliss] to this [post][exactfitnessapps] by fitness company Exact Fitness, in which you can print out a mockup, cut it out, and 'try on' an Apple Watch in whatever size/band choice you are considering. 
+<p>Casey Liss <a href="http://www.caseyliss.com/2015/3/11/apple-watch-paper-try-on">linked</a> to this <a href="http://exactfitnessapps.com/try-it-on-apple-watch-sizing-guide.html">post</a> by fitness company Exact Fitness, in which you can print out a mockup, cut it out, and 'try on' an Apple Watch in whatever size/band choice you are considering.</p> 
 
-I used something [similar][instagram] last September when there were [suddenly][thenextweb] *two* iPhone sizes to choose from.
+<p>I used something <a href="https://instagram.com/toniwonkanobi/p/syXZwJwz3Y/">similar</a> last September when there were <a href="http://thenextweb.com/apple/2014/09/09/apple-unveils-iphone-6/">suddenly</a> <i>two</i> iPhone sizes to choose from.</p>
 
 <figure>
 	<img src="http://d.pr/i/10oi3+" alt="mockups" width="63%" />
 	<figcaption>Mockups</figcaption>
 </figure>
 
-# Another Update
+</div>
 
-I found this little nugget of knowledge regarding the Apple Watch link bracelet:
+<div class="update"><h3 id="anotherupdate">Another Update</h3>
+
+<p>I found this little nugget of knowledge regarding the Apple Watch link bracelet:</p>
 
 <figure>
 	<img src="https://pbs.twimg.com/media/B__JFBzUQAEqzn9.png" alt="links" width="63%" />
 	<figcaption>From <a href="http://howtospendit.ft.com/articles/77791-the-man-behind-the-apple-watch">this</a> interview with Jony Ive by Nick Foulkes</figcaption>
 </figure>
+
+</div>
 
 [^wh]: Where `gaudiness` and `case diameter` are directly proportional `∝`
 [^up]: Update: I found this [article][mcelhearn], which noted how the Apple Store iOS app includes actual-size [screen] previews of both cases sizes. So that helps.
@@ -90,13 +94,9 @@ I found this little nugget of knowledge regarding the Apple Watch link bracelet:
 [apple 2]: https://www.apple.com/watch/christy-turlington-burns/
 [apple 3]: http://store.apple.com/Catalog/regional/amr/pdf/static/pdf/content/Watch_Sizing_Guide.pdf
 [astroawani]: http://car.astroawani.com/detail/news-grey-new-black-47911
-[caseyliss]: http://www.caseyliss.com/2015/3/11/apple-watch-paper-try-on
 [d]: http://d.pr/i/12Qgx+
-[exactfitnessapps]: http://exactfitnessapps.com/try-it-on-apple-watch-sizing-guide.html
-[instagram]: https://instagram.com/toniwonkanobi/p/syXZwJwz3Y/
 [mcelhearn]: http://www.mcelhearn.com/try-out-apple-watch-sizes-on-your-wrist/
 [relay]: http://www.relay.fm/upgrade/26
-[thenextweb]: http://thenextweb.com/apple/2014/09/09/apple-unveils-iphone-6/
 [theoveranalyzed]: http://www.theoveranalyzed.net/2015/3/9/apple-watch-sizing-38-mm-or-42-mm
 [twitter]: https://twitter.com/viticci/status/575014129095864320
 [urbandictionary]: http://nl.urbandictionary.com/define.php?term=BA&amp;defid=1081389

@@ -25,17 +25,17 @@ $203,193.
 
 Yikes 🇩🇪
 
-## Update
+<div class="update"><h3 id="update">Update</h3>
 
-[Total 911][total911] has an even better look than Jalopnik. Head over there to check it out.
+<p><a href="http://www.total911.com/new-porsche-911-gt3-rs-launched-in-geneva/">Total 911</a> has an even better look that Jalopnik. Head over there to check it out.</p>
 
-## Update, Part II
+</div>
 
-And here's a [video][youtube] they [featured][total912] from Porsche.
+<div class="update"><h3 id="update">Another Update</h3>
+
+<p>And here's a <a href="https://www.youtube.com/watch?v=XQh8qCZWOEw&feature=youtu.be">video</a> they <a href="http://www.total911.com/see-the-new-porsche-991-gt3-rs-in-action-on-road-and-track/">featured</a> from Porsche.</p>
+
+</div>
 
 [^ba]: Bad, in other words
 [^tr]: And the pictures in the article only show the flappy box
-
-[total911]: http://www.total911.com/new-porsche-911-gt3-rs-launched-in-geneva/
-[total912]: http://www.total911.com/see-the-new-porsche-991-gt3-rs-in-action-on-road-and-track/
-[youtube]: https://www.youtube.com/watch?v=XQh8qCZWOEw&feature=youtu.be

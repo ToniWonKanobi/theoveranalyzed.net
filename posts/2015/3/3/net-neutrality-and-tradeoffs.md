@@ -27,9 +27,11 @@ Here's Nilay Patel and Chris Plant discussing Net Neutrality's big development l
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/193999672&color=ff5500"></iframe>
 
-# Update
+<div class="update"><h3 id="update">Update</h3>
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p>So everyone has discovered that Netflix is a net neutrality hypocrite: <a href="http://t.co/VnRlxroMC5">http://t.co/VnRlxroMC5</a>&#10;&#10;Told you so a year ago <a href="http://t.co/YSVuOJTgya">http://t.co/YSVuOJTgya</a></p>&mdash; Ben Thompson (@monkbent) <a href="https://twitter.com/monkbent/status/573141062073520128">March 4, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" lang="en"><p>So everyone has discovered that Netflix is a net neutrality hypocrite: <a href="http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl">http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl</a>&#10;&#10;Told you so a year ago <a href="https://stratechery.com/2014/netflix-net-neutrality/">https://stratechery.com/2014/netflix-net-neutrality/</a></p>&mdash; Ben Thompson (@monkbent) <a href="https://twitter.com/monkbent/status/573141062073520128">March 4, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
 
 [^nna]: The one made [here][theoveranalyzed]
 [^oc]: In case the content of the above Tweet is puzzling to you, know this: Overcast *[does][twitter]* have native Twitter card support :)

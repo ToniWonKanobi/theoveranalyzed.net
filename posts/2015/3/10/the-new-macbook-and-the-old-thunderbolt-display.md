@@ -78,24 +78,31 @@ It will be interesting to see what, if anything, Apple does in the display space
 
 Apple <s>Thunderbolt</s> <s>USB</s> USB-C Dongle Display for 2015? I can only hope. 
 
-# Update
+<div class="update"><h3 id="update">Update</h3>
 
-Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page][apple 4]. 
+<p>Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this <a href="https://support.apple.com/en-us/HT202856">page</a>.</p>
 
-I was checking into things this morning, and saw this:
->The MacBook (Retina, 12-inch, Early 2015) will support these displays and rates using the USB-C Digital AV Multiport Adapter.
->
-* 3840x2160 at 30 Hz refresh rate
-* 4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)
+<p>I was checking into things this morning, and saw this:</p>
+
+<blockquote><p>The MacBook (Retina, 12-inch, Early 2015) will support these displays and rates using the USB-C Digital AV Multiport Adapter.</p></blockquote>
+	
+	<ul>
+		<li>3840x2160 at 30 Hz refresh rate</li>
+		<li>4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)</li>
+	</ul>
+	
+
 
 <figure>
 	<img src="http://d.pr/i/JI2b+" alt="well" width="63%" />
 	<figcaption>Well, there's your answer.</figcaption>
 </figure>
 
-I'm not sure when that info was added, but the page was last updated yesterday. 
+<p>I'm not sure when that info was added, but the page was last updated yesterday.</p>
 
-So, no 4K @ 60 Hz for the new MacBook it seems.
+<p>So, no 4K @ 60 Hz for the new MacBook it seems.</p>
+
+</div>
 
 [^tbd]: [AnandTech][youtube] review
 [^cd]: [cnet][cnet] review
@@ -106,7 +113,6 @@ So, no 4K @ 60 Hz for the new MacBook it seems.
 [apple]: http://www.apple.com/live/2015-mar-event/
 [apple 2]: https://www.apple.com/displays
 [apple 3]: https://www.apple.com/displays/
-[apple 4]: https://support.apple.com/en-us/HT202856
 [cnet]: http://www.cnet.com/products/apple-led-cinema-display-27-inch-2010/
 [cnet 2]: http://www.cnet.com/products/dell-u2713hm/
 [cnet 3]: http://news.cnet.com/Dell-Apple-should-close-shop/2100-1001_3-203937.html

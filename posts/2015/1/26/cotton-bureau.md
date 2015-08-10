@@ -24,9 +24,11 @@ That's pretty much it. I have spent more money here than my wife would like, so 
 
 **Use discount code CBANTHONYC10 to get 10% off your purchase.**
 
-# Update
+<div class="update"><h3 id="update">Update</h3>
 
-The referral program has ended, in case you were wondering why the discount no longer worked.
+<p>Their referral program has ended, in case you were wondering why the discount no longer worked.</p>
+
+</div>
 
 [cottonbureau]: http://www.cottonbureau.com
 [cottonbureau 2]: https://cottonbureau.com/faq

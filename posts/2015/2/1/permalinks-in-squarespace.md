@@ -66,37 +66,38 @@ So my line of HTML code looks like this:
 
 By placing the permalink in the Post Blog Item Code Injection section, I no longer have to manually create permalinks for Linked List posts. The downside to this newer method is that the a permalink shows up on *every* post, even the Article-style posts. A small price to pay methinks.
 
-# Update
+<div class="update"><h3 id="update">Update</h3>
 
-Since initially writing this post, I have since turned on the [Developer Platform][squarespace 2] for Squarespace. This has opened up both a bunch of possibilities, and a bunch of frustrations.[^bf]
+<p>Since initially writing this post, I have since turned on the <a href="http://developers.squarespace.com">Developer Platform</a> for Squarespace. This has opened up both a bunch of possibilities, and a bunch of frustrations.</p>
 
-As mentioned previously, prior to the Developer Platform, there was no way for me to insert a Permalink to my post in the title of a Linked List item. So what I did was implement what James Smith suggested. 
+<p>As mentioned previously, prior to the Developer Platform, there was no way for me to insert a Permalink to my post in the title of a Linked List item. So what I did was implement what James Smith suggested.</p>
 
-Once I turned on the Developer Platform, I knew I wanted to implement what Alex Durner [did][alexduner], which was much more up my alley.
+<p>Once I turned on the Developer Platform, I knew I wanted to implement what Alex Durner <a href="http://alexduner.com/blog/squarespace-permalinks">did</a>, which was much more up my alley.</p>
 
-He noticed the `{.passthrough?}` in the `blog.item` section found here: 
+<p>He noticed the <code>{.passthrough?}</code> in the <code>blog.item</code> section found here:</p>
 
-```md
-my_squarespace_domain.top_level_domain/collections/blog.item
-```
+<pre><code>my_squarespace_domain.top_level_domain/collections/blog.item</code></pre>
 
-Here is the relevant code he suggests pasting there:[^pth]
+<p>Here is the relevant code he suggests pasting there:</p>
 
-```html
-{.passthrough?}
+<pre><code>{.passthrough?}
 		<a class="link" href="{sourceUrl}" target="_self">{title}</a>
 		<a class="permalink" href="{fullUrl}" title="Permalink for {title}">∞</a>
 	{.or}
 		<a class="post" href="{fullUrl}">{title}</a>
 	{.end}
-```
+</code></pre>
 
-Now, whenever I post a "Linked List" item, as long as the "External link" checkbox is checked in the New Post Advanced panel, a permalink will show up just to the right of the title of the post (which is the target external link):
+<p>Now, whenever I post a "Linked List" item, as long as the "External link" checkbox is checked in the New Post Advanced panel, a permalink will show up just to the right of the title of the post (which is the target external link):</p>
 
 <figure>
-	<img src="http://d.pr/i/1lSZU+" alt="boom" />
+	<a href="http://d.pr/i/1lSZU+" alt="Boom">
+		<img src="http://d.pr/i/1lSZU+" alt="Boom" />
+	</a>
 	<figcaption>Boom</figcaption>
 </figure>
+
+</div>
 
 [^cc]: And just good 'internet form'
 [^hc]: Many of the sites I follow use a similar Linked List format as Daring Fireball. [Six Colors][sixcolors], [Marco.org][marco], [The Sweet Setup][thesweetsetup], [The Loop][loopinsight], [512 Pixels][512pixels], and more use this style of posting. And just like with Daring Fireball, sometimes I enjoy these authors' commentary on the links more than the actual content they are linking to.
@@ -104,11 +105,8 @@ Now, whenever I post a "Linked List" item, as long as the "External link" checkb
 [^af]: I trust the authors I follow more than the average website or Twitter account promoting content. And I have found many blogs I enjoy reading whose website was unknown to me until it was linked-to by Gruber or someone else. If he didn't include his commentary I may have never even followed the original link (again, out of laziness).
 [^pl]: I was copying and pasting the link string of the post and placing it in the appropriate location after "http://www.theoveranalyzed.net/" I then took that link and placed it at the bottom of every Linked-List style post I had made as "[Permalink]." It worked well enough, but what a [PITA][urbandictionary]. 
 [^wa]: Come to find out, MacSparky was [doing something similar][macsparky], though he made use of a [TextExpander][smilesoftware] snippet.
-[^bf]: Well, duh. 
-[^pth]: I *will* take some credit for this bit of code, because Alex assumed that anyone looking to implement this code would know where to find it. Turns out, I wasn't that smart by default, and had to look for it. 
 
 [512pixels]: http://www.512pixels.net
-[alexduner]: http://alexduner.com/blog/squarespace-permalinks
 [daringfireball]: http://daringfireball.net/2004/06/linked_list
 [loopinsight]: http://loopinsight.com
 [macsparky]: http://macsparky.com/blog/permalinkingss
@@ -117,7 +115,6 @@ Now, whenever I post a "Linked List" item, as long as the "External link" checkb
 [sixcolors]: http://www.sixcolors.com
 [smilesoftware]: http://smilesoftware.com/TextExpander/index.html
 [squarespace]: http://help.squarespace.com/guides/using-code-injection
-[squarespace 2]: http://developers.squarespace.com
 [thesweetsetup]: http://www.thesweetsetup.com
 [twitter]: https://twitter.com/smithjw
 [urbandictionary]: http://www.urbandictionary.com/define.php?term=pita&defid=549368

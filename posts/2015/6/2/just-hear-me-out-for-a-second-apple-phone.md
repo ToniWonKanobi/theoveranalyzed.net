@@ -16,14 +16,15 @@ Apple has indeed been moving away from it's "i" prefix, [established][everysteve
 
 [From [Stephen Hackett][512pixels]]
 
-# Update
+<div class="update"><h3 id="update">Update</h3>
 
-Jason Snell at Six Colors added his own commentary:
->It would also require a renaming of the iPad, and you’d have to ask about the iMac at that point, too.
+<p>Jason Snell at Six Colors added his own commentary:</p>
 
-Unless I'm misinterpreting Snell, he is using the iPad and iMac as examples as to why dropping the "i" would be a *bad* idea, not a good one. However, I couldn't disagree more. Yes, "Apple Pad" sounds tremendously similar to [something][wikipedia] you might find on aisle 11 of your local grocery store. But "Apple Mac", or, dare I be so bold: just "Macintosh" ([again][telegraph]) &mdash; that sounds glorious. 
+<blockquote><p>It would also require a renaming of the iPad, and you’d have to ask about the iMac at that point, too.</p></blockquote>
+
+<p>Unless I'm misinterpreting Snell, he is using the iPad and iMac as examples as to why dropping the "i" would be a <i>bad</i> idea, not a good one. However, I couldn't disagree more. Yes, "Apple Pad" sounds tremendously similar to <a href="https://en.wikipedia.org/wiki/Sanitary_napkin">something</a> you might find on aisle 11 of your local grocery store. But "Apple Mac", or, dare I be so bold: just "Macintosh" (<a href="http://www.telegraph.co.uk/technology/apple/10593083/Steve-Jobs-unveils-first-Apple-Mac.html">again</a>) -- that sounds glorious.</p>
+
+</div>
 
 [512pixels]: http://www.512pixels.net/blog/2015/6/apple-phone
 [everystevejobsvideo]: http://everystevejobsvideo.com/original-imac-introduction-apple-special-event-1998/
-[telegraph]: http://www.telegraph.co.uk/technology/apple/10593083/Steve-Jobs-unveils-first-Apple-Mac.html
-[wikipedia]: https://en.wikipedia.org/wiki/Sanitary_napkin
