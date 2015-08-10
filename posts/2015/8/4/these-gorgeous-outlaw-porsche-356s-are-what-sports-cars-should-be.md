@@ -16,8 +16,8 @@ A couple of interesting bits:
 1. [Jay has an Apple Watch][macrumors]
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/16MRP">
-		<img src="http://d.pr/i/16MRP" alt="Jay Leno has an Apple Watch" />
+	<a class="nohover" href="http://d.pr/i/16MRP+">
+		<img src="http://d.pr/i/16MRP+" alt="Jay Leno has an Apple Watch" />
 	</a>
 	<figcaption>Appears to be the stainless Watch with Milanese loop</figcaption>
 </figure>
@@ -25,8 +25,8 @@ A couple of interesting bits:
 2. The inside of a 356 is *small*
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1andJ">
-		<img src="http://d.pr/i/1andJ" alt="356 cramped interior" />
+	<a class="nohover" href="http://d.pr/i/1andJ+">
+		<img src="http://d.pr/i/1andJ+" alt="356 cramped interior" />
 	</a>
 	<figcaption>Cozy.</figcaption>
 </figure>
