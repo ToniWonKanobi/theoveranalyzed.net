@@ -6,6 +6,8 @@
 @@ Image=  
 @@ Video=
 
+<div class="topstory">Text</div>
+
 <figure>
 <figure class="iphone">
 <figure class="applewatch">
@@ -19,3 +21,9 @@
 	</a>
 	<figcaption><a href="">text</a></figcaption>
 </figure>
+
+<div class="update"><h3 id="update">Update Date</h3>
+
+<p>Text</p>
+
+</div>

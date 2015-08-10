@@ -523,6 +523,13 @@ ul.postSubtitleItems input.tagsList {
     display: none;
 }
 
+div.update {
+	margin-top: 2em;
+	background-color: #ddd;
+	border-radius: 0.2em;
+	padding: 0.5em 2em 2em 2em;
+}
+
 .post .postHeader {
     margin-top: 3em;
     margin-bottom: 4em;
