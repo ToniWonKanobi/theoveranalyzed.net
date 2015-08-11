@@ -713,6 +713,15 @@ a.footnote-backref:hover {
 	}
 }
 
+/* iPad */
+/* Fixes too-huge daybreak */
+@media all and (min-width: 1200px) {
+	.homepage .day .daybreak {
+	    margin-left: -10%;
+		width: 120%;
+	}
+}
+
 /* iPhone */
 @media all and (max-width: 580px) {
 	
