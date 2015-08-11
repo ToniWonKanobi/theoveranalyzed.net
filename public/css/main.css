@@ -715,7 +715,9 @@ a.footnote-backref:hover {
 
 /* iPad */
 /* Fixes too-huge daybreak */
-@media all and (min-width: 1200px) {
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) {
 	.homepage .day .daybreak {
 	    margin-left: -10%;
 		width: 120%;
