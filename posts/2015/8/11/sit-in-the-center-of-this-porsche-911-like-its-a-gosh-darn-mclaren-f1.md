@@ -5,7 +5,7 @@
 @@ Tags=Porsche, 911, 997, McLaren, McLaren F1, cars  
 @@ Image=http://i.kinja-img.com/gawker-media/image/upload/s--hVMhorJc--/c_fit,fl_progressive,q_80,w_636/1379922735071633187.jpg  
 
-In 2012, the Porsche Club of America featured the first-ever "[Centro 911](http://www.wired.com/2012/11/porsche-center-wheel/)," a center-drive converted 997 cabriolet, eventually becoming [YouTube sensation](https://www.youtube.com/watch?v=dv3twuUI5es).[^sen] 
+In 2012, the Porsche Club of America featured the first-ever "[Centro 911](http://www.wired.com/2012/11/porsche-center-wheel/)," a center-drive converted 997 cabriolet, eventually becoming a [YouTube sensation](https://www.youtube.com/watch?v=dv3twuUI5es).[^sen] 
 
 [Trinity Motorsports](https://www.facebook.com/media/set/?set=a.504606459563617.117761.156019671088966&type=3) designed that original Centro 911. Since then, they also developed a coupe version, currently for sale on [Mecum Auctions](https://www.mecum.com/lot-detail/CA0815-219883/0/2008-Porsche-911S/6-Speed/).
 
