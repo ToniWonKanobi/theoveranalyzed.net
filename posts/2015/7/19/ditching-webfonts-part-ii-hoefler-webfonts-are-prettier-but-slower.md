@@ -96,7 +96,7 @@ TypeKit and Google Fonts -- it seems both are less latent than Cloud.typography 
 
 So what does this tell me? Well, for starters, it tells me that I'm not crazy. I'm not just imagining that my site was slower than everyone else's. Also, this tells me that I'm not completely incompetent. Apparently I haven't done anything extremely idiotic with my website design, because other websites ([ones built by way smarter people than me][ss]) are equally slow to load Hoefler webfonts.
 
-It seems that across the board, Cloud.typography has significantly more latency than TypeKit. Or, put another way:
+It seems that across the board, Cloud.typography has significantly more latency than TypeKit. Or, put another way: Hoefler webfonts are slower than TypeKit.
 
 <div class="takehome" id="boom"><p>Hoefler webfonts are slower than TypeKit</p></div>
 
