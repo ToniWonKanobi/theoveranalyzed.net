@@ -5,7 +5,6 @@
 @@ Image=http://www.total911.com/wp-content/uploads/2014/10/Porsche-964-driving.jpg  
 
 Joseph Stromberg from [Vox][vox] on an interesting illustration by Claes Tingvall:
-
 >By depicting roads as chasms and crosswalks as rickety planks spanning them, Tingvall shows just how lopsided the proportions of a normal urban street corner really are.
 
 <figure>
@@ -24,7 +23,7 @@ What could possibly possess us to allow so much of '[our][alternet]' land to be 
 	<figcaption>Ah, where it all started for me: the Chevrolet Corvette. This specimen is a 1990 ZR-1. 'Murica 🇺🇸</figcaption>
 </figure>
 
-My own love affair with automobiles is not overly romantic or ambitious like, say, [Chris Harris][wikipedia 2]) or [Larry Kosilla][carsalways]. In truth, I wasn't really interested in cars until around the sixth grade. Before then it was all about [great TV][wikipedia 2]) and [Legos][amazon].  Here's what happened: I remember driving to school, and as we turned left onto the street which led to my school, I saw a pretty neat looking car pass us by. My mom or dad answered "[Corvette][wikipedia 3]" when I asked what kind of car that was. Looking back, I am pretty sure it was a [C5][wikipedia 4], not a [C4][wikipedia 4] like the example pictured above. Anyways, that moment stuck with me. But, oddly enough, I don't think I started really getting into the marque until I told my grandpa about seeing the Corvette. That's when it got read.
+My own love affair with automobiles is not overly romantic or ambitious like, say, [Chris Harris][wikipedia 2] or [Larry Kosilla][carsalways]. In truth, I wasn't really interested in cars until around the sixth grade. Before then it was all about [great TV][wikipedia 2]) and [Legos][amazon].  Here's what happened: I remember driving to school, and as we turned left onto the street which led to my school, I saw a pretty neat looking car pass us by. My mom or dad answered "[Corvette][wikipedia 3]" when I asked what kind of car that was. Looking back, I am pretty sure it was a [C5][wikipedia 4], not a [C4][wikipedia 4] like the example pictured above. Anyways, that moment stuck with me. But, oddly enough, I don't think I started really getting into the marque until I told my grandpa about seeing the Corvette. That's when it got read.
 
 <figure class="figright">
 	<img src="http://d.pr/i/1ilvy+" alt="pa" />

@@ -8,6 +8,8 @@
 
 <div class="topstory">Text</div>
 
+<div class="takehome"><p>Emphasis</p></div>
+
 <figure>
 <figure class="iphone">
 <figure class="applewatch">

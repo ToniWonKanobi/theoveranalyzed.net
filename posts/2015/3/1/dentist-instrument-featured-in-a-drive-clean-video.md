@@ -1,7 +1,8 @@
-@@ Title=Dentist Instrument Featured In A /DRIVE CLEAN Video?  
-@@ Date=2015-03-01 15:00  
+@@ Title=Dentist Instrument Featured in a /DRIVE CLEAN Video?  
+@@ Date=2015-03-01T15:00:00+00:00  
 @@ Description=I stumbled upon an interesting 'tool' used by a craftsman in this feature from /DRIVE CLEAN  
-@@ Tags=cars, dentistry, Larry Kosilla, /DRIVE CLEAN  
+@@ Tags=cars, dentistry, Larry Kosilla, /DRIVE CLEAN, /DRIVE, AMMO NYC
+@@ Image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ZahnarztAlen5690_Kofferdam.JPG/800px-ZahnarztAlen5690_Kofferdam.JPG  
 
 Do you like cars?
 
@@ -13,13 +14,9 @@ I've enjoyed watching almost all of his uploads not only because of their inform
 
 But, that's not the only reason I enjoy his videos.
 
-***
+<div class="takehome"><p>It's all about the cars</p></div>
 
-**It's all about the cars[^ca]** 
-
-***
-
-He and his company [AMMO NYC][ammonyc] have serviced some of [the most special cars][youtube 4] out there. And while I love the ol' [Everyday Driver][youtube 5][^ed] or [Chris Harris][youtube 6] review as much as the next guy, there's no replacement for Kosilla's [up-close-and-personal takes on some amazing pieces of automotive engineering][youtube 7].
+He[^ca] and his company [AMMO NYC][ammonyc] have serviced some of [the most special cars][youtube 4] out there. And while I love the ol' [Everyday Driver][youtube 5][^ed] or [Chris Harris][youtube 6] review as much as the next guy, there's no replacement for Kosilla's [up-close-and-personal takes on some amazing pieces of automotive engineering][youtube 7].
 
 His latest video featured Danbury, Connecticut's [CoachTrim,][advancedleatherworkshop][^ct] which specializes in restoring and upgrading car interiors.   
 

@@ -26,7 +26,7 @@ There is not just one iPad. There is a whole *[slew][d]*. Like, over 50 differen
 
 This was going to be harder than I thought. Now I had to decide whether Touch ID was really worth the $100 differential between the iPad mini 2 and 3. It seems most bloggers I trusted agreed it was definitely [not][sixcolors] worth it. Also, would I continue to be happy with the 'below iPad Air 1/2 quality' display if I chose the mini 2 or 3? 
 
-# *Less* Choice In General?
+# Less Choice In General?
 
 Before I muddle through my final decision-making process, ponder on this:
 Imagine if there were only one Mac desktop to choose from. Or one Mac notebook to choose from? Sure, it would seem terrible because there would be no option to separate power users from casual ones, as there would not be customizable processor upgrades, RAM upgrades, etc. But I postulate this instead: imagine the lack of stress that goes along with that. This is exactly what Barry Schwartz talks about in his [book][apple] (and in his TED Talk liked in this article's title).

@@ -524,7 +524,7 @@ ul.postSubtitleItems input.tagsList {
 }
 
 .homepage .day .article {
-    margin-bottom: 2em;
+    margin-bottom: 6em;
 }
 
 /* Prevents footnote content from appearing on the homepage */
@@ -543,6 +543,10 @@ div.update {
 
 div.update blockquote {
 	border-left: 5px solid #d0d0d0;
+}
+
+div.update blockquote a {
+	word-break: break-all;
 }
 
 .post .postHeader {
@@ -709,14 +713,14 @@ a.footnote-backref:hover {
 	}
 }
 
-/* iPad */
-/* Fixes too-huge daybreak */
+/* iPad 
+ Fixes too-huge daybreak 
 @media all and (min-width: 1200px) {
 	.homepage .day .daybreak {
-	    margin-left: -25%;
-		width: 150%;
+	    margin-left: -5%;
+		width: 110%;
 	}
-}
+}*/
 
 /* iPhone */
 @media all and (max-width: 580px) {

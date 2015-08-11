@@ -15,11 +15,7 @@ What does this have to do with anything? Good question. I'm getting there.
 
 By Steve's death in 2011, I did not have an yet have an iPhone. I can distinctly remember instructing family and friends on the intricacies of iOS, and remember them commenting on how ironic it was that I had not an iPhone for myself. An iPhone was (is), as far as I can tell, one of the greatest gateway drugs of the tech 'industry.' And in 2011, I hadn't been given the opportunity to try that [gateway drug][alphabeatic].
 
-<hr class="small">
-
 Fast-forward one year when iPhone 5 launched. 4-inch screen. LTE. Hotspotting. [Graduation from dental school imminent][instagram]. Income imminent. I could hardly be anything but over-zealous at the prospect of finally obtaining this one truly revolutionary device that I had only talked about having previously. The time was now. After a long journey to and from either Wyoming or Utah (I can't remember which), we waltzed into the local RadioShack and got 16GB iPhone 5's in his and her livery and then. Yay.
-
-<hr class="small">
 
 Ever since getting an iPhone in 2012, my technology experience has changed significantly. I had been a devout RSS user since my [friend][twitter] turned me on to it and [Reeder][reederapp]. But by late 2012, [my dissatisfaction with Facebook][facebook] caused me to migrate mostly to Twitter (and that [other][app] sad failed good idea). When that happened, I found [The Verge][theverge] and the other myriad of technology websites. Then I found some [blogs][daringfireball] I loved. And in 2013, I started to catch on to [podcasts][atp]. That changed my media consumption methodology drastically. Now I can't get enough of Podcasts. It is, by far, just [as important][d] to me as a media medium as Twitter. I wait patiently every week for the next episode of ATP and The Talk Show much like my grandparents likely looked forward to Johnny Carson doing his thing. 
 
@@ -31,9 +27,7 @@ I have been wanting to write something this for a while. If for no other reason,
 
 This blog entry isn't a tribute to Steve as much as it is to the people whose opinions and stories I value so greatly. I am writing this post via Squarespace on, you guessed it, a product from Steve's company. Tomorrow I will go to work and on the commute to and from, I will listen to people talk about technology and other topics I love on, you guessed it, another product from Steve's company. When I go home tomorrow night I might turn on a device that allows me to watch things I purchased on my phone on my TV. That product, you guessed it, came from Steve's company as well. My wife will do the same. And so will almost everyone I know. 
 
-Thanks Steve
-
- 
+Thanks Steve <i class="fa fa-apple fa-fw"></i> 
 
 [2nd]: https://en.wikipedia.org/wiki/IPod_Nano#2nd_generation
 [5by5]: http://5by5.tv/talkshow/56
