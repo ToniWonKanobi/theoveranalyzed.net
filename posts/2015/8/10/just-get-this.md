@@ -36,7 +36,7 @@ I can't count the times that someone has wanted to buy something for me, and eve
 
 And almost all of the gifts that Allison has gotten me over the years were ones that I hadn't specified [to a T][urbandictionary], let alone suggested. Guess what? They've all been amazing. [This one][hellolumio] especially.
 
-But historically speaking, the results of experimental and off-the-spec gifts haven't fared so well. When I was a kid, my dad drove big-rig trucks across country. I was into [Power Rangers][wikipedia 3] [at the time][theoveranalyzed]. And whatever the occasion, dad decided to get me a Power Rangers toy. Only he didn't. Be brought back the '[Long's Drugs][cvs]' generic power rangers off-brand toy. Clearly not the same thing.
+But historically speaking, the results of experimental and off-the-spec gifts haven't fared so well. When I was a kid, my dad drove big-rig trucks across country. I was into [Power Rangers][wikipedia 3] [at the time][theoveranalyzed]. And whatever the occasion, dad decided to get me a Power Rangers toy. Only he didn't. Be brought back the ['Long's Drugs'][cvs] generic power rangers off-brand toy. Clearly not the same thing.
 
 The point of all this banter isn't to discourage future spontaneous and unsolicited gifting. More-so, it's a realization that I'm not alone. There are at least [three][marco] [other][caseyliss] [nerds][hypercritical] out there who are just as particular about their interests as I am. And that's pretty cool.[^ju]
 
