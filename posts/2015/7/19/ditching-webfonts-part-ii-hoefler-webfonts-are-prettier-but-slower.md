@@ -145,7 +145,7 @@ I hope Cloud.typography webfonts can become less latent. As soon as they are, I'
 
 ### Update August 11, 2015
 
-You may have noticed that I've re-enabled my Cloud.typography webfont Ideal Sans. Avenir Next is a great sans serif font, but it can't hold a candle to Hoefler. Yeah, the site loads slightly slower than before, but TheOverAnalyzed isn't really TheOverAnalyzed without Ideal Sans.
+You may have noticed that I've re-enabled my Cloud.typography webfont, Ideal Sans. Avenir Next is a great sans serif font, but it can't hold a candle to Hoefler. Yeah, the site loads slightly slower than before, but TheOverAnalyzed isn't really TheOverAnalyzed without Ideal Sans.
 
 </div>
 
