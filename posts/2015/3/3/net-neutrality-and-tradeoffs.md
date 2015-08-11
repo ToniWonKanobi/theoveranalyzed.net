@@ -9,8 +9,6 @@ Their focus was Net Neutrality. And while both Ben and James are ardent supporte
 
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p><a href="https://twitter.com/marcoarment">@marcoarment</a> Soooo does <a href="https://twitter.com/OvercastFM">@OvercastFM</a> have support for native <a href="https://twitter.com/twitter">@twitter</a> cards yet? I tried copying a link but no dice :/ <a href="http://t.co/1WPZqYqq3I">http://t.co/1WPZqYqq3I</a></p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/572771760392675328">March 3, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[^oc]
-
 In a nutshell, Ben argues that instead of blindly supporting Net Neutrality, which cannot be 100% good, we might do better to fully acknowledge and come to terms with the ramifications of our desire to regulate the internet.
 
 **Net Neutrality comes with [tradeoffs][stratechery]**, and here's how the that tradeoff unfolds:
@@ -36,7 +34,6 @@ Here's Nilay Patel and Chris Plant discussing Net Neutrality's big development l
 </div>
 
 [^nna]: The one made [here][theoveranalyzed]
-[^oc]: In case the content of the above Tweet is puzzling to you, know this: Overcast *[does][twitter]* have native Twitter card support :)
 [^q]: Quite the reverse of "subsidization" as we normally encounter it in the political spectrum
 
 [exponent]: http://exponent.fm/exponent-036-tradeoffs/
