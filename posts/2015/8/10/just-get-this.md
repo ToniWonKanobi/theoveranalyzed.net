@@ -42,7 +42,7 @@ The point of all this banter isn't to discourage future spontaneous and unsolici
 
 [^gi]: In no particular order: iTunes / App Store gift cards; Coke Zero.
 [^al]: Although I *do* like that color quite a bit.
-[^su]: Just as I'm sure I my family members have been on the receiving end of my *own* gifting duds.
+[^su]: Just as I'm sure my family members have been on the receiving end of my *own* gifting duds.
 [^wahh]: Everyone go ahead and say this in unison: "Wahhhhh."
 [^th]: Boy, those were the days. I [seriously doubt][bgr] 8GB could support a clean iOS 8 install. 
 
