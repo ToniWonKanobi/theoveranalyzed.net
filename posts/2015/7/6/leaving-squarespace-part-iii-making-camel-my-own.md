@@ -201,5 +201,11 @@ You can test that the plugin is working by editing a sample post and launching a
 
 There are other aspects of TheOverAnalyzed that took some tweaking. I might detail those changes someday. But the bulk of the changes I made to underlying structure Camel are detailed in this post. 
 
+<div class="update"><h3 id="update">Update August 11, 2015</h3>
+
+Since writing this post, I have since disabled `markdown-it-highlightjs`. It wasn't a burdensome plugin or anything, I just decided it was bordering on unnecessary visual cruft.
+
+</div>
+
 [^la]: I'll talk more my CSS philosophy/changes in a future post. 
 [^sa]: Appending `--save` marks the package as a dependency in Camel's `package.json`, which is important if you actually want the plugin to work.

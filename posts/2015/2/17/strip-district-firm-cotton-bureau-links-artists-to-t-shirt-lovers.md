@@ -29,7 +29,7 @@ Check them out today! Use the coupon code **CBANTHONYC10** for a discount on you
 
 <div class="update"><h3 id="update">Update</h3>
 
-<p>The promotion mentioned above is currently over.</p>
+The promotion mentioned above is currently over.
 
 </div>
 

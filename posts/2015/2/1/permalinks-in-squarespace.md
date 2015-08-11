@@ -66,32 +66,37 @@ So my line of HTML code looks like this:
 
 By placing the permalink in the Post Blog Item Code Injection section, I no longer have to manually create permalinks for Linked List posts. The downside to this newer method is that the a permalink shows up on *every* post, even the Article-style posts. A small price to pay methinks.
 
-<div class="update"><h3 id="update">Update</h3>
+<div class="update">
 
-<p>Since initially writing this post, I have since turned on the <a href="http://developers.squarespace.com">Developer Platform</a> for Squarespace. This has opened up both a bunch of possibilities, and a bunch of frustrations.</p>
+### Update
 
-<p>As mentioned previously, prior to the Developer Platform, there was no way for me to insert a Permalink to my post in the title of a Linked List item. So what I did was implement what James Smith suggested.</p>
+Since initially writing this post, I have since turned on the [Developer Platform][squarespacee] for Squarespace. This has opened up both a bunch of possibilities, and a bunch of frustrations.
 
-<p>Once I turned on the Developer Platform, I knew I wanted to implement what Alex Durner <a href="http://alexduner.com/blog/squarespace-permalinks">did</a>, which was much more up my alley.</p>
+As mentioned previously, prior to the Developer Platform, there was no way for me to insert a Permalink to my post in the title of a Linked List item. So what I did was implement what James Smith suggested.
 
-<p>He noticed the <code>{.passthrough?}</code> in the <code>blog.item</code> section found here:</p>
+Once I turned on the Developer Platform, I knew I wanted to implement what Alex Durner [did][alexduner], which was much more up my alley.
 
-<pre><code>my_squarespace_domain.top_level_domain/collections/blog.item</code></pre>
+He noticed the `{.passthrough?}` in the `blog.item` section found here:
 
-<p>Here is the relevant code he suggests pasting there:</p>
+```
+my_squarespace_domain.top_level_domain/collections/blog.item
+```
 
-<pre><code>{.passthrough?}
+Here is the relevant code he suggests pasting there:
+
+```
+{.passthrough?}
 		<a class="link" href="{sourceUrl}" target="_self">{title}</a>
 		<a class="permalink" href="{fullUrl}" title="Permalink for {title}">∞</a>
 	{.or}
 		<a class="post" href="{fullUrl}">{title}</a>
 	{.end}
-</code></pre>
+```
 
-<p>Now, whenever I post a "Linked List" item, as long as the "External link" checkbox is checked in the New Post Advanced panel, a permalink will show up just to the right of the title of the post (which is the target external link):</p>
+Now, whenever I post a "Linked List" item, as long as the "External link" checkbox is checked in the New Post Advanced panel, a permalink will show up just to the right of the title of the post (which is the target external link):
 
 <figure>
-	<a href="http://d.pr/i/1lSZU+" alt="Boom">
+	<a class="nohover" href="http://d.pr/i/1lSZU+" alt="Boom">
 		<img src="http://d.pr/i/1lSZU+" alt="Boom" />
 	</a>
 	<figcaption>Boom</figcaption>
@@ -107,6 +112,7 @@ By placing the permalink in the Post Blog Item Code Injection section, I no long
 [^wa]: Come to find out, MacSparky was [doing something similar][macsparky], though he made use of a [TextExpander][smilesoftware] snippet.
 
 [512pixels]: http://www.512pixels.net
+[alexduner]: http://alexduner.com/blog/squarespace-permalinks
 [daringfireball]: http://daringfireball.net/2004/06/linked_list
 [loopinsight]: http://loopinsight.com
 [macsparky]: http://macsparky.com/blog/permalinkingss
@@ -115,6 +121,7 @@ By placing the permalink in the Post Blog Item Code Injection section, I no long
 [sixcolors]: http://www.sixcolors.com
 [smilesoftware]: http://smilesoftware.com/TextExpander/index.html
 [squarespace]: http://help.squarespace.com/guides/using-code-injection
+[squarespacee]: http://developers.squarespace.com
 [thesweetsetup]: http://www.thesweetsetup.com
 [twitter]: https://twitter.com/smithjw
 [urbandictionary]: http://www.urbandictionary.com/define.php?term=pita&defid=549368

@@ -141,6 +141,14 @@ Since finishing TheOverAnalyzed 3.0 [last month][theoveranalyzed], I probably vi
 
 I hope Cloud.typography webfonts can become less latent. As soon as they are, I'll be back. You can count on that. In the meantime, Avenir Next will have to do.
 
+<div class="update">
+
+### Update August 11, 2015
+
+You may have noticed that I've re-enabled my Cloud.typography webfont Ideal Sans. Avenir Next is a great sans serif font, but it can't hold a candle to Hoefler. Yeah, the site loads slightly slower than before, but TheOverAnalyzed isn't really TheOverAnalyzed without Ideal Sans.
+
+</div>
+
 [^acc]: This just became an Accidental <del>Tech</del> Font <del>Podcast</del> Post. If you want to skip ahead to my final thoughts about Hoefler webfonts, click [here][theoveranalyzed 2].
 [^has]: But correct
 [^hippa]: I am inclined to link to his development studio, but since we met in a professional setting, [HIPPA][hippa] would not approve of me doing so.

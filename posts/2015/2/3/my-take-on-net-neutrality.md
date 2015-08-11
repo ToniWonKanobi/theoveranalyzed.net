@@ -116,21 +116,19 @@ Sottek, on the prospects of the FCC reclassifying wireless as well (same article
 
 <div class="update"><h3 id="update">Update</h3>
 
-<p>Sottek <a href="http://www.theverge.com/2015/2/4/7977569/its-official-the-fcc-will-seek-to-reclassify-the-internet-as-a-utility">in a later piece for The Verge</a>:</p>
+Sottek, in a [later piece][verg] for The Verge:
+>FCC Chairman Tom Wheeler revealed his plan to reclassify ISPs as common carriers under Title II of the Telcommunications Act. It's a striking victory for net neutrality advocates who have been fighting for years to solidify internet protections using Title II authority -- and it's the first time the FCC has shown enough backbone to draw a line in the sand against companies like Comcast, AT&T, and Verizon, who are sure to fight viciously in courts.
 
-<blockquote>FCC Chairman Tom Wheeler revealed his plan to reclassify ISPs as common carriers under Title II of the Telcommunications Act. It's a striking victory for net neutrality advocates who have been fighting for years to solidify internet protections using Title II authority -- and it's the first time the FCC has shown enough backbone to draw a line in the sand against companies like Comcast, AT&T, and Verizon, who are sure to fight viciously in courts.</blockquote>
-
-<p>Finally 🐺</p>
+Finally 🐺
 
 </div>
 
 <div class="update"><h3 id="update">Another Update, Ten Minutes After The Previous One</h3>
 
-<p>And Jacob Kastrenakes, also for <a href="http://www.theverge.com/2015/2/4/7977633/fcc-will-apply-net-neutrality-to-mobile-for-the-first-time">The Verge</a>:</p>
+And Jacob Kastrenakes, also for [The Verge][vergee]:
+>The FCC has enforced some net neutrality rules for wireless carriers in the past, but chairman Tom Wheeler today announced that the commission intends implement new rules that will fully enforce its principles on mobile. As with wired broadband, the rules will ban paid prioritization and the "blocking and throttling of lawful content and services."
 
-<blockquote>The FCC has enforced some net neutrality rules for wireless carriers in the past, but chairman Tom Wheeler today announced that the commission intends implement new rules that will fully enforce its principles on mobile. As with wired broadband, the rules will ban paid prioritization and the "blocking and throttling of lawful content and services."</blockquote>
-
-<p>This is just crazy. It's like a dream come true for net neutrality advocates. </p>
+This is just crazy. It's like a dream come true for net neutrality advocates. 
 
 </div>
 
@@ -168,6 +166,8 @@ Sottek, on the prospects of the FCC reclassifying wireless as well (same article
 [theverge 4]: http://www.theverge.com/2014/11/10/7185933/fcc-should-reclassify-internet-as-utility-obama-says
 [theverge 5]: http://www.theverge.com/2015/2/2/7966363/net-neutrality-proposal
 [usatoday]: http://www.usatoday.com/story/tech/2014/05/08/comcast-time-warner-cable-house-hearing/8847183/
+[verg]: http://www.theverge.com/2015/2/4/7977569/its-official-the-fcc-will-seek-to-reclassify-the-internet-as-a-utility
+[vergee]: http://www.theverge.com/2015/2/4/7977633/fcc-will-apply-net-neutrality-to-mobile-for-the-first-time
 [wikipedia]: https://en.wikipedia.org/wiki/Power_rangers
 [wikipedia 10]: https://en.wikipedia.org/wiki/Jason_Lee_Scott#Power_Rangers_Zeo
 [wikipedia 11]: https://en.wikipedia.org/wiki/Capitalism#Criticism

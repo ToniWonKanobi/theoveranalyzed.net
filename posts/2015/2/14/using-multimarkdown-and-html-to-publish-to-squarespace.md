@@ -140,9 +140,13 @@ Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview
 
 As you can see, my workflow is not that complicated. Byword makes things incredibly easier than typing in straight HTML. Imagine how much time John Siracusa puts into his [OS X reviews][arstechnica]?[^sir]
 
-# Update
+<div class="update">
+
+### Update
 
 Since writing this post, I have switched from Byword to MultiMarkdown Composer for my text editor.  I also no longer use `Code blocks` for my content -- I am using `Markdown blocks` instead. I just paste the raw HTML parsed from MultiMarkdown Composer into a `Markdown block`, just like I was doing previously with `Code blocks`. Because editing content in `Code blocks` required a desktop browser, I was stuck waiting until I could get to my MacBook before fixing a typo I noticed after publishing. Using the `Markdown blocks` allows me to edit posts on the go from the Squarespace iOS [Blog][apple] app. See my [post][theoveranalyzed 4] for details. 
+
+</div>
 
 [^ci]: These steps are arguably the hardest part of implementing Bigfoot footnotes. Most early bloggers are like myself -- they don't know *any* HTML. They don't know any JavaScript, either.
 [^nb]: That is, in actuality, the entire purpose of Markdown: easy parsing to HTML.

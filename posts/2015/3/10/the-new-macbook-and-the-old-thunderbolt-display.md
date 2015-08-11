@@ -80,27 +80,22 @@ Apple <s>Thunderbolt</s> <s>USB</s> USB-C Dongle Display for 2015? I can only ho
 
 <div class="update"><h3 id="update">Update</h3>
 
-<p>Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this <a href="https://support.apple.com/en-us/HT202856">page</a>.</p>
+Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page](https://support.apple.com/en-us/HT202856).
 
-<p>I was checking into things this morning, and saw this:</p>
+I was checking into things this morning, and saw this:
+>The MacBook (Retina, 12-inch, Early 2015) will support these displays and rates using the USB-C Digital AV Multiport Adapter.
 
-<blockquote><p>The MacBook (Retina, 12-inch, Early 2015) will support these displays and rates using the USB-C Digital AV Multiport Adapter.</p></blockquote>
+* 3840x2160 at 30 Hz refresh rate
+* 4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)
 	
-	<ul>
-		<li>3840x2160 at 30 Hz refresh rate</li>
-		<li>4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)</li>
-	</ul>
-	
-
-
 <figure>
 	<img src="http://d.pr/i/JI2b+" alt="well" width="63%" />
 	<figcaption>Well, there's your answer.</figcaption>
 </figure>
 
-<p>I'm not sure when that info was added, but the page was last updated yesterday.</p>
+I'm not sure when that info was added, but the page was last updated yesterday.
 
-<p>So, no 4K @ 60 Hz for the new MacBook it seems.</p>
+So, no 4K @ 60 Hz for the new MacBook it seems.
 
 </div>
 

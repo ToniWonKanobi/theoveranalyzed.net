@@ -10,11 +10,13 @@
 
 <div class="update"><h3 id="update">Update August 10, 2015</h3>
 
-<p>From Star Wars Korea, here's an <a href="https://www.youtube.com/watch?v=M-VTdsCKLgg">alternate version of the trailer</a>, which includes a few extra bits not found in the North American version.</p>
+From Star Wars Korea, here's an [alternate version][alt] of the trailer, which includes a few extra bits not found in the North American version.
 
-<p>[From <a href="http://devour.com/video/star-wars-the-force-awakens-korean-trailer/">Devour</a>]</p>
+[From [Devour][dev]]
 
 </div>
 
+[alt]: https://www.youtube.com/watch?v=M-VTdsCKLgg
+[dev]: http://devour.com/video/star-wars-the-force-awakens-korean-trailer/
 [slashfilm]: http://www.slashfilm.com/the-force-awakens-trailer/
 [wikipedia]: https://en.wikipedia.org/wiki/Goose_bumps

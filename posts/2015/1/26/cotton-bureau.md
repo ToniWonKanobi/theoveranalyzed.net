@@ -24,9 +24,11 @@ That's pretty much it. I have spent more money here than my wife would like, so 
 
 **Use discount code CBANTHONYC10 to get 10% off your purchase.**
 
-<div class="update"><h3 id="update">Update</h3>
+<div class="update">
 
-<p>Their referral program has ended, in case you were wondering why the discount no longer worked.</p>
+### Update
+
+Their referral program has ended, in case you were wondering why the discount no longer worked.
 
 </div>
 
