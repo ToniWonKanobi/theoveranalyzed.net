@@ -1,8 +1,8 @@
 @@ Title=UXKit Skepticism  
-@@ Date=2015-02-06 15:00  
+@@ Date=2015-02-06T15:00:00+00:00  
 @@ Link=http://inessential.com/2015/02/05/uxkit_skepticism  
 @@ Description=The new Photos.app beta for OS X includes a new framework called `UXKit`. Brent Simmons shares his thoughts.  
-@@ Tags=development, developer, OS X, beta, UXKit  
+@@ Tags=development, developer, OS X, OS X Yosemite, beta, UXKit, AppKit, Brent Simmons  
 
 Brent Simmons of Inessential.com on Apple's implementation of UXKit in the [new Photos.app beta][theverge]:
 >The point would be to make cross-platform development a little quicker — but it wouldn’t get you out of using UIKit and AppKit.

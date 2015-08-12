@@ -2,7 +2,7 @@
 @@ Date=2015-05-06 18:30  
 @@ Link=http://www.hodinkee.com/blog/talking-watches-with-tony-fadell  
 @@ Description=Tony Fadell sits down with the Hodinkee guy and talks watches (including Apple's latest).  
-@@ Tags=Apple, Apple Watch, Nest, Google, watches, mechanical watches, design, Tony Fadell, Benjamin Clymer  
+@@ Tags=Apple, Apple Watch, Nest, Google, watches, design, Tony Fadell, Benjamin Clymer  
 
 Benjamin Clymer sat down with Nest's ([Google's][arstechnica]) [Tony Fadell][wikipedia] to talk about watches. Fadell has some great specimens to show off, that's for sure.
 

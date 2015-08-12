@@ -1,5 +1,5 @@
-@@ Title=Piper Jaffray Sees A Revamped Apple TV Set-top Box Being Core Of Apple's Fall 2015 Products  
-@@ Date=2015-02-12 14:08  
+@@ Title=Piper Jaffray Sees a Revamped Apple TV Set-Top Box Being Core of Apple's Fall 2015 Products 
+@@ Date=2015-02-12T14:08:00+00:00  
 @@ Link=http://appleinsider.com/articles/15/02/12/piper-jaffray-sees-a-revamped-apple-tv-set-top-box-being-core-of-apples-fall-2015-products  
 @@ Description=Oh, Gene.  
 @@ Tags=Apple TV, Apple, Wall Street, Gene Munster, Piper Jaffray  

@@ -1,8 +1,8 @@
-@@ Title=Google And Blogs "S***"  
-@@ Date=2015-02-18 08:42  
+@@ Title=Google and Blogs "S***"  
+@@ Date=2015-02-18T08:42:00+00:00  
 @@ Link=http://www.marco.org/2015/02/16/google-and-blogs-shit  
 @@ Description=Marco Arment talks about the state of blogging in 2015.  
-@@ Tags=blogging, developers, culture, internet, Marco Arment  
+@@ Tags=blogging, web, Marco Arment, Ben Thompson  
 
 Marco Arment, on the state of blogging in 2015:
 >Every hour we spend on Twitter or Facebook instead of reading and writing elsewhere is just making this worse — and I’m as guilty as anyone.

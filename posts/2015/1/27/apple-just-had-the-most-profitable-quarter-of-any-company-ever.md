@@ -1,8 +1,8 @@
-@@ Title=Apple Just Had The Most Profitable Quarter of Any Company Ever  
-@@ Date=2015-01-27 20:00  
+@@ Title=Apple Just Had the Most Profitable Quarter of Any Company Ever  
+@@ Date=2015-01-27T20:00:00+00:00  
 @@ Link=http://techcrunch.com/2015/01/27/apple-just-had-the-biggest-quarterly-earnings-of-any-company-ever/  
 @@ Description=Another record quarter for the company that is perpetually "doomed" by Apple bears.  
-@@ Tags=Apple, business, conference call, history, industry  
+@@ Tags=Apple, business, Apple conference call, history, industry  
 
 Greg Kumparak from TechCrunch:
  >And by “pretty good,” I mean it was the biggest quarter in history. And not just for Apple. For any company. Ever.

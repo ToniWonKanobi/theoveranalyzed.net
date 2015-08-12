@@ -1,5 +1,5 @@
-@@ Title=The Anatomy Of Taylor Swift's New "Style"  
-@@ Date=2015-02-19 10:05  
+@@ Title=The Anatomy of Taylor Swift's New "Style"  
+@@ Date=2015-02-19T10:05:00+00:00  
 @@ Link=http://www.vox.com/2015/2/19/8068789/taylor-swift-style-annotated  
 @@ Description=Vox breaks down Taylor Swift's latest single.  
 @@ Tags=Taylor Swift, music, audio  

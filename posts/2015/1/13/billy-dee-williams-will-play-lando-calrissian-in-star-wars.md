@@ -1,8 +1,8 @@
-@@ Title=Billy Dee Williams Will Play Lando Calrissian In Star Wars Rebels  
-@@ Date=2015-01-13 10:39  
+@@ Title=Billy Dee Williams Will Play Lando Calrissian in Star Wars Rebels  
+@@ Date=2015-01-13T10:39:00+00:00  
 @@ Link=http://www.theverge.com/2015/1/13/7537465/billy-dee-williams-lando-calrissian-star-wars-rebels  
 @@ Description=Could this show get any better?  
-@@ Tags=Star Wars, Star Wars Rebels, TV, culture, sci-fi  
+@@ Tags=Star Wars, Star Wars Rebels, TV, pop culture   
 
 [Kwame Opam][twitter], for The Verge: 
 >Billy Dee Williams himself will reprise his role as the classy conman Lando Calrissian in Disney's Star Wars Rebels. And he's as cool as ever in the part.

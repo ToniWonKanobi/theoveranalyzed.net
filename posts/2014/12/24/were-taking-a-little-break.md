@@ -1,7 +1,7 @@
 @@ Title="We're Taking A Little Break"  
-@@ Date=2014-12-24 19:44  
+@@ Date=2014-12-24T19:44:00+00:00  
 @@ Description=It's nice to see that on Christmas Eve, not *every* company in the world is concerned with the bottom line.  
-@@ Tags=culture, holidays, business, Cotton Bureau, Toms, Patagonia, recommendations  
+@@ Tags=culture, holidays, business, Cotton Bureau, Toms, Patagonia  
 
 So it was Christmas Day earlier today, and [like any good American consumer][redandblack], I faithfully opened up Safari tabs for [Toms][toms], [Cotton Bureau][cottonbureau], and [Patagonia][patagonia] during a moment of boredom post-present opening.
 

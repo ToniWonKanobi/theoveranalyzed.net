@@ -1,8 +1,8 @@
 @@ Title=Kenny G and Warren G Perform Regulate  
-@@ Date=2015-02-24 07:35   
+@@ Date=2015-02-24T07:35:00+00:00   
 @@ Link=https://www.youtube.com/watch?v=L4E4MWLzKrg  
 @@ Description=Kenny G and Warren G, both G's, perform on Kimmel.  
-@@ Tags=music, music videos, bass, Kenny G, Andrew Gouche  
+@@ Tags=music, music videos, bass, Kenny G, Andrew Gouche, Warren G, Jimmy Kimmel  
 
 Thanks Jimmy Kimmel.
 

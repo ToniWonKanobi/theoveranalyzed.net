@@ -1,7 +1,7 @@
 @@ Title=Dentist Instrument Featured in a /DRIVE CLEAN Video?  
 @@ Date=2015-03-01T15:00:00+00:00  
 @@ Description=I stumbled upon an interesting 'tool' used by a craftsman in this feature from /DRIVE CLEAN  
-@@ Tags=cars, dentistry, Larry Kosilla, /DRIVE CLEAN, /DRIVE, AMMO NYC
+@@ Tags=cars, dentistry, Larry Kosilla, DRIVE CLEAN, DRIVE, AMMO NYC
 @@ Image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ZahnarztAlen5690_Kofferdam.JPG/800px-ZahnarztAlen5690_Kofferdam.JPG  
 
 Do you like cars?

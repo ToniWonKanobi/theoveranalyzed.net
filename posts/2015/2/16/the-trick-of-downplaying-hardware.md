@@ -1,8 +1,8 @@
 @@ Title=The Trick of Downplaying Hardware  
-@@ Date=2015-02-16 10:00  
+@@ Date=2015-02-16T10:00:00+00:00  
 @@ Link=http://www.aboveavalon.com/notes/2015/2/13/the-trick-of-downplaying-hardware  
 @@ Description=Apple is purposefully downplaying hardware in order to get Wall Street on board with 'Apple As A Software Company.'  
-@@ Tags=Apple, business, industry, Neil Cybart  
+@@ Tags=Apple, business, industry, Neil Cybart, Apple conference call  
 
 Neil Cybart of Above Avalon, on Tim Cook's conversation with Goldman Sachs:
 >[He] reiterated that Apple has never been a hardware company but is instead all about the software.

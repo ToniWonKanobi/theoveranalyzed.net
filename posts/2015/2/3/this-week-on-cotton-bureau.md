@@ -1,8 +1,8 @@
-@@ Title=This Week On Cotton Bureau  
-@@ Date=2015-02-03 16:00  
+@@ Title=This Week on Cotton Bureau  
+@@ Date=2015-02-03T16:00:00+00:00  
 @@ Link=https://cottonbureau.com/products/mtr  
 @@ Description=I'll be featuring Cotton Bureau t-shirts here and there. This one seemed pretty neat.  
-@@ Tags=Cotton Bureau, t-shirts, This Week On Cotton Bureau  
+@@ Tags=Cotton Bureau, t-shirts, apparel, This Week on Cotton Bureau  
 
 <div class="topstory">Starting this week, I will be occasionally featuring neat designs from my favorite T-shirt company, <a href="http://www.cottonbureau.com/">Cotton Bureau</a>.
 </div>

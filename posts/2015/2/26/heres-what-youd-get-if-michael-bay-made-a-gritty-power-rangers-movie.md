@@ -1,8 +1,8 @@
-@@ Title=Here's What You'd Get If Michael Bay Made A Gritty Power Rangers Movie  
-@@ Date=2015-02-26 10:00  
+@@ Title=Here's What You'd Get if Michael Bay Made a Gritty Power Rangers Movie  
+@@ Date=2015-02-26T10:00:00+00:00  
 @@ Link=http://www.theverge.com/2015/2/24/8100337/power-rangers-michael-bay-movie-adi-shankar  
 @@ Description=This is worth a watch for any Power Rangers fan.    
-@@ Tags=Power Rangers, Anthony, TV    
+@@ Tags=Power Rangers, Anthony, TV, pop culture, Michael Bay  
 
 Yes, I watched this. 
 

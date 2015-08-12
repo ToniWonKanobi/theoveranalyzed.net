@@ -1,8 +1,8 @@
-@@ Title=Porsche Will Put Navigation Into Your Classic 911 If You Really Want It  
-@@ Date=2015-02-23 12:24  
+@@ Title=Porsche Will Put Navigation Into Your Classic 911 if You Really Want It  
+@@ Date=2015-02-23T12:24:00+00:00
 @@ Link=http://jalopnik.com/porsche-will-put-navigation-into-your-classic-911-if-yo-1687429377  
 @@ Description=Owning a classic 911 is the pipe dream of many a car lover. However, how many of them would even consider throwing a Jensen single-DIN deck in there? Not likely as many.  
-@@ Tags=Porsche, cars, radio, 911, 964, 993, culture  
+@@ Tags=Porsche, cars, audio, 911, 964, 993, culture  
 
 Someday -- though that someday is definitely not today -- I hope to have a [964][wikipedia].
 

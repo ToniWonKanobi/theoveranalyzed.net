@@ -1,8 +1,8 @@
-@@ Title=Eight Years Of The iPhone  
-@@ Date=2015-01-09 16:23  
+@@ Title=Eight Years of the iPhone  
+@@ Date=2015-01-09T16:23:00+00:00  
 @@ Link=http://sixcolors.com/post/2015/01/eight-years-of-the-iphone/  
 @@ Description=Where were *you* when iPhone launched? (I was off being a poor college student.)  
-@@ Tags=Anthony, iPhone, Apple, culture, history  
+@@ Tags=Anthony, iPhone, Apple, culture, history, Jason Snell  
 
 Jason Snell of Six Colors:
 >A few days later I managed to get my hands on one for a few minutes and was amazed by it. 

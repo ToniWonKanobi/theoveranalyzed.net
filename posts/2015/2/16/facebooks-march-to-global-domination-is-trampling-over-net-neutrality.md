@@ -1,5 +1,5 @@
-@@ Title=Facebook's March To Global Domination Is Trampling Over Net Neutrality  
-@@ Date=2015-02-16 09:00  
+@@ Title=Facebook's March to Global Domination Is Trampling Over Net Neutrality  
+@@ Date=2015-02-16T09:00:00+00:00  
 @@ Link=http://www.theverge.com/2015/2/13/8024993/facebook-internet-org-net-neutrality  
 @@ Description=Facebook's efforts to provide internet service to everyone on the planet may not be as altruistic as they claim.  
 @@ Tags=Facebook, social media, Net Neutrality, politics, business  

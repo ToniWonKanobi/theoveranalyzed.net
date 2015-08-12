@@ -1,5 +1,5 @@
-@@ Title=Permalinks In Squarespace  
-@@ Date=2015-02-01 10:00  
+@@ Title=Permalinks in Squarespace 
+@@ Date=2015-02-01T10:00:00+00:00  
 @@ Description=I figured out how to enable permalinks in posts (with the help of someone smarter than me).  
 @@ Tags=Squarespace, TheOverAnalyzed, blogging, permalinks  
 

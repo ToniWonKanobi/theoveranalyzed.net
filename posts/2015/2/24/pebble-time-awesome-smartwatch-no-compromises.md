@@ -2,7 +2,7 @@
 @@ Date=2015-02-24 07:53  
 @@ Link=https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises  
 @@ Description=Pebble is back with their next Kickstater, and it's already funded.    
-@@ Tags=Pebble, Pebble Time, smartwatches, Apple Watch  
+@@ Tags=Pebble, Pebble Time, smartwatches, watches, Apple Watch, Kickstarter  
 
 Smart of them to get on this before April, when *it* [launches][9to5mac]. 
 

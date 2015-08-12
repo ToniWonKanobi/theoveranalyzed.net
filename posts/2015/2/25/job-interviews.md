@@ -1,7 +1,7 @@
 @@ Title=Job Interviews    
-@@ Date=2015-02-25 18:00  
+@@ Date=2015-02-25T18:00:00+00:00  
 @@ Description=I've been on a few job interviews the past few weeks. It hasn't been fun.    
-@@ Tags=Anthony, dentistry, jobs      
+@@ Tags=Anthony, dentistry  
 
 Luis Abreu wrote a [piece][lmjabreu] yesterday outlining his experience interviewing for a job at Apple:
 >The [interview] seemed based on indirect questioning, [which] leaves too much room for bad judgements and assumptions

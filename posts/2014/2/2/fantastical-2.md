@@ -1,8 +1,8 @@
 @@ Title=Fantastical 2  
-@@ Date=2014-02-02 22:54  
-@@ Description=A short review of Flexibit's calendar app, Fantastical 2, as well comparisons to several popular competitors.  
+@@ Date=2014-02-02T22:54:00+00:00 
+@@ Description=A short review of Flexibits's calendar app, Fantastical 2, as well comparisons to several popular competitors.  
 @@ Image=http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg  
-@@ Tags=iPhone, apps, iOS 7, design, reviews, App Store, iOS  
+@@ Tags=iPhone, apps, iOS 7, design, reviews, App Store, iOS, Fantastical, Flexibits, The Iconfactory  
 
 <figure>
 	<img src="http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg" alt="The Iconfactory's [redesign][iconfactory] for Fantastical 2 is so precious." />

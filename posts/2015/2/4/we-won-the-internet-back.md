@@ -1,8 +1,8 @@
-@@ Title=We Won The Internet Back  
-@@ Date=2015-02-04 10:30  
+@@ Title=We Won the Internet Back  
+@@ Date=2015-02-04T10:30:00+00:00
 @@ Link=http://www.theverge.com/2015/2/4/7977963/fcc-net-neutrality-victory  
 @@ Description=The FCC voted today to reclassify broadband internet service. Power to the people.  
-@@ Tags=Net Neutrality, advocacy, politics, industry  
+@@ Tags=Net Neutrality, advocacy, politics, industry, Nilay Patel  
 
 Nilay Patel, on a train, for The Verge:
 >I asked my friend Julie Samuels from Engine Advocacy for a comment, and all she said was "this is fucking awesome."

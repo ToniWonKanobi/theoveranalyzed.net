@@ -2,7 +2,7 @@
 @@ Date=2015-05-04 16:00  
 @@ Link=http://www.wired.com/2015/05/lego-super-star-destroyer-destroyed/  
 @@ Description=Legos. Star Wars. A match made in heaven.  
-@@ Tags=Legos, Star Wars, Star Wars Day, May The Fourth, sci-fi, movies  
+@@ Tags=Lego, Star Wars, Star Wars Day, May The Fourth, sci-fi, movies  
 
 Okay, one [more][theoveranalyzed]:
 >Star Wars Day is all about celebrating. And sometimes celebrating properly means building a gigantic Super Star Destroyer out of Lego—and then filming it getting smashed to pieces in slow-motion. 

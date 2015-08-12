@@ -1,9 +1,10 @@
-@@ Title=How To Clean Up Your Twitter Feed  
-@@ Date=2014-02-03 08:02  
+@@ Title=How to Clean Up Your Twitter Feed  
+@@ Date=2014-02-03T08:02:00+00:00  
 @@ Link=http://lifehacker.com/how-to-clean-up-and-fine-tune-your-twitter-feed-1514738479  
 @@ Description: Here are some tips to keep your timeline from stretching to 500 tweets unread with only a few hours missed.  
-@@ Tags=social media, power user, Twitter, tech tips, recommendations 
+@@ Tags=social media, power user, Twitter, tech tips, Lifehacker 
 
+Eric Ravenscraft for Lifehacker:
 >Twitter is a serious communications medium with a really silly name. Regardless of the vernacular, Twitter can actually be really useful for getting up-to-the-minute information. Assuming, of course, you know how to get just the good stuff and filter out the junk.
 
 Agreed. This is a great article that talks about how to keep your Twitter feed under control. I remember when I first started using Twitter heavily, I would unlock my phone at the end of the school day with close to 300 tweets waiting for me! Talk about the [fire hydrant][gigaom].

@@ -1,8 +1,8 @@
-@@ Title=At The Core Anybody Who Can't Make Money Off iPads Or TUAW Should Get Out Of The Money-Making Business
-@@ Date=2015-02-05 09:00  
+@@ Title=At the Core Anybody Who Can't Make Money Off iPads or TUAW Should Get Out of the Money-Making Business
+@@ Date=2015-02-05T09:00:00+00:00  
 @@ Link=http://www.imore.com/core-anybody-who-cant-make-money-ipads-or-tuaw-should-get-out-money-making-business  
 @@ Description=RIP TUAW.  
-@@ Tags=blogging, Apple, culture, business  
+@@ Tags=blogging, Apple, business, culture  
 
 Serenity Caldwell for iMore, in the wake of [AOL shuttering TUAW][theverge], and on the notion that small blogs are done:
 >They just can’t seem to wrap their heads around this concept — that different products are going to have different markets, and there’s no one-size-fits-all approach to selling them.

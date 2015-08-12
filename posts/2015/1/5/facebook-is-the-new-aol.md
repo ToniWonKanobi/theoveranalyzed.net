@@ -1,7 +1,7 @@
-@@ Title=Facebook Is The New AOL  
-@@ Date=2015-01-05 10:00  
+@@ Title=Facebook Is the New AOL  
+@@ Date=2015-01-05T10:00:00+00:00  
 @@ Description=I discuss how Facebook is irrelevant, as well as recount some of my earliest experiences with computers.  
-@@ Tags=culture, history, Anthony, web    
+@@ Tags=culture, history, Anthony, web, AOL, Nilay Patel    
 
 Nilay Patel, for [The Verge][theverge]:
 >Just think about it for a minute. Of course Facebook is the new AOL.

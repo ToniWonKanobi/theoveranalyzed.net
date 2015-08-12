@@ -1,5 +1,5 @@
-@@ Title=Creating A True Index Page In Squarespace  
-@@ Date=2015-02-24 23:26  
+@@ Title=Creating a True Index Page in Squarespace  
+@@ Date=2015-02-24T23:26:00+00:00  
 @@ Description=Here's how I hacked Squarespace to have a true Index page    
 @@ Tags=Squarespace, blogging, TheOverAnalyzed  
 

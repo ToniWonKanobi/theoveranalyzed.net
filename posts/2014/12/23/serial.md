@@ -1,7 +1,7 @@
 @@ Title=Serial  
-@@ Date=2014-12-23 12:00  
+@@ Date=2014-12-23T12:00:00+00:00  
 @@ Description=I talk about how Serial is one of the driving forces behind the most recent podcast renaissance  
-@@ Tags=podcasts, culture, apps, iOS, App Store    
+@@ Tags=podcasts, pop culture, culture, Serial, apps, iOS, App Store, Anthony    
 
 Darren Murph of [Gear Patrol][gearpatrol]:
 >By its nature, it was bound to be unsatisfying on a level where many demand satisfaction. And yet, people were captivated.

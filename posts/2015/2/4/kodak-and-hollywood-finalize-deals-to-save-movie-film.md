@@ -1,8 +1,8 @@
-@@ Title=Kodak and Hollywood Finalize Deals to Save Movie Film  
-@@ Date=2015-02-04 18:00  
+@@ Title=Kodak and Hollywood Finalize Deals to Save Movie Film 
+@@ Date=2015-02-04T18:00:00+00:00  
 @@ Link=http://www.theverge.com/2015/2/4/7982243/kodak-secures-film-supply-agreements-with-movie-studios  
 @@ Description=I hope film will live on. Kodak agrees.  
-@@ Tags=culture, change, film, photography, industry, movies, history, Porsche, 911, 964, 993      
+@@ Tags=culture, photography, industry, movies, history, Kodak, Porsche, 911, 964, 993      
 
 Although digital imaging has swept the industry with its convenience, ease of use, and cost-effective nature, several directors still prefer to use film for its inherent qualities. Recent movies like Boyhood, Interstellar, and The Imitation Game were all shot on film, and upcoming blockbusters including Star Wars Episode VII: The Force Awakens, Jurassic World, and Batman v. Superman: Dawn of Justice will be filmed using Kodak products.
  

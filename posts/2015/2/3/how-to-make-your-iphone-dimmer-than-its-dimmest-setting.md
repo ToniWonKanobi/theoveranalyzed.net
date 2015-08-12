@@ -1,5 +1,5 @@
-@@ Title=How To Make Your iPhone Dimmer Than Its Dimmest Setting  
-@@ Date=2015-02-03 10:00  
+@@ Title=How to Make Your iPhone Dimmer Than Its Dimmest Setting  
+@@ Date=2015-02-03T10:00:00+00:00  
 @@ Link=https://medium.com/@searls/how-to-make-your-iphone-dimmer-than-dim-d20fd3bbbb66  
 @@ Description=This is the closest iOS users will get to the jailbreak tweak f.lux -- without jailbreaking.  
 @@ Tags=jailbreak, tech tips, iPhone, iOS, iPad, Apple    

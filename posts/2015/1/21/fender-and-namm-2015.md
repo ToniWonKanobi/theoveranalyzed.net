@@ -1,7 +1,7 @@
-@@ Title=Fender And NAMM 2015  
-@@ Date=2015-01-25 11:24 
+@@ Title=Fender and NAMM 2015  
+@@ Date=2015-01-25T11:24:00+00:00 
 @@ Description=The annual National Association of Music Merchants (NAMM) isn't what it used to be.  
-@@ Tags=music, industry, business, culture, Fender, Jim Dalrymple, NAMM    
+@@ Tags=music, business, industry, Fender, Jim Dalrymple, NAMM  
 
 [NAMM][namm] 2015 starts tomorrow, and Fender might be in for a bit of trouble with its dealers. Here's [Jim Dalrymple's][loopinsight] take on the issue:
 > Guitars are one of those items that you really need to touch and feel to appreciate. I don’t think ordering online really works for buying a high-end guitar like a Strat or Tele. Fender is doing some damage here.

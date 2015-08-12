@@ -1,7 +1,7 @@
-@@ Title=PonoPlayer And Other Audiophile Snake Oil  
-@@ Date=2015-02-03 20:00  
+@@ Title=PonoPlayer and Other Audiophile Snake Oil  
+@@ Date=2015-02-03T20:00:00+00:00  
 @@ Description=I used to have hundreds of gigabytes of high resolution audio. Was it worth it?  
-@@ Tags=audiophile, audio, music, Neil Young, Pono Player, David Pogue  
+@@ Tags=audiophile, audio, music, Neil Young, PonoPlayer, David Pogue  
 
 David Pogue, for [Yahoo!][yahoo] on [PonoPlayer][kickstarter]:
 >You’ve got to admit it: The argument for the Pono Player sure is appealing — that we don’t know what we’ve been missing in our music.

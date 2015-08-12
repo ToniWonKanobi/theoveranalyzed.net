@@ -1,8 +1,8 @@
-@@ Title=$AAPL -- $750B  
-@@ Date=2015-02-26 09:00  
+@@ Title=$AAPL $750B  
+@@ Date=2015-02-26T09:00:00+00:00  
 @@ Link=https://medium.com/@johnolilly/aapl-750b-b0dfbf60e647  
 @@ Description=Money, money.  
-@@ Tags=Apple, business, industry, history  
+@@ Tags=Apple, business, industry, history, Apple conference call 
 
 John Lilly wrote recently on Apple's reaching $750B in market capitalization. And the most interesting part about it isn't so much how high Apple has soared, but instead, it is seeing how far them have come. 
 

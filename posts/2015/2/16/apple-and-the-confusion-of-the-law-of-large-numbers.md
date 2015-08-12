@@ -1,5 +1,5 @@
-@@ Title=Apple And The Confusion Of The Law Of Large Numbers  
-@@ Date=2015-02-16 11:00  
+@@ Title=Apple and the Confusion of the Law of Large Numbers  
+@@ Date=2015-02-16T11:00:00+00:00  
 @@ Link=http://www.bloomberg.com/news/articles/2015-02-11/tim-cook-doesn-t-believe-this-made-up-math-law-will-limit-apple-s-growth  
 @@ Description="The Law of Large Numbers" can mean different things for different contexts.  
 @@ Tags=Apple, business, Wall Street, industry, Ben Thompson  

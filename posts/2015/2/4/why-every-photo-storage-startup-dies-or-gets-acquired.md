@@ -1,8 +1,8 @@
-@@ Title=Why Every Photo Storage Startup Dies Or Gets Acquired  
-@@ Date=2015-02-04 12:00  
+@@ Title=Why Every Photo Storage Startup Dies or Gets Acquired 
+@@ Date=2015-02-04T12:00:00+00:00  
 @@ Link=http://www.theverge.com/2015/2/2/7964663/why-every-photo-storage-startup-dies-or-gets-acquired  
 @@ Description=EverPix, Loom, etc. Will there ever be a decent cloud storage photo solution?  
-@@ Tags=cloud, industry, business, Everpix, Loom, Picturelife  
+@@ Tags=industry, business, Everpix, Loom, Picturelife  
 
 Casey Newton for The Verge:
 >But the startups keep dying. First Everpix went under. Then Loom, a kind of infinite camera roll, sold to Dropbox and formed the basis for Carousel. Now Picturelife belongs to StreamNation, which aspires to become the hub for all your digital files: movies, music, and photos.

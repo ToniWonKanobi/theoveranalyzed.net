@@ -1,5 +1,5 @@
 @@ Title=One Year Later  
-@@ Date=2015-02-06 18:00  
+@@ Date=2015-02-06T18:00:00+00:00  
 @@ Description=Although I haven't been posting regularly for the past year, it feels good to have garnered a small following. Thanks to all of you who read this site.  
 @@ Tags=meta, Anthony, blogging, TheOverAnalyzed    
 

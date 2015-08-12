@@ -1,8 +1,8 @@
 @@ Title=Nissan 2015 Super Bowl Commercial "With Dad"  
-@@ Date=2015-02-02 20:30  
+@@ Date=2015-02-02T20:30:00+00:00  
 @@ Link=https://www.youtube.com/watch?v=Bd1qCi5nSKw  
 @@ Description=This is *so* much better than the Budweiser one.  
-@@ Tags=animals, animal advocacy, heartstrings, TV, culture, cars, Nissan  
+@@ Tags=animals, animal advocacy, advocacy, heartstrings, TV, pop culture, cars, Nissan  
 
 This has to be the best commercial for this year's Super Bowl. The [Budweiser][youtube] one was a little off-putting this year.[^y]
 

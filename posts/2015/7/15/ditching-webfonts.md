@@ -1,7 +1,7 @@
 @@ Title=Ditching Webfonts  
 @@ Date=2015-07-15T11:41:00  
 @@ Description=Over the past few years, I've become increasingly interested in design and specifically, typography. Ideal Sans was *it* for me. But maybe Hoefler's webfont is just too much of a drag right now?  
-@@ Tags=web, web design, fonts, typeface, Ideal Sans, webfonts, Ditching Webfonts  
+@@ Tags=web, web design, fonts, typefaces, Ideal Sans, webfonts, Ditching Webfonts  
 @@ Image=http://d.pr/i/138Zv+  
 
 <div class="topstory">This piece is largely a self-response to an earlier post I wrote on the subject called <a href="http://www.theoveranalyzed.net/2015/7/12/why-the-web-is-so-slow">Why The Web Is So Slow</a>. You should read that before reading this.

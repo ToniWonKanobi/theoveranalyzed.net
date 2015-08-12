@@ -1,7 +1,7 @@
-@@ Title=Why Are Watches Always Photographed At Ten Past Ten?  
-@@ Date=2015-02-25 08:04  
+@@ Title=Why Are Watches Always Photographed at Ten Past Ten?  
+@@ Date=2015-02-25T08:04:00+00:00  
 @@ Description=Finally, an answer to this question.    
-@@ Tags=watches, Apple Watch, history, mechanical watches  
+@@ Tags=watches, Apple Watch, history  
 
 A tweet by Marco Arment caught my attention this morning:
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p>Quick, it’s 10:09, take all of your WatchKit screenshots!</p>&mdash; Marco Arment (@marcoarment) <a href="https://twitter.com/marcoarment/status/570601403678367744">February 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

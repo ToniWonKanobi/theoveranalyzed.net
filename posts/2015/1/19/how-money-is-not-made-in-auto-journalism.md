@@ -1,7 +1,7 @@
-@@ Title=How Money Is (Not) Made In Auto Journalism  
-@@ Date=2015-01-19 12:00  
+@@ Title=How Money Is (Not) Made in Auto Journalism  
+@@ Date=2015-01-19T12:00:00+00:00  
 @@ Description=Chris Harris lays out some of the troubles plaguing automobile enthusiasts like himself.  
-@@ Tags=cars, blogging, journalism, culture, Chris Harris    
+@@ Tags=cars, blogging, journalism, Chris Harris, Jalopnik, culture    
 
 Chris Harris recently wrote a [piece][jalopnik] on Jalopnik regarding the dismal state of print/web/video content and revenues.
 

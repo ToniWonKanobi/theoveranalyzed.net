@@ -1,7 +1,7 @@
-@@ Title=The Paradox Of Choice / Choosing An iPad  
-@@ Date=2014-12-22 16:48  
+@@ Title=The Paradox of Choice & Choosing an iPad  
+@@ Date=2014-12-22T16:48:00+00:00  
 @@ Description=Sometimes too many choices makes thins difficult. Case in point: choosing a new iPad.  
-@@ Tags=iPad, culture, reviews, Anthony, recommendations  
+@@ Tags=iPad, reviews, Anthony, Barry Schwartz, TED Talk  
 
 Barry Schwartz, via [TED Talk][ted]:
 >With so many options to choose from, people find it very difficult to choose at all.

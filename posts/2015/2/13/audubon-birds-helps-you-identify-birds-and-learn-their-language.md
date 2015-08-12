@@ -1,8 +1,8 @@
-@@ Title=Audubon Birds Helps You Identify Birds And Learn Their Language  
-@@ Date=2015-02-13 10:00  
+@@ Title=Audubon Birds Helps You Identify Birds and Learn Their Language  
+@@ Date=2015-02-13T10:00:00+00:00  
 @@ Link=http://www.appleworld.today/blog/2015/2/11/audubon-birds  
 @@ Description=Gotta love that app icon.  
-@@ Tags=birds, apps, iPhone, iOS, recommendations  
+@@ Tags=birds, apps, iPhone, iOS  
 
 I hadn't previously used the Audubon app before seeing this article. And, full disclosure: this seems like a promoted post for [Green Mountain Digital][natureshare]. It reads an awful lot like an ad read. Still, this app is worth checking out if you like birds.[^br]
 

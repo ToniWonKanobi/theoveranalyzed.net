@@ -1,5 +1,5 @@
-@@ Title=Apple's Activation Lock drives iPhone thefts down 40% in San Francisco, 25% in New York  
-@@ Date=2015-02-13 11:00  
+@@ Title=Apple's Activation Lock Drives iPhone Thefts Down 40% in San Francisco, 25% in New York  
+@@ Date=2015-02-13T11:00:00+00:00  
 @@ Link=http://appleinsider.com/articles/15/02/11/apples-activation-lock-drives-iphone-thefts-down-40-in-san-fracisco-25-in-new-york  
 @@ Description=Another perk of being an iOS user.  
 @@ Tags=Apple, iOS, iPhone, culture  

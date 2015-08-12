@@ -1,8 +1,8 @@
-@@ Title=Last Week Tonight With John Oliver: Marketing To Doctors  
-@@ Date=2015-02-12 09:00    
+@@ Title=Last Week Tonight With John Oliver: Marketing to Doctors  
+@@ Date=2015-02-12T09:00:00+00:00    
 @@ Link=http://www.youtube.com/watch?v=YQZ2UeOTO3I  
 @@ Description=John Oliver sticking it to the pharmaceutical industry.  
-@@ Tags=medicine, culture, industry, business, John Oliver, Last Week Tonight  
+@@ Tags=medicine, culture, industry, business, John Oliver, Last Week Tonight, Last Week Tonight With John Oliver
 
 A good example of John Oliver doing his thing. 
 

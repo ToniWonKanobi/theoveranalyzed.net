@@ -1,5 +1,5 @@
-@@ Title=Five Years Of iPad  
-@@ Date=2015-01-26 12:00  
+@@ Title=Five Years of iPad  
+@@ Date=2015-01-26T12:00:00+00:00  
 @@ Link=http://www.512pixels.net/blog/2015/1/five-years-of-ipad  
 @@ Description=Stephen Hackett at 512 Pixels put together a tribute to the iPad, five years old today.  
 @@ Tags=Apple, hardware, iPad, history, Apple Hardware Bucket List, Stephen Hackett  
@@ -9,5 +9,5 @@ Stephen Hackett of 512 Pixels:
 
 The [original iPad][wikipedia] is definitely on my [Apple Hardware Bucket List][bl].
 
-[bl]: @@SiteRoot@@/2015/1/26/apple-hardware-bucket-list
+[bl]: http://theoveranalyzed.net/2015/1/26/apple-hardware-bucket-list
 [wikipedia]: https://en.wikipedia.org/wiki/IPad_(original)

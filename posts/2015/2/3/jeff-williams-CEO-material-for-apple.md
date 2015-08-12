@@ -1,8 +1,8 @@
-@@ Title=Jeff Williams -- CEO Material For Apple?  
-@@ Date=2015-02-03 15:00  
+@@ Title=Jeff Williams: CEO Material for Apple?  
+@@ Date=2015-02-03T15:00:00+00:00  
 @@ Link=http://www.aboveavalon.com/notes/2015/1/29/jeff-williams-apple-ceo-material  
 @@ Description=Could Apple's current COO end up its next CEO? (Does this sound familiar?)  
-@@ Tags=Apple, business, Neil Cybart, John Gruber, Tim Cook, Eddy Cue, Jony Ive, Phil Schiller, Jeff Williams, Angela Ahrendts 
+@@ Tags=Apple, business, Neil Cybart, John Gruber, Tim Cook, Eddy Cue, Jony Ive, Phil Schiller, Jeff Williams, Angela Ahrendts  
 
 Neil Cybart's recent piece inspired some interesting thoughts from [John Gruber][daringfireball]. Here's what he had to say:
 >I’d guess that the current short list of Cook successors would consist of (in alphabetical order) Eddy Cue, Jony Ive, Phil Schiller, and Williams. All of them long-time Apple leaders. (After a few more years, Angela Ahrendts would certainly be considered. But at this point she’s still too new to the company.) I think Ive is the least likely of the bunch to want the job, but he certainly has the respect within the company.

@@ -1,7 +1,7 @@
 @@ Title=The Honda NSX  
-@@ Date=2015-02-13 09:00  
+@@ Date=2015-02-13T09:00:00+00:00  
 @@ Description=I talk about one of my favorite cars of all time.  
-@@ Tags=cars, NSX, Honda, Acura, Anthony, opinion  
+@@ Tags=cars, NSX, Honda, Acura, Anthony, Jalopnik  
 
 Patrick George, with Jalopnik on the [Honda NSX][jalopnik]:
 >There is no way the new NSX will escape comparison with its famous father.

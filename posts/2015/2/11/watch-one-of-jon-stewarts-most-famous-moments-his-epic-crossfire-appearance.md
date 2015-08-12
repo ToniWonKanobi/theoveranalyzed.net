@@ -1,8 +1,8 @@
-@@ Title=Watch One Of Jon Stewart's Most Famous Moments: His Epic Crossfire Appearance  
-@@ Date=2015-02-11 08:00  
+@@ Title=Watch One of Jon Stewart's Most Famous Moments: His Epic Crossfire Appearance  
+@@ Date=2015-02-11T08:00:00+00:00  
 @@ Link=http://www.vox.com/2015/2/10/8016365/jon-stewart-crossfire  
 @@ Description=TDS just won't be the same without him.  
-@@ Tags=TV, media, culture, politics, endings  
+@@ Tags=TV, Jon Stewart, culture, politics, endings  
 
 Zack Beauchamp, for Vox:
 >"You're partisan — what do you call it — hacks," Stewart said, to a stunned Carlson and Begala. "Stop hurting America."

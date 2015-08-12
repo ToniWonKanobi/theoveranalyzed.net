@@ -1,7 +1,7 @@
 @@ Title=Look How Far We've Come  
-@@ Date=2015-01-16 20:30
+@@ Date=2015-01-16T20:30:00+00:00
 @@ Description=Broadband internet speeds aren't the only thing that's changed since I was a kid.  
-@@ Tags=culture, history, internet, web, Anthony    
+@@ Tags=history, internet, web, Anthony, culture    
 @@ Image=http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif
 
 I worked at a different dental office today. This one has a [desk][d] that I can sit in. When I wasn't performing irreversible surgical procedures on human hard tissue, I read. A lot. Between my [Instapaper][instapaper] queue and Twitter/RSS, I have had a lot of great things to read.

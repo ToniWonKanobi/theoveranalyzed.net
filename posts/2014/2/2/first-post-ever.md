@@ -1,7 +1,7 @@
 @@ Title=First Post Ever  
-@@ Date=2014-02-02 10:04  
+@@ Date=2014-02-02T10:04:00+00:00  
 @@ Description=TheOverAnalyzed's first post ever.  
-@@ Tags=meta, TheOverAnalyzed  
+@@ Tags=TheOverAnalyzed  
 
 So I'll make it something good. I'll leave you with one of those questions you have probably always thought about, but never found an adequate answer.
 

@@ -1,8 +1,8 @@
-@@ Title=Revenge Of The Pigs  
-@@ Date=2015-02-12 08:00  
+@@ Title=Revenge of the Pigs  
+@@ Date=2015-02-12T08:00:00+00:00  
 @@ Link=http://www.psmag.com/nature-and-technology/revenge-of-the-pigs-hunting-and-the-feral-hog-problem  
 @@ Description=A spot-on look at hunters' philosophical fallacies.  
-@@ Tags=animal advocacy, politics, culture  
+@@ Tags=animal advocacy, animals, advocacy, politics, culture  
 
 James McWilliams, writing for Pacific Standard:
 >For all the rhetoric that hunters spew about maintaining environmental balance, **it has been the primal desire to shoot wild animals that has motivated their behavior** [emphasis added]. It’s worth recalling that the invasive hog problem hunters earnestly promised to solve was partially created by the hunters in the first place.

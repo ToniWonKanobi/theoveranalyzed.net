@@ -1,8 +1,8 @@
-@@ Title=Strip District Firm Cotton Bureau Links Artists To T-shirt Lovers  
-@@ Date=2015-02-17 09:44  
+@@ Title=Strip District Firm Cotton Bureau Links Artists to T-Shirt Lovers  
+@@ Date=2015-02-17T09:44:00+00:00  
 @@ Link=http://triblive.com/business/headlines/7748459-74/cotton-shirts-bureau  
 @@ Description=I've been a Cotton Bureau customer for the better part of a year. Here's a story about them in their local Pittsburg newspaper featuring your's truly.  
-@@ Tags=Cotton Bureau, t-shirts, Anthony, recommendations      
+@@ Tags=Cotton Bureau, Anthony  
 
 Today, The Pittsburg Tribune-Review profiled my favorite apparel company ever, [Cotton Bureau][cottonbureau]. 
 

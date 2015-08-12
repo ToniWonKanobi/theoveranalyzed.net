@@ -1,8 +1,8 @@
 @@ Title=Did You Like Breaking Bad? Then You'll Probably Like Better Call Saul  
-@@ Date=2015-02-06 13:30  
+@@ Date=2015-02-06T13:30:00+00:00  
 @@ Link=http://www.vox.com/2015/2/6/7992801/better-call-saul-review-amc  
 @@ Description=Breaking Bad returns, but without Walter, and Jesse, and Hank, and other people, and with a new name. And it's still good.  
-@@ Tags=TV, culture, Breaking Bad, Better Call Saul  
+@@ Tags=TV, pop culture, Breaking Bad, Better Call Saul  
 
 Todd VanDerWerff reviews [Better Call Saul][imdb] for Vox:
 >The most interesting thing about Better Call Saul is also the thing that might ultimately cause it to seem like a minor diversion for all involved. Put simply, if Breaking Bad was a show about a good man who chose to indulge his evil side, Better Call Saul is its thematic opposite. Jimmy McGill is a man who has been bad, who has hurt people, who has done wrong, and now, he's trying, desperately, to overcome that part of himself, to perform a kind of alchemy that will let him be good.

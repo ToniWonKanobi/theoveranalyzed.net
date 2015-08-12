@@ -1,10 +1,10 @@
-@@ Title=Every Line Of Dialogue From The New Furious 7 Trailer, Explained  
-@@ Date=2015-02-02 09:00  
+@@ Title=Every Line of Dialogue From the New Furious 7 Trailer, Explained  
+@@ Date=2015-02-02T09:00:00+00:00  
 @@ Link=http://www.theverge.com/tldr/2015/2/2/7962515/every-line-of-dialogue-from-the-new-furious-7-trailer-explained  
 @@ Description=This movie looks to be super serious.  
-@@ Tags=movies, funny, The Fast And The Furious  
+@@ Tags=movies, funny, pop culture, The Fast and the Furious  
 
-Chris Ziegler  for the Verge:
+Chris Ziegler for the Verge:
 >I’m pretty sure Dom has been saying “one last ride” every movie since the first, except for the second one and Tokyo Drift because he’s not in those.
 
 I'll be the first to admit that the [entire Furious lineup][wikipedia] is a horrid and flawed take on car culture in America.[^am] Ever since the first one, critics agree these movies are [terrible][wikipedia 2]. 

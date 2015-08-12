@@ -1,5 +1,5 @@
-@@ Title=You Can Pay For Admission To National Parks With Apple Pay Starting In September  
-@@ Date=2015-02-16 08:00  
+@@ Title=You Can Pay for Admission to National Parks With Apple Pay Starting in September  
+@@ Date=2015-02-16T08:00:00+00:00  
 @@ Link=http://www.theverge.com/2015/2/13/8034641/apple-pay-national-parks-september-2015  
 @@ Description=Apple Pay is coming to National Parks.  
 @@ Tags=Apple Pay, culture, business, government, National Parks  

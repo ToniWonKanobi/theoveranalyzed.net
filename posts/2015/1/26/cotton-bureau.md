@@ -1,7 +1,7 @@
 @@ Title=Cotton Bureau  
-@@ Date=2015-01-26 10:00  
+@@ Date=2015-01-26T10:00:00+00:00  
 @@ Description=I love this site.  
-@@ Tags=gear, t-shirts, business, Cotton Bureau, recommendations    
+@@ Tags=apparel, t-shirts, business, Cotton Bureau, reviews    
 @@ Image=https://cottonbureau.com/img/tee-pattern_2x.png  
 
 I recently became an ambassador of sorts for my favorite online T-shirt company, [Cotton Bureau][cottonbureau]. The concept of the site is a lot like [Kickstarter][kickstarter] or [Indiegogo][indiegogo], in that the business model is basically crowdfunding.

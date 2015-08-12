@@ -1,7 +1,7 @@
-@@ Title=Tapbots' New Website  
-@@ Date=2015-02-27 13:40  
+@@ Title=Tapbots's New Website  
+@@ Date=2015-02-27T13:40:00+00:00  
 @@ Description=The team behind arguably the best Twitter client for iPhone and the Macintosh is has a new website. Check it out!    
-@@ Tags=developers, development, Tweetbot, Tapbots, design, web design    
+@@ Tags=developers, development, Tweetbot, Twitterrific, Tapbots, design, web design, web  
 
 It wasn't long after I got my iPhone 5 that I started feeling like Facebook wasn't for me anymore. 
 

@@ -1,8 +1,8 @@
 @@ Title=Apple Announces Media Event for March 9  
-@@ Date=2015-02-26 09:34  
+@@ Date=2015-02-26T09:34:00+00:00  
 @@ Link=http://www.apple.com/live/  
 @@ Description=Here comes more info on Apple Watch.  
-@@ Tags=Apple, Jim Dalrymple  
+@@ Tags=Apple  
 
 Is it wrong to want to be sick on this day?
 

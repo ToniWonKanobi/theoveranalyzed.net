@@ -1,8 +1,8 @@
 @@ Title=Vintage Logos  
-@@ Date=2015-02-02 10:00  
+@@ Date=2015-02-02T10:00:00+00:00  
 @@ Link=https://www.flickr.com/photos/mr_carl/sets/72157604144345854/  
 @@ Description=I don't often link to Daring Fireball content (since I assume if you follow me, you probably follow John Gruber). However, this is good stuff.  
-@@ Tags=design, logos, history, culture, FedEx, Lindon Leader  
+@@ Tags=design, logos, history, FedEx, Lindon Leader  
 @@ Image=http://a.fastcompany.net/multisite_files/codesign/imagecache/1280/poster/2012/10/1671067-poster-1280-fedex-ex0187.jpg  
 
 I love stuff like this. A lot of these still look relevant today, over forty years later. I wonder which of today's modern designs we will be talking about forty years from now? 

@@ -1,8 +1,8 @@
 @@ Title=Beats Music Taps Ellen Degeneres  
+@@ Date=2014-02-02T22:52:00+00:00  
 @@ Link=http://www.theverge.com/2014/2/2/5372226/beats-music-taps-ellen-degeneres-and-bears-for-super-bowl-spot  
-@@ Date=2014-02-02 22:52  
 @@ Description=Beats Music graps comedian Ellen for a Super Bowl advertisement.  
-@@ Tags=iOS, business, Apple, apps, App Store, music  
+@@ Tags=iOS, business, Apple, apps, App Store, music, Ellen DeGeneres, Beats Music, Rdio  
 
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p>Beats Music taps Ellen DeGeneres (and bears) for Super Bowl spot <a href="http://t.co/Vv06AbK905">http://t.co/Vv06AbK905</a></p>&mdash; The Verge (@verge) <a href="https://twitter.com/verge/status/430133943942144000">February 3, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
