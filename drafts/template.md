@@ -8,7 +8,7 @@
 
 <div class="topstory">Text</div>
 
-<div class="takehome"><p>Emphasis</p></div>
+<div class="takehome"><p><i>Boom</i></p></div>
 
 <figure>
 <figure class="iphone">

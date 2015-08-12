@@ -28,7 +28,7 @@ Allow me to take you through each of his steps, [like you're two year old][youtu
 
 # Step 1 - Installing Node & npm
 
-Here's the thing: I tried visiting the Node and npm pages for help with Casey's instructions. According to the documentation on the npm site, npm is installed whenever Node is. If that's the case, why did Casey write "Install Node & npm?" Why not just "Install Node [which installs Node as well]?" 
+Here's the thing: I tried visiting the Node and npm pages for help with Casey's instructions. According to the documentation on the npm site, npm is installed whenever Node is. If that's the case, why did Casey write "Install Node & npm"? Why not just "Install Node [which installs Node as well]"? 
 
 Turns out, all I had to do was install Node via this [package][nodejs 2].[^os] Once Node (and npm) were installed, I could use `node` and `npm` commands in the command line. I was ready for step 2.
 

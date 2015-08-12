@@ -114,7 +114,7 @@ It will only get better.
 
 [^sh]: Now, typically I wouldn't recommend such a thing. There were, however, several factors at play, factors that all but guaranteed both my safety and the authenticity of the deal. Firstly, the seller appeared to be a medical student at the local university, and also seemed to hail from Idaho, so said his LinkedIn page. These two circumstances certainly seemed to decrease the likelihood that he was an axe murderer posing as a coveted Apple hardware dealer on eBay. Secondly, the seller had included photos of the unopened (!) shipping box straight from the UPS on Apple's behalf. 
 [^re]: Remember, Apple calls them "collections," not "models," which would be, you know, totally easier to use in print format. 
-[^os]: "watchOS?" (I am writing this on WWDC eve)
+[^os]: "watchOS"? (I am writing this on WWDC eve)
 
 [apple]: https://itunes.apple.com/us/app/apple-store/id375380948?at=1l3vx9s
 [apple 2]: https://www.apple.com/pr/library/2007/01/09Apple-Reinvents-the-Phone-with-iPhone.html

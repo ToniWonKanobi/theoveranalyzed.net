@@ -23,11 +23,7 @@ So when family members or friends have gifted me books, my emotions have been a 
 
 I have even gone so far as to specifically ask for books as gifts, in the hopes that my fear of disappointing the gifter might actually motivate me to do some good old fashioned book reading. Alas, no. The guilt is there, but the books remain on the shelf, staring me down on a daily basis. 
 
-***
-
-**"Will I finish this before I see them next, less they think me ungrateful?"**
-
-***
+<div class="takehome"><p><i>Will I finish this before I see them next, less they think me ungrateful?</i></p></div>
 
 Thankfully, the new biography "[Becoming Steve Jobs][amazon]" by Brent Schlender and Rick Tetzeli might just be the motivation I need.
 
