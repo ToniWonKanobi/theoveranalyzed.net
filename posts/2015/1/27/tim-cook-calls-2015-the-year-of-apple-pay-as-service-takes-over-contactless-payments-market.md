@@ -9,4 +9,12 @@ AppleInsider:
 
 Yeah, I bet Wal-Mart et al. are [feeling pretty stupid right now][techcrunch].
 
+<div class="update">
+
+### Update August 12, 2015
+
+CurrentC died today.
+
+</div>
+
 [techcrunch]: http://techcrunch.com/2014/10/25/currentc/
