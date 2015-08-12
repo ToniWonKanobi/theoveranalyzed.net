@@ -154,6 +154,7 @@ figure.figright {
 
 figure.figright {
 	float: right;
+	margin: 0.5em 0.5em 1em 2em;
 }
 
 /* MacStories-style images */
@@ -343,7 +344,8 @@ i.fa.fa-code.fa-fw {
 }
 
 i.fa.fa-question.fa-fw, 
-i.fa.fa-usd.fa-fw {
+i.fa.fa-usd.fa-fw,
+i.fa.fa-history.fa-fw {
 	margin-left: -5px;
 }
 
@@ -356,7 +358,8 @@ i.fa.fa-usd.fa-fw,
 i.fa.fa-twitter.fa-fw,
 i.fa.fa-envelope-o.fa-fw,
 i.fa.fa-chain-broken.fa-fw,
-i.fa.fa-question.fa-fw {
+i.fa.fa-question.fa-fw, 
+i.fa.fa-history.fa-fw {
 	vertical-align: 5%;
 	font-size: 0.8em
 }

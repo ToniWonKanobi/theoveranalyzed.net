@@ -2,11 +2,19 @@
 @@ HideHeader=true  
 @@ BodyClass=about  
 
-<h1><i class="fa fa-user fa-fw"></i> About</h1>
+<h1 id="info"><i class="fa fa-user fa-fw"></i>About The Site</h1>
 
-<img src="http://d.pr/i/1d53F+" alt="❤️" style="float: right; display: inline; width: 45%; margin: 0 0 1em 1em;">
+<figure class="figright">
+	<a class="nohover" href="http://d.pr/i/1d53F+">
+		<img src="http://d.pr/i/1d53F+" alt="❤️" width="80%">
+	</a>
+</figure>
 
 I'm [Anthony][ant] <i class="fa fa-child fa-fw"></i>
+
+TheOverAnalyzed is about [Apple](http://www.theoveranalyzed.net/tags/Apple) and technology in general, as well as [automobilia](http://www.theoveranalyzed.net/tags/cars), [design](http://www.theoveranalyzed.net/tags/design), and [pop culture](http://www.theoveranalyzed.net/tags/culture).
+
+<h1 id="howitcametobe"><i class="fa fa-history fa-fw"></i>How It Came To Be</h1>
 
 After months of hearing on my favorite [podcast][atp] various advertisements for [Squarespace][ss], I took the plunge and started my own blog in [early 2014][ear]: TheOverAnalyzed. I had no formal web development or design background, but I am a quick learner and a pretty well-rounded nerd. Blogging seemed like an outlet as well as a way to learn some new things.
 
