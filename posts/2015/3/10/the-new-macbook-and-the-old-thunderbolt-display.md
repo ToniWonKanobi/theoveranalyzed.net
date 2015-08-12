@@ -97,7 +97,7 @@ I was checking into things this morning, and saw this:
 
 I'm not sure when that info was added, but the page was last updated yesterday.
 
-So, no 4K @ 60 Hz for the new MacBook it seems.
+**So, no 4K @ 60 Hz for the new MacBook it seems.**
 
 </div>
 

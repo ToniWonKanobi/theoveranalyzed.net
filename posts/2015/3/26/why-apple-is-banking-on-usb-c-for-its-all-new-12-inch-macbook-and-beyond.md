@@ -18,9 +18,24 @@ There is still a lot we don’t know about the new MacBook and it’s USB-C port
 
 <div class="update">
 
-### Update Date
+### Update
 
-Text
+Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page](https://support.apple.com/en-us/HT202856).
+
+I was checking into things this morning, and saw this:
+>The MacBook (Retina, 12-inch, Early 2015) will support these displays and rates using the USB-C Digital AV Multiport Adapter.
+
+* 3840x2160 at 30 Hz refresh rate
+* 4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)
+	
+<figure>
+	<img src="http://d.pr/i/JI2b" alt="well" width="63%" />
+	<figcaption>Well, there's your answer.</figcaption>
+</figure>
+
+I'm not sure when that info was added, but the page was last updated yesterday.
+
+**So, no 4K @ 60 Hz for the new MacBook it seems.**
 
 </div>
 
