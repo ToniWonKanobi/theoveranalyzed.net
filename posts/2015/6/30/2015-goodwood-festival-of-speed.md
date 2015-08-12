@@ -2,7 +2,7 @@
 @@ Date=2015-07-01T11:55:00  
 @@ Link=http://www.total911.com/2015-goodwood-festival-of-speed-gallery-part-one/  
 @@ Description=Total 911 has the scoop on this year's Goodwood.  
-@@ Tags=Porsche, Goodwood, cars, 911, Cayman GT4, Cayman, GT4, 991 GT3 RS, 991, 918, 919, 956, Singer, Singer 911  
+@@ Tags=Porsche, Goodwood, cars, 911, Cayman GT4, Cayman, GT4, 991 GT3 RS, 991, 918, 919, 956, Singer  
 @@ Image=http://www.total911.com/wp-content/uploads/2015/06/Goodwood-2.jpg  
 
 Josh Barnett of Total 911 was at the 2015 [Goodwood Festival of Speed][goodwood]:

@@ -2,7 +2,7 @@
 @@ Date=2015-06-03T09:54:00  
 @@ Link=http://jalopnik.com/ford-mustang-shelby-gt350s-glorious-flat-plane-crank-v8-1708503100  
 @@ Description=American muscle gets some Italian inspiration (at least under the hood).
-@@ Tags=cars, Mustang, Shelby, GT350, culture  
+@@ Tags=cars, Mustang, Ford, Shelby, GT350, culture  
 @@ Image=http://i.kinja-img.com/gawker-media/image/upload/s--0lq64G7O--/c_fit,fl_progressive,q_80,w_636/1279680204467523730.jpg  
 
 [A few months ago][caranddriver] we learned that Ford/Shelby had gone and done the unimaginable -- they strapped a flat-plane V8 in the new GT350. No supercharger. No [slushbox][duckduckgo]. Just that glorious V8. And now we know even more.

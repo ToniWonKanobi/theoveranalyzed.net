@@ -1094,7 +1094,7 @@ app.get('/tags', function (request, response) {
 				}
 			});
 		});
-		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return key });
+		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return key.toLowerCase() });
 		_.each(orderedKeys, function (key) {
 //			retVal += '<h3><a href="/tags/' + key.toLowerCase() + '">' + key.capitalize() + '</a></h3>';
 			retVal += '<h3><a href="/tags/' + key + '" style="border-bottom:none"><i class="fa fa-tag fa-fw"></i> ' + key + '</a></h3>';

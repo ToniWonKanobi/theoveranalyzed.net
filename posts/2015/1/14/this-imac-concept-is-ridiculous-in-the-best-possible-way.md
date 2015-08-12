@@ -2,7 +2,7 @@
 @@ Date=2015-01-14 16:00  
 @@ Link=http://www.theverge.com/2015/1/14/7545171/imac-concept-design-macintosh-homage  
 @@ Description=This wouldn't be thin enough for Jony.  
-@@ Tags=Apple Hardware Bucket List, hardware, Apple, concepts, Mac, iMac
+@@ Tags=Apple Hardware Bucket List, hardware, Apple, concepts, iMac, Macintosh  
 @@ Image=https://cdn1.vox-cdn.com/thumbor/_koK5V1-CDQb4k40Y5ho0_0hhng=/0x0:1368x912/2050x1367/cdn0.vox-cdn.com/uploads/chorus_image/image/45215504/18.0.0.jpg  
 
 Vlad Savov for The Verge:

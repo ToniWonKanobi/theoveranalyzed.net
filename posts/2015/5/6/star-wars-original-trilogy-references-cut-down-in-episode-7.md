@@ -2,7 +2,7 @@
 @@ Date=2015-05-06 10:30  
 @@ Link=http://www.slashfilm.com/j-j-abrams-cut-star-wars-original-trilogy-references-from-the-force-awakens/  
 @@ Description=The superfans might be not be pleased with the lack of Expanded Universe references.  
-@@ Tags=Star Wars, Star Wars The Force Awakens, movies, The Force Awakens, sci-fi  
+@@ Tags=Star Wars, Star Wars: The Force Awakens, movies, sci-fi, pop culture  
 
 Ethan Anderton, reporting for /Film:
 >So not only are there fewer nods to the original trilogy, but they also didn’t want to go overboard with setting up Episode VIII, even though Rian Johnson is hard at work on the sequel already. That’s a good idea considering the original trilogy didn’t have much in the vein of set up for the sequels. Star Wars has no indication that there were more stories to come other than the survival of Darth Vader after the destruction of the first Death Star. And The Empire Strikes Back only takes Han Solo prisoner and leaves Luke Skywalker to ponder the identity of his father. So there aren’t any Marvel Studios-level plans laying the groundwork for countless other projects in the future.

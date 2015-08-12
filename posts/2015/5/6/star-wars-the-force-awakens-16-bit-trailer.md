@@ -2,7 +2,7 @@
 @@ Date=2015-05-06 10:30  
 @@ Link=https://www.youtube.com/watch?v=heVBYAbwUUg  
 @@ Description=The new Star Wars Trailer, with SNES graphics.  
-@@ Tags=Star Wars, funny, Star Wars The Force Awakens, video games 
+@@ Tags=Star Wars, funny, Star Wars: The Force Awakens, video games 
 
 Not [Legos][theoveranalyzed], but certainly just as awesome.
 

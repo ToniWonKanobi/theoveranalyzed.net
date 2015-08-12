@@ -2,7 +2,7 @@
 @@ Date=2015-03-13 12:00  
 @@ Link=http://blog.forecast.io/dark-sky-for-apple-watch/  
 @@ Description=The best weather app on iOS is coming to Watch OS.  
-@@ Tags=Apple, Apple Watch, Watch OS, apps  
+@@ Tags=Apple, Apple Watch, watchOS, apps  
 
 Adam Grossman, with Forecast.io / Dark Sky:
 >Getting a Dark Sky notification on your wrist just feels different. A little chime, a gentle tap on your wrist, and a quick glance; the effortlessness of it makes it feel qualitatively different than receiving a notification on your phone. It’s both far less intrusive and far less likely to be missed.

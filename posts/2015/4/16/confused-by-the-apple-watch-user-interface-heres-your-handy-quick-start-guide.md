@@ -2,7 +2,7 @@
 @@ Date=2015-04-16 13:57  
 @@ Link=http://9to5mac.com/2015/04/15/how-to-use-the-apple-watch/  
 @@ Description=9to5Mac featured a nifty UI/UX guide for Apple Watch users. Check it out.  
-@@ Tags=Apple Watch, Apple, tech tips, Watch OS  
+@@ Tags=Apple Watch, Apple, tech tips, watchOS  
 
 Ben Lovejoy, writing for 9to5Mac, recently featured a nifty infographic detailing the UI/UX navigation/hierarchy of Apple Watch:
 

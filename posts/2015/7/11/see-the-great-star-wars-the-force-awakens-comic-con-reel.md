@@ -2,7 +2,7 @@
 @@ Date=2015-07-11T07:27:45  
 @@ Link=http://www.slashfilm.com/the-force-awakens-comic-con-reel/  
 @@ Description=The producers of Star Wars: The Force Awakens brought to Comic Con the most excellent teaser footage.   
-@@ Tags=Star Wars, The Force Awakens, Comic Con, culture, movies  
+@@ Tags=Star Wars, Star Wars: The Force Awakens, San Diego Comic-Con International, Comic-Con, culture, movies  
 @@ Image=http://i1.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/ZZ61A2271A-700x293.jpg  
 
 Russ Fischer of /Film on the Star Wars: The Force Awakens panel at Comic Con 2015:
