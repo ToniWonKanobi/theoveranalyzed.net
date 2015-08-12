@@ -78,7 +78,9 @@ It will be interesting to see what, if anything, Apple does in the display space
 
 Apple <s>Thunderbolt</s> <s>USB</s> USB-C Dongle Display for 2015? I can only hope. 
 
-<div class="update"><h3 id="update">Update</h3>
+<div class="update">
+
+### Update
 
 Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page](https://support.apple.com/en-us/HT202856).
 
