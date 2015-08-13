@@ -8,7 +8,7 @@ I recently became an ambassador of sorts for my favorite online T-shirt company,
 
 The following is from Cotton Bureau's [FAQ][cottonbureau 2] section.
 
-'How the design gets on a t-shirt and how the designer makes money:'
+How the design gets on a t-shirt and how the designer makes money:
 >Designers choose their own profit margin. We give each designer a baseline price per blank that covers our cost and profit; they choose how much they want to earn on top of that number. As long as your design sells at least 25, you get paid! Over 12 and we still print your design, but we keep all sale proceeds to cover our costs.
 
 On their 'stock' of items:
