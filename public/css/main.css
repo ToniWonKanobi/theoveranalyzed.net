@@ -280,6 +280,11 @@ div.takehome {
 	width: 30%;
 }
 
+div.takehome p,
+div.takehomeLeft p {
+	margin: 0;
+}
+
 div.takehomeLeft {
 	color: #3f70a2;
 	float: left;
