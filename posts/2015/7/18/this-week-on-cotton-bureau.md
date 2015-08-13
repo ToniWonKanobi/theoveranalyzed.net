@@ -1,8 +1,8 @@
-@@ Title=This Week On Cotton Bureau  
-@@ Date=2015-07-18T13:54:00  
+@@ Title=This Week on Cotton Bureau  
+@@ Date=2015-07-18T13:54:00+00:00  
 @@ Link=https://cottonbureau.com/products/r2d2  
 @@ Description="This is the droid you're looking for."  
-@@ Tags=This Week On Cotton Bureau, Cotton Bureau, t-shirts, apparel  
+@@ Tags=This Week on Cotton Bureau, Cotton Bureau, t-shirts, apparel  
 @@ Image=https://cottonbureau.com/img/products/5753_HykZ_2400.jpg  
 
 <figure class="wide">

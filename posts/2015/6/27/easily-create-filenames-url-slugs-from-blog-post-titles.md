@@ -1,7 +1,7 @@
-@@ Title=Easily Create Filenames & URL Slugs From Blog Post Titles 
-@@ Date=2015-06-27T17:26:00  
+@@ Title=Easily Create Filenames & URL Slugs From Blog Post Titles   
+@@ Date=2015-06-27T17:26:00+00:00
 @@ Description=I wanted a quick and easy way to select the text in the title of a post and create a URL-friendly ASCII string. Here's how I did it (with help).  
-@@ Tags=blogging, filesystem, AppleScript, scripts  
+@@ Tags=blogging, filesystem, AppleScript, scripts, tech tips  
 @@ Image=http://d.pr/i/155iQ+  
 
 # The Problem

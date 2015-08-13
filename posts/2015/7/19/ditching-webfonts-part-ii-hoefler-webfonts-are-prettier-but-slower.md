@@ -1,7 +1,7 @@
-@@ Title=Ditching Webfonts Part II: Hoefler Webfonts Are Prettier, But Slower 
-@@ Date=2015-07-19T11:14:00
+@@ Title=Ditching Webfonts Part II: Hoefler Webfonts Are Prettier, but Slower  
+@@ Date=2015-07-19T11:14:00+00:00
 @@ Description=It's been a few days since I stopped using webfonts on my website. I did some super scientific and empirical testing in determining that Cloud.typography (Hoefler) webfonts are slower than everyone else's.  
-@@ Tags=Ditching Webfonts, Cloud.typography, TypeKit, Hoefler, Adobe, web, design  
+@@ Tags=web, web design, design, fonts, typefaces, Ideal Sans, webfonts, Cloud.typography, Ditching Webfonts, CSS, TypeKit, Hoefler, Adobe  
 @@ Image=http://www.typography.com/images/overviewPageImages/whitney_cell_07.png  
 
 <div class="topstory">What started out as a simple rant about the slowness of the web morphed into a <a href="http://www.theoveranalyzed.net/tags/Ditching%20Webfonts">mini-series</a> about webfonts. Be sure to check out the <a href="http://www.theoveranalyzed.net/2015/7/12/why-the-web-is-so-slow">first</a> and <a href="http://www.theoveranalyzed.net/2015/7/15/ditching-webfonts">second</a> posts on the subject.</div>

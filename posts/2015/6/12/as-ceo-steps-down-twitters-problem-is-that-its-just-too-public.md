@@ -1,5 +1,5 @@
 @@ Title=As CEO Steps Down, Twitter's Problem Is That It's Just Too Public  
-@@ Date=2015-06-12T10:54:00  
+@@ Date=2015-06-12T10:54:00+00:00  
 @@ Link=http://www.theverge.com/2015/6/12/8769349/state-of-twitter-dick-costolo-jack-dorsey-ipo  
 @@ Description=Will an executive changeup really be the answer to Twitter's woe's?  
 @@ Tags=Twitter, social media, Ben Thompson, Dick Costolo  
@@ -7,7 +7,7 @@
 Ben Popper, for The Verge:
 >Investors didn’t buy it. Twitter was constantly compared to Facebook, though it failed to grow at Facebook’s speed or build a business quite as profitable. Twitter arguably has an equal or greater impact on current events and the global discourse, but many of the people who read tweets aren’t counted as active users and are therefore difficult to monetize.
 
-As an official armchair investor and social media expert, I can't help but wonder whether a new <s>CEO</s> interim-CEO will really help. 
+As an official armchair investor and social media expert, I can't help but wonder whether a new <s>CEO</s> <s>interim-CEO</s> [iCEO][iceo] will really help. 
 
 [Ben Thompson][bt] said it best:
 >[Now that Twitter is a (struggling) public company, it is exceptionally difficult to see Wall Street having the patience for the amount of time such a strategy realignment would take. After all, it took the company nearly nine months to come up with its current strategy of being Yahoo-lite; how much longer to map out much less execute the sort of ambitious plan proposed here? Unfortunately, any credibility the company may have had with Wall Street is, after yesterday’s huge miss, surely gone
@@ -21,4 +21,5 @@ As Popper and many others have suggested, maybe [Google][theguardian] is the ans
 [^go]: Seriously.
 
 [bt]: https://stratechery.com/2015/twitter-needs-new-leadership/
+[iceo]: http://archives.cnn.com/2000/TECH/computing/01/05/macworld.keynote/index.html
 [theguardian]: http://www.theguardian.com/technology/2015/apr/08/twitter-stock-price-rises-google-buyout-rumours-not-first-time

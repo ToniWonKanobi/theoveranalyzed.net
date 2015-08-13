@@ -1,5 +1,5 @@
 @@ Title=Hand Drawn Logos  
-@@ Date=2015-05-06 10:00  
+@@ Date=2015-05-06T10:00:00+00:00  
 @@ Link=https://vimeo.com/127032605  
 @@ Description=Logos, logos.  
 @@ Tags=design, logos  

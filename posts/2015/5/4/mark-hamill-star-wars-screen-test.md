@@ -1,8 +1,8 @@
 @@ Title=Mark Hamill Star Wars Screen Test  
-@@ Date=2015-05-04 14:59  
+@@ Date=2015-05-04T14:59:00+00:00  
 @@ Link=https://www.youtube.com/watch?v=co3DBlZbySo  
 @@ Description=Happy May The Fourth.  
-@@ Tags=Star Wars, Star Wars Day, May The Fourth, sci-fi, movies, culture  
+@@ Tags=Star Wars, Star Wars Day, May The Fourth, movies, pop culture  
 
 You didn't think I would let today pass without including a [May The Fourth][wikipedia] post, did you?
 

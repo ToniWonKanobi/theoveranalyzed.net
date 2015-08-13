@@ -1,7 +1,7 @@
-@@ Title=Leaving Squarespace Part II: Modifying Files To Play Nice With Camel  
-@@ Date=2015-06-26T11:00:00  
+@@ Title=Leaving Squarespace Part II: Modifying Files to Play Nice With Camel   
+@@ Date=2015-06-26T11:00:00+00:00  
 @@ Description=Almost all of my old posts were based on local Markdown files. I had to modify them slightly in order to work with Camel.  
-@@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, meta  
+@@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0  
 @@ Image=http://d.pr/i/1em7V+  
 
 <div class="topstory">This is Part II of the series entitled <a href="http://www.theoveranalyzed.net/tags/Leaving%20Squarespace">Leaving Squarespace</a>, in which I outline how I left the CMS giant and dived deep into <a href="http://www.twitter.com/caseyliss">Casey Liss</a>'s static blogging engine, <a href="https://github.com/cliss/camel">Camel</a>. 

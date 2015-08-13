@@ -1,8 +1,8 @@
-@@ Title=Eddie Vedder - "Better Man" (Live On Letterman)  
-@@ Date=2015-05-21 15:35  
+@@ Title=Eddie Vedder - "Better Man" (Live on Letterman)
+@@ Date=2015-05-21T15:35:00+00:00  
 @@ Link=https://www.youtube.com/watch?v=8a5rWox3C1I  
 @@ Description=A Letterman favorite, Eddie Vedder shows up on The Late Show, one last time.  
-@@ Tags=music, music videos, Letterman, live, Pearl Jam, Eddie Vedder  
+@@ Tags=music, music videos, David Letterman, Pearl Jam, Eddie Vedder  
 
 A fitting performance,[^am] and a special [tribute][fivehorizons] to a years-long relationship between the grunge band and Dave.
 

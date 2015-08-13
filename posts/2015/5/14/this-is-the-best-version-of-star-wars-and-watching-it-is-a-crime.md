@@ -1,5 +1,5 @@
-@@ Title=This Is The Best Version Of Star Wars, And Watching It Is A Crime  
-@@ Date=2015-05-14 20:33  
+@@ Title=This Is the Best Version of Star Wars, and Watching It Is a Crime
+@@ Date=2015-05-14T20:33:00+00:00  
 @@ Link=http://www.vox.com/2015/1/30/7952859/despecialized-edition-download  
 @@ Description=Harmy's "Despecialized" version of the original trilogy may be *the* version to get, but that doesn't make it legal. Is that a problem?  
 @@ Tags=Star Wars, piracy, copyright, culture, movies 

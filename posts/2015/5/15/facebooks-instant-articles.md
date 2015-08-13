@@ -1,7 +1,7 @@
 @@ Title=Facebook's Instant Articles  
-@@ Date=2015-05-15 08:00  
+@@ Date=2015-05-15T08:00:00+00:00  
 @@ Description=Disliking Facebook doesn't make it any less pervasive to the masses. What will Instant Articles mean for publishers (big and small)?  
-@@ Tags=social media, Facebook, Instant Articles, TheOverAnalyzed, opinion, Ben Thompson, Marco Arment, John Gruber, MG Siegler, Om Malik  
+@@ Tags=social media, Facebook, Instant Articles, TheOverAnalyzed, Ben Thompson, Marco Arment, John Gruber, MG Siegler, Om Malik  
 
 <h2>Contents</h2>
 

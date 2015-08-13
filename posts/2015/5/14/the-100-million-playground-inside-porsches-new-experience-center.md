@@ -1,8 +1,8 @@
-@@ Title=The $100 Million Playground: Inside Porsche's New Experience Center  
-@@ Date=2015-05-14 10:30  
+@@ Title=The $100 Million Playground: Inside Porsche's New Experience Center 
+@@ Date=2015-05-14T10:30:00+00:00  
 @@ Link=http://www.theverge.com/2015/5/13/8597711/inside-porsche-experience-center-atlanta  
 @@ Description=The Verge got an early peak at Porsche's new place.  
-@@ Tags=Porsche, cars  
+@@ Tags=Porsche, cars, 930, Carrera GT, 964, 993, 996, GT3 RS, 997, 997.2, 997.2 GT3 RS 4.0, 919, 917  
 
 Eric Tegler of The Verge:
 >In a world increasingly informed by virtual experiences, Porsche is doubling down on the power of in-person exposure to its products and brand. The company’s cars — like the iconic 911 — are an emotional buy, inspired by sights, sounds, and even a little fear, which no mobile device or online platform can offer.

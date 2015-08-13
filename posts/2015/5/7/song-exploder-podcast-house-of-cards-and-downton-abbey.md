@@ -1,7 +1,7 @@
-@@ Title=Song Exploder Podcast: House of Cards and Downton Abbey  
-@@ Date=2015-05-07 15:59  
+@@ Title=Song Exploder Podcast: House of Cards and Downton Abbey
+@@ Date=2015-05-07T15:59:00+00:00  
 @@ Description=The Song Exploder podcast breaks down theme music in popular TV shows/movies.  
-@@ Tags=music, movies, music composition, podcasts, Song Exploder, Downton Abbey, House of Cards  
+@@ Tags=music, movies, audio, composition, podcasts, Song Exploder, Downton Abbey, House of Cards  
 
 Are you a [House of Cards][wikipedia] fan [like me][lm]? If so, be sure to check out the [Song Exploder Podcast][songexploder], in which the host [Hrishikesh Hirway][twitter] [interviews][overcast] [Jeff Beal][jeffbeal], the creator of the House of Cards main title theme.
 

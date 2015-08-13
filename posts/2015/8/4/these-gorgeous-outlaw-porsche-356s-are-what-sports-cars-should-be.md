@@ -1,4 +1,4 @@
-@@ Title=These Gorgeous Outlaw Porsche 356s Are What Sports Cars Should Be  
+@@ Title=These Gorgeous Outlaw Porsche 356s Are What Sports Cars Should Be
 @@ Date=2015-08-04T16:32+00:00  
 @@ Link=http://jalopnik.com/these-gorgeous-outlaw-porsche-356s-are-what-sports-cars-1721738528  
 @@ Description=Jay had the dude from Emory on his show to talk about the original Outlaw 356.  

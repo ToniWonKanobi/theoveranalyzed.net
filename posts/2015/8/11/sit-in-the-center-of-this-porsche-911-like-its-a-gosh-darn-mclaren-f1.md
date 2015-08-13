@@ -2,7 +2,7 @@
 @@ Date=2015-08-11T08:00:00+00:00  
 @@ Link=http://jalopnik.com/sit-in-the-center-of-this-porsche-911-like-its-a-gosh-d-1723208889  
 @@ Description=A McLaren F1-inspired 997 C2S.   
-@@ Tags=Porsche, 911, 997, McLaren, McLaren F1, cars  
+@@ Tags=Porsche, 911, 997, McLaren, McLaren F1, cars, Jalopnik  
 @@ Image=http://i.kinja-img.com/gawker-media/image/upload/s--hVMhorJc--/c_fit,fl_progressive,q_80,w_636/1379922735071633187.jpg  
 
 In 2012, the Porsche Club of America featured the first-ever "[Centro 911](http://www.wired.com/2012/11/porsche-center-wheel/)," a center-drive converted 997 cabriolet, eventually becoming a [YouTube sensation](https://www.youtube.com/watch?v=dv3twuUI5es).[^sen] 

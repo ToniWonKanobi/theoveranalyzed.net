@@ -1,7 +1,7 @@
 @@ Title=The Office (U.S. TV Series)  
-@@ Date=2015-05-05 20:24  
+@@ Date=2015-05-05T20:24:00+00:00  
 @@ Description=The Office is a wonderful TV show. I talk about that and a couple other goodies.  
-@@ Tags=TV, The Office, culture  
+@@ Tags=TV, The Office, pop culture  
 
 ## Preamble
 

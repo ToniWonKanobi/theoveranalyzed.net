@@ -1,8 +1,8 @@
-@@ Title=This Week On Cotton Bureau  
-@@ Date=2015-06-22T10:22:00  
+@@ Title=This Week on Cotton Bureau 
+@@ Date=2015-06-22T10:22:00+00:00  
 @@ Link=https://cottonbureau.com/products/bass-players-shirt  
 @@ Description=This week's pic from Cotton Bureau is about to bass you up.  
-@@ Tags=This Week On Cotton Bureau, Cotton Bureau, t-shirts, apparel  
+@@ Tags=This Week on Cotton Bureau, Cotton Bureau, t-shirts, apparel  
 @@ Image=https://cottonbureau.com/img/products/5320_APdl_2400.jpg  
 
 <figure class="wide">

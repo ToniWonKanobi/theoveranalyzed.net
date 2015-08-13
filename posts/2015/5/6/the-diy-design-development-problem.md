@@ -1,14 +1,13 @@
 @@ Title=The DIY Design/Development Problem  
-@@ Date=2015-05-06 16:34  
+@@ Date=2015-05-06T16:34:00+00:00  
 @@ Description=I'm guilty of it: designing without being a designer. Is it all bad?  
-@@ Tags=design, culture, web design, apps, iOS, OS X, web, developers, development, Apple, industry, Marco Arment, Eli Schiff, Louis Mantia   
+@@ Tags=design, culture, web design, web, apps, iOS, OS X, web, developers, development, Apple, industry, Marco Arment, Eli Schiff, Louis Mantia   
 
 [NSConference][nsconference] recently posted videos of all their speakers for this year's conference, and Marco Arment was one of the [keynote speakers][vimeo]. Interestingly enough, his topic was app marketing, something often mocked on his [podcast][atp]. Still, perhaps unsurprisingly, he did a great job explaining what works -- at least for him -- in the App Store. And overall, his talk is a great watch for [Overcast][overcast] fans, as he recounts the app from conception, all the way to launch.[^ln]
 
 Let me preface what I am about to say with this: I have nothing but the highest regard for Marco Arment. His [work][wikipedia] with Tumblr helped jumpstart the [one-man-blog][duckduckgo]. His mobile applications have become huge contributions to the App Store ecosystem. Before [Instapaper][apple], there was no great read-it-later service. And before [Overcast][apple 2], podcasters who wanted to listen at greater than 1.0x speeds were stuck with crappy audio. He is nothing but an inspiration for wannabe indie developers, [bloggers][marco], and [podcasters][atp]. 
 
 That said, his thoughts regarding the design/develop conundrum currently plaguing the App Store saddens me:
-
 >iOS 7 made good design a lot easier for developers who aren't necessarily designers by training or by skill
 
 >I've learned the basics of typography and spacing and layout, and I had [Louis Mantia][louie] [link added] pick a good color for me, and that's basically all you need in iOS 7 and above. This new visual language is very accessible to developers. You still need some design help if you can get it, but it's a lot easier to stand out and be good because there is a lot less cost involved in doing that
@@ -16,7 +15,6 @@ That said, his thoughts regarding the design/develop conundrum currently plaguin
 I've [read a few][theoveranalyzed] of Eli Schiff's pieces, mostly because Marco [linked][marco 2] to one in particular (with disdain). Ignoring the disagreement between the two, Schiff makes some spot-on arguments about the recent trend of developers doing more and more self-design work in their apps.
 
 Here he is from his piece entitled [Fall of the Designer Part II: Pixel Pushers][elischiff]:
-
 >More and more, we are seeing a convergence toward a universalized front-end developer role in design, with the ostensible visual designer becoming an abstract coder, thus renouncing any ties to the graphical nature of interface design
 
 >[This is] illustrative of a larger movement that expects interface design to come a distant second to development.

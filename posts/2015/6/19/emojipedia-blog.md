@@ -1,8 +1,8 @@
 @@ Title=Emojipedia Blog  
-@@ Date=2015-06-19T10:07:00  
+@@ Date=2015-06-19T10:07:00+00:00  
 @@ Link=http://blog.emojipedia.org  
 @@ Description=There's a whole blog about Emoji. Insta-subscribe.  
-@@ Tags=Emoji, culture  
+@@ Tags=Emoji, Unicode 8, Unicode 9, Unicode  
 @@ Image=https://d27kszptu8mqwl.cloudfront.net/OInT6ZNxzkvWAbO98BcXxYOrYsYs_large.png  
 
 Jason Snell of Six Colors has shared a [couple][sixcolors] of [posts][sixcolors 2] regarding Emoji:

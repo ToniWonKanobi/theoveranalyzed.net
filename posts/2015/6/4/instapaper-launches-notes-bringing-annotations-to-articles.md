@@ -1,8 +1,8 @@
 @@ Title=Instapaper Launches Notes, Bringing Annotations to Articles  
-@@ Date=2015-06-04T13:29:00  
+@@ Date=2015-06-04T13:29:00+00:00  
 @@ Link=http://www.macstories.net/ios/instapaper-launches-notes-bringing-annotations-to-articles/  
 @@ Description=Federico Viticci did a short write-up about my favorite Read-it-later service, Instapaper.  
-@@ Tags=Instapaper, Federico Viticci, read-it-later, apps, App Store, iOS  
+@@ Tags=Instapaper, Federico Viticci, read-it-later, apps, iOS  
 
 Federico Viticci of MacStories did a short write-up about today's Instapaper update:
 >Instapaper is for readers. Whether it's the clean typography with multiple theme choices, handy popovers for contextual footnotes, the ability to define words using Terminology, or highlights to save interesting passages, Instapaper exudes respect for the readers and the text they're reading. As a reading environment, Instapaper has always felt superior to other save-for-later solutions on the market. As the web gets more cluttered and disrespectful towards users by the day, Instapaper continues to be a haven for people who care about words.

@@ -1,8 +1,8 @@
-@@ Title=What Taylor Swift Taught A 39-Year-Old Ex-Jock  
-@@ Date=2015-07-17T17:47:00  
+@@ Title=What Taylor Swift Taught a 39-Year-Old Ex-Jock  
+@@ Date=2015-07-17T17:47:00+00:00  
 @@ Link=http://www.vox.com/2015/7/15/8970541/taylor-swift-taught-jock  
 @@ Description=From one Taylor Swift fan to another: 💁🏾✌🏾  
-@@ Tags=Taylor Swift, music, culture  
+@@ Tags=Taylor Swift, music, pop culture  
 @@ Image=https://cdn3.vox-cdn.com/thumbor/mQOI8Dcr3OqlO6sESp_Io3MJUhY=/0x39:2832x1927/1280x720/cdn0.vox-cdn.com/uploads/chorus_image/image/46750290/GettyImages-478789760.0.jpg  
 
 Jonathan Allen, writing for Vox:

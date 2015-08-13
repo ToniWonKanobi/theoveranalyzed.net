@@ -1,7 +1,7 @@
 @@ Title=Introducing TheOverAnalyzed 3.0  
-@@ Date=2015-06-01T13:30:00  
+@@ Date=2015-06-01T13:30:00+00:00  
 @@ Description=I spent the past month preparing for my exit from Squarespace, and transitioning to Casey Liss's node.js-powered static blogging engine, Camel.  
-@@ Tags=meta, TheOverAnalyzed, Leaving Squarespace, TheOverAnalyzed 3.0, design, blogging, web design, Squarespace, endings, Camel  
+@@ Tags=meta, TheOverAnalyzed, Leaving Squarespace, TheOverAnalyzed 3.0, blogging, web design, Squarespace, endings, Camel, HTML, CSS  
 @@ Image=http://d.pr/i/1lvGR+  
 
 Over the course of the next few days (weeks?), I am going to explain how exactly I left Squarespace and transitioned to Casey Liss's static blogging engine, [Camel][github]. I am aptly calling this series [Leaving Squarespace][tag].

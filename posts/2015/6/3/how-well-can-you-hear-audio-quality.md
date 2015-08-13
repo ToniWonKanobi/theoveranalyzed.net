@@ -1,8 +1,8 @@
 @@ Title=How Well Can You Hear Audio Quality?  
-@@ Date=2015-06-03T10:33:00  
+@@ Date=2015-06-03T10:33:00+00:00  
 @@ Link=http://www.marco.org/2015/06/03/npr-audio-quality-test  
 @@ Description=Marco Arment tackles audiophile snake oil (again).  
-@@ Tags=audio, audiophile, snake oil, music, hardware, opinion  
+@@ Tags=audio, audiophile, snake oil, music, hardware, Marco Arment  
 
 Marco Arment on audiophiles:
 >This is what’s so frustrating about audiophiles: they convince themselves, and others, that there’s always more sound quality to be had (and noticed) with an endless money pit of obscure components and upgrades.
