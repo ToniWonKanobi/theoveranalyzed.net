@@ -1,5 +1,5 @@
-@@ Title=The iPad At 5: What We've Learned  
-@@ Date=2015-04-06 14:00  
+@@ Title=The iPad at 5: What We've Learned  
+@@ Date=2015-04-06T14:00:00+00:00  
 @@ Link=http://winsupersite.com/apple/ipad-5-what-weve-learned  
 @@ Description=It's been five years since Steve Jobs introduced the world to iPad.  
 @@ Tags=iPad, Apple, history, Jason Snell  

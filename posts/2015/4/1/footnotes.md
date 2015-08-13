@@ -1,7 +1,7 @@
 @@ Title=Footnotes  
-@@ Date=2015-04-01 14:00  
+@@ Date=2015-04-01T14:00:00+00:00  
 @@ Description=Can one use too many footnotes?  
-@@ Tags=blogging, Anthony, TheOverAnalyzed, John Siracusa, Manton Reece, Bigfoot.js, opinion  
+@@ Tags=blogging, Anthony, TheOverAnalyzed, John Siracusa, Manton Reece, Bigfoot.js  
 
 John Siracusa recently linked to an interesting [post][manton] by Manton Reece:
 

@@ -1,8 +1,8 @@
-@@ Title=All Trailers Are The Same  
-@@ Date=2015-04-30 12:49  
+@@ Title=All Trailers Are the Same  
+@@ Date=2015-04-30T12:49:00+00:00  
 @@ Link=https://www.youtube.com/watch?t=94&v=Pc71YvWG0GQ  
 @@ Description=Movie trailers aren't what they used to be [explosion!].  
-@@ Tags=movies, culture, TV, funny  
+@@ Tags=movies, pop culture, TV, funny  
 
 I thought about posting a recent [upload][youtube] by [The Verge][theverge], in which the entire history of the [Marvel Cinematic Universe][wikipedia] (MCU) was laid out. I was going to make fun of the Marvel franchise, and compare its giddy want for destruction with the more dreary and dark feel of the [Christopher Nolan DC efforts][dccomics].
 

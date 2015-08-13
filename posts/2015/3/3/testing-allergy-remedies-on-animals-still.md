@@ -1,5 +1,5 @@
-@@ Title=Testing Allergy Remedies On Animals (Still?)  
-@@ Date=2015-03-03 10:19  
+@@ Title=Testing Allergy Remedies on Animals (Still?) 
+@@ Date=2015-03-03T10:19:00+00:00  
 @@ Description=Can you believe that we are *still* testing products for human use on animals? What gives us the right?  
 @@ Tags=animals, animal advocacy, advocacy, culture, science, medicine, dentistry  
 

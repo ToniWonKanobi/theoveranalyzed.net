@@ -1,5 +1,5 @@
 @@ Title=Intel Says Small Businesses Still Aren’t Upgrading From Windows XP  
-@@ Date=2015-03-12 16:00  
+@@ Date=2015-03-12T16:00+00:00  
 @@ Link=http://qz.com/361280/intel-says-small-businesses-still-arent-upgrading-from-windows-xp-and-its-hurting-the-pc-market/  
 @@ Description=And Windows XP still persists.  
 @@ Tags=Microsoft, business, industry, Windows XP, Intel  

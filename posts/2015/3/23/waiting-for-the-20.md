@@ -1,5 +1,5 @@
 @@ Title=Waiting for The 2.0  
-@@ Date=2015-03-23 12:30  
+@@ Date=2015-03-23T12:30:00+00:00  
 @@ Description=When is it best to wait for the second generation of product? Won't there always be something better in the pipeline?  
 @@ Tags=Apple, Apple Watch, Craig Hockenberry  
 

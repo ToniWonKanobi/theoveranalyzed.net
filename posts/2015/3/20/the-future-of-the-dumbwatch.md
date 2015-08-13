@@ -1,5 +1,5 @@
-@@ Title=The Future Of The Dumbwatch  
-@@ Date=2015-03-20 15:04  
+@@ Title=The Future of the Dumbwatch  
+@@ Date=2015-03-20T15:04:00+00:00  
 @@ Link=http://www.marco.org/2015/03/20/dumbwatch-future  
 @@ Description=Marco Arment shares some thoughts on the future of dumbwatches (non-Apple Watch watches).  
 @@ Tags=Apple, Apple Watch, watches, culture, Marco Arment  

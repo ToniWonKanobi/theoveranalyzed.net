@@ -1,7 +1,7 @@
-@@ Title=Net Neutrality And Tradeoffs  
-@@ Date=2015-03-03 08:00  
+@@ Title=Net Neutrality and Tradeoffs  
+@@ Date=2015-03-03T08:00:00+00:00  
 @@ Description=Net Neutrality is important. But there are tradeoffs.  
-@@ Tags=Net Neutrality, Exponent, podcasts, politics, industry, opinion, Ben Thompson  
+@@ Tags=Net Neutrality, Exponent, podcasts, politics, industry, Ben Thompson  
 
 On the way to work yesterday, I listened to the [latest episode][exponent] of Exponent. The topic of conversation was, like always, pure excellence.
 

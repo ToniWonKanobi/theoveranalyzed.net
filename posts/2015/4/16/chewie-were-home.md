@@ -1,8 +1,8 @@
 @@ Title=Chewie, We're Home  
-@@ Date=2015-04-16 11:33  
+@@ Date=2015-04-16T11:33:00+00:00  
 @@ Link=https://www.youtube.com/watch?v=ngElkyQ6Rhs  
 @@ Description=Star Wars: The Force Awakens.  
-@@ Tags=Star Wars, Star Wars: The Force Awakens, movies, culture, sci-fi  
+@@ Tags=Star Wars, Star Wars: The Force Awakens, movies, pop culture 
 
 [Goose bumps][wikipedia], much? 
 

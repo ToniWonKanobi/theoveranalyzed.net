@@ -1,5 +1,5 @@
-@@ Title=Why Apple Is Banking On USB-C For Its All-New 12-Inch MacBook And Beyond  
-@@ Date=2015-03-26 08:00  
+@@ Title=Why Apple Is Banking on USB-C for Its All-New 12-Inch MacBook and Beyond   
+@@ Date=2015-03-26T08:00:00+00:00  
 @@ Link=http://appleinsider.com/articles/15/03/25/why-apple-is-banking-on-usb-c-for-its-all-new-12-inch-macbook-and-beyond  
 @@ Description=USB-C could very well be a blessing in disguise.  
 @@ Tags=MacBook, Apple, USB-C  

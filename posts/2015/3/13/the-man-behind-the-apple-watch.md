@@ -1,5 +1,5 @@
-@@ Title=The Man Behind The Apple Watch  
-@@ Date=2015-03-13 14:00  
+@@ Title=The Man Behind the Apple Watch  
+@@ Date=2015-03-13T14:00:00+00:00  
 @@ Link=http://howtospendit.ft.com/articles/77791-the-man-behind-the-apple-watch  
 @@ Description=Jony Ive's profile in The New Yorker looks to be an excellent read. Nick Foulkes also wrote on Ive.  
 @@ Tags=Jony Ive, Apple Watch, Apple, business, design, Nick Foulkes  

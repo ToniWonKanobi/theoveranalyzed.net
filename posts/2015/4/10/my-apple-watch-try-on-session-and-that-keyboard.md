@@ -1,9 +1,9 @@
-@@ Title=My Apple Watch Try-on Session, And That Keyboard  
-@@ Date=2015-04-10 22:57   
+@@ Title=My Apple Watch Try-On Session, and That Keyboard  
+@@ Date=2015-04-10T22:57:00+00:00   
 @@ Description=I tried on some Apple Watches today, and I also checked out the new MacBook.  
-@@ Tags=Apple, Apple Watch, MacBook  
+@@ Tags=Apple, Apple Watch, MacBook, previews  
 
-*By now, on Friday night of the 'embargo week,' you have no doubt read and watched *plenty* in regards to Apple Watch and the new MacBook. I was one of the silly folk who stayed up <s>last night</s> this morning to preorder both. I was also one of the souls who scheduled a try-on appointment this evening.*
+<div class="topstory">By now, on Friday night of the 'embargo week,' you have no doubt read and watched <i>plenty</i> in regards to Apple Watch and the new MacBook. I was one of the silly folk who stayed up <s>last night</s> this morning to preorder both. I was also one of the souls who scheduled a try-on appointment this evening.</div>
 
 <h2>Contents</h2>
 

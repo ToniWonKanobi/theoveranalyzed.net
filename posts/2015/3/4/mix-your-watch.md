@@ -1,10 +1,10 @@
 @@ Title=Mix Your Watch  
-@@ Date=205-03-04 10:16   
+@@ Date=2015-03-04T10:16:00+00:00   
 @@ Link=http://mixyourwatch.com/  
-@@ Description=Mix and match your Apple Watch and band!  
+@@ Description=Mix and match your Apple Watch and band.  
 @@ Tags=Apple, Apple Watch  
 
-Pretty cool little demo:
+Pick your Apple Watch / strap combo:
 
 <figure>
 	<img src="http://d.pr/i/1dPkU+" alt="neat" />

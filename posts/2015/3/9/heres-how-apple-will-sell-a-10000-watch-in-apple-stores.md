@@ -1,5 +1,5 @@
-@@ Title=Here's How Apple Will Sell A $10,000 Watch In Apple Stores  
-@@ Date=2015-03-09 15:14  
+@@ Title=Here's How Apple Will Sell a $10,000 Watch in Apple Stores  
+@@ Date=2015-03-09T15:14:00+00:00  
 @@ Link=http://www.theverge.com/2015/3/9/8174935/apple-watch-store-display  
 @@ Description=Apple has a special table for Apple Watch Edition.  
 @@ Tags=Apple, Apple Watch  

@@ -1,5 +1,5 @@
-@@ Title=Why is Apple Making A Gold Watch?  
-@@ Date=2015-03-14 08:00  
+@@ Title=Why Is Apple Making a Gold Watch? 
+@@ Date=2015-03-14T08:00:00+00:00  
 @@ Link=http://ben-evans.com/benedictevans/2015/3/12/why-is-apple-making-a-gold-watch  
 @@ Description=Benedict Evans posits on exactly why Apple is making a gold watch.    
 @@ Tags=Apple, Apple Watch, Benedict Evans    

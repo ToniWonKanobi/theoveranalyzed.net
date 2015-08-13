@@ -1,8 +1,8 @@
-@@ Title=Rejoice, The Manual Has Been Saved!  
-@@ Date=2015-03-15 14:00  
+@@ Title=Rejoice, the Manual Has Been Saved!  
+@@ Date=2015-03-15T14:00:00+00:00  
 @@ Link=http://jalopnik.com/rejoice-the-manual-has-been-saved-1688464485  
 @@ Description=Chris Harris takes the new Cayman GT4.  
-@@ Tags=Chris Harris, cars, Porsche, Cayman, GT4  
+@@ Tags=Chris Harris, cars, Porsche, Cayman, GT4, Cayman GT4, Jalopnik  
 
 Chris Harris, for Jalopnik, as cheeky as ever:
 >The GT4 is a massively important test-case for the future viability of the manual transmission. It sows the seed of a new generation of drivers’ cars that speak a language of interaction and not lap-times.

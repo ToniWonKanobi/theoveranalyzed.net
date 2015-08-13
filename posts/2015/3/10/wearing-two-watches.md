@@ -1,8 +1,8 @@
 @@ Title=Wearing Two Watches?    
-@@ Date=2015-03-10 18:00  
+@@ Date=2015-03-10T18:00:00+00:00  
 @@ Link=http://www.theverge.com/2015/3/9/8176049/apple-watch-edition-vs-rolex-benjamin-clymer-interview  
 @@ Description=Sounds crazy right? Who would wear *two* watches, just to experience the old way (mechanical watch) and the new way (Apple Watch)?    
-@@ Tags=Apple, Apple Watch, Benjamin Clymer  
+@@ Tags=Apple, Apple Watch, Benjamin Clymer, HODINKEE  
 
 Benjamin Clymer, founder of [HODINKEE][hodinkee], for The Verge:
 >The Apple Watch has minimal human value, and that is the biggest difference between it and its mechanical counterparts.

@@ -1,7 +1,7 @@
 @@ Title=Red-tailed Hawks  
-@@ Date=2015-04-02 14:00  
+@@ Date=2015-04-02T14:00:00+00:00  
 @@ Description=Red-tailed hawks are just as awesome as John Oliver says.  
-@@ Tags=John Oliver, Last Week Tonight, birds, raptors, red-tailed hawks, animals, TV, funny  
+@@ Tags=John Oliver, Last Week Tonight, Last Week Tonight With John Oliver, birds, raptors, red-tailed hawks, animals, TV, funny  
 
 <iframe src="https://www.youtube.com/embed/uiN_-AEhTpk" frameborder="0" allowfullscreen></iframe>
 

@@ -1,8 +1,8 @@
-@@ Title=I’m Addicted To The Gruesome And Beautiful Photographs On Figure 1, An Instagram For Doctors  
-@@ Date=2015-04-06 16:00  
+@@ Title=I’m Addicted to the Gruesome and Beautiful Photographs on Figure 1, an Instagram for Doctors 
+@@ Date=2015-04-06T16:00:00+00:00  
 @@ Link=http://www.theverge.com/2015/4/6/8341217/figure-1-medical-images-sharing-app  
 @@ Description=Figure 1 is an app made for physicians, but there are occasionally dental pathologies of note.  
-@@ Tags=dentistry, medicine, apps, iOS, iPhone, recommendations  
+@@ Tags=dentistry, medicine, apps, iOS, iPhone, reviews  
 
 Ben Popper, for The Verge:
 >Popular posts on Figure 1 typically have hundreds of comments and favorites. The service also has its equivalent of the uplifting, inspirational messages you often see on Pinterest and Instagram. One of the most popular photos uploaded to Figure 1 is a tiny heart being cradled in the palm of a hand, about to be transplanted into a 13-month-old patient. It’s a bittersweet moment, given that it required a donor, but one that left commenters with a sense of joy at the power and progress of medicine, something to restore their faith in the profession amidst all the trauma. "I am so moved by this picture. What a powerful gift," wrote one commenter. "This is why I love the medical field."

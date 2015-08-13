@@ -1,8 +1,8 @@
 @@ Title=Calcbot for iOS  
-@@ Date=2015-03-03 16:30  
+@@ Date=2015-03-03T16:30:00+00:00  
 @@ Link=http://toolsandtoys.net/calcbot-ios/  
 @@ Description=The Tapbots team is at it again. They've finally updated their venerable calculator app for iOS. It has conversions too. Insta-home-screen app for me.  
-@@ Tags=App Store, Tapbots, Calcbot, apps, iOS   
+@@ Tags=Tapbots, Calcbot, apps, iOS   
 
 >Let’s just say, it’s earned a place on my home screen.
 

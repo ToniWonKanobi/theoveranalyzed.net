@@ -1,5 +1,5 @@
-@@ Title=I Really Want Stainless Steel, I Can Afford Aluminum  
-@@ Date=2015-03-09 17:08  
+@@ Title=I Really Want Stainless Steel, I Can Afford Aluminum 
+@@ Date=2015-03-09T17:08:00+00:00  
 @@ Link=http://www.appleworld.today/blog/2015/3/9/i-really-want-stainless-steel-i-can-afford-aluminum  
 @@ Description=Apple Watch in Black DLC versus Apple Watch Sport in Space Gray. Hard decision.  
 @@ Tags=Apple, Apple Watch, John Gruber  

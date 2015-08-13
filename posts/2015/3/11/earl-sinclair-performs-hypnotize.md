@@ -1,8 +1,8 @@
-@@ Title=Earl Sinclair Performs "Hypnotize"  
-@@ Date=2015-03-11 13:29  
+@@ Title=Earl Sinclair - "Hypnotize" (Notorious B.I.G. Cover)
+@@ Date=2015-03-11T13:29:00+00:00  
 @@ Link=https://www.youtube.com/watch?v=-v2mvO7Yq48  
 @@ Description=I loved Dinosaurs (TV Series 1991-1994).  
-@@ Tags=TV, funny, music, Notorious B.I.G., Dinosaurs  
+@@ Tags=TV, funny, music, Notorious B.I.G., Dinosaurs, covers  
 
 I thought for a good while before sharing this. Does anyone really care about this? And then I decided of course you do. It's [Earl Sinclair][wikia]. Doing Biggie.
 

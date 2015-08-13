@@ -1,7 +1,7 @@
 @@ Title=Traveling   
-@@ Date=2015-03-28 11:30  
+@@ Date=2015-03-28T11:30:00+00:00  
 @@ Description=Traveling doesn't have to be terrible.  
-@@ Tags=traveling, Anthony  
+@@ Tags=travel, Anthony  
 
 I don't travel much. When I do, it is usually by car, accompanied my [wife][twitter], and my [dog][twitter 2]. 
 

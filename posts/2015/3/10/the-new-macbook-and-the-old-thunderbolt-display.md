@@ -1,7 +1,7 @@
-@@ Title=The New MacBook and The Old Thunderbolt Display  
-@@ Date=2015-03-10 09:00  
+@@ Title=The New MacBook and the Old Thunderbolt Display
+@@ Date=2015-03-10T09:00:00+00:00  
 @@ Description=What are the external display options for prospective owners of the new MacBook? Not many.  
-@@ Tags=MacBook, external displays, hardware, gear, Apple  
+@@ Tags=MacBook, displays, hardware, gear, Apple  
 
 # Bye, Bye Thunderbolt
 

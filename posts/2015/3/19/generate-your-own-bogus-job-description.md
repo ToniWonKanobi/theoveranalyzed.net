@@ -1,5 +1,5 @@
 @@ Title=Generate Your Own Bogus Job Description  
-@@ Date=2015-03-19 08:00  
+@@ Date=2015-03-19T08:00:00+00:00  
 @@ Link=http://www.vox.com/2015/3/19/8252353/generate-your-own-bogus-job-description  
 @@ Description=Silly venture capital buzzwords.  
 @@ Tags=funny  

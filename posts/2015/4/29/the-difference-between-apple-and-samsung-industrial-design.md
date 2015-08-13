@@ -1,8 +1,8 @@
 @@ Title=The Difference Between Apple and Samsung Industrial Design  
-@@ Date=2015-04-29 12:52  
+@@ Date=2015-04-29T12:52:00+00:00  
 @@ Link=http://www.imore.com/difference-apple-samsung-industrial-design  
 @@ Description=Rene Ritchie takes apart Samsung design. It isn't pretty.  
-@@ Tags=Samsung, Apple, design, hardware, Rene Ritchie  
+@@ Tags=Samsung, Apple, design, hardware, Rene Ritchie, iMore  
 
 Rene Ritchie of iMore:
 >To align everything along the edge of a device takes designing and mounting the boards in a certain way, and the ports and speakers, and the buttons and jacks, and the grills and every other detail so they all line up at exactly the right place at the end. Painstaking is likely an understatement.

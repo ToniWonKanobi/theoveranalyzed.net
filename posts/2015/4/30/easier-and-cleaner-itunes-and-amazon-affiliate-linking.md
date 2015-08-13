@@ -1,7 +1,7 @@
 @@ Title=Easier and Cleaner iTunes and Amazon Affiliate Linking  
-@@ Date=2015-04-30 08:01  
+@@ Date=2015-04-30T08:01:00+00:00  
 @@ Description=I've collected some nifty affiliate linking tools over the past few months.  
-@@ Tags=tech tips, blogging, affiliate linking, apps, iOS, OS X, Affiliate, Blink, StretchLink  
+@@ Tags=tech tips, blogging, apps, iOS, OS X, Affiliate, Blink, StretchLink  
 
 Affiliate linking to iTunes and Amazon products was never an easy task. The smarter amongst us likely wrote TextExpander scripts to append their affiliate takes to the parent links, but for mere mortals like myself, that never seemed like a worthwhile solution. 
 

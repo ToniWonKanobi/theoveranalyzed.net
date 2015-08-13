@@ -1,8 +1,8 @@
-@@ Title=This Week On Cotton Bureau  
+@@ Title=This Week on Cotton Bureau
 @@ Date=  
 @@ Link=  
 @@ Description=  
-@@ Tags=This Week On Cotton Bureau, Cotton Bureau, T-shirts, Apparel  
+@@ Tags=This Week on Cotton Bureau, Cotton Bureau, t-shirts, apparel  
 @@ Image=  
 
 <figure class="wide">

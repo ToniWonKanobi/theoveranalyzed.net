@@ -1,7 +1,7 @@
 @@ Title=Reading Books, Becoming Steve Jobs, and Pixar  
-@@ Date=2015-04-09 10:00  
+@@ Date=2015-04-09T10:00:00+00:00  
 @@ Description=I got through about a third of the Steve Jobs book. This is about that, as well as Steve Jobs in general.  
-@@ Tags=Steve Jobs, Apple, Pixar  
+@@ Tags=Steve Jobs, Apple, Pixar, books  
 
 [Devour][devour] recently featured a [supercut][urbandictionary] of [Pixar][wikipedia] films called "[The Best of Pixar][youtube]":
 

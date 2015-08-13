@@ -1,8 +1,8 @@
 @@ Title=More Battery Outliers, Please  
-@@ Date=2015-04-18 13:42  
+@@ Date=2015-04-18T13:42:00+00:00  
 @@ Link=http://www.marco.org/2015/04/17/battery-outliers  
 @@ Description=Here's hoping the new MacBook will *at least* beat the 11" MacBook Air's 9-hour battery life.  
-@@ Tags=MacBook, Apple, hardware, gear, battery life  
+@@ Tags=MacBook, Apple, hardware, gear, Marco Arment, Jason Snell, Apple Watch  
 
 Marco Arment, on the new MacBook's [reported][anandtech] battery life:
 >As batteries and components advance, device designers are able to spend those advancements increasing battery life at a given size and weight, or they can keep battery life in the same range and just make the batteries (and therefore the devices) smaller and lighter. **In recent years, Apple has chosen the latter almost every time** [emphasis added].

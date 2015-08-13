@@ -1,5 +1,5 @@
 @@ Title=Getting Back Into Fitness  
-@@ Date=2015-03-04 10:00  
+@@ Date=2015-03-04T10:00:00+00:00  
 @@ Description=Federico Viticci's most recent piece about his cancer experience inspired me to get back in shape.  
 @@ Tags=fitness, Anthony, health  
 

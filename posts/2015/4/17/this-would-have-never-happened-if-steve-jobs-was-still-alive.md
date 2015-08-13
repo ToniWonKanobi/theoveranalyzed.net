@@ -1,5 +1,5 @@
-@@ Title="This Would Have Never Happened If Steve Jobs Was Still Alive"  
-@@ Date=2015-04-17 08:00  
+@@ Title="This Would Have Never Happened if Steve Jobs Was Still Alive"  
+@@ Date=2015-04-17T08:00:00+00:00  
 @@ Description=Apple has completely overhauled it's public image since Steve Jobs died. And that's a good thing.  
 @@ Tags=Steve Jobs, Tim Cook, Lisa Jackson, environment, Apple, business, industry 
 

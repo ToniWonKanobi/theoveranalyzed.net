@@ -1,5 +1,5 @@
 @@ Title=MacBookless  
-@@ Date=2015-03-31 12:00  
+@@ Date=2015-03-31T12:00:00+00:00  
 @@ Description=In anticipation for the new MacBook, I've sold my MacBook Air, and have been going without. It's been interesting.  
 @@ Tags=Anthony, MacBook, Apple, gear 
 

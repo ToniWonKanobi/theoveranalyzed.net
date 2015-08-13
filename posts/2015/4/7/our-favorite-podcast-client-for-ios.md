@@ -1,8 +1,8 @@
 @@ Title=Our Favorite Podcast Client for iOS  
-@@ Date=2015-04-07 08:55  
+@@ Date=2015-04-07T08:55:00+00:00  
 @@ Link=http://thesweetsetup.com/apps/our-favorite-podcast-client-for-ios/  
 @@ Description=Overcast has changed the way I listen to podcasts.  
-@@ Tags=Overcast, developers, development, apps, App Store, recommendations, podcasts, Supertop, Castro, Marco Arment  
+@@ Tags=Overcast, developers, development, apps, App Store, podcasts, Supertop, Castro, Marco Arment, The Sweet Setup  
 
 Bradley Chambers, for The Sweet Setup, on [Overcast][overcast][^oc] and [Smart Speed][marco]:
 >Evan Pederson ran a side-by-side test, comparing a podcast running in Overcast’s Smart Speed to the same one running in real time, and he found the time savings to average between 1.2x and 1.4x for shows that often have frequent pauses. Other shows, such as Roman Mars’s 99% Invisible, which are tightly edited, didn’t benefit as much from the Smart Speed because there were less gaps and breaks to cut out.

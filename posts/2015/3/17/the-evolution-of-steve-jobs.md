@@ -1,8 +1,8 @@
-@@ Title=The Evolution Of Steve Jobs  
-@@ Date=2015-03-17 22:02  
+@@ Title=The Evolution of Steve Jobs  
+@@ Date=2015-03-17T22:02:00+00:00  
 @@ Link=http://www.fastcompany.com/3042433/steve-jobs/the-real-legacy-of-steve-jobs  
 @@ Description=In the latest biography about Steve Jobs, Tim Cook reveals a poignant detail of their friendship.  
-@@ Tags=Steve Jobs, Tim Cook, Apple, Becoming Steve Jobs, books  
+@@ Tags=Steve Jobs, Tim Cook, Apple, Becoming Steve Jobs, books, Rick Tetzeli, Brent Schlender  
 
 Gruber linked to a [piece][daringfireball] earlier today, which led me to another excerpt from Rick Tetzeli's and Brent Schlender's upcoming book [Becoming Steve Jobs][amazon]:
 >Eight weeks after Steve told Cook he was making him CEO, things took a sudden turn for the worse. "I watched a movie with him the Friday before he passed away," Cook remembers. "We watched Remember the Titans [a sentimental football story about an underdog]. I was so surprised he wanted to watch that movie. I was like, ‘Are you sure?’ Steve was not interested in sports at all. And we watched and we talked about a number of things and I left thinking that he was pretty happy. And then all of a sudden things went to hell that weekend."

@@ -1,8 +1,8 @@
-@@ Title=Becoming Steve Jobs By Brent Schlender And Rick Tetzeli  
+@@ Title=Becoming Steve Jobs by Brent Schlender and Rick Tetzeli  
 @@ Date=2015-03-02 15:35  
 @@ Link=http://becomingstevejobs.com/  
-@@ Description=If John Gruber enjoyed it, I likely will too.  
-@@ Tags=Steve Jobs, recommendations, books, Apple, history, culture  
+@@ Description=Let's see if this one is better than Isaacson's.  
+@@ Tags=Steve Jobs, books, Apple, history, culture, Brent Schlender, Rick Tetzeli  
 
 Insta-[preorder][amazon].
 

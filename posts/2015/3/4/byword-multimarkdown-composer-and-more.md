@@ -1,5 +1,5 @@
-@@ Title=Byword, MultiMarkdown Composer, And More  
-@@ Date=2015-03-04 08:00  
+@@ Title=Byword, MultiMarkdown Composer, and More  
+@@ Date=2015-03-04T08:00:00+00:00  
 @@ Description=Here's my workflow for blogging in Squarespace.  
 @@ Tags=Squarespace, blogging, apps, TheOverAnalyzed, MultiMarkdown, Markdown, Byword  
 

@@ -1,5 +1,5 @@
-@@ Title=Kanye West Tells Oxford Students, "If I Can Remove My Ego, 'There's Hope For Everyone''  
-@@ Date=2015-03-03 15:30  
+@@ Title=Kanye West Tells Oxford Students, "If I Can Remove My Ego, 'There's Hope for Everyone''  
+@@ Date=2015-03-03T15:30:00+00:00  
 @@ Link=http://www.justjared.com/2015/03/03/kanye-west-tells-oxford-students-if-i-can-remove-my-ego-theres-hope-for-everyone/  
 @@ Description=Jim Dalrymple lays into 'Ye.  
 @@ Tags=Steve Jobs, Kayne West, celebrities, funny, culture   

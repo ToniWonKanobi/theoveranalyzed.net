@@ -1,5 +1,5 @@
-@@ Title=The New Yorker vs. The Audubon, and The Verge  
-@@ Date=2015-04-06 10:00  
+@@ Title=The New Yorker vs. The Audubon, and the Verge  
+@@ Date=2015-04-06T10:00:00+00:00  
 @@ Description=The Verge recently ran a piece detailing a recent battle between The Audubon Society and The New Yorker.  
 @@ Tags=Audubon, The New Yorker, The Verge  
 

@@ -1,8 +1,8 @@
-@@ Title=We Played With A Working Apple Watch  
-@@ Date=2015-03-09 13:28  
+@@ Title=We Played With a Working Apple Watch 
+@@ Date=2015-03-09T13:28:00+00:00  
 @@ Link=https://www.youtube.com/watch?v=nb_Pz-doIqA  
 @@ Description=Nilay Patel from The Verge plays with an Apple Watch.  
-@@ Tags=Apple, Apple Watch, hardware, previews, Jon Edwards, podcasts  
+@@ Tags=Apple, Apple Watch, hardware, previews, Jon Edwards, podcasts, Nilay Patel  
 
 I'll admit, after listening to the [latest][imore] Debug featuring [Jon Edwards][twitter] and [others][https:], I thought to myself: "Why is there that stupid 'Contacts' [button][d] anyways? All it serves to do is destroy the symmetry of the crown-side of the Watch."
 

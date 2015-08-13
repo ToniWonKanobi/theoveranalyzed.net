@@ -1,5 +1,5 @@
-@@ Title=Confused by the Apple Watch User Interface? Here’s Your Handy Quick-Start Guide  
-@@ Date=2015-04-16 13:57  
+@@ Title=Confused by the Apple Watch User Interface? Here’s Your Handy Quick-Start Guide 
+@@ Date=2015-04-16T13:57:00+00:00  
 @@ Link=http://9to5mac.com/2015/04/15/how-to-use-the-apple-watch/  
 @@ Description=9to5Mac featured a nifty UI/UX guide for Apple Watch users. Check it out.  
 @@ Tags=Apple Watch, Apple, tech tips, watchOS  

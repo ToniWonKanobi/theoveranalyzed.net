@@ -1,8 +1,8 @@
 @@ Title=2016 Porsche GT3 RS  
-@@ Date=2015-03-02 15:11  
+@@ Date=2015-03-02T15:11:00+00:00  
 @@ Link=http://jalopnik.com/2016-porsche-911-gt3-rs-this-is-it-1688989470   
 @@ Description=Flappy paddles yes, but it's still glorious.  
-@@ Tags=Porsche, 911, cars, GT3, GT3 RS  
+@@ Tags=Porsche, 911, cars, GT3, GT3 RS, Jalopnik, 991  
 
 Raphael Orlove for Jalopnik:
 >The cool details are a magnesium roof, carbon trunklid and engine cover, and a speed limiter. It says, in what is the most cheesy thing about the car, 'pit speed' on it. The rear wing is suitably massive, and Porsche claims the car can manage a 7:20 lap of the Nürburgring. That is bizonkers fast.

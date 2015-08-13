@@ -1,8 +1,8 @@
 @@ Title=Fall of the Designer Part I: Fashionable Nonsense  
-@@ Date=2015-04-08 08:00  
+@@ Date=2015-04-08T08:00:00+00:00  
 @@ Link=http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense  
 @@ Description=Eli Schiff recently criticized Marco Arment and his speaking out against Apple.  
-@@ Tags=Apple, design, Marco Arment, Eli Schiff, apps  
+@@ Tags=Apple, design, Marco Arment, Eli Schiff, apps, Apple  
 
 I wasn't even aware of Eli Schiff before reading a reaction to one of his posts by a [prominent Apple blogger][marco]. 
 
