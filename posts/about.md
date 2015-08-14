@@ -1,14 +1,13 @@
 @@ Title=About  
 @@ HideHeader=true  
-@@ BodyClass=about  
-
-<h1 id="info"><i class="fa fa-user fa-fw"></i>About The Site</h1>
 
 <figure class="figright">
 	<a class="nohover" href="http://d.pr/i/1d53F+">
-		<img src="http://d.pr/i/1d53F+" alt="❤️" width="80%">
+		<img src="http://d.pr/i/1d53F+" alt="❤️">
 	</a>
 </figure>
+
+<h1 id="info"><i class="fa fa-user fa-fw"></i>About The Site</h1>
 
 I'm [Anthony][ant] <i class="fa fa-child fa-fw"></i>
 
