@@ -13,3 +13,15 @@ Peter Sciretta, for /Film:
 >The break in production gave Abrams and writer Lawrence Kasdan time to rewrite and rework upcoming scenes, as well as reshoot some footage that they weren’t happy with, and also giving the other actors extra time to rehearse. Writer Lawrence Kasdan adds that when Ford returned to the production “a strange kind of thing” happened where the actor “lit up the whole place.”
 
 Clearly, Harrison Ford is the man.
+
+<div class="update">
+
+### Update
+
+Apparently today was a big news day for Star Wars fans. Angie Han, also of /Film, [pieced together][piece] some recent interviews with J.J. Abrams and Kathleen Kennedy, shedding light on the upcoming Episode VIII and IX of the [sequel trilogy][st]:
+>Even though Star Wars: Episode VIII is still over two years away, we know that threads of the story have already been sewn, and Rian Johnson (Looper, Brick, The Brothers Bloom) is hard at work on writing the movie that he will also direct (Kasdan and Simon Kinberg have also been working on Episode 8 and 9).
+
+</div>
+
+[piece]: http://www.slashfilm.com/star-wars-episode-8
+[st]: https://en.wikipedia.org/wiki/Star_Wars_sequel_trilogy
