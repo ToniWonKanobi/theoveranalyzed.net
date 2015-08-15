@@ -7,13 +7,13 @@
 	</a>
 </figure>
 
-<h1 id="info"><i class="fa fa-safari fa-fw"></i>About The Site</h1>
+<h1 id="info"><i class="fa fa-lightbulb-o fa-fw"></i>About The Site</h1>
 
 I'm [Anthony][ant] <i class="fa fa-child fa-fw"></i>
 
 TheOverAnalyzed is about [Apple][theoveranalyzed] and technology in general, as well as [automobilia][theoveranalyzed 2], [design][theoveranalyzed 3], and [pop culture][theoveranalyzed 4].
 
-<h1 id="howitcametobe"><i class="fa fa-history fa-fw"></i>How This Came To Be</h1>
+<h1 id="howthiscametobe"><i class="fa fa-history fa-fw"></i>How This Came To Be</h1>
 
 After months of hearing on my favorite [podcast][atp] various advertisements for [Squarespace][ss], I took the plunge and started my own blog in [early 2014][ear]: TheOverAnalyzed. I had no formal web development or design background, but I am a quick learner and a pretty well-rounded nerd. Blogging seemed like an outlet as well as a way to learn some new things.
 
