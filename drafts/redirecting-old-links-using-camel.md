@@ -16,9 +16,11 @@ Before I could go about redirecting the old links to their new locations within 
 
 ## Twitter
 
-Twitter was by far the biggest source of old canonical links. With few exceptions, every post made on TheOverAnalyzed had been tweeted at some time or another. So I went back 
+Twitter was by far the biggest source of old canonical links. With few exception, every post made on TheOverAnalyzed had been tweeted at some time or another. So I went back 
 
 ## Using Squarespace
+
+For my very first posts on TheOverAnalyzed, I got it in my head that I should obscure the actual permalinks to my posts with Droplr short links. This lasted all of about two days. I almost deleted the tweets corresponding to those first few posts, but I kept them for posterity. I had to use Squarespace for hints as to wha
 
 ## Google, And To A Lesser Extent, DuckDuckGo
 

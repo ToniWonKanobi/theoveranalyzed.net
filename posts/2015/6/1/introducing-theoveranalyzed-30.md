@@ -24,14 +24,6 @@ Making all my old Markdown files play nice with Camel was easy, but extremely ti
 
 Camel came with several nifty Markdown plugins, but I wanted more. 
 
-### Part IV: Redirecting Old Links Using Camel
-
-I wanted to make sure that links shared on Twitter -- although no longer canonical -- pointed to the old content's new location.
-
-### Part V: Taking Camel Live
-
-Getting the site up and running on Heroku was easy. I also had a few odds and ends to straighten out before I was finished.
-
 <hr class="small"/>
 
 In the meantime, please explore the new site! I'm pretty proud of it. And as always, thanks for reading.
