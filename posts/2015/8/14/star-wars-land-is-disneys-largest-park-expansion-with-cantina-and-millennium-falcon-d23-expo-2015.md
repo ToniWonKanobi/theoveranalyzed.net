@@ -23,7 +23,7 @@ No word yet as to when the expansion should be finished.
 
 <h3>Update August 17, 2015</h3>
 
-On the topic of *when*, it seems that there's still no official word. [Peter Sciretta][more] today wrote further on the matter, offering his speculation as to the parks eventual opening:
+On the topic of *when*, it seems that there's still no official word. [Peter Sciretta][more] today wrote further on the matter, offering his speculation as to the park's eventual opening:
 >So if construction begins in mid 2017 in Disneyland, I would expect a 2022 opening date.
 
 Seven years is a long time to wait, but it seems like Star Wars Land will be rather neat.
