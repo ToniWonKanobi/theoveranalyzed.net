@@ -194,20 +194,23 @@ figcaption.long {
 }
 
 div.mediaplayer {
-	width: 200px;
-	margin: 2em auto 2em auto;
+	width: 100%;
+	margin: 1.5em auto 1.5em auto;
 	padding: 1em;
 	background: #282928;
 	border-radius: 0.5em;
 }
 
 div.mediaplayer img {
+	padding-top: 1em;
+	margin-left: 0.5em;
 	border-radius: 0.5em;
+	width: 40%;
 }
 
 div.mediaplayer audio {
 	margin: auto;
-	width: 200px;
+	width: 100%;
 }
 
 pre {
