@@ -18,7 +18,7 @@ And now (Finally™) it seems that an [Eagle][emojipedia 3] might be coming to a
 
 Here's Jeremy Burge of the Emojipedia Blog:
 >[Unicode 8][emojipedia 4] included missing animals that had associated zodiac symbols, such as the [lion][emojipedia 5] and [crab][emojipedia 6].
-
+>
 >[Unicode 9][emojipedia 7] endeavours to include other animals that are common around the world, but not yet included in the emoji set.
 
 <figure>
