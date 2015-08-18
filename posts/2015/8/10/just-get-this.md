@@ -26,7 +26,14 @@ But the subject of gifting does occasionally come up, and what is often said is 
 
 That's why this past week's episode of the [Accidental Tech Podcast][atp] was so fitting:
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">&quot;Just get this.&quot; <a href="https://overcast.fm/+CdSK4HLQ/18:45">https://overcast.fm/+CdSK4HLQ/18:45</a></p>&mdash; TOAOvercast (@TOAOvercast) <a href="https://twitter.com/TOAOvercast/status/630820314495086592">August 10, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="mediaplayer" id="ATP">
+	<a class="nohover" href="http://atp.fm/episodes/129" alt="ATP Episode 129">
+		<img src="https://d1eedt7bo0oujw.cloudfront.net/art?s=3fba7cd33ee1b897707efaf08b335c6425ec5907e491ca2eb07ecd32a51590dd&w=840&u=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F513abd71e4b0fe58c655c105%2Ft%2F52c45a37e4b0a77a5034aa84%2F1388599866232%2F1500w%2FArtwork.jpg" alt="ATP Artwork"/>
+	</a>
+	<audio controls>
+		<source src="https://overcast.fm/+CdSK4HLQ/18:45" type="audio/mpeg"/>
+	</audio>
+</div>
 
 John Siracusa's hypothetical scenario of someone wanting to buy Marco coffee was fitting. Marco is a [coffee snob][duckduckgo] in the truest sense of the term. Consider this: upon hearing about his love for coffee, his 80-year-old aunt decides to go into Target to get him "[coffee][target]." In the ballpark (sort-of), but not *quite* in the vicinity, right?
 
