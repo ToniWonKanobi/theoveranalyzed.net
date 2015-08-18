@@ -134,7 +134,7 @@ img {
 }
 	
 figure {
-    margin: 2em auto 2em auto;
+    margin: auto;
     text-align: center;
 }
 
@@ -171,7 +171,7 @@ figure.tworight {
 
 figure.iphone,
 figure.applewatch {
-	width: 200px;
+	width: 300px;
 	margin: auto;
 }
 
