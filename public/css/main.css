@@ -619,7 +619,8 @@ div.update blockquote a {
 }
 
 .post .topstory {
-    margin-bottom: 5em;
+	margin-top: 3em;
+    margin-bottom: 3em;
     font-style: italic;
     text-align: center;
 }
