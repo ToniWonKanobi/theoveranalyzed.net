@@ -17,43 +17,27 @@ body {
 	font-weight: 300
 }
 
-i, em {
-	font-style: italic
-}
+i, em { font-style: italic }
 
-b, strong {
-    font-weight: 600
-}
+b, strong { font-weight: 600 }
 
 h1, h2, h3, h4, h5 {
     margin: 1.2em auto -0.3em auto;
     font-weight: 600
 }
 
-h1 {
-    font-size: 1.5em
-}
+h1 { font-size: 1.5em }
 
-h2 {
-    font-size: 1.3em
-}
+h2 { font-size: 1.3em }
 
-h3 {
-	font-size: 1.1em
-}
+h3 { font-size: 1.1em }
 
-h4 {
-    font-size: 1em
-}
+h4 { font-size: 1em }
 
-h5 {
-    font-size: 0.9em
-}
+h5 { font-size: 0.9em }
 
 h1:nth-child(1),
-h2:nth-child(1) {
-   margin-top: 1em
-}
+h2:nth-child(1) { margin-top: 1em }
 
 a {
 	text-decoration: none;
@@ -69,13 +53,9 @@ a {
 	transition: all .15s ease-in
 }
 
-a:hover {
-	color: #2e8eef
-}
+a:hover { color: #2e8eef }
 
-.entry a:hover {
-	border-bottom: 1px solid #2e8eef
-}
+.entry a:hover { border-bottom: 1px solid #2e8eef }
 
 a.nohover:hover { 
     background: none;
@@ -129,9 +109,7 @@ blockquote {
     margin: 0.75em auto
 }
 
-img {
-	max-width: 100%
-}
+img { max-width: 100% }
 	
 figure {
     margin: auto auto 2em auto;
@@ -165,9 +143,7 @@ figure.tworight {
 	display: inline-block
 }
 
-figure.tworight {
-	float: right
-}
+figure.tworight { float: right }
 
 figure.iphone,
 figure.applewatch {
@@ -217,14 +193,10 @@ code {
 }
 
 /* Fixes the wonkey border-bottom hover on code blocks */
-a code:hover {
-	padding-bottom: 1px
-}
+a code:hover { padding-bottom: 1px }
 
 /* Removes italics on code blocks */
-.topstory code {
-	font-style: normal
-}
+.topstory code { font-style: normal }
 
 pre code {
     white-space: pre;
@@ -238,9 +210,7 @@ pre code {
     line-height: 1.5
 }
 
-audio {
-	width: 100%;
-}
+audio { width: 100%; }
 
 /* Fixes funkiness on homepage <pre><code> */
 .homepage pre code {
@@ -262,13 +232,9 @@ audio {
 .homepage .article th,
 .homepage .article td,
 .post th,
-.post td {
-    padding: 0 0.5em 0 0.5em
-}
+.post td { padding: 0 0.5em 0 0.5em }
 
-table.sortable thead {
-    cursor: default;
-}
+table.sortable thead { cursor: default }
 
 div.takehome {
 	color: #3f70a2;
@@ -283,9 +249,7 @@ div.takehome {
 }
 
 div.takehome p,
-div.takehomeLeft p {
-	margin: 0
-}
+div.takehomeLeft p { margin: 0 }
 
 div.takehomeLeft {
 	color: #3f70a2;
@@ -385,9 +349,7 @@ a.header-anchor:hover {
    padding: 0px
 }
 
-a.postTitleLinked:hover + i.fa.fa-long-arrow-right.fa-fw {
-	color: #2e8eef
-}
+a.postTitleLinked:hover + i.fa.fa-long-arrow-right.fa-fw { color: #2e8eef }
 
 .postSubtitle,
 .postSubtitleTags {
@@ -396,14 +358,10 @@ a.postTitleLinked:hover + i.fa.fa-long-arrow-right.fa-fw {
 }
 
 .postSubtitle a,
-.postSubtitleTags a {
-    color: #9e9e9e
-}
+.postSubtitleTags a { color: #9e9e9e }
 
 .postSubtitle a:hover,
-.postSubtitleTags a:hover {
-	color: #2e8eef
-}
+.postSubtitleTags a:hover { color: #2e8eef }
 
 ul.postSubtitleItems {
 	padding-left: 0;
@@ -456,16 +414,12 @@ ul.postSubtitleTagsItems input.tagsList:checked + ul.eachTag li {
 	height: 100%
 }
 
-ul.postSubtitleItems input.tagsList {
-	vertical-align: 10%
-}
+ul.postSubtitleItems input.tagsList { vertical-align: 10% }
 
 .homepage li.postSource,
 .homepage li.postSource i.fa.fa-code.fa-fw,
 .post li.postPermalink,
-.post li.postPermalink i.fa.fa-paragraph.fa-fw {
-    display: none
-}
+.post li.postPermalink i.fa.fa-paragraph.fa-fw { display: none }
 
 .homepage .postHeader,
 .homepage .postHeaderLinked {
@@ -480,13 +434,9 @@ ul.postSubtitleItems input.tagsList {
     margin-bottom: 0em
 }
 
-.homepage .postHeader h1 {
-	font-size: 1.85em
-}
+.homepage .postHeader h1 { font-size: 1.85em }
 
-.homepage .postHeaderLinked h1 {
-    font-size: 1.5em
-}
+.homepage .postHeaderLinked h1 { font-size: 1.5em }
 
 .homepage a.postTitle,
 .homepage a.postTitleLinked {
@@ -495,18 +445,12 @@ ul.postSubtitleItems input.tagsList {
     margin-bottom: 0.2em
 }
 
-.homepage a.postTitle {
-	color: #545454
-}
+.homepage a.postTitle { color: #545454 }
 
-.homepage a.postTitleLinked  {
-    color: #3f70a2
-}
+.homepage a.postTitleLinked  { color: #3f70a2 }
 
 .homepage a.postTitle:hover, 
-.homepage a.postTitleLinked:hover {
-	color: #2e8eef
-}
+.homepage a.postTitleLinked:hover { color: #2e8eef }
 
 .homepage .topstory {
 	margin-top: 2em;
@@ -515,16 +459,12 @@ ul.postSubtitleItems input.tagsList {
     text-align: left
 }
 
-.homepage .day .article {
-    margin-bottom: 6em
-}
+.homepage .day .article { margin-bottom: 6em }
 
 /* Prevents footnote content from appearing on the homepage */
 .homepage section.footnotes,
 .homepage .article hr.footnotes-sep,
-.homepage .footnote-ref {
-    display: none
-}
+.homepage .footnote-ref { display: none }
 
 div.update {
 	margin-top: 2em;
@@ -533,13 +473,9 @@ div.update {
 	padding: 0.5em 2em 2em 2em
 }
 
-div.update blockquote {
-	border-left: 5px solid #d0d0d0
-}
+div.update blockquote { border-left: 5px solid #d0d0d0 }
 
-div.update blockquote a {
-	word-break: break-all
-}
+div.update blockquote a { word-break: break-all }
 
 .post .postHeader {
     margin-top: 3em;
@@ -563,13 +499,9 @@ div.update blockquote a {
     font-weight: 700
 }
 
-.post .postHeader h1 {
-    font-size: 2.2em
-}
+.post .postHeader h1 { font-size: 2.2em }
 
-.post .postHeaderLinked h1 {
-    font-size: 1.5em
-}
+.post .postHeaderLinked h1 { font-size: 1.5em }
 
 .post a.postTitle,
 .post a.postTitleLinked  {
@@ -578,18 +510,12 @@ div.update blockquote a {
     transition: all .2s ease-in
 }
 
-.post a.postTitle {
-    color: #545454
-}
+.post a.postTitle { color: #545454 }
 
-.post a.postTitleLinked {
-   	color: #3f70a2
-}
+.post a.postTitleLinked { color: #3f70a2 }
 
 .post a.postTitle:hover,
-.post a.postTitleLinked:hover {
-   	color: #2e8eef
-}
+.post a.postTitleLinked:hover { color: #2e8eef }
 
 .post .postHeader .postSubtitle {
     font-size: 1.05em;
@@ -620,9 +546,7 @@ div.update blockquote a {
 	padding-top: 1em
 }
 
-.footnote-ref a {
-    color: #9e9e9e
-}
+.footnote-ref a { color: #9e9e9e }
 
 a.footnote-backref {
     vertical-align: -0.1em;
@@ -679,13 +603,9 @@ a.footnote-backref:hover {
 	padding-top: 0.5em	
 }
 
-#nav a {
-	color: #fff
-}
+#nav a { color: #fff }
 
-#nav a:hover {
-    color: #8abef4
-}
+#nav a:hover { color: #8abef4 }
 
 #nav ul {
 	list-style: none;
@@ -739,42 +659,26 @@ a.footnote-backref:hover {
 	    margin-top: 1em
 	}
 	
-	.content .header #siteByline {
-	    margin: 1em auto
-	}
+	.content .header #siteByline { margin: 1em auto }
 	
-	.homepage .postHeader h1 {
-	    font-size: 1.8em
-	}
+	.homepage .postHeader h1 { font-size: 1.8em }
 	
 	.homepage .day .daybreak {
 		margin: 6em auto 6em -10%;
 		width: 120%
 	}
 	
-	.post .postHeader h1 {
-	    font-size: 1.8em
-	}
+	.post .postHeader h1 { font-size: 1.8em }
 	
-	.post .postHeader {
-	    margin: 3em auto 3em auto
-	}
+	.post .postHeader {  margin: 3em auto 3em auto }
 	
-	.post .topstory {
-	    margin-bottom: 3em
-	}
+	.post .topstory { margin-bottom: 3em }
 	
-	.homepage .paginationFooter {
-	    margin: -2em auto 3em auto
-	}
+	.homepage .paginationFooter { margin: -2em auto 3em auto }
 	
-	#navFooter {
-		padding: auto
-	}
+	#navFooter { padding: auto }
 	
-	#copyright {
-		padding: auto
-	}
+	#copyright { padding: auto }
 	
 	/*	Makes 'Casey Liss' style floated-images behave 
 		like regular <figure> images  */
@@ -806,7 +710,5 @@ a.footnote-backref:hover {
 	and (min-device-width: 414px) 
 	and (max-device-width: 736px) 
 	and (-webkit-min-device-pixel-ratio: 3) { 
-	.bigfoot-footnote__button {
-		font-size: 0.7rem
-	}
+	.bigfoot-footnote__button { font-size: 0.7rem }
 }
