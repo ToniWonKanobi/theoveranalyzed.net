@@ -1,7 +1,7 @@
 @@ Title=Thoughts on Apple Watch  
 @@ Date=2015-02-25T16:00:00+00:00
 @@ Description=Apple Watch is going to be important. But is it *that* important? Here are my thoughts.  
-@@ Tags=Apple, Apple Watch, reviews  
+@@ Tags=Apple, Apple Watch, reviews  : 
 
 <h2>Contents</h2>
 
@@ -13,15 +13,15 @@
 
 My primary source for price information comes from John Gruber, whose [initial price projections][daringfireball] have been widely accepted amongst the Apple developer/nerd community:
 
-* Apple Watch Sport -- $349
-* Apple Watch -- $999
-* Apple Watch Edition -- $4,999
+* Apple Watch Sport: $349
+* Apple Watch: $999
+* Apple Watch Edition: $4,999
 
 Since his initial [post][daringfireball 2], he has modified his estimates somewhat, *[but probably not in the direction you might think][daringfireball]*:
 
-* Apple Watch Sport -- $349
-* Apple Watch -- $999
-* Apple Watch Edition -- **$9,999 - $20,000**
+* Apple Watch Sport: $349
+* Apple Watch: $999
+* Apple Watch Edition: **$9,999--$20,000**
 
 Wow.
 
@@ -31,9 +31,9 @@ I was previously of the camp that Gruber had overshot things.
 
 Here's how I thought prices may end up:
 
-* Apple Watch Sport -- $349
-* Apple Watch -- $499
-* Apple Watch Edition -- $2,000
+* Apple Watch Sport: $349
+* Apple Watch: $499
+* Apple Watch Edition: $2,000
 
 ## My Opinion *Now*
 
@@ -95,7 +95,7 @@ Do you think the people who spend $10,000 on Rolex and IWC masterpieces care whe
 
 *No. They don't. *
 
-Us poorer folks, seeking to justify [watch] purchases we just shouldn't be making -- yeah, we might care. "Oh, it's *solid* gold, so it was okay for me to spend $8,000 on this watch. You, now you: you bought a *plated* gold watch for $7,000. That's totally not worth it."
+Us poorer folks, seeking to justify [watch] purchases we just shouldn't be making---yeah, we might care. "Oh, it's *solid* gold, so it was okay for me to spend $8,000 on this watch. You, now you: you bought a *plated* gold watch for $7,000. That's totally not worth it."
 
 Most of us aren't in that super rich category. We are in the aforementioned idiot category of people who make silly arbitrary and rather semantic rules defining intrinsic and extrinsic value, and use those rules to justify terrible purchases.
 
@@ -113,7 +113,7 @@ But, that assumes you are like most of us. The rich people who are going to buy 
 
 # Further Discussion
 
-Much of the discussion about Edition -- and Apple Watch as whole for that matter -- makes more sense when viewed from a *fashion/luxury*-oriented point of view, rather than a purely technology-centric point of view.
+Much of the discussion about Edition---and Apple Watch as whole for that matter---makes more sense when viewed from a *fashion/luxury*-oriented point of view, rather than a purely technology-centric point of view.
 
 Ben Thompson had thinks the same. Here's [his take][stratechery] last September:
 >The question is likely more fraught than it seems: the entry price for Apple Watch is $350, nearly half the price of an iPhone (and $150 more than the up-front cost for a subsidized consumer). Moreover, I suspect Edition models will go for ten times that, if not more. Surely such a price demands a device that is capable of doing more, not less.

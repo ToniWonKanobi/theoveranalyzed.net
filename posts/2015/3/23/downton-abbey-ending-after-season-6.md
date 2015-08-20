@@ -7,7 +7,7 @@
 Germain Lussier, for /Film:
 >Word has come down that season six, which will air later this year in the United Kingdom before airing on PBS in the States in January 2016, will be the final season of Downton Abbey.
 
-I started watching Downton Abbey in early 2013, when the first season was 'live' in the US. Amidst other [popular shows][wikipedia] of the time, Downton Abbey succeeded in reminding TV fans that gore and sex aren't the *only* ways to our hearts -- a great story can do just as much to captivate. 
+I started watching Downton Abbey in early 2013, when the first season was 'live' in the US. Amidst other [popular shows][wikipedia] of the time, Downton Abbey succeeded in reminding TV fans that gore and sex aren't the *only* ways to our hearts---a great story can do just as much to captivate. 
 
 While it will be somewhat bittersweet to say goodbye to these characters, the timing seems fitting. Ever since major characters [exited the show][telegraph], the plot has become rather [dry and tired][celebuzz].
 

@@ -89,7 +89,7 @@ Here's what I found:
 
 Casey was using regular-old HTML for his images. 
 
-At first I scoffed at this. Why would I want to type out all that code -- [John Siracusa][hypercritical] style -- just for images? I even considered omitting image captions entirely, as the 'standard' Markdown image syntax of `![](image link)` is parsed perfectly by `markdown-it`. However, captions are important to me.
+At first I scoffed at this. Why would I want to type out all that code---[John Siracusa][hypercritical] style---just for images? I even considered omitting image captions entirely, as the 'standard' Markdown image syntax of `![](image link)` is parsed perfectly by `markdown-it`. However, captions are important to me.
 
 The biggest reason to use Markdown is that it's essentially shorthand HTML. Typing all that `<figure>` stuff is a pain not because it's difficult to understand the syntax, but because it just takes so much time to type all that out. I needed time-saving if I was going to use regular HTML syntax for images.
 

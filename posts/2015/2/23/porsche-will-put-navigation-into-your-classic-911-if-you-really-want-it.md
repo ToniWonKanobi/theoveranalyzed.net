@@ -4,7 +4,7 @@
 @@ Description=Owning a classic 911 is the pipe dream of many a car lover. However, how many of them would even consider throwing a Jensen single-DIN deck in there? Not likely as many.  
 @@ Tags=Porsche, cars, audio, 911, 964, 993, culture  
 
-Someday -- though that someday is definitely not today -- I hope to have a [964][wikipedia].
+Someday---though that someday is definitely not today---I hope to have a [964][wikipedia].
 
 As I've written [many times before][theoveranalyzed], I love early 90's cars like the last 'true' air-cooled classic 911. 
 
@@ -24,7 +24,7 @@ Why would you want to adorn your old car with such gaudy visual diarrhea?
 
 ***
 
-And on a less esthetic level, our modern-day reliance on technical amenities like [BTLE][wikipedia 2] and handsfree *could* -- if you're that sort of person -- make driving less enjoyable in their absence.[^could] 
+And on a less esthetic level, our modern-day reliance on technical amenities like [BTLE][wikipedia 2] and handsfree *could*---if you're that sort of person---make driving less enjoyable in their absence.[^could] 
 
 Porsche, ever the company to embrace its heritage, is offering a really classy-looking audio / navigation combo head unit for classic[^cl] 911's.[^mod]
 

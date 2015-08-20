@@ -7,7 +7,7 @@
 Steven Sande for Apple World Today: 
 >What this tells us, of course, is that for a lot more people, the Apple Watch Sport may be the model that they'll go for. The price is right and they get the same functionality as the $10,000 model with a lot less pretentiousness.
 
-I couldn't *disagree* more. I think, if anything, this will push people *upmarket* -- not downmarket -- to the Apple Watch collection, away from the Apple Watch Sport collection. 
+I couldn't *disagree* more. I think, if anything, this will push people *upmarket*---not downmarket---to the Apple Watch collection, away from the Apple Watch Sport collection. 
 
 Here's why:
 

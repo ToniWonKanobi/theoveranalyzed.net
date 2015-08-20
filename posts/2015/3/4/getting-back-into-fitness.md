@@ -25,7 +25,7 @@ I created a [Storify][storify] to encapsulate Federico's experience:
 
 # 'Me' Now
 
-My small little blog is very important to me, but I would be terribly remiss if I passed away in ten years because I chose to not take care of myself now. Whatever story or link I want to share, or whatever small design change I just can't want to get out -- that stuff can wait. 
+My small little blog is very important to me, but I would be terribly remiss if I passed away in ten years because I chose to not take care of myself now. Whatever story or link I want to share, or whatever small design change I just can't want to get out---that stuff can wait. 
 
 Why not take my dog for a run? 
 

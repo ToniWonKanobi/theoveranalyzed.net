@@ -5,7 +5,7 @@
 @@ Tags=cars, Mustang, Ford, Shelby GT350, Shelby, Jalopnik  
 @@ Image=http://i.kinja-img.com/gawker-media/image/upload/s--0lq64G7O--/c_fit,fl_progressive,q_80,w_636/1279680204467523730.jpg  
 
-[A few months ago][caranddriver] we learned that Ford/Shelby had gone and done the unimaginable -- they strapped a flat-plane V8 in the new GT350. No supercharger. No [slushbox][duckduckgo]. Just that glorious V8. And now we know even more.
+[A few months ago][caranddriver] we learned that Ford/Shelby had gone and done the unimaginable: they strapped a flat-plane V8 in the new GT350. No supercharger. No [slushbox][duckduckgo]. Just that glorious V8. And now we know even more.
 
 Patrick George for Jalopnik:
 >Well, this is Ford’s most powerful naturally-aspirated engine, EVER, and their highest-revving V8, EVER, with a staggering redline of 8,250 RPM.

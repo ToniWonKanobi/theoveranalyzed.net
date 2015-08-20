@@ -14,7 +14,7 @@ How did this happen?
 
 The first theory is that I have just become more picky as I get older. This is the theory that I am *least* inclined to believe, because for as far back as I can remember, I have been picky about everything. As a child, when my grandma would take me back-to-school clothes shopping, I was tremendously picky about what pants to get, and what shoes to get, etc. 
 
-Fast-forward: if you were to examine every corner of my life as it is today, you would fine that almost all of the decisions I have made -- be it which movie to buy, or what t-shirt to get -- those were all very intentional decisions. My [Precision bass][wikipedia] isn't [Faded Sonic Blue][fender] because I liked the color.[^al] No, that color was chosen because I knew I would eventually have an [Olympic White][fender 2] [Jazz bass][wikipedia 2] in the stable, and I didn't want them to be the exact same color.
+Fast-forward: if you were to examine every corner of my life as it is today, you would fine that almost all of the decisions I have made---be it which movie to buy, or what t-shirt to get---those were all very intentional decisions. My [Precision bass][wikipedia] isn't [Faded Sonic Blue][fender] because I liked the color.[^al] No, that color was chosen because I knew I would eventually have an [Olympic White][fender 2] [Jazz bass][wikipedia 2] in the stable, and I didn't want them to be the exact same color.
 
 <div class="takehome"><p>It's the thought that counts</p></div>
 

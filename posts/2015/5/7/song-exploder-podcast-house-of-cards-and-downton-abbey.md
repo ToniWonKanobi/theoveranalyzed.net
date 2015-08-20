@@ -15,7 +15,7 @@ Hirway also [interviewed][int] [John Lunn][wikipedia 2], the man responsible for
 
 <hr class="small">
 
-Those were the only two shows featured by Hirway that I was familiar with, but I'm going to subscribe. Who knows -- maybe [Game of Thrones][wikipedia 4] or [The Office][to] themes will end up on his podcast someday? 
+Those were the only two shows featured by Hirway that I was familiar with, but I'm going to subscribe. Who knows---maybe [Game of Thrones][wikipedia 4] or [The Office][to] themes will end up on his podcast someday? 
 
 [From [Mark Bramhill][twitter 2], the guy responsible for the [Welcome To Macintosh][macintosh] [podcast][overcast 2], which is a great listen for Apple fans]
 

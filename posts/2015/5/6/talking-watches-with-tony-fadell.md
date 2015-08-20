@@ -23,7 +23,7 @@ The most interesting of his timepieces was the first the first one mentioned in 
 	<figcaption>Looks a lot like this!</figcaption>
 </figure>
  
-In fact, one of the [intended?] perks of acquiring Newson *has* to be his intellectual property on the watch bands he created while at Ikepod -- they bear an [uncanny resemblance][theoveranalyzed] to the rest of the Apple Watch band lineup. 
+In fact, one of the perks of acquiring Newson *has* to be his intellectual property on the watch bands he created while at Ikepod. Afterall, they bear an [uncanny resemblance][theoveranalyzed] to the rest of the Apple Watch band lineup. 
 
 [arstechnica]: http://arstechnica.com/gadgets/2014/01/google-to-buy-nest-for-3-2-billion/
 [theoveranalyzed]: http://www.theoveranalyzed.net/2015/3/5/spot-the-difference-apple-watchs-stunning-straps-look-just-like-marc-newsons-old-ones

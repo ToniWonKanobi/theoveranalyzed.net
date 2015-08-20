@@ -14,7 +14,7 @@
 
 When I have conversations with people regarding anything technology related, there is a small fear in my mind that my zeal and fervor might be a tad bit off-putting.[^of] Accordingly, I typically hold back, unless I can discern that the person with whom I am conversing is well versed in technology.[^t] 
 
-I approach many conversations -- not just ones about technology -- in this manner. I learned early on in life that when discussing a topic with someone, the worst thing I could do is disagree with them. Yes, it started early on for me, perhaps on the playground.[^p] I can see myself there, potentially discussing [Power Rangers][wikipedia]. I thought the [Red Ranger was more important than the Green Ranger][youtube], which, at that time, was *so* counter-culture. I would have been very reluctant to share that with anyone, for fear that because my opinion was contrary to most everyone else's, I might be ostracized for it.[^o]
+I approach many conversations---not just ones about technology---in this manner. I learned early on in life that when discussing a topic with someone, the worst thing I could do is disagree with them. Yes, it started early on for me, perhaps on the playground.[^p] I can see myself there, potentially discussing [Power Rangers][wikipedia]. I thought the [Red Ranger was more important than the Green Ranger][youtube], which, at that time, was *so* counter-culture. I would have been very reluctant to share that with anyone, for fear that because my opinion was contrary to most everyone else's, I might be ostracized for it.[^o]
 
 # Present-Day
 
@@ -117,7 +117,7 @@ Sottek, on the prospects of the FCC reclassifying wireless as well (same article
 <div class="update"><h3 id="update">Update</h3>
 
 Sottek, in a [later piece][verg] for The Verge:
->FCC Chairman Tom Wheeler revealed his plan to reclassify ISPs as common carriers under Title II of the Telcommunications Act. It's a striking victory for net neutrality advocates who have been fighting for years to solidify internet protections using Title II authority -- and it's the first time the FCC has shown enough backbone to draw a line in the sand against companies like Comcast, AT&T, and Verizon, who are sure to fight viciously in courts.
+>FCC Chairman Tom Wheeler revealed his plan to reclassify ISPs as common carriers under Title II of the Telcommunications Act. It's a striking victory for net neutrality advocates who have been fighting for years to solidify internet protections using Title II authority. And it's the first time the FCC has shown enough backbone to draw a line in the sand against companies like Comcast, AT&T, and Verizon, who are sure to fight viciously in courts.
 
 Finally 🐺
 

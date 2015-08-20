@@ -7,48 +7,63 @@
 @@ HidepageHeader=true  
 @@ HidepageFooter=true  
 
-<div class="center">
+<a class="nohover" href="http://d.pr/i/11ITs+" />
+		<img src="http://d.pr/i/11ITs+" alt="Allison" />
+</a>
 
-#### Eight years ago today, we went on [our first 'big' date](http://d.pr/i/1h9Gt+)
+<div style="width:400px; margin:auto; text-align:center"/>
 
-❤︎❤︎❤︎
-
-#### Years later, it isn't *that* date I remember best -- it's [all the small ones that followed](http://d.pr/i/17c8+)
-
-❤︎❤︎❤︎
-
-#### It's hard to put to words [my feelings for her](http://d.pr/i/1cA8c+)
+Eight years ago today, we went on [our first 'big' date][d]
 
 ❤︎❤︎❤︎
 
-#### I never knew what true love was before her, and without her, [I don't think I could ever know it again](http://d.pr/i/12lD8+)
+Years later, it isn't *that* date I remember best  
+It's [all the small ones that followed][d 2]
 
 ❤︎❤︎❤︎
 
-#### Over the years, days have gone by in which the monotony of life has gotten the better of me, causing me to forget [just how special she is](http://d.pr/i/1aaa8+)
+It's hard to put to words [my feelings for her][d 3]
 
 ❤︎❤︎❤︎
 
-#### Still, every evening I walk through that door, only to find the most [wonderful and exquisite creature](http://d.pr/i/1l05R+) waiting for me on the other side
+I never knew what true love was before her  
+Without her, [I don't think I could ever know it again][d 4]
 
 ❤︎❤︎❤︎
 
-#### That never gets old
+Over the years days have gone by  
+And the monotony of life has gotten the better of me  
+Causing me to forget [just how special she is][d 5]
 
 ❤︎❤︎❤︎
 
-#### She's the one with whom [I have shared everything](http://d.pr/i/133Ap+)
+Still, every evening I walk through that door  
+Only to find the most [wonderful and exquisite creature][d 6]  
+Waiting for me on the other side
 
 ❤︎❤︎❤︎
 
-#### And best of all, we have [so many more years ahead of us](http://d.pr/i/1jbcu+)
+That never gets old
 
 ❤︎❤︎❤︎
 
-#### I love you
+She's the one with whom [I have shared everything][d 7]
+
+❤︎❤︎❤︎
+
+And best of all, we have [so many more years ahead of us][d 8]
+
+❤︎❤︎❤︎
+
+I love you Allison
 
 </div>
 
-<figure class="wide">
-	<img src="http://d.pr/i/11ITs+" alt="allison" style="margin-top: 2em; " />
-</figure>
+[d]: http://d.pr/i/1h9Gt+
+[d 2]: http://d.pr/i/17c8+
+[d 3]: http://d.pr/i/1cA8c+
+[d 4]: http://d.pr/i/12lD8+
+[d 5]: http://d.pr/i/1aaa8+
+[d 6]: http://d.pr/i/1l05R+
+[d 7]: http://d.pr/i/133Ap+
+[d 8]: http://d.pr/i/1jbcu+

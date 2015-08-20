@@ -41,7 +41,7 @@ Yeah. Maybe.
 In closing, let me pose a few questions. If you like cars at all, this will most definitely win you over to my side:
 
 1. Is the [new Ford GT][jalopnik 2] cooler than the [previous one][caranddriver], or the [GT40][youtube 3]? 
-2. Or is the [991 GTS][youtube 4] -- is it a cooler car than old 80's [SC's][youtube 5]? 
+2. Or is the [991 GTS][youtube 4] a cooler car than old 80's [SC's][youtube 5]? 
 3. What about the [M4][youtube 6]? Better than the [E46][youtube 7] or the [E92 M3][youtube 8]? 
 
 Yeah. I didn't think so.[^ts]

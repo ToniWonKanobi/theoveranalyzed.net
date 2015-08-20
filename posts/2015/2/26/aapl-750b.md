@@ -25,9 +25,9 @@ But not me.
 
 I'm a child of the 90's. 
 
-I wouldn't live through any other decade -- I would just relive the 90's. But this time, I would pay more attention. 
+I wouldn't live through any other decade---I would just relive the 90's. But this time, I would pay more attention. 
 
-Imagine that: instead of reading about Apple in the 90's like I do today -- almost twenty years later -- I could have lived it in real-time. 
+Imagine that: instead of reading about Apple in the 90's like I do today---almost twenty years later---I could have lived it in real-time. 
 
 [^ny]: Neil Young was *never* good. And he is, right now, almost as washed up as Bon Jovi.
 

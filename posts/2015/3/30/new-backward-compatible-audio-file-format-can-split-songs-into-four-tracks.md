@@ -20,7 +20,7 @@ On the [latest Upgrade][overcast], Jason Snell and Myke Hurley discussed listeni
 
 For them, podcasts are out of the question because listening to podcasts requires using the same 'side' of the brain that gets used to read and write. That is obviously problematic. 
 
-What about music? Like podcasts, both of them felt that listening to music with lyrics -- new music especially -- made it hard to focus on their work. They found themselves focusing on the lyrics of the song instead of what it was they were trying to get done. 
+What about music? Like podcasts, both of them felt that listening to music with lyrics---new music especially---made it hard to focus on their work. They found themselves focusing on the lyrics of the song instead of what it was they were trying to get done. 
 
 I have noticed that despite my best intentions, I fail to get things done when listening to *new* music as well. Like Snell, I find it hard to focus on my work when listening to something that I haven't listened to many times before. 
 

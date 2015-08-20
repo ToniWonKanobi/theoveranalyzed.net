@@ -13,7 +13,7 @@
 
 ## The Watch
 
-I decided on the stainless black Apple Watch in 42 mm. That was my first pick. Unfortunately, supplies were apparently extremely constrained, because my estimated ship date -- as of 12:01 this morning -- was already 4-6 weeks initially. Wow. I tried for about two minutes to see if I could maybe get another model more quickly, but in those few precious minutes full of second thoughts and looking around, the ship time for the stainless black slipped to June. *June.* Double wow. So I put in my order and that was that. 
+I decided on the stainless black Apple Watch in 42 mm. That was my first pick. Unfortunately, supplies were apparently extremely constrained, because my estimated ship date---as of 12:01 this morning---was already 4-6 weeks initially. Wow. I tried for about two minutes to see if I could maybe get another model more quickly, but in those few precious minutes full of second thoughts and looking around, the ship time for the stainless black slipped to June. *June.* Double wow. So I put in my order and that was that. 
 
 ## The MacBook
 
@@ -44,7 +44,7 @@ Interesting.
 
 <figure>
 	<img src="http://d.pr/i/16cN2+" alt="this" />
-	<figcaption>This used to be the area of the store where the forgotten things went -- Mac mini, Thunderbolt Display, MacBook Pro (non-Retina), etc.</figcaption>
+	<figcaption>This used to be the area of the store where the forgotten things went: Mac mini, Thunderbolt Display, MacBook Pro (non-Retina), etc.</figcaption>
 </figure>
 
 <figure>
@@ -63,7 +63,7 @@ The Apple Watch Sport is just as awesome and wonderful as it appears to be in Ap
 	<figcaption>Hello, I must be going.</figcaption>
 </figure>
 
-The "rubber" band is far from *just* rubber -- it is easily the biggest surprise out of all the models I got to touch. Gruber [agrees][daringfireball] with me. Leave it to Apple to make a rubber watch band feel so much more exclusive than, well, regular rubber watch bands from other companies. 
+The "rubber" band is far from *just* rubber---it is easily the biggest surprise out of all the models I got to touch. Gruber [agrees][daringfireball] with me. Leave it to Apple to make a rubber watch band feel so much more exclusive than, well, regular rubber watch bands from other companies. 
 
 Oh, another thing about the fluoroelastomer band: it is a real pain to get on and off. The lady spent the most time with that watch taking it on/off.
 
@@ -93,7 +93,7 @@ This was the model I was most interested in trying on, once I found out that the
 
 ### Apple Watch (Stainless Steel, Milanese Loop)
 
-This band was by far the biggest disappointment. The mesh is very, *very* small -- much smaller than the promotional materials suggest. Because of that, it's really a lot less 'flowy' than I thought it would be. And, for better or for worse, the perceived shrinking of the loops really made this feel cheap to me. 
+This band was by far the biggest disappointment. The mesh is very, *very* small---much smaller than the promotional materials suggest. Because of that, it's really a lot less 'flowy' than I thought it would be. And, for better or for worse, the perceived shrinking of the loops really made this feel cheap to me. 
 
 Marco Arment had this to say about it:
 >The Milanese Loop, my preorder, is decent, but not quite what I expected. The mesh is much smaller in real life than it looks in the photos, so it ends up looking and feeling more like silver fabric than woven metal. It’s easier to attach and adjust than the Leather Loop because it doesn’t have discrete segments, but it still took me a few adjustments each time to get the right fit.
@@ -109,7 +109,7 @@ I made the right choice. It is totally worth waiting until June for the stainles
 
 ## Testing Out the New MacBook
 
-The case is really, really, light. It is also quite small -- the form factor is very reminiscent of the 11" MacBook Air. 
+The case is really, really, light. It is also quite small---the form factor is very reminiscent of the 11" MacBook Air. 
 
 The display is absolutely gorgeous. I had no reason to doubt the reports saying as much. 
 

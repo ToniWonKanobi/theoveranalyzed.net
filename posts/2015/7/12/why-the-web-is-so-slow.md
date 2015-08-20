@@ -49,7 +49,7 @@ When iPhone [launched in 2007][wikipedia 4] with a version of the venerable Safa
 
 # iMore
 
-Because Gruber picked on iMore, I'll do the same. As seen above -- on the [biggest phone-sized display Apple offers][wikipedia 5], mind you -- I can barely make out two articles' titles. The rest of the iMore page is obscured with ads. Horrible, ugly, stupid ads. And do you know what powers those ads? [JavaScript][wikipedia 6]. Tons of nasty JavaScript extensions to enable the ads' targeting and tracking algorithms. 
+Because Gruber picked on iMore, I'll do the same. As seen above---on the [biggest phone-sized display Apple offers][wikipedia 5], mind you---I can barely make out two articles' titles. The rest of the iMore page is obscured with ads. Horrible, ugly, stupid ads. And do you know what powers those ads? [JavaScript][wikipedia 6]. Tons of nasty JavaScript extensions to enable the ads' targeting and tracking algorithms. 
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1anSZ+">
@@ -75,7 +75,7 @@ In his original piece, Gruber included a link to Dean Murphy's [blog post][murph
 
 # TheOverAnalyzed
 
-Websites should be fast. But can I put my money where my mouth is? It's easy to criticize iMore and all the other slowpoke webpages -- how does [TheOverAnalyzed][theoveranalyzed] compare?
+Websites should be fast. But can I put my money where my mouth is? It's easy to criticize iMore and all the other slowpoke webpages---how does [TheOverAnalyzed][theoveranalyzed] compare?
 
 Well enough, I think.
 
@@ -108,7 +108,7 @@ The same can't be said for iMore, or The Verge, or almost every other website I 
 If the adoption of iOS 9 even remotely follows the adoption of all the previous versions of iOS, content blocking will soon be available to millions of people on mobile. Rene Ritchie isn't oblivious to this fact. John Gruber made a point to [link][daringfireball 3] to Ritchie's [response piece][imore 2], in which Ritchie outlined many of the problems facing iMore (and the web at large). I hope iMore figures it out. It would be a shame for them to not succeed. 
 
 [^lo]: Looking in your direction, [9to5Mac][d 3] and [iDownloadBlog][d 4]
-[^mo]: And, moreover, their *own* JavaScript implementation -- remember [JScript][wikipedia 7]?
+[^mo]: And, moreover, their *own* JavaScript implementation---remember [JScript][wikipedia 7]?
 
 [9to5mac]: http://9to5mac.com/2015/06/10/block-ads-ios-9-safari-iphone/
 [adblockplus]: https://adblockplus.org/

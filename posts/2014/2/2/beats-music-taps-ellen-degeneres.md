@@ -8,7 +8,7 @@
 
 I have been using the new [Beats Music][apple] app for about a week. It had some [troubles initially][digitaltrends] at launch but overall it takes an interesting [turn away from the status quo][macstories] that is [Spotify][spotify] and [Rdio][rdio]. 
 
-The app itself is actually very good at knowing what I want to listen to -- something Spotify absolutely sucks at, and something Rdio cannot do consistently. The whole "[Sentence][sbnation]" UI is innovative too.
+The app itself is actually very good at knowing what I want to listen to---something Spotify absolutely sucks at, and something Rdio cannot do consistently. The whole "[Sentence][sbnation]" UI is innovative too.
 
 One thing of note is Beat's current promotion in which AT&T customers can use the service free for 3 months ($10/month is the normal price).
 

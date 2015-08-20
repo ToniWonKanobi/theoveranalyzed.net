@@ -28,7 +28,7 @@ But they were right. I did break it. In fact I broke a lot of things. Nothing ha
 
 Eventually I fixed it. I fixed a lot of things actually. My crowning achievement was purging, to the best of my ability, all the stupid bundled software that so clearly was the status quo for Windows machines. [Add / Remove Programs][microsoft] style, you see. Nobody liked that junk. (And non-Apple'rs are astonished [when we fanbois scoff at the laptops of non-fanbois, adorned with such pretty Intel Inside stickers][cultofmac].) 
 
-But not everyone was like me. In fact, for most people, the perception of the personal computer -- despite its increasing place in the workforce and, well, everywhere -- was still one of fear. 
+But not everyone was like me. In fact, for most people, the perception of the personal computer---despite its increasing place in the workforce and, well, everywhere---was still one of fear. 
 
 The [iMac came out two years before our Compaq][wikipedia 9], but didn't sell nearly as many models as the HP-owned beast. Without divulging into the annotated history of Apple 2.0, suffice it say that it took several other contributing factors for Apple computers to attain their current level of notoriety and fandom. 
 

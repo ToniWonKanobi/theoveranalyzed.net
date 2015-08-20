@@ -76,7 +76,7 @@ And of course I checked out their source code as well.
 	<figcaption><a href="http://simplebits.com">SimpleBits</a></figcaption>
 </figure>
 
-Pay close attention to the timeline view. Look [familiar][toa]? Yes, that's *latency* you see, found in two of the three sites that beta-tested Hoefler webfonts. Notice anything else? There is relatively *no* latency for SimpleBits, which -- wouldn't you know it -- *now* uses TypeKit for the webfont.
+Pay close attention to the timeline view. Look [familiar][toa]? Yes, that's *latency* you see, found in two of the three sites that beta-tested Hoefler webfonts. Notice anything else? There is relatively *no* latency for SimpleBits, which *now* uses TypeKit for the webfont instead of Hoefler.
 
 Compared to TypeKit, things weren't looking good for Cloud.typography.
 
@@ -90,7 +90,7 @@ Before the girls up front checked him out, I stopped by to pick his brain one la
 
 A pretty clear endorsement from a professional, wouldn't you say?
 
-TypeKit and Google Fonts -- it seems both are less latent than Cloud.typography fonts.
+TypeKit and Google Fonts---it seems both are less latent than Cloud.typography fonts.
 
 # Results
 

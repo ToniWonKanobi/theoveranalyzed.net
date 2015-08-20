@@ -63,7 +63,7 @@ Squarespace offers [Markdown Blocks][squarespace], and if you so desire, you can
 
 ### MultiMarkdown → HTML
 
-I don't think even Gruber himself could have predicted the future popularity of his text parsing engine. Over the years, many -- *many* -- non-standard iterations of Markdown have been devised (too many to even mention). [MultiMarkdown][fletcherpenney] is about as close as one could get to retaining Gruber's 'standard' Markdown's simplicity, without getting all crazy like some of the other Markdown flavors have done. 
+I don't think even Gruber himself could have predicted the future popularity of his text parsing engine. Over the years, many---*many*---non-standard iterations of Markdown have been devised (too many to even mention). [MultiMarkdown][fletcherpenney] is about as close as one could get to retaining Gruber's 'standard' Markdown's simplicity, without getting all crazy like some of the other Markdown flavors have done. 
 
 The beauty of MultiMarkdown is that it is parsed to HTML just as easily as standard Markdown. Because of this, **I use MultiMarkdown almost anytime I write.** If you want to do the same, continue reading.
 
@@ -144,11 +144,11 @@ As you can see, my workflow is not that complicated. Byword makes things incredi
 
 ### Update
 
-Since writing this post, I have switched from Byword to MultiMarkdown Composer for my text editor.  I also no longer use `Code blocks` for my content -- I am using `Markdown blocks` instead. I just paste the raw HTML parsed from MultiMarkdown Composer into a `Markdown block`, just like I was doing previously with `Code blocks`. Because editing content in `Code blocks` required a desktop browser, I was stuck waiting until I could get to my MacBook before fixing a typo I noticed after publishing. Using the `Markdown blocks` allows me to edit posts on the go from the Squarespace iOS [Blog][apple] app. See my [post][theoveranalyzed 4] for details. 
+Since writing this post, I have switched from Byword to MultiMarkdown Composer for my text editor.  I also no longer use `Code blocks` for my content---I am using `Markdown blocks` instead. I just paste the raw HTML parsed from MultiMarkdown Composer into a `Markdown block`, just like I was doing previously with `Code blocks`. Because editing content in `Code blocks` required a desktop browser, I was stuck waiting until I could get to my MacBook before fixing a typo I noticed after publishing. Using the `Markdown blocks` allows me to edit posts on the go from the Squarespace iOS [Blog][apple] app. See my [post][theoveranalyzed 4] for details. 
 
 </div>
 
-[^ci]: These steps are arguably the hardest part of implementing Bigfoot footnotes. Most early bloggers are like myself -- they don't know *any* HTML. They don't know any JavaScript, either.
+[^ci]: These steps are arguably the hardest part of implementing Bigfoot footnotes. Most early bloggers are like myself---they don't know *any* HTML. They don't know any JavaScript, either.
 [^nb]: That is, in actuality, the entire purpose of Markdown: easy parsing to HTML.
 [^lw]: I really do try to keep things brief.  
 [^to]:Turns Out™ that standard-Markdown, what Squarespace supports, does *not* support footnotes natively. Dumb.

@@ -23,7 +23,7 @@ Apple has indeed been moving away from it's "i" prefix, [established][everysteve
 Jason Snell at Six Colors added his own commentary:
 >It would also require a renaming of the iPad, and you’d have to ask about the iMac at that point, too.
 
-Unless I'm misinterpreting Snell, he is using the iPad and iMac as examples as to why dropping the "i" would be a *bad* idea, not a good one. However, I couldn't disagree more. Yes, "Apple Pad" sounds tremendously similar to [something][some] you might find on aisle 11 of your local grocery store. But "Apple Mac", or, dare I be so bold: just "Macintosh" ([again][again]) -- that sounds glorious.
+Unless I'm misinterpreting Snell, he is using the iPad and iMac as examples as to why dropping the "i" would be a *bad* idea, not a good one. However, I couldn't disagree more. Yes, "Apple Pad" sounds tremendously similar to [something][some] you might find on aisle 11 of your local grocery store. But "Apple Mac", or, dare I be so bold: just "Macintosh" ([again][again])---that sounds glorious.
 
 </div>
 

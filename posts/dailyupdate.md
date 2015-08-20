@@ -1,9 +1,6 @@
 @@ Title=The Daily Update  
-@@ HideHeader=true  
 
-<h1><i class="fa fa-envelope-o fa-fw"></i> The Daily Update</h1>
-
-Congratulations.
+Congratulations!
 
 You have stumbled onto the super-secret corner of my site that contains information regarding the Daily Update[^du] email subscription.
 

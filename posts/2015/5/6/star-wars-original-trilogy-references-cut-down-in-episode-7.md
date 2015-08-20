@@ -7,10 +7,12 @@
 Ethan Anderton, reporting for /Film:
 >So not only are there fewer nods to the original trilogy, but they also didn’t want to go overboard with setting up Episode VIII, even though Rian Johnson is hard at work on the sequel already. That’s a good idea considering the original trilogy didn’t have much in the vein of set up for the sequels. Star Wars has no indication that there were more stories to come other than the survival of Darth Vader after the destruction of the first Death Star. And The Empire Strikes Back only takes Han Solo prisoner and leaves Luke Skywalker to ponder the identity of his father. So there aren’t any Marvel Studios-level plans laying the groundwork for countless other projects in the future.
 
-Fan service isn' a new concept in movie-making. Often, sequels/prequels, and franchise reboots -- they can all pay some nerd-level homage to previous works. Fans like that. 
+Fan service isn't a new concept in movie-making. Oftentimes, sequels, prequels, and franchise reboots---all can pay homage to previous works. Nerdy fans like that. 
 
 <figure>
-	<img src="http://www.nerdist.com/wp-content/uploads/2012/12/trek-hands-touching1.jpg" alt="Didn't seeing this make you so happy on the inside?" />
+	<a class="nohover" href="http://www.nerdist.com/wp-content/uploads/2012/12/trek-hands-touching1.jpg" />
+		<img src="http://www.nerdist.com/wp-content/uploads/2012/12/trek-hands-touching1.jpg" alt="Didn't seeing this make you so happy on the inside?" />
+	</a>
 	<figcaption>Didn't seeing this make you so happy on the inside?</figcaption>
 </figure>
 

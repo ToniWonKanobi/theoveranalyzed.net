@@ -150,7 +150,7 @@ But this led to a terrible design on mobile:
 
 ## So That's What This Does
 
-In trying to fix the padding of the site on Desktop, I was making changes to `global.less`, which is a stylesheet that makes changes to *all* implementations of the site -- desktop/tablet/phone.
+In trying to fix the padding of the site on Desktop, I was making changes to `global.less`, which is a stylesheet that makes changes to *all* implementations of the site---desktop/tablet/phone.
 
 What I *should* have been doing was using the `@media` query to insure that the changes made to the desktop/tablet versions of the site did *not*[^mq] effect the phone-sized versions of the site.
 
@@ -337,7 +337,7 @@ Until then, maybe I can get back to writing.
 [^ss]: Sorry, I couldn't help it: At the moment I was writing that, I felt as if I were hosting my own podcast and doing an ad read for Squarespace. 
 [^wd]: You get where I'm going with this now, don't you?
 [^v]: My site isn't cool enough to have been crawled by these guys yet, but have you heard of or visited [archive.org][arc]? I have spent hours there looking at old archives of [www.apple.com][archive]. Such a great resource.
-[^ih]: Even before things got [crazy][d 6], I had changed *quite* a big of stuff from the default settings. Almost everything -- font size/styles/colors, as well as link colors, etc -- had been customized to my liking. And, at that time, because I didn't have any knowledge regarding how Squarespace made under-the-hood changes to the user interface, I was scared to just change to a completely new template.
+[^ih]: Even before things got [crazy][d 6], I had changed *quite* a big of stuff from the default settings. Almost everything---font size/styles/colors, as well as link colors, etc---had been customized to my liking. And, at that time, because I didn't have any knowledge regarding how Squarespace made under-the-hood changes to the user interface, I was scared to just change to a completely new template.
 [^hp]: I can't remember which. Chances are it was either Upgrade or Inquisitive, because I can vaguely remember it being Myke Hurley to made reference to Stephen Hackett, who also uses the Developer Platform. Though, I feel safe saying that he hasn't used it *[nearly][twitter 2]* as much as I have. 
 [^bd]: Another great resource. 
 [^pl]: Before mastering `blog.item`, I wasn't sure how to place the permalink after the date on Linked items. I thought I was stuck with it following the title of linked items. I figured that out [eventually][d 7]

@@ -3,11 +3,11 @@
 @@ Description=The Verge recently ran a piece detailing a recent battle between The Audubon Society and The New Yorker.  
 @@ Tags=Audubon, The New Yorker, The Verge  
 
-It struck me as odd when The Verge, one of the more prominent 'modern' online *tech* publications, ran an [oped][theverge] by Elizabeth Lopatto, outlining an apparent battle of sorts between a [freelancer][wikipedia] for [The New Yorker][newyorker] and the [Audubon Society][audubon]. The topic? Animal advocacy and climate change -- neither ostensibly related to technology per se.
+It struck me as odd when The Verge, one of the more prominent 'modern' online *tech* publications, ran an [oped][theverge] by Elizabeth Lopatto, outlining an apparent battle of sorts between a [freelancer][wikipedia] for [The New Yorker][newyorker] and the [Audubon Society][audubon]. The topic? Animal advocacy and climate change---neither one directly related to technology.
 
 <hr class="small"/>
 
-Since The Verge's [inception in 2011][theverge 2], when a bunch of [Engadget guys left that AOL-owned publication and struck out on their own][mashable], it has not been afraid to report on issues that are only *mildly* -- if at all -- related to the status quo of technology reporting such as Apple, Google, Amazon, and the like. 
+Since The Verge's [inception in 2011][theverge 2], when a bunch of [Engadget guys left that AOL-owned publication and struck out on their own][mashable], it has not been afraid to report on issues that are only *mildly*---if at all---related to the status quo of technology reporting such as Apple, Google, Amazon, and the like. 
 
 Their [/about-the-verge/][theverge 3] page says as much:
 >[The Verge] covers the intersection of technology, science, art, and **culture** [emphasis added].
@@ -42,7 +42,7 @@ Whichever the reason, here's my take:
 * Franzen really does seem to have an axe to grind
 * The Audubon [don't play that][youtube]
 
-[^tw]: Which, admittedly, are kept to an absolute minimum. This is in an effort to avoid the issues that come with following several of the same types of publications simultaneously -- tons of duplicate articles from different publications about the same topic. That gets old.
+[^tw]: Which, admittedly, are kept to an absolute minimum. This is in an effort to avoid the issues that come with following several of the same types of publications simultaneously: tons of duplicate articles from different publications about the same topic. That gets old.
 
 [audubon]: https://www.audubon.org/news/friends-these
 [d]: http://d.pr/f/tAD3+

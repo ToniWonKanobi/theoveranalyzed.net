@@ -5,7 +5,7 @@
 
 I don't travel much. When I do, it is usually by car, accompanied my [wife][twitter], and my [dog][twitter 2]. 
 
-The drive to Northern California -- where our parents live -- while not particularly terrible, isn't exactly thrilling either. The 7-8 hour journey is mired with long, *long* stretches of either desert-y terrain, or SoCal freeways. Neither scenery is much better than the other. 
+The drive to Northern California isn't horrible. That said, it's not exactly thrilling either. The 7-8 hour journey is mired with long, *long* stretches of either desert-y terrain, or SoCal freeways. Neither scenery is much better than the other. 
 
 Flying is a much nicer experience:[^th]
 
@@ -35,7 +35,7 @@ After my fellow air travelers and I passed onto and then off of the escalators i
 
 After that, I saw a college-aged girl greet her parents before driving off, followed by what appeared to be a reunion between a 30-something couple. 
 
-Perhaps it was my having been separated from my wife for a few days that had me feeling [sentimental][gif]. But at that moment, it just struck me how, in less than a couple of hours, I had managed to travel almost five hundred miles -- a distance that would have costed me almost *four* times that amount of time via car. And I could imagine other people in that airport who might have traveled even further to reach their destination. 
+Perhaps it was my having been separated from my wife for a few days that had me feeling [sentimental][gif]. But at that moment, it just struck me how, in less than a couple of hours, I had managed to travel almost five hundred miles---a distance that would have costed me almost *four* times that amount of time via car. And I could imagine other people in that airport who might have traveled even further to reach their destination. 
 
 Some of them might have been businesspeople, sure. Perhaps in-between meetings or conferences or something of that sort? But if what I saw in that pickup area was any indication of the 'business or pleasure'-ness of their travels, it would seem that most of them were traveling to get to reach other people, to *connect with people they cared about*.
 
@@ -43,9 +43,9 @@ Some of them might have been businesspeople, sure. Perhaps in-between meetings o
 
 Being as enthralled with technology as I am, sometimes the actuality of just how far we've come is rather lost on me. Right now, I am typing on a Bluetooth keyboard whose inputs are being projected on a 5.5" piece of touchscreen glass.[^ts] We couldn't have even imagined doing something similar before 2007. 
 
-As routine as flying has become in these times, I can't help but feel a sense of amazement that we humans -- just another species on this planet -- have managed to craft a method of transportation that previous generations could not have fathomed. 
+As routine as flying has become in these times, I can't help but feel a sense of amazement that we humans---just another species on this planet---have managed to craft a method of transportation that previous generations could not have fathomed. 
 
-And what is even more special about this is how we can enjoy the fruits of our labors every time we use air travel -- or any technological achievement -- to further connect us to each other. 
+And what is even more special about this is how we can enjoy the fruits of our labors every time we use air travel to further connect us to each other. 
 
 [^th]: That is, with the exception of [this][instagram]
 [^ba]: [This one][amazon]

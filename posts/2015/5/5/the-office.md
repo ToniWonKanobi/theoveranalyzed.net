@@ -58,7 +58,7 @@ One could make the argument that what made *The Office* different was its produc
 
 <hr class="small">
 
-The show <s>must</s> did go on. We haven't watched the remaining episodes yet,[^fe] and a part of me wonders if its even worth it? Its no surprise that [ratings fell steadily][thedailybeast] after Carell's exit. It's happened [before][wikipedia 26] -- a main character in a series moving on -- and it will probably happen again. I'm sure we'll give it a crack despite Carell's absence. It won't be the same, but maybe it can still be something worthwhile? Thankfully [spoiler alert], my favorite character Dwight lasts for the remainder of the show, so there's that. 
+The show <s>must</s> did go on. We haven't watched the remaining episodes yet,[^fe] and a part of me wonders if its even worth it? Its no surprise that [ratings fell steadily][thedailybeast] after Carell's exit. It's happened [before][wikipedia 26]---a main character in a series moving on---and it will probably happen again. I'm sure we'll give it a crack despite Carell's absence. It won't be the same, but maybe it can still be something worthwhile? Thankfully [spoiler alert], my favorite character Dwight lasts for the remainder of the show, so there's that. 
 
 I'm glad I made it to *The Office* party eventually. If you haven't already seen it, do yourself a favor: set aside $7.99/month for a [Netflix][netflix] subscription, and watch the [Pilot][wikipedia 27]). It only gets better from there. It's so worth it, even years later. 
 

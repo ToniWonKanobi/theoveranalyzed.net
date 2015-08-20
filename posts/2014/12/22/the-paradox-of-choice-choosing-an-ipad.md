@@ -53,7 +53,7 @@ The mini sized iPad is just a gem of a device. I ruled out the Air-sized models 
 
 ## Secondly
 
-I had to decide between the cellular and Wi-Fi only models. I liked the ease of use that the cellular models provide: just unlock the device and I am connected. I can always connect to Wi-Fi if I will be consuming a lot of data, etc. No matter where I am -- Wi-Fi or no Wi-Fi -- I can use my iPad as [an iPod, as a phone, and as an internet communicator][macrumors]. That said, the cellular models command a $130 premium. That's not necessarily chump change. Moreover, they are also slightly heavier, due to the cellular radios involved. 
+I had to decide between the cellular and Wi-Fi only models. I liked the ease of use that the cellular models provide: just unlock the device and I am connected. I can always connect to Wi-Fi if I will be consuming a lot of data, etc. No matter where I am---Wi-Fi or no Wi-Fi---I can use my iPad as [an iPod, as a phone, and as an internet communicator][macrumors]. That said, the cellular models command a $130 premium. That's not necessarily chump change. Moreover, they are also slightly heavier, due to the cellular radios involved. 
 
 ## Thirdly
 

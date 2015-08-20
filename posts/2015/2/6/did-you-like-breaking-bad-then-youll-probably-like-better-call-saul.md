@@ -7,9 +7,9 @@
 Todd VanDerWerff reviews [Better Call Saul][imdb] for Vox:
 >The most interesting thing about Better Call Saul is also the thing that might ultimately cause it to seem like a minor diversion for all involved. Put simply, if Breaking Bad was a show about a good man who chose to indulge his evil side, Better Call Saul is its thematic opposite. Jimmy McGill is a man who has been bad, who has hurt people, who has done wrong, and now, he's trying, desperately, to overcome that part of himself, to perform a kind of alchemy that will let him be good.
 
-I found out about [Breaking Bad][imdb 2] late in the series' lifespan. I think I saw basically the last four or five episodes "live" -- all the previous episodes were binged watched in a two week period.[^nf] Such a great show.
+I found out about [Breaking Bad][imdb 2] late in the series's lifespan. I think I saw basically the last four or five episodes "live"---all the previous episodes were binged watched in a two week period.[^nf] Such a great show.
 
-What I am most looking forward about this new series is the same thing I look forward to in all sequels/prequels -- seeing familiar characters in slightly different roles. I want to see Mike being Mike. What about Gus? Vince Gilligan and Peter Gould, the creators of both series', have teased that [other characters from the Breaking Bad universe might make cameos][avclub], maybe even [Heisenberg][wikipedia]) himself. 
+What I am most looking forward about this new series is the same thing I look forward to in all sequels/prequels---seeing familiar characters in slightly different roles. I want to see Mike being Mike. What about Gus? Vince Gilligan and Peter Gould, the creators of both series', have teased that [other characters from the Breaking Bad universe might make cameos][avclub], maybe even [Heisenberg][wikipedia]) himself. 
 
 Better Call Saul debuts Sunday, February 8, on AMC.
 

@@ -12,7 +12,7 @@
 	<figcaption>The Nature section is severely lacking.</figcaption>
 </figure>
 
-In my day-to-day emoji-ing, I often use the animals found in the [Nature][emojipedia] category. I like [birds of prey][theoveranalyzed], and for the longest time, the only way to represent that category of avians has been with the [Bird][emojipedia 2] emoji -- an emoji that looks more like a pigeon than anything else.
+In my day-to-day emoji-ing, I often use the animals found in the [Nature][emojipedia] category. I like [birds of prey][theoveranalyzed], and for the longest time, the only way to represent that category of avians has been with the [Bird][emojipedia 2] emoji---an emoji that looks more like a pigeon than anything else.
 
 And now (Finally™) it seems that an [Eagle][emojipedia 3] might be coming to an Emoji keyboard near you. While it probably won't make it in time for the upcoming iPhone 6S, it might land on the iPhone 7 if everything goes according to plan. 
 

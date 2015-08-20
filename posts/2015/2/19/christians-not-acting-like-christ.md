@@ -54,7 +54,7 @@ Like many progressive ideas, animal advocacy is not particularly lauded by conse
 
 So, to recap: 
 
-*A large amount of conservatives/Republicans -- either directly or indirectly[^di] -- don't tend to care much about the atrocities in the factory farm industry. And a lot of Christians are conservatives/Republicans. *
+**A large amount of conservatives/Republicans, either directly or indirectly,[^di] don't tend to care much about the atrocities in the factory farm industry. And a lot of Christians are conservatives/Republicans.**
 
 When I saw today's featured video by HSUS, the irony of the reality rang loud and clear:
 

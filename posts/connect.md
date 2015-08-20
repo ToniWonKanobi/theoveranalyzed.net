@@ -1,42 +1,40 @@
-@@ Title=Connecting With TheOverAnalyzed  
-@@ HideHeader=true  
+@@ Title=Connecting with TheOverAnalyzed  
 
-<h1><i class="fa fa-external-link fa-fw"></i> Connecting With TheOverAnalyzed</h1>
-
-## Twitter 
+<h2 id="twitter">Twitter</h2>
 
 The author [@toniwonkanobi][twitter]  
-The site's automated account [@TheOverAnalyzed][twitter 2]
+The site [@TheOverAnalyzed][twitter 2]
 
-## Instagram 
+<h2 id="instagram">Instagram</h2>
 
 The author [@toniwonkanobi][instagram]  
 The site [@TheOverAnalyzed][instagram 2]
 
-## Facebook 
+<h2 id="facebook">Facebook</h2>
 
 The author [@toniwonkanobi](www.facebook.com/toniwonkanobi)  
-The site's automated account [Theoveranalyzed][fb]
+The site at [Theoveranalyzed][fb]
 
-## Email 
+<h2 id="email">Email</h2>
 
 If you have questions, concerns, or any other feedback, you can send me an email at [anthony@theoveranalyzed.net][mail]
   
-## RSS 
+<h2 id="rss">RSS</h2>
 
 You can subscribe to the full-text RSS feed: [http://www.theoveranalyzed.net/rss][rss]
 
-There is also an alternate RSS feed, for which linked posts point back to TheOverAnalyzed instead of their targets. You can find that feed here: [http://www.theoveranalyzed.net/rss-alternate][rssa]
+There is also an alternate RSS feed, for which linked posts point back to TheOverAnalyzed instead of their targets. 
+You can find that feed here: [http://www.theoveranalyzed.net/rss-alternate][rssa]
 
-# <i class="fa fa-usd fa-fw"></i> Supporting TheOverAnalyzed
+<h1 id="support">Supporting TheOverAnalyzed</h1>
 
-## Patreon 
+<h2 id="twitter">Patreon</h2>
 
 You can crowdfund via [Patreon][patreon]
 
-## Cash 
+<h2 id="cash">Cash</h2> 
 
-Or, you can just send cash to [$theoveranalyzed][cash]
+You can also send cash to [$theoveranalyzed][cash]
 
 [cash]: https://cash.me/$theoveranalyzed
 [fb]: http://www.facebook.com/theoveranalyzed

@@ -52,7 +52,7 @@ If Facebook is doing this, bravo. While not an entirely innovative concept, it i
 
 >Yes, native apps have spoiled us. But such spoilage is natural. In the end, all that matters is user experience. Native apps provide a better user experience on mobile than a web browser. That was true five years ago, that’s true today. And I suspect it will still be true five years from now.
 
-In a way, it's the publishers' own fault that Instant Articles are even a threat in the first place. If publishers would quit with all the bloat-inducing 'me-too' JavaScript and complex CSS, pages would likely load closer to 0.8 seconds instead of 8 seconds -- a Facebook statistic noted by [OM Malik][om]. Indeed:
+In a way, it's the publishers' own fault that Instant Articles are even a threat in the first place. If publishers would quit with all the bloat-inducing 'me-too' JavaScript and complex CSS, pages would likely load closer to 0.8 seconds instead of 8 seconds---a Facebook statistic noted by [OM Malik][om]. Indeed:
 
 >Facebook is right: Most of these pages take way too long to load.
 
@@ -100,7 +100,7 @@ So, I patiently await my opportunity to climb aboard the train I wish had never 
 [^foo]: [Fools][youtube]
 [^lo]: Looking in your direction, [broken bird social network][twit]
 [^as]: Betaworks, the guys who [bought Instapaper][theverge 3] from Marco Arment, just updated the app to have true background updating. So if I'm in a so-so cellular connection area, and I don't want to wait for Tweetbot's third-party browser to load the page, I'll just save to Instapaper and let the app do its thing in the background.
-[^sd]: Lots of fixed-content sidebars -- and sidebars in general -- were gone. More and more, all content was shifted to a single centered column on the webpage. This, even when the average desktop display had *plenty* of horizontal space to render sidebars nicely. 
+[^sd]: Lots of fixed-content sidebars---and sidebars in general---were gone. More and more, all content was shifted to a single centered column on the webpage. This, even when the average desktop display had *plenty* of horizontal space to render sidebars nicely. 
 
 	The reason? Sidebars don't often translate well to mobile devices. It made more sense for web designers to keep a single, centered column design for both desktop *and* mobile device views. Less code to maintain, etc.
 [^ra]: Truth be told, I have been forced to reactivate my profile from time to time: 

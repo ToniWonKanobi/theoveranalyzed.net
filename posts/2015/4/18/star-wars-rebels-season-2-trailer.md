@@ -6,7 +6,7 @@
 
 >[Featuring] the return of Captain Rex, Darth Vader fighting our Jedi, A-Wings, B-Wings and more
 
-While Season 1 was [great][theoeranalyzed], it did have some slow parts -- almost as if it was intentionally slowed down just to stretch out the season. This is not unlike the plot of [another popular show][vox] you might have heard of. This new season's trailer-plot sure seems to suggest that this one will have a much quicker pace. 
+While Season 1 was [great][theoeranalyzed], it did have some slow parts. It's almost as if the season was intentionally slowed down just to make it last 13 episodes. This is not unlike the plot of [another popular show][vox] you might have heard of. This new season's trailer-plot sure seems to suggest that this one will have a much quicker pace. 
 
 [From [/Film][slashfilm]]
 

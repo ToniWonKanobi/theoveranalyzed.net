@@ -6,7 +6,7 @@
 
 Over the course of the next few days (weeks?), I am going to explain how exactly I left Squarespace and transitioned to Casey Liss's static blogging engine, [Camel][github]. I am aptly calling this series [Leaving Squarespace][tag].
 
-I said "weeks" because it might actually take that long to finish the series. I haven't even begun to write the posts. Moreover, moving TheOverAnalyzed to Camel has taken up almost all of my free time over the past two weeks. Because of that, I'm sure I have several links saved to my "Blog Content" folder in Instapaper -- links I'm sure I'll want to share in-between these long-winded design pieces. My intent for this series to be part how-to[^for] and part web design philosophy in general.[^ph]
+I said "weeks" because it might actually take that long to finish the series. I haven't even begun to write the posts. Moreover, moving TheOverAnalyzed to Camel has taken up almost all of my free time over the past two weeks. Because of that, I'm sure I have several links saved to my "Blog Content" folder in Instapaper---links I'm sure I'll want to share in-between these long-winded design pieces. My intent for this series to be part how-to[^for] and part web design philosophy in general.[^ph]
 
 In addition to the loads of Tweet-learning passed to me from both [Casey Liss][twitter] and [Roger Stringer][twitter 2] (more on him later in the series), I was forced to learn a bunch of stuff the hard way. I hope this series can make a prospective Camel-rider's journey a tad bit easier than my own.
 

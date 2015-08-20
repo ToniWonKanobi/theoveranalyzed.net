@@ -1,9 +1,6 @@
 @@ Title=Nerdy Stuff  
-@@ HideHeader=true
 
-<h1><i class="fa fa-terminal fa-fw"></i> Nerdy Stuff</h1>
-
-## <i class="fa fa-cog fa-fw"></i> What The Site's Made Of
+<h2>What The Site's Made Of</h2>
 
 The site is built on a [forked version][github] of [Casey Liss's][twitter]  static blogging engine called [Camel][github 2], itself based on [Node][nodejs], [Express][expressjs], and several other [npm][npmjs] [packages][github 3]. I've also installed several additional [`markdown-it`][npmjs 2] plugins, beyond what Casey included with Camel by default. First, there's [`markdown-it-anchor`][npmjs 3], which makes for easy linking to specific headers like on [GitHub][d]. Second, I added [`markdown-it-table-of-contents`][npmjs 4], which can parse a 'table of contents' when called for in the `.md`.[^pa]
 
@@ -11,19 +8,19 @@ As far as client-side packages go, I have employed several additional open-sourc
  
 To the best of my knowledge, TheOverAnalyzed should perform well in most modern web browsers. For users of Internet Explorer version 6 and prior: I'm sure my site looks terrible. I can't help you with that one. 
 
-## <i class="fa fa-magic fa-fw"></i> Useful URL Slugs
+<h2 id="slugs">Useful URL Slugs</h2>
 
-**[.md][nerd]** You can append `.md` to the end of any post URL to see the actual source (Markdown) for that page[^tr]
+**[.md][nerd]**: You can append `.md` to the end of any post URL to see the actual source (Markdown) for that page[^tr]
 
-**[/2015][year]** for a list of all posts during the year of 2015[^p]
+**[/2015][year]**: For a list of all posts during the year of 2015[^p]
 
-**[/tags][tags]** shows all tags[^t]
+**[/tags][tags]**: Shows all tags[^t]
 
-**[/brokenlinks][br]** if you looked high and low in a search engine and still can't find a working link, the post might be here
+**[/brokenlinks][br]**: If you looked high and low in a search engine and still can't find a working link, the post might be here
 
-**[/live][live]** for occasional coverage of live events such as [WWDC][apple]
+**[/live][live]**: For occasional coverage of live events such as [WWDC][apple]
 
-**[/dailyupdate][du]** for the daily emails with links to posts
+**[/dailyupdate][du]**: For the daily emails with links to posts
 
 [^pa]: Just add [`[[TOC]]`][github 5] where you want the table of contents to show up in the HTML. This is much like what Fletcher Penney's [MultiMarkdown Composer][multimarkdown] can do in Version 3 (currently in beta)
 [^tr]: Alternatively, while viewing a post at it's Permalink location (i.e., not on the homepage `/`), you could also just follow the hyperlink called "<i class="fa fa-code fa-fw"></i> Source," located below the post title.

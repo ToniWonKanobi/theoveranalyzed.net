@@ -4,7 +4,7 @@
 @@ Tags=animal advocacy, animals, advocacy, The Dodo  
 
 Melissa Cronin for The Dodo, [reporting][thedodo] on the euthanasia of a giraffe in Denmark:
-> In a bizarre plot twist that is sure to provoke anger, another giraffe at a second Danish zoo may meet the same fate as the giraffe named Marius who was euthanized and publicly autopsied at the Copenhagen Zoo in Denmark last Sunday -- and this giraffe is also named Marius. The new Marius, a healthy seven-year-old giraffe at the Jyllands Park Zoo, is considered unsuitable for breeding because his genetic makeup is already represented in the gene pool. The zoo said there was a high risk that Marius would have to be put down if the facility were to acquire a female giraffe to breed with the other male giraffe.
+> In a bizarre plot twist that is sure to provoke anger, another giraffe at a second Danish zoo may meet the same fate as the giraffe named Marius who was euthanized and publicly autopsied at the Copenhagen Zoo in Denmark last Sunday---and this giraffe is also named Marius. The new Marius, a healthy seven-year-old giraffe at the Jyllands Park Zoo, is considered unsuitable for breeding because his genetic makeup is already represented in the gene pool. The zoo said there was a high risk that Marius would have to be put down if the facility were to acquire a female giraffe to breed with the other male giraffe.
 
 A good read for some quick-and-dirty regarding one particular terrible zoo in Denmark.
 

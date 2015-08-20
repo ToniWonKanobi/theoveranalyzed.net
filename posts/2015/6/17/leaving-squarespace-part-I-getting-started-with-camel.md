@@ -4,7 +4,7 @@
 @@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0  
 @@ Image=http://d.pr/i/1go0O+   
 
-<div class="topstory">This is Part I of my series entitled <a href="http://www.theoveranalyzed.net/tags/Leaving%20Squarespace">Leaving Squarespace</a>. Note that much of this post (and future posts) was made possible due to <a href="https://twitter.com/freekrai">Roger Stringer</a>. Check out his Camel installation guide found <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/">here</a>. Because I wasn't a master at the command line before Camel -- I'm still not -- and because you may not be a command line master yourself, I thought it would be useful to detail a step-by-step procedure on how I got Camel working on my local machine. Note that this post will not discuss the actual deployment of the site to Heroku. That comes later.
+<div class="topstory">This is Part I of my series entitled <a href="http://www.theoveranalyzed.net/tags/Leaving%20Squarespace">Leaving Squarespace</a>. Note that much of this post (and future posts) was made possible due to <a href="https://twitter.com/freekrai">Roger Stringer</a>. Check out his Camel installation guide found <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/">here</a>. Because I wasn't a master at the command line before Camel---I'm still not---and because you may not be a command line master yourself, I thought it would be useful to detail a step-by-step procedure on how I got Camel working on my local machine. Note that this post will not discuss the actual deployment of the site to Heroku. That comes later.
 </div>
 
 <h2>Contents</h2>
@@ -180,7 +180,7 @@ To accomplish this, uncomment these lines of code in `camel.js`:
 //  });
 ```
 
-What this does is allow you to make changes to CSS, or posts, or whatever -- all without having to close and re-deploy the local version of your site.[^ex]
+What this does is allow you to make changes to CSS, or posts, or whatever---all without having to close and re-deploy the local version of your site.[^ex]
 
 <hr class="small" />
 

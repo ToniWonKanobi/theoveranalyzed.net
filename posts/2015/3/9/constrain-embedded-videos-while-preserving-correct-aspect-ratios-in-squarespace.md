@@ -100,7 +100,7 @@ Then, navigate to your page and then navigate to `Develop` → `Show Page Source
 
 For my site, I visited the `/archive/` page, which is the URL slug for my main blog. 
 
-After viewing the source, make sure that "Source Code" is selected and then click "Inspect Element". This will allow you to hover over the main content area of the blog post to try and figure out what that area is called. Whatever that main area is called -- *that's* what you're looking to target with the script.
+After viewing the source, make sure that "Source Code" is selected and then click "Inspect Element". This will allow you to hover over the main content area of the blog post to try and figure out what that area is called. Whatever that main area is called---*that's* what you're looking to target with the script.
 
 <figure>
 	<img src="http://d.pr/i/10stf+" alt="looking"  />
@@ -146,7 +146,7 @@ The FitVids.js solution works on all `<iframe>` elements found on `.main-content
 
 	The gratification of tweaking code and having it *finally* work after many failed attempts is very real, and quite awesome. After just a couple months of web design, I can understand how programmers can go on week-long coding adventures without sleep or food. It's a surreal experience.
 [^on]: On mobile, this width is overruled with some `@media` queries for phone and tablet displays
-[^tr]: Truthfully, I am more or less targeting iPhone and iPad with my `@media` queries -- because, let's face it -- I could care less about other devices. Tons of web designers make a good practice of implementing 'fixes' for Internet Explorer's stupidness. Again, I could care less, so I don't. I am a terrible person.
+[^tr]: Truthfully, I am more or less targeting iPhone and iPad with my `@media` queries---because, let's face it---I could care less about other devices. Tons of web designers make a good practice of implementing 'fixes' for Internet Explorer's stupidness. Again, I could care less, so I don't. I am a terrible person.
 [^ifi]: If I were embedding HTML5 video, this wouldn't be an issue. But I don't want to embed HTML5 video for storage and page-loading reasons]
 [^the]: The `device-width` of iPhones is anywhere from 320px - 375 px, which is smaller than my statically-defined `width="450"`
 [^or]: Optionally, you can hotkey it with `Command + Option + U`

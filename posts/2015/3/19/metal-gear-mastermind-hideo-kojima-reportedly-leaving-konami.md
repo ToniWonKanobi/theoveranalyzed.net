@@ -13,7 +13,7 @@ It was Thanksgiving break, and I was a freshman in [high school][cvcaonline]. An
 
 The [hype][ign] leading up to launch was immense. MGS2 was, without a doubt, *the* Playstation 2 title to have the holiday season of 2001. [Up until that point][wikipedia 2], there was no native PS2 Metal Gear entry. 
 
-MGS2 introduced tons of [gameplay innovations][ign 2], and the story was -- like the rest of the [Metal Gear][wikipedia 3] series -- excellent. 
+MGS2 introduced tons of [gameplay innovations][ign 2], and the story was---like the rest of the [Metal Gear][wikipedia 3] series---excellent. 
 
 I occasionally look back on my video game days and wax nostalgic. And when I do, it is often for MGS2 or [Gran Truismo 3: A-Spec][wikipedia 4].
 

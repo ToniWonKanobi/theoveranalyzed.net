@@ -16,7 +16,7 @@ Some takeaways:
 * iPad doesn't *have* to replace our Macs or our phones  to be successful
 * It can be more of a *companion* to the iPhone and Mac and *still* be successful
 
-That last point is important. When iPad sales began to plateau/decline in the past few quarters, Apple bears have been preaching that Apple Was Doomed™. The change this quarter is that maybe everyone -- the pundits, the bears, even Steve -- was wrong about the iPad to begin with. That seems to be the writing on the wall. Maybe the market never intended for iPad to *replace* the Mac (it just appeared that way for a few years after it launched in 2010)
+That last point is important. When iPad sales began to plateau/decline in the past few quarters, Apple bears have been preaching that Apple Was Doomed™. The change this quarter is that maybe everyone---the pundits, the bears, even Steve---was wrong about the iPad to begin with. That seems to be the writing on the wall. Maybe the market never intended for iPad to *replace* the Mac (it just appeared that way for a few years after it launched in 2010)
 
 Cybart's words here are especially fitting:
 > The iPad is merely a part of the Apple product lineup designed to appeal to lifestyles where a touchscreen ranging from 7 to 12 inches makes sense

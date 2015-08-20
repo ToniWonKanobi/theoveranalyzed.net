@@ -11,7 +11,7 @@
 	<a class="nohover" href="http://d.pr/i/138Zv+">
 		<img src="http://d.pr/i/138Zv+" alt="Waiting." />
 	</a>
-	<figcaption>That's 457.1 ms <em>too</em> long for me.</figcaption>
+	<figcaption>That's 457.1ms <em>too</em> long for me.</figcaption>
 </figure>
 
 # Becoming Ideal
@@ -38,7 +38,7 @@ Right?
 
 My priorities changed somewhat last week. Gruber [wrote a short piece][daringfireball 2] on the crummy state of modern web browsing, focusing primarily on how *slowly* most webpages load these days. According to Gruber, the culprit was all those JavaScript extensions powering those annoying web advertisements. He picked on iMore in particular. [I did the same][theoveranalyzed 4]. 
 
-While I was writing that post last week, I experimented with a jQuery plugin called [Lazy Load](), by Mika Tuupola. The purpose of that plugin is to prevent the loading of embedded images until they come into `viewport`. I had to edit the source code (Markdown/HTML) for my posts by adding a special class to images, `<img class="lazy"`, as well as add a `data-original=` modifier in place of the traditional `src=`. When the image comes into focus on the webpage, Lazy Load dynamically reads the `data-original=` content and inserts an `src=` string into the `<img>` tag, thereby loading the image. It's a pretty nifty plugin -- at least in theory. 
+While I was writing that post last week, I experimented with a jQuery plugin called [Lazy Load](), by Mika Tuupola. The purpose of that plugin is to prevent the loading of embedded images until they come into `viewport`. I had to edit the source code (Markdown/HTML) for my posts by adding a special class to images, `<img class="lazy"`, as well as add a `data-original=` modifier in place of the traditional `src=`. When the image comes into focus on the webpage, Lazy Load dynamically reads the `data-original=` content and inserts an `src=` string into the `<img>` tag, thereby loading the image. It's a pretty nifty plugin---at least in theory. 
 
 Truthfully, I'm not sure why I was so bent on trying this. At the time, I justified using it by telling myself that it would make TheOverAnalyzed load faster. From the beginning, this was flawed logic. Previously, I tested the site against the `Disable Images` option in Safari's Develop menu. And guess what? Disabling images never made a meaningful difference in page loading times.
 
@@ -50,9 +50,9 @@ Less than an hour after that deploy, I had re-edited my posts to remove the Lazy
 
 # Trying Stuff
 
-Yesterday, I experimented more with disabling JavaScript. Without JavaScript enabled, page load times were only marginally faster. [And as I said previously][theoveranalyzed 5], gaining less than a quarter second in page loading times didn't warrant losing Bigfoot footnotes. But while I was experimenting in Safari's `View Page Source` window, I noticed something. In general, TheOverAnalyzed initializes rather quickly, somewhere in the range of 100 ms. However, immediately thereafter -- before loading the next resource -- there was latency of around 800 ms. That "next resource" I speak of is the Ideal Sans webfont, served up via Hoefler & Co's [Cloud.typography][typography 3] backend. 
+Yesterday, I experimented more with disabling JavaScript. Without JavaScript enabled, page load times were only marginally faster. [And as I said previously][theoveranalyzed 5], gaining less than a quarter second in page loading times didn't warrant losing Bigfoot footnotes. But while I was experimenting in Safari's `View Page Source` window, I noticed something. In general, TheOverAnalyzed initializes rather quickly, somewhere in the range of 100ms. However, immediately thereafter---before loading the next resource---there was latency of around 800ms. That next resource I speak of is the Ideal Sans webfont, served up via Hoefler & Co's [Cloud.typography][typography 3] backend. 
 
-800 ms. That's almost an *entire* second of latency. And Ideal Sans -- my favorite font -- was the culprit.
+800ms. That's almost an *entire* second of latency. And Ideal Sans---my favorite font---was the culprit.
 
 Could I fix this?
 

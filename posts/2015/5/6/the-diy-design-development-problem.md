@@ -3,7 +3,7 @@
 @@ Description=I'm guilty of it: designing without being a designer. Is it all bad?  
 @@ Tags=design, culture, web design, web, apps, iOS, OS X, web, developers, development, Apple, industry, Marco Arment, Eli Schiff, Louis Mantia   
 
-[NSConference][nsconference] recently posted videos of all their speakers for this year's conference, and Marco Arment was one of the [keynote speakers][vimeo]. Interestingly enough, his topic was app marketing, something often mocked on his [podcast][atp]. Still, perhaps unsurprisingly, he did a great job explaining what works -- at least for him -- in the App Store. And overall, his talk is a great watch for [Overcast][overcast] fans, as he recounts the app from conception, all the way to launch.[^ln]
+[NSConference][nsconference] recently posted videos of all their speakers for this year's conference, and Marco Arment was one of the [keynote speakers][vimeo]. Interestingly enough, his topic was app marketing, something often mocked on his [podcast][atp]. Still, perhaps unsurprisingly, he did a great job explaining what works in the App Store. And overall, his talk is a great watch for [Overcast][overcast] fans, as he recounts the app from conception, all the way to launch.[^ln]
 
 Let me preface what I am about to say with this: I have nothing but the highest regard for Marco Arment. His [work][wikipedia] with Tumblr helped jumpstart the [one-man-blog][duckduckgo]. His mobile applications have become huge contributions to the App Store ecosystem. Before [Instapaper][apple], there was no great read-it-later service. And before [Overcast][apple 2], podcasters who wanted to listen at greater than 1.0x speeds were stuck with crappy audio. He is nothing but an inspiration for wannabe indie developers, [bloggers][marco], and [podcasters][atp]. 
 
@@ -14,7 +14,7 @@ That said, his thoughts regarding the design/develop conundrum currently plaguin
 
 I've [read a few][theoveranalyzed] of Eli Schiff's pieces, mostly because Marco [linked][marco 2] to one in particular (with disdain). Ignoring the disagreement between the two, Schiff makes some spot-on arguments about the recent trend of developers doing more and more self-design work in their apps.
 
-Here he is from his piece entitled [Fall of the Designer Part II: Pixel Pushers][elischiff]:
+Here he is from his piece entitled [Fall of the Designer Part II: Pixel Pushers][elischiff]:---
 >More and more, we are seeing a convergence toward a universalized front-end developer role in design, with the ostensible visual designer becoming an abstract coder, thus renouncing any ties to the graphical nature of interface design
 
 >[This is] illustrative of a larger movement that expects interface design to come a distant second to development.
@@ -23,7 +23,7 @@ I am tempted to include more quotes from his piece, but really, you should just 
 
 In the old days of application development, developers wrote the code, and collaborated with designers to create the desired UI/UX. As design trends moved away from skeumorphism and [toward flatness][daringfireball], developers were finally in a position to self-design. Gone were complex textures and heavy gradients, and in their place were easily [SVG][wikipedia 2]-able designs, coded with simple flat strokes and backgrounds.
 
-The flat design esthetic has permeated so much of the web and app landscape because -- if for no other reason -- designing for flat is incredibly easy. No longer do developers have to rely on designers to make their UI come to life.
+The flat design esthetic has permeated so much of the web and app landscape because designing for flat is incredibly easy. No longer do developers have to rely on designers to make their UI come to life.
 
 But the stink of having to *rely* on designers and *appreciating* their value are drastically different. There must be some middle ground, right?
 

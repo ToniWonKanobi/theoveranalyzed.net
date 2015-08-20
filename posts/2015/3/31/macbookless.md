@@ -16,7 +16,7 @@ That said, I think I will love the new MacBook even more. So I sold the MacBook 
 
 <hr class="small" />
 
-I am writing this post on my iPhone 6 Plus, using a paired [Bluetooth keyboard][amazon]. And the last few posts I have put out -- those have all been written in a similar fashion. Truly, the keyboard makes writing immensely better than without it. I can't imagine thumb typing my ~1000 word posts -- even in Markdown -- due to the limitations of iOS. 
+I am writing this post on my iPhone 6 Plus, using a paired [Bluetooth keyboard][amazon]. And the last few posts I have put out---those have all been written in a similar fashion. Truly, the keyboard makes writing immensely better than without it. I can't imagine thumb typing my ~1000 word posts due to the limitations of iOS. 
 
 The biggest take-home for me is that iOS, while seemingly an oasis for distracted-types like myself, tends to cripple me rather than enable. Yes, full screen apps make for a focused writing experience. And yes, the [bigger] iPhone 6 Plus screen makes it even easier to type longer passages on my phone. And yes, the combination of an iPhone 6 Plus and a keyboard still weighs less and takes up less space than even the 11" MacBook Air. Win, win, win.
 

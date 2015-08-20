@@ -155,7 +155,7 @@ We can test that the plugin worked correctly by modifying a sample post. After l
 
 When I was still using Squarespace, I tried installing a server-side script called [highlight.js](https://highlightjs.org). Highlight.js applies color schemes to `<code>` blocks according to the type of code in the block, be it JavaScript, HTML, CSS, Perl, etc.
 
-For whatever reason, I was never able to get it to work with my Squarespace site. I forgot about it actually. But while I was browsing the `markdown-it` plugin database (for problems eventually solved by the two aforementioned plugins in this post), I stumbled upon a `markdown-it` plugin called [`markdown-it-highlightjs`](https://www.npmjs.com/package/markdown-it-highlightjs/), which -- you guessed it -- sets `markdown-it` to use `highlight.js` by default.
+For whatever reason, I was never able to get it to work with my Squarespace site. I forgot about it actually. But while I was browsing the `markdown-it` plugin database (for problems eventually solved by the two aforementioned plugins in this post), I stumbled upon a `markdown-it` plugin called [`markdown-it-highlightjs`](https://www.npmjs.com/package/markdown-it-highlightjs/), which---you guessed it---sets `markdown-it` to use `highlight.js` by default.
 
 1. Navigate to Camel's directory with `cd`
 2. Further navigate to the `node_modules` directory

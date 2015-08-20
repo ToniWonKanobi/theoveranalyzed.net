@@ -1,7 +1,7 @@
 @@ Title=How to Make Your iPhone Dimmer Than Its Dimmest Setting  
 @@ Date=2015-02-03T10:00:00+00:00  
 @@ Link=https://medium.com/@searls/how-to-make-your-iphone-dimmer-than-dim-d20fd3bbbb66  
-@@ Description=This is the closest iOS users will get to the jailbreak tweak f.lux -- without jailbreaking.  
+@@ Description=This is the closest iOS users will get to the jailbreak tweak f.lux---without jailbreaking.  
 @@ Tags=jailbreak, tech tips, iPhone, iOS, iPad, Apple    
 
 I jailbreak my iOS devices for a myriad of reasons. One big reason is so that I can use [f.lux][justgetflux].[^f] But if you are not into that, here is a nifty how-to using Accessibility features built into iOS to dim the screen beyond the lowest level.

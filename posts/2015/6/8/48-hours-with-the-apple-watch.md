@@ -38,7 +38,7 @@ I [spent some time][theoveranalyzed 2] with the Watches in April, but no amount 
 	<figcaption>When Space Gray &#8800; Space Gray</figcaption>
 </figure>
 
-The strangest bit at play here is Apple's seemingly inconsistent use of the "Space Gray" moniker. Looking at Rene Ritchie's Instagram photo above, it should be apparent that the Space Gray on the Apple Watch is *much* grayer than Apple's other available Space Gray offerings (here, the iPhone 6 Plus, the iPad Air 2, and the new MacBook). Don't get me wrong -- I have no complaints about the Watch's darker hue. In fact, I wish all of Apple's Space Gray aluminum looked this shade. 
+The strangest bit at play here is Apple's seemingly inconsistent use of the "Space Gray" moniker. Looking at Rene Ritchie's Instagram photo above, it should be apparent that the Space Gray on the Apple Watch is *much* grayer than Apple's other available Space Gray offerings (here, the iPhone 6 Plus, the iPad Air 2, and the new MacBook). Don't get me wrong---I have no complaints about the Watch's darker hue. In fact, I wish all of Apple's Space Gray aluminum looked this shade. 
 
 Color inconsistencies notwithstanding, everything about the watch is what I expected. Fit and finish, even for a gen 1 product such as this, is excellent. Most impressive is the fluoroelastomer band fastener. I initially struggled to don the dang thing, but after I followed Apple's 'How to put this on' for dummies guide (included in the packaging), it was effortless. 
 
@@ -71,7 +71,7 @@ My current watch face of choice is Modular. I tried the analog Utility mode, but
 
 ## Fitness
 
-This is my favorite feature of the Watch. I went to the gym earlier today, and the gratification I received from monitoring my heart rate during the workout session made the shady Saturday afternoon parking lot deal worth it. If every other feature of the Watch was stripped away -- time-keeping functionality included -- but the fitness tracking remained, I would still think it a great purchase. 
+This is my favorite feature of the Watch. I went to the gym earlier today, and the gratification I received from monitoring my heart rate during the workout session made the shady Saturday afternoon parking lot deal worth it. If every other feature of the Watch was stripped away---time-keeping functionality included---but the fitness tracking remained, I would still think it a great purchase. 
 
 ### Activity
 

@@ -10,7 +10,7 @@ Jonathan Allen, writing for Vox:
 >
 >She's a class act who puts on a great show and manages to deliver messages about self-worth and self-empowerment while touching on universal struggles that anyone can relate to, no matter their demographic. Yeah, I'm proud to call myself a Taylor Swift fan.
 
-The other day, as I was finishing up with a patient, the subject of music came up.[^kt] My patient was a 40-something year-old male, and we shared with each other our musical preferences. Being the well-rounded music nerd that I am, I mentioned [Pearl Jam][wikipedia] and [Third Eye Blind][wikipedia 2] -- obvious favorites for the average [40-something][wikipedia 3] male, right? We also agreed on the absolute mastery of the art exhibited by Elton John in his early 70's albums such as [Tumbleweed Connection][wikipedia 4]. We talked a bit about new music too. 
+The other day, as I was finishing up with a patient, the subject of music came up.[^kt] My patient was a 40-something year-old male, and we shared with each other our musical preferences. Being the well-rounded music nerd that I am, I mentioned [Pearl Jam][wikipedia] and [Third Eye Blind][wikipedia 2]---obvious favorites for the average [40-something][wikipedia 3] male, right? We also agreed on the absolute mastery of the art exhibited by Elton John in his early 70's albums such as [Tumbleweed Connection][wikipedia 4]. We talked a bit about new music too. 
 
 Just as it always does, a discussion of *modern* pop music has to include my two cents about modern electric bass guitar. And I can't talk about bass guitar without mentioning something about Taylor Swift. 
 

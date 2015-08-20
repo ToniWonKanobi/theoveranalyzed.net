@@ -23,7 +23,7 @@ There's nothing wrong with that.
 
 <hr class="small">
 
-That's where my initial thinking about wearing two watches came from. I love old things. Old cars, old movies, old jeans -- these are just better with age. And despite all the added technical benefit and increased utilitarianism of having an iPhone on my wrist, no amount of technology prowess will ever make Apple Watch better than a [fine mechanical timepiece][rolex]. 
+That's where my initial thinking about wearing two watches came from. I love old things. Old cars, old movies, old jeans---these are just better with age. And despite all the added technical benefit and increased utilitarianism of having an iPhone on my wrist, no amount of technology prowess will ever make Apple Watch better than a [fine mechanical timepiece][rolex]. 
 
 Now, though, I feel differently. Do I think Apple Watch could ever be more important to me than my normal wrist watch? Maybe. And what if my normal wrist watch was [this][patek]? Would Apple Watch surpass that too, as far as importance and wrist-time? Maybe. 
 

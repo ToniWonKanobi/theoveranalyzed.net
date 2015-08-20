@@ -10,6 +10,6 @@ Benjamin Mayo, reporting a KGI rumor for 9to5Mac:
 He continues: 
 >Current iPhones have some awareness of this tap radius, but is somewhat of an estimate due to the limitations of the current capacitive touchscreen technology. The upcoming new iPhones would be able to determine this contact area much more accurately using the dedicated sensor. 
 
-This seems like the most plausible rumor I've heard regarding Force Touch on the *next* iPhone. I don't doubt that some iPhone in the future will have *actual* Force Touch like what is featured on the new MacBook and Apple Watch. However, for Apple to have this technology in the bag for this coming September -- that seems like a stretch. 
+This seems like the most plausible rumor I've heard regarding Force Touch on the *next* iPhone. I don't doubt that some iPhone in the future will have *actual* Force Touch like what is featured on the new MacBook and Apple Watch. However, for Apple to have this technology in the bag for this coming September---that seems like a stretch. 
 
 Using capacitive touch for the first generation of "Force Touch" on an iPhone is a nifty 'sort of' tactic for Apple. It comes with a built-in positive marketing message, and more importantly, it makes for some solid continuity across its product lineup. 

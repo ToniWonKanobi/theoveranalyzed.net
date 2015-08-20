@@ -15,6 +15,6 @@ Vlad Savov for The Verge:
 	<figcaption>"Macintosh 128M with Retina display"</figcaption>
 </figure>
 
-I have an 'Apple Gear Bucket List' of sorts. I'm quite certain the [Macintosh 128K][m] has to be at the top of the heap. Until then, I will happily live in this fantasy -- apparently as much as everyone else is currently.
+I have an 'Apple Gear Bucket List' of sorts. I'm quite certain the [Macintosh 128K][m] has to be at the top of the heap. Until then, I will happily live in this fantasy.
 
 [m]: https://en.m.wikipedia.org/wiki/Macintosh_128K

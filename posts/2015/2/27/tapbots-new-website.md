@@ -31,7 +31,7 @@ You can check out their new site, as well as all of their wonderful apps [here][
 
 [From [Macstories][macstories]]
 
-[^tw]: Here's my [first tweet ever][twitter 3], auto-posted from -- get this -- iTunes. 
+[^tw]: Here's my [first tweet ever][twitter 3], auto-posted from---get this---iTunes. 
 [^sa]: Notice how I didn't say "thrive"? It will be interesting to see how things look for Twitter three years from *today*. 
 [^os]: [Boom][archive 3].
 [^flt]: Flat was so in back then. I guess it still is, but it's more 'flat, and non-flat when needed,' which I like much better. Tapbots really has taken this new 'flat' and ran with it. While Tweetbot and [Calcbot][tapbots 3] are still technically quite flat compared to older versions pre-iOS 7, they both have tons of delicious animations and textures that enhance the app experience tremendously. Sometimes plain ol' flat just doesn't work that well.
