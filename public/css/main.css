@@ -238,6 +238,10 @@ pre code {
     line-height: 1.5
 }
 
+audio {
+	width: 100%;
+}
+
 /* Fixes funkiness on homepage <pre><code> */
 .homepage pre code {
 	white-space: pre-line

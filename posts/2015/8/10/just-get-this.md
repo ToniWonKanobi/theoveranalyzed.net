@@ -26,7 +26,7 @@ But the subject of gifting does occasionally come up, and what is often said is 
 
 That's why this past week's episode of the [Accidental Tech Podcast][atp] was so fitting:
 
-<audio controls="control" style="width:80%">
+<audio controls>
 		<source src="http://traffic.libsyn.com/atpfm/atp129.mp3#t=1125" type="audio/mpeg"/>
 </audio>
 
