@@ -29,14 +29,14 @@ Thanks for stopping by.
 [atp]: http://atp.fm
 [caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced
 [ear]: https://twitter.com/TheOverAnalyzed/status/430233457029947392
-[hacks]: http://www.theoveranalyzed.net/tags/Squarespace
+[hacks]: @@SiteRoot@@/tags/Squarespace
 [instagram]: https://instagram.com/p/2oFqCowLyD/?taken-by=theoveranalyzed
-[nerd]: http://www.theoveranalyzed.net/nerd
+[nerd]: @@SiteRoot@@/nerd
 [ss]: http://www.squarespace.com
-[toa]: http://www.theoveranalyzed.net/tags/TheOverAnalyzed
-[rssa]: http://www.theoveranalyzed.net/rss-alternate
-[theoveranalyzed]: http://www.theoveranalyzed.net/tags/Apple
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/tags/cars
-[theoveranalyzed 3]: http://www.theoveranalyzed.net/tags/design
-[theoveranalyzed 4]: http://www.theoveranalyzed.net/tags/pop%20culture
+[toa]: @@SiteRoot@@/tags/TheOverAnalyzed
+[rssa]: @@SiteRoot@@/rss-alternate
+[theoveranalyzed]: @@SiteRoot@@/tags/Apple
+[theoveranalyzed 2]: @@SiteRoot@@/tags/cars
+[theoveranalyzed 3]: @@SiteRoot@@/tags/design
+[theoveranalyzed 4]: @@SiteRoot@@/tags/pop%20culture
 [twitter]: https://twitter.com/caseyliss/status/601133285356531712

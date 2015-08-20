@@ -23,12 +23,12 @@ If you have questions, concerns, or any other feedback, you can send me an email
 
 You can subscribe to the full-text RSS feed: [http://www.theoveranalyzed.net/rss][rss]
 
-There is also an alternate RSS feed, for which linked posts point back to TheOverAnalyzed instead of their targets. 
+There is also an alternate RSS feed, for which linked posts point back to TheOverAnalyzed instead of their targets.  
 You can find that feed here: [http://www.theoveranalyzed.net/rss-alternate][rssa]
 
 <h1 id="support">Supporting TheOverAnalyzed</h1>
 
-<h2 id="twitter">Patreon</h2>
+<h2 id="patreon">Patreon</h2>
 
 You can crowdfund via [Patreon][patreon]
 
