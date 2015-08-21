@@ -356,12 +356,12 @@ a.postTitleLinked:hover + i.fa.fa-long-arrow-right.fa-fw { color: #2e8eef }
 ul.postSubtitleItems {
 	padding-left: 0;
 	line-height: 1.2;
-	margin: 0.5em auto -1.5em auto
+	margin: 0.5em auto -2em auto
 }
 
 ul.postSubtitleItems li {
 	display: inline;
-	margin-right: 1.8em;
+	margin-right: 1em;
 	line-height: 1.5;
 }
 
@@ -371,9 +371,9 @@ ul.eachTag {
 	list-style: none;
 	height: 0;
 	opacity: 0;
-	-webkit-transition: all 3s ease-in;
-	-moz-transition: all 3s ease-in;
-	transition: all 3s ease-in
+	-webkit-transition: all 2.7s ease-in;
+	-moz-transition: all 2.7s ease-in;
+	transition: all 2.7s ease-in
 }
 
 ul.eachTag li {
@@ -557,6 +557,12 @@ a.footnote-backref:hover {
 	    margin-left: -10%;
 		width: 120%
 	}
+	
+	ul.eachTag {
+		-webkit-transition: all 1.5s ease-in;
+		-moz-transition: all 1.5s ease-in;
+		transition: all 1.5s ease-in
+	}
 }
 
 /* iPhone */
@@ -586,6 +592,20 @@ a.footnote-backref:hover {
 	
 	.postHeader h1 { font-size: 1.8em }
 	
+	li.postSource a {
+		margin-right: 3em;
+	}
+	
+	li.postPermalink a {
+		margin-right: 2em;
+	}
+	
+	ul.eachTag {
+		-webkit-transition: all 1.5s ease-in;
+		-moz-transition: all 1.5s ease-in;
+		transition: all 1.5s ease-in
+	}
+	
 	.homepage .day .daybreak {
 		margin: 6em auto 6em -10%;
 		width: 120%
@@ -594,6 +614,8 @@ a.footnote-backref:hover {
 	.homepage .paginationFooter { margin: -2em auto 3em auto }
 	
 	#navFooter { padding: auto }
+	
+	#nav { font-size: 1em }
 	
 	#copyright { padding: auto }
 	
@@ -627,5 +649,5 @@ a.footnote-backref:hover {
 	and (min-device-width: 414px) 
 	and (max-device-width: 736px) 
 	and (-webkit-min-device-pixel-ratio: 3) { 
-	.bigfoot-footnote__button { font-size: 0.8rem }
+		.bigfoot-footnote__button { font-size: 0.8rem }
 }

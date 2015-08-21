@@ -143,7 +143,8 @@ I hope Cloud.typography webfonts can become less latent. As soon as they are, I'
 
 <div class="update">
 
-### Update August 11, 2015
+## Update
+<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">August 11, 2015</p>
 
 You may have noticed that I've re-enabled my Cloud.typography webfont, Ideal Sans. Avenir Next is a great sans serif font, but it can't hold a candle to Hoefler. Yeah, the site loads slightly slower than before, but TheOverAnalyzed isn't really TheOverAnalyzed without Ideal Sans.
 

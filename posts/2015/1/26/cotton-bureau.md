@@ -26,7 +26,7 @@ That's pretty much it. I have spent more money here than my wife would like, so 
 
 <div class="update">
 
-### Update
+## Update
 
 Their referral program has ended, in case you were wondering why the discount no longer worked.
 

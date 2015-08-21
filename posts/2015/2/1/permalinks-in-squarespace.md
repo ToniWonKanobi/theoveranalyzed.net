@@ -68,7 +68,7 @@ By placing the permalink in the Post Blog Item Code Injection section, I no long
 
 <div class="update">
 
-### Update
+## Update
 
 Since initially writing this post, I have since turned on the [Developer Platform][squarespacee] for Squarespace. This has opened up both a bunch of possibilities, and a bunch of frustrations.
 
@@ -96,7 +96,7 @@ Here is the relevant code he suggests pasting there:
 Now, whenever I post a "Linked List" item, as long as the "External link" checkbox is checked in the New Post Advanced panel, a permalink will show up just to the right of the title of the post (which is the target external link):
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1lSZU+" alt="Boom">
+	<a class="nohover" href="http://d.pr/i/1lSZU+" />
 		<img src="http://d.pr/i/1lSZU+" alt="Boom" />
 	</a>
 	<figcaption>Boom</figcaption>

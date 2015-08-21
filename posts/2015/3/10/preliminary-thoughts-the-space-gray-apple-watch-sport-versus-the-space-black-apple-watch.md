@@ -59,7 +59,7 @@ I'll leave you with this, a conversation with a friend who knows me all too well
 
 <div class="update" id="update">
 
-### Update
+## Update
 
 Casey Liss [linked][caseyliss] to this [post][exactfitnessapps] by fitness company Exact Fitness, in which you can print out a mockup, cut it out, and 'try on' an Apple Watch in whatever size/band choice you are considering.
 
@@ -76,7 +76,7 @@ I used something [similar][instagram] last September when there were [suddenly][
 
 <div class="update" id="anotherupdate">
 
-### Another Update
+## Another Update
 
 I found this little nugget of knowledge regarding the Apple Watch link bracelet:
 

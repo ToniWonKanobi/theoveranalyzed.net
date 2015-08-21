@@ -27,7 +27,7 @@ Yikes 🇩🇪
 
 <div class="update">
 
-### Update
+## Update
 
 [Total 911][tot] has an even better look that Jalopnik. Head over there to check it out.
 
@@ -35,7 +35,7 @@ Yikes 🇩🇪
 
 <div class="update">
 
-### Another Update
+## Another Update
 
 And here's a [video][vid] they [featured][feat] from Porsche.
 

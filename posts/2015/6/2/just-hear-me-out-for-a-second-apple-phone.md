@@ -18,7 +18,7 @@ Apple has indeed been moving away from it's "i" prefix, [established][everysteve
 
 <div class="update">
 
-### Update
+## Update
 
 Jason Snell at Six Colors added his own commentary:
 >It would also require a renaming of the iPad, and you’d have to ask about the iMac at that point, too.

@@ -8,7 +8,8 @@ Want to know where a hyperlink will take you? Install this Safari extension, and
 
 <div class="update">
 
-### Update August 12, 2015
+## Update 
+<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">August 12, 2015</p>
 
 Safari 9.0 for OS X 10.11 "El Capitan" offers this functionality built-in. In order to achieve this, keep the "Show Status Bar" option in View enabled. And then, whenever you hover on a hyperlink, the a small popup revealing the hyperlink destination will appear at the bottom-left of the window (where the 'normal' status bar lives).
 
