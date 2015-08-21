@@ -14,7 +14,7 @@ Here's the infographic:
 
 <figure class="wide">
 	<a class="nohover" href="http://www.shutterstock.com/blog/wp-content/uploads/sites/5/2015/08/The-Influence-of-Star-Wars-EN.jpg">
-		<img src="http://www.shutterstock.com/blog/wp-content/uploads/sites/5/2015/08/The-Influence-of-Star-Wars-EN.jpg" alt="Pop Chart Lab = Awesome" />
+		<img src="http://d.pr/i/1fxha+" alt="Pop Chart Lab = Awesome" />
 	</a>
 </figure>
 
