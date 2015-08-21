@@ -24,9 +24,10 @@
 	<figcaption><a href="">text</a></figcaption>
 </figure>
 
-<div class="update" id="update">
+<div class="update">
 
-<h3>Update</h3>
+## Update
+<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">Date</p>
 
 Text
 

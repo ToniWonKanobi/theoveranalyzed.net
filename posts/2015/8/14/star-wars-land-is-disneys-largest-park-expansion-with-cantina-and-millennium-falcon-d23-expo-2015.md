@@ -19,9 +19,10 @@ No word yet as to when the expansion should be finished.
 	<figcaption><a href="http://www.imsdb.com/scripts/Star-Wars-A-New-Hope.html">"What a piece of junk."</a></figcaption>
 </figure>
 
-<div class="update" id="update">
+<div class="update">
 
-<h3>Update August 17, 2015</h3>
+## Update
+<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">August 17, 2015</p>
 
 On the topic of *when*, it seems that there's still no official word. [Peter Sciretta][more] today wrote further on the matter, offering his speculation as to the park's eventual opening:
 >So if construction begins in mid 2017 in Disneyland, I would expect a 2022 opening date.
