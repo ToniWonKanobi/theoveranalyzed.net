@@ -7,7 +7,7 @@
 
 <figure class="wide">
 	<a class="nohover" href="https://cottonbureau.com/products/use-the-force">
-		<img src="https://cottonbureau.com/img/products/6324_j77e_2400.jpg" alt="Use The Force" />
+		<img src="http://d.pr/i/jwWN+" alt="Use The Force" />
 	</a>
 	<figcaption><a href="http://davidroehldesign.com/">David Roehl</a>: "Can't wait for the next films."</figcaption>
 </figure>

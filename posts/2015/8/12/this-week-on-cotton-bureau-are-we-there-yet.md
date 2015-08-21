@@ -7,7 +7,7 @@
 
 <figure class="wide">
 	<a class="nohover" href="https://cottonbureau.com/products/are-we-there-yet">
-		<img src="https://cottonbureau.com/img/products/6245_ZiDJ_2400.jpg" alt="Are We There Yet?" />
+		<img src="http://d.pr/i/mXBf+" alt="Are We There Yet?" />
 	</a>
 	<figcaption><a href="http://twitter.com/ethnfndr">Ethan Fender</a>: "Waiting for episode 7 is like riding in one of these. Enjoy!"</figcaption>
 </figure>
