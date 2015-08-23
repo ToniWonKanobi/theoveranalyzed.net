@@ -37,5 +37,5 @@ As far as I can tell, Hockenberry is a prolific [rdar][openradar]-er. Here's hop
 [instagram 2]: https://instagram.com/p/4udIODwz6A/?taken-by=toniwonkanobi
 [instagram 3]: https://instagram.com/p/34MfmcQzx7/?taken-by=toniwonkanobi
 [openradar]: http://www.openradar.me/search?query=craig.hockenberry
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/3/4/getting-back-into-fitness
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/about
+[theoveranalyzed]: @@SiteRoot@@/2015/3/4/getting-back-into-fitness
+[theoveranalyzed 2]: @@SiteRoot@@/about

@@ -6,9 +6,13 @@
 @@ Image=  
 @@ Video=
 
-<div class="topstory">Text</div>
+<div class="topstory">
 
-<div class="takehome"><p><i>Boom</i></p></div>
+Text
+
+</div>
+
+<div class="takehome">Boom</div>
 
 <figure>
 <figure class="iphone">

@@ -3,7 +3,10 @@
 @@ Description=What's all the hubbub about? Is Net Neutrality *that* important? Well, only if you value choices and a decent internet.  
 @@ Tags=politics, Net Neutrality, industry, business  
 
-<div class="topstory">The team at <a href="http://www.backblaze.com">BackBlaze</a> posted a short <a href="https://www.backblaze.com/blog/broadband-getting-broader/">piece</a> regarding the FCC's recent <a href="https://gigaom.com/2015/01/29/bam-the-fcc-just-defined-broadband-as-25-mbps-down-and-4-mbps-up/">re-defining of broadband</a> internet access in America. In their article they quoted <a href="http://gizmodo.com/fcc-redefines-broadband-to-bring-you-faster-internet-1682516928">Gizmodo</a>, saying this: "The redefinition of broadband should increase competition between ISPs and cable companies as well as encourage the development of better infrastructure." That would be a step in the right direction, that's for sure.
+<div class="topstory">
+
+The team at BackBlaze posted a short [piece][backblaze] regarding the FCC's recent [re-defining][gigaom] of broadband internet access in America. In their article they quoted [Gizmodo][gizmodo], saying that "The redefinition of broadband should increase competition between ISPs and cable companies as well as encourage the development of better infrastructure." That would be a step in the right direction, that's for sure.
+
 </div>
 
 <h2>Contents</h2>
@@ -117,6 +120,7 @@ Sottek, on the prospects of the FCC reclassifying wireless as well (same article
 <div class="update">
 
 ## Update
+<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">February 4, 2015</p>
 
 Sottek, in a [later piece][verg] for The Verge:
 >FCC Chairman Tom Wheeler revealed his plan to reclassify ISPs as common carriers under Title II of the Telcommunications Act. It's a striking victory for net neutrality advocates who have been fighting for years to solidify internet protections using Title II authority. And it's the first time the FCC has shown enough backbone to draw a line in the sand against companies like Comcast, AT&T, and Verizon, who are sure to fight viciously in courts.
@@ -128,6 +132,7 @@ Finally 🐺
 <div class="update">
 
 ## Another Update, Ten Minutes After The Previous One
+<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">February 4, 2015</p>
 
 And Jacob Kastrenakes, also for [The Verge][vergee]:
 >The FCC has enforced some net neutrality rules for wireless carriers in the past, but chairman Tom Wheeler today announced that the commission intends implement new rules that will fully enforce its principles on mobile. As with wired broadband, the rules will ban paid prioritization and the "blocking and throttling of lawful content and services."
@@ -136,28 +141,31 @@ This is just crazy. It's like a dream come true for net neutrality advocates.
 
 </div>
 
-[^op]: We all know *[that][youtube 2]* guy. The one who is super stoked to tell you something, and his excitement is almost strange.
-[^t]: I have developed quite a knack for identifying people like this within seconds. That, and I assume the person I am talking to knows nothing, just like [Jon Snow][youtube 3], until proven otherwise.
-[^p]: ["Where I spent most of my days / Chillin' out maxin' relaxin' all cool / And all shootin some b-ball outside of school"][youtube 4]
-[^o]: If you have any sense about yourself, it should be clear to you that the Red Ranger held things together. [The Green Ranger][wikipedia 7] came in all evil at first. Tommy was the bad boy turned good. How quaint. [Jason][wikipedia 8] was true <s>blue</s> red all along. He never did leave those [peace conferences][wikipedia 9]. Until, that is, he came back as the [Gold Ranger][wikipedia 10] (!). Totes just looked that one up. 
-[^po]: Except maybe religion, and even then the two aren't mutually exclusive.
-[^to]: Social engagements are so stupid sometimes. 
-[^dd]: Not to be confused with the Nod And Smile™ philosophy, which is totally different, almost condescending. I've been that guy from time to time. 
-[^iss]: Much to the chagrin of my more conservative friends, I am about as socially liberal as a person can be.
-[^sub]: Lots of interesting [criticisms of capitalism out there][wikipedia 11], obviously. But "it is what it is" really seems to apply here. 
-[^con]: What with the idea of the 'big box store squashing the little guy'
-[^hc]: This is a familiar argument, not unlike the somewhat less serious aforementioned Costco example. 
-[^ch]: Or some other obscure cable provider
-[^sm]: Precious clueless grandparents no doubt.
-[^tdl]: Should I buy this? [The domain is totally available][dnsrsearch].
 [^att]: Yeah, [that could really happen][usatoday]
 [^cba]: Yeah, [that really happened][cnet]. 
+[^ch]: Or some other obscure cable provider
+[^con]: What with the idea of the 'big box store squashing the little guy'
+[^dd]: Not to be confused with the Nod And Smile™ philosophy, which is totally different, almost condescending. I've been that guy from time to time.
+[^hc]: This is a familiar argument, not unlike the somewhat less serious aforementioned Costco example.
+[^iss]: Much to the chagrin of my more conservative friends, I am about as socially liberal as a person can be.
+[^o]: If you have any sense about yourself, it should be clear to you that the Red Ranger held things together. [The Green Ranger][wikipedia 7] came in all evil at first. Tommy was the bad boy turned good. How quaint. [Jason][wikipedia 8] was true <s>blue</s> red all along. He never did leave those [peace conferences][wikipedia 9]. Until, that is, he came back as the [Gold Ranger][wikipedia 10] (!). Totes just looked that one up. 
+[^op]: We all know *[that][youtube 2]* guy. The one who is super stoked to tell you something, and his excitement is almost strange.
+[^p]: ["Where I spent most of my days / Chillin' out maxin' relaxin' all cool / And all shootin some b-ball outside of school"][youtube 4]
+[^po]: Except maybe religion, and even then the two aren't mutually exclusive.
+[^sm]: Precious clueless grandparents no doubt.
+[^sub]: Lots of interesting [criticisms of capitalism out there][wikipedia 11], obviously. But "it is what it is" really seems to apply here. 
+[^t]: I have developed quite a knack for identifying people like this within seconds. That, and I assume the person I am talking to knows nothing, just like [Jon Snow][youtube 3], until proven otherwise.
+[^tdl]: Should I buy this? [The domain is totally available][dnsrsearch].
+[^to]: Social engagements are so stupid sometimes.
 [^vv]: Apple is likely the worst example for me to use here, because it probably would continue to make excellent things, even if Samsung wasn't copying everything they did and thereby forcing Apple to re-invent itself [quicker than it would like][marco] just to remain fresh
 
+[backblaze]: https://www.backblaze.com/blog/broadband-getting-broader/
 [cnet]: http://www.cnet.com/news/comcast-apologizes-after-re-naming-customer-with-expletive/
 [daringfireball]: http://daringfireball.net/linked/2015/01/30/aol
 [dnsrsearch]: http://www.dnsrsearch.com/index.php?origURL=http%3A//www.thedogelor.com/&r=
 [duckduckgo]: https://duckduckgo.com/?q=problems+with+government+regulation&ia=about
+[gigaom]: https://gigaom.com/2015/01/29/bam-the-fcc-just-defined-broadband-as-25-mbps-down-and-4-mbps-up/
+[gizmodo]: http://gizmodo.com/fcc-redefines-broadband-to-bring-you-faster-internet-1682516928
 [go]: http://abc.go.com/shows/the-bachelor/cast/host-chris-harrison
 [marco]: http://www.marco.org/2015/01/04/apple-lost-functional-high-ground
 [meme]: http://cdn.meme.am/instances/500x/58763138.jpg

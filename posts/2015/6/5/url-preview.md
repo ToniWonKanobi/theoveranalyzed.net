@@ -23,5 +23,5 @@ While both are free utilities, I'm sure Brett wouldn't mind a few bucks tossed h
 [0402-0004]: http://multimarkdown.com/
 [0402-0005]: http://fletcherpenney.net/multimarkdown/
 [0402-0006]: https://www.npmjs.com/package/markdown-it
-[again]: http://www.theoveranalyzed.net/2015/3/4/byword-multimarkdown-composer-and-more
-[camel]: http://www.theoveranalyzed.net/2015/6/1/introducing-theoveranalyzed-30
+[again]: @@SiteRoot@@/2015/3/4/byword-multimarkdown-composer-and-more
+[camel]: @@SiteRoot@@/2015/6/1/introducing-theoveranalyzed-30

@@ -8,5 +8,5 @@ I've written about the <s>Honda</s> Acura NSX [before][theoveranalyzed]. It's no
 
 [motortrend]: http://www.motortrend.com/roadtests/coupes/1502_2015_chevrolet_corvette_z06_first_test/#__federated=1
 [roadandtrack]: http://www.roadandtrack.com/new-cars/first-drives/reviews/a8837/first-drive-1990-acura-nsx/
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/2/13/the-honda-nsx
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/2015/3/6/honda-nsx-at-geneva-2015
+[theoveranalyzed]: @@SiteRoot@@/2015/2/13/the-honda-nsx
+[theoveranalyzed 2]: @@SiteRoot@@/2015/3/6/honda-nsx-at-geneva-2015

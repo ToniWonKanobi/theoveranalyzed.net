@@ -34,5 +34,5 @@ When I finished school[^yes] and started working, I toned down all of my movie p
 [ig]: https://itunes.apple.com/us/movie/the-iron-giant/id284447916?at=1l3vx9s
 [is]: https://en.wikipedia.org/wiki/Inside_Out_(2015_film)
 [sf]: http://www.slashfilm.com/iron-giant-rerelease
-[sw]: http://www.theoveranalyzed.net/2015/5/14/this-is-the-best-version-of-star-wars-and-watching-it-is-a-crime
+[sw]: @@SiteRoot@@/2015/5/14/this-is-the-best-version-of-star-wars-and-watching-it-is-a-crime
 [ts2]: https://en.wikipedia.org/wiki/Toy_Story_2

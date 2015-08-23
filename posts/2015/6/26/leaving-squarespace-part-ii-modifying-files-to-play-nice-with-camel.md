@@ -4,7 +4,10 @@
 @@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0  
 @@ Image=http://d.pr/i/1em7V+  
 
-<div class="topstory">This is Part II of the series entitled <a href="http://www.theoveranalyzed.net/tags/Leaving%20Squarespace">Leaving Squarespace</a>, in which I outline how I left the CMS giant and dived deep into <a href="http://www.twitter.com/caseyliss">Casey Liss</a>'s static blogging engine, <a href="https://github.com/cliss/camel">Camel</a>. 
+<div class="topstory">
+
+This is Part II of the series entitled [Leaving Squarespace][ls], in which I outline how I left the CMS giant and dived deep into [Casey Liss][cl]'s static blogging engine, [Camel][cam].
+
 </div>
 
 <h2>Contents</h2>
@@ -160,7 +163,7 @@ Neither inline footnotes nor multi-paragraph footnotes are supported by Byword. 
 
 During the two solid weeks I spent transitioning to Camel, most of my time dealt with tweaking how the site looked (the topic of a future post in this series). Second only to that was re-formatting my old posts. Most days, I would get home around 5-6 PM, and after eating dinner, I was glued to my MacBook, re-writing the image syntax and making other small. It was arduous, but so worth it in the end. Stay tuned for the next post in the series.
 
-[^fi]: In a future post, I'll talk about some of the `classes` I made. For images, there's a `wide` class for larger images; `figleft` for left-justified floating images; 'figright` for right-justified floating images; and more. 
+[^fi]: In a future post, I'll talk about some of the `classes` I made. For images, there's a `wide` class for larger images; `figleft` for left-justified floating images; 'figright` for right-justified floating images; and more.
 [^ik]: I know there's [Text Expander][smilesoftware], and I don't doubt that an app like [BBEdit][barebones] or [Visual Studio Code][visualstudio] probably has some sort of 'snippets' feature. I might check those out someday. But for now, Byword works for me.
 [^lo]: When writing a new post, I open `template.md` and start typing. Note that I have [locked][macworld] the `template.md` file. So when I attempt to modify `template.md`, Byword automatically prompts me to [Duplicate][apple] it. This prevents accidentally over-writing the template text with actual links and so on. 
 [^ma]: I haven't spent much time looking into this aspect of Casey's default `camel.js` configuration, but it seems to me that `Handlebars.js` needs some sort of [modifier][d 5] to call out "Hey, this next string of text is metadata." I can't imagine a scenario in which Byword's [cleaner] metadata auto-format would work with Handlebars. 
@@ -169,14 +172,17 @@ During the two solid weeks I spent transitioning to Camel, most of my time dealt
 [barebones]: http://www.barebones.com/products/bbedit
 [bywordapp]: http://bywordapp.com/
 [bywordapp 2]: http://bywordapp.com/markdown/guide.html
+[cam]: https://github.com/cliss/camel
 [caseyliss]: http://www.caseyliss.com/2015/3/13/are-you-getting-it.md
 [caseyliss 2]: http://www.caseyliss.com/2015/3/13/are-you-getting-it
+[cl]: http://www.twitter.com/caseyliss
 [d]: http://d.pr/i/Q2Wv+
 [d 3]: http://d.pr/i/1bOn2+
 [d 5]: http://d.pr/i/1gz4O+
 [github]: https://github.com/cliss/camel#files
 [gj]: http://www.engadget.com/2013/06/04/byword-2-0-for-mac-adds-publishing-more/
 [hypercritical]: http://hypercritical.co/
+[ls]: @@SiteRoot@@/tags/Leaving%20Squarespace
 [lt]: imagelink
 [macworld]: http://hints.macworld.com/article.php?story=20010328105037397
 [mdi]: https://www.npmjs.com/package/markdown-it
@@ -185,8 +191,8 @@ During the two solid weeks I spent transitioning to Camel, most of my time dealt
 [multimarkdown]: http://multimarkdown.com/
 [npm]: http://npmjs.com
 [smilesoftware]: http://smilesoftware.com/TextExpander/index.html
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/2/25/designing-theoveranalyzed-20
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/2015/3/4/byword-multimarkdown-composer-and-more#byword-versus-multimarkdown-composer
-[theoveranalyzed 3]: http://www.theoveranalyzed.net/2015/6/1/introducing-theoveranalyzed-30
+[theoveranalyzed]: @@SiteRoot@@/2015/2/25/designing-theoveranalyzed-20
+[theoveranalyzed 2]: @@SiteRoot@@/2015/3/4/byword-multimarkdown-composer-and-more#byword-versus-multimarkdown-composer
+[theoveranalyzed 3]: @@SiteRoot@@/2015/6/1/introducing-theoveranalyzed-30
 [visualstudio]: https://code.visualstudio.com/
 [wikipedia]: https://en.wikipedia.org/wiki/Modus_operandi

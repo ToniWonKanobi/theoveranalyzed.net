@@ -9,7 +9,11 @@ Nathan Ingraham writing for The Verge:
 
 Here is a screenshot of the placeholder emojis Ingraham refers to:
 
-![Emjoi][d]
+<figure class="iphone">
+	<a class="nohover" href="http://d.pr/i/1fbKg+">
+		<img src="http://d.pr/i/1fbKg+" alt="Emoji" />
+	</a>
+</figure>
 
 He continues:
 >Apple has also expanded the categories that emoji are grouped into, a much-needed change — the huge variety of emoji currently found under the "bell" category is simply ridiculous at this point, for example. Users will also be able to scroll through a complete list of all installed emoji rather than paging through lists, though the option to skip around the various categories will still exist.
@@ -19,5 +23,4 @@ Finally™[^f]
 [^f]: Truthfully, though, I am a big fan of [David Smith's][david-smith] 3rd party keyboard [Emoji++][apple] and have been using that as my main emoji keyboard for a while.
 
 [apple]: https://itunes.apple.com/us/app/emoji++-fast-emoji-keyboard/id919234935?at=1l3vx9s
-[d]: http://d.pr/i/1fbKg+
 [david-smith]: http://david-smith.org/blog/2014/10/02/introducing-emoji-plus-plus/

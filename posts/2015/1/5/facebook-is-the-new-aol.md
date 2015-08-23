@@ -6,7 +6,7 @@
 Nilay Patel, for [The Verge][theverge]:
 >Just think about it for a minute. Of course Facebook is the new AOL.
 
-Let us be honest, the title of Nilay Patel's latest op-ed for The Verge has a pretty catchy headline. And while it is, indeed, both fun and trendy to paint [Facebook as the social network of our mothers][mom], the point is well made: from the nerdy corner of the internet where sites like The Verge and Gizmodo thrive, Facebook truly does seem to be losing its prowess amongst tweens and 20-somethings. 
+Honestly, the title of Nilay Patel's latest op-ed for The Verge *does* have a pretty catchy headline. And while it is, indeed, both fun and trendy to paint [Facebook as the social network of our mothers][mom], the point is well made: from the nerdy corner of the internet where sites like The Verge and Gizmodo thrive, Facebook truly does seem to be losing its prowess amongst tweens and 20-somethings. 
 
 It wasn't always that way. In 2006, I was a sophomore in [college][puc] when my [friend][twitter] recommended I [drop Myspace like it was hot][wikipedia] in lieu of Facebook. What? Eschew the beautify-my-homepage-for-dummies [HTML editors][pimp-my-profile] for Facebook's bland setup? Yeah right.
 
@@ -22,7 +22,7 @@ Of course it has. It happens all the time.
 
 Rewinding the tape a few more years brings us to the year 2000. I was in the 7th grade. And despite all the [Y2K][wikipedia 2] hubbub, my grandparents thought it best to fashion our household with a personal computer, so we children could learned ourselves. Typing was very important, they felt. My grandmother worked for a large firm in Silicon Valley contracted with government entities to build electronic components destined for F-16s, among other things. Pretty gangster if you ask me. Living and working in San Jose brought with it a certain pizzazz for The Valley. And as such, her exposure to the personal computer was mostly rooted in the romantic concept of [entrepreneurial nerds making revolutionary products][wikipedia 3]. That is, when she wasn't being personally terrified of the personal computer. The last thing she wanted was for her grandchildren to be as aloof, if not paralyzed, by the prospect of working with computers as she was. So she got us a computer: The [Compaq Presario 5280][ebay]. Thing had an [Iomega Zip drive][wikipedia 4] and everything. And just like everyone else, we never used it. Still: so tight.  
 
-My parents were about as scared as my grandparents were of computers, and my younger siblings weren't old enough to use the computer anyways. So it was pretty much all me. When I wasn't playing N64, I was using the computer. There wasn't even [Windows XP][wikipedia 5] in 2000. It was all about [Windows 98][wikipedia 6]. As a tinkerer, I naturally liked navigating the Explorer, and perusing the intricacies of the Control Panel to figure out what were the best ways to complete xyz tasks. Sure, we had [Encarta][wikipedia 7], but nothing was cooler than fiddling. I became a master of `[msconfig][theoveranalyzed]`. My parents warned me to be careful. "You might break it," I can hear them saying. '[Silly rabbit][youtube],' I thought. (Someday I'll talk about the [greatest sitcom of the 90][wikipedia 8]'s.)
+My parents were about as scared as my grandparents were of computers, and my younger siblings weren't old enough to use the computer anyways. So it was pretty much all me. When I wasn't playing N64, I was using the computer. There wasn't even [Windows XP][wikipedia 5] in 2000. It was all about [Windows 98][wikipedia 6]. As a tinkerer, I naturally liked navigating the Explorer, and perusing the intricacies of the Control Panel to figure out what were the best ways to complete xyz tasks. Sure, we had [Encarta][wikipedia 7], but nothing was cooler than fiddling. I became a master of [`MSConfig`][msc]. My parents warned me to be careful. "You might break it," I can hear them saying. '[Silly rabbit][youtube],' I thought. (Someday I'll talk about the [greatest sitcom of the 90][wikipedia 8]'s.)
 
 But they were right. I did break it. In fact I broke a lot of things. Nothing hardware-related mind, you. Trust me: the software 'things' I broke were just as devastating. Somehow, I accidentally configured the system to be muted. And it wasn't something stupid like activating, from the task bar, system mute. No, it was much deeper than that. I don't even remember exactly what it was that I did, but I did something. Perhaps I had disabled the sound card from within the 'Control Panel --> Devices' section (or whatever that section was called.) 
 
@@ -48,13 +48,14 @@ Maybe in ten years I will be formulating a similar post, one in which I detail t
 [ebay]: http://www.ebay.com/itm/COMPAQ-PRESARIO-5280-DESKTOP-good-condition-80-00-/281529628304?pt=US_Computer_Cases&amp;hash=item418c793690
 [facebook]: https://www.facebook.com/philcollins
 [microsoft]: http://support.microsoft.com/kb/314481
+[msc]: https://en.wikipedia.org/wiki/MSConfig
 [mom]: http://mom.me/teen/8179-moms-have-taken-over-facebook/
 [pimp-my-profile]: http://www.pimp-my-profile.com/generators/myspace.php
 [puc]: http://puc.edu/
 [scpr]: http://www.scpr.org/news/2013/07/05/38068/hawthorne-police-concerned-about-cyber-threats-aft/
 [socialbuzzpros]: http://www.socialbuzzpros.com/2014/11/04/is-facebook-still-important/
 [theguardian]: http://www.theguardian.com/technology/2013/nov/20/marketing-to-kids-on-social-media-facebook-and-twitter-are-not-enough
-[theoveranalyzed]: http://www.theoveranalyzed.net/archive/facebook-is-the-new-aol#
+[theoveranalyzed]: @@SiteRoot@@/2015/1/5/facebook-is-the-new-aol
 [theverge]: http://www.theverge.com/2015/1/4/7488495/facebook-is-the-new-aol
 [theverge 2]: http://www.theverge.com/2015/1/1/7478987/box-office-attendance-hits-lowest-level-in-19-years
 [theverge 3]: http://www.theverge.com/2014/12/19/7420823/mpaa-decries-googles-shameful-attack-on-its-anti-piracy-program

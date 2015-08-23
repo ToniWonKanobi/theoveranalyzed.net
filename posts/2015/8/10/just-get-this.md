@@ -63,7 +63,7 @@ The point of all this banter isn't to discourage future spontaneous and unsolici
 [hypercritical]: http://hypercritical.co
 [marco]: http://marco.org
 [target]: http://www.target.com/p/starbucks-house-blend-coffee-k-cup-16-ct/-/A-14013860
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/2/26/heres-what-youd-get-if-michael-bay-made-a-gritty-power-rangers-movie
+[theoveranalyzed]: @@SiteRoot@@/2015/2/26/heres-what-youd-get-if-michael-bay-made-a-gritty-power-rangers-movie
 [twitter]: http://twitter.com/venusuautumn
 [urbandictionary]: http://www.urbandictionary.com/define.php?term=to+a+T&defid=2892905
 [wikipedia]: https://en.wikipedia.org/wiki/Fender_Precision_Bass

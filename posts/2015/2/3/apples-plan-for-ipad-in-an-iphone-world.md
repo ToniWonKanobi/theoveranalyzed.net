@@ -57,7 +57,7 @@ So I'm okay not having an iPad right now. I take my 11" MacBook Air to work, and
 [macworld]: http://hints.macworld.com/article.php?story=20050614171126634
 [mashable]: http://mashable.com/2013/06/19/macbook-air-2013-review/
 [relay]: http://www.relay.fm/connected/24
-[theoveranalyzed]: http://www.theoveranalyzed.net/2014/12/22/the-paradox-of-choice-choosing-an-ipad
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/posts/2014/10/why-i-couldnt-handle-the-iphone-6-plus-
+[theoveranalyzed]: @@SiteRoot@@/2014/12/22/the-paradox-of-choice-choosing-an-ipad
+[theoveranalyzed 2]: @@SiteRoot@@/posts/2014/10/why-i-couldnt-handle-the-iphone-6-plus-
 [wikipedia]: https://en.wikipedia.org/wiki/Magic_Trackpad
 [youtube]: https://www.youtube.com/watch?v=BCqJGoCMlVc

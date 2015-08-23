@@ -3,7 +3,10 @@
 @@ Description=I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
 @@ Tags=Squarespace, Sketch, TheOverAnalyzed, Pixelmator, design, web design, HTML, CSS, JavaScript  
 
-<div class="topstory">When I launched TheOverAnalyzed last year, I knew nothing about HTML, CSS, JavaScript, or web design in general. Now, a year later, I still know nothing relatively nothing about the aforementioned topics. But, I know a whole lot more than I did.
+<div class="topstory">
+
+When I launched TheOverAnalyzed last year, I knew nothing about HTML, CSS, JavaScript, or web design in general. Now, a year later, I still know nothing relatively nothing about the aforementioned topics. But, I know a whole lot more than I did.
+
 </div>
 
 <h2>Contents</h2>
@@ -374,10 +377,10 @@ Until then, maybe I can get back to writing.
 [hypercritical]: http://hypercritical.co
 [lp]: http://www.loopinsight.com
 [ma]: http://www.marco.org
-[more]: http://www.theoveranalyzed.net/2015/1/31/bigfoot-footnotes-in-squarespace
+[more]: @@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace
 [pixelmator]: http://www.pixelmator.com/
 [pixelmator 2]: http://www.pixelmator.com/blog/2013/05/14/introducing-vectormator/
-[pli]: http://www.theoveranalyzed.net/2015/2/1/permalinks-in-squarespace
+[pli]: @@SiteRoot@@/2015/2/1/permalinks-in-squarespace
 [sc]: http://www.sixcolors.com
 [squarespace]: http://native-demo.squarespace.com/
 [squarespace 2]: http://avenue-demo.squarespace.com

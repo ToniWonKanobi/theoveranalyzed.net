@@ -12,15 +12,15 @@ In addition to the loads of Tweet-learning passed to me from both [Casey Liss][t
 
 The tentative outline:
 
-### [Part I: Getting Started With Camel](http://www.theoveranalyzed.net/2015/6/17/leaving-squarespace-part-I-getting-started-with-camel)
+### [Part I: Getting Started With Camel][theoveranalyzed]
 
 In order to start fiddling with Camel, I had to learn some command line tools.
 
-### [Part II: Modifying Files To Play Nice With Camel](http://www.theoveranalyzed.net/2015/6/26/leaving-squarespace-part-ii-modifying-files-to-play-nice-with-camel)
+### [Part II: Modifying Files To Play Nice With Camel][theoveranalyzed 2]
 
 Making all my old Markdown files play nice with Camel was easy, but extremely time-consuming.
 
-### [Part III: Making Camel My Own](http://www.theoveranalyzed.net/2015/7/6/leaving-squarespace-part-iii-making-camel-my-own)
+### [Part III: Making Camel My Own][theoveranalyzed 3]
 
 Camel came with several nifty Markdown plugins, but I wanted more. 
 
@@ -32,6 +32,9 @@ In the meantime, please explore the new site! I'm pretty proud of it. And as alw
 [^ph]: I could get pretty meta about the how and why of some of the things I have implemented on the site. 
 
 [github]: https://github.com/cliss/camel
-[tag]: http://www.theoveranalyzed.net/tags/Leaving%20Squarespace
+[tag]: @@SiteRoot@@/tags/Leaving%20Squarespace
+[theoveranalyzed]: @@SiteRoot@@/2015/6/17/leaving-squarespace-part-I-getting-started-with-camel
+[theoveranalyzed 2]: @@SiteRoot@@/2015/6/26/leaving-squarespace-part-ii-modifying-files-to-play-nice-with-camel
+[theoveranalyzed 3]: @@SiteRoot@@/2015/7/6/leaving-squarespace-part-iii-making-camel-my-own
 [twitter]: https://twitter.com/caseyliss/status/603267259855982592
 [twitter 2]: https://twitter.com/freekrai/status/600328265576763392

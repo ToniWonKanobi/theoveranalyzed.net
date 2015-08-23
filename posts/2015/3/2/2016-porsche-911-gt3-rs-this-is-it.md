@@ -16,7 +16,7 @@ More from Orlove:
 
 And in case your mental currency conversion skills are about as good as mine:[^ba]
 
-<figure>
+<figure class="iphone">
 	<img src="http://d.pr/i/17PCq+" alt="calcbot" width="63%" />
 	<figcaption>Calcbot Conversion</figcaption>
 </figure>

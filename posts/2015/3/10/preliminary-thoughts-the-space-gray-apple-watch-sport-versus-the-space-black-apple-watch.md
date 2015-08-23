@@ -109,6 +109,6 @@ I found this little nugget of knowledge regarding the Apple Watch link bracelet:
 [mcelhearn]: http://www.mcelhearn.com/try-out-apple-watch-sizes-on-your-wrist/
 [relay]: http://www.relay.fm/upgrade/26
 [thenextweb]: http://thenextweb.com/apple/2014/09/09/apple-unveils-iphone-6/
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/3/9/apple-watch-sizing-38-mm-or-42-mm
+[theoveranalyzed]: @@SiteRoot@@/2015/3/9/apple-watch-sizing-38-mm-or-42-mm
 [twitter]: https://twitter.com/viticci/status/575014129095864320
 [urbandictionary]: http://nl.urbandictionary.com/define.php?term=BA&amp;defid=1081389

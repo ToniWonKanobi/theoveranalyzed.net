@@ -35,6 +35,6 @@ Thankfully, the ‘new fast car’ novelty eventually wears off, and then the ne
 [daringfireball]: http://daringfireball.net/2015/03/apple_watch_prelude#fn1-2015-03-07
 [manton]: http://www.manton.org/2015/03/footnotes.html
 [marco]: http://www.marco.org/2014/12/05/how-overcast-asks-for-reviews#fnref:pxx04GsSg1
-[theoveranalyzed]: http://www.theoveranalyzed.net/archive?category=posts#fnref:14506
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/2015/1/31/bigfoot-footnotes-in-squarespace
+[theoveranalyzed]: @@SiteRoot@@/archive?category=posts#fnref:14506
+[theoveranalyzed 2]: @@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace
 [urbanup]: http://white-whale.urbanup.com/5468452

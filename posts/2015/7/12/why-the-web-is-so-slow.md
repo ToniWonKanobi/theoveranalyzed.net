@@ -5,9 +5,9 @@
 @@ Image=http://d.pr/i/1iLFm+  
 @@ Video=http://d.pr/v/9TLn+  
 
-<div class="topstory">Unknowingly, this was the first in a <a href="http://www.theoveranalyzed.net/tags/Ditching%20Webfonts">mini-series</a> of posts regarding webfonts. You should check out the <a href="http://www.theoveranalyzed.net/2015/7/15/ditching-webfonts">second</a> and <a href="http://www.theoveranalyzed.net/2015/7/19/ditching-webfonts-part-ii-hoefler-webfonts-are-prettier-but-slower">third</a> posts after reading this one.</div>
+<div class="topstory">Unknowingly, this was the first in a [mini-series][ms] of posts regarding webfonts. You should check out the [second][sec] and [third][thi]posts after reading this one.</div>
 
-## Storytime
+## Forward
 
 This past week, several prominent Apple bloggers took to their sites (and Twitter) to confront the reality that most websites suck at loading quickly.
 
@@ -124,9 +124,12 @@ If the adoption of iOS 9 even remotely follows the adoption of all the previous 
 [imore 2]: http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it
 [loopinsight]: http://www.loopinsight.com/
 [murphyapps]: http://murphyapps.co/blog/2015/6/24/an-hour-with-safari-content-blocker-in-ios-9
+[ms]: @@SiteRoot@@/tags/Ditching%20Webfonts
 [pxlnv]: http://pxlnv.com/linklog/safari-content-blockers-shit-ass-websites/
+[sec]: @@SiteRoot@@/2015/7/15/ditching-webfonts
 [sixcolors]: http://www.sixcolors.com
-[theoveranalyzed]: http://www.theoveranalyzed.net
+[theoveranalyzed]: @@SiteRoot@@
+[thi]: @@SiteRoot@@/2015/7/19/ditching-webfonts-part-ii-hoefler-webfonts-are-prettier-but-slower
 [twitter]: https://twitter.com/Coudal
 [wikipedia]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Difficulty_with_adoption
 [wikipedia 2]: https://en.wikipedia.org/wiki/World_Wide_Web_Consortium

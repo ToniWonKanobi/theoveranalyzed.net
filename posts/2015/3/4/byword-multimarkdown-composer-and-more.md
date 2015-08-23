@@ -3,7 +3,10 @@
 @@ Description=Here's my workflow for blogging in Squarespace.  
 @@ Tags=Squarespace, blogging, apps, TheOverAnalyzed, MultiMarkdown, Markdown, Byword  
 
-<div class="topstory">Since writing this post originally, I moved to a custom blogging engine, one that is based on the actual Markdown files <code>.md</code>. And because of that, many MultiMarkdown features provided by MultiMarkdown Composer are no longer necessary, as <code>node.js</code> has plenty of `markdown-it` plugins that take the universal 'standard' Markdown documents and parse nifty stuff anyways. So I have actually reverted back to using Byword as my plain-text editor of choice. When I re-formatted this document to work with my new blogging engine, I kept the content the same, for both posterity's sake, and to help anyone out there who uses Squarespace.
+<div class="topstory">
+
+Since writing this post originally, I moved to a custom blogging engine, one that is based on the actual Markdown files `.md`. And because of that, many MultiMarkdown features provided by MultiMarkdown Composer are no longer necessary, as `node.js` has plenty of `markdown-it` plugins that take the universal 'standard' Markdown documents and parse nifty stuff anyways. So I have actually reverted back to using Byword as my plain-text editor of choice. When I re-formatted this document to work with my new blogging engine, I kept the content the same, for both posterity's sake, and to help anyone out there who uses Squarespace.
+
 </div>
 
 <h2>Contents</h2>
@@ -201,6 +204,6 @@ And you know what? That's [okay][d].
 [metaclassy]: http://metaclassy.com
 [multimarkdown]: http://multimarkdown.com/
 [reference]: http://dictionary.reference.com/browse/aha+moment
-[theoveranalyzed]: http://www.theoveranalyzed.net/archive/2015/1/bigfoot-footntes-squarespace
+[theoveranalyzed]: @@SiteRoot@@/archive/2015/1/bigfoot-footntes-squarespace
 [urbandictionary]: http://www.urbandictionary.com/define.php?term=chyeah&amp;defid=2623427
 [urbandictionary 2]: http://www.urbandictionary.com/define.php?term=Boom&amp;defid=3837129

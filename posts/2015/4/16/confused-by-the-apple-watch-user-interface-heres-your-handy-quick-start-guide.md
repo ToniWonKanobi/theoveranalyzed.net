@@ -15,4 +15,4 @@ I assume most people's Apple Watch experience included some amount of playing wi
 The picture above is a nice primer for June.
 
 [imgur]: http://i.imgur.com/FnNZzUG.jpg
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/4/10/my-apple-watch-try-on-session-and-that-keyboard
+[theoveranalyzed]: @@SiteRoot@@/2015/4/10/my-apple-watch-try-on-session-and-that-keyboard

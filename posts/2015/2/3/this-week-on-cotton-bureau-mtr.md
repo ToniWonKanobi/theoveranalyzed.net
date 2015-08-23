@@ -5,7 +5,11 @@
 @@ Tags=Cotton Bureau, t-shirts, apparel, This Week on Cotton Bureau  
 @@ Image=https://cottonbureau.com/img/products/3422_8cnL_1600.jpg  
 
-<div class="topstory">Starting this week, I will be occasionally featuring <a href="http://www.theoveranalyzed.net/tags/This%20Week%20on%20Cotton%20Bureau">neat designs</a> from my favorite T-shirt company, <a href="http://www.cottonbureau.com/">Cotton Bureau</a>.</div>
+<div class="topstory">
+
+Starting this week, I will be occasionally featuring [neat designs][nd] from my favorite T-shirt company, [Cotton Bureau][cb].
+
+</div>
 
 <figure class="wide">
 	<a class="nohover" href="https://cottonbureau.com/products/mtr">
@@ -23,3 +27,6 @@ Be sure to use my coupon code CBANTHONYC10 at checkout for 10% off.
 The trial promotion has now ended, in case you were wondering why my coupon code no longer works.
 
 </div>
+
+[cb]: http://cottonbureau.com
+[nd]: @@SiteRoot@@/tags/This%20Week%20on%20Cotton%20Bureau

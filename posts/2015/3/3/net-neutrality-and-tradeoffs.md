@@ -40,6 +40,6 @@ Here's Nilay Patel and Chris Plant discussing Net Neutrality's big development l
 
 [exponent]: http://exponent.fm/exponent-036-tradeoffs/
 [stratechery]: http://stratechery.com/2014/netflix-net-neutrality/
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/2/3/my-take-on-net-neutrality
+[theoveranalyzed]: @@SiteRoot@@/2015/2/3/my-take-on-net-neutrality
 [twitter]: https://twitter.com/ToniWonKanobi/status/572772049535426560
 [wikipedia]: http://en.wikipedia.org/wiki/Net_neutrality_in_the_United_States#FCC_Open_Internet_Order_.282010.29

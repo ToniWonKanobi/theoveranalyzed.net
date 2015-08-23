@@ -9,4 +9,4 @@ Not [Legos][theoveranalyzed], but certainly just as awesome.
 [From [Devour][devour]]
 
 [devour]: http://devour.com/video/16-bit-star-wars-the-force-awakens-trailer/
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/4/18/lego-star-wars-the-force-awakens-trailer-2
+[theoveranalyzed]: @@SiteRoot@@/2015/4/18/lego-star-wars-the-force-awakens-trailer-2

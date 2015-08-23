@@ -9,4 +9,4 @@ If my blog were VC funded, *this* would be my tagline:
 
 Combine this with [this][theoveranalyzed], and you've got a synergistic game-changing paradigm of revolution.
 
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/2/27/sans-bullshit-sans
+[theoveranalyzed]: @@SiteRoot@@/2015/2/27/sans-bullshit-sans

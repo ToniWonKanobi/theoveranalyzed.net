@@ -84,10 +84,10 @@ Today I packed up the Apple Watch Sport and prepared it for sale on eBay. Am I m
 [marco]: http://www.marco.org/2015/05/24/filling-the-green-circle
 [nine]: http://d.pr/i/1fOn4+
 [overcast]: https://overcast.fm/+BtuxdpSV4/2:12:45
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/5/1/my-first-week-without-an-apple-watch
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/2015/6/8/48-hours-with-the-apple-watch
-[theoveranalyzed 3]: http://www.theoveranalyzed.net/2015/3/10/apple-watch-sport-or-apple-watch-collection
-[theoveranalyzed 4]: http://www.theoveranalyzed.net/2015/4/10/my-apple-watch-try-on-session-and-that-keyboard#visiting-the-store
+[theoveranalyzed]: @@SiteRoot@@/2015/5/1/my-first-week-without-an-apple-watch
+[theoveranalyzed 2]: @@SiteRoot@@/2015/6/8/48-hours-with-the-apple-watch
+[theoveranalyzed 3]: @@SiteRoot@@/2015/3/10/apple-watch-sport-or-apple-watch-collection
+[theoveranalyzed 4]: @@SiteRoot@@/2015/4/10/my-apple-watch-try-on-session-and-that-keyboard#visiting-the-store
 [thesmallwave]: http://thesmallwave.com/2008/02/26/apple-reduces-the-macbook-black-tax/
 [twitter]: https://twitter.com/gak_pdx
 [wikipedia]: https://en.wikipedia.org/wiki/Porsche_911

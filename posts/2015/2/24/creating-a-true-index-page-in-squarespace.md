@@ -3,7 +3,10 @@
 @@ Description=Here's how I hacked Squarespace to have a true Index page    
 @@ Tags=Squarespace, blogging, TheOverAnalyzed  
 
-<div class="topstory>I thought I should do a quick post outlining how I crafted my Index page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content. True, <code>/archive</code> contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an <code>/index</code> page and <code>Command + F</code> to query a string of words that might fit the title.
+<div class="topstory">
+
+I thought I should do a quick post outlining how I crafted my Index page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content. True, `/archive` contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an `/index` page and `Command + F` to query a string of words that might fit the title.
+
 </div>
 
 <h2>Contents</h2>
@@ -153,5 +156,5 @@ $('#allarchive').append('<p>');
 [squarespace]: http://help.squarespace.com/guides/using-the-index-page
 [squarespace 2]: http://answers.squarespace.com/questions/30592/summary-block
 [squarespace 3]: http://help.squarespace.com/guides/linking-a-post-title-to-external-content
-[theoveranalyzed 3]: http://www.theoveranalyzed.net/archive?tag=linked
+[theoveranalyzed 3]: @@SiteRoot@@/archive?tag=linked
 [wikipedia]: https://en.wikipedia.org/wiki/CamelCase

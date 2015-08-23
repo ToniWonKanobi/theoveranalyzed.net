@@ -27,4 +27,4 @@ And here are two other nifty picks for this week:
 	<figcaption><a href="https://cottonbureau.com/products/realmac">Realmac</a> by Dan Counsell. This is version 2. I got version 1 last year.</figcaption>
 </figure>
 
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/2/3/new-from-cotton-bureau
+[theoveranalyzed]: @@SiteRoot@@/2015/2/3/new-from-cotton-bureau

@@ -67,10 +67,10 @@ What will it take for old-school design to return to the level of importance it 
 [overcast]: http://overcast.fm
 [overcast 2]: https://overcast.fm/+BtuxswjuQ
 [overcast 3]: https://overcast.fm/+BtuxpJ6IA
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/4/8/fall-of-the-designer-part-i-fashionable-nonsense
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/2015/2/5/designing-theoveranalyzed#thelogo
-[theoveranalyzed 3]: http://www.theoveranalyzed.net/2015/2/6/one-year-later
-[theoveranalyzed 4]: http://www.theoveranalyzed.net/tags/hacking-squarespace
+[theoveranalyzed]: @@SiteRoot@@/2015/4/8/fall-of-the-designer-part-i-fashionable-nonsense
+[theoveranalyzed 2]: @@SiteRoot@@/2015/2/5/designing-theoveranalyzed#thelogo
+[theoveranalyzed 3]: @@SiteRoot@@/2015/2/6/one-year-later
+[theoveranalyzed 4]: @@SiteRoot@@/tags/hacking-squarespace
 [twitter]: https://twitter.com/smokeythedingo
 [twitter 2]: https://twitter.com/marcoarment/status/574591922372808704
 [vimeo]: https://vimeo.com/124349705

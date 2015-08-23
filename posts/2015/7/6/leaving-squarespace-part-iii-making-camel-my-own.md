@@ -4,7 +4,10 @@
 @@ Tags=Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, HTML, CSS, JavaScript, jQuery  
 @@ Image=http://d.pr/i/1d63D+  
 
-<div class="topstory">When I started trying to figure out Camel, all I knew was that it was going to be both more open and easier to tweak than Squarespace. Little did I know that I would discover several additional 'extras' that would make <em>my</em> version of Camel the perfect blogging platform for me. As always, check Roger Stringer's thorough post <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/">here</a> for more in-depth information, such as how to install <code>npm</code> and <code>node</code>
+<div class="topstory">
+
+When I started trying to figure out Camel, all I knew was that it was going to be both more open and easier to tweak than Squarespace. Little did I know that I would discover several additional 'extras' that would make *my* version of Camel the perfect blogging platform for me. As always, check Roger Stringer's thorough post [here][sp] for more in-depth information, such as how to install `npm` and `node`.
+
 </div>
 
 <h2>Contents</h2>
@@ -212,3 +215,5 @@ Since writing this post, I have since disabled `markdown-it-highlightjs`. It was
 
 [^la]: I'll talk more my CSS philosophy/changes in a future post. 
 [^sa]: Appending `--save` marks the package as a dependency in Camel's `package.json`, which is important if you actually want the plugin to work.
+
+[sp]: http://www.sitepoint.com/deploying-camel-js-blog-heroku/

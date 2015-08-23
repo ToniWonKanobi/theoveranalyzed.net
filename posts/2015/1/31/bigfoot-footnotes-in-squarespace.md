@@ -3,7 +3,10 @@
 @@ Description=A big milestone in my blogging development: footnotes are live on TheOverAnalyzed!  
 @@ Tags=blogging, Squarespace, TheOverAnalyzed, Bigfoot.js, footnotes  
 
-<div class="topstory">Exactly 20 days ago, I <a href="https://twitter.com/TheOverAnalyzed/status/553716002999898112">publicly committed myself</a> to integrating <a href="http://www.bigfootjs.com">fancy</a> footnotes into my blog (as seen on <a href="http://marco.org/">Marco.org</a> and <a href="http://www.sixcolors.com/">Six Colors</a>). And guess what? I've done it!
+<div class="topstory">
+
+Exactly 20 days ago, [I publicly committed myself][twitter] to integrating [fancy footnotes][bigfootjs] into my blog (as seen on [Marco.org][marco] and [Six Colors][sixcolors]). And guess what? I've done it!
+
 </div>
 
 <h2>Contents</h2>
@@ -45,10 +48,10 @@ Here is how to get there:
 3. After that, `Code Injection`
 4. In the `Header` field, on a new line immediately following the `script type="text/javascript"` line, copy and paste the following:
 
-	```js
+	```
 	$.bigfoot(
 		{
- 			numberResetSelector: “article”
+			numberResetSelector: “article”
 		}
 	);
     ```
@@ -57,33 +60,34 @@ What you are essentially doing here is telling the `bigfoot.js` script to reset 
 
 So, for completeness, this is what my `Header` in the `Code Injection` field looks like:
 
-```js
+```
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="/s/bigfoot.js"></script>
 <link rel="stylesheet" type="text/css" href="/s/bigfoot-number.css">
 <script type="text/javascript">
-  $.bigfoot(
-        {
-            numberResetSelector: "article"
-        }
-    );
+	$.bigfoot(
+		{
+			numberResetSelector: "article"
+		}
+	);
 </script>
 ```
 
-[^sc]: Oh, authors can write, but put in all those 'asides,' without consciously distracting from the whole of the text? Nice.
-[^bo]: No doubt they are. 
+[^ar]: This is only pertinent on an 'Archive' or 'All Posts' type of page, where every post is included on one page. If several posts contain footnotes, the default behavior of bigfoot.js is to just increase the footnote number as the page progresses.
 [^asl]: There is such a [metric][wordpress].
+[^bfs]: Money.
+[^bo]: No doubt they are. 
 [^csa]: No active Twitter for him, unfortunately.
 [^ld]: Defunct as well. His email *is* on [Git][github], however.
+[^old]: This is an old slug from when I was still using Squarespace.
+[^pu]: I have been wanting to do this for longer than just 20 days ago, so this is like months of pent up 'wanting to footnote' feelings.
+[^sc]: Oh, authors can write, but put in all those 'asides,' without consciously distracting from the whole of the text? Nice.
+[^te]: [Squarespace][ss] is a wonderful CMS, and makes things really easy for novice bloggers. But Squarespace also makes things incredibly difficult for bloggers who want to step outside of the 'normal' and typical way of doing things (e.g., footnotes). 
 [^tp]: I suppose I can't blame them. Me asking quite rudimentary questions about jQuery implementation in what is, to them, a random blog engine (Squarespace) is probably just as confounded as someone asking me which fingers they should use to fret a power cord. 
 
-	Still, it felt terrible to not have closure on this issue. 
-[^ar]: This is only pertinent on an 'Archive' or 'All Posts' type of page, where every post is included on one page. If several posts contain footnotes, the default behavior of bigfoot.js is to just increase the footnote number as the page progresses. 
-[^bfs]: Money.
-[^te]: [Squarespace][ss] is a wonderful CMS, and makes things really easy for novice bloggers. But Squarespace also makes things incredibly difficult for bloggers who want to step outside of the 'normal' and typical way of doing things (e.g., footnotes). 
-[^pu]: I have been wanting to do this for longer than just 20 days ago, so this is like months of pent up 'wanting to footnote' feelings.
-[^old]: This is an old slug from when I was still using Squarespace.
-
+	Still, it felt terrible to not have closure on this issue.
+	
+[bigfootjs]: http://www.bigfootjs.com
 [crateofpenguins]: http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites
 [daringfireball]: http://www.daringfireball.net
 [duckduckgo]: https://duckduckgo.com/?q=bigfootjs&t=osx
@@ -97,6 +101,7 @@ So, for completeness, this is what my `Header` in the `Code Injection` field loo
 [sixcolors]: http://www.sixcolors.com
 [ss]: http://www.sqarespace.com
 [thepunctuationguide]: http://www.thepunctuationguide.com/em-dash.html
+[twitter]: https://twitter.com/TheOverAnalyzed/status/553716002999898112
 [twitter 2]: https://twitter.com/jsnell/status/560581646248722433
 [urbandictionary]: http://www.urbandictionary.com/define.php?term=Fancy+Schmancy
 [wordpress]: https://strainindex.wordpress.com/2008/07/28/the-average-sentence-length/

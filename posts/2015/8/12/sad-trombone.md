@@ -8,11 +8,14 @@
 Jared Newman, for Macworld:
 >CurrentC, the mobile payments solution backed by big retailers such as Target, Walmart, and Best Buy, might not launch this year after all, and some member stores are now throwing their support behind Apple Pay.
 
-Revisiting [the story](http://www.theoveranalyzed.net/2015/1/27/tim-cook-calls-2015-the-year-of-apple-pay-as-service-takes-over-contactless-payments-market) from months ago, here are some of the aspects working against CurrentC's adoption:
+Revisiting [the story][ts] from months ago, here are some of the aspects working against CurrentC's adoption:
 >The very way it works is not as simple as Apple Pay, which lets users pay by tapping a payment terminal while holding a finger over the iPhone’s TouchID button (or double-tapping the side button on an Apple Watch). With CurrentC, users must unlock their phones, open the CurrentC app, enter another four-digit PIN, then scan a barcode.
 
 >Another major sticking point: CurrentC doesn’t support traditional credit cards. Instead, users must pay with a debit card, pre-paid card, or store-specific credit card.
 
 Silly CurrentC. I'm hopeful that this means all those retailers who specifically turned off Apple Pay NFC support will soon turn it back on.
 
-[From [John Moltz](http://verynicewebsite.net/2015/08/currentc-sad-trombone/)]
+[From [John Moltz][verynicewebsite]]
+
+[ts]: @@SiteRoot@@/2015/1/27/tim-cook-calls-2015-the-year-of-apple-pay-as-service-takes-over-contactless-payments-market
+[verynicewebsite]: http://verynicewebsite.net/2015/08/currentc-sad-trombone/

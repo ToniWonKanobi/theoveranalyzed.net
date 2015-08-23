@@ -44,15 +44,12 @@ a {
 	transition: all .2s ease-in
 }
 
-.entry a {
-	-webkit-transition: all .15s ease-in;
-	-moz-transition: all .15s ease-in;
-	transition: all .15s ease-in
-}
-
 a:hover { color: #2e8eef }
 
-.entry a:hover { border-bottom: 1px solid #2e8eef }
+.entry a:hover { 
+	border-bottom: 1px solid #2e8eef;
+	padding-bottom: 1px
+}
 
 a.nohover:hover { 
     background: none;
@@ -167,22 +164,27 @@ figcaption.long {
 }
 
 pre {
+	font-family: "Monaco", monospace; 
+	font-size: 0.8em;
     white-space: pre;
+    padding: 1em;
     overflow: auto;
-    padding: 5px 10px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
     background-color: #eee
 }
 
+pre code {
+    font-size: 0.9em;
+    overflow: auto;
+}
+
 code {
 	font-style: normal;
-    white-space: pre-line;
     font-family: "Monaco", monospace; 
     font-size: 0.7em;
-    padding: 4px;
-    overflow: auto;
+    padding: 0.3em;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
@@ -192,27 +194,7 @@ code {
 /* Fixes the wonkey border-bottom hover on code blocks */
 a code:hover { padding-bottom: 1px }
 
-/* Removes italics on code blocks */
-.topstory code { font-style: normal }
-
-pre code {
-    white-space: pre;
-    border: none;
-    padding: 0;
-    overflow: auto;
-    background-color: #eee;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-    line-height: 1.5
-}
-
 audio { width: 100%; }
-
-/* Fixes funkiness on homepage <pre><code> */
-.homepage pre code {
-	white-space: pre-line
-}
 
 .entry li {
 	padding-left: 0.2em;
@@ -233,33 +215,6 @@ audio { width: 100%; }
 
 table.sortable thead { cursor: default }
 
-div.takehome {
-	color: #3f70a2;
-	float: right;
-	padding: 1em 0.25em 1em 1.5em;
-	font-weight: 600;
-	font-size: 1.2em;
-	line-height: 1.5;
-	font-style: italic;
-	text-transform: uppercase;
-	width: 30%
-}
-
-div.takehome p,
-div.takehomeLeft p { margin: 0 }
-
-div.takehomeLeft {
-	color: #3f70a2;
-	float: left;
-	padding: 1em 1.5em 1em 0.25em;
-	font-weight: 600;
-	font-size: 1.2em;
-	line-height: 1.5;
-	font-style: italic;
-	text-transform: uppercase;
-	width: 30%
-}
-
 hr {
     width: 100%;
     margin-top: 1.7em auto 1.7em auto;
@@ -274,8 +229,8 @@ hr.small {
 }
 
 .homepage .day .daybreak {
-    width: 180%;
-    margin: 6em auto 6em -40%;
+    width: 160%;
+    margin: 6em auto 6em -30%;
     border-radius: 2px;
 	background-color: #ddd;
 	height: 0.2em
@@ -390,6 +345,9 @@ li.postTags {
 
 li.postTags label:hover { 
 	color: #2e8eef;
+	-webkit-transition: all .2s ease-in;
+	-moz-transition: all .2s ease-in;
+	transition: all .2s ease-in
 }
 
 li.postTags label:hover + ul.eachTag {
@@ -433,6 +391,9 @@ a.postTitleLinked:hover { color: #2e8eef }
     text-align: left
 }
 
+/* Removes italics on code blocks */
+.topstory code { font-style: normal }
+
 .homepage .day .article { margin-bottom: 6em }
 
 /* Prevents footnote content from appearing on the homepage */
@@ -447,9 +408,42 @@ div.update {
 	padding: 0.5em 2em 2em 2em
 }
 
+div.update pre,
+div.update img {
+	border: 2px solid #ddd;
+	border-radius: 0.2em;
+}
+
 div.update blockquote { border-left: 5px solid #d0d0d0 }
 
 div.update blockquote a { word-break: break-all }
+
+div.takehome {
+	color: #3f70a2;
+	float: right;
+	padding: 1em 0.25em 1em 1.5em;
+	font-weight: 600;
+	font-size: 1.2em;
+	line-height: 1.5;
+	font-style: italic;
+	text-transform: uppercase;
+	width: 30%
+}
+
+div.takehome p,
+div.takehomeLeft p { margin: 0 }
+
+div.takehomeLeft {
+	color: #3f70a2;
+	float: left;
+	padding: 1em 1.5em 1em 0.25em;
+	font-weight: 600;
+	font-size: 1.2em;
+	line-height: 1.5;
+	font-style: italic;
+	text-transform: uppercase;
+	width: 30%
+}
 
 /* Turned off until I can fix markdown-it-footnote */
 .main hr.footnotes-sep {
@@ -578,6 +572,11 @@ a.footnote-backref:hover {
 		width: 300px
 	}
 	
+	/* Fixes pagination funkiness spacing */
+	.homepage .main {
+		margin-bottom: 12em;
+	}
+	
 	.main {
 		margin: 5em auto 5em auto;
 		min-height: 10vh
@@ -590,14 +589,12 @@ a.footnote-backref:hover {
 	
 	.content .header #siteByline { margin: 1em auto }
 	
-	.postHeader h1 { font-size: 1.8em }
-	
-	li.postSource a {
-		margin-right: 3em;
+	ul.postSubtitleItems {
+		white-space: nowrap;
 	}
 	
-	li.postPermalink a {
-		margin-right: 2em;
+	li.postTags ul {
+		white-space: normal;
 	}
 	
 	ul.eachTag {
@@ -641,13 +638,31 @@ a.footnote-backref:hover {
 		width: 100vw;
 		margin-left: calc((100vw - 300px) / -2)
 	}
+}
+
+/* iPhone 6 Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) {
+  	/* Fixing daybreak */
+  	.homepage .day .daybreak {
+  		margin: 6em auto 6em -5%;
+  		width: 110%
+  	}
 
 }
 
-/* iPhone 6 Plus */
+/* iPhone 6 Landscape */
 @media only screen 
-	and (min-device-width: 414px) 
-	and (max-device-width: 736px) 
-	and (-webkit-min-device-pixel-ratio: 3) { 
-		.bigfoot-footnote__button { font-size: 0.8rem }
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+	/* Fixing daybreak */
+	.homepage .day .daybreak {
+		margin: 6em auto 6em -5%;
+		width: 110%
+	}
 }

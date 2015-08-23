@@ -27,6 +27,6 @@ How can Nilay expect anything to get better when it's *his* website that sucks a
 [dm]: http://donmelton.com/
 [nolanlawson]: http://nolanlawson.com/2015/06/30/safari-is-the-new-ie/
 [overcast]: https://overcast.fm/+I_IAnJ5Y
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/7/12/why-the-web-is-so-slow
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/tags/Ditching%20Webfonts
-[theoveranalyzed 3]: http://www.theoveranalyzed.net/2015/7/12/why-the-web-is-so-slow#imore
+[theoveranalyzed]: @@SiteRoot@@/2015/7/12/why-the-web-is-so-slow
+[theoveranalyzed 2]: @@SiteRoot@@/tags/Ditching%20Webfonts
+[theoveranalyzed 3]: @@SiteRoot@@/2015/7/12/why-the-web-is-so-slow#imore

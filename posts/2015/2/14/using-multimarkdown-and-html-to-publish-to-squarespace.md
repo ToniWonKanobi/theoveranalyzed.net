@@ -176,10 +176,10 @@ Since writing this post, I have switched from Byword to MultiMarkdown Composer f
 [sparrowmailapp]: http://sparrowmailapp.com/iphone.php
 [squarespace]: http://help.squarespace.com/guides/using-the-markdown-block
 [steves-digicams]: http://www.steves-digicams.com/knowledge-center/how-tos/filmmaking-tips/screenwriting-how-to-write-parenthetical.html
-[theoveranalyzed]: http://www.theoveranalyzed.net/2015/1/31/bigfoot-footntes-in-squarespace
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/2015/1/31/bigfoot-footntes-in-squarespace#update
-[theoveranalyzed 3]: http://www.theoveranalyzed.net/2015/2/6/one-year-later
-[theoveranalyzed 4]: http://www.theoveranalyzed.net/2015/3/4/byword-multimarkdown-composer-and-more
+[theoveranalyzed]: @@SiteRoot@@/2015/1/31/bigfoot-footntes-in-squarespace
+[theoveranalyzed 2]: @@SiteRoot@@/2015/1/31/bigfoot-footntes-in-squarespace#update
+[theoveranalyzed 3]: @@SiteRoot@@/2015/2/6/one-year-later
+[theoveranalyzed 4]: @@SiteRoot@@/2015/3/4/byword-multimarkdown-composer-and-more
 [vesperapp]: http://vesperapp.co/
 [wikipedia]: https://en.wikipedia.org/wiki/Dash
 [ycombinator]: https://news.ycombinator.com/item?id=8264733

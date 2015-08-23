@@ -72,7 +72,7 @@ I'm glad I made it to *The Office* party eventually. If you haven't already seen
 [netflix]: http://www.netflix.com/WiMovie/70136120?trkid=13752289
 [pacificdentalservices]: http://pacificdentalservices.com
 [thedailybeast]: http://www.thedailybeast.com/cheats/2011/05/06/the-office-ratings-drop-after-steve-carell-leaves-will-ferrell-guest-stars.html
-[theoveranalyzed]: http://www.theoveranalyzed.net/archive/2015/2/job-interviews
+[theoveranalyzed]: @@SiteRoot@@/archive/2015/2/job-interviews
 [theverge]: http://www.theverge.com/2015/4/7/8362229/hbo-now-available-now-apple-tv
 [twitter]: https://twitter.com/anthonycraigdds
 [usanetwork]: http://www2.usanetwork.com/series/jag/
