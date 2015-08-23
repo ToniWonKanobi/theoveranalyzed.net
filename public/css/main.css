@@ -112,7 +112,7 @@ figure {
 
 figure.wide {
 	width: 1100px;
-	margin-left: -240px
+	margin-left: -250px
 }
 
 /* Floated images */
@@ -311,7 +311,7 @@ a.postTitleLinked:hover + i.fa.fa-long-arrow-right.fa-fw { color: #2e8eef }
 ul.postSubtitleItems {
 	padding-left: 0;
 	line-height: 1.2;
-	margin: 0.5em auto -2em auto
+	margin: 0.5em auto -1.5em auto
 }
 
 ul.postSubtitleItems li {
