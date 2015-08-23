@@ -57,7 +57,7 @@ I'll leave you with this, a conversation with a friend who knows me all too well
 	<figcaption>Touche.</figcaption>
 </figure>
 
-<div class="update" id="update">
+<div class="update">
 
 ## Update
 
