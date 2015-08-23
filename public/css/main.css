@@ -337,18 +337,13 @@ ul.eachTag li {
 	display: inline-block;
 }
 
-li.postTags {
+li.postTags label {
 	-webkit-transition: all .2s ease-in;
 	-moz-transition: all .2s ease-in;
 	transition: all .2s ease-in
 }
 
-li.postTags label:hover { 
-	color: #2e8eef;
-	-webkit-transition: all .2s ease-in;
-	-moz-transition: all .2s ease-in;
-	transition: all .2s ease-in
-}
+li.postTags label:hover { color: #2e8eef }
 
 li.postTags label:hover + ul.eachTag {
 	opacity: 1;
