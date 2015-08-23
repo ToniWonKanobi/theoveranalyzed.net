@@ -14,7 +14,7 @@ body {
 	margin: 0;
     color: #545454; 
     line-height: 1.6;
-	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Avenir", "-apple-system", sans-serif;
+	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Avenir", -apple-system, sans-serif;
 	font-weight: 300
 }
 
