@@ -589,12 +589,13 @@ a.footnote-backref:hover {
 	
 	.content .header #siteByline { margin: 1em auto }
 	
-	ul.postSubtitleItems {
-		white-space: nowrap;
+	ul.postSubtitleItems li.postTags {
+		display: block;
+		line-height: 2;
 	}
 	
-	li.postTags ul {
-		white-space: normal;
+	ul.postSubtitleItems {
+		margin-bottom: 0;
 	}
 	
 	ul.eachTag {
