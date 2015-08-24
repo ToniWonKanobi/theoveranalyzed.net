@@ -23,7 +23,9 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 **[/dailyupdate][du]**: For the daily emails with links to posts
 
 [^pa]: Just add [`[[TOC]]`][github 5] where you want the table of contents to show up in the HTML. This is much like what Fletcher Penney's [MultiMarkdown Composer][multimarkdown] can do in Version 3 (currently in beta)
-[^tr]: Alternatively, while viewing a post at it's Permalink location (i.e., not on the homepage `/`), you could also just follow the hyperlink called "<i class="fa fa-code fa-fw"></i> Source," located below the post title.
+[^tr]: Alternatively, while viewing a post at it's Permalink location (i.e., not on the homepage `/`), you could also just follow the hyperlink called "<i class="fa fa-code fa-fw"></i> Source," located below the post title:
+
+	![][ex]
 [^p]: You could similarly do something similar for [2014][2014] (or any other year). You could even get more specific than that and list posts by year *and* month *and* day (e.g., [/2014/12/24][dec])
 [^t]: You even get more specific than that and list posts having a particular tag (e.g., maybe you wanted to see every post having to do with [Apple][ap]. (Note that tags are Case Sensitive.)
 
@@ -35,6 +37,7 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 [d]: http://d.pr/i/1iSqM+
 [dec]: @@SiteRoot@@/2014/12/24
 [du]: @@SiteRoot@@/dailyupdate
+[ex]: http://d.pr/i/1e31e+
 [expressjs]: http://expressjs.com/
 [fitvidsjs]: http://fitvidsjs.com
 [github]: https://github.com/DataMcFly/camel
