@@ -298,7 +298,7 @@ a.postTitleLinked:hover + i.fa.fa-long-arrow-right.fa-fw { color: #2e8eef }
 ul.postSubtitleItems {
 	padding-left: 0;
 	line-height: 1.2;
-	margin: 0.5em auto -1.25em auto
+	margin: 0.5em auto -1.75em auto
 }
 
 ul.postSubtitleItems li {
@@ -360,6 +360,8 @@ a.postTitleLinked  { color: #3f70a2 }
 
 a.postTitle:hover, 
 a.postTitleLinked:hover { color: #2e8eef }
+
+figure:nth-child(1) { margin-top: 1em }
 
 .topstory {
 	margin-top: 2em;
