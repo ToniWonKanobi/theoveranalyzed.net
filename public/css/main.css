@@ -48,7 +48,7 @@ a:hover { color: #2e8eef }
 
 .entry a:hover { 
 	border-bottom: 1px solid #2e8eef;
-	padding-bottom: 1px
+	padding-bottom: 2px
 }
 
 a.nohover:hover { 
@@ -298,7 +298,7 @@ a.postTitleLinked:hover + i.fa.fa-long-arrow-right.fa-fw { color: #2e8eef }
 ul.postSubtitleItems {
 	padding-left: 0;
 	line-height: 1.2;
-	margin: 0.5em auto -1.5em auto
+	margin: 0.5em auto -1.25em auto
 }
 
 ul.postSubtitleItems li {
