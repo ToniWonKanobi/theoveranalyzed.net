@@ -5,7 +5,7 @@
 @@ Tags=This Week on Cotton Bureau, Cotton Bureau, t-shirts, apparel, Star Wars, Star Wars: The Force Awakens  
 @@ Image=https://cottonbureau.com/img/products/6245_ZiDJ_2400.jpg  
 
-<figure class="wide">
+<figure>
 	<a class="nohover" href="https://cottonbureau.com/products/are-we-there-yet">
 		<img src="http://d.pr/i/mXBf+" alt="Are We There Yet?" />
 	</a>

@@ -7,7 +7,7 @@
 
 I'm starting [this][theoveranalyzed] back up (been a while). I haven't been buying as many t-shirts as I used to, but some of these Star Wars ones are hard to say no to. Image captions have links to their pages on Cotton Bureau. 
 
-<figure class="wide">
+<figure>
 	<a class="nohover" href="https://cottonbureau.com/products/thats-no-moon-1">
 		<img src="http://d.pr/i/1hUxR+" alt="That's No Moon" />
 	<figcaption><a href="https://cottonbureau.com/products/thats-no-moon-1">That's No Moon</a> by Tim Payne. I also got <a href="https://cottonbureau.com/products/thats-no-moon">this one</a> a few months back.</figcaption>

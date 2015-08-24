@@ -5,7 +5,7 @@
 @@ Tags=Cotton Bureau, t-shirts, apparel, This Week on Cotton Bureau
 @@ Image=https://cottonbureau.com/img/products/5300_Y5LE_2400.jpg  
 
-<figure class="wide">
+<figure>
 	<a class="nohover" href="https://cottonbureau.com/products/mac-classic">
 		<img src="http://d.pr/i/Ltvf+" alt="Mac Classic" />
 	</a>

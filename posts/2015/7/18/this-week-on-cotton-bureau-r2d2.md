@@ -5,7 +5,7 @@
 @@ Tags=This Week on Cotton Bureau, Cotton Bureau, t-shirts, apparel  
 @@ Image=https://cottonbureau.com/img/products/5753_HykZ_2400.jpg  
 
-<figure class="wide">
+<figure>
 	<a class="nohover" href="https://cottonbureau.com/products/r2d2">
 		<img src="https://cottonbureau.com/img/products/5753_HykZ_2400.jpg" alt="R2D2" />
 	</a>

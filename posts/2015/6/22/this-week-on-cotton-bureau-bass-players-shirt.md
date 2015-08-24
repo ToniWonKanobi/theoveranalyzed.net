@@ -5,7 +5,7 @@
 @@ Tags=This Week on Cotton Bureau, Cotton Bureau, t-shirts, apparel  
 @@ Image=https://cottonbureau.com/img/products/5320_APdl_2400.jpg  
 
-<figure class="wide">
+<figure>
 	<a class="nohover" href="https://cottonbureau.com/products/bass-players-shirt">
 		<img src="http://d.pr/i/QbaB+" alt="Bass Players Shirt" />
 	</a>

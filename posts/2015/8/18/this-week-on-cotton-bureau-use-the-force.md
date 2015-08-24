@@ -5,7 +5,7 @@
 @@ Tags=This Week on Cotton Bureau, Cotton Bureau, t-shirts, apparel  
 @@ Image=https://cottonbureau.com/img/products/6324_j77e_2400.jpg  
 
-<figure class="wide">
+<figure>
 	<a class="nohover" href="https://cottonbureau.com/products/use-the-force">
 		<img src="http://d.pr/i/jwWN+" alt="Use The Force" />
 	</a>

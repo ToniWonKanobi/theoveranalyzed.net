@@ -11,7 +11,7 @@ Starting this week, I will be occasionally featuring [neat designs][nd] from my 
 
 </div>
 
-<figure class="wide">
+<figure>
 	<a class="nohover" href="https://cottonbureau.com/products/mtr">
 		<img src="https://cottonbureau.com/img/products/3422_8cnL_1600.jpg" alt="MTR" />
 	</a>
