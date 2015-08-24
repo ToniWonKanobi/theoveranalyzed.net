@@ -5,7 +5,7 @@
 }
 
 .main {
-  	margin: 8em auto 12em auto;
+  	margin: 6em auto 6em auto;
   	min-height: 25vh 	/* Sets minimum page height for short pages like `/404` or `/about` */
 }
 
@@ -32,9 +32,6 @@ h1 { font-size: 1.5em }
 h2 { font-size: 1.25em }
 
 h3 { font-size: 1em }
-
-h1:nth-child(1),
-h2:nth-child(1) { margin-top: 1em }
 
 a {
 	text-decoration: none;
@@ -464,7 +461,7 @@ a.footnote-backref:hover {
 }
 
 .homepage .paginationFooter {
-	margin: auto;
+	margin-bottom: 11em;
     display: block;
     width: 100%;
     font-weight: 400; 
