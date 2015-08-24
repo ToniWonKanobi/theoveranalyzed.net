@@ -5,7 +5,11 @@
 @@ Image=http://d.pr/i/1iLFm+  
 @@ Video=http://d.pr/v/9TLn+  
 
-<div class="topstory">Unknowingly, this was the first in a [mini-series][ms] of posts regarding webfonts. You should check out the [second][sec] and [third][thi]posts after reading this one.</div>
+<div class="topstory">
+
+Unknowingly, this was the first in a [mini-series][ms] of posts regarding webfonts. You should check out the [second][sec] and [third][thi]posts after reading this one.
+
+</div>
 
 ## Forward
 
