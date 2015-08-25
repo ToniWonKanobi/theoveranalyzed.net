@@ -382,8 +382,7 @@ figure:nth-child(1) { margin-top: 1em }
 	padding: 0.5em 2em 2em 2em
 }
 
-.update pre/*,
-.update img */{
+.update pre {
 	border: 2px solid #ddd;
 	border-radius: 0.2em;
 }

@@ -2,7 +2,7 @@
 @@ Date=2015-06-11T10:51:00+00:00  
 @@ Link=http://www.frerejones.com/blog/typeface-mechanics-002/  
 @@ Description=Tobias Frere-Jones' latest blog post examines "degrees of weight" in typefaces.  
-@@ Tags=design, fonts, typefaces, Futura, Tobias Frere-Jones  
+@@ Tags=design, fonts, typefaces, Futura, Tobias Frere-Jones, typography  
 @@ Image=http://www.frerejones.com/assets/Futura-O-anim.gif  
 
 <figure>

@@ -2,7 +2,7 @@
 @@ Date=2015-03-09T17:22:00+00:00  
 @@ Link=http://fontsinuse.com/uses/8963/apple-and-ibook-powerbook-macbook-keyboards-2  
 @@ Description=Apple Watch and the new MacBook showcase Apple's newest font, San Francisco. Fonts In Use takes a look.  
-@@ Tags=typefaces, design, fonts, hardware, Apple, Apple Watch, Fonts In Use  
+@@ Tags=typefaces, design, fonts, hardware, Apple, Apple Watch, Fonts In Use, typography  
 
 Stephen Coles, for Fonts In Use:
 >In March 2015, Apple marked its first departure from VAG Rounded as a standard for its keyboards by using its own San Francisco typeface on their new MacBook models.

@@ -2,7 +2,7 @@
 @@ Date=2015-03-15T10:00:00+00:00  
 @@ Link=http://www.frerejones.com/blog/typeface-mechanics-001/  
 @@ Description=Frere-Jones gives a primer on fonts.  
-@@ Tags=typefaces, fonts, design, web design, web, Tobias Frere-Jones  
+@@ Tags=typefaces, fonts, design, web design, web, Tobias Frere-Jones, typography 
 
 By the time I really started paying attention to fonts about a year ago, [Tobias Frere-Jones][frerejones] had [already split][wikipedia] from [Jonathan Hoefler][typography].
 

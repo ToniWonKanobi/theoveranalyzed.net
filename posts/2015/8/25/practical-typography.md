@@ -110,7 +110,11 @@ I'm bound to spend more time with Butterick's Practical Typography. There's just
 
 After publishing this post, I stumbled upon an old [Macworld review][mw] from Jason Snell. Looks like I wasn't alone in my incorrect usage of en/em dashes:
 
-![](http://d.pr/i/1kEtY+)
+![](http://d.pr/i/7mEj+)
+
+And check out the [latest][vox] from Ezra Klein---*editor-in-chief* for Vox:
+
+![](http://d.pr/i/12BRl+)
 
 </div>
 
@@ -143,3 +147,4 @@ After publishing this post, I stumbled upon an old [Macworld review][mw] from Ja
 [wikipedia 7]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 [wikipedia 8]: https://en.wikipedia.org/wiki/JavaScript
 [wikipedia 9]: https://en.wikipedia.org/wiki/IWork#Versions
+[vox]: http://www.vox.com/2015/8/25/9205801/hillary-clinton-joe-biden
