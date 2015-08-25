@@ -386,7 +386,7 @@ figure:nth-child(1) { margin-top: 1em }
 
 .update pre {
 	border: 2px solid #ddd;
-	border-radius: 0.2em;
+	border-radius: 0.2em
 }
 
 .update blockquote { border-left: 5px solid #d0d0d0 }

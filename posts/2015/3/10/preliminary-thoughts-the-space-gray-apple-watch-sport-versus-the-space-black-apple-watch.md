@@ -80,7 +80,7 @@ I used something [similar][instagram] last September when there were [suddenly][
 
 I found this little nugget of knowledge regarding the Apple Watch link bracelet:
 
-<figure>
+<figure class="iphone">
 	<a class="nohover" href="https://pbs.twimg.com/media/B__JFBzUQAEqzn9.png" />
 		<img src="https://pbs.twimg.com/media/B__JFBzUQAEqzn9.png" alt="Links" width="80%" />
 	</a>
