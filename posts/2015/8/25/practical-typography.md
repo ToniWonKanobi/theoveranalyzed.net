@@ -110,11 +110,11 @@ I'm bound to spend more time with Butterick's Practical Typography. There's just
 
 After publishing this post, I stumbled upon an old [review][mw] from Jason Snell, former *editorial director* for Macworld:
 
-![](http://d.pr/i/7mEj+)
+<img src="http://d.pr/i/7mEj+" style="border: 2px solid #ddd;border-radius: 0.2em" alt="Jason Snell em dash misuse" />
 
 And check out the [latest][vox] from Ezra Klein---*editor-in-chief* for Vox:
 
-![](http://d.pr/i/12BRl+)
+<img src="http://d.pr/i/12BRl+" style="border: 2px solid #ddd;border-radius: 0.2em" alt="Ezra Klein em dash misuse" />
 
 Looks like I wasn't alone in my incorrect usage of en/em dashes.
 

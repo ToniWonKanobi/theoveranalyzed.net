@@ -35,4 +35,6 @@ Text
 
 Text
 
+JPG-only <img src="imagelink" style="border: 2px solid #ddd;border-radius: 0.2em" alt="" />
+
 </div>
