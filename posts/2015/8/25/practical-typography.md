@@ -102,7 +102,7 @@ I spent some time scaling-down the inflated heading sizes, and while doing so, e
 
 <hr class="small" />
 
-What is reassuring to me is that I had already been practicing a lot of his suggestions. I'm sure to spend more time with Butterick's Practical Typography. There's just so much to digest. This will no doubt prove a valuable resource for me in the future.
+I'm bound to spend more time with Butterick's Practical Typography. There's just so much to digest. What is reassuring to me is that I had already been practicing a lot of his suggestions. That said, I'm sure this will prove a valuable resource for me in the future.
 
 [^but]: But still not perfect. Keep reading.
 [^int]: Butterick: "The em dash (---) is typ­i­cally about as wide as a cap­i­tal H. The en dash (--) is about half as wide."
