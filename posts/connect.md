@@ -17,14 +17,14 @@ The site at [Theoveranalyzed][fb]
 
 <h2 id="email">Email</h2>
 
-If you have questions, concerns, or any other feedback, you can send me an email at [anthony@theoveranalyzed.net][mail]
+If you have questions, concerns, or any other feedback, you can send me an email at <anthony@theoveranalyzed.net>
   
 <h2 id="rss">RSS</h2>
 
-You can subscribe to the full-text RSS feed: [http://www.theoveranalyzed.net/rss][rss]
+You can subscribe to the full-text RSS feed: <http://www.theoveranalyzed.net/rss>
 
 There is also an alternate RSS feed, for which linked posts point back to TheOverAnalyzed instead of their targets.  
-You can find that feed here: [http://www.theoveranalyzed.net/rss-alternate][rssa]
+You can find that feed here: <http://www.theoveranalyzed.net/rss-alternate>
 
 <h1 id="support">Supporting TheOverAnalyzed</h1>
 
@@ -40,9 +40,6 @@ You can also send cash to [$theoveranalyzed][cash]
 [fb]: http://www.facebook.com/theoveranalyzed
 [instagram]: http://instagram.com/toniwonkanobi/
 [instagram 2]: http://instagram.com/theoveranalyzed/
-[mail]: mailto:anthony@theoveranalyzed.net
 [patreon]: https://www.patreon.com/toniwonkanobi
-[rss]: @@SiteRoot@@/rss
-[rssa]: @@SiteRoot@@/rss-alternate
 [twitter]: http://www.twitter.com/toniwonkanobi
 [twitter 2]: http://www.twitter.com/theoveranalyzed
