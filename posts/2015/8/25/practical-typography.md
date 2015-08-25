@@ -104,6 +104,16 @@ I spent some time scaling-down the inflated heading sizes, and while doing so, e
 
 I'm bound to spend more time with Butterick's Practical Typography. There's just so much to digest. What is reassuring to me is that I had already been practicing a lot of his suggestions. That said, I'm sure this will prove a valuable resource for me in the future.
 
+<div class="update">
+
+## Update
+
+After publishing this post, I stumbled upon an old [Macworld review][mw] from Jason Snell. Looks like I wasn't alone in my incorrect usage of en/em dashes:
+
+![](http://d.pr/i/1kEtY+)
+
+</div>
+
 [^but]: But still not perfect. Keep reading.
 [^int]: Butterick: "The em dash (---) is typ­i­cally about as wide as a cap­i­tal H. The en dash (--) is about half as wide."
 [^im]: I'm convinced that even non-[web]bloggers could find use from Practical Typography. Indeed, he has whole sections devoted to [print][practicaltypography 5].
@@ -116,6 +126,7 @@ I'm bound to spend more time with Butterick's Practical Typography. There's just
 [cm]: http://commonmark.org
 [macsparky]: http://macsparky.com/blog/practicaltypography
 [macworld]: http://www.macworld.com/article/2059208/pages-5-0-for-mac-review-apple-writes-a-new-chapter-for-its-word-processing-app.html
+[mw]: http://www.macworld.com/article/1026829/powermacg5nextgeneration.html
 [npmjs]: https://www.npmjs.com/package/markdown-it
 [practicaltypography]: http://practicaltypography.com
 [practicaltypography 2]: http://practicaltypography.com/equity.html
