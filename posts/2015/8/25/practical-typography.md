@@ -108,13 +108,15 @@ I'm bound to spend more time with Butterick's Practical Typography. There's just
 
 ## Update
 
-After publishing this post, I stumbled upon an old [Macworld review][mw] from Jason Snell. Looks like I wasn't alone in my incorrect usage of en/em dashes:
+After publishing this post, I stumbled upon an old [review][mw] from Jason Snell, former *editorial director* for Macworld:
 
 ![](http://d.pr/i/7mEj+)
 
 And check out the [latest][vox] from Ezra Klein---*editor-in-chief* for Vox:
 
 ![](http://d.pr/i/12BRl+)
+
+Looks like I wasn't alone in my incorrect usage of en/em dashes.
 
 </div>
 
