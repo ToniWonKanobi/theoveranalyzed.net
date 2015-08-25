@@ -13,13 +13,9 @@
 
 ## Forward
 
-When [Matthew Butterick][wikipedia] launched [Practical Typography][practicaltypography] in 2013, my concept of the ideal desktop writing experience was [rich text][wikipedia 2] via [Pages.app][wikipedia 3]).[^pages] Back then, I hadn't even started blogging. I knew nothing about [plain text][wikipedia 4], [Markdown][wikipedia 5], [HTML][wikipedia 6], [CSS][wikipedia 7], or [JavaScript][wikipedia 8].[^yes] Things are a little different now. 
+When [Matthew Butterick][wikipedia] launched [Practical Typography][practicaltypography] in 2013, my concept of the ideal desktop writing experience was [rich text][wikipedia 2] (via [Pages.app][wikipedia 3]).[^pages] Back then, I hadn't even started blogging. I knew nothing about [plain text][wikipedia 4], [Markdown][wikipedia 5], [HTML][wikipedia 6], [CSS][wikipedia 7], or [JavaScript][wikipedia 8].[^yes] Things are a little different now. 
 
 Practical Typography is an absolute gold-mine of a writing resource. I'm not alone in that [assessment][macsparky]. Butterick's ideas on simple and clear writing is presented in a pseudo-online book format, unsurprisingly set in [wonderful typography][practicaltypography 2]. I want to share some of the things I learned from his tutorial, as well as encourage you to check it out for yourself.[^im]
-
-<h2>Contents</h2>
-
-[[TOC]]
 
 # Fixing Bad Habits
 
@@ -51,7 +47,6 @@ There were a couple things wrong with my previous usage of hyphens instead of da
 	```
 	Prose --- aside --- back to prose.
 	```
-	
 	
 	Correct:
 	
@@ -87,6 +82,8 @@ Not only were `.entry`-level headings made too big compared to the regular font 
 
 Here's how to visualize just how much I had erroneously-inflated the headings:
 
+<div style="text-align:center">
+
 Body (body text)
 
 <span style="font-size:1.75em">Headings</span> (headings)
@@ -95,13 +92,15 @@ Body (body text)
 
 <span style="font-size:2.2em">Big Title</span> (post titles on permalink page)
 
+</div>
+
 Note that in the example above, I left the font weight alone. The differences in font size are even more exaggerated when `font-weight: 600` was applied.[^std]
 
 According to Butterick, such extreme variations in heading sizes aren't necessary to differentiate headings from body text. The fact that the headings are bolded and on their own line is typically enough to visually separate headings and body text. 
 
 I spent some time scaling-down the inflated heading sizes, and while doing so, eliminated the separate permalink-page `.post` styles as well. This wasn't completely inspired by Butterick; this was an application of the general principle of *less is more*.
 
-***
+<hr class="small" />
 
 What is reassuring to me is that I had already been practicing a lot of his suggestions. I'm sure to spend more time with Butterick's Practical Typography. There's just so much to digest. This will no doubt prove a valuable resource for me in the future.
 
