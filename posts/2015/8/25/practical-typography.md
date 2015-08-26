@@ -85,7 +85,7 @@ Butterick also had good advice as far as header (`<h1>`, `<h2>`, etc.) font size
 
 Not only were `.entry`-level headings made too big compared to the regular font size, but post titles (`.postHeader` and `.postHeaderLinked`) were even *bigger*. For example, for `.postHeader` (non-linked posts) titles, the font size was 200% body text for the homepage (`.homepage`), and 220% on the permalink page (`.post`). 
 
-<h2 class="tablecaption" id="nofontweight">Previous Font Sizes <em>without</em> <code>font-weight</code> Applied</h2>
+<h2 class="tablecaption" id="nofontweight">Previous Font Sizes</h2>
 
 | Sample Text | Text Type | HTML & CSS Classes |
 | :---------------- | :-------------| :---------------------------: |
@@ -96,7 +96,7 @@ Not only were `.entry`-level headings made too big compared to the regular font 
 
 Note that in Table 2.1 above, I left the font weight unchanged. The differences in font size are even more exaggerated if my previous `font-weight`'s are applied:[^std]
 
-<h2 class="tablecaption" id="fontweightapplied">Previous Font Sizes <em>with</em> <code>font-weight</code> Applied</h2>
+<h2 class="tablecaption" id="fontweightapplied">Previous Font Sizes with <code>font-weight</code> Applied</h2>
 
 | Sample Text | Text Type | HTML & CSS Classes | `font-weight` |
 | :---------------- | :-------------| :---------------------------: | :----------------: |
