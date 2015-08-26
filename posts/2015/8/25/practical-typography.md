@@ -64,17 +64,25 @@ Both dashes have different uses.[^int] As stated previously, em dashes are for s
 
 En dashes are appropriate to signify a range of values, such has the year range 2015--2016:
 
-<h2 class="tablecaption" id="incorrect">Incorrect</h2>
+<div class="table">
+
+<h2 class="tablecaption" id="table1.1">Table 1.1 &ndash; Incorrect use of Hyphens</h2>
 
 | Sample Text | `markdown-it` ([CommonMark][cm]) Parse |  
 | :---------------: | :---------------------------------------------------------: |  
 | `2015-2016` |                            2015-2016                             |
 
-<h2 class="tablecaption" id="correct">Correct</h2>
+</div>
+
+<div class="table">
+
+<h2 class="tablecaption" id="table1.2">Table 2.2 &ndash; Correct use of en dash</h2>
 
 | Sample Text | `markdown-it` ([CommonMark][cm]) Parse |
 | :---------------: | :---------------------------------------------------------: |
 | `2015-2016` |                    2015&ndash;2016                       |
+
+</div>
 
 
 According to Butterick, this nasty habit of writers using double-hyphens in place of actual em dashes was born from the [typewriter days][practicaltypography 4]. After a simple Finder search,[^ma] I spent about an hour or so going through ~50 or so Markdown documents, quickly changing all the instances of inappropriate double hyphens ` -- ` and  changing them instead to the correct em dashes <span><code>&mdash;</code></span>.
@@ -85,7 +93,9 @@ Butterick also had good advice as far as header (`<h1>`, `<h2>`, etc.) font size
 
 Not only were `.entry`-level headings made too big compared to the regular font size, but post titles (`.postHeader` and `.postHeaderLinked`) were even *bigger*. For example, for `.postHeader` (non-linked posts) titles, the font size was 200% body text for the homepage (`.homepage`), and 220% on the permalink page (`.post`). 
 
-<h2 class="tablecaption" id="nofontweight">Previous Font Sizes</h2>
+<div class="table">
+
+<h2 class="tablecaption" id="table2.1">Table 2.1 &ndash; Previous Font Sizes</h2>
 
 | Sample Text | Text Type | HTML & CSS Classes |
 | :---------------- | :-------------| :---------------------------: |
@@ -94,9 +104,13 @@ Not only were `.entry`-level headings made too big compared to the regular font 
 | <span style="font-size:2em">Blah</span> | "Homepage" post titles | `.homepage .postTitle` |
 | <span style="font-size:2.2em">Blah</span> | "Permalink" post title | `.post .postTitle` |
 
+</div>
+
 Note that in Table 2.1 above, I left the font weight unchanged. The differences in font size are even more exaggerated if my previous `font-weight`'s are applied:[^std]
 
-<h2 class="tablecaption" id="fontweightapplied">Previous Font Sizes with <code>font-weight</code> Applied</h2>
+<div class="table">
+
+<h2 class="tablecaption" id="table2.2">Table 2.2 &ndash; Previous Font Sizes with <code>font-weight</code> Applied</h2>
 
 | Sample Text | Text Type | HTML & CSS Classes | `font-weight` |
 | :---------------- | :-------------| :---------------------------: | :----------------: |
@@ -104,6 +118,8 @@ Note that in Table 2.1 above, I left the font weight unchanged. The differences 
 | <span style="font-size:1.75em;font-weight:600">Blah</span> | Headings | `<h1>`, `<h2>` | 600 |
 | <span style="font-size:2em;font-weight:800">Blah</span> | "Homepage" post titles | `.homepage .postTitle` | 800 |
 | <span style="font-size:2.2em;font-weight:800">Blah</span> | "Permalink" post title | `.post .postTitle` | 800 |
+
+</div>
 
 According to Butterick, such extreme variations in heading sizes aren't necessary to differentiate headings from body text. The fact that the headings are bolded and placed their own line is typically enough to visually separate headings and body text. 
 
