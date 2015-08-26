@@ -5,7 +5,9 @@
 @@ Tags=Star Wars, Star Wars: The Force Awakens, pop culture, movies  
 @@ Image=http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg  
 
-<img src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg" alt="Star Wars: The Force Awakens Poster" />
+<figure>
+	<img src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg" alt="Star Wars: The Force Awakens Poster" />
+</figure>
 
 Ethan Anderton, of /Film:
 >Nowadays, movies move in an out of theaters very quickly. Gone are the days of a movie sticking around your local multiplex for months. And movies have an even shorter shelf-life on IMAX screens, since there are far fewer of the giant movie theaters available for movies to inhabit.
