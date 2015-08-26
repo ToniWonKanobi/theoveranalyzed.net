@@ -615,6 +615,12 @@ a.footnote-backref:hover {
 		margin-left: calc((100vw - 300px) / -2)
 	}
 	
+	h2.tablecaption {
+		font-size: 1.1em;
+	    margin: auto auto 0.75em auto;
+	    width: auto;
+	}
+	
 	.homepage .day .articleDivider {
 	    width: 100vw;
 	    margin: 3em auto 3em calc((100vw - 300px) / -2);
