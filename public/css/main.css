@@ -103,7 +103,8 @@ blockquote {
 img { max-width: 100% }
 	
 figure {
-    margin: auto auto 2em auto;
+    margin-bottom: 1em;
+    margin-top: 1em;
     text-align: center
 }
 
