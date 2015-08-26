@@ -202,12 +202,46 @@ audio { width: 100%; }
    /*list-style: circle;*/
 }
 
-.homepage .article th,
+/*.homepage .article th,
 .homepage .article td,
 .post th,
-.post td { padding: 0 0.5em 0 0.5em }
+.post td { padding: 0 0.5em 0 0.5em }*/
 
 table.sortable thead { cursor: default }
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-spacing: 0
+}
+
+table th {
+    padding: 3px 10px;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd
+}
+
+table td {
+    padding: 3px 10px;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd
+}
+
+table th code {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+}
+
+h2.tablecaption {
+	font-size: 1.1em;
+    width: 50%;
+    text-align: center;
+    margin-bottom: 0.75em;
+}
 
 hr {
     width: 100%;

@@ -4,7 +4,7 @@
 @@ Description=As if we don't have enough JavaScript libraries in our life. This one is sure to garner at least a laugh from most web nerds.    
 @@ Tags=JavaScript, web, web design, design, funny, CSS, fonts, typefaces, business, typography      
 
-Do you subscribe to smart business / technology analysts? Do you frequently encounter buzzwords like "leverage," "agile," or "immersive"? Do you have your own website? Then you too can incorporate this clever '[font][pixelambacht].' I love the internet.
+Do you subscribe to smart business / technology analysts? Do you frequently encounter buzzwords like "leverage," "agile," or "immersive"? Do you have your own website? Then you too can incorporate this clever ["font"][pixelambacht]. I love the internet.
 
 [From [John Siracusa][twitter]]
 

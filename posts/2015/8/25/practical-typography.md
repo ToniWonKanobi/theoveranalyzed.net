@@ -40,7 +40,7 @@ There were a couple things wrong with my previous usage of hyphens instead of da
 	```
 	
 	
-2. I should have omitted the spaces on either side of the double hyphens. Again, `markdown-it` was smart enough to go ahead and parse the `---` as an em dash, but the more proper writing convention would be to have no spaces. dictates that
+2. I should have omitted the spaces on either side of the double hyphens. Again, `markdown-it` was smart enough to go ahead and parse the `---` as an em dash, but the more proper writing convention would be to have no spaces.
 
 	[Still] incorrect:
 	
@@ -62,15 +62,20 @@ There were a couple things wrong with my previous usage of hyphens instead of da
 
 Both dashes have different uses.[^int] As stated previously, em dashes are for separating the main text and an aside. It's sort of like a baby-version of a semicolon.[^sc] 
 
-En dashes are appropriate to signify a range of values, such has the year range 2015--2016.
+En dashes are appropriate to signify a range of values, such has the year range 2015--2016:
 
-Incorrect:
+<h2 class="tablecaption" id="incorrect">Incorrect</h2>
 
-`2015-2016` <span style="margin-left:2em"><code>markdown-it</code> parse: 2015-2016</span>
+| Sample Text | `markdown-it` ([CommonMark][cm]) Parse |  
+| :---------------: | :---------------------------------------------------------: |  
+| `2015-2016` |                            2015-2016                             |
 
-Correct:
+<h2 class="tablecaption" id="correct">Correct</h2>
 
-`2015--2016` <span style="margin-left:2em"><code>markdown-it</code> parse: 2015&ndash;2016</span>
+| Sample Text | `markdown-it` ([CommonMark][cm]) Parse |
+| :---------------: | :---------------------------------------------------------: |
+| `2015-2016` |                    2015&ndash;2016                       |
+
 
 According to Butterick, this nasty habit of writers using double-hyphens in place of actual em dashes was born from the [typewriter days][practicaltypography 4]. After a simple Finder search,[^ma] I spent about an hour or so going through ~50 or so Markdown documents, quickly changing all the instances of inappropriate double hyphens ` -- ` and  changing them instead to the correct em dashes <span><code>&mdash;</code></span>.
 
@@ -80,23 +85,27 @@ Butterick also had good advice as far as header (`<h1>`, `<h2>`, etc.) font size
 
 Not only were `.entry`-level headings made too big compared to the regular font size, but post titles (`.postHeader` and `.postHeaderLinked`) were even *bigger*. For example, for `.postHeader` (non-linked posts) titles, the font size was 200% body text for the homepage (`.homepage`), and 220% on the permalink page (`.post`). 
 
-Here's how to visualize just how much I had erroneously-inflated the headings:
+<h2 class="tablecaption" id="nofontweight">Previous Font Sizes <em>without</em> <code>font-weight</code> Applied</h2>
 
-<div style="text-align:center">
+| Sample Text | Text Type | HTML & CSS Classes |
+| :---------------- | :-------------| :---------------------------: |
+| Blah | Body text | `<p>`, `<blockquote>` |
+| <span style="font-size:1.75em">Blah</span> | Headings | `<h1>`, `<h2>` |
+| <span style="font-size:2em">Blah</span> | "Homepage" post titles | `.homepage .postTitle` |
+| <span style="font-size:2.2em">Blah</span> | "Permalink" post title | `.post .postTitle` |
 
-Body (body text)
+Note that in Table 2.1 above, I left the font weight unchanged. The differences in font size are even more exaggerated if my previous `font-weight`'s are applied:[^std]
 
-<span style="font-size:1.75em">Headings</span> (headings)
+<h2 class="tablecaption" id="fontweightapplied">Previous Font Sizes <em>with</em> <code>font-weight</code> Applied</h2>
 
-<span style="font-size:2em">Title</span> (post titles on homepage)
+| Sample Text | Text Type | HTML & CSS Classes | `font-weight` |
+| :---------------- | :-------------| :---------------------------: | :----------------: |
+| Blah | Body text | `<p>`, `<blockquote>` | 300 |
+| <span style="font-size:1.75em;font-weight:600">Blah</span> | Headings | `<h1>`, `<h2>` | 600 |
+| <span style="font-size:2em;font-weight:800">Blah</span> | "Homepage" post titles | `.homepage .postTitle` | 800 |
+| <span style="font-size:2.2em;font-weight:800">Blah</span> | "Permalink" post title | `.post .postTitle` | 800 |
 
-<span style="font-size:2.2em">Big Title</span> (post titles on permalink page)
-
-</div>
-
-Note that in the example above, I left the font weight alone. The differences in font size are even more exaggerated when `font-weight: 600` was applied.[^std]
-
-According to Butterick, such extreme variations in heading sizes aren't necessary to differentiate headings from body text. The fact that the headings are bolded and on their own line is typically enough to visually separate headings and body text. 
+According to Butterick, such extreme variations in heading sizes aren't necessary to differentiate headings from body text. The fact that the headings are bolded and placed their own line is typically enough to visually separate headings and body text. 
 
 I spent some time scaling-down the inflated heading sizes, and while doing so, eliminated the separate permalink-page `.post` styles as well. This wasn't completely inspired by Butterick; this was an application of the general principle of *less is more*.
 
