@@ -26,6 +26,19 @@ When I finished school[^yes] and started working, I toned down all of my movie p
 
 [From [/Film][sf]]
 
+<div class="update" style="overflow:scroll">
+
+## Update
+<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">August 27, 2015</p>
+
+Today, [Yahoo! Movies][ym] shared the new trailer for Warner Brothers's upcoming The Iron Giant: Signature Edition:
+
+<iframe width='640' height='360' scrolling='no' frameborder='0' src='https://movies.yahoo.com/video/iron-giant-trailer-204500104.html?format=embed' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true' allowtransparency='true'></iframe>
+
+[From [/Film][sf2]]
+
+</div>
+
 [^yes]: 🎉
 
 [bb]: https://en.wikipedia.org/wiki/Brad_Bird
@@ -34,5 +47,7 @@ When I finished school[^yes] and started working, I toned down all of my movie p
 [ig]: https://itunes.apple.com/us/movie/the-iron-giant/id284447916?at=1l3vx9s
 [is]: https://en.wikipedia.org/wiki/Inside_Out_(2015_film)
 [sf]: http://www.slashfilm.com/iron-giant-rerelease
+[sf2]: http://www.slashfilm.com/iron-giant-trailer/
 [sw]: @@SiteRoot@@/2015/5/14/this-is-the-best-version-of-star-wars-and-watching-it-is-a-crime
 [ts2]: https://en.wikipedia.org/wiki/Toy_Story_2
+[ym]: https://www.yahoo.com/movies/watch-the-trailer-for-remastered-iron-giant-127660292562.html
