@@ -56,7 +56,7 @@ Six to seven months isn't an incredibly long amount of time to have spent with t
 
 One could make the argument that what made *The Office* different was its production style. Unlike the previous two shows Allison and I watched together, [Greg Daniels][wikipedia 24]' single-camera, [simulated documentary][wikipedia 25] gave the characters that much more gravitas when doing a scene. The characters would often look directly into the camera, at the audience, telling us how they felt. Usually these moments were reserved for comedy, but occasionally, they tugged at the heartstrings. Breaking the fourth wall has been done before, and continues to be done in [TV today][medium]. But the mockumentary method served its purpose well: making its viewers feel connected to the characters.
 
-<hr class="small">
+***
 
 The show <s>must</s> did go on. We haven't watched the remaining episodes yet,[^fe] and a part of me wonders if its even worth it? Its no surprise that [ratings fell steadily][thedailybeast] after Carell's exit. It's happened [before][wikipedia 26]---a main character in a series moving on---and it will probably happen again. I'm sure we'll give it a crack despite Carell's absence. It won't be the same, but maybe it can still be something worthwhile? Thankfully [spoiler alert], my favorite character Dwight lasts for the remainder of the show, so there's that. 
 

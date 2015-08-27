@@ -22,7 +22,7 @@ Blink has a [great UI/UX][macstories 2], and makes creating iTunes affiliate lin
 
 StretchLink, by Brett Terpstra, is of a similar vain as Affiliate. It is a menubar app that monitors the clipboard for iTunes and Amazon product links. When it senses one on the clipboard, it can strip all the analytics and query strings. And, like Affiliate, StretchLink then re-copies the new link to the clipboard, for [cleaner linking][macstories 3].
 
-<hr class="small">
+***
 
 Most of my writing for TheOverAnalyzed happens on my Mac.[^btw] Using a combination of both Affiliate and StretchLink works well. They help me accomplish the previously tedious task of removing all the tracker junk that gets attached to iTunes and Amazon links, allowing me to attach all of my junk to links that I want to share. 
 

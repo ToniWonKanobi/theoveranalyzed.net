@@ -10,7 +10,7 @@ Here's a quote from the video:
 
 Whether or not you eat meat, or whether or not you are an observant/religious person, this is a great watch.
 
-<hr class="small">
+***
 
 One regret I have from dental school was that I didn't do enough to stir the pot while I was there.
 
@@ -22,7 +22,7 @@ People have messed up teeth, and the manner in which we tooth professionals go a
 
 As a third-year dental student at Loma Linda University School of Dentistry, we were required to formulate a research project. My group's research focused on something extremely mundane to normal humans. And to be fair, it was quite uninteresting even for dental people. Admittedly, the topic of our research was a recent 'it-word' in dentistry, and our group felt it would help us win at [CDA][cdapresents]. 
 
-<hr class="small">
+***
 
 Years later,[^l] I wish we would have researched something better. Something with bigger implications. Something that would have inspired change. 
 

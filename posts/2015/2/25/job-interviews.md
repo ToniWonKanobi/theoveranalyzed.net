@@ -10,7 +10,7 @@ It's the dream, isn't it? To work for that small-ish company in Cupertino?
 
 Everything except for the whole getting hired part, apparently. 
 
-<hr class="small"/>
+***
 
 Over the past 2-3 months, I have been on a whirlwind experience looking for a new job. 
 
@@ -22,7 +22,7 @@ But there is only so much interviewing one human can do in a given period of tim
 
 But even worse than the quality of the offices are the *games one has to play in the interview*. The entire time a potential employer is grilling me, all I can do is think about what the next question might be, and how I can best answer it. Do they want me to be hard working and talk about how I want 5 days per week, or do they want me to seem laid back, and not super producer?
 
-<hr class="small"/>
+***
 
 I read people and size them up all day long. I have to. Most people aren't comfortable at the dentist. I know I'm not. You're laid back, in this vulnerable position, just *hoping* that the guy won't say you need anything done. I empathize wholeheartedly.
 

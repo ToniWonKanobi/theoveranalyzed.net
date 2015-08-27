@@ -101,7 +101,7 @@ Disabling JavaScript yielded a quarter-second differential in page loading. Imag
 
 So, if I wanted to run a completely imageless and scriptless version of my site, I might see a page load of 1.5 seconds instead of 2 seconds. I'm not sure that's worth it. 
 
-<hr class="small" />
+***
 
 Self-deprecating over my website's somewhat decent page loading isn't the point of my rant. The point is that not everyone can do what I've done. And that's a problem.
 

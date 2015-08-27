@@ -17,7 +17,7 @@ By now you're familiar with the story:
 4. And finally on Wednesday of last week, three days after all the Sunday hubbub, Swift too declared her change of heart
 	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">After the events of this week, I&#39;ve decided to put 1989 on Apple Music...and happily so.</p>&mdash; Taylor Swift (@taylorswift13) <a href="https://twitter.com/taylorswift13/status/614092816940167168">June 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 	
-<hr class="small" />
+***
 
 Quite the tumultuous week for both Taylor Swift *and* Apple. 
 

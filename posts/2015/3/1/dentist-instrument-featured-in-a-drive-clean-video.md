@@ -36,7 +36,7 @@ Example:
 
 ![Rubber Dam In Action][wikimedia]
 
-<hr class="small" />
+***
 
 Every once in a while something like this will come up, and its interesting to note how/when dentistry might permeate 'regular people' situations. 
 

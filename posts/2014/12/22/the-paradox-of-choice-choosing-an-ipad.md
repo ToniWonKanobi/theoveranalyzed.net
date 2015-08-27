@@ -63,7 +63,7 @@ This year, the capacity choices were a little convoluted. [Much has been said][d
 
 After having an iPhone 5S and subsequently the 6 / 6 Plus, not having the Touch ID sensor on my iPad seemed like a step backwards. Versus swiping and passcoding like a heathen, it is just so much easier to thumb that precious sapphire-adorned sensor to unlock my phone. Why would I want any different for my tablet?
 
-<hr class="small" />
+***
 
 "**[This is it.][youtube]**"
 I chose the the iPad mini 3 (Wi-Fi/Cellular) 64 GB ([iPad4,8][everymac]). Am I completely confident in my decision? That's a tough one to answer. All I can say is that I occasionally look over on the display of Allison's iPad Air and wonder, could Barry Schwartz be right in this situation too? 

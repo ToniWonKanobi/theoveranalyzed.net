@@ -72,7 +72,7 @@ So, the tentative plan is to sell my recently-acquired Thunderbolt display, and 
 
 * It's a Dell.
 			
-<hr class="small">
+***
 
 It will be interesting to see what, if anything, Apple does in the display space in the near future. The writing on the wall has been that Apple is moving away from its prosumer and pro markets, and is focusing instead on the more mainstream audience. If so, that's sad, because Apple has helped defined the [prosumer][wikipedia] category. That said, everyone thought the Mac Pro was never coming back, and look at the splash it had months back.
 

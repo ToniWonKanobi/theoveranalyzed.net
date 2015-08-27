@@ -17,7 +17,7 @@ Finally, here is Snell wrapping things up nicely:
 
 Nothing wrong with that. Check out the rest of the post for a nice mini-history of iPad, which, in case you didn't know, celebrates its [5th anniversary this year][theoeranalyzed].
 
-<hr class="small" />
+***
 
 I have been using Allison's iPad and MacBook Pro for the past few days, whenever my workflow stuff got tiresome on iPhone. More or less, I continue to get by without my MacBook, and since [last writing][theoeranalyzed 2] on the subject, I am less than a week away from [April 10][cnet], which is great news.
 

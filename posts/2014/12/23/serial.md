@@ -14,7 +14,7 @@ Alas, I never listened back then. I do not suppose anyone could just 'get into' 
 
 But around the same time last year when I began to look into what the medium has to offer, I was also wondering what the podcast app market was like. It was a perfect storm of sorts, since, admittedly, the idea of a new native app to check out has always tickled my fancy. 
 
-<hr class="small">
+***
 
 Allow me to digress a bit into my past podcasting app choices.
 
@@ -31,7 +31,7 @@ Ultimately, I could care less about power user features. Sure, carefully craftin
 
 Around the time I discovered [Neutral][neutral], and subsequently [ATP][atp], and [The Talk Show][daringfireball], and others, I heard about Marco Arment's [then upcoming][marco] podcast client [Overcast][overcast]. It launched earlier this year to much [fanfare][macstories], and deservedly so. It was sort of a mix between Pocket Casts and Castro, leaning a bit more toward Shifty Jelly's implementation than Supertop's. I have been using that since launch.
 
-<hr class="small">
+***
 
 Enough of my digression.
 

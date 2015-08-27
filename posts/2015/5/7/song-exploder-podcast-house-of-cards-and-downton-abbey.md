@@ -13,7 +13,7 @@ Check out the main title theme on [iTunes][apple].
 
 Hirway also [interviewed][int] [John Lunn][wikipedia 2], the man responsible for the [Downton Abbey][wikipedia 3] theme. [Fans][fns] should be sure to check one out as well. 
 
-<hr class="small">
+***
 
 Those were the only two shows featured by Hirway that I was familiar with, but I'm going to subscribe. Who knows---maybe [Game of Thrones][wikipedia 4] or [The Office][to] themes will end up on his podcast someday? 
 

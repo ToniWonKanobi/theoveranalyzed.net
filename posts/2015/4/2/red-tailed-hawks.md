@@ -11,7 +11,7 @@ But then I finished the video. It inspired me to do what the producers of Last W
 
 In case you weren't already aware, [red-tailed hawks][wikipedia] really are as effing [BA][urbandictionary] as John Oliver makes it sound. If you live in North America, and you observe a large raptor in the sky or on the side of the road, it is probably a red-tailed hawk. 
 
-<hr class="small" />
+***
 
 Whenever we can, Allison and I visit our [favorite place on Earth][nps]. And while we are there, we always visit the [Teton Raptor Center][tetonraptorcenter] located in Jackson Hole Wyoming. 
 

@@ -12,7 +12,7 @@ I suppose my hesitation to fall in love with the new NSX is mostly due to me bei
 
 But even if you strip all that away, the fact remains: **no new NSX could ever be cooler than the first one.** Over twenty years later, the car *still* impresses in person. 
 
-<hr class="small" />
+***
 
 About 5 or so years ago, I was back home in Central California visiting my parents, and while I was driving through the neighborhood on the way back to our house, I spotted it. 
 
@@ -26,7 +26,7 @@ He was on the phone. He remained on his cell for the duration of my 10 minute ex
 
 That experience cemented NSX into my Future Cars Bucket List. Someday, I'm sure I'll have one.[^o]
 
-<hr class="small" />
+***
 
 As I have [previously written][prev], there's something about early 90's cars. Maybe it's because those were the cars I grew up thinking were cool. Who knows?
 

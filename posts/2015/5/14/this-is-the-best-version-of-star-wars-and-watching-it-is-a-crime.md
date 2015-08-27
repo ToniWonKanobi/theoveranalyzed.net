@@ -21,7 +21,7 @@ Is George Lucas truly stupid for refusing to give the people what they want? Is 
 
 I suppose it all depends on your [point of view][youtube]. 
 
-<hr class="small">
+***
 
 In case you were wondering:
 

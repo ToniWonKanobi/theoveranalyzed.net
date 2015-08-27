@@ -17,7 +17,7 @@ And Sam Machkovech, of [Ars Technica][arstechnica]:
 
 So there was no real difference in sound between the Pono songs and the same songs on iTunes. 
 
-<hr class="small">
+***
 
 There was a time a couple of years ago where I maintained an iTunes library that was around 150 GB.[^t] What took up so much space? I had carefully curated around 40% of my library to be high-resolution (hi-res), most of which were encoded at 24-bit depth and had a sample rate of 192 kHz. I read all the forums. I read all the articles. All the scientific proof[^np] out there showed that, all things being equal,  **high resolution music was no better sounding than CD-quality music.** Still, like everyone else aboard the snake oil audiophile train, I wanted to believe what I had curated was somehow better. 
 

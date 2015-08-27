@@ -43,7 +43,7 @@ Let us consider the big stores again. I dare you to walk into Guitar Center, mak
 
 Small mom-and-pops suffer a different problem. They are in constant competition with the big stores, so their focus is typically on the higher end of the market. Walk into [Bass San Diego][basssandiego] and you might find a few Fenders, but most of it will be stuff by the big boutique brands like [Sadowsky][sadowsky], [Dingwall][dingwallguitars], [Fodera][fodera] and then some middle-tier brands like [G&L][glguitars]. Places like Bass San Diego are great. Problem is, I can't imagine them taking too kindly to me strolling in and playing a $10K Fodera Monarch, or Sadowsky Will Lee model, just for kicks. They can't afford to let nobody's like me touch that stuff, for fear that we might break something. If it's going to be like that, what is the point of even going?
 
-<hr class="small" />
+***
 
 I am sure my experiences do not represent the entirety of musicianship. And, what more, this is not to say that every guitar I've purchased has been pristine. No, on the contrary: buying and selling so much gear has made gifted me with an uncanny ability to sniff through the BS on eBay and Craigslist ads. For the few lemons I have received, the issue was easily rectified. Return the item. eBay's Buyer Protection is unwavering in its dedication to the buyer. Craigslist, not so much (I actually limit my use of Craigslist for this very reason). Still, there are ways of finding satisfaction if an internet purchase goes awry. 
 

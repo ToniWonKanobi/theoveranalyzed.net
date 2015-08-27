@@ -11,7 +11,7 @@ This got me thinking.
 
 For the longest time, I had a plan for Apple Watch: I was going to wear my Apple Watch on my non-watch hand, and my 'regular' watch on my watch hand.
 
-<hr class="small">
+***
 
 I know what you're thinking. You're thinking "How dumb is that?" Admittedly, it is somewhat dumb. Still, the notion of wearing double time-pieces isn't nearly as idiotic as some of the other things we do in the fashion/utility apparel world we live in. Allison, ever the purveyor of frugality, has several belts that are, at half an inch thick, not nearly suitable for keeping her pants up. No, instead, she wears them on the outside of her shirt. Is it fashionable and visually appealing? Of course.[^h] Is it useful? Of course *not.*
 
@@ -21,7 +21,7 @@ We humans adorn ourselves with lots of 'things' that don't really serve any purp
 
 There's nothing wrong with that.
 
-<hr class="small">
+***
 
 That's where my initial thinking about wearing two watches came from. I love old things. Old cars, old movies, old jeans---these are just better with age. And despite all the added technical benefit and increased utilitarianism of having an iPhone on my wrist, no amount of technology prowess will ever make Apple Watch better than a [fine mechanical timepiece][rolex]. 
 

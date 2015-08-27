@@ -125,7 +125,7 @@ According to Butterick, such extreme variations in heading sizes aren't necessar
 
 I spent some time scaling-down the inflated heading sizes, and while doing so, eliminated the separate permalink-page `.post` styles as well. This wasn't completely inspired by Butterick; this was an application of the general principle of *less is more*.
 
-<hr class="small" />
+***
 
 I'm bound to spend more time with Butterick's Practical Typography. There's just so much to digest. What is reassuring to me is that I had already been practicing a lot of his suggestions. That said, I'm sure this will prove a valuable resource for me in the future.
 

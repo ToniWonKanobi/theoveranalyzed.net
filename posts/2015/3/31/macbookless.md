@@ -14,7 +14,7 @@ In short, I loved that laptop.
 
 That said, I think I will love the new MacBook even more. So I sold the MacBook Air in anticipation for buying the new one as soon as it comes out. Consequently, I have been hobbling along without OS X for almost a week now. It has been ... an experience. I will share some of that here.
 
-<hr class="small" />
+***
 
 I am writing this post on my iPhone 6 Plus, using a paired [Bluetooth keyboard][amazon]. And the last few posts I have put out---those have all been written in a similar fashion. Truly, the keyboard makes writing immensely better than without it. I can't imagine thumb typing my ~1000 word posts due to the limitations of iOS. 
 
@@ -24,7 +24,7 @@ The biggest take-home for me is that iOS, while seemingly an oasis for distracte
 
 Federico Viticci has been using iOS (mostly his iPad Air 1 slash 2) as his [main operating system for years][macstories]. When I say "main," I mean "*main*." Viticci doesn't just use his iPad on the go: he uses it at home as well. In fact, he uses his iPad about as much as I used my MacBook. That's a lot. 
 
-<hr class="small" />
+***
 
 Going without a MacBook meant going without a keyboard. But more important than that: going MacBookless meant going without OS X. And that hurts even *more* than the lack of an integrated keyboard. 
 
@@ -42,7 +42,7 @@ There are other aspects of OS X that I miss when it comes to writing. While the 
 
 I also miss small things like easy affiliate linking. I recently started using an app called [Affiliate][apple 6], which is a menubar service that monitors the clipboard for Amazon or iTunes product links. If a link is copied to the clipboard, Affiliate automatically appends my affiliate tag before copying that new link to the clipboard. [Blink][apple 7] is an iOS app that aims to do something similar, but ultimately cannot replace Affiliate due to limitations in iOS. The same, but different. 
 
-<hr class="small" />
+***
 
 My MacBookless <s>horror</s> adventure will be over soon enough. And when it is all said and done, it will have been a good experience. 
 

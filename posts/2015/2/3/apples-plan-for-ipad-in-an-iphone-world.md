@@ -24,7 +24,7 @@ Cybart's words here are especially fitting:
 Tim Cook made a similar case in last year's September event:
 > This is the strongest line-up of products that Apple has ever had. And we believe that each one of these play a very important role. **People need different types of technology for the way they live their lives. We all do different things** [emphasis mine]
 
-<hr class="small">
+***
 
 I struggled for the past couple of years to find a way for iPad to fit into my life. I love the device in and of itself. Every year it gets better[^b]. And every year I am tempted to buy the next model, if I don't actually buy it[^bi]. The problem is, it never worked into my workflows. Most recently, I got an [iPad mini 3][theoveranalyzed] to take with me to work. It seemed like a great decision at the time. I could have my iPhone 6 or quick texts and Tweetbot sessions, and then at lunch, or during lulls, I could grab the iPad and consume slash watch things on a bigger screen.[^wt] I liked that well enough.
 

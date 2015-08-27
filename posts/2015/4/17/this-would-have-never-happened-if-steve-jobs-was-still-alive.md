@@ -5,7 +5,7 @@
 
 In a [Medium][medium] post, Apple's head of environmental initiatives, Lisa Jackson, detailed their plan to convert some 32,000 acres in Maine to a [working forest][familyforests] (PDF) that will support their initiative to have environmentally-friendly packaging. According to [AppleInsider][appleinsider], "The commitment made by Apple will provide the company with a steady supply of sustainably harvested timber for paper and pulp mills".
 
-<hr class="small" />
+***
 
 I thought about this a bit yesterday: Apple's motivations, Tim Cook's motivations, etc. For Apple, this *could* just be a PR move. Everyone likes environmentally-friendly companies. Apple *could* just be doing this for the headline. And maybe Cook is doing this for the same reasons? Maybe he is looking for a way to set himself apart from Apple's 'forever' CEO? 
 

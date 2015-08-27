@@ -200,7 +200,7 @@ You can test that the plugin is working by editing a sample post and launching a
 
 <img src="http://d.pr/i/BuH9+" />
                                           
-<hr class="small" />
+***
 
 There are other aspects of TheOverAnalyzed that took some tweaking. I might detail those changes someday. But the bulk of the changes I made to underlying structure Camel are detailed in this post. 
 

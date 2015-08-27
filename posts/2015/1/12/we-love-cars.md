@@ -34,7 +34,7 @@ What is important for you to know is that my grandfather was probably the most i
 
 So you can imagine, then, just how special it was for me to have his approval. After all, the Corvette was [America's Only True Sports Car][amazon 2]. For the rest of the time that I knew him, I was totally content being a Corvette fan. The C5, and especially the [C6][wikipedia 8]), made Corvette a true contender against the venerable [996][wikipedia 9]'s and [997][wikipedia 10]'s. [If you continue reading on, you will see just how much my tastes have changed.] Back then, inspired by my grandpa's love of GM stuff, I became another blind supporter of the American automobile---as long as it was from GM---and the Corvette especially.
 
-<hr class="small" />
+***
 
 My undergraduate experience was life-changing, no doubt. I made [friends][twitter] there that I still have, I met my [wife][twitter 2] there, and I chose my [profession][wikipedia 11] there. Precious. Ignoring those more important life consequences, one interesting change I went through concerned my car preferences. That was partially inspired by the car culture I discovered on the third floor of [Grainger][wikipedia 11]. Several of my hall-mates either had nice cars, or talked about them incessantly. At first, my devotion to America's "great for the money" sports car was unwavering. When they talked about the then 'it' sports cars like the [E46 M3][wikipedia 12] and [E92 M3][wikipedia 13]'s, or the 997, my response was the typical "Yeah, but *for the money*, the [Z06][wikipedia 8] beats those cars because *xyz.*" (Any car with fans decrying how good it is for the money has serious identity issues. Even Jay Leno regards Corvette with [price in mind][youtube].)
 
@@ -51,7 +51,7 @@ There was no going back.
 
 That car was an [engineering masterpiece][honda-nsx]. By the time I discovered this car, it had already [ceased production][nsxprime]. It was created for one purpose: murder the Ferrari [328][wikipedia 17]/[348][wikipedia 18]. [Oh, and history [repeats itself][jalopnik].] And murder it, it did: The all aluminum body was supremely rigid, and thanks to a [certain F1 superstar][wikipedia 19]'s stamp of approval, the automotive community instantly fell in love. It was the [supercar anyone could drive][petrolicious]. Dentists, lawyers, [CEOs][businessinsider], and any number of [corporate yuppies and movie stars][nsxprime 2] could get in an drive fast like the pros. Yay. 
 
-<hr class="small" />
+***
 
 This NSX was my halo car until [graduate school][llu] where, guess what, I met a bunch of other people who, guess what, had different tastes than me. Eventually, I caught the Porsche bug. (Apparently, the de facto dentist car is the 911).
 
@@ -62,7 +62,7 @@ This NSX was my halo car until [graduate school][llu] where, guess what, I met a
 
 The 911 has had very few iterations of the years. It mirrors Corvette in that way. The truly classic lines are, well, classy. The [automotive prowess][wikipedia 20] accompanying the brand puts others to shame. The most modern yet still old version of this car is the [964][wikipedia 21] generation, neatly nestled in the 911's history with a quaint 5 years of production. What followed was a much more [modern model][wikipedia 22] (by Porsche standards), and the then came the crazy concept of cooling the engine by water and not just air. Silly Germans. Everything changed for the 911 after that.
 
-<hr class="small">
+***
 
 In preparing for this post, I did a fair amount of self-reflection. A lot of that was so that I could be sure to do my grandpa justice when writing about him. I hope I did.
 

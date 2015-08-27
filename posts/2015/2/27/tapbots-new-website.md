@@ -20,7 +20,7 @@ Ecstatic with the concept of apps (this was my first iPhone), I downloaded both 
 
 While Tweetbot 2's visual esthetic was, in 2012, much heavier and less 'flat'[^flt] than Twitterrific's at the time, I loved the look. Combined with my preference for the Tweetbot esthetic, the power user features also made Tweetbot more compelling for me than Twitterrific. 
 
-<hr class="small">
+***
 
 Yesterday, Tapbots launched their newly-redesigned website. They had [this][tapbots] to say about the change:
 >Welcome to the new tapbots.com! We hope this long overdue refresh is a better place to stay up to date with our apps. Our goal this year is to not only ship updates on a more regular basis, but also provide more insight into what we are currently working on. So lets get on to the important bits of information.

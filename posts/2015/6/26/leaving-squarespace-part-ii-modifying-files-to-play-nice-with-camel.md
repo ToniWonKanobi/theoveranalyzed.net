@@ -159,7 +159,7 @@ Neither inline footnotes nor multi-paragraph footnotes are supported by Byword. 
 	<figcaption class="long">While Byword may not be able to understand inline and/or multi-paragraph footnotes, Camel can thanks to <code>markdown-it-footnote</code></figcaption>
 </figure>
 
-<hr class="small" />
+***
 
 During the two solid weeks I spent transitioning to Camel, most of my time dealt with tweaking how the site looked (the topic of a future post in this series). Second only to that was re-formatting my old posts. Most days, I would get home around 5-6 PM, and after eating dinner, I was glued to my MacBook, re-writing the image syntax and making other small. It was arduous, but so worth it in the end. Stay tuned for the next post in the series.
 

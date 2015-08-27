@@ -24,7 +24,7 @@ Obviously, that was then, and this is now. Every year it seems more and more pla
 
 After all my hyperbole, you can, therefore, imagine my delight upon navigating to Cotton Bureau's website. 
 
-<hr class="small">
+***
 
 This was Patagonia's website when I navigated there today: 
 
@@ -37,7 +37,7 @@ I recall a pleasant phone conversation with a sales representative for Patagonia
 
 Wow. How refreshing. 
 
-<hr class="small">
+***
 
 And how about Toms?
 

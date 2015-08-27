@@ -21,7 +21,7 @@ In a nutshell, Ben argues that instead of blindly supporting Net Neutrality, whi
 
 While paying more per month is never an ideal situation, I think privacy and net neutrality advocates would gladly accept higher monthly costs in exchange for absolute transparency and a free internet. 
 
-<hr class="small" />
+***
 
 Here's Nilay Patel and Chris Plant discussing Net Neutrality's big development last week:
 

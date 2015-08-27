@@ -15,7 +15,7 @@ Reece:
 
 [Guilty as charged.][theoveranalyzed] 
 
-<hr class="small" />
+***
 
 For the longest time, footnotes were my blogging [white whale][urbanup]. I remember seeing them on some of Marco’s posts and thinking, “Man, I really want to do that.”
 
@@ -25,7 +25,7 @@ When I first started out, I thought it would be impossible for me to do that, si
 
 And Reece makes a good point: if they are being used so much as to distract the reader, the author is doing something wrong. 
 
-<hr class="small" />
+***
 
 If I look back at some of my posts, I’m sure I could find evidence of all the above examples. It’s like getting a new [fast] car after having driven a not so new [or fast] one for a long time. Don’t you think it would be hard to *not* use the heck out of that new [fast] GT3 after put-put’ing around with a Honda Civic for all of your 20’s? Wouldn’t it be hard to *not* drive at 100% all the time? Of course it would be hard. 
 

@@ -42,7 +42,7 @@ And finally, Kirk posits his great thesis in response to Stewart:
 >
 >I notice a consistent pattern in Apple’s critics. Those that understand Apple the least, criticize Apple the most. If you want me to believe that you understand the reasons why Apple will fall, first demonstrate to me that you understand the reasons why Apple grew at all and grew so tall. Until then, I’ll remain skeptical of the doomsayers. For while I have great respect for the opinions of many Apple observers, I still believe that the secret to Apple’s success…remains a secret.
 
-<hr class="small"/>
+***
 
 John Gruber recently [retweeted][twitter] a video in which a guy tirades for nearly twenty minutes on 'everything that was wrong' with Apple's [Spring Forward][apple] event last week:
 

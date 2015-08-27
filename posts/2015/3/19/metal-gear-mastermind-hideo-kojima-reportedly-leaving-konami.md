@@ -7,7 +7,7 @@
 Andrew Webster for The Verge, reporting [Gamespot's][gamespot] scoop:
 >After much speculation, it looks like the brains behind the Metal Gear Solid series is leaving publisher Konami.
 
-<hr class="small">
+***
 
 It was Thanksgiving break, and I was a freshman in [high school][cvcaonline]. And all I wanted to do was play [Metal Gear Solid 2: Sons of Liberty][wikipedia].
 

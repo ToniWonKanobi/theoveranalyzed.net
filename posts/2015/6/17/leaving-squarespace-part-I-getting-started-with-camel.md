@@ -185,7 +185,7 @@ To accomplish this, uncomment these lines of code in `camel.js`:
 
 What this does is allow you to make changes to CSS, or posts, or whatever---all without having to close and re-deploy the local version of your site.[^ex]
 
-<hr class="small" />
+***
 
 If you didn't have too much trouble with this tutorial, I doubt you'll have any with future posts in this series. The next step: making all the old files work with Camel. Stay tuned.
 

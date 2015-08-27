@@ -42,7 +42,7 @@ Not until Becoming Steve Jobs have I considered reading a book in my downtime. D
 
 Also, the fact that I am holding something *physical* and tangible is not lost on me. If I am holding a book, I am not holding my iPhone. In fact, it's probably in my pocket. That makes it more bothersome, and therefore, less tempting to press the home button and look for another app silo to tap into. This physical separation from my electronic device allows me to read away, with little distraction, just like people of old, before all the screens. Becoming Steve Jobs might just be the perfect way to re-introduce me to reading: less stress, more relaxation.
 
-<hr class="small" />
+***
 
 I'm almost halfway through Becoming Steve Jobs and I am enjoying it so far. This is in stark contrast to the opinions of long-time Apple devotees Jason Snell and John Siracusa. On the latest episode of [Upgrade][overca], both admitted they weren't entirely pleased with the authors' presentation of Steve Jobs or Apple on the whole. 
 
@@ -65,7 +65,7 @@ According to Schlender, Lasseter was worried, to say the least:[^be]
 
 Even then, before the [Tin Toy (1989)][wikipedia 2] and the [Oscar][youtube 2], Pixar *was* animation. Today, nothing's changed. Pixar is still about the stories through brilliant animation. If you haven't watched anything from Pixar, start with [Toy Story (1995)][wikipedia 3], and then just go through them all, up until today. I really like [Cars (2006)][wikipedia 4]), though I can admit that it probably wasn't, cinematically-speaking, the best Pixar film ever.[^all]
 
-<hr class="small">
+***
 
 Becoming Steve Jobs is an exploration into the parts of Steve Jobs' life that Apple nerds care about. It glosses over all the personal relationship stuff that formed the basis of [Isaacson's biography][amazon 2]. Instead, Schlender and Tetzeli paint the picture of a man who got kicked out of the company he founded. They show us a man who desperately needed to start something new, but ultimately failed at what would be his next endeavor as well. And after gaining some managerial skills from his little animation house, they show us how he comes back to the company he started, this time with the skills necessary to catalyze a monumental change in the personal computer industry, and later on, the entire consumer electronics space.
 

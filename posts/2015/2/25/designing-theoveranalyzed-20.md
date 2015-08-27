@@ -274,7 +274,7 @@ I also used the Circle Logo to make the browser favicon:
 	<figcaption>Favicon</figcaption>
 </figure>
 
-<hr class="small">
+***
 
 I spent a fair amount of time trying to use my (`Logo.svg`) in place of the static image Squarespace uses for the logo. This was important to me because I wanted everything about my site to look good on Retina displays. And, even though most humans wouldn't zoom in to this level:
 
@@ -319,7 +319,7 @@ iPhone:
 	<figcaption>iPhone, portrait</figcaption>
 </figure>
 
-<hr class="small" />
+***
 
 # Conclusion
 

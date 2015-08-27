@@ -5,7 +5,7 @@
 
 This post's title came from The Onion's [piece][pie] immediately following Steve Jobs' passing on October 5, 2011. How appropriate.
 
-<hr class="small">
+***
 
 This weekend marked the third anniversary of Steve Jobs death. I am too young to remember JFK's assassination (though, I do remember where I was when I heard of JFK Jr's death). Likewise, I am also too young to remember the assassination of MLK Jr. I remember 9/11 quite vividly, and I remember where I was when I heard that Michael Jackson died (racing go-karts in Northern California). 
 
@@ -23,7 +23,7 @@ You could say that podcasts are one of the main reasons I am writing this post.
 
 I have been wanting to write something this for a while. If for no other reason,  just to share my adoration for my favorite podcast [applications][overcast], and the indie [developers][marco] (and [these guys][supertop] too) who create them. It is because of podcasts that I am revisiting an event that happened three years ago, one that did not mean nearly as much to me then as it does now. Through podcast discovery, I have listened to old episodes of [The Talk Show][5by5], [Build & Analyze][5by6], and [Hypercritical][5by7] (man, [Dan Benjamin][twitter 2] had some sweet podcast hosts back in the day). I have poured over old [Daring Fireball][daringfireball 2], [Marco.org][marco 2], and [Ars Technica][arstechnica] posts regarding Steve's passing. 
 
-<hr class="small">
+***
 
 This blog entry isn't a tribute to Steve as much as it is to the people whose opinions and stories I value so greatly. I am writing this post via Squarespace on, you guessed it, a product from Steve's company. Tomorrow I will go to work and on the commute to and from, I will listen to people talk about technology and other topics I love on, you guessed it, another product from Steve's company. When I go home tomorrow night I might turn on a device that allows me to watch things I purchased on my phone on my TV. That product, you guessed it, came from Steve's company as well. My wife will do the same. And so will almost everyone I know. 
 

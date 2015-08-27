@@ -18,7 +18,7 @@ Why does this happen? Has this happened before?
 
 Of course it has. It happens all the time. 
 
-<hr class="small">
+***
 
 Rewinding the tape a few more years brings us to the year 2000. I was in the 7th grade. And despite all the [Y2K][wikipedia 2] hubbub, my grandparents thought it best to fashion our household with a personal computer, so we children could learned ourselves. Typing was very important, they felt. My grandmother worked for a large firm in Silicon Valley contracted with government entities to build electronic components destined for F-16s, among other things. Pretty gangster if you ask me. Living and working in San Jose brought with it a certain pizzazz for The Valley. And as such, her exposure to the personal computer was mostly rooted in the romantic concept of [entrepreneurial nerds making revolutionary products][wikipedia 3]. That is, when she wasn't being personally terrified of the personal computer. The last thing she wanted was for her grandchildren to be as aloof, if not paralyzed, by the prospect of working with computers as she was. So she got us a computer: The [Compaq Presario 5280][ebay]. Thing had an [Iomega Zip drive][wikipedia 4] and everything. And just like everyone else, we never used it. Still: so tight.  
 

@@ -5,7 +5,7 @@
 
 It struck me as odd when The Verge, one of the more prominent 'modern' online *tech* publications, ran an [oped][theverge] by Elizabeth Lopatto, outlining an apparent battle of sorts between a [freelancer][wikipedia] for [The New Yorker][newyorker] and the [Audubon Society][audubon]. The topic? Animal advocacy and climate change---neither one directly related to technology.
 
-<hr class="small"/>
+***
 
 Since The Verge's [inception in 2011][theverge 2], when a bunch of [Engadget guys left that AOL-owned publication and struck out on their own][mashable], it has not been afraid to report on issues that are only *mildly*---if at all---related to the status quo of technology reporting such as Apple, Google, Amazon, and the like. 
 
@@ -30,7 +30,7 @@ As an aside, consider my [RSS subscriptions][d]. In my so-called "Favorites" fol
 
 This doesn't even include the technology sites I follow in RSS/Twitter[^tw]
 
-<hr class="small" />
+***
 
 Some [URL slug sneakery][theverge 4] on the part of yours truly shows for the past few years, The Verge has dedicated around one article per month to animals. 
 

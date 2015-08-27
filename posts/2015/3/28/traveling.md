@@ -39,7 +39,7 @@ Perhaps it was my having been separated from my wife for a few days that had me 
 
 Some of them might have been businesspeople, sure. Perhaps in-between meetings or conferences or something of that sort? But if what I saw in that pickup area was any indication of the 'business or pleasure'-ness of their travels, it would seem that most of them were traveling to get to reach other people, to *connect with people they cared about*.
 
-<hr class="small">
+***
 
 Being as enthralled with technology as I am, sometimes the actuality of just how far we've come is rather lost on me. Right now, I am typing on a Bluetooth keyboard whose inputs are being projected on a 5.5" piece of touchscreen glass.[^ts] We couldn't have even imagined doing something similar before 2007. 
 

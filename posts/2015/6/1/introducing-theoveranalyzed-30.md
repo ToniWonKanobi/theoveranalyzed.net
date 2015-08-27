@@ -24,7 +24,7 @@ Making all my old Markdown files play nice with Camel was easy, but extremely ti
 
 Camel came with several nifty Markdown plugins, but I wanted more. 
 
-<hr class="small"/>
+***
 
 In the meantime, please explore the new site! I'm pretty proud of it. And as always, thanks for reading.
 

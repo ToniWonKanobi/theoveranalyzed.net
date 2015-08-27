@@ -17,7 +17,7 @@ Via voiceover, Mark Hamill:
 And Carrie Fisher:
 >It couldn't be more exciting. It's still surreal.
 
-<hr class="small" />
+***
 
 This is going to be amazing. 
 

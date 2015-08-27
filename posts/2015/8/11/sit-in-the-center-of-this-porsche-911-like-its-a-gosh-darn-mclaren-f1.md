@@ -28,7 +28,7 @@ From the auction's description:
 
 Pretty neat. Although definetly *[not][youtube 2]* very McLaren F1-ish.
 
-<hr class="small">
+***
 
 Mecum suggests that the car should go for something in the range of $85,000 to $115,000. Even for this one-off, that's a lot of money. For that amount of coin, you could buy [this][ebay] and have a real daily / trackday weapon.
 
