@@ -69,8 +69,8 @@ En dashes are appropriate to signify a range of values, such has the year range 
 <h2 class="tablecaption" id="table1.1">Table 1.1 &ndash; Incorrect use of Hyphens</h2>
 
 | Sample Text | `markdown-it` ([CommonMark][cm]) Parse |  
-| :---------------: | :---------------------------------------------------------: |  
-| `2015-2016` |                            2015-2016                             |
+| :---------: | :------------------------------------: |  
+| `2015-2016` |                2015-2016               |
 
 </div>
 
@@ -78,9 +78,9 @@ En dashes are appropriate to signify a range of values, such has the year range 
 
 <h2 class="tablecaption" id="table1.2">Table 2.2 &ndash; Correct use of en dash</h2>
 
-| Sample Text | `markdown-it` ([CommonMark][cm]) Parse |
-| :---------------: | :---------------------------------------------------------: |
-| `2015-2016` |                    2015&ndash;2016                       |
+| Sample Text | `markdown-it` ([CommonMark][cm]) Parse |  
+| :---------: | :------------------------------------: |  
+| `2015-2016` |             2015&ndash;2016            |
 
 </div>
 
@@ -97,12 +97,12 @@ Not only were `.entry`-level headings made too big compared to the regular font 
 
 <h2 class="tablecaption" id="table2.1">Table 2.1 &ndash; Previous Font Sizes</h2>
 
-| Sample Text | Text Type | HTML & CSS Classes |
-| :---------------- | :-------------| :---------------------------: |
-| Blah | Body text | `<p>`, `<blockquote>` |
-| <span style="font-size:1.75em">Blah</span> | Headings | `<h1>`, `<h2>` |
-| <span style="font-size:2em">Blah</span> | "Homepage" post titles | `.homepage .postTitle` |
-| <span style="font-size:2.2em">Blah</span> | "Permalink" post title | `.post .postTitle` |
+| Sample Text                                | Text Type              |   HTML & CSS Classes   |  
+| :----------------------------------------- | :--------------------- | :--------------------: |  
+| Blah                                       | Body text              |  `<p>`, `<blockquote>` |  
+| <span style="font-size:1.75em">Blah</span> | Headings               |     `<h1>`, `<h2>`     |  
+| <span style="font-size:2em">Blah</span>    | "Homepage" post titles | `.homepage .postTitle` |  
+| <span style="font-size:2.2em">Blah</span>  | "Permalink" post title |   `.post .postTitle`   |
 
 </div>
 
@@ -112,12 +112,12 @@ Note that in Table 2.1 above, I left the font weight unchanged. The differences 
 
 <h2 class="tablecaption" id="table2.2">Table 2.2 &ndash; Previous Font Sizes with <code>font-weight</code> Applied</h2>
 
-| Sample Text | Text Type | HTML & CSS Classes | `font-weight` |
-| :---------------- | :-------------| :---------------------------: | :----------------: |
-| Blah | Body text | `<p>`, `<blockquote>` | 300 |
-| <span style="font-size:1.75em;font-weight:600">Blah</span> | Headings | `<h1>`, `<h2>` | 600 |
-| <span style="font-size:2em;font-weight:800">Blah</span> | "Homepage" post titles | `.homepage .postTitle` | 800 |
-| <span style="font-size:2.2em;font-weight:800">Blah</span> | "Permalink" post title | `.post .postTitle` | 800 |
+| Sample Text                                                | Text Type              |   HTML & CSS Classes   | `font-weight` | 
+| :--------------------------------------------------------- | :--------------------- | :--------------------: | :-----------: |  
+| Blah                                                       | Body text              |  `<p>`, `<blockquote>` |      300      |  
+| <span style="font-size:1.75em;font-weight:600">Blah</span> | Headings               |     `<h1>`, `<h2>`     |      600      |  
+| <span style="font-size:2em;font-weight:800">Blah</span>    | "Homepage" post titles | `.homepage .postTitle` |      800      |  
+| <span style="font-size:2.2em;font-weight:800">Blah</span>  | "Permalink" post title |   `.post .postTitle`   |      800      |  
 
 </div>
 
@@ -135,11 +135,11 @@ I'm bound to spend more time with Butterick's Practical Typography. There's just
 
 After publishing this post, I stumbled upon an old [review][mw] from Jason Snell, former *editorial director* for Macworld:
 
-<img src="http://d.pr/i/7mEj+" style="border: 2px solid #ddd;border-radius: 0.2em" alt="Jason Snell em dash misuse" />
+<img class="jpg" src="http://d.pr/i/7mEj+" alt="Jason Snell em dash misuse" />
 
 And check out the [latest][vox] from Ezra Klein---*editor-in-chief* for Vox:
 
-<img src="http://d.pr/i/12BRl+" style="border: 2px solid #ddd;border-radius: 0.2em" alt="Ezra Klein em dash misuse" />
+<img class="jpg" src="http://d.pr/i/12BRl+" alt="Ezra Klein em dash misuse" />
 
 Looks like I wasn't alone in my incorrect usage of en/em dashes.
 

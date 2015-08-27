@@ -43,6 +43,8 @@ Text
 
 Text
 
-JPG-only <img src="imagelink" style="border: 2px solid #ddd;border-radius: 0.2em" alt="" />
+JPG<img class="jpg" src="imagelink" alt="alttext" />
+
+PNG<img src="imagelink" alt="alttext" />
 
 </div>
