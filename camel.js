@@ -10,17 +10,17 @@ var qfs = require('q-io/fs');
 var sugar = require('sugar');
 var _ = require('underscore');
 var markdownit = require('markdown-it')({
-	html: true,
-	xhtmlOut: true,
-	typographer: true
-   })
+		html: true,
+		xhtmlOut: true,
+		typographer: true
+   	})
 	.use(require('markdown-it-footnote'))
 	.use(require('markdown-it-anchor'), {
-	permalink: true,
-	permalinkSymbol: '¶'
+		permalink: true,
+		permalinkSymbol: '¶'
 	})
 	.use(require("markdown-it-table-of-contents"), {
-	includeLevel: 1,
+		includeLevel: 1,
 	});
 var Rss = require('rss');
 var Handlebars = require('handlebars');

@@ -58,6 +58,7 @@
     "handlebars": "^2.0.0",
     "markdown-it": ">4.2.2",
     "markdown-it-anchor": "^2.1.0",
+    "markdown-it-container": "^1.0.0",
     "markdown-it-footnote": ">0.1.0",
     "markdown-it-table-of-contents": "0.1.2",
     "q-io": "^1.11.6",

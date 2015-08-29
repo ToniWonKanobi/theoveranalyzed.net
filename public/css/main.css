@@ -1,3 +1,12 @@
+/* 
+body: #545454
+meta/quote: #9e9e9e
+links: #3f70a2
+hover: #2e8eef
+pre: #eee
+update: rgba(63, 110, 162, 0.11)
+*/
+	
 .content {
 	text-align: left;
     max-width: 620px;
@@ -9,12 +18,13 @@
   	min-height: 25vh 	/* Sets minimum page height for short pages like `/404` or `/about` */
 }
 
+/* Refer to Matthew Butterick's Practical Typography for font size philosophies: http://practicaltypography.com/point-size.html */
 body {
 	font-size: 13pt;
-	margin: 0;
+	margin: 0; /* Prevents white space padding */
     color: #545454; 
     line-height: 1.6;
-	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Avenir", -apple-system, sans-serif;
+	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Avenir", -apple-system, sans-serif; /* Thanks to Craig Hockenberry for the `-apple-system` tip: http://furbo.org/2015/07/09/i-left-my-system-fonts-in-san-francisco/ */
 	font-weight: 300
 }
 
@@ -22,7 +32,7 @@ i, em { font-style: italic }
 
 b, strong { font-weight: 600 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4 {
     margin: 1.2em auto -0.3em auto;
     font-weight: 600
 }
@@ -32,6 +42,8 @@ h1 { font-size: 1.5em }
 h2 { font-size: 1.25em }
 
 h3 { font-size: 1em }
+
+h4 { font-size: 0.9em }
 
 a {
 	text-decoration: none;
@@ -70,6 +82,7 @@ blockquote {
     border-left: 5px solid #dbdbdb
 }
 
+/* "Top banner" size and `margin-bottom` concepts cribbed from Marco Arment: http://www.marco.org/main12.css */
 #masthead {
    width: 100%;
    height: 165px;
@@ -126,7 +139,6 @@ figure.figright {
 	margin: 0.5em 0.5em 1em 2em
 }
 
-/* MacStories-style images */
 figure.twoleft,
 figure.tworight {
 	width: 48%;
@@ -167,13 +179,6 @@ pre {
     background-color: #eee
 }
 
-pre code {
-    font-size: 0.9em;
-    overflow: auto;
-}
-
-.homepage pre code { white-space: pre-line }
-
 code {
 	font-style: normal;
     font-family: "Monaco", monospace; 
@@ -185,8 +190,16 @@ code {
     background-color: #eee
 }
 
-/* Fixes the wonkey border-bottom hover on code blocks */
+/* Removes `border-bottom` hover on code blocks */
 a code:hover { padding-bottom: 1px }
+
+pre code {
+    font-size: 0.9em;
+    overflow: auto;
+}
+
+/* Fixes `markdown-it` `.homepage` fenced code block funkiness */
+.homepage pre code { white-space: pre-line }
 
 audio { width: 100%; }
 
@@ -199,18 +212,14 @@ audio { width: 100%; }
 .entry ol {
 	padding-left: 1em;
 	margin: 1em 0 1em .5em
-   /*list-style: circle;*/
 }
-
-/*.homepage .article th,
-.homepage .article td,
-.post th,
-.post td { padding: 0 0.5em 0 0.5em }*/
 
 table.sortable thead { cursor: default }
 
-div.table { overflow-x: scroll }
+/* Keeps wide tables from overwhelming the layout on mobile */
+.table { overflow-x: scroll }
 
+/* Table styles cribbed from Byword's Marked CSS: http://bywordapp.com/extras/index.html */
 table {
     margin-left: auto;
     margin-right: auto;
@@ -238,6 +247,7 @@ table th code {
 	border-radius: 3px;
 }
 
+/* This is only until CommonMark / `markdown-it` supports true table captions */
 h2.tablecaption {
 	font-size: 1.1em;
     margin: 0.75em 20% 0.75em 20%;
@@ -428,7 +438,8 @@ figure:nth-child(1) { margin-top: 1em }
 
 .update blockquote a { word-break: break-all }
 
-img.jpg {
+/* Makes the white background on jpgs less offensive */
+.update .jpg {
 	border: 2px solid #ddd;
 	border-radius: 0.2em
 }
@@ -445,9 +456,6 @@ img.jpg {
 	width: 30%
 }
 
-.takehome p,
-.takehomeLeft p { margin: 0 }
-
 .takehomeLeft {
 	color: #3f70a2;
 	float: left;
@@ -460,7 +468,10 @@ img.jpg {
 	width: 30%
 }
 
-/* Turned off until I can fix markdown-it-footnote */
+.takehome p,
+.takehomeLeft p { margin: 0 }
+
+/* Disabled until CommonMark / `markdown-it-footnote` gets fixed */
 .main hr.footnotes-sep {
     width: 10em;
     margin: 5em auto 1.5em 0;
@@ -605,6 +616,7 @@ a.footnote-backref:hover {
 		transition: all 1.5s ease-in
 	}
 	
+	/* Causes all floated images to collapse to center */
 	figure.figleft,
 	figure.figright,
 	figure.twoleft,
