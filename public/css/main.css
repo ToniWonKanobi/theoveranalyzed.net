@@ -10,8 +10,8 @@ update: rgba(63, 110, 162, 0.11)
 /* "Top banner" size and `margin-bottom` concepts cribbed from Marco Arment: http://www.marco.org/main12.css */
 #masthead {
    width: 100%;
-   height: 165px;
-   margin-bottom: -165px;
+   height: 170px;
+   margin-bottom: -170px;
    background-color: #3f70a2
 }
 
@@ -30,7 +30,7 @@ update: rgba(63, 110, 162, 0.11)
 
 .content .header #siteTitle img {
 	width: 80%;
-	margin: 2em auto -1.5em auto
+	margin: 2.15em auto -1.5em auto
 }
 
 .content .header #siteByline {
@@ -404,7 +404,7 @@ a.postTitleLinked  { color: #3f70a2 }
 a.postTitle:hover, 
 a.postTitleLinked:hover { color: #2e8eef }
 
-figure:nth-child(1) { margin-top: 1em }
+figure:nth-child(1) { margin-top: 1.25em }
 
 .topstory {
 	margin-top: 2em;
@@ -506,6 +506,10 @@ a.footnote-backref:hover {
     background: none;
     color: #2e8eef;
     border-radius: none
+}
+
+.post .main {
+	margin-bottom: 8em;
 }
 
 .homepage .day .articleDivider {
@@ -612,8 +616,8 @@ a.footnote-backref:hover {
 @media (max-width: 736px) {
 	
 	#masthead {
-	   height: 120px;
-	   margin-bottom: -120px
+	   height: 130px;
+	   margin-bottom: -130px
 	}
 	
 	.content {
@@ -628,7 +632,7 @@ a.footnote-backref:hover {
 	
 	.content .header #siteTitle img {
 	    width: 100%;
-	    margin-top: 1em
+	    margin-top: 1.25em
 	}
 	
 	.content .header #siteByline { margin: 1em auto }
