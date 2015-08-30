@@ -15,7 +15,7 @@ Revisiting [the story][ts] from months ago, here are some of the aspects working
 
 Silly CurrentC. I'm hopeful that this means all those retailers who specifically turned off Apple Pay NFC support will soon turn it back on.
 
-[From [John Moltz][verynicewebsite]]
+[From [Very Nice Website][verynicewebsite]]
 
 [ts]: /2015/1/27/tim-cook-calls-2015-the-year-of-apple-pay-as-service-takes-over-contactless-payments-market
 [verynicewebsite]: http://verynicewebsite.net/2015/08/currentc-sad-trombone/

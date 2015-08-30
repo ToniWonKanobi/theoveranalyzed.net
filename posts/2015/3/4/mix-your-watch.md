@@ -11,6 +11,6 @@ Pick your Apple Watch / strap combo:
 	<figcaption>Neat.</figcaption>
 </figure>
 
-[From [John Moltz][verynicewebsite]]
+[From [Very Nice Website][verynicewebsite]]
 
 [verynicewebsite]: http://verynicewebsite.net/2015/03/mixyourwatch/

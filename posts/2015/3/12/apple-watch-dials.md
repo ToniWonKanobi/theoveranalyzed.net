@@ -6,7 +6,7 @@
 
 [Another][theoveranalyzed] gem from the same guy who did [this][cssanimation].
 
-[From [Jim Dalyrmple][loopinsight]]
+[From [The Loop][loopinsight]]
 
 [cssanimation]: https://cssanimation.rocks/clocks/
 [loopinsight]: http://www.loopinsight.com/2015/03/12/apple-watch-activity-dial-in-css/

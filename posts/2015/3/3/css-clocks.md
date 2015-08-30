@@ -6,6 +6,6 @@
 
 This is so cool.
 
-[From [Jim Dalrymple][loopinsight]]
+[From [The Loop][loopinsight]]
 
 [loopinsight]: http://www.loopinsight.com/2015/03/03/css-clocks/
