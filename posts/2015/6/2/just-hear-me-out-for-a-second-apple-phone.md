@@ -10,7 +10,7 @@ The Verge's Chris Ziegler:
 >
 >There's no guarantee that Apple will update the phone's logo to match the Apple Watch's, of course, but it seems logical that that'd be the goal.
 
-<i class="fa fa-apple fa-fw"></i> tv, <i class="fa fa-apple fa-fw"></i> Pay, <i class="fa fa-apple fa-fw"></i> WATCH. Is <i class="fa fa-apple fa-fw"></i> PHONE next? 
+<i class="fa fa-apple"></i> tv, <i class="fa fa-apple"></i> Pay, <i class="fa fa-apple"></i> WATCH. Is <i class="fa fa-apple"></i> PHONE next? 
 
 Apple has indeed been moving away from it's "i" prefix, [established][everystevejobsvideo] in the early days of Steve Jobs' Apple 2.0. However, as many have suggested, dropping the "i" in "iPhone", while in keeping with their new brand direction, would go against every businessman's instinct. Obscuring the brand image of Apple's cash cow could potentially confuse buyers and separate Apple from its previous cachet that is *iPhone.*
 

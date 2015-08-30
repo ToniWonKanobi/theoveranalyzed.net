@@ -27,7 +27,7 @@ I have been wanting to write something this for a while. If for no other reason,
 
 This blog entry isn't a tribute to Steve as much as it is to the people whose opinions and stories I value so greatly. I am writing this post via Squarespace on, you guessed it, a product from Steve's company. Tomorrow I will go to work and on the commute to and from, I will listen to people talk about technology and other topics I love on, you guessed it, another product from Steve's company. When I go home tomorrow night I might turn on a device that allows me to watch things I purchased on my phone on my TV. That product, you guessed it, came from Steve's company as well. My wife will do the same. And so will almost everyone I know. 
 
-Thanks Steve <i class="fa fa-apple fa-fw"></i> 
+Thanks Steve <i class="fa fa-apple"></i> 
 
 [2nd]: https://en.wikipedia.org/wiki/IPod_Nano#2nd_generation
 [5by5]: http://5by5.tv/talkshow/56

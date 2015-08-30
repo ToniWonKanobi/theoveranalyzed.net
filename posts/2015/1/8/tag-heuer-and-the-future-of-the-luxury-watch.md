@@ -4,7 +4,7 @@
 @@ Description=Whose else is considering wearing the Apple Watch on one wrist, and their previous favorite watch on the other?  
 @@ Tags=Apple, Apple Watch, gear, culture, watches    
 
-What are all of us watch people going to do in [March][9to5mac] when the <i class="fa fa-apple fa-fw"></i> WATCH launches? 
+What are all of us watch people going to do in [March][9to5mac] when the <i class="fa fa-apple"></i> WATCH launches? 
 
 In the past year or so, I have become increasingly interested in the novelty of wristwatches. Hodinkee had a great [piece][hodinkee] that got me started. Unfortunately for me, all of those watches cost more than a [GT3][edmunds], which is just crazy.
 
