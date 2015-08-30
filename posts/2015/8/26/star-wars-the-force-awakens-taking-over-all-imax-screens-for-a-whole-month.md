@@ -33,5 +33,5 @@ Personally, I think 3D movies are nothing but headache-inducing. [I doubt I'm al
 Star Wars: The Force Awakens opens in both IMAX 3D and non-IMAX 3D versions December 18.
 
 [lifehacker]: http://lifehacker.com/5430492/focus-on-the-action-to-avoid-headaches-during-3d-movies
-[theoveranalyzed]: @@SiteRoot@@/tags/Star%20Wars:%20The%20Force%20Awakens
+[theoveranalyzed]: /tags/Star%20Wars:%20The%20Force%20Awakens
 [wikipedia]: https://en.wikipedia.org/wiki/Imax

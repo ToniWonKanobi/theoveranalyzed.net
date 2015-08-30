@@ -32,9 +32,9 @@ In the meantime, please explore the new site! I'm pretty proud of it. And as alw
 [^ph]: I could get pretty meta about the how and why of some of the things I have implemented on the site. 
 
 [github]: https://github.com/cliss/camel
-[tag]: @@SiteRoot@@/tags/Leaving%20Squarespace
-[theoveranalyzed]: @@SiteRoot@@/2015/6/17/leaving-squarespace-part-I-getting-started-with-camel
-[theoveranalyzed 2]: @@SiteRoot@@/2015/6/26/leaving-squarespace-part-ii-modifying-files-to-play-nice-with-camel
-[theoveranalyzed 3]: @@SiteRoot@@/2015/7/6/leaving-squarespace-part-iii-making-camel-my-own
+[tag]: /tags/Leaving%20Squarespace
+[theoveranalyzed]: /2015/6/17/leaving-squarespace-part-I-getting-started-with-camel
+[theoveranalyzed 2]: /2015/6/26/leaving-squarespace-part-ii-modifying-files-to-play-nice-with-camel
+[theoveranalyzed 3]: /2015/7/6/leaving-squarespace-part-iii-making-camel-my-own
 [twitter]: https://twitter.com/caseyliss/status/603267259855982592
 [twitter 2]: https://twitter.com/freekrai/status/600328265576763392

@@ -128,12 +128,12 @@ If the adoption of iOS 9 even remotely follows the adoption of all the previous 
 [imore 2]: http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it
 [loopinsight]: http://www.loopinsight.com/
 [murphyapps]: http://murphyapps.co/blog/2015/6/24/an-hour-with-safari-content-blocker-in-ios-9
-[ms]: @@SiteRoot@@/tags/Ditching%20Webfonts
+[ms]: /tags/Ditching%20Webfonts
 [pxlnv]: http://pxlnv.com/linklog/safari-content-blockers-shit-ass-websites/
-[sec]: @@SiteRoot@@/2015/7/15/ditching-webfonts
+[sec]: /2015/7/15/ditching-webfonts
 [sixcolors]: http://www.sixcolors.com
-[theoveranalyzed]: @@SiteRoot@@
-[thi]: @@SiteRoot@@/2015/7/19/ditching-webfonts-part-ii-hoefler-webfonts-are-prettier-but-slower
+[theoveranalyzed]: 
+[thi]: /2015/7/19/ditching-webfonts-part-ii-hoefler-webfonts-are-prettier-but-slower
 [twitter]: https://twitter.com/Coudal
 [wikipedia]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Difficulty_with_adoption
 [wikipedia 2]: https://en.wikipedia.org/wiki/World_Wide_Web_Consortium

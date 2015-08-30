@@ -10,7 +10,7 @@ Darren Murph of [Gear Patrol][gearpatrol]:
 
 I started listening to podcasts around this time last year. I had been following all the [usual suspects][feedbin] via RSS, and for whatever reason, hesitated to delve into podcasting. I am not sure why. But I do know that before I really caught on, podcasting as I knew it was what college kids did to talk about things on campus. It was associated with low-budget, ill-produced audio-only shows consisting of one or two people talking about nothing. And truthfully, that is what it was for most of us who were around for the beginning. My own college had very little in the way of podcasting, but what little they did that, retrospectively, was [fairly good for a college production][apple].
 
-Alas, I never listened back then. I do not suppose anyone could just 'get into' podcasting without wanting to listen to particular shows, as curating a great list of weekly listens is about as hard as [curating one's Twitter feed](@@SiteRoot@@/2014/2/3/how-to-clean-up-your-twitter-feed). 
+Alas, I never listened back then. I do not suppose anyone could just 'get into' podcasting without wanting to listen to particular shows, as curating a great list of weekly listens is about as hard as [curating one's Twitter feed](/2014/2/3/how-to-clean-up-your-twitter-feed). 
 
 But around the same time last year when I began to look into what the medium has to offer, I was also wondering what the podcast app market was like. It was a perfect storm of sorts, since, admittedly, the idea of a new native app to check out has always tickled my fancy. 
 
@@ -58,7 +58,7 @@ Season 2 of Serial [is in the works][serialpodcast 2]. Let us hope it's more lik
 [gearpatrol]: http://gearpatrol.com/2014/12/22/serial-putting-longform-radio-back-map/
 [idownloadblog]: http://www.idownloadblog.com/2013/12/13/castro-review/
 [instapaper]: https://www.instapaper.com/
-[jb]: @@SiteRoot@@/2014/2/2/soft-remix-a-winterboard-theme-for-ios-7
+[jb]: /2014/2/2/soft-remix-a-winterboard-theme-for-ios-7
 [macstories]: http://www.macstories.net/reviews/overcast-review/
 [marco]: http://www.marco.org/2013/09/23/overcast-coming-soon
 [missedinhistory]: http://www.missedinhistory.com/

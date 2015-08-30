@@ -121,8 +121,8 @@ It will only get better.
 [ebay]: http://www.ebay.com/sch/i.html?_nkw=space+gray+apple+watch+-38
 [ebay 2]: http://www.ebay.com/sch/i.html?_nkw=space+gray+apple+watch+-38&_sop=7
 [ebay 3]: http://www.ebay.com/itm/Apple-Watch-Sport-42mm-Space-Gray-IN-HAND-Overnight-Shipping-/141666860069
-[theoveranalyzed]: @@SiteRoot@@/2015/3/10/apple-watch-sport-or-apple-watch-collection#apple-watch
-[theoveranalyzed 2]: @@SiteRoot@@/2015/4/10/my-apple-watch-try-on-session-and-that-keyboard
-[theoveranalyzed 3]: @@SiteRoot@@/2015/3/4/getting-back-into-fitness
+[theoveranalyzed]: /2015/3/10/apple-watch-sport-or-apple-watch-collection#apple-watch
+[theoveranalyzed 2]: /2015/4/10/my-apple-watch-try-on-session-and-that-keyboard
+[theoveranalyzed 3]: /2015/3/4/getting-back-into-fitness
 [usatoday]: http://www.usatoday.com/story/tech/2014/09/11/iphone-preorder/15462107/
 [wikipedia]: https://en.wikipedia.org/wiki/Gamification

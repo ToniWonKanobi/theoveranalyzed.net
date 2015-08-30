@@ -72,7 +72,7 @@ For the first time ever, I knew more about something than most every adult I cam
 [loljunky]: http://loljunky.com/images/me-vs-normal-people-at-someones-house-1608.jpg
 [readwrite]: http://readwrite.com/2008/07/17/the_story_of_the_fail_whale
 [speedtest]: http://speedtest.org
-[theoveranalyzed]: @@SiteRoot@@/2015/1/5/facebook-is-the-new-aol
+[theoveranalyzed]: /2015/1/5/facebook-is-the-new-aol
 [vergee]: http://www.theverge.com
 [wikipedia]: https://en.wikipedia.org/wiki/AOL
 [wikipedia 2]: https://en.wikipedia.org/wiki/56_kbit/s_modem

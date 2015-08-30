@@ -9,4 +9,4 @@ How could [this][theoveranalyzed] get any better, you ask?
 [From [Devour][devour]]
 
 [devour]: http://devour.com/video/lego-star-wars-the-force-awakens-trailer-2/
-[theoveranalyzed]: @@SiteRoot@@/2015/4/16/chewie-were-home
+[theoveranalyzed]: /2015/4/16/chewie-were-home

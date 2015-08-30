@@ -111,7 +111,7 @@ So, I patiently await my opportunity to climb aboard the train I wish had never 
 [^noo]: I'm [not the only][scripting] one-man blogger denied early access
 
 [500ish]: https://500ish.com/facebook-instant-karma-4a4bd4f3eca
-[aol]: @@SiteRoot@@/2015/1/5/facebook-is-the-new-aol
+[aol]: /2015/1/5/facebook-is-the-new-aol
 [arstechnica]: http://arstechnica.com/gadgets/2015/05/developer-puts-web-browser-on-apple-watch-a-cool-hack-but-useless-for-now/
 [bs]: http://inessential.com
 [daringfireball]: http://daringfireball.net/linked/2015/05/14/facebook-instant-karma
@@ -120,7 +120,7 @@ So, I patiently await my opportunity to climb aboard the train I wish had never 
 [facebook 2]: https://www.facebook.com/theoveranalyzed/posts/357558501107031
 [kk]: http://kk.org/thetechnium/2008/03/1000-true-fans/
 [om]: http://om.co/2015/05/14/on-the-mobile-web-slow-speeds-kill/
-[nn]: @@SiteRoot@@/2015/2/3/my-take-on-net-neutrality
+[nn]: /2015/2/3/my-take-on-net-neutrality
 [overcast]: https://overcast.fm/+CdTTAD2o/1:19:44
 [pcmag]: http://www.pcmag.com/article2/0,2817,2399994,00.asp
 [saurik]: http://cydia.saurik.com/

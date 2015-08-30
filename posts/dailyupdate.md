@@ -40,7 +40,7 @@ Signup for the Daily Update below:
 [bt]: https://stratechery.com/membership/
 [mailchimp]: http://mailchimp.com
 [mailchimp 2]: http://kb.mailchimp.com/accounts/compliance-tips/terms-of-use-and-anti-spam-requirements-for-campaigns
-[move]: @@SiteRoot@@/2015/6/1/introducing-theoveranalyzed-30
-[rss]: @@SiteRoot@@/rss
-[rssa]: @@SiteRoot@@/rss-alternate
+[move]: /2015/6/1/introducing-theoveranalyzed-30
+[rss]: /rss
+[rssa]: /rss-alternate
 [twitter]: http://www.twitter.com/theoveranalyzed

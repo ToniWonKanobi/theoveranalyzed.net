@@ -16,6 +16,6 @@ Yes, 8,250 RPM. That's like, well, unheard of in an American muscle car. The pin
 
 [caranddriver]: http://www.caranddriver.com/features/2016-ford-mustang-shelby-gt350-feature
 [duckduckgo]: http://www.urbandictionary.com/define.php?term=slushbox&defid=453974
-[theoveranalyzed]: @@SiteRoot@@/2015/1/12/we-love-cars
+[theoveranalyzed]: /2015/1/12/we-love-cars
 [wikipedia]: https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C6)#Z06
 [wikipedia 2]: https://en.wikipedia.org/wiki/GM_small-block_engine#7.0_L

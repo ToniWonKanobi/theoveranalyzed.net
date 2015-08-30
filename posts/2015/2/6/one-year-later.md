@@ -54,11 +54,11 @@ Stay tuned for updates on my app, and, eventually, podcast. All in good time üê
 [atp 2]: http://atp.fm/episodes/102
 [bigfootjs]: http://www.bigfootjs.com
 [caseyliss]: http://www.caseyliss.com/2014/6/9/how-do-i-start-programming
-[http:]: http://@@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace
+[http:]: http:///2015/1/31/bigfoot-footnotes-in-squarespace
 [imore]: http://www.imore.com/debug
 [squarespace]: http://help.squarespace.com/guides/podcasting-with-squarespace
-[theoveranalyzed]: @@SiteRoot@@/2014/2/2/first-post-ever
-[theoveranalyzed 2]: @@SiteRoot@@/2014/12/23/serial
+[theoveranalyzed]: /2014/2/2/first-post-ever
+[theoveranalyzed 2]: /2014/12/23/serial
 [urbandictionary]: http://www.urbandictionary.com/define.php?term=nerd+dome&defid=1935462
 [wikipedia]: https://en.wikipedia.org/wiki/Objective-C
 [wikipedia 2]: https://en.wikipedia.org/wiki/Swift_(programming_language)

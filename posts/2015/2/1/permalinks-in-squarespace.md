@@ -111,13 +111,13 @@ Now, whenever I post a "Linked List" item, as long as the "External link" checkb
 [^hc]: Many of the sites I follow use a similar Linked List format as Daring Fireball. [Six Colors][sixcolors], [Marco.org][marco], [The Sweet Setup][thesweetsetup], [The Loop][loopinsight], [512 Pixels][512pixels], and more use this style of posting. And just like with Daring Fireball, sometimes I enjoy these authors' commentary on the links more than the actual content they are linking to.
 [^rss]: Or save to Instapaper
 [^af]: I trust the authors I follow more than the average website or Twitter account promoting content. And I have found many blogs I enjoy reading whose website was unknown to me until it was linked-to by Gruber or someone else. If he didn't include his commentary I may have never even followed the original link (again, out of laziness).
-[^pl]: I was copying and pasting the link string of the post and placing it in the appropriate location after "@@SiteRoot@@/" I then took that link and placed it at the bottom of every Linked-List style post I had made as "[Permalink]." It worked well enough, but what a [PITA][urbandictionary]. 
+[^pl]: I was copying and pasting the link string of the post and placing it in the appropriate location after `http://www.theoveranalyzed.net` I then took that link and placed it at the bottom of every Linked-List style post I had made as "[Permalink]." It worked well enough, but what a [PITA][urbandictionary]. 
 [^wa]: Come to find out, MacSparky was [doing something similar][macsparky], though he made use of a [TextExpander][smilesoftware] snippet.
 
 [512pixels]: http://www.512pixels.net
 [alexduner]: http://alexduner.com/blog/squarespace-permalinks
 [daringfireball]: http://daringfireball.net/2004/06/linked_list
-[fn]: @@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace
+[fn]: /2015/1/31/bigfoot-footnotes-in-squarespace
 [loopinsight]: http://loopinsight.com
 [macsparky]: http://macsparky.com/blog/permalinkingss
 [marco]: http://www.marco.org

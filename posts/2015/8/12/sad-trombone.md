@@ -17,5 +17,5 @@ Silly CurrentC. I'm hopeful that this means all those retailers who specifically
 
 [From [John Moltz][verynicewebsite]]
 
-[ts]: @@SiteRoot@@/2015/1/27/tim-cook-calls-2015-the-year-of-apple-pay-as-service-takes-over-contactless-payments-market
+[ts]: /2015/1/27/tim-cook-calls-2015-the-year-of-apple-pay-as-service-takes-over-contactless-payments-market
 [verynicewebsite]: http://verynicewebsite.net/2015/08/currentc-sad-trombone/

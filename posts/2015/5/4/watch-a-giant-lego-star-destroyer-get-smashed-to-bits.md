@@ -12,6 +12,6 @@ Note the [Bossk][wikia][^bo] and [Piett][wikia 2] callouts. Nice.
 [^bo]: I assume it was Bossk. His [outfit][gunaxin] is the only one resembling the "Bounty Hunter" in the shot. 
 
 [gunaxin]: http://gadgets.gunaxin.com/a-tribute-to-the-bounty-hunters-of-empire-strikes-back/56308
-[theoveranalyzed]: @@SiteRoot@@/2015/5/4/mark-hamill-star-wars-screen-test
+[theoveranalyzed]: /2015/5/4/mark-hamill-star-wars-screen-test
 [wikia]: http://starwars.wikia.com/wiki/Bossk
 [wikia 2]: http://starwars.wikia.com/wiki/Firmus_Piett

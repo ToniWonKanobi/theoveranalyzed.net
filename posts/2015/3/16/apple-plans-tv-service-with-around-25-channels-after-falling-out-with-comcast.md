@@ -9,4 +9,4 @@ Sam Byford, with The Verge:
 
 Like [I said][theoveranalyzed], HBO Now is only the beginning.
 
-[theoveranalyzed]: @@SiteRoot@@/2015/3/9/the-record-industry-reportedly-wont-let-apple-price-its-streaming-service-below-10
+[theoveranalyzed]: /2015/3/9/the-record-industry-reportedly-wont-let-apple-price-its-streaming-service-below-10

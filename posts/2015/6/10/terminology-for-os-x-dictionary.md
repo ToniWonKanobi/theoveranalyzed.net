@@ -29,6 +29,6 @@ Agile Tortiose is the same team that makes [Drafts][dra], a power-user note-taki
 [macstories]: http://www.macstories.net/stories/ipad-air-2-review-why-the-ipad-became-my-main-computer/
 [simp]: https://itunes.apple.com/us/app/simplenote/id289429962?at=1l3vx9s
 [term]: http://agiletortoise.com/terminology/mac/
-[theoveranalyzed]: @@SiteRoot@@/2015/3/31/macbookless
+[theoveranalyzed]: /2015/3/31/macbookless
 [typ]: http://vesperapp.co/blog/how-to-make-a-vesper/
 [ves]: https://itunes.apple.com/us/app/vesper/id655895325?at=1l3vx9s

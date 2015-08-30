@@ -25,4 +25,4 @@ His latest post deals with font weights and how designers must occasionally disr
 
 I've linked to Frere-Jones twice now, just in case anyone is keeping track.
 
-[theoveranalyzed]: @@SiteRoot@@/2015/3/15/typeface-mechanics-001
+[theoveranalyzed]: /2015/3/15/typeface-mechanics-001

@@ -47,7 +47,7 @@ Yes. Yes it is Patrick.
 [^mod]: 993 and below it seems, though the [previous offerings][cnet] by Porsche only worked for the truly classic-classic 911's, the pre-[SC][wikipedia 4] models
 
 [cnet]: http://www.cnet.com/news/classic-porsches-getting-oem-navigation-option/
-[theoveranalyzed]: @@SiteRoot@@/2015/2/13/the-honda-nsx
+[theoveranalyzed]: /2015/2/13/the-honda-nsx
 [wikipedia]: https://en.wikipedia.org/wiki/Porsche_964
 [wikipedia 2]: https://en.wikipedia.org/wiki/Bluetooth_low_energy
 [wikipedia 3]: https://en.wikipedia.org/wiki/Porsche_911#993_Series_.281994.E2.80.93mid_1998.29

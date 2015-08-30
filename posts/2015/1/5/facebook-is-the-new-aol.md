@@ -55,7 +55,7 @@ Maybe in ten years I will be formulating a similar post, one in which I detail t
 [scpr]: http://www.scpr.org/news/2013/07/05/38068/hawthorne-police-concerned-about-cyber-threats-aft/
 [socialbuzzpros]: http://www.socialbuzzpros.com/2014/11/04/is-facebook-still-important/
 [theguardian]: http://www.theguardian.com/technology/2013/nov/20/marketing-to-kids-on-social-media-facebook-and-twitter-are-not-enough
-[theoveranalyzed]: @@SiteRoot@@/2015/1/5/facebook-is-the-new-aol
+[theoveranalyzed]: /2015/1/5/facebook-is-the-new-aol
 [theverge]: http://www.theverge.com/2015/1/4/7488495/facebook-is-the-new-aol
 [theverge 2]: http://www.theverge.com/2015/1/1/7478987/box-office-attendance-hits-lowest-level-in-19-years
 [theverge 3]: http://www.theverge.com/2014/12/19/7420823/mpaa-decries-googles-shameful-attack-on-its-anti-piracy-program

@@ -13,7 +13,7 @@ Reece:
 
 >This trend of footnotes in blog posts is out of control. Maybe a couple footnotes work well in a very long Daring Fireball essay, **but in recent years bloggers are using footnotes everywhere in places where they’re just not necessary** [emphasis added]. They’re distracting and take you out of the story.
 
-[Guilty as charged.][theoveranalyzed] 
+Guilty as charged.
 
 ***
 
@@ -35,6 +35,5 @@ Thankfully, the ‘new fast car’ novelty eventually wears off, and then the ne
 [daringfireball]: http://daringfireball.net/2015/03/apple_watch_prelude#fn1-2015-03-07
 [manton]: http://www.manton.org/2015/03/footnotes.html
 [marco]: http://www.marco.org/2014/12/05/how-overcast-asks-for-reviews#fnref:pxx04GsSg1
-[theoveranalyzed]: @@SiteRoot@@/archive?category=posts#fnref:14506
-[theoveranalyzed 2]: @@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace
+[theoveranalyzed 2]: /2015/1/31/bigfoot-footnotes-in-squarespace
 [urbanup]: http://white-whale.urbanup.com/5468452

@@ -29,5 +29,5 @@ But at the end of the day, the audio experience is what matters. It's a podcast 
 [marco]: http://www.marco.org/2014/07/16/overcast
 [overcast]: http://overcast.fm
 [shiftyjelly]: http://www.shiftyjelly.com/android/pocketcasts
-[theoveranalyzed]: @@SiteRoot@@/2015/2/18/youre-listening-wrong-no-youre-not
+[theoveranalyzed]: /2015/2/18/youre-listening-wrong-no-youre-not
 [zdnet]: http://www.zdnet.com/article/lickable-buttons/#!

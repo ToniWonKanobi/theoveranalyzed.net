@@ -9,4 +9,4 @@ Mark Jardine, co-founder of Tapbots, in an interview for Ways We Work:
 
 A great read for [any][theoveranalyzed] Tapbots fan.
 
-[theoveranalyzed]: @@SiteRoot@@/2015/2/27/tapbots-new-website
+[theoveranalyzed]: /2015/2/27/tapbots-new-website

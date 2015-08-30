@@ -20,15 +20,15 @@ Those were the only two shows featured by Hirway that I was familiar with, but I
 [From [Mark Bramhill][twitter 2], the guy responsible for the [Welcome To Macintosh][macintosh] [podcast][overcast 2], which is a great listen for Apple fans]
 
 [apple]: https://itunes.apple.com/us/album/house-cards-music-from-netflix/id614723420?at=1l3vx9s
-[fns]: @@SiteRoot@@/2015/3/23/downton-abbey-ending-after-season-6
+[fns]: /2015/3/23/downton-abbey-ending-after-season-6
 [int]: https://overcast.fm/+BbKMSvfKM
 [jeffbeal]: http://www.jeffbeal.com/
-[lm]: @@SiteRoot@@/2015/1/11/watch-the-house-of-cards-season-3-trailer
+[lm]: /2015/1/11/watch-the-house-of-cards-season-3-trailer
 [macintosh]: http://www.macintosh.fm
 [overcast]: https://overcast.fm/+BbKNFZFfE
 [overcast 2]: https://overcast.fm/itunes970061020/welcome-to-macintosh
 [songexploder]: http://songexploder.net
-[to]: @@SiteRoot@@/2015/5/5/the-office
+[to]: /2015/5/5/the-office
 [twitter]: https://twitter.com/HrishiHirway
 [twitter 2]: https://twitter.com/SongExploder/status/596405937847439360
 [wikipedia]: https://en.wikipedia.org/wiki/House_of_Cards_(U.S._TV_series)

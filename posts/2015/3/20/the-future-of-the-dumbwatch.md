@@ -15,4 +15,4 @@ While I can hope my desire for a dumb watch will entitle it to be worn at least 
 
 Come May 1, I should have a better idea whether the dumbwatches of yore might still have a place on my wrist.
 
-[theoveranalyzed]: @@SiteRoot@@/2015/3/10/wearing-two-watches
+[theoveranalyzed]: /2015/3/10/wearing-two-watches

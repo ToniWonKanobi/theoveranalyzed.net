@@ -13,4 +13,4 @@ And, despite the sometimes depressing outlook animal advocates might fall victim
 
 Better more: I can't help but think that there's more good to come. 
 
-[theoveranalyzed]: @@SiteRoot@@/2015/3/3/testing-allergy-remedies-on-animals-still
+[theoveranalyzed]: /2015/3/3/testing-allergy-remedies-on-animals-still

@@ -150,20 +150,20 @@ And because I'm in the purging mood, I'm going to try TheOverAnalyzed without al
 [marco]: http://marco.org
 [overcast]: https://overcast.fm/+CdRcwCsQ/43:24
 [stratechery]: https://stratechery.com/2015/why-web-pages-suck/
-[theoveranalyzed]: @@SiteRoot@@/2015/6/1/introducing-theoveranalyzed-30
-[theoveranalyzed 2]: @@SiteRoot@@/tags/Star%20Wars
-[theoveranalyzed 3]: @@SiteRoot@@/tags/movies
-[theoveranalyzed 4]: @@SiteRoot@@/2015/7/12/why-the-web-is-so-slow
-[theoveranalyzed 5]: @@SiteRoot@@/2015/7/12/why-the-web-is-so-slow#nojs
-[theoveranalyzed 6]: @@SiteRoot@@/2015/5/15/facebooks-instant-articles
-[theoveranalyzed 7]: @@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace
+[theoveranalyzed]: /2015/6/1/introducing-theoveranalyzed-30
+[theoveranalyzed 2]: /tags/Star%20Wars
+[theoveranalyzed 3]: /tags/movies
+[theoveranalyzed 4]: /2015/7/12/why-the-web-is-so-slow
+[theoveranalyzed 5]: /2015/7/12/why-the-web-is-so-slow#nojs
+[theoveranalyzed 6]: /2015/5/15/facebooks-instant-articles
+[theoveranalyzed 7]: /2015/1/31/bigfoot-footnotes-in-squarespace
 [typekit]: http://typekit.com/
 [typography]: http://www.typography.com/fonts/ideal-sans/overview/
 [typography 2]: http://www.typography.com/fonts/whitney/overview/
 [typography 3]: http://www.typography.com/cloud/welcome/
 [vesperapp]: http://vesperapp.co/blog/how-to-make-a-vesper/
 [vesperapp 2]: http://vesperapp.co
-[why]: @@SiteRoot@@/2015/7/12/why-the-web-is-so-slow
+[why]: /2015/7/12/why-the-web-is-so-slow
 [wikipedia]: https://en.wikipedia.org/wiki/Avenir_(typeface
 [wikipedia 2]: https://en.wikipedia.org/wiki/Helvetica
 [wikipedia 3]: https://en.wikipedia.org/wiki/San_Francisco_(2014_typeface)

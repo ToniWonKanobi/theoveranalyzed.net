@@ -182,7 +182,7 @@ During the two solid weeks I spent transitioning to Camel, most of my time dealt
 [github]: https://github.com/cliss/camel#files
 [gj]: http://www.engadget.com/2013/06/04/byword-2-0-for-mac-adds-publishing-more/
 [hypercritical]: http://hypercritical.co/
-[ls]: @@SiteRoot@@/tags/Leaving%20Squarespace
+[ls]: /tags/Leaving%20Squarespace
 [lt]: imagelink
 [macworld]: http://hints.macworld.com/article.php?story=20010328105037397
 [mdi]: https://www.npmjs.com/package/markdown-it
@@ -191,8 +191,8 @@ During the two solid weeks I spent transitioning to Camel, most of my time dealt
 [multimarkdown]: http://multimarkdown.com/
 [npm]: http://npmjs.com
 [smilesoftware]: http://smilesoftware.com/TextExpander/index.html
-[theoveranalyzed]: @@SiteRoot@@/2015/2/25/designing-theoveranalyzed-20
-[theoveranalyzed 2]: @@SiteRoot@@/2015/3/4/byword-multimarkdown-composer-and-more#byword-versus-multimarkdown-composer
-[theoveranalyzed 3]: @@SiteRoot@@/2015/6/1/introducing-theoveranalyzed-30
+[theoveranalyzed]: /2015/2/25/designing-theoveranalyzed-20
+[theoveranalyzed 2]: /2015/3/4/byword-multimarkdown-composer-and-more#byword-versus-multimarkdown-composer
+[theoveranalyzed 3]: /2015/6/1/introducing-theoveranalyzed-30
 [visualstudio]: https://code.visualstudio.com/
 [wikipedia]: https://en.wikipedia.org/wiki/Modus_operandi

@@ -118,7 +118,7 @@ I'm not sure when that info was added, but the page was last updated yesterday.
 [digitaltrends]: http://www.digitaltrends.com/monitor-reviews/lg-34uc97-review/
 [lg]: http://www.lg.com/us/monitors/lg-34UC97-S-ultrawide-monitor
 [macworld]: http://www.macworld.com/article/2894423/thunderbolted-usb-c-is-our-new-connection-overlord-get-used-to-it.html
-[theoveranalyzed]: @@SiteRoot@@/2015/3/9/hands-on-with-the-new-12-inch-macbook-with-retina-display
+[theoveranalyzed]: /2015/3/9/hands-on-with-the-new-12-inch-macbook-with-retina-display
 [thewirecutter]: http://thewirecutter.com/reviews/a-great-27-inch-lcd-monitor/
 [twelvesouth]: https://www.twelvesouth.com/product/backpack-for-imac
 [twitter]: https://twitter.com/markjardine/status/575430861077676032

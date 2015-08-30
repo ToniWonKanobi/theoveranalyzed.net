@@ -377,10 +377,10 @@ Until then, maybe I can get back to writing.
 [hypercritical]: http://hypercritical.co
 [lp]: http://www.loopinsight.com
 [ma]: http://www.marco.org
-[more]: @@SiteRoot@@/2015/1/31/bigfoot-footnotes-in-squarespace
+[more]: /2015/1/31/bigfoot-footnotes-in-squarespace
 [pixelmator]: http://www.pixelmator.com/
 [pixelmator 2]: http://www.pixelmator.com/blog/2013/05/14/introducing-vectormator/
-[pli]: @@SiteRoot@@/2015/2/1/permalinks-in-squarespace
+[pli]: /2015/2/1/permalinks-in-squarespace
 [sc]: http://www.sixcolors.com
 [squarespace]: http://native-demo.squarespace.com/
 [squarespace 2]: http://avenue-demo.squarespace.com

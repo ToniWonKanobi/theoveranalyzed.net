@@ -47,7 +47,7 @@ As painful as it is, we would be remiss without Apple continually pushing the bo
 [apple 2]: https://www.apple.com/iphone
 [apple 3]: https://www.apple.com/ipod
 [appleinsider]: http://appleinsider.com/articles/15/01/10/apples-rumored-12-inch-macbook-air-appears-to-aggressively-target-mobility-with-usb-31-type-c
-[ass]: @@SiteRoot@@/2015/1/16/apples-next-major-mac-revealed-the-radically-new-12-inch-macbook-air
+[ass]: /2015/1/16/apples-next-major-mac-revealed-the-radically-new-12-inch-macbook-air
 [atp]: http://atp.fm
 [businessinsider]: http://www.businessinsider.com/xiaomi-copying-apple-2014-7
 [chron]: http://blog.chron.com/techblog/2012/10/theres-pain-and-joy-in-apples-new-lightning-connector-and-adapters/

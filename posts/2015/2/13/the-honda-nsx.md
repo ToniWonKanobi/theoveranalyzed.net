@@ -54,7 +54,7 @@ Yeah. I didn't think so.[^ts]
 [caranddriver]: http://www.caranddriver.com/reviews/2005-ford-gt-road-test-review
 [jalopnik]: http://jalopnik.com/driving-a-supercharged-zanardi-edition-acura-nsx-was-a-1684602295
 [jalopnik 2]: http://jalopnik.com/ford-gt-this-is-it-1678893649
-[prev]: @@SiteRoot@@/2015/1/12/we-love-cars
+[prev]: /2015/1/12/we-love-cars
 [teslamotors]: http://www.teslamotors.com/blog/dual-motor-model-s-and-autopilot
 [total911]: http://www.total911.com/opinion-in-defence-of-the-porsche-991s-electric-power-steering/
 [wikia]: http://ironman.wikia.com/wiki/Acura_NSX

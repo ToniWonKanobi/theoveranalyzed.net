@@ -29,4 +29,4 @@ The trial promotion has now ended, in case you were wondering why my coupon code
 </div>
 
 [cb]: http://cottonbureau.com
-[nd]: @@SiteRoot@@/tags/This%20Week%20on%20Cotton%20Bureau
+[nd]: /tags/This%20Week%20on%20Cotton%20Bureau

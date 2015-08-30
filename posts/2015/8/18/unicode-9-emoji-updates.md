@@ -35,4 +35,4 @@ Here's Jeremy Burge of the Emojipedia Blog:
 [emojipedia 5]: http://emojipedia.org/lion-face/
 [emojipedia 6]: http://emojipedia.org/crab/
 [emojipedia 7]: http://emojipedia.org/unicode-9/
-[theoveranalyzed]: @@SiteRoot@@/2015/4/2/red-tailed-hawks
+[theoveranalyzed]: /2015/4/2/red-tailed-hawks

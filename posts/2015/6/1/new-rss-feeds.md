@@ -11,6 +11,6 @@ Or, subscribe to the alternate feed: [http://www.theoveranalyzed.net/rss-alterna
 
 [alt]: https://github.com/cliss/camel#design-goals
 [ll]: http://daringfireball.net/2004/06/linked_list
-[theoveranalyzed]: @@SiteRoot@@/2015/6/1/theoveranalyzed-30
-[theoveranalyzed 2]: @@SiteRoot@@/rss
-[theoveranalyzed 3]: @@SiteRoot@@/rss-alternate
+[theoveranalyzed]: /2015/6/1/theoveranalyzed-30
+[theoveranalyzed 2]: /rss
+[theoveranalyzed 3]: /rss-alternate

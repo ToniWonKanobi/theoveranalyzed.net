@@ -15,11 +15,11 @@ Here are permalinks to those posts:
 
 [^tr]: Trust me, I tried. [A bunch][d]. 
 
-[chr]: @@SiteRoot@@/2015/2/19/christians-not-acting-like-christ
+[chr]: /2015/2/19/christians-not-acting-like-christ
 [d]: http://d.pr/i/1fnxi+
-[theoveranalyzed]: @@SiteRoot@@/2014/10/27/why-i-couldnt-handle-the-iphone-6-plus
-[theoveranalyzed 2]: @@SiteRoot@@/2014/10/7/the-last-american-who-knew-what-the-f-he-was-doing
-[theoveranalyzed 3]: @@SiteRoot@@/2014/2/12/zoos
-[theoveranalyzed 4]: @@SiteRoot@@/2014/2/3/how-to-clean-up-your-twitter-feed
-[theoveranalyzed 5]: @@SiteRoot@@/2014/2/2/fantastical-2
-[theoveranalyzed 6]: @@SiteRoot@@/2014/2/2/first-post-ever
+[theoveranalyzed]: /2014/10/27/why-i-couldnt-handle-the-iphone-6-plus
+[theoveranalyzed 2]: /2014/10/7/the-last-american-who-knew-what-the-f-he-was-doing
+[theoveranalyzed 3]: /2014/2/12/zoos
+[theoveranalyzed 4]: /2014/2/3/how-to-clean-up-your-twitter-feed
+[theoveranalyzed 5]: /2014/2/2/fantastical-2
+[theoveranalyzed 6]: /2014/2/2/first-post-ever

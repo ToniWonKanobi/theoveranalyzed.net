@@ -10,4 +10,4 @@
 
 [cssanimation]: https://cssanimation.rocks/clocks/
 [loopinsight]: http://www.loopinsight.com/2015/03/12/apple-watch-activity-dial-in-css/
-[theoveranalyzed]: @@SiteRoot@@/2015/3/3/css-clocks
+[theoveranalyzed]: /2015/3/3/css-clocks

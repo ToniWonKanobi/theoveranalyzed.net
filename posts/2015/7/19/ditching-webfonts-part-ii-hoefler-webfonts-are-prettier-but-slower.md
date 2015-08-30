@@ -132,7 +132,7 @@ Here are some of my favorites:[^acc]
 	<a class="nohover" href="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png">
 		<img src="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png" alt="Whitney" />
 	</a>
-	<figcaption class="long"><a href="http://www.typography.com/fonts/whitney/overview/">Whitney</a> was the runner-up font for TheOverAnalyzed. If it weren't for all the <a href="@@SiteRoot@@/2015/7/15/ditching-webfonts#becoming-ideal">personal history</a> associated with Ideal Sans, I probably would have chosen Whitney instead. <a href="http://fontsinuse.com/uses/2384/romney-2012-presidential-campaign">Mitt Romney's 2012 presidential campaign</a> featured this font.</figcaption>
+	<figcaption class="long"><a href="http://www.typography.com/fonts/whitney/overview/">Whitney</a> was the runner-up font for TheOverAnalyzed. If it weren't for all the <a href="/2015/7/15/ditching-webfonts#becoming-ideal">personal history</a> associated with Ideal Sans, I probably would have chosen Whitney instead. <a href="http://fontsinuse.com/uses/2384/romney-2012-presidential-campaign">Mitt Romney's 2012 presidential campaign</a> featured this font.</figcaption>
 </figure>
 
 These are just a [few][typography] of the [great][typography 2] [fonts][typography 3] [available][typography 4] from [Hoefler][typography 5]. And unfortunately, I can't use any of them.
@@ -164,9 +164,9 @@ You may have noticed that I've re-enabled my Cloud.typography webfont, Ideal San
 [cb]: http://chrisbowler.com/journal/cloud-vs-typekit
 [ct]: http://cloud.typography.com
 [daringfireball]: http://daringfireball.net
-[ddg]: @@SiteRoot@@/2015/3/19/you-should-use-duckduckgo
+[ddg]: /2015/3/19/you-should-use-duckduckgo
 [ff]: http://gizmodo.com/what-hoefler-frere-jones-breakup-means-for-the-futur-1503686340
-[first]: @@SiteRoot@@/2015/7/12/why-the-web-is-so-slow
+[first]: /2015/7/12/why-the-web-is-so-slow
 [fs]: https://typekit.com/fonts/freight-sans-pro
 [hfj]: http://www.theverge.com/2014/1/17/5318206/hoefler-and-frere-jones-lawsuit
 [hippa]: https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act
@@ -174,18 +174,18 @@ You may have noticed that I've re-enabled my Cloud.typography webfont, Ideal San
 [kottke]: http://kottke.org
 [lato]: https://typekit.com/fonts/lato
 [lm]: http://www.caseyliss.com
-[logo]: @@SiteRoot@@/images/SiteTitle.svg
+[logo]: /images/SiteTitle.svg
 [marco]: http://marco.org
-[ms]: @@SiteRoot@@/tags/Ditching%20Webfonts
+[ms]: /tags/Ditching%20Webfonts
 [off]: http://typography.com/press/20140117
 [randsinrepose]: http://randsinrepose.com
-[sec]: @@SiteRoot@@/2015/7/15/ditching-webfonts
+[sec]: /2015/7/15/ditching-webfonts
 [simplebits]: http://simplebits.com
 [sk]: http://bohemiancoding.com/sketch/
 [ss]: http://thesweetsetup.com
 [str]:  http://stratechery.com
-[theoveranalyzed]: @@SiteRoot@@/2015/6/1/introducing-theoveranalyzed-30
-[theoveranalyzed 2]: @@SiteRoot@@/2015/7/19/ditching-webfonts-part-ii#final-thoughts
+[theoveranalyzed]: /2015/6/1/introducing-theoveranalyzed-30
+[theoveranalyzed 2]: /2015/7/19/ditching-webfonts-part-ii#final-thoughts
 [toa]: http://d.pr/i/138Zv+
 [typo]: http://typography.com
 [typography]: http://www.typography.com/fonts/knockout/overview/

@@ -204,6 +204,6 @@ And you know what? That's [okay][d].
 [metaclassy]: http://metaclassy.com
 [multimarkdown]: http://multimarkdown.com/
 [reference]: http://dictionary.reference.com/browse/aha+moment
-[theoveranalyzed]: @@SiteRoot@@/archive/2015/1/bigfoot-footntes-squarespace
+[theoveranalyzed]: /archive/2015/1/bigfoot-footntes-squarespace
 [urbandictionary]: http://www.urbandictionary.com/define.php?term=chyeah&amp;defid=2623427
 [urbandictionary 2]: http://www.urbandictionary.com/define.php?term=Boom&amp;defid=3837129

@@ -19,8 +19,8 @@ Tags are not publicly exposed on TheOverAnalyzed, but you could make nifty use o
 
 [Last updated January 26, 2015]
 
-[ahbl]: @@SiteRoot@@/tags/Apple%20Hardware%20Bucket%20List
-[elu]: @@SiteRoot@@/2015/1/14/this-imac-concept-is-ridiculous-in-the-best-possible-way
+[ahbl]: /tags/Apple%20Hardware%20Bucket%20List
+[elu]: /2015/1/14/this-imac-concept-is-ridiculous-in-the-best-possible-way
 [f]: https://en.wikipedia.org/wiki/Macintosh_128K
 [s]: https://en.wikipedia.org/wiki/Macintosh_512K
 [t]: https://en.wikipedia.org/wiki/Macintosh_Plus

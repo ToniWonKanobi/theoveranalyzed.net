@@ -39,15 +39,34 @@ Today, [Yahoo! Movies][ym] shared the new trailer for Warner Brothers's upcoming
 
 </div>
 
+<div class="update">
+
+## Another Update
+<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">August  30, 2015</p>
+
+Ethan Anderton of [/Film][vd]:
+>For those who don’t know, Vin Diesel was the voice of the titular giant robot who crash lands on Earth and befriends a young boy, making for quite the charming and unique update of the familiar E.T. The Extra Terrestrial tale. And Diesel recently took to his Facebook page to post the Signature Edition trailer, and he teased that Warner Bros. might be on the verge of making The Iron Giant 2 happen.
+>
+>Along with the Signature Edition trailer [...] [Diesel said][ds]:
+>>“I have been very lucky to have played so many interesting characters… one of the first and one of my favorites is… the Iron Giant.
+>	
+>>P.s. Don’t be surprised when you hear WB announce the sequel.”
+
+If you've seen the first movie, you'll know that the ending left plenty of room for a sequel. Still, as Anderton notes, this could just be wishful thinking for Diesel. Who knows---16 years might just be the necessary time required to inspire a sequel out of Brad Bird.
+
+</div>
+
 [^yes]: 🎉
 
 [bb]: https://en.wikipedia.org/wiki/Brad_Bird
 [bo]: https://en.wikipedia.org/wiki/The_Iron_Giant#Box_office
 [cc]: https://en.wikipedia.org/wiki/The_Iron_Giant#Accolades
+[ds]: https://www.facebook.com/VinDiesel/videos/10153682936018313/
 [ig]: https://itunes.apple.com/us/movie/the-iron-giant/id284447916?at=1l3vx9s
 [is]: https://en.wikipedia.org/wiki/Inside_Out_(2015_film)
 [sf]: http://www.slashfilm.com/iron-giant-rerelease
 [sf2]: http://www.slashfilm.com/iron-giant-trailer/
-[sw]: @@SiteRoot@@/2015/5/14/this-is-the-best-version-of-star-wars-and-watching-it-is-a-crime
+[sw]: /2015/5/14/this-is-the-best-version-of-star-wars-and-watching-it-is-a-crime
 [ts2]: https://en.wikipedia.org/wiki/Toy_Story_2
+[vd]: http://www.slashfilm.com/vin-diesel-teases-the-iron-giant-2/
 [ym]: https://www.yahoo.com/movies/watch-the-trailer-for-remastered-iron-giant-127660292562.html

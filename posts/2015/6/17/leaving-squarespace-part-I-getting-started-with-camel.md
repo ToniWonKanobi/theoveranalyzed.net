@@ -204,7 +204,7 @@ If you didn't have too much trouble with this tutorial, I doubt you'll have any 
 [github 2]: https://github.com/cliss/camel#installation
 [housepub]: http://jtimberman.housepub.org/blog/2012/02/26/xcode-command-line-tools/
 [hr]: http://www.sitepoint.com/deploying-camel-js-blog-heroku/
-[ls]: @@SiteRoot@@/tags/Leaving%20Squarespace
+[ls]: /tags/Leaving%20Squarespace
 [nodejs]: http://nodejs.org/
 [nodejs 2]: http://nodejs.org/dist/v0.12.4/node-v0.12.4.pkg
 [npmjs]: https://www.npmjs.org/
