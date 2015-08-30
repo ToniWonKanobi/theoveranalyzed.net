@@ -6,19 +6,19 @@
 Affiliate linking to iTunes and Amazon products was never an easy task. The smarter amongst us likely wrote TextExpander scripts to append their affiliate takes to the parent links, but for mere mortals like myself, that never seemed like a worthwhile solution. 
 
 ## [Affiliate][bytesizeapps] (OS X)
-#### $0.99 on the [Mac App Store][apple]
+### $0.99 on the [Mac App Store][apple]
 
 For the past 6 weeks or so, I have been using an app called Affiliate for creating iTunes and Amazon affiliate links. Affiliate lives in the menubar, and monitors the clipboard for iTunes and Amazon links. When it senses such a link on the clipboard, it appends my affiliate tag for either service, and then re-copies that link to the clipboard. [Pretty neat][macstories]. 
 
 ## [Blink][squibner] (iOS)
-#### $4.99 on the [App Store][apple 2]
+### $4.99 on the [App Store][apple 2]
 
 I stumbled on Affiliate when Blink launched a few weeks back, and saw all the hubbub on Twitter. Blink is only for iTunes affiliate links right now. I asked Blink's author, John Voorhees, about Amazon and OS X support, and he [suggested][twitter] Affiliate. 
 
 Blink has a [great UI/UX][macstories 2], and makes creating iTunes affiliate links easy when I'm trying to whip out a quick post using Byword on my iPhone. I just wish it had Amazon affiliate linking support, because I link to Amazon products far more than iTunes products.
 
 ## [StretchLink][stretchlinkapp] (OS X)
-#### $0.99 on the [website][stretchlinkapp]
+### $0.99 on the [website][stretchlinkapp]
 
 StretchLink, by Brett Terpstra, is of a similar vain as Affiliate. It is a menubar app that monitors the clipboard for iTunes and Amazon product links. When it senses one on the clipboard, it can strip all the analytics and query strings. And, like Affiliate, StretchLink then re-copies the new link to the clipboard, for [cleaner linking][macstories 3].
 
