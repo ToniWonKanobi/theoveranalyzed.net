@@ -2,12 +2,8 @@
 @@ Date=2015-03-04T08:00:00+00:00  
 @@ Description=Here's my workflow for blogging in Squarespace.  
 @@ Tags=Squarespace, blogging, apps, TheOverAnalyzed, MultiMarkdown, Markdown, Byword  
-
-<h2>Contents</h2>
-
-[[TOC]]
   
-# Introduction
+## Forward
 
 Some time ago, I wrote a rather [lengthy and exclamatory piece][theoveranalyzed] recounting how I implemented [Bigfoot footnotes][bigfootjs]. I will refrain from rehashing the entire post, but would like to discuss footnotes in general for a bit. Footnotes, and my recent change to [MultiMarkdown Composer][multimarkdown] from [Byword][bywordapp].
 
@@ -16,6 +12,10 @@ What I might have failed to fully articulate previously is this: I learned how t
 I had been wanting to incorporate footnotes into my writing, but didn't know how for the longest time.
 
 Once I figured that out, I started nitpicking the *way* I was footnoting.
+
+<h2>Contents</h2>
+
+[[TOC]]
 
 # The Problem
 

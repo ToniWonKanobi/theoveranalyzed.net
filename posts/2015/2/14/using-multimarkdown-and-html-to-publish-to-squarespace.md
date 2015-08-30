@@ -121,9 +121,30 @@ Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview
 2. And here is the text I want to be the content of a *footnote*, affixed at the end of the sentence in this case:  
 	`Turtles are super cool.`
 3. In Byword, this is what I would type, in MultiMarkdown:  
-	<script src="https://gist.github.com/ToniWonKanobi/1bfb125c458213c4679f.js"></script>
+	
+	```
+	I like turtles.[^1]
+
+	[^1]: Turtles are super cool.
+	```
+	
 4. After converting it to HTML, it would look like this:  
-	<script src="https://gist.github.com/ToniWonKanobi/acc20cce2ac9c418f79d.js"></script>
+	
+	```
+	<p>I like turtles.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
+
+	<div class="footnotes">
+	<hr />
+	<ol>
+
+	<li id="fn:1">
+	<p>Turtles are super cool. <a href="#fnref:1" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+	</li>
+
+	</ol>
+	</div>
+	```
+
 5. Finally, paste that HTML into Code Block from the Squarespace post editor
 
 ## Video-Based How-To
@@ -132,9 +153,12 @@ Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview
 	`I like turtles.`
 2. And here is the text I want to be the content of a *footnote*, affixed at the end of the sentence in this case:  
 	`Turtles are super cool.`
-3. [Typing with MultiMarkdown Syntax in Byword][d]
-4. [Using Byword to Convert The Text to HTML][d 2] 
-5. [Pasting the Previously Copied HTML into a Code Block in Squarespace][d 3] 
+3. Typing with MultiMarkdown Syntax in Byword
+	<video id="Byword MMD" src="http://d.pr/v/18FFK+" controls width="80%"></video>
+4. Using Byword to Convert The Text to HTML
+	<video id="Byword to Convert to HTML" src="http://d.pr/v/13oR1+" controls width="80%"></video>
+5. Pasting the Previously Copied HTML into a Code Block in Squarespace
+	<video id="Taking HTML to Code Block" src="http://d.pr/v/SSVK+" controls width="80%"></video>
 
 # Conclusion
 
@@ -161,9 +185,6 @@ Since writing this post, I [have switched from Byword to MultiMarkdown Composer]
 [atp]: http://atp.fm/episodes/87
 [bywordapp]: http://bywordapp.com/
 [bywordapp 2]: http://bywordapp.com/markdown/guide.html
-[d]: http://d.pr/v/18FFK
-[d 2]: http://d.pr/v/13oR1
-[d 3]: http://d.pr/v/SSVK
 [daringfireball]: http://daringfireball.net/projects/markdown/
 [daringfireball 2]: http://daringfireball.net/feeds/sponsors/2014/11/desk_a_desktop_blogging_app_yo
 [desk]: http://blog.desk.pm/df/
