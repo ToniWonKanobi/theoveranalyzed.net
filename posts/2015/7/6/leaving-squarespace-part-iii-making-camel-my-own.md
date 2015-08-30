@@ -209,7 +209,7 @@ There are other aspects of TheOverAnalyzed that took some tweaking. I might deta
 ## Update
 <p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">August 11, 2015</p>
 
-Since writing this post, I have since disabled `markdown-it-highlightjs`. It wasn't a burdensome plugin or anything, I just decided it was bordering on unnecessary visual cruft.
+Since writing this post, I have since disabled `markdown-it-highlightjs`. It wasn't a burdensome plugin or anything---I just decided it was unnecessary visual cruft.
 
 </div>
 

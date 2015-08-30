@@ -243,7 +243,7 @@ table td {
 
 table th code {
 	border: 1px solid #ddd;
-	border-radius: 3px;
+	border-radius: 3px
 }
 
 /* This is only until CommonMark / `markdown-it` supports true table captions */
@@ -441,6 +441,11 @@ figure:nth-child(1) { margin-top: 1em }
 .update .jpg {
 	border: 2px solid #ddd;
 	border-radius: 0.2em
+}
+
+.update code {
+	border: 1px solid #ddd;
+	border-radius: 3px
 }
 
 .takehome {
