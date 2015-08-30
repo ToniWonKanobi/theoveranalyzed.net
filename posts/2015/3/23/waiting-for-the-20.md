@@ -15,7 +15,7 @@ Hockenberry notes that Apple will likely *not* follow Android devices in their i
 
 One other interesting bit:
 
->The biggest challenge for OLED is with the organic material where light is emitted. Basically, byproducts of the chemical reaction that produces light accumulate over time and reduce the efficiency of the output. Again, this is an area where manufacturers are focusing their efforts. In just a few years the lifespan of these devices have increased by several orders of magnitude, but is still limited to tens of thousands of hours. **Don’t expect your WATCH to become a family heirloom** [emphasis added].
+>The biggest challenge for OLED is with the organic material where light is emitted. Basically, byproducts of the chemical reaction that produces light accumulate over time and reduce the efficiency of the output. Again, this is an area where manufacturers are focusing their efforts. In just a few years the lifespan of these devices have increased by several orders of magnitude, but is still limited to tens of thousands of hours. **Don’t expect your <i class="fa fa-apple fa-fw"></i> WATCH to become a family heirloom** [emphasis added].
 
 This got me thinking. At what point is it worth it to forego a Version 1.0 product and opt instead for Version 2.0? If you believe what Hockenberry has to say about the lifetime of OLED displays, you also want to wait for the inevitably better Apple Watch 2.0 launching in 2016.
 

@@ -3,21 +3,21 @@
 @@ Description=Here's my workflow for blogging using the Squarespace platform.  
 @@ Tags=blogging, Squarespace, Markdown, MultiMarkdown  
 
-<h2>Contents</h2>
-
-[[TOC]]
-
-# Introduction
+## Forward
 
 I wrote a [piece][theoveranalyzed] a few weeks back regarding all the 'back-end' things one should do in order to implement Bigfoot style footnotes. I also recently [updated][theoveranalyzed 2] it to include proper number resetting in the `blog.list` view.  Briefly, here was that workflow:
 
-1. Download the necessary files from bigfootjs.com (the JavaScript itself, and then the stylesheet)
+1. Download the necessary files from <http://bigfootjs.com> (the JavaScript itself, and then the stylesheet)
 2. Upload them to Squarespace, using Squarespace's wonky file uploading system
 3. Finally, load the above files with Code Injection.[^ci]
 
 What had never occurred to me was that people might find the 'back-end' tasks easy, and would instead have a harder time knowing how to write content with Markdown or HTML, with footnotes specifically in mind.
 
 I have had a few people contact me regarding implementing Bigfoot footnotes into their writing. Rather than continue to answer each of those inquiries on an individual basis, I thought I would write a post that talks about the 'front-end' aspects of my writing. Note that this post will deal with my writing workflow as is, which means it will reference many Squarespace-specific aspects of my workflow. That said, I'm sure most everything I write will be applicable to the other content management services (CMS's) out there.
+
+<h2>Contents</h2>
+
+[[TOC]]
 
 # The Process
 
@@ -143,8 +143,9 @@ As you can see, my workflow is not that complicated. Byword makes things incredi
 <div class="update">
 
 ### Update
+<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">March 4, 2015</p>
 
-Since writing this post, I have switched from Byword to MultiMarkdown Composer for my text editor.  I also no longer use `Code blocks` for my content---I am using `Markdown blocks` instead. I just paste the raw HTML parsed from MultiMarkdown Composer into a `Markdown block`, just like I was doing previously with `Code blocks`. Because editing content in `Code blocks` required a desktop browser, I was stuck waiting until I could get to my MacBook before fixing a typo I noticed after publishing. Using the `Markdown blocks` allows me to edit posts on the go from the Squarespace iOS [Blog][apple] app. See my [post][theoveranalyzed 4] for details. 
+Since writing this post, I [have switched from Byword to MultiMarkdown Composer][swit] for my text editor.  I also no longer use `Code blocks` for my content---I am using `Markdown blocks` instead. I just paste the raw HTML parsed from MultiMarkdown Composer into a `Markdown block`, just like I was doing previously with `Code blocks`. Because editing content in `Code blocks` required a desktop browser, I was stuck waiting until I could get to my MacBook before fixing a typo I noticed after publishing. Using the `Markdown blocks` allows me to edit posts on the go from the Squarespace iOS [Blog][apple] app. See my [post][theoveranalyzed 4] for details. 
 
 </div>
 
@@ -176,6 +177,7 @@ Since writing this post, I have switched from Byword to MultiMarkdown Composer f
 [sparrowmailapp]: http://sparrowmailapp.com/iphone.php
 [squarespace]: http://help.squarespace.com/guides/using-the-markdown-block
 [steves-digicams]: http://www.steves-digicams.com/knowledge-center/how-tos/filmmaking-tips/screenwriting-how-to-write-parenthetical.html
+[swit]: /2015/3/4/byword-multimarkdown-composer-and-more
 [theoveranalyzed]: /2015/1/31/bigfoot-footntes-in-squarespace
 [theoveranalyzed 2]: /2015/1/31/bigfoot-footntes-in-squarespace#update
 [theoveranalyzed 3]: /2015/2/6/one-year-later

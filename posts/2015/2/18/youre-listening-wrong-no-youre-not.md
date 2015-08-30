@@ -3,10 +3,6 @@
 @@ Description=Apparently listening to podcasts at higher than 1x and or with silence-removing features is heresy.  
 @@ Tags=podcasts, culture, apps, Marco Arment, Overcast  
 
-<h2>Contents</h2>
-
-[[TOC]]  
-
 In a [piece][theverge] for The Verge yesterday, John Lagomarsino made the claim that listening to podcasts at greater than 1x speeds is doing a huge disservice to both the podcast's author(s), as well as the listener themselves:
 >I love audio. And I want you to love audio, too. But I’m not sure you can, because of this habit you’ve got. I know you’re busy, and you have a lot on your plate, and there are so many shows to keep up with, but you need to stop listening to podcasts sped up to 1.5x. You need to open yourself up to love.
 

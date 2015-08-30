@@ -3,12 +3,6 @@
 @@ Description=Here's my workflow for blogging in Squarespace.  
 @@ Tags=Squarespace, blogging, apps, TheOverAnalyzed, MultiMarkdown, Markdown, Byword  
 
-<div class="topstory">
-
-Since writing this post originally, I moved to a custom blogging engine, one that is based on the actual Markdown files `.md`. And because of that, many MultiMarkdown features provided by MultiMarkdown Composer are no longer necessary, as `node.js` has plenty of `markdown-it` plugins that take the universal 'standard' Markdown documents and parse nifty stuff anyways. So I have actually reverted back to using Byword as my plain-text editor of choice. When I re-formatted this document to work with my new blogging engine, I kept the content the same, for both posterity's sake, and to help anyone out there who uses Squarespace.
-
-</div>
-
 <h2>Contents</h2>
 
 [[TOC]]
@@ -187,6 +181,15 @@ Ultimately, my nostalgic attachment to Byword was quickly forgotten. For all its
 
 And you know what? That's [okay][d].
 
+<div class="update">
+
+## Update
+<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">June 1, 2015</p>
+
+Since writing this post originally, I moved to a [custom blogging engine][toa], one that is based on the actual Markdown files `.md`. And because of that, many MultiMarkdown features provided by MultiMarkdown Composer are no longer necessary, as `node.js` has plenty of `markdown-it` plugins that take the universal 'standard' Markdown documents and parse nifty stuff anyways. So I have actually reverted back to using Byword as my plain-text editor of choice. When I re-formatted this document to work with my new blogging engine, I kept the content the same, for both posterity's sake, and to help anyone out there who uses Squarespace.
+
+</div>
+
 [^bw]: It was with Byword, after all, that I shared my great [aha moment][reference] in which 'appropriately formatted Markdown → HTML with footnotes'
 [^us]: And why should it? MultiMarkdown is filled with lots of 'extras' beyond standard Markdown, some of which most Markdown users could care less about.
 [^inf]: So completely amazing.
@@ -205,5 +208,6 @@ And you know what? That's [okay][d].
 [multimarkdown]: http://multimarkdown.com/
 [reference]: http://dictionary.reference.com/browse/aha+moment
 [theoveranalyzed]: /archive/2015/1/bigfoot-footntes-squarespace
+[toa]: /2015/6/1/introducing-theoveranalyzed-30
 [urbandictionary]: http://www.urbandictionary.com/define.php?term=chyeah&amp;defid=2623427
 [urbandictionary 2]: http://www.urbandictionary.com/define.php?term=Boom&amp;defid=3837129

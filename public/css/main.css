@@ -46,7 +46,7 @@ update: rgba(63, 110, 162, 0.11)
 
 .main {
   	margin: 6em auto 6em auto;
-  	min-height: 25vh 	/* Sets minimum page height for short pages like `/404` or `/about` */
+  	min-height: 30vh 	/* Sets minimum page height for short pages like `/404` or `/about` */
 }
 
 /* Refer to Matthew Butterick's Practical Typography for font size philosophies: http://practicaltypography.com/point-size.html */
@@ -446,6 +446,10 @@ figure:nth-child(1) { margin-top: 1.25em }
 .update code {
 	border: 1px solid #ddd;
 	border-radius: 3px
+}
+
+.update pre code {
+	border: none;
 }
 
 .takehome {

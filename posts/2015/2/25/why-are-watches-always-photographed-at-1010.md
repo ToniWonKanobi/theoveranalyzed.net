@@ -22,7 +22,7 @@ Newman also notes a few other marketing consistencies such as 'Monday the 28th'.
 
 ⌚️[^aw]
 
-[^aw]: I'm not sure if this  WATCH emoji will show up correctly, as its only available on [OS X 10.10.3 beta 2 and/or iOS 8.2 beta 2 right now][macrumors] 
+[^aw]: I'm not sure if this <i class="fa fa-apple fa-fw"></i> WATCH emoji will show up correctly, as its only available on [OS X 10.10.3 beta 2 and/or iOS 8.2 beta 2 right now][macrumors] 
 
 [macrumors]: http://www.macrumors.com/2015/02/23/10-10-3-new-emoji/
 [nytimes]: http://www.nytimes.com/2008/11/28/business/media/28adco.html

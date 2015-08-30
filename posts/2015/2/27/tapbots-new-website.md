@@ -13,8 +13,8 @@ Back in 2012, [Twitter had only recently started to crack down on third-party cl
 
 Ecstatic with the concept of apps (this was my first iPhone), I downloaded both and tried both. Unlike a lot of iPhone owners on Twitter, I was never forced to use the official Twitter client, on iOS *or* Mac OS X.[^os] 
 
-<figure>
-	<img src="http://d.pr/i/gML7+" alt="both" width="63%" />
+<figure class="iphone">
+	<img src="http://d.pr/i/gML7+" alt="both">
 	<figcaption>I even used both Twitterrific and Tweetbot at the same time. <a href="http://tweetmarker.net">Tweet Marker</a> made Timeline syncing easy, and I wasn't too bothered with the lack of DM / @mention syncing between clients, since I wasn't getting many of those at the time anyways.</figcaption>
 </figure>
 

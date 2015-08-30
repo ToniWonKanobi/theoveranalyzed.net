@@ -15,7 +15,7 @@ Safari 9.0 for OS X 10.11 "El Capitan" offers this functionality built-in. In or
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1ii3O+">
-		<img src="http://d.pr/i/1ii3O+" alt="Sherlocking at it's finest" />
+		<img class="jpb" src="http://d.pr/i/1ii3O+" alt="Sherlocking at it's finest" />
 	</a>
 	<figcaption>Neat.</figcaption>
 </figure>

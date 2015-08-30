@@ -12,7 +12,7 @@
 	<figcaption>Frere-Jones: "Upright and sideways: Futura Medium by Paul Renner, Bauer 1927"</figcaption>
 </figure>
 
-I've been [following][theoveranalyzed] Frere-Jones' blog since it was linked on Daring Fireball some time ago. While I don't consider myself a font expert (not by a long shot), I do find the art and science behind this centuries-old craft very interesting. 
+I've been [following][theoveranalyzed] Frere-Jones' blog since it was [linked][df] on Daring Fireball some time ago. While I don't consider myself a font expert (not by a long shot), I do find the art and science behind this centuries-old craft very interesting. 
 
 <figure>
 	<a class="nohover" href="http://www.frerejones.com/assets/Horiz&Vert01.gif">
@@ -25,4 +25,5 @@ His latest post deals with font weights and how designers must occasionally disr
 
 I've linked to Frere-Jones twice now, just in case anyone is keeping track.
 
+[df]: http://daringfireball.net/linked/2015/02/11/frere-jones
 [theoveranalyzed]: /2015/3/15/typeface-mechanics-001

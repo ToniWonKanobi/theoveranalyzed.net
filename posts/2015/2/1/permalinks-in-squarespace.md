@@ -3,11 +3,9 @@
 @@ Description=I figured out how to enable permalinks in posts (with the help of someone smarter than me).  
 @@ Tags=Squarespace, TheOverAnalyzed, blogging, permalinks  
 
-<div class="topstory">
+## Forward
 
 Squarespace is a great CMS. "[The Apple of content management services][ss]," it has been said. And I would generally agree. With just a minimal amount of effort from the user, it would be *very* difficult to make a website with Squarespace that wasn't halfway decent. That said, there are some caveats to be told. Just like my experiences with everyone's favorite fruit company, whenever I have strayed just a bit from the Squarespace Beaten Path™, things got hairy. One of those areas was [footnotes][fn]. I figured that out with the help of the internet. Next on the list: permalinks.
-
-</div>
 
 <h2>Contents</h2>
 

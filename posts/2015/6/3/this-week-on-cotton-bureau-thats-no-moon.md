@@ -13,7 +13,7 @@ I'm starting [this][theoveranalyzed] back up (been a while). I haven't been buyi
 	<figcaption><a href="https://cottonbureau.com/products/thats-no-moon-1">That's No Moon</a> by Tim Payne. I also got <a href="https://cottonbureau.com/products/thats-no-moon">this one</a> a few months back.</figcaption>
 </figure>
 
-***
+<hr class="long" />
 
 And here are two other nifty picks for this week:
 

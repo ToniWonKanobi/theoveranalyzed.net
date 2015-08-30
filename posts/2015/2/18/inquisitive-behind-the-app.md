@@ -6,34 +6,34 @@
 
 Today Myke Hurley launched a new format for his podcast Inquisitive. He's calling the series "[Behind The App][extras]," and this first episode features interviews with some of the Apple Development community's finest,[^cf] including:
 
-### Marco Arment
+**Marco Arment**
 
 * Previously: [Tumblr][tumblr], [Instapaper][instapaper], [The Magazine][the-magazine], [Neutral][neutral]
 * Now: [ATP][atp], [Overcast][overcast]
 
-### Jason Snell
+**Jason Snell**
 
 * Previously: [Macworld][macworld]
 * Now: [Six Colors][sixcolors], [Upgrade][relay]
 	
-### Matthew Bischoff
+**Matthew Bischoff**
 
 * [Lickability][lickability], Tumblr
 	
-### Guy English
+**Guy English**
 
 * [Rogue Amoeba][rogueamoeba]
 	
-### Padraig Kennedy & Oisín Prendiville
+**Padraig Kennedy & Oisín Prendiville**
 
 * [Supertop][supertop]
 	
-### David Smith
+**David Smith**
 
 * Previously: [Feed Wrangler][feedwrangler], [My Recipe Book][apple], [Audiobooks][apple 2]
 * Now: [Developing Perspective][developingperspective]
 	
-### Greg Pierce
+**Greg Pierce**
 
 * [Agile Tortoise][agiletortoise]
 

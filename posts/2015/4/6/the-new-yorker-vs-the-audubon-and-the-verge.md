@@ -24,8 +24,8 @@ And there's nothing wrong with that. The hip and 'responsive design'-ed technolo
 As an aside, consider my [RSS subscriptions][d]. In my so-called "Favorites" folder, created by me to contain the absolute *most* important authors I follow, it takes no less than **seven** blogs to satisfy my desire for tech opinions. 
 
 <figure>
-	<img src="http://d.pr/i/1jrql+" alt="caption" />
-	<figcaption>Loving that dog-shaped favicon on that last entry in my Favorites list. I wonder whose <a href="@@SiteRoot@@/2015/2/25/designing-theoveranalyzed" >clever work</a> created that?</figcaption>
+	<img src="http://d.pr/i/1jrql+" alt="caption" width="50%"/>
+	<figcaption>Loving that dog-shaped favicon on that last entry in my Favorites list. I wonder whose <a href="/2015/2/25/designing-theoveranalyzed" >clever work</a> created that?</figcaption>
 </figure>
 
 This doesn't even include the technology sites I follow in RSS/Twitter[^tw]

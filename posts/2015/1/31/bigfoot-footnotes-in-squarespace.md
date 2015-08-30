@@ -3,11 +3,9 @@
 @@ Description=A big milestone in my blogging development: footnotes are live on TheOverAnalyzed!  
 @@ Tags=blogging, Squarespace, TheOverAnalyzed, Bigfoot.js, footnotes  
 
-<div class="topstory">
+## TL;DR
 
 Exactly 20 days ago, [I publicly committed myself][twitter] to integrating [fancy footnotes][bigfootjs] into my blog (as seen on [Marco.org][marco] and [Six Colors][sixcolors]). And guess what? I've done it!
-
-</div>
 
 <h2>Contents</h2>
 

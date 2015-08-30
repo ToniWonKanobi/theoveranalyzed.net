@@ -3,11 +3,9 @@
 @@ Description=What's all the hubbub about? Is Net Neutrality *that* important? Well, only if you value choices and a decent internet.  
 @@ Tags=politics, Net Neutrality, industry, business  
 
-<div class="topstory">
+## Forward
 
 The team at BackBlaze posted a short [piece][backblaze] regarding the FCC's recent [re-defining][gigaom] of broadband internet access in America. In their article they quoted [Gizmodo][gizmodo], saying that "The redefinition of broadband should increase competition between ISPs and cable companies as well as encourage the development of better infrastructure." That would be a step in the right direction, that's for sure.
-
-</div>
 
 <h2>Contents</h2>
 
@@ -131,7 +129,7 @@ Finally 🐺
 
 <div class="update">
 
-## Another Update, Ten Minutes After The Previous One
+## Another Update---Ten Minutes After The Previous One
 <p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">February 4, 2015</p>
 
 And Jacob Kastrenakes, also for [The Verge][vergee]:

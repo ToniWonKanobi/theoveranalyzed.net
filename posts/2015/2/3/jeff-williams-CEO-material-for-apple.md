@@ -18,7 +18,7 @@ Phil Schiller has to be on the list too. He is just as much a part of the old gu
 I think the best suggestion comes at the end of his Gruber's speculation:
 >But a replacement who isn’t named until Tim Cook’s retirement in, say, 2030, will likely be someone we don’t yet know — someone who’ll rise through the company’s ranks between now and then.
 
-We will just have to wait and see. Until then, I am happy to go along for the ride 
+We will just have to wait and see. Until then, I am happy to go along for the ride <i class="fa fa-apple fa-fw"></i>
 
 [^k]: Though, admittedly, he sometimes comes off as a tool.
 [^e]: I cannot stress enough that my appraisal of these contenders' CEO abilities is based *solely* on those little glimpses into who they are that we get to see at the Keynotes. They could be totally different people behind closed doors. Hard to say obviously. 

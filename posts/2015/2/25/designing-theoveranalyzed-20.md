@@ -146,8 +146,8 @@ After consulting with the [Squarespace Answers Forum](answers.squarespace.com), 
 
 But this led to a terrible design on mobile:
 
-<figure>
-	<img src="http://d.pr/i/1l1L9+" alt="mobile" width="63%" />
+<figure class="iphone">
+	<img src="http://d.pr/i/1l1L9+" alt="mobile">
 	<figcaption>Mobile, pre-<code>custom.less</code></figcaption>
 </figure>
 

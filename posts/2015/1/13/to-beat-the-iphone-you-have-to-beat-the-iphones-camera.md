@@ -4,7 +4,7 @@
 @@ Description=The iPhone camera continues to be one of the *major* (there are plenty) hardware advantages of all other smartphone offerings.  
 @@ Tags=iPhone, hardware, Android, Stephen Hackett  
 
-Stephen Hackett of 512 Pixels:
+Stephen Hackett of [512 Pixels][512pixels] had this to say about The Verge's piece:
 >It blows my mind that Android OEMs can’t get this right.
 
 In early 2013, [I left iPhone][instagram]. I know. It's crazy. But at the time, the purest Android smartphone out there, the [Nexus 4][m], was calling my name. The allure of an open canvas operating system was enticing. Truly, [Jelly Bean][m 2] was a great release. 
@@ -14,8 +14,6 @@ But do you know what made me come back? The [apps sucking terribly][blogspot] on
 My Android adventure, as short lived as it was, worked wonders for my insecurities with iOS. No matter what the pundits say, iPhone has always had the best camera for the most people. 
 
 [I came running back][instagram 2], and I can't see myself ever leaving again📱
-
-[From [512 Pixels][512pixels]]
 
 [512pixels]: http://www.512pixels.net/blog/2015/1/its-about-the-camera
 [blogspot]: http://my2cents4theday.blogspot.com/2012/03/why-android-apps-especially-tablet-apps.html

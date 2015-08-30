@@ -5,6 +5,6 @@
 @@ Tags=Apple, Apple Watch, culture, Neil Cybart  
 
 Neil Cybart from Above Avalon on Apple's recent Vogue ad:
->There are only so many brands that can get away with just simply having Watch on a blank page. That one page is estimated to have cost Apple close to $200,000.
+>There are only so many brands that can get away with just simply having <i class="fa fa-apple fa-fw"></i> Watch on a blank page. That one page is estimated to have cost Apple close to $200,000.
 
 So true.

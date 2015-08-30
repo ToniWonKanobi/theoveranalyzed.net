@@ -13,7 +13,7 @@ Matthew Yglesias of Vox on an issue near and dear to my heart, the supreme lack 
 
 Yglesias, in typical ultra-liberal Vox fashion, then advocates for a complete dismantling of the copyright situation in the United States motion picture industry. According to his theory, doing so would make it possible for Harmy to distribute his version of the Star Wars trilogy, and moreover, profit from doing so.
 
-That certainly sounds like a nice idea. However, as much as it pains me to be a consumer dealing with the stubbornness of the MPAA and big film studios (and Lucas), I can't help but empathize (somewhat). Put yourself in their shoes. You're George Lucas. Your feeble attempts on capitalizing on the huge successes of your early career have utterly failed. You feel terrible. And upon hearing about a bunch of Star Wars nerds on the internet and how they hate what you've done to *their* movies, you do &mdash;what? You welcome their criticism with open arms? When, in doing so, potentially wipe out the main source of your revenue stream? 
+That certainly sounds like a nice idea. However, as much as it pains me to be a consumer dealing with the stubbornness of the MPAA and big film studios (and Lucas), I can't help but empathize (somewhat). Put yourself in their shoes. You're George Lucas. Your feeble attempts on capitalizing on the huge successes of your early career have utterly failed. You feel terrible. And upon hearing about a bunch of Star Wars nerds on the internet and how they hate what you've done to *their* movies, you do---what? You welcome their criticism with open arms? When, in doing so, potentially wipe out the main source of your revenue stream? 
 
 I don't think so.
 

@@ -132,7 +132,6 @@ If the adoption of iOS 9 even remotely follows the adoption of all the previous 
 [pxlnv]: http://pxlnv.com/linklog/safari-content-blockers-shit-ass-websites/
 [sec]: /2015/7/15/ditching-webfonts
 [sixcolors]: http://www.sixcolors.com
-[theoveranalyzed]: 
 [thi]: /2015/7/19/ditching-webfonts-part-ii-hoefler-webfonts-are-prettier-but-slower
 [twitter]: https://twitter.com/Coudal
 [wikipedia]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Difficulty_with_adoption

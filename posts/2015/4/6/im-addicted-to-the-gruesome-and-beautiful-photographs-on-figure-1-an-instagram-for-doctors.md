@@ -13,8 +13,8 @@ Their oral and maxillofacial section is my favorite, chalk full of interesting p
 
 And, occasionally, not so interesting cases:
 
-<figure>
-	<img src="http://d.pr/i/1dZPk+" alt="silly" width="63%" />
+<figure class="iphone">
+	<img src="http://d.pr/i/1dZPk+" alt="silly" />
 	<figcaption>Silly medical folk</figcaption>
 </figure>
 
