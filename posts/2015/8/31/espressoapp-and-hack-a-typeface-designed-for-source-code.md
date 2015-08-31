@@ -65,7 +65,7 @@ After visiting the GitHub page, I immediately found the CDN[^cdn] link and added
 	<figcaption>CDN source? Nice.</figcaption>
 </figure>
 
-I also called for Hack via `font-family` for `<pre>` and `<pre><code>`:
+I also called for Hack via `font-family` for `<pre>` and `<code>`:
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/176dB+">
