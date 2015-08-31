@@ -1,7 +1,7 @@
 @@ Title=The DIY Design/Development Problem  
 @@ Date=2015-05-06T16:34:00+00:00  
 @@ Description=I'm guilty of it: designing without being a designer. Is it all bad?  
-@@ Tags=design, culture, web design, web, apps, iOS, OS X, web, developers, development, Apple, industry, Marco Arment, Eli Schiff, Louis Mantia   
+@@ Tags=design, culture, web design, apps, iOS, OS X, web, developers, development, Apple, industry, Marco Arment, Eli Schiff, Louis Mantia   
 
 [NSConference][nsconference] recently posted videos of all their speakers for this year's conference, and Marco Arment was one of the [keynote speakers][vimeo]. Interestingly enough, his topic was app marketing, something often mocked on his [podcast][atp]. Still, perhaps unsurprisingly, he did a great job explaining what works in the App Store. And overall, his talk is a great watch for [Overcast][overcast] fans, as he recounts the app from conception, all the way to launch.[^ln]
 

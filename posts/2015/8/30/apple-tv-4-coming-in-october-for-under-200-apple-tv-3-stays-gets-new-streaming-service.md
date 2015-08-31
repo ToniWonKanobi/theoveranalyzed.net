@@ -2,7 +2,7 @@
 @@ Date=2015-08-30T11:41:00+00:00  
 @@ Link=http://9to5mac.com/2015/08/30/apple-tv-4-200-october/  
 @@ Description=Mark Gurman says the Apple TV 4 will bring with it some nifty upgrades over Apple TV 3.  
-@@ Tags=Apple, Apple TV, Mark Gurman
+@@ Tags=Apple, Apple TV, Mark Gurman, Apple rumors  
 @@ Image=https://9to5mac.files.wordpress.com/2015/08/appletvstaggered.png  
 
 <figure>
