@@ -5,7 +5,7 @@
 @@ Tags=This Week on Cotton Bureau, Cotton Bureau, t-shirts, apparel  
 @@ Image=  
 
-<figure class="wide">
+<figure>
 	<a class="nohover" href="linktoshirt">
 		<img src="linktoshirtimage" alt="nameofshirt" />
 	</a>
