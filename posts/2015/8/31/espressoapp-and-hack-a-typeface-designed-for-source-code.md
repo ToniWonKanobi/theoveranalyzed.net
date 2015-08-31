@@ -13,7 +13,7 @@
 
 # Expresso, the "Web Editor" for Mac
 
-My code editor of choice has been with me since my [Squarespace][theoveranalyzed] days. The Squarespace [Developer Platform][squarespace] allowed either [Git][wikipedia]) or [SFTP][wikipedia 2] methods for making changes to Developer Platform sites. Because I was---and in a lot of ways still am---a Git newbie, I chose SFTP instead. At the time, I wasn't sure what that even meant, so I went to YouTube for clues. I stumbled upon this [video][youtube], in which the author explained how to use the Developer Platform via SFTP using [Espresso][macrabbit], a Mac application by [MacRabbit][macrabbit 2]. 
+My code editor of choice has been with me since my [Squarespace][theoveranalyzed] days. The Squarespace [Developer Platform][squarespace] allowed either [Git][wikipedia] or [SFTP][wikipedia 2] methods for making changes to Developer Platform sites. Because I was---and in a lot of ways still am---a Git newbie, I chose SFTP instead. At the time, I wasn't sure what that even meant, so I went to YouTube for clues. I stumbled upon this [video][youtube], in which the author explained how to use the Developer Platform via SFTP using [Espresso][macrabbit], a Mac application by [MacRabbit][macrabbit 2]. 
 
 In a lot of ways, Espresso is very much of the pre-2007 Apple era of OS X applications. Textures are rich, and the menus are reminiscent of a time long forgotten---when real app options/settings were a thing. In my continual search for something better, I've tried the venerable [BBEdit][wikipedia 3], by [Bare Bones Software][barebones]. [Most][twitter] [everyone][twitter 2] [important][twitter 3] [in][twitter 4] [the][twitter 5] [Apple][twitter 6] [blogosphere][twitter 7] uses BBEdit, [and I can understand why][duckduckgo]. Right now, I use a combination of [Byword][bywordapp], [TextEdit][wikipedia 4], and Espresso to keep TheOverAnalyzed up and running. Byword is where I write most of the content. TextEdit is for [Camel][theoveranalyzed 2]-specific file extensions that Byword doesn't recognize.[^redirect] And Espresso is for editing HTML, CSS, and JavaScript files.
 
@@ -62,7 +62,7 @@ After visiting the GitHub page, I immediately found the CDN[^cdn] link and added
 	<a class="nohover" href="http://d.pr/i/sINJ+">
 		<img src="http://d.pr/i/sINJ+" alt="Adding the Hack stylesheet to `header.html`">
 	</a>
-	<figcaption>CDN source? Nice.</figcaption>
+	<figcaption>Changing the <code>font-family</code> preference</figcaption>
 </figure>
 
 I also called for Hack via `font-family` for `<pre>` and `<code>`:
