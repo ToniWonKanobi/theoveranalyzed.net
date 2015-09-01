@@ -3,12 +3,12 @@
 @@ Link=https://design.google.com/articles/evolving-the-google-identity/  
 @@ Description=Google has a new logo. It's very sans-serif-y.  
 @@ Tags=Google, design, Material Design, logos  
-@@ Image=https://g-design.storage.googleapis.com/production/v5/assets/renditions/g-logo-360@2x.png  
+@@ Image=http://d.pr/i/1i5sD+  
 @@ Video=https://g-design.storage.googleapis.com/production/v5/assets/g-header.mp4
 
 <figure>
 	<a class="nohover" href="https://g-design.storage.googleapis.com/production/v5/assets/renditions/g-logo-360@2x.png">
-		<img src="https://g-design.storage.googleapis.com/production/v5/assets/renditions/g-logo-360@2x.png" alt="Google's new logo." />
+		<img src="http://d.pr/i/1i5sD+" alt="Google's new logo." />
 	</a>
 	<figcaption><i>Very</i> <a href="https://en.wikipedia.org/wiki/Sans-serif">sans-serif</a>-y</figcaption>
 </figure>
@@ -23,8 +23,18 @@ Wow---the logotype looks *much* better in the full [Material Design][google] set
 
 [From [Stefan Constantine][twitter]]
 
+<div class="update">
+
+## Update
+
+Apparently I didn't hate it as much as [some][kottke] [people][twitterdm].
+
+</div>
+
 [^still]: I still wish they would have chosen a less "perfect" sans-serif, but I'm partial to [~serif fonts hiding beneath the "sans-serif" banner][typography]. 
 
 [google]: https://design.google.com/articles/expressing-brand-in-material/
+[kottke]: http://kottke.org/15/09/google-has-a-new-logo
 [twitter]: http://twitter.com/WhatTheBit/status/638742529228169217
+[twitterdm]: https://twitter.com/CraftyDeano/status/638743576671834112
 [typography]: http://www.typography.com/fonts/ideal-sans/overview/
