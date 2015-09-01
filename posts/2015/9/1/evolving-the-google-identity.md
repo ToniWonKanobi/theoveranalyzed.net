@@ -27,12 +27,16 @@ Wow---the logotype looks *much* better in the full [Material Design][google] set
 
 ## Update
 
-Apparently I didn't hate it as much as [some][kottke] [people][twitterdm].
+1. Apparently I didn't hate it as much as [some][kottke] [people][twitterdm].
+2. [Ars Technica][ars]:
+	>According to [Fast Company][fc], the new font is Google's own creation, called "Product Sans."
 
 </div>
 
 [^still]: I still wish they would have chosen a less "perfect" sans-serif, but I'm partial to [~serif fonts hiding beneath the "sans-serif" banner][typography]. 
 
+[ars]: http://arstechnica.com/gadgets/2015/09/google-gets-a-new-logo/
+[fc]: http://www.fastcodesign.com/3050613/googles-new-logo-is-its-biggest-update-in-16-years
 [google]: https://design.google.com/articles/expressing-brand-in-material/
 [kottke]: http://kottke.org/15/09/google-has-a-new-logo
 [twitter]: http://twitter.com/WhatTheBit/status/638742529228169217
