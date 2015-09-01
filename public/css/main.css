@@ -200,7 +200,9 @@ pre code {
 /* Fixes `markdown-it` `.homepage` fenced code block funkiness */
 .homepage pre code { white-space: pre-line }
 
-audio { width: 100%; }
+audio { width: 100% }
+
+video { width: 100% }
 
 .entry li {
 	padding-left: 0.2em;
@@ -249,7 +251,7 @@ table th code {
 /* This is only until CommonMark / `markdown-it` supports true table captions */
 h2.tablecaption {
 	font-size: 1.1em;
-    margin: 0.75em 20% 0.75em 20%;
+    margin: 0.75em 30% 0.75em 10%;
     width: 60%
 }
 
@@ -416,11 +418,6 @@ figure:nth-child(1) { margin-top: 1.25em }
 /* Removes italics on code blocks */
 .topstory code { font-style: normal }
 
-/* Prevents footnote content from appearing on the homepage */
-.homepage section.footnotes,
-.homepage .article hr.footnotes-sep,
-.homepage .footnote-ref { display: none }
-
 .update {
 	margin-top: 2em;
 	background-color: rgba(63, 110, 162, 0.11);
@@ -478,6 +475,8 @@ figure:nth-child(1) { margin-top: 1.25em }
 
 .takehome p,
 .takehomeLeft p { margin: 0 }
+
+
 
 /* Disabled until CommonMark / `markdown-it-footnote` gets fixed */
 .main hr.footnotes-sep {
