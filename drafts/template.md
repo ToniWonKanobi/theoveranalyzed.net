@@ -8,27 +8,46 @@
 
 <div class="topstory">
 
-Text
+Italics
 
 </div>
 
-<div class="takehome">Boom</div>
+<div class="takehome">boom</div>
+<div class="takehomeLeft">boom</div>
 
+<!-- Single image -->
 <figure>
+<figure class="wide">
 <figure class="iphone">
 <figure class="applewatch">
-<figure class="wide">
 <figure class="figleft">
-<figure class="fright">
-<figure class="twoleft">
-<figure class="tworight">
+<figure class="figright">
 	<a class="nohover" href="contentlink">
-		<img src="imagelink" alt="text" />
+		<img src="imagelink" alt="text">
 	</a>
-	<figcaption><a href="">text</a></figcaption>
+	<figcaption>caption</figcaption>
 </figure>
 
-<h2 class="tablecaption" id="tablename">TableCaption</h2>
+<!-- Two inline images -->
+<figure class="inlinetwo">
+	<img src="imagelink" alt="text">
+	<img src="imagelink" alt="text">
+	<figcaption>caption</figcaption>
+</figure>
+
+<!-- Three inline images -->
+<figure class="inlinethree">
+	<img src="imagelink" alt="text">
+	<img src="imagelink" alt="text">
+	<img src="imagelink" alt="text">
+	<figcaption>caption</figcaption>
+</figure>
+
+<!-- Table in a <div> to allow overflow scroll -->
+<!-- Table in a <figure> for caption -->
+<div class="table"
+
+<figure>
 
 | First Header  | Second Header | Third Header         |
 | :------------ | :-----------: | -------------------: |
@@ -36,10 +55,16 @@ Text
 | Second row    | **Cell**      | *Cell*               |
 | Third row     | Cell that spans across two columns  ||
 
+<figcaption>Table</figcaption>
+
+</figure>
+
+</div>
+
 <div class="update">
 
 ## Update
-<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">Date</p>
+<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto"><time datetime="2015-01-01">January 1, 2015</time></p>
 
 Text
 
