@@ -55,7 +55,7 @@ Indeed, even the Pages.app application icon has now incorporated the Yosemite an
 	<figcaption>The "flat" application icon for Pages.app 5.0+</figcaption>
 </figure>
 	
-Louis Mantia agrees:
+Louie Mantia agrees:
 
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> sure but this one suits Yosemite better.</p>&mdash; Louie (@mantia) <a href="https://twitter.com/mantia/status/638444776191209472">August 31, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
