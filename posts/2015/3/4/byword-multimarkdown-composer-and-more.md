@@ -1,5 +1,5 @@
 @@ Title=Byword, MultiMarkdown Composer, and More  
-@@ Date=2015-03-04T08:00:00+00:00  
+@@ Date=2015-03-04 08:00  
 @@ Description=Here's my workflow for blogging in Squarespace.  
 @@ Tags=Squarespace, blogging, apps, TheOverAnalyzed, MultiMarkdown, Markdown, Byword  
   
@@ -27,7 +27,7 @@ Yesterday, I fixed that. How did I fix that?  TL;DR: I switched from Byword to M
 
 Consider the following. This is the type of reference-style footnote I might have tried to write in Byword:
 
-```md
+```
 Yes you did, Brett. Yes you did.[^1]
 
 [^1]: [Chyeah][urbandictionary].
@@ -37,7 +37,7 @@ Yes you did, Brett. Yes you did.[^1]
 
 The above snippet *should* get translated to the following HTML:
 
-```html
+```
 <p>Yes you did, Brett. Yes you did.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">1</a></p>
 
 <div class="footnotes"><hr /><ol>
@@ -52,7 +52,7 @@ The above snippet *should* get translated to the following HTML:
 
 But instead, Byword's HTML parse results in the following:
 
-```html
+```
 <p>Yes you did, Brett. Yes you did.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
 
 <div class="footnotes">
@@ -83,7 +83,7 @@ My solution was to switch from Byword to MultiMarkdown Composer. This was not an
 
 And so, after writing a similar snippet and parsing to HTML using MultiMarkdown Composer, the resulting HTML looks like this:
 
-```html
+```
 <p>Yes you did, Brett. Yes you did.<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">1</a></p>
 
 <div class="footnotes"><hr /><ol>
@@ -103,7 +103,7 @@ This is how MultiMarkdown Composer parses MultiMarkdown, and this is how the res
 First, let me say this: I love, *love* Byword. The guys at [Metaclassy][metaclassy] have built an incredibly easy to use and beautiful app. 
 
 <figure>
-	<img src="http://d.pr/i/1fsbq+" alt="sparsity"  />
+	<img src="http://d.pr/i/1fsbq+" alt="Sparsity">
 	<figcaption>Byword's sparsity is part of its charm</figcaption>
 </figure>
 
@@ -112,12 +112,12 @@ Byword is both functional, and actually quite clever at the same time. Want to c
 Contrast this with MultiMarkdown Composer, in which the hotkey is buried in the Edit menu item:
 
 <figure>
-	<img src="http://d.pr/i/fWNQ+" alt="ehh"  />
+	<img src="http://d.pr/i/fWNQ+" alt="Ehh">
 	<figcaption>Ehh...</figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/emqI+" alt="mmd"  />
+	<img src="http://d.pr/i/emqI+" alt="MMD">
 	<figcaption>MultiMarkdown's window has more content, but isn't *that* much more busy than Byword</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ The problem with Byword is that while the app *does* support [the most important
 Probably the biggest unexpected benefit of using MultiMarkdown Composer were the **inline footnotes.**[^inf]
 
 <figure>
-	<img src="http://d.pr/i/nOPD+" alt="caption"  />
+	<img src="http://d.pr/i/nOPD+" alt="Easy">
 	<figcaption>Could this be any easier?</figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ Back when I was using Byword, whenever I was writing a long document, I would ha
 
 Before, for an `<h1>` header named `Introduction`, I would write this for my Table of Contents / Index:
 
-```html
+```
 <h2>Contents</h2>
 
 * [Introduction](#introduction)
@@ -162,7 +162,7 @@ And then I would have to go back through my document and copy that format for re
 With MultiMarkdown Composer, I just place a `{{TOC}}` at the top of my document, and then I get something wonderful like this:
 
 <figure>
-	<img src="http://d.pr/i/1azBA+" alt="so"  class="shadow" />
+	<img src="http://d.pr/i/1azBA+" alt="So much easier">
 	<figcaption><em>So</em> much easier than doing it by hand</figcaption>
 </figure>
 
@@ -171,7 +171,7 @@ With MultiMarkdown Composer, I just place a `{{TOC}}` at the top of my document,
 Basically, this whole list:
 
 <figure>
-	<img src="http://d.pr/i/1ad17+" alt="syntax"  />
+	<img src="http://d.pr/i/1ad17+" alt="Syntax">
 	<figcaption>With nifty tricks like this, I spend more time writing than worrying about syntax</figcaption>
 </figure>
 

@@ -1,5 +1,5 @@
 @@ Title=KGI: 4-Inch iPhone ‘Unlikely’ for 2015, Force Touch Will Work Differently for MacBook and Apple Watch  
-@@ Date=2015-04-02T10:22:00+00:00  
+@@ Date=2015-04-02 10:22  
 @@ Link=http://9to5mac.com/2015/04/02/kgi-4-inch-iphone-unlikely-for-2015-force-touch-will-work-differently-to-macbook-and-watch/  
 @@ Description=Will Apple be releasing a 4" iPhone 6C/S this September?  
 @@ Tags=Apple rumors, Apple, iPhone  

@@ -1,13 +1,11 @@
 @@ Title=How Practical Typography Helped Me Be a Better Writer  
-@@ Date=2015-08-25T10:35:00+00:00  
+@@ Date=2015-08-25 10:35  
 @@ Description=How did I *just* discover Matthew Butterick's Practical Typography? It's helped me become a better writer, which should totally benefit you all.  
 @@ Tags=fonts, typefaces, typography, web design, blogging, Matthew Butterick, Practical Typography  
 @@ Image=http://practicaltypography.com/images/index-a.svg  
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/17dhF+">
-		<img src="http://d.pr/i/17dhF+" alt="Practical Photography: Semicolons and colons" />
-	</a>
+	<img src="http://d.pr/i/17dhF+" alt="Practical Photography: Semicolons and colons">
 	<figcaption>No one ever gets <a href="http://practicaltypography.com/semicolons-and-colons.html">these</a> right.</figcaption>
 </figure>
 
@@ -55,7 +53,7 @@ There were a couple things wrong with my previous usage of hyphens instead of da
 	```
 	
 	The above Markdown gets parsed to this:
-	
+	<!-- I could have used `<mark>` here, but I was too lazy -->
 	<pre>Prose&mdash;aside&mdash;back to prose.</pre>
 
 ### What's the difference between *en* and *em* dashes?
@@ -64,26 +62,29 @@ Both dashes have different uses.[^int] As stated previously, em dashes are for s
 
 En dashes are appropriate to signify a range of values, such has the year range 2015--2016:
 
-<div class="table">
+<div class="table" id="endashes">
 
-<h2 class="tablecaption" id="table1.1">Table 1.1 &ndash; Incorrect use of Hyphens</h2>
+<figure>
 
-| Sample Text | `markdown-it` ([CommonMark][cm]) Parse |  
-| :---------: | :------------------------------------: |  
+| Sample Text | `markdown-it` ([CommonMark][cm]) Parse |    
+| :---------: | :------------------------------------: |   
 | `2015-2016` |                2015-2016               |
+	
+<figcaption>Table 1.1 &ndash; Incorrect use of Hyphens</figcaption>
 
-</div>
+</figure>
 
-<div class="table">
-
-<h2 class="tablecaption" id="table1.2">Table 2.2 &ndash; Correct use of en dash</h2>
+<figure>
 
 | Sample Text | `markdown-it` ([CommonMark][cm]) Parse |  
 | :---------: | :------------------------------------: |  
 | `2015-2016` |             2015&ndash;2016            |
 
-</div>
+<figcaption>Table 1.2 &ndash; Correct use of en dash</figcaption>
 
+</figure>
+
+</div>
 
 According to Butterick, this nasty habit of writers using double-hyphens in place of actual em dashes was born from the [typewriter days][practicaltypography 4]. After a simple Finder search,[^ma] I spent about an hour or so going through ~50 or so Markdown documents, quickly changing all the instances of inappropriate double hyphens ` -- ` and  changing them instead to the correct em dashes <span><code>&mdash;</code></span>.
 
@@ -93,9 +94,9 @@ Butterick also had good advice as far as header (`<h1>`, `<h2>`, etc.) font size
 
 Not only were `.entry`-level headings made too big compared to the regular font size, but post titles (`.postHeader` and `.postHeaderLinked`) were even *bigger*. For example, for `.postHeader` (non-linked posts) titles, the font size was 200% body text for the homepage (`.homepage`), and 220% on the permalink page (`.post`). 
 
-<div class="table">
+<div class="table" id="previousfontsizes">
 
-<h2 class="tablecaption" id="table2.1">Table 2.1 &ndash; Previous Font Sizes</h2>
+<figure>
 
 | Sample Text                                | Text Type              |   HTML & CSS Classes   |  
 | :----------------------------------------- | :--------------------- | :--------------------: |  
@@ -104,13 +105,17 @@ Not only were `.entry`-level headings made too big compared to the regular font 
 | <span style="font-size:2em">Blah</span>    | "Homepage" post titles | `.homepage .postTitle` |  
 | <span style="font-size:2.2em">Blah</span>  | "Permalink" post title |   `.post .postTitle`   |
 
+<figcaption>Table 2.1 &ndash; Previous Font Sizes</figcaption>
+
+</figure>
+
 </div>
 
 Note that in Table 2.1 above, I left the font weight unchanged. The differences in font size are even more exaggerated if my previous `font-weight`'s are applied:[^std]
 
-<div class="table">
+<div class="table" id="previousfontweightapplied">
 
-<h2 class="tablecaption" id="table2.2">Table 2.2 &ndash; Previous Font Sizes with <code>font-weight</code> Applied</h2>
+<figure>
 
 | Sample Text                                                | Text Type              |   HTML & CSS Classes   | `font-weight` | 
 | :--------------------------------------------------------- | :--------------------- | :--------------------: | :-----------: |  
@@ -118,6 +123,10 @@ Note that in Table 2.1 above, I left the font weight unchanged. The differences 
 | <span style="font-size:1.75em;font-weight:600">Blah</span> | Headings               |     `<h1>`, `<h2>`     |      600      |  
 | <span style="font-size:2em;font-weight:800">Blah</span>    | "Homepage" post titles | `.homepage .postTitle` |      800      |  
 | <span style="font-size:2.2em;font-weight:800">Blah</span>  | "Permalink" post title |   `.post .postTitle`   |      800      |  
+
+<figcaption>Table 2.2 &ndash; Previous Font Sizes with <code>font-weight</code> Applied</figcaption>
+
+</figure>
 
 </div>
 
@@ -135,11 +144,11 @@ I'm bound to spend more time with Butterick's Practical Typography. There's just
 
 After publishing this post, I stumbled upon an old [review][mw] from Jason Snell, former *editorial director* for Macworld:
 
-<img class="jpg" src="http://d.pr/i/7mEj+" alt="Jason Snell em dash misuse" />
+<img class="jpg" src="http://d.pr/i/7mEj+" alt="Jason Snell em dash misuse">
 
 And check out the [latest][vox] from Ezra Klein---*editor-in-chief* for Vox:
 
-<img class="jpg" src="http://d.pr/i/12BRl+" alt="Ezra Klein em dash misuse" />
+<img class="jpg" src="http://d.pr/i/12BRl+" alt="Ezra Klein em dash misuse">
 
 Looks like I wasn't alone in my incorrect usage of en/em dashes.
 

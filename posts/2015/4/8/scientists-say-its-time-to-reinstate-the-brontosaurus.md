@@ -1,5 +1,5 @@
 @@ Title=Scientists Say It's Time to Reinstate the Brontosaurus 
-@@ Date=2015-04-08T10:00:00+00:00  
+@@ Date=2015-04-08 10:00  
 @@ Link=http://www.wired.com/2015/04/scientists-say-time-reinstate-brontosaurus/  
 @@ Description=Return of the Brontosaurus.  
 @@ Tags=science, dinosaurs  

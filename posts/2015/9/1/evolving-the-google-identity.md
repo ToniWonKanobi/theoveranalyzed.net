@@ -1,5 +1,5 @@
 @@ Title=Evolving the Google Identity  
-@@ Date=2015-09-01T09:28:00+00:00  
+@@ Date=2015-09-01 09:28  
 @@ Link=https://design.google.com/articles/evolving-the-google-identity/  
 @@ Description=Google has a new logo. It's very sans-serif-y.  
 @@ Tags=Google, design, Material Design, logos  
@@ -8,7 +8,7 @@
 
 <figure>
 	<a class="nohover" href="https://g-design.storage.googleapis.com/production/v5/assets/renditions/g-logo-360@2x.png">
-		<img src="http://d.pr/i/1i5sD+" alt="Google's new logo." />
+		<img src="http://d.pr/i/1i5sD+" alt="Google's new logo.">
 	</a>
 	<figcaption><i>Very</i> <a href="https://en.wikipedia.org/wiki/Sans-serif">sans-serif</a>-y</figcaption>
 </figure>

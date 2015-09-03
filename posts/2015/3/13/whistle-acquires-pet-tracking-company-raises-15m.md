@@ -1,5 +1,5 @@
 @@ Title=Whistle Acquires Pet-Tracking Company, Raises $15M  
-@@ Date=2015-03-13T11:13:00+00:00  
+@@ Date=2015-03-13 11:13  
 @@ Link=http://video.foxbusiness.com/v/4103311805001/whistle-acquires-pet-tracking-company-raises-15m/?#sp=show-clips  
 @@ Description=Whistle, makers of a popular pet activity monitor, have acquired a GPS tracking company.  
 @@ Tags=pets, animals, dogs, Whistle, GPS  

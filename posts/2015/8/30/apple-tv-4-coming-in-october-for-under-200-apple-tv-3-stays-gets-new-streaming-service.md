@@ -1,5 +1,5 @@
 @@ Title=Apple TV 4 Coming in October for Under $200, Apple TV 3 Stays & Gets New Streaming Service 
-@@ Date=2015-08-30T11:41:00+00:00  
+@@ Date=2015-08-30 11:41  
 @@ Link=http://9to5mac.com/2015/08/30/apple-tv-4-200-october/  
 @@ Description=Mark Gurman says the Apple TV 4 will bring with it some nifty upgrades over Apple TV 3.  
 @@ Tags=Apple, Apple TV, Mark Gurman, Apple rumors  
@@ -7,7 +7,7 @@
 
 <figure>
 	<a class="nohover" href="https://9to5mac.files.wordpress.com/2015/08/appletvstaggered.png">
-		<img src="https://9to5mac.files.wordpress.com/2015/08/appletvstaggered.png" alt="Apple TV 4" />
+		<img src="https://9to5mac.files.wordpress.com/2015/08/appletvstaggered.png" alt="Apple TV 4">
 	</a>
 	<figcaption>Rough mockup of fourth Apple TV vs. third Apple TV by Michael Steeber</figcaption>
 </figure>

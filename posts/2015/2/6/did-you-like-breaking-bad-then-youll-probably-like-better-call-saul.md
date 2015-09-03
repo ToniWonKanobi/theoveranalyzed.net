@@ -1,5 +1,5 @@
 @@ Title=Did You Like Breaking Bad? Then You'll Probably Like Better Call Saul  
-@@ Date=2015-02-06T13:30:00+00:00  
+@@ Date=2015-02-06 13:30  
 @@ Link=http://www.vox.com/2015/2/6/7992801/better-call-saul-review-amc  
 @@ Description=Breaking Bad returns, but without Walter, and Jesse, and Hank, and other people, and with a new name. And it's still good.  
 @@ Tags=TV, pop culture, Breaking Bad, Better Call Saul  

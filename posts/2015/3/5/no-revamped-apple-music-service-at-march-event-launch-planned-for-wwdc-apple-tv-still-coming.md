@@ -1,5 +1,5 @@
 @@ Title=No Revamped Apple Music Service at March Event, Launch Planned for WWDC, Apple TV Still Coming   
-@@ Date=2015-03-05T12:26:00+00:00  
+@@ Date=2015-03-05 12:26  
 @@ Link=http://9to5mac.com/2015/03/05/apple-plans-relaunched-beats-streaming-music-service-for-wwdc-skipping-march-event/  
 @@ Description=9to5Mac says Apple will *not* be launching their rumored streaming music service at the March 9 event.  
 @@ Tags=Apple rumors, Apple, music, streaming music, Beats, Apple Music  

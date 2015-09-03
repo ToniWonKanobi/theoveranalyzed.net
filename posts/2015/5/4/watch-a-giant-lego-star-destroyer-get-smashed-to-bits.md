@@ -1,5 +1,5 @@
 @@ Title=Watch a Giant Lego Star Destroyer Get Smashed to Bits  
-@@ Date=2015-05-04T16:00:00+00:00  
+@@ Date=2015-05-04 16:00  
 @@ Link=http://www.wired.com/2015/05/lego-super-star-destroyer-destroyed/  
 @@ Description=Legos. Star Wars. A match made in heaven.  
 @@ Tags=Legos, Star Wars, Star Wars Day, May The Fourth, pop culture, movies  

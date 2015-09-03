@@ -1,5 +1,5 @@
 @@ Title=Petting Sharks to Make Them 'Play Dead'  
-@@ Date=2015-02-12T12:01:00+00:00  
+@@ Date=2015-02-12 12:01  
 @@ Link=http://digg.com/video/petting-sharks-to-make-them-play-dead  
 No biggie, just petting some sharks.  
 @@ Description=Precious sharks.  

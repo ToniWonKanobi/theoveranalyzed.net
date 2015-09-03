@@ -1,5 +1,5 @@
 @@ Title=I Guess Voice Memos Gets a Friend  
-@@ Date=2015-03-09T14:16:00+00:00  
+@@ Date=2015-03-09 14:16  
 @@ Link=https://twitter.com/tapbot_paul/status/575037202092064768  
 @@ Description=Paul Haddad of Tapbots has an interesting take on the Apple Watch companion iOS app.  
 @@ Tags=apps, iOS, Apple, Apple Watch, Paul Haddad  

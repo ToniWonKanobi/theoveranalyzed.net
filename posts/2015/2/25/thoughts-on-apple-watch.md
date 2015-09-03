@@ -1,5 +1,5 @@
 @@ Title=Thoughts on Apple Watch  
-@@ Date=2015-02-25T16:00:00+00:00
+@@ Date=2015-02-25 16:00  
 @@ Description=Apple Watch is going to be important. But is it *that* important? Here are my thoughts.  
 @@ Tags=Apple, Apple Watch, reviews  
 

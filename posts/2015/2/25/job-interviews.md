@@ -1,5 +1,5 @@
 @@ Title=Job Interviews    
-@@ Date=2015-02-25T18:00:00+00:00  
+@@ Date=2015-02-25 18:00  
 @@ Description=I've been on a few job interviews the past few weeks. It hasn't been fun.    
 @@ Tags=Anthony, dentistry  
 

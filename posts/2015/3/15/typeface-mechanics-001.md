@@ -1,5 +1,5 @@
 @@ Title=Typeface Mechanics: 001  
-@@ Date=2015-03-15T10:00:00+00:00  
+@@ Date=2015-03-15 10:00  
 @@ Link=http://www.frerejones.com/blog/typeface-mechanics-001/  
 @@ Description=Frere-Jones gives a primer on fonts.  
 @@ Tags=typefaces, fonts, design, web design, web, Tobias Frere-Jones, typography 

@@ -1,5 +1,5 @@
 @@ Title=You're Listening Wrong (No You're Not)   
-@@ Date=2015-02-18T12:00:00+00:00  
+@@ Date=2015-02-18 12:00  
 @@ Description=Apparently listening to podcasts at higher than 1x and or with silence-removing features is heresy.  
 @@ Tags=podcasts, culture, apps, Marco Arment, Overcast  
 

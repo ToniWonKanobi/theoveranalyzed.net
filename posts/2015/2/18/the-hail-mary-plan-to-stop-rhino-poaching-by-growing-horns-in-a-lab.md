@@ -1,5 +1,5 @@
 @@ Title=The Hail Mary Plan to Stop Rhino Poaching by Growing Horns in a Lab  
-@@ Date=2015-02-18T10:00:00+00:00  
+@@ Date=2015-02-18 10:00  
 @@ Link=http://motherboard.vice.com/read/the-hail-mary-plan-to-stop-rhino-poaching-by-growing-horns-in-a-lab  
 @@ Description=Our planet is poised to lose rhinos forever due to poaching. Maybe this will help?  
 @@ Tags=animals, advocacy, animal advocacy    

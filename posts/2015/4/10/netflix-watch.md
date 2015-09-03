@@ -1,5 +1,5 @@
 @@ Title=Netflix Watch  
-@@ Date=2015-04-10T11:51:00+00:00  
+@@ Date=2015-04-10 11:51  
 @@ Link=https://www.youtube.com/watch?v=NK33GjwzNRI  
 @@ Description=Netflix has a sense of humor.  
 @@ Tags=funny, Netflix, Apple, Apple Watch  

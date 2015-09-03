@@ -1,5 +1,5 @@
 @@ Title=Product Reviews Are Broken  
-@@ Date=2015-04-09T11:14:00+00:00  
+@@ Date=2015-04-09 11:14  
 @@ Link=http://www.aboveavalon.com/notes/2015/4/8/product-reviews-are-broken  
 @@ Description=In this season of new Apple products, Neil Cybart takes apart the broken review process.  
 @@ Tags=Apple, hardware, reviews, Neil Cybart  

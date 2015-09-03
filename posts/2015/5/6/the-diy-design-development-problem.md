@@ -1,5 +1,5 @@
 @@ Title=The DIY Design/Development Problem  
-@@ Date=2015-05-06T16:34:00+00:00  
+@@ Date=2015-05-06 16:34  
 @@ Description=I'm guilty of it: designing without being a designer. Is it all bad?  
 @@ Tags=design, culture, web design, apps, iOS, OS X, web, developers, development, Apple, industry, Marco Arment, Eli Schiff, Louis Mantia   
 

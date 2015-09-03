@@ -1,5 +1,5 @@
 @@ Title=More Than You Ever Wanted to Know About Apple’s Spotlight Location Icons  
-@@ Date=2015-05-09T06:44:00+00:00  
+@@ Date=2015-05-09 06:44  
 @@ Link=http://mercury.io/blog/more-than-you-ever-wanted-to-know-about-apples-spotlight-location-icons  
 @@ Description=Rusty Mitchell takes a dive into Apple's Spotlight icons in iOS 8.  
 @@ Tags=Apple, iOS, iOS 8, design, icons  

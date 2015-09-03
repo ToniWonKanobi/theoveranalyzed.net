@@ -1,5 +1,5 @@
 @@ Title=Vintage Logos  
-@@ Date=2015-02-02T10:00:00+00:00  
+@@ Date=2015-02-02 10:00
 @@ Link=https://www.flickr.com/photos/mr_carl/sets/72157604144345854/  
 @@ Description=I don't often link to Daring Fireball content (since I assume if you follow me, you probably follow John Gruber). However, this is good stuff.  
 @@ Tags=design, logos, history, FedEx, Lindon Leader  
@@ -13,8 +13,9 @@ My all time favorite logo is that of [FedEx][googleusercontent].[^f]  [Fast Comp
 
 <figure>
 	<a class="nohover" href="http://a.fastcompany.net/multisite_files/codesign/imagecache/1280/poster/2012/10/1671067-poster-1280-fedex-ex0187.jpg">
-		<img src="http://a.fastcompany.net/multisite_files/codesign/imagecache/1280/poster/2012/10/1671067-poster-1280-fedex-ex0187.jpg" alt="FedEx" />
+		<img src="http://a.fastcompany.net/multisite_files/codesign/imagecache/1280/poster/2012/10/1671067-poster-1280-fedex-ex0187.jpg" alt="FedEx">
 	</a>
+	<figcaption>The iconic FedEx logo</figcaption>
 </figure>
 
 And here is an excerpt from Matthew May's [The Laws of Subtraction][amazon] featuring a conversation with [Lindon Leader][leadercreative], the designer of the logo: 

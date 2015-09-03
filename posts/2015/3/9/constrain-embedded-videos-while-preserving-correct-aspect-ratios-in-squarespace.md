@@ -1,5 +1,5 @@
 @@ Title=Constrain Embedded Videos While Preserving Correct Aspect Ratios in Squarespace
-@@ Date=2015-03-09T08:00:00+00:00  
+@@ Date=2015-03-09 08:00 
 @@ Description=Here's how I get YouTube videos to behave responsively in my webpages.  
 @@ Tags=Squarespace, TheOverAnalyzed, web, web design, HTML, JavaScript, jQuery  
 
@@ -19,7 +19,7 @@ Suppose I wanted to embed it in the body of my post, rather than simply have it 
 
 Here's the embed code copy and pasted straight from YouTube, for the video mentioned above:
 
-```html
+```
 <iframe width="560" height="315" 
 	src="https://www.youtube.com/embed/kOh6iATnEnw" 
 	frameborder="0" allowfullscreen>
@@ -31,7 +31,7 @@ Now, because I have set the width of my "main content" to 450px,[^on][^tr] I wou
 The problem with that is that it leads to aspect ratio weirdness like this:
 
 <figure>
-	<img src="http://d.pr/i/10yC5+" alt="stubby" />
+	<img src="http://d.pr/i/10yC5+" alt="Stubby">
 	<figcaption>Stubby</figcaption>
 </figure>
 
@@ -53,8 +53,9 @@ Here's how I chose to get around the funky looking `width="100%"` 'fix:'
 		* *x* = 253 px
 4. Modify the `height` string accordingly, using that `height` value (*x*) calculated in the previous step:  
 	`height="253"`
-5. Finally, place that value in the `<iframe>` accordingly:  
-	```html
+5. Finally, place that value in the `<iframe>` accordingly:
+
+	```
 	<iframe width="450" height="253" 
 		src="https://www.youtube.com/embed/kOh6iATnEnw" frameborder="0" allowfullscreen>
 	</iframe>
@@ -88,14 +89,14 @@ Copier says to "Target your .container, .wrapper, .post, etc." The problem was t
 To figure out what container to target using Safari, first make sure you have turned on "Show Develop menu in menu bar" (Chrome users can do something similar).
 
 <figure>
-	<img src="http://d.pr/i/1097d+" alt="make" />
+	<img src="http://d.pr/i/1097d+" alt="Make sure">
 	<figcaption>Make sure the Develop option is checked</figcaption>
 </figure>
 
 Then, navigate to your page and then navigate to `Develop` → `Show Page Source`.[^or]
 
 <figure>
-	<img src="http://d.pr/i/1bkxh+" alt="showing"  />
+	<img src="http://d.pr/i/1bkxh+" alt="Showing the page source">
 	<figcaption>Showing the page source has helped me with lots of HTML/CSS problems in the past</figcaption>
 </figure>
 
@@ -104,14 +105,14 @@ For my site, I visited the `/archive/` page, which is the URL slug for my main b
 After viewing the source, make sure that "Source Code" is selected and then click "Inspect Element". This will allow you to hover over the main content area of the blog post to try and figure out what that area is called. Whatever that main area is called---*that's* what you're looking to target with the script.
 
 <figure>
-	<img src="http://d.pr/i/10stf+" alt="looking"  />
+	<img src="http://d.pr/i/10stf+" alt="Looking for important stuff">
 	<figcaption>Looking for the important stuff</figcaption>
 </figure>
 
 What we are looking for (at least in my template): `.main-content`
 
 <figure>
-	<img src="http://d.pr/i/1enKi+" alt="there"  />
+	<img src="http://d.pr/i/1enKi+" alt="There you are">
 	<figcaption>There you are, <code>.main-content</code></figcaption>
 </figure>
 
@@ -121,7 +122,7 @@ Once I recognized the `.container` that Squarespace uses for main post content (
 
 Paste the following code into either the site-wide [`Code injection`][squarespace] area,[^co] or the `Page Header Code Injection` area:[^con]
 
-```js
+```
 <script src="/scripts/fitvids.js"></script>
 <script>
   $(document).ready(function(){

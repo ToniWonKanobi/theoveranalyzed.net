@@ -1,5 +1,5 @@
 @@ Title=Red-tailed Hawks  
-@@ Date=2015-04-02T14:00:00+00:00  
+@@ Date=2015-04-02 14:00  
 @@ Description=Red-tailed hawks are just as awesome as John Oliver says.  
 @@ Tags=John Oliver, Last Week Tonight, Last Week Tonight With John Oliver, birds, raptors, red-tailed hawks, animals, TV, funny  
 
@@ -18,7 +18,7 @@ Whenever we can, Allison and I visit our [favorite place on Earth][nps]. And whi
 TRC is a non-profit that rehabilitates injured birds of prey. As part of their mission, they offer tours and demonstrations as opportunities for education for tourists. 
 
 <figure>
-	<img src="http://d.pr/i/1dQXc+" alt="ruby"  />
+	<img src="http://d.pr/i/1dQXc+" alt="Ruby">
 	<figcaption>Ruby the red-tailed hawk</figcaption>
 </figure>
 

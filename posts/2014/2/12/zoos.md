@@ -1,5 +1,5 @@
 @@ Title=Zoos  
-@@ Date=2014-02-12T22:45:00+00:00  
+@@ Date=2014-02-12 22:45  
 @@ Description=Zoos are terrible. Read to find out why.  
 @@ Tags=animal advocacy, animals, advocacy, The Dodo  
 

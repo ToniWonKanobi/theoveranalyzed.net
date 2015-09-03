@@ -1,5 +1,5 @@
 @@ Title=Downton Abbey Ending After Season 6  
-@@ Date=2015-03-23T07:40:00+00:00  
+@@ Date=2015-03-23 07:40  
 @@ Link=http://www.slashfilm.com/downton-abbey-ending/  
 @@ Description=We only have one more season with our favorite Yorkshire aristocrats.  
 @@ Tags=Downton Abbey, TV  

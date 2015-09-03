@@ -1,14 +1,12 @@
 @@ Title=Unicode 9 Emoji Updates  
-@@ Date=2015-08-18T08:21:00+00:00  
+@@ Date=2015-08-18 08:21  
 @@ Link=http://blog.emojipedia.org/unicode-9-emoji-updates  
 @@ Description=The candidate list for Unicode 9 is taking shape, with the final list of new emojis scheduled for approval in mid-2016. And there's an eagle!  
 @@ Tags=Emoji, Unicode, Unicode 9  
 @@ Image=https://d23f6h5jpj26xu.cloudfront.net/01snwq5hg087kg_retina.png  
 
 <figure class="iphone">
-	<a class="nohover" href="http://d.pr/i/13P02+">
-		<img src="http://d.pr/i/13P02+" alt="Nature Category Emoji Keyboard" />
-	</a>
+	<img src="http://d.pr/i/13P02+" alt="Nature Category Emoji Keyboard">
 	<figcaption>The Nature section is severely lacking.</figcaption>
 </figure>
 
@@ -23,7 +21,7 @@ Here's Jeremy Burge of the Emojipedia Blog:
 
 <figure>
 	<a class="nohover" href="https://d23f6h5jpj26xu.cloudfront.net/grupjdtdtniw_small.jpg">
-		<img src="https://d23f6h5jpj26xu.cloudfront.net/grupjdtdtniw_small.jpg" alt="Emoji Animals" />
+		<img src="https://d23f6h5jpj26xu.cloudfront.net/grupjdtdtniw_small.jpg" alt="Emoji Animals">
 	</a>
 	<figcaption>Emojipedia Mockups of Unicode 9 Animals</figcaption>
 </figure>

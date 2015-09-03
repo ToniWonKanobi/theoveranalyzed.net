@@ -1,5 +1,5 @@
 @@ Title=Easier and Cleaner iTunes and Amazon Affiliate Linking  
-@@ Date=2015-04-30T08:01:00+00:00  
+@@ Date=2015-04-30 08:01  
 @@ Description=I've collected some nifty affiliate linking tools over the past few months.  
 @@ Tags=tech tips, blogging, apps, iOS, OS X, Affiliate, Blink, StretchLink  
 

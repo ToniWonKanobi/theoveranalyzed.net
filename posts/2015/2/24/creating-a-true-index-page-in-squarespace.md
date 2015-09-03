@@ -1,5 +1,5 @@
 @@ Title=Creating a True Index Page in Squarespace  
-@@ Date=2015-02-24T23:26:00+00:00  
+@@ Date=2015-02-24 23:26   
 @@ Description=Here's how I hacked Squarespace to have a true Index page    
 @@ Tags=Squarespace, blogging, TheOverAnalyzed  
 
@@ -133,8 +133,8 @@ $('#allarchive').append('<p>');
 # Ahh.
 
 <figure>
-	<img src="http://d.pr/i/1iXJC+" alt="finished"  />
-	<figcaption>Yes.</figcaption>
+	<img src="http://d.pr/i/1iXJC+" alt="Finished">
+	<figcaption>Finished.</figcaption>
 </figure>
  
 [^in]: You can also hack one if you are a part of the Developer Platform.

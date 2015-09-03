@@ -1,5 +1,5 @@
 @@ Title=Fall of the Designer Part I: Fashionable Nonsense  
-@@ Date=2015-04-08T08:00:00+00:00  
+@@ Date=2015-04-08 08:00  
 @@ Link=http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense  
 @@ Description=Eli Schiff recently criticized Marco Arment and his speaking out against Apple.  
 @@ Tags=Apple, design, Marco Arment, Eli Schiff, apps  
@@ -21,7 +21,7 @@ I'm no designer. And, admittedly, on [June 10, 2013][apple], no one was happier 
 But you don't have to be a design genius to agree with Schiff. To the completely design-uninitiated folks like yours truly iOS 7/8 looks and feels confusing, unless you know what you're doing. For the designers amongst us, iOS 7/8 really does appear like a UI paradox. 
 
 <figure>
-	<img src="http://d.pr/i/1jQtU+" alt="schiff" />
+	<img src="http://d.pr/i/1jQtU+" alt="Schiff">
 	<figcaption>Schiff: "Above are icons from iOS prior to their modern minimalist flattening. Below are their iOS 7 counterparts. The icons above reflect well whether they belong to Apple or Facebook. The icons below do no such thing."</figcaption>
 </figure>
 

@@ -1,5 +1,5 @@
 @@ Title=Tom Wheeler Tells Cable Industry to Stop Complaining, Start Competing 
-@@ Date=2015-05-06T18:00:00+00:00  
+@@ Date=2015-05-06 18:00  
 @@ Link=http://arstechnica.com/business/2015/05/tom-wheeler-tells-cable-industry-to-stop-complaining-start-competing/  
 @@ Description=Tom Wheeler tells cable industry to suck it up.  
 @@ Tags=Net Neutrality, business, industry, politics, Tom Wheeler  

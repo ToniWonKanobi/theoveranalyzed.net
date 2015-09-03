@@ -7,11 +7,9 @@
 @@ HidepageHeader=true  
 @@ HidepageFooter=true  
 
-<a class="nohover" href="http://d.pr/i/11ITs+" />
-		<img src="http://d.pr/i/11ITs+" alt="Allison" />
-</a>
+<img src="http://d.pr/i/11ITs+" alt="Allison">
 
-<div style="width:400px; margin:auto; text-align:center"/>
+<div style="width:400px; margin:auto; text-align:center">
 
 Eight years ago today, we went on [our first 'big' date][d]
 

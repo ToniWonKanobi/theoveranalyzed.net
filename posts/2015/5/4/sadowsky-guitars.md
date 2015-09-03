@@ -1,5 +1,5 @@
 @@ Title=Sadowsky Guitars  
-@@ Date=2015-05-04T14:24:00+00:00  
+@@ Date=2015-05-04 14:24  
 @@ Link=https://vimeo.com/116084569  
 @@ Description=Roger Sadowsky telling his famous story.  
 @@ Tags=bass, music, Will Lee, Marcus Miller, Sadowsky, New York, history, business  

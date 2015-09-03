@@ -1,5 +1,5 @@
 @@ Title=Just Get This  
-@@ Date=2015-08-10T19:41:00+00:00   
+@@ Date=2015-08-10 19:41  
 @@ Description=Do you have anyone in your life who is *super* particular about what is purchased for them? Odds are that they're a nightmare to shop for. I know how it is, because I am that person.  
 @@ Tags=Anthony, ATP, shopping  
 @@ Image=http://m.memegen.com/c2brh8.jpg  

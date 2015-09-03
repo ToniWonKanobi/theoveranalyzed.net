@@ -1,5 +1,5 @@
 @@ Title=See the Great ‘Star Wars: The Force Awakens’ Comic Con Reel
-@@ Date=2015-07-11T07:27:45+00:00  
+@@ Date=2015-07-11 07:27  
 @@ Link=http://www.slashfilm.com/the-force-awakens-comic-con-reel/  
 @@ Description=The producers of Star Wars: The Force Awakens brought to Comic Con the most excellent teaser footage.   
 @@ Tags=Star Wars, Star Wars: The Force Awakens, San Diego Comic-Con International, Comic-Con, pop culture, movies  

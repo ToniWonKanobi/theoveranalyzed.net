@@ -1,5 +1,5 @@
 @@ Title=Apple Watch Ships in April, “Basically When We Thought”  
-@@ Date=2015-01-27T18:00:00+00:00  
+@@ Date=2015-01-27 18:00  
 @@ Link=http://sixcolors.com/post/2015/01/apple-watch-ships-in-april-basically-when-we-thought/  
 @@ Description=Seems like a stretch to me.  
 @@ Tags=Apple, business, Apple conference call, Apple Watch, Tim Cook  

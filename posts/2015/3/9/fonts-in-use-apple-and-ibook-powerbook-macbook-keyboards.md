@@ -1,5 +1,5 @@
 @@ Title=Apple (And iBook, PowerBook, MacBook) Keyboards, 2003–2014  
-@@ Date=2015-03-09T17:22:00+00:00  
+@@ Date=2015-03-09 17:22  
 @@ Link=http://fontsinuse.com/uses/8963/apple-and-ibook-powerbook-macbook-keyboards-2  
 @@ Description=Apple Watch and the new MacBook showcase Apple's newest font, San Francisco. Fonts In Use takes a look.  
 @@ Tags=typefaces, design, fonts, hardware, Apple, Apple Watch, Fonts In Use, typography  

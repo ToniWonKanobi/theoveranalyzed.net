@@ -1,5 +1,5 @@
 @@ Title=Time Running Out for Class B Dog Dealers
-@@ Date=2015-05-06T09:32:00+00:00  
+@@ Date=2015-05-06 09:32  
 @@ Link=http://blog.humanesociety.org/wayne/2015/05/class-b-dog-dealer-cancels-usda-license.html  
 @@ Description=We're one step closer to being free from animal testing.  
 @@ Tags=animals, animal cruelty, advocacy, animal advocacy, medicine, science, dentistry, culture, Wayne Pacelle  

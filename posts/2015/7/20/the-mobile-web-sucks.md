@@ -1,14 +1,12 @@
 @@ Title=The Mobile Web Sucks  
-@@ Date=2015-07-20T13:25:00+00:00    
+@@ Date=2015-07-20 13:25   
 @@ Link=http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks  
 @@ Description=Nilay Patel admits The Verge sucks at being a website.  
 @@ Tags=The Verge, Nilay Patel, web, culture  
 @@ Image=http://d.pr/i/1aslx+  
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1aslx+">
-		<img src="http://d.pr/i/1aslx+" alt="The Verge Sucks" />
-	</a>
+	<img src="http://d.pr/i/1aslx+" alt="The Verge Sucks">
 	<figcaption>"These kids" [will hate visiting your website because it's slow.]</figcaption>
 </figure>
 

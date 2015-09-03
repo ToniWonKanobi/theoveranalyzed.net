@@ -1,5 +1,5 @@
 @@ Title=Tweetbot for Mac Teased for 2015  
-@@ Date=2015-02-03T14:00:00+00:00  
+@@ Date=2015-02-03 14:00  
 @@ Description=The best Twitter client for Mac is due to receive a much-needed update. Here's a tease from the designer.  
 @@ Tags=apps, developers, development, Tweetbot  
 

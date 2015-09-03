@@ -1,5 +1,5 @@
 @@ Title=Permalinks in Squarespace 
-@@ Date=2015-02-01T10:00:00+00:00  
+@@ Date=2015-02-01 10:00  
 @@ Description=I figured out how to enable permalinks in posts (with the help of someone smarter than me).  
 @@ Tags=Squarespace, TheOverAnalyzed, blogging, permalinks  
 
@@ -97,9 +97,7 @@ Here is the relevant code he suggests pasting there:
 Now, whenever I post a "Linked List" item, as long as the "External link" checkbox is checked in the New Post Advanced panel, a permalink will show up just to the right of the title of the post (which is the target external link):
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1lSZU+" />
-		<img src="http://d.pr/i/1lSZU+" alt="Boom" />
-	</a>
+	<img src="http://d.pr/i/1lSZU+" alt="Boom">
 	<figcaption>Boom</figcaption>
 </figure>
 

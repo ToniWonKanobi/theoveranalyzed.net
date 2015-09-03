@@ -1,5 +1,5 @@
 @@ Title=Sans Bullshit Sans    
-@@ Date=2015-02-27T07:00:00+00:00  
+@@ Date=2015-02-27 07:00  
 @@ Link=http://www.sansbullshitsans.com/  
 @@ Description=As if we don't have enough JavaScript libraries in our life. This one is sure to garner at least a laugh from most web nerds.    
 @@ Tags=JavaScript, web, web design, design, funny, CSS, fonts, typefaces, business, typography      

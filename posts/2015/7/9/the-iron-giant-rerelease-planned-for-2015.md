@@ -1,5 +1,5 @@
 @@ Title=The Iron Giant Rerelease Planned for 2015
-@@ Date=2015-07-09T10:09:00+00:00  
+@@ Date=2015-07-09 10:09  
 @@ Link=http://www.ew.com/article/2015/07/08/iron-giant-rerelease  
 @@ Description=The cult classic that helped springboard Brad Bird's career is getting an update this fall.  
 @@ Tags=movies, Brad Bird, The Iron Giant, pop culture  
@@ -7,7 +7,7 @@
 
 <figure>
 	<a class="nohover" href="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/The-Iron-Giant.jpg">
-		<img src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/The-Iron-Giant.jpg" alt="The Iron Giant" />
+		<img src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/The-Iron-Giant.jpg" alt="The Iron Giant">
 	</a>
 	<figcaption>A portion of the <a href="https://en.m.wikipedia.org/wiki/The_Iron_Giant#/media/File:The_Iron_Giant_poster.JPG">theatrical release poster</a></figcaption>
 </figure>

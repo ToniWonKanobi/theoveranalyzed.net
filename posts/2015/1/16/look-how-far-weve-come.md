@@ -1,5 +1,5 @@
 @@ Title=Look How Far We've Come  
-@@ Date=2015-01-16T20:30:00+00:00
+@@ Date=2015-01-16 20:30  
 @@ Description=Broadband internet speeds aren't the only thing that's changed since I was a kid.  
 @@ Tags=history, internet, web, Anthony, culture    
 @@ Image=http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif
@@ -12,13 +12,21 @@ I am usually surprised at just how terrible the in-house Wi-Fi is for both perso
 
 Today's situation was no different from the norm. This was my Speedtest today over LTE:
 
-<center><a href="http://www.speedtest.net/my-result/4065330285" class="nohover"><img src="http://www.speedtest.net/result/4065330285.png" /></a></center>
+<figure>
+	<a href="http://www.speedtest.net/my-result/4065330285" class="nohover">
+		<img src="http://www.speedtest.net/result/4065330285.png">
+	</a>
+</figure>
 
 Interestingly, Speedtest garnered a mere A- for these speeds. I guess that's fair, considering the relativity of it all.
 
 Here was a Speedtest from a few months ago, when Time Warner decided to grace its Inland Empire customers with an exorbitant amount of speed increases. (We should totally be okay with them [merging with Comcast][bgr], right? Uh, no.)
 
-<center><a href="http://www.speedtest.net/my-result/3867339763" class="nohover"><img src="http://www.speedtest.net/result/3867339763.png"></a></center>
+<figure>
+	<a href="http://www.speedtest.net/my-result/3867339763" class="nohover">
+		<img src="http://www.speedtest.net/result/3867339763.png">
+	</a>
+</figure>
 
 ***
 
@@ -39,7 +47,7 @@ But what I remember the most vividly is so ephemeral for me, and so emotionally 
 What I most remember about AOL was that perspiration-inducing and absolutely curse-worthy [noise][youtube] that accompanied my  quest to make it online. 
 
 <figure>
-	<img src="http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" alt="Does the sight of this GIF not make your blood boil?" />
+	<img src="http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" alt="Does the sight of this GIF not make your blood boil?">
 	<figcaption>Does the sight of this GIF <em>not</em> make your blood boil?</figcaption>
 </figure>
 

@@ -1,5 +1,5 @@
 @@ Title=Can You Imagine?  
-@@ Date=2015-02-28T08:00:00+00:00  
+@@ Date=2015-02-28 08:00  
 @@ Description=Where would be without YouTube?    
 @@ Tags=YouTube, music, music videos, culture, business, Louisa Wendroff  
 

@@ -1,5 +1,5 @@
 @@ Title=Tesla Model S P85D  
-@@ Date=2015-02-05T15:00:00+00:00  
+@@ Date=2015-02-05 15:00  
 @@ Link=http://jalopnik.com/tesla-model-s-p85d-the-jalopnik-review-1683834973  
 @@ Description=The world's best electric car is now officially faster than almost every variant of arguably the world's best car period, the 911.  
 @@ Tags=cars, Tesla, Model S, Tesla Model S P85D, Jalopnik  

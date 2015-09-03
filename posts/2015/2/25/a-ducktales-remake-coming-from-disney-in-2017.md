@@ -1,5 +1,5 @@
 @@ Title=A DuckTales Remake Coming From Disney in 2017  
-@@ Date=2015-02-25T08:56:00+00:00  
+@@ Date=2015-02-25 08:56  
 @@ Link=http://www.slashfilm.com/ducktales-remake/  
 @@ Description=DuckTales, A-Whoo-Ooh!  
 @@ Tags=TV, Disney, DuckTales  

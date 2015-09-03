@@ -1,5 +1,5 @@
 @@ Title=Why JJ Abrams Says Harrison Ford’s Broken Leg Was the “Greatest Gift” to ‘Star Wars: The Force Awakens’   
-@@ Date=2015-08-13T15:51:00+00:00  
+@@ Date=2015-08-13 15:51  
 @@ Link=http://www.slashfilm.com/han-solo-injury/  
 @@ Description=When I heard about his injury, I had legitimate concerns that he would not make it through the rest of production. Looks like he did, and then some.  
 @@ Tags=Harrison Ford, Star Wars, Star Wars: The Force Awakens, pop culture, movies  

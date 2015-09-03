@@ -1,5 +1,5 @@
 @@ Title=Apple Hardware Bucket List  
-@@ Date=2015-01-26T11:35:00+00:00  
+@@ Date=2015-01-26 11:35  
 @@ Description=I've collected all my favorite Apple hardwares into a post, so that I have something to reference once I start my collection.  
 @@ Tags=Apple, hardware, Anthony, Apple Hardware Bucket List  
 

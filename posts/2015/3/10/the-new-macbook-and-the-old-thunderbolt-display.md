@@ -1,5 +1,5 @@
 @@ Title=The New MacBook and the Old Thunderbolt Display
-@@ Date=2015-03-10T09:00:00+00:00  
+@@ Date=2015-03-10 09:00  
 @@ Description=What are the external display options for prospective owners of the new MacBook? Not many.  
 @@ Tags=MacBook, displays, hardware, gear, Apple  
 
@@ -91,7 +91,7 @@ I was checking into things this morning, and saw this:
 * 4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)
 	
 <figure class="iphone">
-	<img src="http://d.pr/i/JI2b+" alt="Well." />
+	<img src="http://d.pr/i/JI2b+" alt="Well.">
 	<figcaption>Well, there's your answer.</figcaption>
 </figure>
 

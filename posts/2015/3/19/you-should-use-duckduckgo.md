@@ -1,5 +1,5 @@
 @@ Title=You Should Use DuckDuckGo  
-@@ Date=2015-03-19T10:03:00+00:00  
+@@ Date=2015-03-19 10:03  
 @@ Link=http://www.caseyliss.com/2015/3/19/duckduckgo  
 @@ Description=DuckDuckGo is a marvelous alternative to Google (or Bing, or Yahoo, etc.)    
 @@ Tags=DuckDuckGo, web, Casey Liss  

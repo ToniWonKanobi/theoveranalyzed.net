@@ -1,5 +1,5 @@
 @@ Title=Inquisitive: Behind the App    
-@@ Date=2015-02-18T07:45:00+00:00  
+@@ Date=2015-02-18 07:45  
 @@ Link=http://www.relay.fm/inquisitive/27  
 @@ Description=Myke Hurley is taking his podcast Inquisitive in a new direction, and it's great so far.    
 @@ Tags=podcasts, apps, App Store, industry, recommendations, iOS, Apple, Myke Hurley, Marco Arment, Jason Snell, Matthew Bischoff, Guy English, Padraig Kennedy, Oisín Prendiville, David Smith, Greg Pierce, Inquisitive  

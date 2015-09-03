@@ -1,5 +1,5 @@
 @@ Title=It's Kind of Cheesy Being Green  
-@@ Date=2015-02-14T09:00:00+00:00  
+@@ Date=2015-02-14 09:00  
 @@ Link=https://medium.com/message/its-kind-of-cheesy-being-green-2c72cc9e5eda  
 @@ Description=We hate green bubbles, apparently.  
 @@ Tags=Apple, iPhone, iMessage, pop culture, John Gruber  

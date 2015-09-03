@@ -1,5 +1,5 @@
 @@ Title=The Office (U.S. TV Series)  
-@@ Date=2015-05-05T20:24:00+00:00  
+@@ Date=2015-05-05 20:24  
 @@ Description=The Office is a wonderful TV show. I talk about that and a couple other goodies.  
 @@ Tags=TV, The Office, pop culture  
 
@@ -16,7 +16,7 @@ This post is about my most recent 'old' TV show experience: *The Office.* But be
 During our first year of marriage, Allison and I got up and left for work/school at the same time everyday. For whatever reason, one morning I turned on the TV while we were eating breakfast and stumbled upon this show featuring Navy lawyers. Our first 'old' TV show was called [JAG][wikipedia 2], short for "Judge Advocate General". *JAG* was a military drama produced by [Donald Bellisario][wikipedia 3]. The show had a novel concept: [A Few Good Men][wikipedia 4] meets [Top Gun][wikipedia 5]. I had always been attracted to the military, so this show was immediately compelling for me. I was hooked. Allison tagged along initially, but ended up liking the show as much as me.
 
 <figure>
-	<img src="http://images4.fanpop.com/image/photos/16700000/JAG-jag-16722068-1920-1080.jpg" alt="mac"  />
+	<img src="http://images4.fanpop.com/image/photos/16700000/JAG-jag-16722068-1920-1080.jpg" alt="Mac">
 	<figcaption>Mac and Harm</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ It took us the better part of 6 months to get through *JAG*. After that, the nex
 For most TV shows, the last few seasons are usually the worst. *JAG* and *Gilmore Girls* were no exception. One of *JAG's* pivotal characters, John M. Jackson's [Rear Admiral A. J. Chegwidden][wikipedia 8], left in the penultimate season, only to be replaced by a bunch of new characters. In Bellisario's defense of the new hires, he had hoped NBC would launch a few *JAG* spinoffs, much like they had done so previously with *[NCIS][wikipedia 9])*. These new characters might have been lead characters in the spinoffs. Unfortunately for Bellisario, those spinoffs never happened.
 
 <figure>
-	<img src="http://feather-mag.com/wp-content/uploads/2014/12/GILMOREGIRLS2.jpg" alt="rj" />
+	<img src="http://feather-mag.com/wp-content/uploads/2014/12/GILMOREGIRLS2.jpg" alt="Rory and Jess">
 	<figcaption>Oh, what could have been.</figcaption>
 </figure>
 
@@ -44,7 +44,9 @@ Sometime late last year, we started watching our most recent 'old' TV show, [The
 Initially, I thought the show was going to be like [The 40-Year-Old Virgin][wikipedia 16]. After all, Carell had basically typecasted himself into 'that goofy midlife crisis guy.' What could this show be about, if not that? Turns Out™ the show ended up being a lot more like another Carell movie, [Crazy, Stupid, Love][wikipedia 17]. What started out as a show focused on an insecure office manager's dirty guy humor slowly became, over seven wonderful seasons, a show about a kindhearted group of people working for a dying paper company. Carell's portrayal of [Michael Scott][wikipedia 18]) ended up being one of the most memorable characters in TV history. 
 
 <figure>
-	<img src="http://24.media.tumblr.com/tumblr_lsivrrDx7n1qlt8lko1_500.png" alt="you" />
+	<a href="http://24.media.tumblr.com/tumblr_lsivrrDx7n1qlt8lko1_500.png">
+		<img src="http://24.media.tumblr.com/tumblr_lsivrrDx7n1qlt8lko1_500.png" alt="You silly">
+	</a>
 	<figcaption>You silly</figcaption>
 </figure>
 

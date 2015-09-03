@@ -1,5 +1,5 @@
 @@ Title=Congress Is Trying to Kill the Loan Program That Helped Tesla  
-@@ Date=2015-03-19T09:00:00+00:00  
+@@ Date=2015-03-19 09:00  
 @@ Link=http://jalopnik.com/congress-is-trying-to-kill-the-loan-program-that-helped-1692344585  
 @@ Description=Congress doing what it does best.  
 @@ Tags=politics, Tesla, cars, Jalopnik  

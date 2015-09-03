@@ -1,5 +1,5 @@
 @@ Title=The Evolving Notification  
-@@ Date=2015-02-12T15:00:00+00:00  
+@@ Date=2015-02-12 15:00  
 @@ Link=http://www.aboveavalon.com/notes/2015/1/21/the-evolving-notification  
 @@ Description=Seems like the smart thing to do is to start culling notifications now, so that when you actually get your Apple Watch, you'll be ready.  
 @@ Tags=Apple Watch, Apple, Neil Cybart  

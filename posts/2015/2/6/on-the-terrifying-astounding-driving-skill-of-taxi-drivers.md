@@ -1,5 +1,5 @@
 @@ Title=On the Terrifying, Astounding Driving Skill of Taxi Drivers  
-@@ Date=2015-02-06T11:30:00+00:00  
+@@ Date=2015-02-06 11:30  
 @@ Link=http://jalopnik.com/on-the-terrifying-astounding-driving-skill-of-taxi-dri-1683979110  
 @@ Description=Chris Harris talks about his crazy taxi driver experience while in Dubai.  
 @@ Tags=cars, funny, Chris Harris, Jalopnik 

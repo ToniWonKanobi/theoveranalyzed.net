@@ -1,5 +1,5 @@
 @@ Title=Apple Plans TV Service With Around 25 Channels After Falling Out With Comcast  
-@@ Date=2015-03-16T19:38:00+00:00  
+@@ Date=2015-03-16 19:38  
 @@ Link=http://www.theverge.com/2015/3/16/8228631/apple-tv-service-coming-june-report  
 @@ Description=Rumors suggest Apple is about to release a TV service cord-cutters would love.  
 @@ Tags=Apple, Apple TV, TV  

@@ -2,9 +2,7 @@
 @@ HideHeader=true  
 
 <figure class="figright">
-	<a class="nohover" href="http://d.pr/i/1d53F+">
-		<img src="http://d.pr/i/1d53F+" alt="❤️">
-	</a>
+	<img src="http://d.pr/i/1d53F+" alt="❤️">
 </figure>
 
 <h1 id="info">About The Site</h1>

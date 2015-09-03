@@ -1,5 +1,5 @@
 @@ Title=This Beehive Claims to Have Honey on Tap  
-@@ Date=2015-02-18T11:00:00+00:00  
+@@ Date=2015-02-18 11:00  
 @@ Link=http://digg.com/video/this-beehive-claims-to-have-honey-on-tap  
 @@ Description=Honey. Easy access. Nice.  
 @@ Tags=food, funny, animals, Kickstarter  

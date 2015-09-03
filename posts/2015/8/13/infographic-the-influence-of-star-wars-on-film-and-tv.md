@@ -1,5 +1,5 @@
 @@ Title=Infographic: The Influence of Star Wars on Film and TV  
-@@ Date=2015-08-13T19:43:00+00:00  
+@@ Date=2015-08-13 19:43  
 @@ Link=http://www.shutterstock.com/blog/infographic-the-influence-of-star-wars-on-film-and-tv  
 @@ Description=Since it's original release in 1977, Star Wars has had a profound effect on movies and TV.    
 @@ Tags=Star Wars, pop culture  
@@ -14,7 +14,7 @@ Here's the infographic:
 
 <figure class="wide">
 	<a class="nohover" href="http://www.shutterstock.com/blog/wp-content/uploads/sites/5/2015/08/The-Influence-of-Star-Wars-EN.jpg">
-		<img src="http://d.pr/i/1fxha+" alt="Pop Chart Lab = Awesome" />
+		<img src="http://d.pr/i/1fxha+" alt="Pop Chart Lab = Awesome">
 	</a>
 </figure>
 

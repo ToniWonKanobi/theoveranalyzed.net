@@ -1,13 +1,11 @@
 @@ Title=Thoughts on the Space Gray Apple Watch Sport Versus the Space Black Apple Watch
-@@ Date=2015-06-14T21:05:00+00:00 
+@@ Date=2015-06-14 21:05  
 @@ Description=Apparently, Apple overestimated the transit time for my Space Black Apple Watch. Here are my thoughts regarding it and the Space Gray Apple Watch Sport.  
 @@ Tags=Apple Watch, Apple Watch Sport, Apple, reviews, Anthony  
 @@ Image=http://d.pr/i/1aUO8+  
 
 <figure class="wide">
-	<a class="nohover" href="http://d.pr/i/1aUO8+">
-		<img src="http://d.pr/i/1aUO8+" alt="Both Watches" />
-	</a>
+	<img src="http://d.pr/i/1aUO8+" alt="Both Watches">
 	<figcaption>When I look at both models side by side it's hard to see the Sport as anything but quality hardware.</figcaption>
 </figure>
 
@@ -24,9 +22,7 @@ It took about ten seconds for me to completely change my mind. In short, I am ke
 It's black. Just not *that* black. More like 'super dark gray.' Yes, the Space Black model is definitely blacker than the regular ol' stainless version Apple sells for $100 less.[^bl]  Now, since my recollection of the [Space Black model][theoveranalyzed 3] in the [Apple Retail Store][theoveranalyzed 4] was rusty, the only visuals I had were in the form of pictures shared by [Rene Ritchie][instagram] of iMore. The photographs he shared with his followers always showed the watch as **black**. The Space Black Watch is, in my opinion, somewhat less black than what most of his pictures portray. 
 
 <figure class="wide">
-	<a class="nohover" href="http://d.pr/i/1eGgI+">
-		<img src="http://d.pr/i/1eGgI+" alt="Sport and Watch" />
-	</a>
+	<img src="http://d.pr/i/1eGgI+" alt="Sport and Watch">
 	<figcaption>Two different takes on black</figcaption>
 </figure>
 
@@ -37,9 +33,7 @@ Thinking ahead: if there were a color option in between Space Black and the regu
 Sitting at my desk at work the other day, I glanced over to my left wrist and saw the light reflect off of the brushed black links. What a sight to behold. 
 
 <figure class="wide">
-	<a class="nohover" href="http://d.pr/i/1kr4i+">
-		<img src="http://d.pr/i/1kr4i+" alt="Links at work" />
-	</a>
+	<img src="http://d.pr/i/1kr4i+" alt="Links at work">
 	<figcaption>How much longer until I have to get up and do work again?</figcaption>
 </figure>
 

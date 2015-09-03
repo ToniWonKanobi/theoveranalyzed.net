@@ -1,5 +1,5 @@
 @@ Title=Why Every Photo Storage Startup Dies or Gets Acquired 
-@@ Date=2015-02-04T12:00:00+00:00  
+@@ Date=2015-02-04 12:00  
 @@ Link=http://www.theverge.com/2015/2/2/7964663/why-every-photo-storage-startup-dies-or-gets-acquired  
 @@ Description=EverPix, Loom, etc. Will there ever be a decent cloud storage photo solution?  
 @@ Tags=industry, business, Everpix, Loom, Picturelife  

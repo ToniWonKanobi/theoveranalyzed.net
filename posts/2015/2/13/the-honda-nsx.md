@@ -1,5 +1,5 @@
 @@ Title=The Honda NSX  
-@@ Date=2015-02-13T09:00:00+00:00  
+@@ Date=2015-02-13 09:00  
 @@ Description=I talk about one of my favorite cars of all time.  
 @@ Tags=cars, NSX, Honda, Acura, Anthony, Jalopnik  
 

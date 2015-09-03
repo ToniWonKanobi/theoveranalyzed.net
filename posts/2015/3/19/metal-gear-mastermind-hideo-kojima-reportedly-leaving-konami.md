@@ -1,5 +1,5 @@
 @@ Title=Metal Gear Mastermind Hideo Kojima Reportedly Leaving Konami  
-@@ Date=2015-03-19T11:49:00+00:00  
+@@ Date=2015-03-19 11:49  
 @@ Link=http://www.theverge.com/2015/3/19/8258855/metal-gear-solid-hideo-kojima-leaving-konami-rumor  
 @@ Description=Metal Gear fans might only have one more adventure with Kojima.   
 @@ Tags=video games, Metal Gear, Hideo Kojima  

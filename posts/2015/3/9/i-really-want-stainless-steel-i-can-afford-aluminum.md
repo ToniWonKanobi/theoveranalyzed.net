@@ -1,5 +1,5 @@
 @@ Title=I Really Want Stainless Steel, I Can Afford Aluminum 
-@@ Date=2015-03-09T17:08:00+00:00  
+@@ Date=2015-03-09 17:08  
 @@ Link=http://www.appleworld.today/blog/2015/3/9/i-really-want-stainless-steel-i-can-afford-aluminum  
 @@ Description=Apple Watch in Black DLC versus Apple Watch Sport in Space Gray. Hard decision.  
 @@ Tags=Apple, Apple Watch, John Gruber  
@@ -16,7 +16,7 @@ It's the [iPad effect][daringfireball]. When iPad launched in 2010, everyone tho
 The same will be true for Apple Watch collection. Gruber [thought][daringfireball 2] the Edition might fall closer to the $10,000 - $20,000 range. 
 
 <figure>
-	<img src="http://d.pr/i/1epcH+" alt="gruber" />
+	<img src="http://d.pr/i/1epcH+" alt="Gruber">
 	<figcaption>Gruber was so right.</figcaption>
 </figure>
 

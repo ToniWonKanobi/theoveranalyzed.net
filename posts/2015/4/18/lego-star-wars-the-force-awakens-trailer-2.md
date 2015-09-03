@@ -1,5 +1,5 @@
 @@ Title=Lego Star Wars: The Force Awakens Trailer 2 
-@@ Date=2015-04-18T07:57:00+00:00  
+@@ Date=2015-04-18 07:57  
 @@ Link=https://www.youtube.com/watch?v=ZcuzkHkTnUY  
 @@ Description=Here's the Lego version of the second Star Wars: The Force Awakens trailer.  
 @@ Tags=Lego, Star Wars, Star Wars: The Force Awakens, pop culture, movies  

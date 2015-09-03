@@ -1,5 +1,5 @@
 @@ Title=‘Star Wars: The Force Awakens’ Footage: Finn Readies His Lightsaber  
-@@ Date=2015-08-27T10:47:00+00:00  
+@@ Date=2015-08-27 10:47  
 @@ Link=https://instagram.com/p/65PhxOs_RH/  
 @@ Description=I should really start calling this blog StarWarsAnalyzed.  
 @@ Tags=Star Wars, Star Wars: The Force Awakens, movies, pop culture  

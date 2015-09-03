@@ -1,5 +1,5 @@
 @@ Title=Groove Like Mike   
-@@ Date=2015-03-19T07:30:00+00:00  
+@@ Date=2015-03-19 07:30  
 @@ Link=http://devour.com/video/groove-like-mike/  
 @@ Description=MJ at his best.  
 @@ Tags=Michael Jordan, basketball, sports, pop culture  

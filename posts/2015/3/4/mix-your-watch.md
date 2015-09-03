@@ -1,5 +1,5 @@
 @@ Title=Mix Your Watch  
-@@ Date=2015-03-04T10:16:00+00:00   
+@@ Date=2015-03-04 10:16  
 @@ Link=http://mixyourwatch.com/  
 @@ Description=Mix and match your Apple Watch and band.  
 @@ Tags=Apple, Apple Watch  
@@ -7,7 +7,7 @@
 Pick your Apple Watch / strap combo:
 
 <figure>
-	<img src="http://d.pr/i/1dPkU+" alt="neat" />
+	<img src="http://d.pr/i/1dPkU+" alt="Neat">
 	<figcaption>Neat.</figcaption>
 </figure>
 

@@ -1,5 +1,5 @@
 @@ Title=Why the Web Is So Slow  
-@@ Date=2015-07-12T14:00:00+00:00  
+@@ Date=2015-07-12 14:00  
 @@ Description=I've struggled with keeping TheOverAnalyzed's page load times to less than 2 seconds. I'm not alone: everyone wants a faster web. But not everyone is experiencing it. And it's mostly publishers' faults.
 @@ Tags=web design, web, design, Ditching Webfonts, fonts, typefaces, typography, webfonts  
 @@ Image=http://d.pr/i/1iLFm+  
@@ -37,18 +37,10 @@ Eventually the open standards won out. By 2004, [CSS 2.1][wikipedia 3] had been 
 
 When iPhone [launched in 2007][wikipedia 4] with a version of the venerable Safari web browser, the advertisement firms took advantage. That trend has only increased in the 8 years thereafter. Just visit any major .com news organization and you'll see what I mean. The browser window will no doubt be filled with advertisements, most of which look like shat. It's not just that most mobile ads have horribly-pixelated versions of whatever product or service the ad is peddling. No, moreover: those ads typically obscure a *major* portion of the content. 
 
-<figure class="twoleft">
-	<a class="nohover" href="http://d.pr/i/17moY+">
-		<img src="http://d.pr/i/17moY+" alt="The Verge" />
-	</a>
-	<figcaption><a href="http://theverge.com/">The Verge</a></figcaption>
-</figure>
-
-<figure class="tworight">
-	<a class="nohover" href="http://d.pr/i/1cIGg+">
-		<img src="http://d.pr/i/1cIGg+" alt="iMore" />
-	</a>
-	<figcaption><a href="http://imore.com/">iMore</a></figcaption>
+<figure class="inlinetwo">
+	<img src="http://d.pr/i/17moY+" alt="The Verge">
+	<img src="http://d.pr/i/1cIGg+" alt="iMore">
+	<figcaption><a href="http://theverge.com/">The Verge</a> and <a href="http://imore.com/">iMore</a></figcaption>
 </figure>
 
 # iMore
@@ -56,9 +48,7 @@ When iPhone [launched in 2007][wikipedia 4] with a version of the venerable Safa
 Because Gruber picked on iMore, I'll do the same. As seen above---on the [biggest phone-sized display Apple offers][wikipedia 5], mind you---I can barely make out two articles' titles. The rest of the iMore page is obscured with ads. Horrible, ugly, stupid ads. And do you know what powers those ads? [JavaScript][wikipedia 6]. Tons of nasty JavaScript extensions to enable the ads' targeting and tracking algorithms. 
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1anSZ+">
-		<img src="http://d.pr/i/1anSZ+" alt="Look at all those scripts" />
-	</a>
+	<img src="http://d.pr/i/1anSZ+" alt="Look at all those scripts">
 	<figcaption>I couldn't even fit all of iMore's JavaScript extensions on this screenshot.</figcaption>
 </figure>
 
@@ -84,16 +74,12 @@ Websites should be fast. But can I put my money where my mouth is? It's easy to 
 Well enough, I think.
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/14dQN+">
-		<img src="http://d.pr/i/14dQN+" alt="Regular page load of TheOverAnalyzed" />
-	</a>
+	<img src="http://d.pr/i/14dQN+" alt="Regular page load of TheOverAnalyzed">
 	<figcaption>A run-of-the-mill page load for TheOverAnalyzed</figcaption>
 </figure>
 
 <figure id="nojs">
-	<a class="nohover" href="http://d.pr/i/14ER8+">
-		<img src="http://d.pr/i/14ER8+" alt="No-JS page load of TheOverAnalyzed" />
-	</a>
+	<img src="http://d.pr/i/14ER8+" alt="No-JS page load of TheOverAnalyzed">
 	<figcaption>A page load for TheOverAnalyzed with JavaScript disabled</figcaption>
 </figure>
 

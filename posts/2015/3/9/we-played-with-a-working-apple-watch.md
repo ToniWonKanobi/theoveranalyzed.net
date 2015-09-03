@@ -1,5 +1,5 @@
 @@ Title=We Played With a Working Apple Watch 
-@@ Date=2015-03-09T13:28:00+00:00  
+@@ Date=2015-03-09 13:28  
 @@ Link=https://www.youtube.com/watch?v=nb_Pz-doIqA  
 @@ Description=Nilay Patel from The Verge plays with an Apple Watch.  
 @@ Tags=Apple, Apple Watch, hardware, previews, Jon Edwards, podcasts, Nilay Patel  

@@ -1,5 +1,5 @@
 @@ Title=McDonald's Will Phase Out Chicken Treated With Human Antibiotics in the US  
-@@ Date=2015-03-04T11:07:00+00:00  
+@@ Date=2015-03-04 11:07  
 @@ Link=http://www.theverge.com/2015/3/4/8148081/mcdonalds-antibiotics-chicken  
 @@ Description=McDonald's is trying, I'll give them that.  
 @@ Tags=McDonalds, food, culture, animal advocacy, animals, advocacy  

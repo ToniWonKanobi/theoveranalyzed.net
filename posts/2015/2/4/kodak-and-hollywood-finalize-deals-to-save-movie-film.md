@@ -1,5 +1,5 @@
 @@ Title=Kodak and Hollywood Finalize Deals to Save Movie Film 
-@@ Date=2015-02-04T18:00:00+00:00  
+@@ Date=2015-02-04 18:00  
 @@ Link=http://www.theverge.com/2015/2/4/7982243/kodak-secures-film-supply-agreements-with-movie-studios  
 @@ Description=I hope film will live on. Kodak agrees.  
 @@ Tags=culture, photography, industry, movies, history, Kodak, Porsche, 911, 964, 993      

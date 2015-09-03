@@ -1,5 +1,5 @@
 @@ Title=Microsoft's Mobile Inabilities  
-@@ Date=2015-02-04T14:30:00+00:00  
+@@ Date=2015-02-04 14:30  
 @@ Link=http://om.co/2015/02/04/microsofts-mobile-inabilities/  
 @@ Description=Microsoft has a distinctly different philosophy when it comes to consumer products.  
 @@ Tags=Apple, business, Microsoft, industry, Jim Dalrymple, Om Malik  

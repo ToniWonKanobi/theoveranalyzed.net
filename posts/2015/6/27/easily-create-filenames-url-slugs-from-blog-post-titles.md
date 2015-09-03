@@ -1,5 +1,5 @@
 @@ Title=Easily Create Filenames & URL Slugs From Blog Post Titles   
-@@ Date=2015-06-27T17:26:00+00:00
+@@ Date=2015-06-27 17:26  
 @@ Description=I wanted a quick and easy way to select the text in the title of a post and create a URL-friendly ASCII string. Here's how I did it (with help).  
 @@ Tags=blogging, filesystem, AppleScript, scripts, tech tips  
 @@ Image=http://d.pr/i/155iQ+  
@@ -21,17 +21,9 @@ It isn't the longest I've ever dreamt up, but it certainly isn't the shortest, e
 3. Then I paste the previously selected text into the [Save As field][d 3]:
 4. After that, I start manually changing the uppercase letters to lowercase, removing spaces and replacing them with hyphens, and deleting URL-unfriendly characters like `&`:
 
-<figure class="twoleft">
-	<a class="nohover" href="http://d.pr/i/15iqM+">
-		<img src="http://d.pr/i/15iqM+" alt="starting the process" />
-	</a>
-	<figcaption style="font-style: normal;">😐</figcaption>
-</figure>
-
-<figure class="tworight">
-	<a class="nohover" href="http://d.pr/i/184Ox+">
-		<img src="http://d.pr/i/184Ox+" alt="this takes forever" />
-	</a>
+<figure class="inlinetwo">
+	<img src="http://d.pr/i/15iqM+" alt="Starting the process">
+	<img src="http://d.pr/i/184Ox+" alt="This takes forever">
 	<figcaption style="font-style: normal;">😑</figcaption>
 </figure>
 
@@ -45,7 +37,7 @@ I tried a few browser searches, but nothing came up. I decided it would be a goo
 
 The [good][leancrew] [doctor][twitter] was kind enough to send me an email with the contents of a Python script. 
 
-```md
+```
 > On June 27, 2015 at 8:34:20 AM, Dr. Drang (drdrang@gmail.com) wrote: 
 > 
 > This takes the title as standard input and returns the 
@@ -200,7 +192,7 @@ set theresult to replace_chars(theresult, "]", "")
 set theresult to replace_chars(theresult, "`", "")
 set theresult to replace_chars(theresult, ";", "")
 set theresult to replace_chars(theresult, "/", "")
-set theresult to replace_chars(theresult, "?", "")
+set theresult to replace_chars(theresult, "?"f, "")
 set theresult to replace_chars(theresult, ":", "")
 set theresult to replace_chars(theresult, "@", "")
 set theresult to replace_chars(theresult, "=", "")
@@ -211,9 +203,7 @@ set theresult to change_case(theresult)
 And here's a screenshot of the workflow (it's actually a Service):
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/107X5+">
-		<img src="http://d.pr/i/107X5+" alt="finished workflow" />
-	</a>
+	<img src="http://d.pr/i/107X5+" alt="Finished workflow">
 	<figcaption><code>Slugify.workflow</code></figcaption>
 </figure>
 
@@ -224,25 +214,15 @@ Essentially, what `Slugify.workflow` does is take selected text and automate the
 I also assigned a keyboard shortcut to the service, so that I don't have to invoke the 'right-click' submenu.
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1lBKU+">
-		<img src="http://d.pr/i/1lBKU+" alt="keyboard shortcut for slugify.workflow" />
-	</a>
+	<img src="http://d.pr/i/1lBKU+" alt="Keyboard shortcut for slugify.workflow">
 	<figcaption><code>Cmd + Opt + Shift + R</code></figcaption>
 </figure>
 
 This couldn't get any easier.
 
-<figure class="twoleft">
-	<a class="nohover" href="http://d.pr/i/10cCw+">
-		<img src="http://d.pr/i/10cCw+" alt="select the text" />
-	</a>
-	<figcaption style="font-style: normal;">😐 → 😊</figcaption>
-</figure>
-
-<figure class="tworight">
-	<a class="nohover" href="http://d.pr/i/11dN3+">
-		<img src="http://d.pr/i/11dN3+" alt="and done" />
-	</a>
+<figure class="inlinetwo>
+	<img src="http://d.pr/i/10cCw+" alt="Select the text">
+	<img src="http://d.pr/i/11dN3+" alt="And...done.">
 	<figcaption style="font-style: normal;">😑 → 😄</figcaption>
 </figure>
 

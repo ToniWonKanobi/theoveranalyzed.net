@@ -1,5 +1,5 @@
 @@ Title=Leaving Squarespace Part II: Modifying Files to Play Nice With Camel   
-@@ Date=2015-06-26T11:00:00+00:00  
+@@ Date=2015-06-26 11:00  
 @@ Description=Almost all of my old posts were based on local Markdown files. I had to modify them slightly in order to work with Camel.  
 @@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0  
 @@ Image=http://d.pr/i/1em7V+  
@@ -24,16 +24,10 @@ A goal of mine from the beginning was to port over the ~250 posts I had accrued 
 
 Before transitioning to Camel, I adopted a hybrid metadata system inspired by both [Byword's][bywordapp] [MultiMarkdown guide][bywordapp 2], and, perhaps fortuitously, [Camel][github] itself. All of my posts since [TheOverAnalyzed 2.0][theoveranalyzed] had `Title:`, `Date:`, and `Link:` metadata. Byword is smart enough to know that properly-formatted text placed at the top of the document denotes metadata. Byword would then omit that when parsed to HTML.
 
-<figure class="twoleft">
-	<a class="nohover" href="http://d.pr/i/1lii9+">
-		<img src="http://d.pr/i/1lii9+" alt="Old style metadata" />
-	</a>
-</figure>
-
-<figure class="tworight">
-	<a class="nohover" href="http://d.pr/i/13n6Z+">
-		<img src="http://d.pr/i/13n6Z+" alt="Smart Byword" />
-	</a>
+<figure class="inlinetwo">
+	<img src="http://d.pr/i/1lii9+" alt="Old style metadata">
+	<img src="http://d.pr/i/13n6Z+" alt="Smart Byword">
+	<figcaption><Byword's MultiMarkdown-style metadata and HTML parse</figcaption>
 </figure>
 
 Byword's metadata support is everything I would want in a plain text filing system. The metadata's there when viewing the Markdown source, but disappears when parsed to HTML. I wish Camel supported metadata in the format that Byword supports, but it doesn't out of the box.[^ma]
@@ -43,9 +37,7 @@ Byword's metadata support is everything I would want in a plain text filing syst
 Unlike Squarespace, in Camel, having metadata within the actual Markdown files is absolutely *necessary*. Casey designed his blogging engine such such that `camel.js` generates all the posts and the rest of the website using these template files. These template files specify page attributes such as page headers, page footers, etc. The template files are based on Handlebars `{{strings}}`. Camel uses metadata strings to piece together the parts of the posts, such as the post header, the post footer, etc. And because of the way the Handlebars script works in conjunction with Camel, metadata *must* be called out in a particular way. In the default configuration of Camel, that's via a `@@` prefix.
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1gomf+">
-		<img src="http://d.pr/i/1gomf+" alt="Camel and metadata" />
-	</a>
+	<img src="http://d.pr/i/1gomf+" alt="Camel and metadata">
 	<figcaption>Camel looks at the top of documents for <code>@@</code> prefixes, which denote metadata.</figcaption>
 </figure>
 
@@ -65,7 +57,7 @@ For instance, if I wanted to embed an image with caption in MultiMarkdown Compos
 
 And this is the resultant HTML:
 
-<img src="http://d.pr/i/1lCHL+" />
+![](http://d.pr/i/1lCHL+)
 
 Byword, for whatever reason, doesn't offer easy image-captioning. MultiMarkdown Composer was the only way to achieve easy image captions, so I started using it instead of Byword. 
 
@@ -90,7 +82,7 @@ Here's what I found:
 </figure>
 ```
 
-Casey was using regular-old HTML for his images. 
+Casey was using <s>regular-old HTML</s> HTML5 for his images. 
 
 At first I scoffed at this. Why would I want to type out all that code---[John Siracusa][hypercritical] style---just for images? I even considered omitting image captions entirely, as the 'standard' Markdown image syntax of `![](image link)` is parsed perfectly by `markdown-it`. However, captions are important to me.
 
@@ -100,7 +92,9 @@ Here's what I decided to do:
 
 1. I created a 'starter' post file called `template.md`, which lives in my Camel folder at `~/TheOverAnalyzed/Camel`, and has a [shortcut on the Dock][d 3].
 2. The contents of that template file are thus:
-	<img src="http://d.pr/i/1hwpq+" />
+	
+	![](http://d.pr/i/1hwpq+)
+	
 3. When I need to embed a picture, I can just copy and paste the `<figure>` syntax I prefer[^fi] from `template.md`[^lo]
 
 Having the `<figure>` syntax pre-populated makes embedding images easier because it eliminates much of the time associated with writing pure HTML[^ik] Once I wrapped my brain around that, I began the long and tedious process of opening my old posts and switching all the MultiMarkdown 3 image syntax to regular HTML. 
@@ -138,25 +132,17 @@ Because I was using the parsed HTML as the content for my posts in Squarespace, 
 
 Out of the box, Camel includes the `markdown-it` plugin [`markdown-it-footnote`][mif], which allows for MultiMarkdown 3-style inline and multi-paragraph footnotes. 
 
-<figure class="twoleft">
-	<a class="nohover" href="http://d.pr/i/1aazM+">
-		<img src="http://d.pr/i/1aazM+" alt="non-parsed text in Byword" />
-	</a>
-</figure>
-
-<figure class="tworight">
-	<a class="nohover" href="http://d.pr/i/12gMj+">
-		<img src="http://d.pr/i/12gMj+" alt="parsed text in Byword" />
-	</a>
+<figure class="inlinetwo">
+	<img src="http://d.pr/i/1aazM+" alt="Un-parsed text in Byword">
+	<img src="http://d.pr/i/12gMj+" alt="Parsed text in Byword">
+	<figcaption>Byword's footnote parsing</figcaption>
 </figure>
 
 Neither inline footnotes nor multi-paragraph footnotes are supported by Byword. But as long as I format the footnotes syntax correctly, everything will display properly in the parsed HTML.
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/12mep+">
-		<img src="http://d.pr/i/12mep+" alt="footnotes" />
-	</a>
-	<figcaption class="long">While Byword may not be able to understand inline and/or multi-paragraph footnotes, Camel can thanks to <code>markdown-it-footnote</code></figcaption>
+	<img src="http://d.pr/i/12mep+" alt="Footnotes">
+	<figcaption>While Byword may not be able to understand inline and/or multi-paragraph footnotes, Camel can thanks to <code>markdown-it-footnote</code></figcaption>
 </figure>
 
 ***

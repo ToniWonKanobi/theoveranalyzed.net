@@ -1,5 +1,5 @@
 @@ Title=My Thoughts on Apple's Rumored 12" MacBook Air  
-@@ Date=2015-01-10T11:17:00+00:00  
+@@ Date=2015-01-10 11:17  
 @@ Description=I can't wait for the new MacBook Air. Even if it does only have one port.  
 @@ Tags=Apple, hardware, Apple rumors  
 

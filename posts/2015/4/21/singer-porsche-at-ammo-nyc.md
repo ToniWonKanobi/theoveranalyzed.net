@@ -1,5 +1,5 @@
 @@ Title=Singer Porsche at AMMO NYC  
-@@ Date=2015-04-21T19:13:00+00:00  
+@@ Date=2015-04-21 19:13  
 @@ Link=https://youtu.be/MZg4--QZHko  
 @@ Description=Larry Kosilla takes on the Singer 911.  
 @@ Tags=Porsche, 964, Classic 911, 911, Larry Kosilla, DRIVE CLEAN, Chris Harris, Singer  

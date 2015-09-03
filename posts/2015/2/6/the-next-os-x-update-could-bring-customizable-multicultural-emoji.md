@@ -1,5 +1,5 @@
 @@ Title=The Next OS X Update Could Bring Customizable, Multicultural Emoji  
-@@ Date=2015-02-06T12:30:00+00:00  
+@@ Date=2015-02-06 12:30  
 @@ Link=http://www.theverge.com/2015/2/6/7992991/the-next-os-x-update-could-bring-customizable-multicultural-emoji  
 @@ Description=I can't wait to use these like an idiot.  
 @@ Tags=iOS, Apple, culture, emoji, apps, _David Smith, iOS 8, OS X Yosemite, OS X  
@@ -10,9 +10,8 @@ Nathan Ingraham writing for The Verge:
 Here is a screenshot of the placeholder emojis Ingraham refers to:
 
 <figure class="iphone">
-	<a class="nohover" href="http://d.pr/i/1fbKg+">
-		<img src="http://d.pr/i/1fbKg+" alt="Emoji" />
-	</a>
+	<img src="http://d.pr/i/1fbKg+" alt="Emoji placeholders">
+	<figcaption>Placeholder emojis</figcaption>
 </figure>
 
 He continues:

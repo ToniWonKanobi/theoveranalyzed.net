@@ -1,5 +1,5 @@
 @@ Title=My Apple Watch Try-On Session, and That Keyboard  
-@@ Date=2015-04-10T22:57:00+00:00   
+@@ Date=2015-04-10 22:57  
 @@ Description=I tried on some Apple Watches today, and I also checked out the new MacBook.  
 @@ Tags=Apple, Apple Watch, MacBook, previews  
 
@@ -32,7 +32,7 @@ It seems like supply was severely constrained for both items. Was it orchestrate
 Around 12:40 last night, I made my try-on appointment for the Apple Watch.
 
 <figure class="iphone">
-	<img src="http://d.pr/i/ZBFa+" alt="and">
+	<img src="http://d.pr/i/ZBFa+" alt="Three tries">
 	<figcaption>And it only took me three tries!</figcaption>
 </figure>
 
@@ -47,12 +47,12 @@ They somehow lost my reservation, but the 'front of the store' minion got me set
 Interesting.
 
 <figure>
-	<img src="http://d.pr/i/16cN2+" alt="this" />
+	<img src="http://d.pr/i/16cN2+" alt="This area">
 	<figcaption>This used to be the area of the store where the forgotten things went: Mac mini, Thunderbolt Display, MacBook Pro (non-Retina), etc.</figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/13362+" alt="Tadaaa" />
+	<img src="http://d.pr/i/13362+" alt="Tadaaa">
 	<figcaption>Tadaaa</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ Luckily for me, I got to try on the Apple Watch specimens that I was most intere
 The Apple Watch Sport is just as awesome and wonderful as it appears to be in Apple's product imagery. It is the perfect gadget watch, and I have no doubt a lot of my friends will have this model because of its easy livability and it's dashing good looks. 
 
 <figure>
-	<img src="http://d.pr/i/gyyE+" alt="hello"  />
+	<img src="http://d.pr/i/gyyE+" alt="Hello, I must be going">
 	<figcaption>Hello, I must be going.</figcaption>
 </figure>
 
@@ -71,19 +71,11 @@ The "rubber" band is far from *just* rubber---it is easily the biggest surprise 
 
 Oh, another thing about the fluoroelastomer band: it is a real pain to get on and off. The lady spent the most time with that watch taking it on/off.
 
-<figure>
-	<img src="http://d.pr/i/1hgPn+" alt="step1" />
-	<figcaption>Step 1</figcaption>
-</figure>
-
-<figure>
-	<img src="http://d.pr/i/1eArk+" alt="step2" />
-	<figcaption>Step 2</figcaption>
-</figure>
-
-<figure>
+<figure class="inlinethree">
+	<img src="http://d.pr/i/1hgPn+" alt="Step 1">
+	<img src="http://d.pr/i/1eArk+" alt="Step 2">
 	<img src="http://d.pr/i/1hExt+" alt="step3" />
-	<figcaption>Step 3</figcaption>
+	<figcaption>Steps 1, 2, and 3 for getting the Sport band on</figcaption>
 </figure>
 
 ### Apple Watch (Stainless Steel, Link Bracelet)
@@ -91,7 +83,7 @@ Oh, another thing about the fluoroelastomer band: it is a real pain to get on an
 This was the model I was most interested in trying on, once I found out that the stainless black was not available (there was a model on display in the center aisle display case, but that's it). I was worried it might seem grandpa-ish, based on what [Marco][atp] had to say about it. He couldn't have been more wrong. The satin-y finish of the bracelet nicely complements the polished appearance of the Watch case. And really, the stainless black color scheme evokes a rather modern vibe by default. 
 
 <figure>
-	<img src="http://d.pr/i/19DK5+" alt="Yup" />
+	<img src="http://d.pr/i/19DK5+" alt="Yup">
 	<figcaption>Ahhh yeah.</figcaption>
 </figure>
 
@@ -103,7 +95,7 @@ Marco Arment had this to say about it:
 >The Milanese Loop, my preorder, is decent, but not quite what I expected. The mesh is much smaller in real life than it looks in the photos, so it ends up looking and feeling more like silver fabric than woven metal. It’s easier to attach and adjust than the Leather Loop because it doesn’t have discrete segments, but it still took me a few adjustments each time to get the right fit.
 
 <figure>
-	<img src="http://d.pr/i/iovZ+" alt="meh" />
+	<img src="http://d.pr/i/iovZ+" alt="Meh">
 	<figcaption>Meh.</figcaption>
 </figure>
 
@@ -124,7 +116,7 @@ What I was most looking forward to was typing on this thing. Jason Snell has bem
 Boy was I wrong. It really, truly does feel just *slightly* more feedback-y than typing on an iPad screen. The latter is certainly the worst typing experience of all, but the former isn't that far ahead. Yes, the keys feel very sturdy. Typing on the keyboard evoke all those things I remember Jony Ive talking about in the promotional videos. Don't get me wrong: this keyboard is an excellent hardware milestone. I just think it will take some getting used to. If you preordered one, be ready. It's not going to feel like typing on anything you've typed on before. 
 
 <figure>
-	<img src="http://d.pr/i/120bA+" alt="leave" />
+	<img src="http://d.pr/i/120bA+" alt="Closing picture">
 	<figcaption>I'll leave you with this: the display case for try-on's. So clean.</figcaption>
 </figure>
 

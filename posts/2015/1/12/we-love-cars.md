@@ -1,5 +1,5 @@
 @@ Title=We Love Cars  
-@@ Date=2015-01-12T09:00:00+00:00  
+@@ Date=2015-01-12 09:00  
 @@ Description=Why is it that we humans dedicate so much space to our personal transportation devices? Could it be because we absolutely love them?  
 @@ Tags=cars, Anthony, Porsche, Honda, Acura, NSX, Chevrolet, Corvette, C4, ZR-1, 911, 964  
 @@ Image=http://www.total911.com/wp-content/uploads/2014/10/Porsche-964-driving.jpg  
@@ -8,7 +8,7 @@ Joseph Stromberg from [Vox][vox] on an interesting illustration by Claes Tingval
 >By depicting roads as chasms and crosswalks as rickety planks spanning them, Tingvall shows just how lopsided the proportions of a normal urban street corner really are.
 
 <figure>
-	<img src="https://cdn1.vox-cdn.com/thumbor/DHoDx9uFf7snfSK3cYv96l5Gydg=/1600x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/2466040/3206.0.jpg" alt="What if?" />
+	<img src="https://cdn1.vox-cdn.com/thumbor/DHoDx9uFf7snfSK3cYv96l5Gydg=/1600x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/2466040/3206.0.jpg" alt="What if?">
 	<figcaption>What if?</figcaption>
 </figure>
 
@@ -19,14 +19,14 @@ One could argue airplanes might [have cars beat][bp] as far as space devotion go
 What could possibly possess us to allow so much of '[our][alternet]' land to be devoted to cars? Note that I don't think we are actually possessed; rather, the answer to this riddle is that we humans just [love our cars][truegoodlove], plain and simple.
 
 <figure>
-	<img src="http://image.automobilemag.com/f/52935344%2Bq100%2Bre0/chevrolet-corvette-c4-zr1.jpg" />
+	<img src="http://image.automobilemag.com/f/52935344%2Bq100%2Bre0/chevrolet-corvette-c4-zr1.jpg">
 	<figcaption>Ah, where it all started for me: the Chevrolet Corvette. This specimen is a 1990 ZR-1. 'Murica 🇺🇸</figcaption>
 </figure>
 
 My own love affair with automobiles is not overly romantic or ambitious like, say, [Chris Harris][wikipedia 2] or [Larry Kosilla][carsalways]. In truth, I wasn't really interested in cars until around the sixth grade. Before then it was all about [great TV][wikipedia 2]) and [Legos][amazon].  Here's what happened: I remember driving to school, and as we turned left onto the street which led to my school, I saw a pretty neat looking car pass us by. My mom or dad answered "[Corvette][wikipedia 3]" when I asked what kind of car that was. Looking back, I am pretty sure it was a [C5][wikipedia 4], not a [C4][wikipedia 4] like the example pictured above. Anyways, that moment stuck with me. But, oddly enough, I don't think I started really getting into the marque until I told my grandpa about seeing the Corvette. That's when it got read.
 
 <figure class="figright">
-	<img src="http://d.pr/i/1ilvy+" alt="pa" />
+	<img src="http://d.pr/i/1ilvy+" alt="Papa">
 	<figcaption>My grandpa</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ I grew up in the [Central Valley][wikipedia 14]), historically an agricultural l
 So you can imagine how my more affluent friends' ill-opinions and condescension toward Corvette would have effected me. Eventually, my thoughts began to mirror their's. It wasn't peer pressure per se. I just saw the light. The Corvette has always been a [fiberglass][wikipedia 15]-body'd automobile. It offers great weight savings, but as [Jeremy Clarkson][twitter 3] so ingeniously demonstrated, the material isn't exactly [structurally stable][youtube 2]. 'Cheap' comes to mind. And then there was the [interior][coolridesonline]. For the longest time, the interior of Corvette was lifted right out of the Chevrolet pickups of the time. The worst culprit being the 5th generation Corvette. All these things started to add up slowly at first. It all came to a head when I discovered the next car-of-my-dreams: the Acura ("Honda" outside of North America) [NSX][wikipedia 16].
 
 <figure>
-	<img src="http://www.arab4x4.com/wp-content/gallery/car_wallpapers/Honda-NSX/Honda-NSX-008.jpg" alt="Changing tastes: I went Asian. Pictured above: a 2002 Honda NSX" />
+	<img src="http://www.arab4x4.com/wp-content/gallery/car_wallpapers/Honda-NSX/Honda-NSX-008.jpg" alt="Changing tastes: I went Asian. Pictured above: a 2002 Honda NSX">
 	<figcaption>Changing tastes: I went Asian. Pictured above: a 2002 Honda NSX 🇯🇵</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ That car was an [engineering masterpiece][honda-nsx]. By the time I discovered t
 This NSX was my halo car until [graduate school][llu] where, guess what, I met a bunch of other people who, guess what, had different tastes than me. Eventually, I caught the Porsche bug. (Apparently, the de facto dentist car is the 911).
 
 <figure>
-	<img src="http://www.total911.com/wp-content/uploads/2014/10/Porsche-964-driving.jpg" alt="Ahhh: what some would call the purest (and last) classic Porsche 911, the 964" />
+	<img src="http://www.total911.com/wp-content/uploads/2014/10/Porsche-964-driving.jpg" alt="Ahhh: what some would call the purest (and last) classic Porsche 911, the 964">
 	<figcaption>Ahhh: what some would call the purest (and last) classic Porsche 911, the 964 🇩🇪</figcaption>
 </figure>
 

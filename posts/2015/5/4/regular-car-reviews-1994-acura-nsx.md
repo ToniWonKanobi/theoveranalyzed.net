@@ -1,5 +1,5 @@
 @@ Title=Regular Car Reviews: 1994 Acura NSX  
-@@ Date=2015-05-04T14:31:00+00:00  
+@@ Date=2015-05-04 14:31  
 @@ Link=https://www.youtube.com/watch?v=V6FDPS-78WU  
 @@ Description=The Regular Car Reviews team takes on one of my favorite sports cars.  
 @@ Tags=NSX, Honda, Acura, history, reviews, funny, Corvette  

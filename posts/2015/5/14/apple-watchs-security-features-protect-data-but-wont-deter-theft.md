@@ -1,5 +1,5 @@
 @@ Title=Apple Watch’s Security Features Protect Data but Won't Deter Theft
-@@ Date=2015-05-14T10:00:00+00:00  
+@@ Date=2015-05-14 10:00  
 @@ Link=http://arstechnica.com/apple/2015/05/apple-watchs-security-features-protect-data-but-wont-deter-theft/  
 @@ Description=So the Apple Watch doesn't have its own version of Activation Lock. Will that be a problem?  
 @@ Tags=Apple, Apple Watch, watchOS  

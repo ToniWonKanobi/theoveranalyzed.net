@@ -1,5 +1,5 @@
 @@ Title='We Are the World' at 30: 12 Tales You Might Not Know  
-@@ Date=2015-01-29T08:00:00+00:00  
+@@ Date=2015-01-29 08:00  
 @@ Link=http://www.usatoday.com/story/life/music/2015/01/27/we-are-the-world-30th-anniversary/22395455/  
 @@ Description=How cool would it be to watch dozens of your favorite musicians come together for a good cause? That happened 30 years ago.  
 @@ Tags=music, music videos, pop culture, history, Michael Jackson, Stevie Wonder, James Ingram, Bruce Springsteen, Bob Dylan, Diana Ross, Huey Lewis, Billy Joel, Quincy Jones  

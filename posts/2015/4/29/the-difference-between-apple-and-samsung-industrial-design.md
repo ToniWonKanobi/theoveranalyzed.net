@@ -1,5 +1,5 @@
 @@ Title=The Difference Between Apple and Samsung Industrial Design  
-@@ Date=2015-04-29T12:52:00+00:00  
+@@ Date=2015-04-29 12:52  
 @@ Link=http://www.imore.com/difference-apple-samsung-industrial-design  
 @@ Description=Rene Ritchie takes apart Samsung design. It isn't pretty.  
 @@ Tags=Samsung, Apple, design, hardware, Rene Ritchie, iMore  

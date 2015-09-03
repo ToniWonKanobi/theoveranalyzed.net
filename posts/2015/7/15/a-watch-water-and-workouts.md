@@ -1,5 +1,5 @@
 @@ Title=A Watch, Water and Workouts   
-@@ Date=2015-07-15T17:47:00+00:00  
+@@ Date=2015-07-15 17:47  
 @@ Link=http://furbo.org/2015/07/14/a-watch-water-and-workouts/  
 @@ Description=Craig Hockenberry shares his experiences with Apple Watch ...in the ocean.  
 @@ Tags=Craig Hockenberry, Apple Watch, Apple  

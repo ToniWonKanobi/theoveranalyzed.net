@@ -1,5 +1,5 @@
 @@ Title=Sarah Michelle Gellar Joins ‘Star Wars Rebels’  
-@@ Date=2015-03-03T14:06:00+00:00  
+@@ Date=2015-03-03 14:06  
 @@ Link=http://www.slashfilm.com/sarah-michelle-gellar-star-wars-rebels/  
 @@ Description=This show just gets better and better.  
 @@ Tags=Star Wars Rebels, Star Wars, TV, celebrities  

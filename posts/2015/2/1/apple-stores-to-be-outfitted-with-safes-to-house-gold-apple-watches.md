@@ -1,5 +1,5 @@
 @@ Title=Apple Stores to Be Outfitted With Safes to House Gold Apple Watches  
-@@ Date=2015-02-01T18:30:00+00:00  
+@@ Date=2015-02-01 18:30  
 @@ Link=http://9to5mac.com/2015/01/31/apple-stores-to-be-outfitted-with-safes-to-house-gold-apple-watches/  
 @@ Description=Bye bye "Business Room," and hello "Edition" room.  
 @@ Tags=Apple, Apple Watch, Apple rumors, Mark Gurman  

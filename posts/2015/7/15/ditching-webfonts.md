@@ -1,5 +1,5 @@
 @@ Title=Ditching Webfonts  
-@@ Date=2015-07-15T11:41:00+00:00  
+@@ Date=2015-07-15 11:41
 @@ Description=Over the past few years, I've become increasingly interested in design and specifically, typography. Ideal Sans was *it* for me. But maybe Hoefler's webfont is just too much of a drag right now?  
 @@ Tags=web, web design, design, fonts, typefaces, Ideal Sans, webfonts, Hoefler, Cloud.typography, Ditching Webfonts, CSS, typography  
 @@ Image=http://d.pr/i/138Zv+  
@@ -11,9 +11,7 @@ This piece is largely a self-response to an earlier post I wrote on the subject 
 </div>
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/138Zv+">
-		<img src="http://d.pr/i/138Zv+" alt="Waiting." />
-	</a>
+	<img src="http://d.pr/i/138Zv+" alt="Waiting.">
 	<figcaption>That's 457.1ms too long for me.</figcaption>
 </figure>
 
@@ -33,7 +31,7 @@ Gruber has virtually no JavaScript extensions in use, and his website rarely fea
 
 Thus, Daring Fireball this is not. And there really isn't anything *wrong* with that.
 
-Still, ever the tinkerer, I <del>was</del> am always tweaking this or that, testing local versions of the site against certain JavaScript and jQuery plugins. The goal is always the same: try to make TheOverAnalyzed faster. I eventually settled on a middle ground. I could deploy TheOverAnalyzed with Ideal Sans, [Bigfoot footnotes][bigfootjs], and [auto-width YouTube embeds][fitvidsjs] for around 2.5 seconds of page loading. Certainly not as fast as Daring Fireball, but fast enough.
+Still, ever the tinkerer, I <s>was</s> am always tweaking this or that, testing local versions of the site against certain JavaScript and jQuery plugins. The goal is always the same: try to make TheOverAnalyzed faster. I eventually settled on a middle ground. I could deploy TheOverAnalyzed with Ideal Sans, [Bigfoot footnotes][bigfootjs], and [auto-width YouTube embeds][fitvidsjs] for around 2.5 seconds of page loading. Certainly not as fast as Daring Fireball, but fast enough.
 
 Right?
 
@@ -78,27 +76,21 @@ If Ideal Sans was the problem, I wondered how fast TheOverAnalyzed would load wi
 To test the site without the webfont, I modified `main.css`, so that there would be a fallback font. In this case, [Avenir][wikipedia]), which is like [Helvetica][wikipedia 2] but less cliche.[^sf]
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/U6XZ+">
-		<img src="http://d.pr/i/U6XZ+" alt="Adding Avenir." />
-	</a>
+	<img src="http://d.pr/i/U6XZ+" alt="Adding Avenir">
 	<figcaption>Adding Avenir.</figcaption>
 </figure>
 
 I also commented-out the stylesheet helper for the webfont in the `<head>` section (`header.html` for Camel)
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/hddm+">
-		<img src="http://d.pr/i/hddm+" alt="Disabling the webfont stylesheet." />
-	</a>
+	<img src="http://d.pr/i/hddm+" alt="Disabling the webfont stylesheet.">
 	<figcaption>Disabling the webfont stylesheet.</figcaption>
 </figure>
 
 Once that was done, the results were noticable.
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1eIhx+">
-		<img src="http://d.pr/i/1eIhx+" alt="Not waiting as long." />
-	</a>
+	<img src="http://d.pr/i/1eIhx+" alt="Not waiting as long.">
 	<figcaption>Bye bye latency.</figcaption>
 </figure>
 

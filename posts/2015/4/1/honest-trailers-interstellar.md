@@ -1,5 +1,5 @@
 @@ Title=Honest Trailers: Interstellar  
-@@ Date=2015-04-01T10:00:00+00:00  
+@@ Date=2015-04-01 10:00  
 @@ Link=https://www.youtube.com/watch?v=lZMzf-SDWP8  
 @@ Description=Honest Trailers takes apart Christopher Nolan's sci-fi epic.  
 @@ Tags=movies, funny, Interstellar, Honest Trailers, pop culture  

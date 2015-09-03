@@ -1,5 +1,5 @@
 @@ Title=I’m Addicted to the Gruesome and Beautiful Photographs on Figure 1, an Instagram for Doctors 
-@@ Date=2015-04-06T16:00:00+00:00  
+@@ Date=2015-04-06 16:00  
 @@ Link=http://www.theverge.com/2015/4/6/8341217/figure-1-medical-images-sharing-app  
 @@ Description=Figure 1 is an app made for physicians, but there are occasionally dental pathologies of note.  
 @@ Tags=dentistry, medicine, apps, iOS, iPhone, reviews  
@@ -14,7 +14,7 @@ Their oral and maxillofacial section is my favorite, chalk full of interesting p
 And, occasionally, not so interesting cases:
 
 <figure class="iphone">
-	<img src="http://d.pr/i/1dZPk+" alt="silly" />
+	<img src="http://d.pr/i/1dZPk+" alt="Silly">
 	<figcaption>Silly medical folk</figcaption>
 </figure>
 

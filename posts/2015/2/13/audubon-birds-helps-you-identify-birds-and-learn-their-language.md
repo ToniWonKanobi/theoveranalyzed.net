@@ -1,5 +1,5 @@
 @@ Title=Audubon Birds Helps You Identify Birds and Learn Their Language  
-@@ Date=2015-02-13T10:00:00+00:00  
+@@ Date=2015-02-13 10:00  
 @@ Link=http://www.appleworld.today/blog/2015/2/11/audubon-birds  
 @@ Description=Gotta love that app icon.  
 @@ Tags=birds, apps, iPhone, iOS  

@@ -1,5 +1,5 @@
 @@ Title=Leonard Nimoy (1931-2015)  
-@@ Date=2015-02-27T13:41:00+00:00  
+@@ Date=2015-02-27 13:41  
 @@ Link=http://devour.com/video/leonard-nimoy-1931-2015/  
 @@ Description=RIP Spock.  
 @@ Tags=Star Trek, sci-fi, movies, pop culture, endings  

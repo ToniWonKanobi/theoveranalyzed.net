@@ -1,5 +1,5 @@
 @@ Title=iPhone 6 Plus Owners Consume Twice the Data of Their iPhone 6-Owning Counterparts  
-@@ Date=2015-02-12T12:00:00+00:00  
+@@ Date=2015-02-12 12:00  
 @@ Link=http://www.appleworld.today/blog/2015/2/11/iphone-6-plus-owners  
 @@ Description=Battery life on the iPhone 6 Plus is significantly better than the iPhone 6.  
 @@ Tags=iPhone, Apple, iPhone 6 Plus  

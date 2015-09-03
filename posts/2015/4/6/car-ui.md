@@ -1,5 +1,5 @@
 @@ Title=Car UI  
-@@ Date=2015-04-06T12:00:00+00:00  
+@@ Date=2015-04-06 12:00  
 @@ Link=http://leancrew.com/all-this/2015/04/car-ui/  
 @@ Description=Dr. Drang shares some insightful thoughts regarding the poor, poor user interface of cars these days.  
 @@ Tags=cars, Dr. Drang   

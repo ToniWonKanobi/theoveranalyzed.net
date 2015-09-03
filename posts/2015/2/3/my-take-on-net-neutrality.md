@@ -1,5 +1,5 @@
 @@ Title=My Take on Net Neutrality  
-@@ Date=2015-02-03T09:00:00+00:00  
+@@ Date=2015-02-03 09:00  
 @@ Description=What's all the hubbub about? Is Net Neutrality *that* important? Well, only if you value choices and a decent internet.  
 @@ Tags=politics, Net Neutrality, industry, business  
 

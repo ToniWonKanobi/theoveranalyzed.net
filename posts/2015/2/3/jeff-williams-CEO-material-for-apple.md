@@ -1,5 +1,5 @@
 @@ Title=Jeff Williams: CEO Material for Apple?  
-@@ Date=2015-02-03T15:00:00+00:00  
+@@ Date=2015-02-03 15:00  
 @@ Link=http://www.aboveavalon.com/notes/2015/1/29/jeff-williams-apple-ceo-material  
 @@ Description=Could Apple's current COO end up its next CEO? (Does this sound familiar?)  
 @@ Tags=Apple, business, Neil Cybart, John Gruber, Tim Cook, Eddy Cue, Jony Ive, Phil Schiller, Jeff Williams, Angela Ahrendts  

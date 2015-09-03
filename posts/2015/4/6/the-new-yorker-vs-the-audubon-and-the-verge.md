@@ -1,5 +1,5 @@
 @@ Title=The New Yorker vs. The Audubon, and the Verge  
-@@ Date=2015-04-06T10:00:00+00:00  
+@@ Date=2015-04-06 10:00  
 @@ Description=The Verge recently ran a piece detailing a recent battle between The Audubon Society and The New Yorker.  
 @@ Tags=Audubon, The New Yorker, The Verge  
 
@@ -17,14 +17,14 @@ If their 'mission statement' of sorts seems rather ambiguous, that's because it 
 And there's nothing wrong with that. The hip and 'responsive design'-ed technology blog / site corner of the interweb has become terribly crowded in the past few years. There are only so many stores one can read about the next iPhone. 
 
 <figure>
-	<img src="http://d.pr/i/11ugt+" alt="how" />
+	<img src="http://d.pr/i/11ugt+" alt="How">
 	<figcaption>How many technology sites does it take?</figcaption>
 </figure>
 
 As an aside, consider my [RSS subscriptions][d]. In my so-called "Favorites" folder, created by me to contain the absolute *most* important authors I follow, it takes no less than **seven** blogs to satisfy my desire for tech opinions. 
 
 <figure>
-	<img src="http://d.pr/i/1jrql+" alt="caption" width="50%"/>
+	<img src="http://d.pr/i/1jrql+" alt="Reeder subscriptions" width="50%">
 	<figcaption>Loving that dog-shaped favicon on that last entry in my Favorites list. I wonder whose <a href="/2015/2/25/designing-theoveranalyzed" >clever work</a> created that?</figcaption>
 </figure>
 

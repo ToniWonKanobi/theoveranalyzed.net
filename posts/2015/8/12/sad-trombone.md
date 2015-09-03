@@ -1,5 +1,5 @@
 @@ Title=Sad Trombone  
-@@ Date=2015-08-12T15:27:00+00:00  
+@@ Date=2015-08-12 15:27  
 @@ Link=http://www.macworld.com/article/2970225/business/apple-pay-rival-currentc-could-be-delayed-again-as-retailers-jump-ship.html  
 @@ Description=Remember CurrentC? Yeah, me neither. (Actually I do. It was that company that was going to kill Apple Pay. Like, for sure.)  
 @@ Tags=CurrentC, Apple Pay, Apple, John Moltz  

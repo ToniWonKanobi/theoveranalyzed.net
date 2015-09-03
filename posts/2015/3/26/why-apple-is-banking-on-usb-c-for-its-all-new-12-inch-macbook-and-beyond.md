@@ -1,5 +1,5 @@
 @@ Title=Why Apple Is Banking on USB-C for Its All-New 12-Inch MacBook and Beyond   
-@@ Date=2015-03-26T08:00:00+00:00  
+@@ Date=2015-03-26 08:00  
 @@ Link=http://appleinsider.com/articles/15/03/25/why-apple-is-banking-on-usb-c-for-its-all-new-12-inch-macbook-and-beyond  
 @@ Description=USB-C could very well be a blessing in disguise.  
 @@ Tags=MacBook, Apple, USB-C  
@@ -20,7 +20,7 @@ There is still a lot we don’t know about the new MacBook and it’s USB-C port
 
 ### Update
 
-Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page](https://support.apple.com/en-us/HT202856).
+Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page][apples].
 
 I was checking into things this morning, and saw this:
 >The MacBook (Retina, 12-inch, Early 2015) will support these displays and rates using the USB-C Digital AV Multiport Adapter.
@@ -29,7 +29,7 @@ I was checking into things this morning, and saw this:
 * 4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)
 	
 <figure>
-	<img src="http://d.pr/i/JI2b+" alt="well" width="63%" />
+	<img src="http://d.pr/i/JI2b+" alt="well" width="63%">
 	<figcaption>Well, there's your answer.</figcaption>
 </figure>
 
@@ -40,4 +40,5 @@ I'm not sure when that info was added, but the page was last updated yesterday.
 </div>
 
 [apple]: http://www.apple.com/macbook/specs/
+[apples]: https://support.apple.com/en-us/HT202856
 [cnet]: http://www.cnet.com/products/apple-macbook-2015/

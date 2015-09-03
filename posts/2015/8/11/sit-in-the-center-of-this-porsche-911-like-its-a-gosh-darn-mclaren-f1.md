@@ -1,5 +1,5 @@
 @@ Title=Sit in the Center of This Porsche 911 Like It's a Gosh Darn McLaren F1  
-@@ Date=2015-08-11T08:00:00+00:00  
+@@ Date=2015-08-11 08:00 
 @@ Link=http://jalopnik.com/sit-in-the-center-of-this-porsche-911-like-its-a-gosh-d-1723208889  
 @@ Description=A McLaren F1-inspired 997 C2S.   
 @@ Tags=Porsche, 911, 997, McLaren, McLaren F1, cars, Jalopnik  
@@ -11,14 +11,14 @@ In 2012, the Porsche Club of America featured the first-ever [Centro 911][wired]
 
 <figure>
 	<a class="nohover" href="https://d2vuc6owleku2s.cloudfront.net/auctions/ca0815/ca0815-219883/images/ca0815-219883_4.jpg">
-		<img src="https://d2vuc6owleku2s.cloudfront.net/auctions/ca0815/ca0815-219883/images/ca0815-219883_4.jpg" alt="Center driving position" />
+		<img src="https://d2vuc6owleku2s.cloudfront.net/auctions/ca0815/ca0815-219883/images/ca0815-219883_4.jpg" alt="Center driving position">
 	</a>
 	<figcaption>Very <a href="https://en.wikipedia.org/wiki/McLaren_F1">McLaren F1</a>-style.</figcaption>
 </figure>
 
 <figure>
 	<a class="nohover" href="https://d2vuc6owleku2s.cloudfront.net/auctions/ca0815/ca0815-219883/images/ca0815-219883_5.jpg">
-		<img src="https://d2vuc6owleku2s.cloudfront.net/auctions/ca0815/ca0815-219883/images/ca0815-219883_5.jpg" alt="Moving everything to the right" />
+		<img src="https://d2vuc6owleku2s.cloudfront.net/auctions/ca0815/ca0815-219883/images/ca0815-219883_5.jpg" alt="Moving everything to the right">
 	</a>
 	<figcaption>Not a hack job by any means. But not exactly <a href="http://www.urbandictionary.com/define.php?term=oem&defid=1905259">OEM</a>, either.</figcaption>
 </figure>
@@ -26,7 +26,7 @@ In 2012, the Porsche Club of America featured the first-ever [Centro 911][wired]
 From the auction's description:
 >The conversion includes a mechanism allowing the front seat to slide left to the driver’s door for ingress and egress.
 
-Pretty neat. Although definetly *[not][youtube 2]* very McLaren F1-ish.
+Pretty neat. Although definitely *[not][youtube 2]* very McLaren F1-ish.
 
 ***
 

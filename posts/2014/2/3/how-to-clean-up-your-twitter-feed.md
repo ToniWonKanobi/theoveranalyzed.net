@@ -1,5 +1,5 @@
 @@ Title=How to Clean Up Your Twitter Feed  
-@@ Date=2014-02-03T08:02:00+00:00  
+@@ Date=2014-02-03 08:02  
 @@ Link=http://lifehacker.com/how-to-clean-up-and-fine-tune-your-twitter-feed-1514738479  
 @@ Description: Here are some tips to keep your timeline from stretching to 500 tweets unread with only a few hours missed.  
 @@ Tags=social media, power user, Twitter, tech tips, Lifehacker 

@@ -1,5 +1,5 @@
 @@ Title=Star Wars: The Force Awakens 16-Bit Trailer
-@@ Date=2015-05-06T10:30:00+00:00  
+@@ Date=2015-05-06 10:30  
 @@ Link=https://www.youtube.com/watch?v=heVBYAbwUUg  
 @@ Description=The new Star Wars Trailer, with SNES graphics.  
 @@ Tags=Star Wars, funny, Star Wars: The Force Awakens, video games 

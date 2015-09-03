@@ -1,5 +1,5 @@
 @@ Title=‘Downton Abbey’ Final Season Trailer: Time to Say Goodbye  
-@@ Date=2015-08-31T08:48:00+00:00  
+@@ Date=2015-08-31 08:48  
 @@ Link=http://www.slashfilm.com/downton-abbey-final-season-trailer/  
 @@ Description=Even though it will probably suck (most final seasons do), I'm sure to watch this.  
 @@ Tags=Downton Abbey, pop culture, TV  

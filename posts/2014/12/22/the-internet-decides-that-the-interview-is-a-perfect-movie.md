@@ -1,5 +1,5 @@
 @@ Title=The Internet Decides That The Interview Is a Perfect Movie  
-@@ Date=2014-12-22T09:06:00+00:00  
+@@ Date=2014-12-22 09:06  
 @@ Link=http://www.theverge.com/2014/12/22/7433229/the-internet-decides-that-the-interview-is-a-perfect-movie  
 @@ Description=Technically a stupid movie, I have a feeling The Interview will prove more than that in according to history.  
 @@ Tags=movies, politics, pop culture, The Interview  

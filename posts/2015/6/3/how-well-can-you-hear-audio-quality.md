@@ -1,5 +1,5 @@
 @@ Title=How Well Can You Hear Audio Quality?  
-@@ Date=2015-06-03T10:33:00+00:00  
+@@ Date=2015-06-03 10:33  
 @@ Link=http://www.marco.org/2015/06/03/npr-audio-quality-test  
 @@ Description=Marco Arment tackles audiophile snake oil (again).  
 @@ Tags=audio, audiophile, snake oil, music, hardware, Marco Arment  

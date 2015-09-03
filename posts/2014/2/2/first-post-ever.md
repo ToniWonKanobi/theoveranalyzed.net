@@ -1,5 +1,5 @@
 @@ Title=First Post Ever  
-@@ Date=2014-02-02T10:04:00+00:00  
+@@ Date=2014-02-02 10:04  
 @@ Description=TheOverAnalyzed's first post ever.  
 @@ Tags=TheOverAnalyzed  
 

@@ -1,5 +1,5 @@
 @@ Title=Tim Cook Says Apple Watch Is Coming in April  
-@@ Date=2015-01-27T14:29:00+00:00  
+@@ Date=2015-01-27 14:29  
 @@ Link=http://www.theverge.com/2015/1/27/7925003/apple-watch-release-date-april  
 @@ Description=Apple Watch: April 2015.  
 @@ Tags=Apple, Apple Watch, Tim Cook  

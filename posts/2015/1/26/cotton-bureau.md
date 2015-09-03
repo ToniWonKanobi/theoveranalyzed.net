@@ -1,5 +1,5 @@
 @@ Title=Cotton Bureau  
-@@ Date=2015-01-26T10:00:00+00:00  
+@@ Date=2015-01-26 10:00  
 @@ Description=I love this site.  
 @@ Tags=apparel, t-shirts, business, Cotton Bureau, reviews    
 @@ Image=https://cottonbureau.com/img/tee-pattern_2x.png  

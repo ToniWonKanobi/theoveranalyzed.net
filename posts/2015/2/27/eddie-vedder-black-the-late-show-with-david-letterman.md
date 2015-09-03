@@ -1,5 +1,5 @@
 @@ Title=Eddie Vedder - "Black" (Live On Letterman)  
-@@ Date=2015-02-27T13:36:00+00:00  
+@@ Date=2015-02-27 13:36  
 @@ Link=https://www.youtube.com/watch?v=OlZKFJueoIA  
 @@ Description=I quite fancy Pearl Jam. There's a lot of history between Eddie Vedder and David Letterman. It's neat to see them in the early stages.  
 @@ Tags=music, music videos, David Letterman, Pearl Jam, Eddie Vedder, Will Lee  

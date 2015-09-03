@@ -1,5 +1,5 @@
 @@ Title=Bigfoot Footnotes in Squarespace  
-@@ Date=2015-01-31T08:00:00+00:00  
+@@ Date=2015-01-31 08:00  
 @@ Description=A big milestone in my blogging development: footnotes are live on TheOverAnalyzed!  
 @@ Tags=blogging, Squarespace, TheOverAnalyzed, Bigfoot.js, footnotes  
 

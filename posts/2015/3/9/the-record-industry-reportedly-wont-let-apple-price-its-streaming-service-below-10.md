@@ -1,5 +1,5 @@
 @@ Title=The Record Industry Reportedly Won't Let Apple Price Its Streaming Service Below $10
-@@ Date=2015-03-09T15:02:00+00:00  
+@@ Date=2015-03-09 15:02  
 @@ Link=http://www.theverge.com/2015/3/9/8177837/record-industry-apple-beats-music-pricing  
 @@ Description=Apple's rumored streaming service might have a few hurdles to jump before launching.  
 @@ Tags=Apple, streaming music, music, Beats, industry  

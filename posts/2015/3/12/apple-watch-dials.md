@@ -1,5 +1,5 @@
 @@ Title=Apple Watch Dials  
-@@ Date=2015-03-12T15:08:00+00:00  
+@@ Date=2015-03-12 15:08  
 @@ Link=https://cssanimation.rocks/watch/  
 @@ Description=Some folks get pretty tricksies with CSS.  
 @@ Tags=CSS, Apple Watch  

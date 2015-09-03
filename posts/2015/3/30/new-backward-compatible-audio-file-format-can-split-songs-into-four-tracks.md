@@ -1,5 +1,5 @@
 @@ Title=New Backward-Compatible Audio File Format Can Split Songs Into Four Tracks   
-@@ Date=2015-03-30T08:28:00+00:00  
+@@ Date=2015-03-30 08:28  
 @@ Link=http://www.theverge.com/2015/3/30/8305649/native-instruments-stems-audio-file-format  
 @@ Description=Could this be the next-gen 'mp3'?  
 @@ Tags=audio, music  

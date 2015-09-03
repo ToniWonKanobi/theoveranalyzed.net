@@ -1,5 +1,5 @@
 @@ Title=Earl Sinclair - "Hypnotize" (Notorious B.I.G. Cover)
-@@ Date=2015-03-11T13:29:00+00:00  
+@@ Date=2015-03-11 13:29  
 @@ Link=https://www.youtube.com/watch?v=-v2mvO7Yq48  
 @@ Description=I loved Dinosaurs (TV Series 1991-1994).  
 @@ Tags=TV, funny, music, Notorious B.I.G., Dinosaurs, covers  

@@ -1,5 +1,5 @@
 @@ Title=This Is Why Everyone Hates In-Car Navigation Systems  
-@@ Date=2015-02-05T10:00:00+00:00  
+@@ Date=2015-02-05 10:00  
 @@ Link=http://www.theverge.com/2015/2/5/7982525/in-car-navigation-systems-are-terrible  
 @@ Description=Yes, everyone hates in-car navigation.  
 @@ Tags=cars, CarPlay, Android Auto, Magellan  

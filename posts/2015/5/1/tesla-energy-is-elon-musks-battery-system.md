@@ -1,5 +1,5 @@
 @@ Title=Tesla Energy Is Elon Musk's Battery System  
-@@ Date=2015-05-01T15:45:00+00:00  
+@@ Date=2015-05-01 15:45  
 @@ Link=http://www.theverge.com/2015/5/1/8525309/tesla-energy-elon-musk-battery-announcement  
 @@ Description=Tesla has a new battery charging system.  
 @@ Tags=Tesla, environment, business, Elon Musk, cars ,Tesla Energy  

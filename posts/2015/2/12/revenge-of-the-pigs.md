@@ -1,5 +1,5 @@
 @@ Title=Revenge of the Pigs  
-@@ Date=2015-02-12T08:00:00+00:00  
+@@ Date=2015-02-12 08:00  
 @@ Link=http://www.psmag.com/nature-and-technology/revenge-of-the-pigs-hunting-and-the-feral-hog-problem  
 @@ Description=A spot-on look at hunters' philosophical fallacies.  
 @@ Tags=animal advocacy, animals, advocacy, politics, culture  

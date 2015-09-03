@@ -1,5 +1,5 @@
 @@ Title=Fender and NAMM 2015  
-@@ Date=2015-01-25T11:24:00+00:00 
+@@ Date=2015-01-25 11:24  
 @@ Description=The annual National Association of Music Merchants (NAMM) isn't what it used to be.  
 @@ Tags=music, business, industry, Fender, Jim Dalrymple, NAMM  
 

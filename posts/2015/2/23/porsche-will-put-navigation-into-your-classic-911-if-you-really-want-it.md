@@ -1,5 +1,5 @@
 @@ Title=Porsche Will Put Navigation Into Your Classic 911 if You Really Want It  
-@@ Date=2015-02-23T12:24:00+00:00
+@@ Date=2015-02-23 12:24  
 @@ Link=http://jalopnik.com/porsche-will-put-navigation-into-your-classic-911-if-yo-1687429377  
 @@ Description=Owning a classic 911 is the pipe dream of many a car lover. However, how many of them would even consider throwing a Jensen single-DIN deck in there? Not likely as many.  
 @@ Tags=Porsche, cars, audio, 911, 964, 993, culture  
@@ -18,11 +18,11 @@ Imagine owning car manufactured in the early 90's, or even earlier. While there 
 
 Why would you want to adorn your old car with such gaudy visual diarrhea? 
 
-<hr class="long" />
+<hr class="long">
 
 **The answer is that you wouldn't.**
 
-<hr class="long" />
+<hr class="long">
 
 And on a less esthetic level, our modern-day reliance on technical amenities like [BTLE][wikipedia 2] and handsfree *could*---if you're that sort of person---make driving less enjoyable in their absence.[^could] 
 

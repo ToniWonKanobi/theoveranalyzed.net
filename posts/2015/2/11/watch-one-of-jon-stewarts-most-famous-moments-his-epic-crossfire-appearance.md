@@ -1,5 +1,5 @@
 @@ Title=Watch One of Jon Stewart's Most Famous Moments: His Epic Crossfire Appearance  
-@@ Date=2015-02-11T08:00:00+00:00  
+@@ Date=2015-02-11 08:00  
 @@ Link=http://www.vox.com/2015/2/10/8016365/jon-stewart-crossfire  
 @@ Description=TDS just won't be the same without him.  
 @@ Tags=TV, Jon Stewart, culture, politics, endings  

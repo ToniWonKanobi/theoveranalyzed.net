@@ -1,13 +1,11 @@
 @@ Title=‘Star Wars: The Force Awakens’ Taking Over All IMAX Screens for a Whole Month  
-@@ Date=2015-08-26T10:59:00+00:00  
+@@ Date=2015-08-26 10:59  
 @@ Link=http://www.slashfilm.com/the-force-awakens-imax/  
 @@ Description=Looks like Episode VII will be getting an extended run of IMAX presentations. Too bad it likely won't be available in IMAX 2D.  
 @@ Tags=Star Wars, Star Wars: The Force Awakens, pop culture, movies  
 @@ Image=http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg  
 
-<figure>
-	<img src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg" alt="Star Wars: The Force Awakens Poster" />
-</figure>
+![](http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg "Star Wars: The Force Awakens Poster")
 
 Ethan Anderton, of /Film:
 >Nowadays, movies move in an out of theaters very quickly. Gone are the days of a movie sticking around your local multiplex for months. And movies have an even shorter shelf-life on IMAX screens, since there are far fewer of the giant movie theaters available for movies to inhabit.

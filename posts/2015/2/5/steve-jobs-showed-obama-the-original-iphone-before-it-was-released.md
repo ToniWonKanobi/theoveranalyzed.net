@@ -1,5 +1,5 @@
 @@ Title=Steve Jobs Showed Obama the Original iPhone Before It Was Released  
-@@ Date=2015-02-05T10:30:00+00:00  
+@@ Date=2015-02-05 10:30  
 @@ Link=http://www.theverge.com/2015/2/5/7985301/steve-jobs-obama-original-iphone-2007  
 @@ Description=So Barry saw it beforehand. And he *still* uses a BlackBerry.  
 @@ Tags=history, Apple, iPhone, Steve Jobs, Barack Obama  

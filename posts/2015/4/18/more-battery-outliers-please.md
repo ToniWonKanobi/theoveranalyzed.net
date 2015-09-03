@@ -1,5 +1,5 @@
 @@ Title=More Battery Outliers, Please  
-@@ Date=2015-04-18T13:42:00+00:00  
+@@ Date=2015-04-18 13:42  
 @@ Link=http://www.marco.org/2015/04/17/battery-outliers  
 @@ Description=Here's hoping the new MacBook will *at least* beat the 11" MacBook Air's 9-hour battery life.  
 @@ Tags=MacBook, Apple, hardware, gear, Marco Arment, Jason Snell, Apple Watch  

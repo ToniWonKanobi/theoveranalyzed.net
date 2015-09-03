@@ -1,5 +1,5 @@
 @@ Title=Apple Watch Sizing: 38mm or 42mm?
-@@ Date=2015-03-09T14:15:00+00:00  
+@@ Date=2015-03-09 14:15  
 @@ Link=http://store.apple.com/Catalog/regional/amr/pdf/static/pdf/content/Watch_Sizing_Guide.pdf  
 @@ Description=Here's a PDF that might help you decide between the 38mm and 42mm Apple Watch.  
 @@ Tags=Apple, Apple Watch  

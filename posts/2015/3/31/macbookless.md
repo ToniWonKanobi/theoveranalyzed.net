@@ -1,10 +1,10 @@
 @@ Title=MacBookless  
-@@ Date=2015-03-31T12:00:00+00:00  
+@@ Date=2015-03-31 12:00  
 @@ Description=In anticipation for the new MacBook, I've sold my MacBook Air, and have been going without. It's been interesting.  
 @@ Tags=Anthony, MacBook, Apple, gear 
 
 <figure>
-	<img src="http://d.pr/i/1fwsW+" alt="not" />
+	<img src="http://d.pr/i/1fwsW+" alt="Not sure how Viticci does it.">
 	<figcaption>Not sure how <a href="http://www.imore.com/how-ipad-air-2-became-federico-viticcis-main-computer">Viticci</a> does it.</figcaption>
 </figure>
 

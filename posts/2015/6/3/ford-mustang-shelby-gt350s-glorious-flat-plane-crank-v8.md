@@ -1,5 +1,5 @@
 @@ Title=Ford Mustang Shelby GT350'S Glorious Flat Plane Crank V8 Rated at 526 HP  
-@@ Date=2015-06-03T09:54:00+00:00
+@@ Date=2015-06-03 09:54  
 @@ Link=http://jalopnik.com/ford-mustang-shelby-gt350s-glorious-flat-plane-crank-v8-1708503100  
 @@ Description=American muscle gets some Italian inspiration (at least under the hood).
 @@ Tags=cars, Mustang, Ford, Shelby GT350, Shelby, Jalopnik  

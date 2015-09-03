@@ -1,5 +1,5 @@
 @@ Title=The 1975 - "What Makes You Beautiful" (One Direction Cover)  
-@@ Date=2015-03-01T11:10:00+00:00  
+@@ Date=2015-03-01 11:10  
 @@ Link=https://www.youtube.com/watch?v=tEVXmzHY1lU  
 @@ Description=The 1975 doing a One Direction cover.  
 @@ Tags=music, music videos, covers, The 1975, One Direction

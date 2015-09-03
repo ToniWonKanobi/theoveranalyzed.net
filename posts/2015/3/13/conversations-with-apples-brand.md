@@ -1,5 +1,5 @@
 @@ Title=Conversations With Apple's Brand  
-@@ Date=2015-03-13T15:00:00+00:00  
+@@ Date=2015-03-13 15:00  
 @@ Link=http://www.asymco.com/2015/03/11/conversations-with-apples-brand/  
 @@ Description=Horace Dediu gives a quick tour of Apple's brand through the decades.  
 @@ Tags=Horace Dediu, Apple, culture, industry, Ben Thompson  

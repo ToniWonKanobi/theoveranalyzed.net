@@ -1,5 +1,5 @@
 @@ Title=Ditching Webfonts Part II: Hoefler Webfonts Are Prettier, but Slower  
-@@ Date=2015-07-19T11:14:00+00:00
+@@ Date=2015-07-19 11:14
 @@ Description=It's been a few days since I stopped using webfonts on my website. I did some super scientific and empirical testing in determining that Cloud.typography (Hoefler) webfonts are slower than everyone else's.  
 @@ Tags=web, web design, design, fonts, typefaces, Ideal Sans, webfonts, Cloud.typography, Ditching Webfonts, CSS, TypeKit, Hoefler, Adobe, typography  
 @@ Image=http://www.typography.com/images/overviewPageImages/whitney_cell_07.png  
@@ -33,18 +33,14 @@ A later tweet by Thompson seemed to suggest to me that perhaps [Cloud.typography
 Thompson's blog [Stratechery][str] uses the [Freight Sans][fs] font family, provided by Adobe's TypeKit webfont repository:
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1lonW+">
-		<img src="http://d.pr/i/1lonW+" alt="Stratechery" />
-	</a>
+	<img src="http://d.pr/i/1lonW+" alt="Stratechery">
 	<figcaption><a href="http://stratechery.com">Stratechery</a> showing very little latency</figcaption>
 </figure>
 
 For [Liss Is More][lm], Casey Liss uses [Lato][lato], another TypeKit font:
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/120yX+">
-		<img src="http://d.pr/i/120yX+" alt="Liss Is More" />
-	</a>
+	<img src="http://d.pr/i/120yX+" alt="Liss Is More">
 	<figcaption><a href="http://caseyliss.com">Liss Is More</a>, with relatively no latency as well</figcaption>
 </figure>
 
@@ -60,23 +56,17 @@ In that same post, Bowler linked to three websites, all of which helped beta-tes
 And of course I checked out their source code as well.
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1k8Wv+">
-		<img src="http://d.pr/i/1k8Wv+" alt="kottke.org source" />
-	</a>
+	<img src="http://d.pr/i/1k8Wv+" alt="kottke.org source">
 	<figcaption><a href="http://kottke.org">kottke.org</a></figcaption>
 </figure>
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/14hQq+">
-		<img src="http://d.pr/i/14hQq+" alt="Rands in Repose source" />
-	</a>
+	<img src="http://d.pr/i/14hQq+" alt="Rands in Repose source">
 	<figcaption><a href="http://randsinrepose.com">Rands in Repose</a></figcaption>
 </figure>
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/11Gtm+">
-		<img src="http://d.pr/i/11Gtm+" alt="SimpleBits source" />
-	</a>
+	<img src="http://d.pr/i/11Gtm+" alt="SimpleBits source">
 	<figcaption><a href="http://simplebits.com">SimpleBits</a></figcaption>
 </figure>
 
@@ -115,24 +105,18 @@ Over the past three decades, Hoefler & Co ([prev. Hoefler & Frere-Jones][hfj]) h
 Here are some of my favorites:[^acc] 
 
 <figure class="wide">
-	<a class="nohover" href="http://www.typography.com/images/overviewPageImages/archer-A-07.png">
-		<img src="http://www.typography.com/images/overviewPageImages/archer-A-07.png" alt="Archer" />
-	</a>
-	<figcaption class="long"><a href="http://www.typography.com/fonts/archer/overview/">Archer</a> is a slab-serif, featured in the poster for <a href="http://fontsinuse.com/uses/7035/the-grand-budapest-hotel-poster-and-props">The Grand Budapest Hotel (2014)</a>, as well as in the <a href="https://en.wikipedia.org/wiki/Martha_Stewart_Living">Martha Stewart Living</a> magazine.</figcaption>
+	<img src="http://www.typography.com/images/overviewPageImages/archer-A-07.png" alt="Archer">
+	<figcaption><a href="http://www.typography.com/fonts/archer/overview/">Archer</a> is a slab-serif, featured in the poster for <a href="http://fontsinuse.com/uses/7035/the-grand-budapest-hotel-poster-and-props">The Grand Budapest Hotel (2014)</a>, as well as in the <a href="https://en.wikipedia.org/wiki/Martha_Stewart_Living">Martha Stewart Living</a> magazine.</figcaption>
 </figure>
 
 <figure class="wide">
-	<a class="nohover" href="http://www.typography.com/images/overviewPageImages/gotham_cell_02.png">
-		<img src="http://www.typography.com/images/overviewPageImages/gotham_cell_02.png" alt="Gotham" />
-	</a>
-	<figcaption class="long"><a href="http://www.typography.com/fonts/gotham/overview/">Gotham</a> is probably Hoefler & Frere-Jones's most well-known font. What started as GQ commission became an 'everywhere' font. Notably, Gotham was featured in <a href="https://en.wikipedia.org/wiki/Gotham_(typeface)#In_the_Obama_campaign">Obama's</a> <a href="http://fontsinuse.com/uses/1603/obama-2008-campaign-posters">2008 and 2012 presidential campaigns</a>.</figcaption>
+	<img src="http://www.typography.com/images/overviewPageImages/gotham_cell_02.png" alt="Gotham">
+	<figcaption><a href="http://www.typography.com/fonts/gotham/overview/">Gotham</a> is probably Hoefler & Frere-Jones's most well-known font. What started as GQ commission became an 'everywhere' font. Notably, Gotham was featured in <a href="https://en.wikipedia.org/wiki/Gotham_(typeface)#In_the_Obama_campaign">Obama's</a> <a href="http://fontsinuse.com/uses/1603/obama-2008-campaign-posters">2008 and 2012 presidential campaigns</a>.</figcaption>
 </figure>
 
 <figure class="wide">
-	<a class="nohover" href="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png">
-		<img src="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png" alt="Whitney" />
-	</a>
-	<figcaption class="long"><a href="http://www.typography.com/fonts/whitney/overview/">Whitney</a> was the runner-up font for TheOverAnalyzed. If it weren't for all the <a href="/2015/7/15/ditching-webfonts#becoming-ideal">personal history</a> associated with Ideal Sans, I probably would have chosen Whitney instead. <a href="http://fontsinuse.com/uses/2384/romney-2012-presidential-campaign">Mitt Romney's 2012 presidential campaign</a> featured this font.</figcaption>
+	<img src="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png" alt="Whitney">
+	<figcaption><a href="http://www.typography.com/fonts/whitney/overview/">Whitney</a> was the runner-up font for TheOverAnalyzed. If it weren't for all the <a href="/2015/7/15/ditching-webfonts#becoming-ideal">personal history</a> associated with Ideal Sans, I probably would have chosen Whitney instead. <a href="http://fontsinuse.com/uses/2384/romney-2012-presidential-campaign">Mitt Romney's 2012 presidential campaign</a> featured this font.</figcaption>
 </figure>
 
 These are just a [few][typography] of the [great][typography 2] [fonts][typography 3] [available][typography 4] from [Hoefler][typography 5]. And unfortunately, I can't use any of them.
@@ -154,7 +138,7 @@ You may have noticed that I've re-enabled my Cloud.typography webfont, Ideal San
 
 </div>
 
-[^acc]: This just became an Accidental <del>Tech</del> Font <del>Podcast</del> Post. If you want to skip ahead to my final thoughts about Hoefler webfonts, click [here][theoveranalyzed 2].
+[^acc]: This just became an Accidental <s>Tech</s> Font <s>Podcast</s> Post. If you want to skip ahead to my final thoughts about Hoefler webfonts, click [here][theoveranalyzed 2].
 [^has]: But correct
 [^hippa]: I am inclined to link to his development studio, but since we met in a professional setting, [HIPPA][hippa] would not approve of me doing so.
 [^hy]: At this point, the hygienist was most displeased. As you might imagine, our nerdy conversation went on for a while, and this was impeding her from moving on to her next patient.

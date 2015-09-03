@@ -1,5 +1,5 @@
 @@ Title=Steve Jobs Danced to My Song  
-@@ Date=2015-06-04T13:07:00+00:00  
+@@ Date=2015-06-04 13:07  
 @@ Link=https://www.youtube.com/watch?v=xFyXoPi9FNs&feature=youtu.be  
 @@ Description=The guy who sings the ATP theme song has an interesting story about Steve Jobs.  
 @@ Tags=Steve Jobs, Jonathan Mann, history, Apple, Antennagate  

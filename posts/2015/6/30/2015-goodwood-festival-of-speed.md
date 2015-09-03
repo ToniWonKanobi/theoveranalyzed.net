@@ -1,5 +1,5 @@
 @@ Title=2015 Goodwood Festival of Speed  
-@@ Date=2015-07-01T11:55:00+00:00  
+@@ Date=2015-07-01 11:55
 @@ Link=http://www.total911.com/2015-goodwood-festival-of-speed-gallery-part-one/  
 @@ Description=Total 911 has the scoop on this year's Goodwood.  
 @@ Tags=Porsche, Goodwood, cars, 911, Cayman GT4, Cayman, GT4, 991 GT3 RS, GT3 RS, 991, 918, 919, 956, Singer  
@@ -9,37 +9,27 @@ Josh Barnett of Total 911 was at the 2015 [Goodwood Festival of Speed][goodwood]
 >From Singer’s UK debut to the new Porsche 911 GT3 RS, there was something to satisfy every neunelfer fan, as the first part of our gallery attests.
 
 <figure class="wide">
-	<a class="nohover" href="http://d.pr/i/pdJA+">
-		<img src="http://d.pr/i/pdJA+" alt="GT4, GT3 RS, 918" />
-	</a>
+	<img src="http://d.pr/i/pdJA+" alt="GT4, GT3 RS, 918">
 	<figcaption>The new <a href="https://en.wikipedia.org/wiki/Porsche_Cayman#Cayman_GT4">Cayman GT4</a>, <a href="https://en.wikipedia.org/wiki/Porsche_911_GT3#991_GT3_RS">991 GT3 RS</a>, and a <a href="https://en.wikipedia.org/wiki/Porsche_918">918</a></figcaption>
 </figure>
 
 <figure class="wide">
-	<a class="nohover" href="http://d.pr/i/1cYUW+">
-		<img src="http://d.pr/i/1cYUW+" alt="991 GT3 RS" />
-	</a>
+	<img src="http://d.pr/i/1cYUW+" alt="991 GT3 RS">
 	<figcaption>991 GT3 RS</figcaption>
 </figure>
 
 <figure class="wide">
-	<a class="nohover" href="http://d.pr/i/158nT+">
-		<img src="http://d.pr/i/158nT+" alt="Singer 911" />
-	</a>
+	<img src="http://d.pr/i/158nT+" alt="Singer 911">
 	<figcaption>The <a href="http://singervehicledesign.com/gallery/the-machines/united-kingdom/">UK build</a> Singer 911</figcaption>
 </figure>
 
 <figure class="wide">
-	<a class="nohover" href="http://d.pr/i/1lJXB+">
-		<img src="http://d.pr/i/1lJXB+" alt="956" />
-	</a>
+	<img src="http://d.pr/i/1lJXB+" alt="956">
 	<figcaption><a href="https://en.wikipedia.org/wiki/Porsche_956">956</a></figcaption>
 </figure>
 
 <figure class="wide">
-	<a class="nohover" href="http://d.pr/i/buFI+">
-		<img src="http://d.pr/i/buFI+" alt="919" />
-	</a>
+	<img src="http://d.pr/i/buFI+" alt="919">
 	<figcaption><a href="https://en.wikipedia.org/wiki/Porsche_919_Hybrid">919</a></figcaption>
 </figure>
 

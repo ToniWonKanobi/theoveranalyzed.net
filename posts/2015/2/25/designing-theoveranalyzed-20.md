@@ -1,5 +1,5 @@
 @@ Title=Designing TheOverAnalyzed 2.0  
-@@ Date=2015-02-25T08:00:00+00:00  
+@@ Date=2015-02-25 08:00 
 @@ Description=I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
 @@ Tags=Squarespace, Sketch, TheOverAnalyzed, Pixelmator, design, web design, HTML, CSS, JavaScript  
 
@@ -22,7 +22,7 @@ I started with the [Native][squarespace] template, which was, like most template
 Here's the Native demo page:
 
 <figure>
-	<img src="http://d.pr/i/196ta+" alt="native"  />
+	<img src="http://d.pr/i/196ta+" alt="Native">
 	<figcaption>The stock Native template</figcaption>
 </figure>
 
@@ -31,14 +31,14 @@ Eventually, I noticed that the way Native implemented [blockquotes][d] was kind 
 Here's the Avenue demo page: 
 
 <figure>
-	<img src="http://d.pr/i/rxBP+" alt="avenue"  />
+	<img src="http://d.pr/i/rxBP+" alt="Avenue">
 	<figcaption>The stock Avenue template</figcaption>
 </figure>
 
 And here's a screenshot[^v] of my site from just a couple of weeks ago, before the first big design change:
 
 <figure>
-	<img src="http://d.pr/i/1cvPC+" alt="caption"  />
+	<img src="http://d.pr/i/1cvPC+" alt="TOA couple weeks ago">
 	<figcaption>TheOverAnalyzed with the Avenue template (Version 1)</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ I quickly familiarized myself with `blog.list` and `blog.item` and was able to m
 Here's a screenshot of Permalinks Version 1.0:[^pl]
 
 <figure>
-	<img src="http://d.pr/i/1lSZU+" alt="Permalinks Version 1"  />
+	<img src="http://d.pr/i/1lSZU+" alt="Permalinks Version 1">
 	<figcaption>Permalinks Version 1.0</figcaption>
 </figure>
 
@@ -108,12 +108,12 @@ I noticed [Above Avalon][aboveavalon] a few weeks ago, and loved the non-scrolli
 Here is Niel Cybart's Stratechery-esche Above Avalon:
 
 <figure>
-	<img src="http://d.pr/i/11RRa+" alt="aboveavalon"  />
+	<img src="http://d.pr/i/11RRa+" alt="aboveavalon">
 	<figcaption>Above Avalon's homepage</figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/19QPN+" alt="caption"  />
+	<img src="http://d.pr/i/19QPN+" alt="Scroll">
 	<figcaption>Look at that <code>.main-content</code> scroll</figcaption>
 </figure>
 
@@ -124,12 +124,12 @@ I looked around the templates and discovered that Cybart had implemented a relat
 Here is the Wells demo:
 
 <figure>
-	<img src="http://d.pr/i/1bItW+" alt="wells"  />
+	<img src="http://d.pr/i/1bItW+" alt="Wells">
 	<figcaption>Wells template</figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/Q7z1+" alt="caption"  />
+	<img src="http://d.pr/i/Q7z1+" alt="TOA w/Wells">
 	<figcaption>And here is TheOverAnalyezd with Wells (Version 1.0 of the site)</figcaption>
 </figure>
 
@@ -138,14 +138,14 @@ Note that the content was pushed all the way to the left of the window. This was
 After consulting with the [Squarespace Answers Forum](answers.squarespace.com), I was able to move the content over to the center, more or less:
 
 <figure>
-	<img src="http://d.pr/i/EfZ+" alt="sorta"  />
+	<img src="http://d.pr/i/EfZ+" alt="Sorta">
 	<figcaption>Sorta-centered</figcaption>
 </figure>
 
 But this led to a terrible design on mobile:
 
 <figure class="iphone">
-	<img src="http://d.pr/i/1l1L9+" alt="mobile">
+	<img src="http://d.pr/i/1l1L9+" alt="Mobile">
 	<figcaption>Mobile, pre-<code>custom.less</code></figcaption>
 </figure>
 
@@ -169,16 +169,20 @@ Here is how I decided to re-style the site, using `.less` slash `.css` stuffs:
 
 * I created a `custom.css`, which would allow me to make changes to the style of the site without being unable to 'revert' back to the default `global.less` and/or `mobile.less` configurations.
 * I then modified `template.conf` at the string `"stylesheets"` such that `custom.css` was loaded *after* `mobile.less`, which was, wonderfully, loaded after `global.less` by default[^mlgl] 
-	* The output should look like this, at least for the Wells template: 
-		* `"stylesheets" : [ "tweak.less", "global.less", "mobile.less", "bigfoot-number.css", "custom.css" ]`
+	* The output should look like this, at least for the Wells template:
+	
+		```
+		"stylesheets" : [ "tweak.less", "global.less", "mobile.less", "bigfoot-number.css", "custom.css" ]
+		```
+		
 * I wanted to ensure that the mobile version of the site extended all the way to iPad in portrait mode, but, for iPad in landscape mode, I wanted the site to load in Desktop-mode.
 	* In `custom.css`, I used an `@media only screen and (min-width:769px)` modifier, which basically calls for implementing parts of `custom.css` *only* when the width of the display window is 769px or greater.[^ip]
 	* For kicks, here is the content of that `@media` query:
-	* <script src="https://gist.github.com/ToniWonKanobi/4ff2c73d6f9e27916d7c.js"></script>
+		<script src="https://gist.github.com/ToniWonKanobi/4ff2c73d6f9e27916d7c.js"></script>
 	* That worked great, but my design broke down when I zoomed in on the iPad when in landscape mode.
 	* I had to do some sidebar hackery such that the `#headerWrapper` for `.sidebar-position-left` was `position: absolute !important`
 	* Here is the `@media` query I used to target iPads in landscape orientation:
-	* <script src="https://gist.github.com/ToniWonKanobi/50bc973ad2dde32fbb81.js"></script>
+		<script src="https://gist.github.com/ToniWonKanobi/50bc973ad2dde32fbb81.js"></script>
 
 ## One More Thing
 
@@ -191,7 +195,7 @@ Squarespace had *just* rolled out their [logo designer tool][squarespace 6].[^ld
 I think it was actually a pretty nice logo considering it took me about 5 minutes to put together:
 
 <figure>
-	<img src="http://d.pr/i/1b8Ss+" alt="logo1" />
+	<img src="http://d.pr/i/1b8Ss+" alt="Logo1">
 	<figcaption>Logo Version 1.0</figcaption>
 </figure>
 
@@ -226,49 +230,49 @@ Sketch is on its [third major version][bohemiancoding] now, and while its true p
 I started with a photo of Smokey:
 
 <figure>
-	<img src="http://d.pr/i/19uo2+" alt="original"  />
+	<img src="http://d.pr/i/19uo2+" alt="original">
 	<figcaption>Original picture of Smokey</figcaption>
 </figure>
 
 Then I reduced the opacity to 50%, to make vectorizing the image easier:
 
 <figure>
-	<img src="http://d.pr/i/19gqG+" alt="opacity"  />
+	<img src="http://d.pr/i/19gqG+" alt="Opacity reduced">
 	<figcaption>Opacity reduced</figcaption>
 </figure>
 
 And here's the vector, minus some smoothing:
 
 <figure>
-	<img src="http://d.pr/i/9MUF+" alt="vector"  />
+	<img src="http://d.pr/i/9MUF+" alt="Original vector">
 	<figcaption>Original vector</figcaption>
 </figure>
 
 And here's the circle logo:
 
 <figure>
-	<img src="http://d.pr/i/dOCb+" alt="circke"  />
+	<img src="http://d.pr/i/dOCb+" alt="Circle logo">
 	<figcaption>Circle logo</figcaption>
 </figure>
 
 Next, the logo with text. I chose Futura Condensed ExtraBold. I like the weight, and I especially like Futura because of its versatility. It's not as trendy or readable as Proxima Nova (`body-font-font-family`), sure. But it conveys a certain amount of gravitas, without seeming too formal. It's almost comical, but only slightly so. I think that suits the site well:
 
 <figure>
-	<img src="http://d.pr/i/19wtr+" alt="logotext"  />
+	<img src="http://d.pr/i/19wtr+" alt="Logo with text">
 	<figcaption>Logo with text</figcaption>
 </figure>
 
 Finally, the full logo with the subtitle. I included the subtitle because I originally had trouble aligning the subtitle text on the different target displays. Making it part of the logo made things easier for me:
 
 <figure>
-	<img src="http://d.pr/i/qW89+" alt="finished"  />
-	<figcaption>Finished logo with subtitle/figcaption>
+	<img src="http://d.pr/i/qW89+" alt="Finished logo with subtitle">
+	<figcaption>Finished logo with subtitle</figcaption>
 </figure>
 
 I also used the Circle Logo to make the browser favicon:
 
 <figure>
-	<img src="http://d.pr/i/13py7+" alt="favicon"  />
+	<img src="http://d.pr/i/13py7+" alt="Favicon">
 	<figcaption>Favicon</figcaption>
 </figure>
 
@@ -276,8 +280,8 @@ I also used the Circle Logo to make the browser favicon:
 
 I spent a fair amount of time trying to use my (`Logo.svg`) in place of the static image Squarespace uses for the logo. This was important to me because I wanted everything about my site to look good on Retina displays. And, even though most humans wouldn't zoom in to this level:
 
-<figure>
-	<img src="http://d.pr/i/1hJo2+" alt="broken" width="63%" />
+<figure class="iphone">
+	<img src="http://d.pr/i/1hJo2+" alt="Site broken on mobile">
 	<figcaption>Broken on mobile</figcaption>
 </figure>
 
@@ -292,28 +296,28 @@ Finally. [It was finished][biblehub]. I was able to get things looking how I wan
 Desktop:
 
 <figure>
-	<img src="http://d.pr/i/1bVv2+" alt="sidebar"  />
+	<img src="http://d.pr/i/1bVv2+" alt="Sidebar on desktop version of website">
 	<figcaption>Sidebar. Desktop. Yes.</figcaption>
 </figure>
 
 iPad (Portrait):
 
-<figure>
-	<img src="http://d.pr/i/OgsK+" alt="portrait" width="63%" />
+<figure class="iphone">
+	<img src="http://d.pr/i/OgsK+" alt="iPad, portrait">
 	<figcaption>iPad, portrait</figcaption>
 </figure>
 
 iPad (Landscape):
 
-<figure>
-	<img src="http://d.pr/i/pAIQ+" alt="landscape" width="63%" />
+<figure class="iphone">
+	<img src="http://d.pr/i/pAIQ+" alt="iPad, landscape">
 	<figcaption>iPad, landscape</figcaption>
 </figure>
 
 iPhone:
 
-<figure>
-	<img src="http://d.pr/i/1fcI8+" alt="iphone" width="63%" />
+<figure class="iphone">
+	<img src="http://d.pr/i/1fcI8+" alt="iPhone, portrait">
 	<figcaption>iPhone, portrait</figcaption>
 </figure>
 

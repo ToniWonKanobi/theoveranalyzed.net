@@ -1,5 +1,5 @@
 @@ Title=Star Wars Original Trilogy References Cut Down in Episode 7  
-@@ Date=2015-05-06T10:30:00+00:00  
+@@ Date=2015-05-06 10:30  
 @@ Link=http://www.slashfilm.com/j-j-abrams-cut-star-wars-original-trilogy-references-from-the-force-awakens/  
 @@ Description=The superfans might be not be pleased with the lack of Expanded Universe references.  
 @@ Tags=Star Wars, Star Wars: The Force Awakens, movies, pop culture  
@@ -10,9 +10,7 @@ Ethan Anderton, reporting for /Film:
 Fan service isn't a new concept in movie-making. Oftentimes, sequels, prequels, and franchise reboots---all can pay homage to previous works. Nerdy fans like that. 
 
 <figure>
-	<a class="nohover" href="http://www.nerdist.com/wp-content/uploads/2012/12/trek-hands-touching1.jpg" />
-		<img src="http://www.nerdist.com/wp-content/uploads/2012/12/trek-hands-touching1.jpg" alt="Didn't seeing this make you so happy on the inside?" />
-	</a>
+	<img src="http://www.nerdist.com/wp-content/uploads/2012/12/trek-hands-touching1.jpg" alt="Didn't seeing this make you so happy on the inside?">
 	<figcaption>Didn't seeing this make you so happy on the inside?</figcaption>
 </figure>
 

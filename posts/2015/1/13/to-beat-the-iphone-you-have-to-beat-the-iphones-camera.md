@@ -1,5 +1,5 @@
 @@ Title=To Beat the iPhone, You Have to Beat the iPhone’s Camera  
-@@ Date=2015-01-13T12:00:00+00:00  
+@@ Date=2015-01-13 12:00  
 @@ Link=http://www.theverge.com/2015/1/13/7537011/iphone-6-camera-editorial  
 @@ Description=The iPhone camera continues to be one of the *major* (there are plenty) hardware advantages of all other smartphone offerings.  
 @@ Tags=iPhone, hardware, Android, Stephen Hackett  

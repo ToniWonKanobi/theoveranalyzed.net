@@ -1,5 +1,5 @@
 @@ Title=Typeface Mechanics: 002  
-@@ Date=2015-06-11T10:51:00+00:00  
+@@ Date=2015-06-11 10:51
 @@ Link=http://www.frerejones.com/blog/typeface-mechanics-002/  
 @@ Description=Tobias Frere-Jones' latest blog post examines "degrees of weight" in typefaces.  
 @@ Tags=design, fonts, typefaces, Futura, Tobias Frere-Jones, typography  
@@ -7,7 +7,7 @@
 
 <figure>
 	<a class="nohover" href="http://www.frerejones.com/assets/Futura-O-anim.gif">
-		<img src="http://www.frerejones.com/assets/Futura-O-anim.gif" alt="futurao"  />
+		<img src="http://www.frerejones.com/assets/Futura-O-anim.gif" alt="futurao">
 	</a>
 	<figcaption>Frere-Jones: "Upright and sideways: Futura Medium by Paul Renner, Bauer 1927"</figcaption>
 </figure>
@@ -16,7 +16,7 @@ I've been [following][theoveranalyzed] Frere-Jones' blog since it was [linked][d
 
 <figure>
 	<a class="nohover" href="http://www.frerejones.com/assets/Horiz&Vert01.gif">
-		<img src="http://www.frerejones.com/assets/Horiz&Vert01.gif" alt="weight" />
+		<img src="http://www.frerejones.com/assets/Horiz&Vert01.gif" alt="weight">
 	</a>
 	<figcaption>Frere-Jones: "Weights, mathematically equal and optically equal"</figcaption>
 </figure>

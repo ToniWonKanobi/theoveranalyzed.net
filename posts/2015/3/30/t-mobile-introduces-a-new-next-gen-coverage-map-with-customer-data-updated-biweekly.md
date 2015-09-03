@@ -1,5 +1,5 @@
 @@ Title=T-Mobile Introduces a New Next-Gen Coverage Map With Customer Data Updated Biweekly
-@@ Date=2015-03-30T10:27:00+00:00  
+@@ Date=2015-03-30 10:27  
 @@ Link=http://9to5mac.com/2015/03/30/t-mobile-next-gen-coverage-map-updated-biweekly/  
 @@ Description=T-Mobile at it again.  
 @@ Tags=T-Mobile, business, industry  

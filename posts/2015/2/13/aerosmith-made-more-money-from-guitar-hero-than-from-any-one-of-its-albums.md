@@ -1,5 +1,5 @@
 @@ Title=Aerosmith Made More Money From 'Guitar Hero' Than From Any One of Its Albums  
-@@ Date=2015-02-13T14:00:00+00:00  
+@@ Date=2015-02-13 14:00  
 @@ Link=http://www.vox.com/2014/7/11/5890237/aerosmith-made-more-money-from-guitar-hero-than-from-any-one-of-its-albums  
 @@ Description=I remember playing this game in college. It was also one of the only games I've ever known my wife to play!  
 @@ Tags=video games, culture, music, industry, Guitar Hero  

@@ -1,5 +1,5 @@
 @@ Title=What It's Like to Be Way Too Popular for a Day  
-@@ Date=2015-01-06T10:00:00+00:00  
+@@ Date=2015-01-06 10:00  
 @@ Description=Marco Arment recently got more attention than he wanted for writing a blog post criticizing Apple.  
 @@ Tags=Apple, blogging, developers, development, iOS, OS X, Marco Arment, Dr. Drang, Federico Viticci, Daniel Jalkut, Casey Liss  
 

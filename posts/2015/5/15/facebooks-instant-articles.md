@@ -1,5 +1,5 @@
 @@ Title=Facebook's Instant Articles  
-@@ Date=2015-05-15T08:00:00+00:00  
+@@ Date=2015-05-15 08:00  
 @@ Description=Disliking Facebook doesn't make it any less pervasive to the masses. What will Instant Articles mean for publishers (big and small)?  
 @@ Tags=social media, Facebook, Instant Articles, TheOverAnalyzed, Ben Thompson, Marco Arment, John Gruber, MG Siegler, Om Malik  
 
@@ -60,7 +60,7 @@ In a way, it's the publishers' own fault that Instant Articles are even a threat
 
 As Instant Articles takes off due to increased adoption by publishers, those publishers not on board might feel backed into a corner. Compete or be forgotten. Worse yet, Facebook might become the *only* platform onto which publishers can push content that actually gets consumed.
 
-## 'Facebook First'
+## Facebook First
 
 Remember "[Mobile first][wikipedia]," *the* internet buzzword a few years ago? One aspect of Mobile first was an initiative for publishers to restructure their websites to look and function better on mobile devices. This "[Responsive Design][wikipedia 2]" dropped many of the heavy-handed, desktop-focused content arrangements of old, and in their place, simpler designs were featured instead.[^sd] Traditionally, developers and designers would make their website pretty and optimize it for desktop, and then make the necessary device-specific style changes to mobile applications. Mobile first literally meant that publishers and developers should consider their work on mobile devices *first*, and then apply specific 'web-browser' design to desktop versions of their projects (this is where `@media` queries came from).
 
@@ -91,7 +91,7 @@ Today I reactivated my long dormant [Facebook][toni] profile so that I could cre
 Interestingly, Facebook kindly sent their rejection:[^noo]
 
 <figure>
-	<img src="http://d.pr/i/1ctm4+" alt="whatever" />
+	<img src="http://d.pr/i/1ctm4+" alt="Whatever, Facebook.">
 	<figcaption>Whatever Facebook.</figcaption>
 </figure>
 

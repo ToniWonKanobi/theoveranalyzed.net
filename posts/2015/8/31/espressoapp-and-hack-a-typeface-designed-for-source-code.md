@@ -1,13 +1,11 @@
 @@ Title=Espresso.app and Hack, a Typeface Designed for Source Code 
-@@ Date=2015-08-31T08:39:00+00:00  
+@@ Date=2015-08-31 08:39 
 @@ Description=Tired of Monaco or Menlo fonts for your monospace code blocks? Hack is for you.  
 @@ Tags=fonts, typefaces, monospace, design, web design, Hack, Menlo, Monaco  
 @@ Image=http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png  
 
 <figure>
-	<a class="nohover" href="http://macrabbit.com/espresso/images/screenshots-2.0/Main-SourceEditor.jpg">
-		<img src="http://macrabbit.com/espresso/images/screenshots-2.0/Main-SourceEditor.jpg" alt="Espresso Text Editor for OS X" />
-	</a>
+	<img src="http://macrabbit.com/espresso/images/screenshots-2.0/Main-SourceEditor.jpg" alt="Espresso Text Editor for OS X">
 	<figcaption><a href="http://macrabbit.com/espresso/">Espresso</a> has a permanent place on my Dock because it's awesome.</figcaption>
 </figure>
 
@@ -20,18 +18,14 @@ In a lot of ways, Espresso is very much of the pre-2007 Apple era of OS X applic
 Editing in Espresso is nice due to their language highlighting. It makes reviewing code much easier:
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1jmu3+">
-		<img src="http://d.pr/i/1jmu3+" alt="Espresso Colors" />
-	</a>
+	<img src="http://d.pr/i/1jmu3+" alt="Espresso Colors">
 	<figcaption>This would be more laborious without all the pretty colors</figcaption>
 </figure>
 
 And what is especially nice about Espresso is their default custom font, Espresso Mono. That font features well thought-out character choices. For instance, in most monospace fonts, the capital "O" character is easily mistaken for the number "0". Espresso Mono has this taken care of:
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1fh8y+">
-		<img src="http://d.pr/i/1fh8y+" alt="0 vs O in Espresso Mono" />
-	</a>
+	<img src="http://d.pr/i/1fh8y+" alt="0 vs O in Espresso Mono">
 	<figcaption>Espresso Mono: <code>0</code> vs <code>O</code></figcaption>
 </figure>
 
@@ -42,9 +36,7 @@ Why am I writing about an infrequently-updated "web-editor?" Because of its afor
 Yesterday, Nathan Mattise of Ars Technica [linked][arstechnica] to a new [open-sourced][github] monospace font named [Hack][sourcefoundry].
 
 <figure>
-	<a class="nohover" href="http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png">
-		<img src="http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png" alt="Hack" />
-	</a>
+	<img src="http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png" alt="Hack">
 	<figcaption>An alternative to <code>font-family: Monaco</code>: Hack</figcaption>
 </figure>
 
@@ -59,28 +51,22 @@ Hack is characterized by a large x-height, wide aperture, and low contrast desig
 After visiting the GitHub page, I immediately found the CDN[^cdn] link and added that to my website's `<head>` section:
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/sINJ+">
-		<img src="http://d.pr/i/sINJ+" alt="Adding the Hack stylesheet to `header.html`">
-	</a>
-	<figcaption>Changing the <code>font-family</code> preference</figcaption>
+	<img src="http://d.pr/i/sINJ+" alt="Adding the Hack stylesheet to `header.html`">
+	<figcaption>CDN source? Nice.</figcaption>
 </figure>
 
 I also called for Hack via `font-family` for `<pre>` and `<code>`:
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/176dB+">
-		<img src="http://d.pr/i/176dB+" alt="Calling for Hack in my `main.css` stylesheet">
-	</a>
-	<figcaption>CDN source? Nice.</figcaption>
+	<img src="http://d.pr/i/176dB+" alt="Calling for Hack in my `main.css` stylesheet">
+	<figcaption>Changing the <code>font-family</code> preference</figcaption>
 </figure>
 
 Voilà:
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/12y9F+">
-		<img src="http://d.pr/i/12y9F+" alt="Hack installed on TheOverAnalyzed">
-	</a>
-	<figcaption>Boom</figcaption>
+	<img src="http://d.pr/i/12y9F+" alt="Hack installed on TheOverAnalyzed">
+	<figcaption>Boom.</figcaption>
 </figure>
 
 [^cdn]: You don't have to use a CDN---you could also deploy the font from you own [webserver][github 2], if you're into that sort of thing.

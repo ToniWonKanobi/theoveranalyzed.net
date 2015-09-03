@@ -47,7 +47,6 @@ app.use(function (request, response, next) {
 });
 var server = http.createServer(app);
 
-
 // "Statics"
 var postsRoot = './posts/';
 var templateRoot = './templates/';
@@ -59,7 +58,7 @@ var postsPerPage = 10;
 var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-|\+)*(.redirect|.md)?$/;
 var footnoteAnchorRegex = /[#"]fn\d+/g;
 var footnoteIdRegex = /fnref\d+/g;
-var utcOffset = 5;
+var utcOffset = 8;
 var cacheResetTimeInMillis = 1800000;
 
 var renderedPosts = {};

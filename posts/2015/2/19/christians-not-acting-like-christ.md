@@ -1,5 +1,5 @@
 @@ Title=Christians [Not] Acting Like Christ?  
-@@ Date=2015-02-19T12:00:00+00:00  
+@@ Date=2015-02-19 12:00  
 @@ Description=Because "Love thy neighbor" should *also* apply to every other living thing on the planet.  
 @@ Tags=religion, culture, animals, advocacy, animal advocacy, science, medicine, dentistry, Christianity, Christians, politics  
 

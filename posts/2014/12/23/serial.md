@@ -1,5 +1,5 @@
 @@ Title=Serial  
-@@ Date=2014-12-23T12:00:00+00:00  
+@@ Date=2014-12-23 12:00  
 @@ Description=I talk about how Serial is one of the driving forces behind the most recent podcast renaissance  
 @@ Tags=podcasts, pop culture, culture, Serial, apps, iOS, App Store, Anthony    
 

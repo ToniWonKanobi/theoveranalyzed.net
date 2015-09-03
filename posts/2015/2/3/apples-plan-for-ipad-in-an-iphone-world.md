@@ -1,5 +1,5 @@
 @@ Title=Apple's Plan for iPad in an iPhone World  
-@@ Date=2015-02-03T12:00:00+00:00  
+@@ Date=2015-02-03 12:00  
 @@ Description=What's going to happen to the iPad?  
 @@ Tags=iPad, Apple, iPhone, business, culture, industry, Neil Cybart  
 

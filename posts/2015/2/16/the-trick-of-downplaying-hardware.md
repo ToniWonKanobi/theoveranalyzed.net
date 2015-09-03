@@ -1,5 +1,5 @@
 @@ Title=The Trick of Downplaying Hardware  
-@@ Date=2015-02-16T10:00:00+00:00  
+@@ Date=2015-02-16 10:00  
 @@ Link=http://www.aboveavalon.com/notes/2015/2/13/the-trick-of-downplaying-hardware  
 @@ Description=Apple is purposefully downplaying hardware in order to get Wall Street on board with 'Apple As A Software Company.'  
 @@ Tags=Apple, business, industry, Neil Cybart, Apple conference call  

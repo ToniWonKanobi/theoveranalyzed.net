@@ -1,5 +1,5 @@
 @@ Title=Spot the Difference: Apple Watch’s Stunning Straps Look Just Like Marc Newson’s Old Ones  
-@@ Date=2015-03-05T15:50:00+00:00  
+@@ Date=2015-03-05 15:50  
 @@ Link=http://www.cultofmac.com/295250/spot-difference-apple-watchs-stunning-straps-look-just-like-marc-newsons-old-ones  
 @@ Description=Looks like Marc Newson's designs while at Ikepod have come to good use, eh Jony?  
 @@ Tags=Apple, Apple Watch, Marc Newson, design, hardware, gear  

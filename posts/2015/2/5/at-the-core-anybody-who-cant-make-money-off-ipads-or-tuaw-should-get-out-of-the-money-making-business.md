@@ -1,5 +1,5 @@
 @@ Title=At the Core Anybody Who Can't Make Money Off iPads or TUAW Should Get Out of the Money-Making Business
-@@ Date=2015-02-05T09:00:00+00:00  
+@@ Date=2015-02-05 09:00  
 @@ Link=http://www.imore.com/core-anybody-who-cant-make-money-ipads-or-tuaw-should-get-out-money-making-business  
 @@ Description=RIP TUAW.  
 @@ Tags=blogging, Apple, business, culture  

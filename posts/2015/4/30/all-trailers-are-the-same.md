@@ -1,5 +1,5 @@
 @@ Title=All Trailers Are the Same  
-@@ Date=2015-04-30T12:49:00+00:00  
+@@ Date=2015-04-30 12:49  
 @@ Link=https://www.youtube.com/watch?t=94&v=Pc71YvWG0GQ  
 @@ Description=Movie trailers aren't what they used to be [explosion!].  
 @@ Tags=movies, pop culture, TV, funny  

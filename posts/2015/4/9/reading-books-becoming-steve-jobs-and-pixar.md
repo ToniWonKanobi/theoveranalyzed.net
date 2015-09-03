@@ -1,5 +1,5 @@
 @@ Title=Reading Books, Becoming Steve Jobs, and Pixar  
-@@ Date=2015-04-09T10:00:00+00:00  
+@@ Date=2015-04-09 10:00  
 @@ Description=I got through about a third of the Steve Jobs book. This is about that, as well as Steve Jobs in general.  
 @@ Tags=Steve Jobs, Apple, Pixar, books  
 
@@ -32,7 +32,7 @@ When I need to pass the time, my go-to apps are what they have been for years: I
 Historically, when I've gone through my whole [Instapaper][instapaper] queue, I might launch an indie game and truly veg-out. Or if I have an article saved to Instapaper that I want to write about, I might do that instead.
 
 <figure class="iphone">
-	<img src="http://d.pr/i/1hDH9+" alt="games" />
+	<img src="http://d.pr/i/1hDH9+" alt="Games">
 	<figcaption>Games are a wonderful time waster.</figcaption>
 </figure>
 

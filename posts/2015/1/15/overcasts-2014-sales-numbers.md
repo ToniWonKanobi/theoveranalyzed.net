@@ -1,5 +1,5 @@
 @@ Title=Overcast’s 2014 Sales Numbers  
-@@ Date=2015-01-15T09:44:00+00:00  
+@@ Date=2015-01-15 09:44  
 @@ Link=http://www.marco.org/2015/01/15/overcast-sales-numbers  
 @@ Description=Marco Arment shares some his App Store financials.  
 @@ Tags=App Store, business, development, developer, iOS, apps, Marco Arment, Overcast  

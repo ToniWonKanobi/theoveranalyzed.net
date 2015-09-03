@@ -1,5 +1,5 @@
 @@ Title=Apple's Initial Watch Ad in Vogue Is Nearly Perfect  
-@@ Date=2015-02-27T08:20:00+00:00  
+@@ Date=2015-02-27 08:20  
 @@ Link=http://www.aboveavalon.com/notes/2015/2/27/apples-initial-watch-ad-in-vogue-is-nearly-perfect  
 @@ Description=Apple Watch has starting making its rounds in print ad.  
 @@ Tags=Apple, Apple Watch, culture, Neil Cybart  

@@ -1,5 +1,5 @@
 @@ Title=Twitter’s War on Developers Continues: Tweetbot for Mac Falls Victim to Token Limit, Gets Pulled From App Store  
-@@ Date=2015-01-21T17:10:00+00:00  
+@@ Date=2015-01-21 17:10  
 @@ Link=http://9to5mac.com/2015/01/25/tweetbot-mac-twitters-war-on-developers/  
 @@ Description=Twitter really knows how to treat its third party developer ecosystem.  
 @@ Tags=development, developers, Twitter, business, social media, Tweetbot  

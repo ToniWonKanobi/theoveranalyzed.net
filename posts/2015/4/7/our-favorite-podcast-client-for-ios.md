@@ -1,5 +1,5 @@
 @@ Title=Our Favorite Podcast Client for iOS  
-@@ Date=2015-04-07T08:55:00+00:00  
+@@ Date=2015-04-07 08:55  
 @@ Link=http://thesweetsetup.com/apps/our-favorite-podcast-client-for-ios/  
 @@ Description=Overcast has changed the way I listen to podcasts.  
 @@ Tags=Overcast, developers, development, apps, App Store, podcasts, Supertop, Castro, Marco Arment, The Sweet Setup  

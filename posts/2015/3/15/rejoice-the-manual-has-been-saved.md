@@ -1,5 +1,5 @@
 @@ Title=Rejoice, the Manual Has Been Saved!  
-@@ Date=2015-03-15T14:00:00+00:00  
+@@ Date=2015-03-15 14:00  
 @@ Link=http://jalopnik.com/rejoice-the-manual-has-been-saved-1688464485  
 @@ Description=Chris Harris takes the new Cayman GT4.  
 @@ Tags=Chris Harris, cars, Porsche, Cayman, GT4, Cayman GT4, Jalopnik  

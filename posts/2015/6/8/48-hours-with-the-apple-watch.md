@@ -1,5 +1,5 @@
 @@ Title=48 Hours With the Apple Watch  
-@@ Date=2015-06-08T08:00:00+00:00  
+@@ Date=2015-06-08 08:00
 @@ Description=One shady Saturday eBay deal later, and I too have a 42 mm piece of glass on my left wrist.  
 @@ Tags=Apple Watch, Apple, reviews, Anthony  
 @@ Image=http://d.pr/i/18vPS+  
@@ -9,9 +9,7 @@ I did everything I was supposed to do.
 On the night of April 9th, I stayed up late like a big boy and placed my order for the Space Black Apple Watch. Despite the higher price tag, I was convinced this was the watch for me. It had that Darth Vader look, and as I mentioned [previously][theoveranalyzed], black is usually the better choice. I ordered the watch from the [Apple Store app][apple] on my iPhone, which has [traditionally][usatoday] been the most surefire way to ensure that I always had Apple's latest and greatest piece of glass on launch day. 
 
 <figure class="figleft">
-	<a class="nohover" href="http://d.pr/i/1bp1g+">
-		<img src="http://d.pr/i/1bp1g+" alt="sigh" />
-	</a>
+	<img src="http://d.pr/i/1bp1g+" alt="Sigh">
 	<figcaption>Still.</figcaption>
 </figure>
 
@@ -33,9 +31,9 @@ I [spent some time][theoveranalyzed 2] with the Watches in April, but no amount 
 
 <figure class="figright">
 	<a class="nohover" href="https://instagram.com/p/2ZlpBWGMyG/">
-		<img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="spacegray"  />
+		<img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="Space Gray">
 	</a>
-	<figcaption>When Space Gray &#8800; Space Gray</figcaption>
+	<figcaption>[Source: Rene Ritchie's Instagram] When Space Gray &#8800; Space Gray</figcaption>
 </figure>
 
 The strangest bit at play here is Apple's seemingly inconsistent use of the "Space Gray" moniker. Looking at Rene Ritchie's Instagram photo above, it should be apparent that the Space Gray on the Apple Watch is *much* grayer than Apple's other available Space Gray offerings (here, the iPhone 6 Plus, the iPad Air 2, and the new MacBook). Don't get me wrong---I have no complaints about the Watch's darker hue. In fact, I wish all of Apple's Space Gray aluminum looked this shade. 
@@ -63,9 +61,7 @@ My biggest complaint with Watch OS deals specifically with Messages on the Watch
 My current watch face of choice is Modular. I tried the analog Utility mode, but I find the digital readout works better for me. I might switch it up at some point, but right now I am pretty happy with Modular's balance of complications and ease of time-telling (it *is* still a watch, after all).
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1aOLh+">
-		<img src="http://d.pr/i/1aOLh+" alt="faces" />
-	</a>
+	<img src="http://d.pr/i/1aOLh+" alt="Faces">
 	<figcaption>Utility (Left) and Modular (Right)</figcaption>
 </figure>
 
@@ -98,9 +94,7 @@ I didn't even bother including the battery complication on my watch face. I used
 I think Apple way-overshot their battery conservation measures. It feels like the display turns off the instant I look away. I wish it was just a little bit longer before auto-off. I can't blame Apple, though. Imagine all the complaints they would have gotten if the Watch died in the middle of the day like everyone feared after last year's introduction. 
 
 <figure class="figright">
-	<a class="nohover" href="http://d.pr/i/diJa+">
-		<img src="http://d.pr/i/diJa+" alt="left" />
-	</a>
+	<img src="http://d.pr/i/diJa+" alt="Remaining battery">
 	<figcaption>Ignoring the prompts to enable Power Reserve</figcaption>
 </figure>
 

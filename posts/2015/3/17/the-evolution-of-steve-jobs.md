@@ -1,5 +1,5 @@
 @@ Title=The Evolution of Steve Jobs  
-@@ Date=2015-03-17T22:02:00+00:00  
+@@ Date=2015-03-17 22:02  
 @@ Link=http://www.fastcompany.com/3042433/steve-jobs/the-real-legacy-of-steve-jobs  
 @@ Description=In the latest biography about Steve Jobs, Tim Cook reveals a poignant detail of their friendship.  
 @@ Tags=Steve Jobs, Tim Cook, Apple, Becoming Steve Jobs, books, Rick Tetzeli, Brent Schlender  

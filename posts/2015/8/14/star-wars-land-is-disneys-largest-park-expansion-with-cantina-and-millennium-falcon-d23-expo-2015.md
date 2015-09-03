@@ -1,5 +1,5 @@
 @@ Title=Star Wars Land Is Disney’s Largest Park Expansion, With Cantina and Millennium Falcon [D23 Expo 2015]  
-@@ Date=2015-08-15T13:06:00+00:00  
+@@ Date=2015-08-15 13:06  
 @@ Link=http://www.slashfilm.com/star-wars-land/  
 @@ Description=Looks like I have a reason to go to Disneyland now.  
 @@ Tags=Star Wars, Star Wars: The Force Awakens, Disney, pop culture, movies  
@@ -14,7 +14,7 @@ No word yet as to when the expansion should be finished.
 
 <figure class="wide">
 	<a class="nohover" href="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/star-wars-land-concept-art-2.jpg">
-		<img src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/star-wars-land-concept-art-2.jpg" alt="Falcon" />
+		<img src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/star-wars-land-concept-art-2.jpg" alt="Falcon">
 	</a>
 	<figcaption><a href="http://www.imsdb.com/scripts/Star-Wars-A-New-Hope.html">"What a piece of junk."</a></figcaption>
 </figure>

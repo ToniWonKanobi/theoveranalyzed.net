@@ -1,5 +1,5 @@
 @@ Title=Just Hear Me Out Out for a Second: "Apple Phone"   
-@@ Date=2015-06-02T07:25:00+00:00  
+@@ Date=2015-06-02 7:25  
 @@ Link=http://www.theverge.com/2015/6/2/8704891/just-hear-me-out-for-a-second-apple-phone  
 @@ Description=iGoodbye, iThings?  
 @@ Tags=Apple, culture, history, iPhone  
@@ -10,7 +10,9 @@ The Verge's Chris Ziegler:
 >
 >There's no guarantee that Apple will update the phone's logo to match the Apple Watch's, of course, but it seems logical that that'd be the goal.
 
-<i class="fa fa-apple"></i> tv, <i class="fa fa-apple"></i> Pay, <i class="fa fa-apple"></i> WATCH. Is <i class="fa fa-apple"></i> PHONE next? 
+ tv,  Pay,  WATCH. 
+
+Is  PHONE next? 
 
 Apple has indeed been moving away from it's "i" prefix, [established][everystevejobsvideo] in the early days of Steve Jobs' Apple 2.0. However, as many have suggested, dropping the "i" in "iPhone", while in keeping with their new brand direction, would go against every businessman's instinct. Obscuring the brand image of Apple's cash cow could potentially confuse buyers and separate Apple from its previous cachet that is *iPhone.*
 

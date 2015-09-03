@@ -1,5 +1,5 @@
 @@ Title=Why Is My Dog Such a Picky Pooper?  
-@@ Date=2015-04-01T12:00:00+00:00  
+@@ Date=2015-04-01 12:00  
 @@ Link=http://www.wired.com/2015/03/dog-picky-pooper/  
 @@ Description=Why *is* my dog so particular about where he does his business?  
 @@ Tags=dogs, animals, funny  

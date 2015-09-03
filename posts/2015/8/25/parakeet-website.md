@@ -1,12 +1,12 @@
 @@ Title=Parakeet Website  
-@@ Date=2015-08-25T07:11:00+00:00  
+@@ Date=2015-08-25 07:11  
 @@ Link=https://dribbble.com/shots/2201459-Parakeet-Website  
 @@ Description=Background-changing navigation elements without JavaScript? Yes, Patrick Gibson is that nifty.  
 @@ Tags=JavaScript, HTML, CSS, web, web design, design, Parakeet, Patrick B. Gibson  
 @@ Image=http://d.pr/i/E3zx+  
 
 <figure>
-		<img src="http://d.pr/i/E3zx+" alt="Parakeet's neat-o nav" />
+	<img src="http://d.pr/i/E3zx+" alt="Parakeet's neat-o nav">
 	<figcaption>Some pretty sweet CSS trickery from Patrick B. Gibson</figcaption>
 </figure>
 
@@ -20,9 +20,7 @@ How did he accomplish this without jQuery? Essentially, Gibson created a custom 
 And in my quest to understand how Gibson worked his magic, I stumbled upon this gem buried in the [`parakeet.css` stylesheet][s3]:
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1eRAf+">
-		<img src="http://d.pr/i/1eRAf+" alt="Parakeet's main stylesheet has funny injected" />
-	</a>
+	<img src="http://d.pr/i/1eRAf+" alt="Parakeet's main stylesheet has funny injected">
 	<figcaption>Not only is Parakeet good at design&mdash;they're not afraid to insert some funny <a href="https://en.wikipedia.org/wiki/Easter_egg_(interaction_design)#Software">Easter eggs</a> in their CSS</figcaption>
 </figure>
 

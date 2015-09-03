@@ -1,5 +1,5 @@
 @@ Title=Why I Couldn't Handle the iPhone 6 Plus  
-@@ Date=2014-10-27T12:00:00+00:00  
+@@ Date=2014-10-27 12:00  
 @@ Description=So I tried the iPhone 6 Plus, and it was too much for me.  
 @@ Tags=reviews, iPhone, iPhone 6 Plus, Anthony  
 

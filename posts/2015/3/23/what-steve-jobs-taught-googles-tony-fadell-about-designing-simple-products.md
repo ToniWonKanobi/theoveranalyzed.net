@@ -1,5 +1,5 @@
 @@ Title=What Steve Jobs Taught Google’s Tony Fadell About Designing Simple Products  
-@@ Date=2015-03-23T08:30:00+00:00  
+@@ Date=2015-03-23 08:30  
 @@ Link=https://medium.com/the-ferenstein-wire/what-steve-jobs-taught-google-s-tony-fadell-about-designing-simple-products-10e0562c1344  
 @@ Description=Tony Fadell speaks out on Apple and design.    
 @@ Tags=Tony Fadell, Steve Jobs, Apple, design, TED Talk    

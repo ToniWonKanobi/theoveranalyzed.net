@@ -1,5 +1,5 @@
 @@ Title=Why Are Watches Always Photographed at Ten Past Ten?  
-@@ Date=2015-02-25T08:04:00+00:00  
+@@ Date=2015-02-25 08:04  
 @@ Description=Finally, an answer to this question.    
 @@ Tags=watches, Apple Watch, history  
 

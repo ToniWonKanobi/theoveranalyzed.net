@@ -1,5 +1,5 @@
 @@ Title=Traveling   
-@@ Date=2015-03-28T11:30:00+00:00  
+@@ Date=2015-03-28 11:30  
 @@ Description=Traveling doesn't have to be terrible.  
 @@ Tags=travel, Anthony  
 
@@ -29,7 +29,7 @@ For whatever reason, this notion hit me hard in the heart strings upon landing a
 After my fellow air travelers and I passed onto and then off of the escalators in a sort-of '2300 hours zombie-state,' I passed through the terminal's exit doors into the pickup/taxi area. And as I did, I saw what appeared to be a father and son embrace each other.
 
 <figure>
-	<img src="http://d.pr/i/14G2w+" alt="such" width="75%" />
+	<img src="http://d.pr/i/14G2w+" alt="such" width="75%">
 	<figcaption>Such happiness</figcaption>
 </figure>
 
