@@ -44,8 +44,6 @@ Ideal Sans comes with several alternate versions of characters, but as you can s
 	<figcaption>Pages 4.4.3 with OpenType support and Pages 5.5.3 without much OpenType support at all</figcaption>
 </figure>
 
-***
-
 So Butterick was right. Still, even without full support of OpenType features, the newest version of Pages.app is clearly more at home on 10.11+ systems than the older version. The iconography and pretty much everything else about the newer version is more inline with "iWork's" iOS counterparts. And because of this, I can't help but recommend that most users migrate to the newer versions of Pages. 
 
 Indeed, even the Pages.app application icon has now incorporated the Yosemite and El Capitan design ethos:
