@@ -38,8 +38,6 @@ Sounds like Season 2 will answer a lot of the questions posed at the end of Seas
 
 New episodes of Star Wars Rebels begin Wednesday, October 14 (9:30 p.m., ET/PT) on Disney XD.
 
-<center><i class="fa fa-empire" style="margin-top:2em></i></center>
-
 [^rr-rss]: RSS feed [here][rrrss]
 
 [sf]: http://www.slashfilm.com/star-wars-bits-26/3/
