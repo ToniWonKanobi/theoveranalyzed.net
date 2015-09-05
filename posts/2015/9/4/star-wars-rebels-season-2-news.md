@@ -2,7 +2,7 @@
 @@ Date=2015-09-04 17:02  
 @@ Description=Not sure how I missed this, but here's the second teaser trailer for Season 2 of Star Wars Rebels.  
 @@ Tags=Star Wars, Star Wars Rebels, pop culture, TV  
-@@ Image=http://img4.wikia.nocookie.net/__cb20150621020948/starwars/images/f/ff/Vader_speaks_to_Tua.png  
+@@ Image=http://d.pr/i/u6QI+  
 
 I'm not sure how I missed [this][sf] from a few days ago, but here's the teaser:
 
@@ -32,7 +32,7 @@ And here's more Season 2 news from [Rebels Report][rr]:[^rr-rss]
 Sounds like Season 2 will answer a lot of the questions posed at the end of Season 1.
 
 <figure>
-	<img src="http://img4.wikia.nocookie.net/__cb20150621020948/starwars/images/f/ff/Vader_speaks_to_Tua.png" alt="text">
+	<img src="http://d.pr/i/u6QI+" alt="text">
 	<figcaption>Surely Darth Vader will play a more prominent role in Season 2</figcaption>
 </figure>
 
