@@ -51,7 +51,7 @@ I can hear it now: "First the manual died, and now the GT3 has a turbocharged mo
 
 A hyperbolic refrain, yes, but one not wholly without merit. In lieu of buying the new 991 GT3, rich yuppies have been flocking to the classifieds for minty [996/997 GT cars][total914]. Why? Because not only did the 991 generation kill the manual for the GT3, it also killed the steering feel over the previous generation. [Chris Harris agrees][youtube 4], for the most part.[^991gt3launch] 
 
-Is this yet another example of modern "improvements" to the beloved 911? Will this inevitably tarnish the legendary pedigree of naturally aspirated 911's? Hard to say. As a point of comparison, Ferrari's latest "entry level" supercar, the 488, *also* sports a turbocharged motor. And Chris Harris [loves that one][youtube 5].) Only time will tell.
+Is this yet another example of modern "improvements" to the beloved 911? Will this inevitably tarnish the legendary pedigree of naturally aspirated 911's? Hard to say. As a point of comparison, Ferrari's latest "entry level" supercar, the 488, *also* sports a turbocharged motor. And Chris Harris [loves that one][youtube 5]. Only time will tell.
 
 [^991gt3launch]: I still can't believe how fast [this launch][youtube 6] is.
 
