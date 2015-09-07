@@ -1,10 +1,11 @@
 @@ Title=Star Wars Rebels Season 2 News  
 @@ Date=2015-09-04 17:02  
+@@ Link=http://www.slashfilm.com/star-wars-bits-26/3/  
 @@ Description=Not sure how I missed this, but here's the second teaser trailer for Season 2 of Star Wars Rebels.  
 @@ Tags=Star Wars, Star Wars Rebels, pop culture, TV  
 @@ Image=http://d.pr/i/u6QI+  
 
-I'm not sure how I missed [this][sf] from a few days ago, but here's the teaser:
+I'm not sure how I missed this from a few days ago, but here's the teaser:
 
 <figure>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/dAGvFBwG834" frameborder="0" allowfullscreen></iframe>
@@ -40,6 +41,5 @@ New episodes of Star Wars Rebels begin Wednesday, October 14 (9:30 p.m., ET/PT) 
 
 [^rr-rss]: RSS feed [here][rrrss]
 
-[sf]: http://www.slashfilm.com/star-wars-bits-26/3/
 [rr]: http://rebelsreport.com/2015/09/01/star-wars-rebels-season-2-a-look-ahead-new-images-and-info-from-dave-filoni/
 [rrrss]: http://rebelsreport.com/feed

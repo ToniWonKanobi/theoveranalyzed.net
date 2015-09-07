@@ -64,7 +64,7 @@ Italics
 <div class="update">
 
 ## Update
-<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto"><time datetime="2015-01-01">January 1, 2015</time></p>
+<p class="updateTime"><time datetime="2015-01-01">January 1, 2015</time></p>
 
 Text
 

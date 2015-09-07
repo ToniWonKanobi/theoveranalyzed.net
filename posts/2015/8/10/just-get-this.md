@@ -28,8 +28,8 @@ That's why this past week's episode of the [Accidental Tech Podcast][atp] was so
 
 <audio controls>
 		<source src="http://traffic.libsyn.com/atpfm/atp129.mp3#t=1125" type="audio/mpeg"/>
-</audio>
-
+	</audio>
+	
 John Siracusa's hypothetical scenario of someone wanting to buy Marco coffee was fitting. Marco is a [coffee snob][duckduckgo] in the truest sense of the term. Consider this: upon hearing about his love for coffee, his 80-year-old aunt decides to go into Target to get him "[coffee][target]." In the ballpark (sort-of), but not *quite* in the vicinity, right?
 
 <div class="takehomeLeft"><p>Let me just tell you exactly what to get. Just get this.</p></div>
