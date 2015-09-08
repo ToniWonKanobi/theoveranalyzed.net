@@ -1,4 +1,4 @@
-@@ Title=This Week on Cotton Bureau
+@@ Title=This Week on Cotton Bureau: asdf  
 @@ Date=  
 @@ Link=  
 @@ Description=  
@@ -7,7 +7,7 @@
 
 <figure>
 	<a class="nohover" href="linktoshirt">
-		<img src="linktoshirtimage" alt="nameofshirt" />
+		<img src="linktoshirtimage" alt="nameofshirt">
 	</a>
 	<figcaption><a href="twitterlink">ShirtsCreatorName</a>: "CBCaption"</figcaption>
 </figure>

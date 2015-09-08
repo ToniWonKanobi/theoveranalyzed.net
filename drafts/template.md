@@ -30,16 +30,26 @@ Italics
 
 <!-- Two inline images -->
 <figure class="inlinetwo">
-	<img src="imagelink" alt="text">
-	<img src="imagelink" alt="text">
+	<a class="nohover" href="imagelink">
+		<img src="imagelink" alt="text">
+	</a>
+	<a class="nohover" href="imagelink">
+		<img src="imagelink" alt="text">
+	</a>
 	<figcaption>caption</figcaption>
 </figure>
 
 <!-- Three inline images -->
 <figure class="inlinethree">
-	<img src="imagelink" alt="text">
-	<img src="imagelink" alt="text">
-	<img src="imagelink" alt="text">
+	<a class="nohover" href="imagelink">
+		<img src="imagelink" alt="text">
+	</a>
+	<a class="nohover" href="imagelink">
+		<img src="imagelink" alt="text">
+	</a>
+	<a class="nohover" href="imagelink">
+		<img src="imagelink" alt="text">
+	</a>
 	<figcaption>caption</figcaption>
 </figure>
 
