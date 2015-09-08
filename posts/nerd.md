@@ -1,6 +1,6 @@
 @@ Title=Nerdy Stuff  
 
-<h2>What The Site's Made Of</h2>
+## What The Site's Made Of
 
 The site is built on a [forked version][github] of [Casey Liss][twitter]'s static blogging engine [Camel][github 2], itself based on the [Node.js][wikipedia] runtime environment.
 
@@ -10,7 +10,7 @@ I have also employed a couple of indispensable open-source JavaScript projects. 
  
 To the best of my knowledge, TheOverAnalyzed should perform well in most modern web browsers. For users of Internet Explorer version 6 and prior: my site might look weird in certain areas. Might I suggest an [alternative][google]?[^chrome]
 
-<h2 id="slugs">Useful URL Slugs</h2>
+## Useful URL Slugs
 
 **[.md][theoveranalyzed 4]**: You can append `.md` to the end of any post URL to see the actual source (Markdown) for that page
 
@@ -20,7 +20,7 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 
 **[/live][theoveranalyzed 5]**: For occasional coverage of live events such as [WWDC][apple]
 
-**[/dailyupdate][theoveranalyzed 6]**: Follow this URL to subscribe the daily email newsletter
+**[/newsletter][theoveranalyzed 6]**: Subscribe to the daily email newsletter
 
 **[/brokenlinks][theoveranalyzed 7]**: Perhaps you've looked high and low in a search engine and still can't find a link you're looking for? If so, the post might be here
 
@@ -28,7 +28,9 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 [^mdinpm]: npm: <https://www.npmjs.com/package/markdown-it>
 [^mdianpm]: npm: <https://www.npmjs.com/package/markdown-it-anchor>
 [^mditocnpm]: npm: <https://www.npmjs.com/package/markdown-it-table-of-contents>
-[^time]: **[/2015/6][theoveranalyzed 8]**: For a list of all posts during *June* of 2015
+[^time]: More:
+
+	**[/2015/6][theoveranalyzed 8]**: For a list of all posts during *June* of 2015
 
 	**[/2015/6/1][theoveranalyzed 9]**: For a list of all posts published *June 1, 2015*
 
@@ -51,7 +53,7 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 [theoveranalyzed 3]: /2015
 [theoveranalyzed 4]: /nerd.md
 [theoveranalyzed 5]: /live
-[theoveranalyzed 6]: /dailyupdate
+[theoveranalyzed 6]: /newsletter
 [theoveranalyzed 7]: /brokenlinks
 [theoveranalyzed 8]: /2015/6
 [theoveranalyzed 9]: /2015/6/1

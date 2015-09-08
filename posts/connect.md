@@ -1,38 +1,38 @@
 @@ Title=Connecting with TheOverAnalyzed  
 
-<h2 id="twitter">Twitter</h2>
+## Twitter
 
 The author [@toniwonkanobi][twitter]  
 The site [@TheOverAnalyzed][twitter 2]
 
-<h2 id="instagram">Instagram</h2>
+## Instagram
 
 The author [@toniwonkanobi][instagram]  
 The site [@TheOverAnalyzed][instagram 2]
 
-<h2 id="facebook">Facebook</h2>
+## Facebook
 
 The author [@toniwonkanobi](www.facebook.com/toniwonkanobi)  
 The site at [Theoveranalyzed][fb]
 
-<h2 id="email">Email</h2>
+## Email
 
 If you have questions, concerns, or any other feedback, you can send me an email at <anthony@theoveranalyzed.net>
   
-<h2 id="rss">RSS</h2>
+## RSS
 
 You can subscribe to the full-text RSS feed: <http://www.theoveranalyzed.net/rss>
 
 There is also an alternate RSS feed, for which linked posts point back to TheOverAnalyzed instead of their targets.  
 You can find that feed here: <http://www.theoveranalyzed.net/rss-alternate>
 
-<h1 id="support">Supporting TheOverAnalyzed</h1>
+# Supporting TheOverAnalyzed
 
-<h2 id="patreon">Patreon</h2>
+## Patreon
 
 You can crowdfund via [Patreon][patreon]
 
-<h2 id="cash">Cash</h2> 
+## Cash 
 
 You can also send cash to [$theoveranalyzed][cash]
 
