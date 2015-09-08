@@ -9,7 +9,7 @@
    <input type="hidden" name="kh" value="1"/>
    <input type="hidden" name="kp" value="-1"/>
    <input type="hidden" name="k1" value="-1"/>
-   <input type="text" name="q" maxlength="300" placeholder="Search TheOverAnalyzed">
+   <input type="text" name="q" maxlength="300" placeholder="Search TheOverAnalyzed via DuckDuckGo">
    <input type="submit" value="DuckDuckGo Search" style="visibility: hidden">
 </form>
 
@@ -17,12 +17,8 @@
 
 ### Tips
 
-Append `!g` to your search to use Google instead.
+You can append `!g` to your query to search with Google instead of DuckDuckGo.
 
-Consider this query:
+For example, consider the query `!g apple`.
 
-```
-!g apple
-```
-
-The result would be a *Google* search query for `apple site:theoveranalyzed.net`
+The resultant search would be a *Google* search for `apple site:theoveranalyzed.net`
