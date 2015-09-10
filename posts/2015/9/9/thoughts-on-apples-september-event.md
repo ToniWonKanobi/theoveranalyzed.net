@@ -23,63 +23,119 @@ Let's do them in order, more or less.
 
 # Apple Watch
 
-* **New bands.** Nifty. I've been waiting for that navy-ish blue sport band teased a few months ago at a [Jony Ive fashion event][9to5mac 2]. Now they're available for all of us laypeople:
+* ### New Bands 
+	Nifty. I've been waiting for that navy-ish blue sport band teased a few months ago at a [Jony Ive fashion event][9to5mac 2]. Now they're available for all of us laypeople:
 
 	![][d]
 	
-* **New finishes.** [Meh][9to5mac 3].
-* **watchOS 2.** [Yes][techradar]. This will be a great update for Apple Watch users. It will probably still be slow, but at least we'll have third-party complications.
+* ### New Finishes
+
+	[Meh][9to5mac 3].
+	
+* ### watchOS 2
+
+	[Yes][techradar]. This will be a great update for Apple Watch users. It will probably still be slow, but at least we'll have third-party complications.
+	
+<hr class="long">
 
 # iPad Pro
 
 ![][d 2]
 
-* **It's big.** Like, *really* [big][theverge]. As a pure iPad, I don't really care about this[^prodef]
-* Purportedly, **4 GB RAM.** [If true][4gb], this is just as "big" of a detail as the iPad Pro itself is big. More RAM = more multitasking power = less random Safari page reloads
+* ### It's Big
+
+	Like, *really* [big][theverge]. As a pure iPad, I don't really care about this[^prodef]
 	
-* **Apple Pencil.** *This* is what makes iPad Pro compelling.
+* ### 4 GB RAM (Purportedly) 
+
+	[If true][4gb], this is just as "big" of a detail as the iPad Pro itself is big. More RAM = more multitasking power = less random Safari page reloads
+	
+* ### Apple Pencil 
+
+	*This* is what makes iPad Pro compelling.
 
 	![][d 3]
 
 	Apple claims that this pointing device will have incredibly low latency, which should make drawing on the iPad Pro a completely different experience than the current state of drawing on iPad. The guys at [FiftyThree][fiftythree] are <del>probably just now waking up</del> [have woken up][ft] from their [sherlocked][urbandictionary]-induced coma. (I hope they survive.) [John Siracusa][hypercritical] has yet to give us his opinion on the stylus, but he doesn't have high hopes. 
 
-* **Smart Keyboard.** This was necessary. If people are going to use their iPad Pro's as quasi-MacBook's, they need a keyboard. Dieter Bohn said that it [feels like][youtube] typing on the new [Retina MacBook][sixcolors 2]. Quite impressive (or unimpressive if you hate the new MacBook's keyboard. I love it, so it's impressive to me.) I've used the Surface's soft keyboard, and it sucks. 
+* ### Smart Keyboard
+
+	This was necessary. If people are going to use their iPad Pro's as quasi-MacBook's, they need a keyboard. Dieter Bohn said that it [feels like][youtube] typing on the new [Retina MacBook][sixcolors 2]. Quite impressive (or unimpressive if you hate the new MacBook's keyboard. I love it, so it's impressive to me.) I've used the Surface's soft keyboard, and it sucks. 
 
 	![][d 4]
 	
-* **No 3D Touch.** Apple Pencil will pick up the slack for not having a "Force Touch"-able display. 
+* ### No 3D Touch
+
+	Apple Pencil will pick up the slack for not having a "Force Touch"-able display.
+	
+<hr class="long"> 
 
 # Apple TV
 
 ![][d 5]
 
-* **Siri Remote.** I think it looks incredibly goofy, but at least it's Bluetooth now. The new remote will make playing video games possible, and it has CEC buttons for turning on the actual TV and changing the TV volume. That's neat.
+* ### Siri Remote
+
+	I think it looks incredibly goofy, but at least it's Bluetooth now. The new remote will make playing video games possible, and it has CEC buttons for turning on the actual TV and changing the TV volume. That's neat.
 	* Siri Remote also has "universal search," which allows you to ask a silly question like "Show me funny movies," causing Siri to search across all installed media [app] sources, such as Netflix, Hulu, HBO Now, and the iTunes Store, in order to find you a suitable funny movie.
-* **SDK/App Store.** Finally.
-* **Games.** The Crossy Road demo single-handedly inspired me to convince Allison to play "video games" with me (I don't play video games, but this makes me want to.)
+
+* ### SDK & App Store 
+
+	Finally.
+	
+* ### Games
+
+	The Crossy Road demo single-handedly inspired me to convince Allison to play "video games" with me (I don't play video games, but this makes me want to.)
+	
+<hr class="long">
 
 # iPhone 6s
 
 ![][d 6]
 
-* **3D Touch.** It's like Force Touch, but for iPhone.
-* **A9.** 70% faster, blah.
-* **12-megapixel** iSight and **5-megapixel** FaceTime cameras. The "untouched" photos from the iSight camera shown on stage still seem like phone pictures. But the FaceTime upgrade is welcomed. I have been so dissatisfied with the quality of the FaceTime camera that I simply turn my phone around and do "selfies" (I never take selfies by myself) with the iSight camera
-	* **Live Photos.** iPhone will take [short snippets of "video"][live] (Apple says it's not video) every time a photo is taken, to help provide context to said photos when reviewing later on.
-* **Physicality.** The new iPhones are [both heavier and slightly larger][heav] than last year's models, presumably to minimize any future [bendgate][bg] scenarios.
-* **Battery life.** It's the same this year as last year. Even though the [battery actually shrank][bat]---something we would never expect Apple to admit on stage at an event.
-* <span id="iphoneupgradeprogram">**iPhone Upgrade Program.**</span> Apple didn't spend much time on this, but this was *huge*. This means that if you have been purchasing iPhones off-contract, you can continue to do so, but instead of paying a ~$800 lump sum (the price of an iPhone 6s in 64GB), you spread that price out over 24-months. ([The Verge][ipu] had a piece on the program, but I think my synopsis is better.)
+* ### 3D Touch
+
+	It's like Force Touch, but for iPhone.
+	
+* ### A9 
+
+	70% faster, blah.
+	
+* ### 12-megapixel iSight and 5-megapixel FaceTime Cameras
+
+	The "untouched" photos from the iSight camera shown on stage still seem like phone pictures. But the FaceTime upgrade is welcomed. I have been so dissatisfied with the quality of the FaceTime camera that I simply turn my phone around and do "selfies" (I never take selfies by myself) with the iSight camera
+	
+	* #### Live Photos
+	
+		iPhone will take [short snippets of "video"][live] (Apple says it's not video) every time a photo is taken, to help provide context to said photos when reviewing later on.
+		
+* ### Physicality
+
+	The new iPhones are [both heavier and slightly larger][heav] than last year's models, presumably to minimize any future [bendgate][bg] scenarios.
+	
+* ### Battery life
+
+	It's the same this year as last year. Even though the [battery actually shrank][bat]---something we would never expect Apple to admit on stage at an event.
+	
+* ### iPhone Upgrade Program
+
+	Apple didn't spend much time on this, but this was *huge*. This means that if you have been purchasing iPhones off-contract, you can continue to do so, but instead of paying a ~$800 lump sum (the price of an iPhone 6s in 64GB), you spread that price out over 24-months. ([The Verge][ipu] had a piece on the program, but I think my synopsis is better.)
 	* Moreover, after 12 months, you can "upgrade" to the new phone by simply trading in the old one
 	* Here's how the math works out:
 		1. The price of an iPhone 6s in 64GB is $750, or $63/month if you plan on keeping it for only a year
 		2. The price per month on the iPhone Upgrade Program is $36.58/month
 		3. This means that when compared directly to the "old" way of buying off-contract devices, the iPhone Upgrade Program offers savings of **$311/year**
 		4. Note that there are a lot of other variables at play, such as whether or not you would want to change up your phone choice midyear. Also, the actual contract/plan/committment is for 24-months. Spread over 24 months, $36.58/month ends up being $878. That's *more* than just buying a phone outright. But as long as you keep buying the new iPhone, you can look at this all from the prospective of a 12-month ordeal. And as long as you look at it that way, the iPhone Upgrade Program is a sweet deal. Otherwise, you're probably better off buying a phone off contract the old school way.
-* **New cases.** Just as I had been waiting for Apple to come out with the navy-like color of sport band, I was always hoping that they would add more colors to the silicone iPhone cases. I prefer vegan options where available, and was disappointed that the "Midnight Blue" color was only available in leather. After today, I can have that.
+
+* ### New Cases
+
+	Just as I had been waiting for Apple to come out with the navy-like color of sport band, I was always hoping that they would add more colors to the silicone iPhone cases. I prefer vegan options where available, and was disappointed that the "Midnight Blue" color was only available in leather. After today, I can have that.
 
 	![][d 7]
 
-* **iPhone 6s Plus noticeably absent from demos.** I wasn't sure what to make of this. If memory serves me correctly, last year's iPhone 6 Plus debut felt like it was the iPhone 6 Plus show---it seemed like the iPhone 6 was more of a sideline item. And remember all the talk of the optical image stabilization for the 6 Plus only? I do. We didn't hear anything about that today.[^still] Was the iPhone 6 Plus only important for the Asian markets? Do US customers not care? Apple never released the official breakdown of 6/6 Plus sales, but I remember Gruber and a few others speculating that it was something like 2/3 iPhones 6's were the "6" model. I could be misremembering that.
+* ### iPhone 6s Plus Noticeably Absent From Demos
+
+	I wasn't sure what to make of this. If memory serves me correctly, last year's iPhone 6 Plus debut felt like it was the iPhone 6 Plus show---it seemed like the iPhone 6 was more of a sideline item. And remember all the talk of the optical image stabilization for the 6 Plus only? I do. We didn't hear anything about that today.[^still] Was the iPhone 6 Plus only important for the Asian markets? Do US customers not care? Apple never released the official breakdown of 6/6 Plus sales, but I remember Gruber and a few others speculating that it was something like 2/3 iPhones 6's were the "6" model. I could be misremembering that.
 	
 ***
 
