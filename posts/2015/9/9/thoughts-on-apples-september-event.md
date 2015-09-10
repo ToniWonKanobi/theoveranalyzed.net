@@ -67,6 +67,7 @@ Let's do them in order, more or less.
 * **12-megapixel** iSight and **5-megapixel** FaceTime cameras. The "untouched" photos from the iSight camera shown on stage still seem like phone pictures. But the FaceTime upgrade is welcomed. I have been so dissatisfied with the quality of the FaceTime camera that I simply turn my phone around and do "selfies" (I never take selfies by myself) with the iSight camera
 	* **Live Photos.** iPhone will take [short snippets of "video"][live] (Apple says it's not video) every time a photo is taken, to help provide context to said photos when reviewing later on.
 * **Physicality.** The new iPhones are [both heavier and slightly larger][heav] than last year's models, presumably to minimize any future [bendgate][bg] scenarios.
+* **Battery life.** It's the same this year as last year. Even though the [battery actually shrank][bat]---something we would never expect Apple to admit on stage at an event.
 * **iPhone Upgrade Program.** Apple didn't spend much time on this, but this was *huge*. This means that if you have been purchasing iPhones off-contract, you can continue to do so, but instead of paying a ~$800 lump sum (the price of an iPhone 6s in 64GB), you spread that price out over 24-months. ([The Verge][ipu] had a piece on the program, but I think my synopsis is better.)
 	* Moreover, after 12 months, you can "upgrade" to the new phone by simply trading in the old one
 	* Here's how the math works out:
@@ -106,6 +107,7 @@ Since the initial post, I also added additional content links, now that the big 
 [9to5mac]: http://9to5mac.com/2015/09/09/apple-ipad-pro-iphone-6s-apple-tv-watch-bands/
 [9to5mac 2]: http://9to5mac.com/2015/04/17/milan-event-new-bands/
 [9to5mac 3]: http://9to5mac.com/2015/09/09/apple-watch-sport-collection-adds-gold-anodized-models-ahead-of-holiday-season/
+[bat]: http://9to5mac.com/2015/09/10/phone-6s-battery-life-smaller-not-shorter/
 [bg]: http://www.theverge.com/2014/9/25/6844943/apple-says-iphone-bending-extremely-rare
 [d]: http://d.pr/i/1dwWv+
 [d 2]: http://d.pr/i/9H8Q+
