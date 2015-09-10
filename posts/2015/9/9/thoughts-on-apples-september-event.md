@@ -93,7 +93,9 @@ Here's [John Gruber][daringfireball]'s and [Jason Snell][sixcolors 3]'s take on 
 [^prodef]: In the iPad Pro's defense, I don't care about any iPads, really. So there's that.
 [^still]: The iPhones 6 Plus still have the optical image stabilization:
 
-	![][d 8]
+	<a class="nohover" href="http://d.pr/i/xeoY+">
+		<img src="http://d.pr/i/xeoY+" alt="OIS iPhone">
+	</a>
 
 [9to5mac]: http://9to5mac.com/2015/09/09/apple-ipad-pro-iphone-6s-apple-tv-watch-bands/
 [9to5mac 2]: http://9to5mac.com/2015/04/17/milan-event-new-bands/
@@ -105,7 +107,6 @@ Here's [John Gruber][daringfireball]'s and [Jason Snell][sixcolors 3]'s take on 
 [d 5]: http://d.pr/i/15MWZ+
 [d 6]: http://d.pr/i/1g5pm+
 [d 7]: http://d.pr/i/1lDaJ+
-[d 8]: http://d.pr/i/1czFX+
 [daringfireball]: http://daringfireball.net/2015/09/thoughts_and_observations_on_todays_hey_siri_event
 [fiftythree]: http://www.fiftythree.com/pencil
 [hypercritical]: http://hypercritical.co/2013/02/08/dont-stop-thinking-about-tomorrow
