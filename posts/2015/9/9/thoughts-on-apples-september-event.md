@@ -81,11 +81,11 @@ Let's do them in order, more or less.
 ***
 
 That about sums up my impressions of this latest September event. I don't know about you, but Apple will be getting a nice little chunk of monies from me this month (and it all starts this Friday night).
-
-	![][d 8]
 	
 [^prodef]: In the iPad Pro's defense, I don't care about any iPads, really. So there's that.
 [^still]: The iPhones 6 Plus still have the optical image stabilization:
+
+	![][d 8]
 
 [9to5mac]: http://9to5mac.com/2015/09/09/apple-ipad-pro-iphone-6s-apple-tv-watch-bands/
 [9to5mac 2]: http://9to5mac.com/2015/04/17/milan-event-new-bands/
