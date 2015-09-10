@@ -81,6 +81,14 @@ Let's do them in order, more or less.
 ***
 
 That about sums up my impressions of this latest September event. I don't know about you, but Apple will be getting a nice little chunk of monies from me this month (and it all starts this Friday night).
+
+<div class="update">
+
+## Update
+
+Here's [John Gruber][daringfireball]'s and [Jason Snell][sixcolors 3]'s takes on the event today.
+
+</div>
 	
 [^prodef]: In the iPad Pro's defense, I don't care about any iPads, really. So there's that.
 [^still]: The iPhones 6 Plus still have the optical image stabilization:
@@ -98,11 +106,13 @@ That about sums up my impressions of this latest September event. I don't know a
 [d 6]: http://d.pr/i/1g5pm+
 [d 7]: http://d.pr/i/1lDaJ+
 [d 8]: http://d.pr/i/1czFX+
+[daringfireball]: http://daringfireball.net/2015/09/thoughts_and_observations_on_todays_hey_siri_event
 [fiftythree]: http://www.fiftythree.com/pencil
 [hypercritical]: http://hypercritical.co/2013/02/08/dont-stop-thinking-about-tomorrow
 [macstories]: http://macstories.net
 [sixcolors]: http://sixcolors.com
 [sixcolors 2]: http://sixcolors.com/post/2015/04/the-new-macbook-a-reviewers-notebook/
+[sixcolors 3]: http://sixcolors.com/post/2015/09/notebook-apples-newest-product-announcements/
 [techradar]: http://www.techradar.com/us/news/wearables/apple-watch-os-2-release-date-news-and-features-1296413
 [theverge]: http://www.theverge.com/2015/9/9/9290361/hands-on-with-apples-new-ipad-pro
 [urbandictionary]: http://www.urbandictionary.com/define.php?term=sherlocked&defid=5195210
