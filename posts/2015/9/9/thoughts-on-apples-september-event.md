@@ -86,7 +86,7 @@ That about sums up my impressions of this latest September event. I don't know a
 
 ## Update
 
-Here's [John Gruber][daringfireball]'s and [Jason Snell][sixcolors 3]'s takes on the event today.
+Here's [John Gruber][daringfireball]'s and [Jason Snell][sixcolors 3]'s take on the event today.
 
 </div>
 	
