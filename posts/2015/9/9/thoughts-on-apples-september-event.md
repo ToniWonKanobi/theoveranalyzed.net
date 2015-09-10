@@ -6,7 +6,7 @@
 
 <div class="topstory">
 
-This is not a point-by-point, "Here's *everything* Apple introduced today" recap. For something like that, check out [9to5Mac][9to5mac]. No doubt more thoughtful recaps are on the way from [Six Colors][sixcolors] or [Macstories][macstories], as well.
+This is not a point-by-point, "Here's *everything* Apple introduced today" recap. For something like that, check out [9to5Mac][9to5mac]. No doubt more thoughtful recaps are on the way from [Six Colors][sixcolors] or [MacStories][macstories], as well.
 
 </div>
 
