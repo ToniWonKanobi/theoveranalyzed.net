@@ -68,7 +68,7 @@ Let's do them in order, more or less.
 	* **Live Photos.** iPhone will take [short snippets of "video"][live] (Apple says it's not video) every time a photo is taken, to help provide context to said photos when reviewing later on.
 * **Physicality.** The new iPhones are [both heavier and slightly larger][heav] than last year's models, presumably to minimize any future [bendgate][bg] scenarios.
 * **Battery life.** It's the same this year as last year. Even though the [battery actually shrank][bat]---something we would never expect Apple to admit on stage at an event.
-* **iPhone Upgrade Program.** Apple didn't spend much time on this, but this was *huge*. This means that if you have been purchasing iPhones off-contract, you can continue to do so, but instead of paying a ~$800 lump sum (the price of an iPhone 6s in 64GB), you spread that price out over 24-months. ([The Verge][ipu] had a piece on the program, but I think my synopsis is better.)
+* <span id="iphoneupgradeprogram">**iPhone Upgrade Program.**</span> Apple didn't spend much time on this, but this was *huge*. This means that if you have been purchasing iPhones off-contract, you can continue to do so, but instead of paying a ~$800 lump sum (the price of an iPhone 6s in 64GB), you spread that price out over 24-months. ([The Verge][ipu] had a piece on the program, but I think my synopsis is better.)
 	* Moreover, after 12 months, you can "upgrade" to the new phone by simply trading in the old one
 	* Here's how the math works out:
 		1. The price of an iPhone 6s in 64GB is $750, or $63/month if you plan on keeping it for only a year
