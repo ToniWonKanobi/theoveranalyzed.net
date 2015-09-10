@@ -6,7 +6,7 @@
 
 <div class="topstory">
 
-This is not a point-by-point, "Here's *everything* Apple introduced today" recap. For something like that, check out [9to5Mac][9to5mac]. No doubt more thoughtful recaps are on the way from [Six Colors][sixcolors] or [MacStories][macstories], as well.
+This is not a point-by-point, "Here's *everything* Apple introduced today" recap. For something like that, check out [9to5Mac][9to5mac]. No doubt more thoughtful recaps are on the way from [Six Colors][sixcolors 3] or [MacStories][macstories], as well.
 
 </div>
 
@@ -35,12 +35,13 @@ Let's do them in order, more or less.
 ![][d 2]
 
 * **It's big.** Like, *really* [big][theverge]. As a pure iPad, I don't really care about this[^prodef]
+* Purportedly, **4 GB RAM.** [If true][4gb], this is just as "big" of a detail as the iPad Pro itself is big. More RAM = more multitasking power = less random Safari page reloads
 	
 * **Apple Pencil.** *This* is what makes iPad Pro compelling.
 
 	![][d 3]
 
-	Apple claims that this pointing device will have incredibly low latency, which should make drawing on the iPad Pro a completely different experience than the current state of drawing on iPad. The guys at [FiftyThree][fiftythree] are probably just now waking up from their [sherlocked][urbandictionary]-induced coma. (I hope they survive.) [John Siracusa][hypercritical] has yet to give us his opinion on the stylus, but he doesn't have high hopes. 
+	Apple claims that this pointing device will have incredibly low latency, which should make drawing on the iPad Pro a completely different experience than the current state of drawing on iPad. The guys at [FiftyThree][fiftythree] are <del>probably just now waking up</del> [have woken up][ft] from their [sherlocked][urbandictionary]-induced coma. (I hope they survive.) [John Siracusa][hypercritical] has yet to give us his opinion on the stylus, but he doesn't have high hopes. 
 
 * **Smart Keyboard.** This was necessary. If people are going to use their iPad Pro's as quasi-MacBook's, they need a keyboard. Dieter Bohn said that it [feels like][youtube] typing on the new [Retina MacBook][sixcolors 2]. Quite impressive (or unimpressive if you hate the new MacBook's keyboard. I love it, so it's impressive to me.) I've used the Surface's soft keyboard, and it sucks. 
 
@@ -64,8 +65,9 @@ Let's do them in order, more or less.
 * **3D Touch.** It's like Force Touch, but for iPhone.
 * **A9.** 70% faster, blah.
 * **12-megapixel** iSight and **5-megapixel** FaceTime cameras. The "untouched" photos from the iSight camera shown on stage still seem like phone pictures. But the FaceTime upgrade is welcomed. I have been so dissatisfied with the quality of the FaceTime camera that I simply turn my phone around and do "selfies" (I never take selfies by myself) with the iSight camera
-	* **Live Photos.** iPhone will take short snippets of video every time a photo is taken, to help provide context to said photos when reviewing later on.
-* **iPhone Upgrade Program.** Apple didn't spend much time on this, but this was *huge*. This means that if you have been purchasing iPhones off-contract, you can continue to do so, but instead of paying a ~$800 lump sum (the price of an iPhone 6s in 64GB), you spread that price out over 24-months.
+	* **Live Photos.** iPhone will take [short snippets of "video"][live] (Apple says it's not video) every time a photo is taken, to help provide context to said photos when reviewing later on.
+* **Physicality.** The new iPhones are [both heavier and slightly larger][heav] than last year's models, presumably to minimize any future [bendgate][bg] scenarios.
+* **iPhone Upgrade Program.** Apple didn't spend much time on this, but this was *huge*. This means that if you have been purchasing iPhones off-contract, you can continue to do so, but instead of paying a ~$800 lump sum (the price of an iPhone 6s in 64GB), you spread that price out over 24-months. ([The Verge][ipu] had a piece on the program, but I think my synopsis is better.)
 	* Moreover, after 12 months, you can "upgrade" to the new phone by simply trading in the old one
 	* Here's how the math works out:
 		1. The price of an iPhone 6s in 64GB is $750, or $63/month if you plan on keeping it for only a year
@@ -80,13 +82,16 @@ Let's do them in order, more or less.
 	
 ***
 
-That about sums up my impressions of this latest September event. I don't know about you, but Apple will be getting a nice little chunk of monies from me this month (and it all starts this Friday night).
+That about sums up my impressions of this latest September event. I don't know about you, but Apple will be getting a nice little chunk of monies from me this month (and it all starts [this Friday night][pre]).
 
 <div class="update">
 
 ## Update
+<p class="updateTime"><time datetime="2015-09-10">September 10, 2015</time></p>
 
-Here's [John Gruber][daringfireball]'s and [Jason Snell][sixcolors 3]'s take on the event today.
+Here's [John Gruber][daringfireball]'s and [Jason Snell][sixcolors 3]'s take on the event today. 
+
+Since the initial post, I also added additional content links, now that the big sites have started to analyzed the event in greater detail.
 
 </div>
 	
@@ -97,9 +102,11 @@ Here's [John Gruber][daringfireball]'s and [Jason Snell][sixcolors 3]'s take on 
 		<img src="http://d.pr/i/xeoY+" alt="OIS iPhone">
 	</a>
 
+[4gb]: http://9to5mac.com/2015/09/10/ipad-pro-4gb-ram/
 [9to5mac]: http://9to5mac.com/2015/09/09/apple-ipad-pro-iphone-6s-apple-tv-watch-bands/
 [9to5mac 2]: http://9to5mac.com/2015/04/17/milan-event-new-bands/
 [9to5mac 3]: http://9to5mac.com/2015/09/09/apple-watch-sport-collection-adds-gold-anodized-models-ahead-of-holiday-season/
+[bg]: http://www.theverge.com/2014/9/25/6844943/apple-says-iphone-bending-extremely-rare
 [d]: http://d.pr/i/1dwWv+
 [d 2]: http://d.pr/i/9H8Q+
 [d 3]: http://d.pr/i/10Fa0+
@@ -109,9 +116,13 @@ Here's [John Gruber][daringfireball]'s and [Jason Snell][sixcolors 3]'s take on 
 [d 7]: http://d.pr/i/1lDaJ+
 [daringfireball]: http://daringfireball.net/2015/09/thoughts_and_observations_on_todays_hey_siri_event
 [fiftythree]: http://www.fiftythree.com/pencil
+[ft]: http://www.theverge.com/2015/9/9/9297683/pencil-ipad-fifty-three-apple-event-comment
+[heav]: http://www.theverge.com/2015/9/9/9273979/apple-iphone-6s-plus-bend-aluminum-7000-series
 [hypercritical]: http://hypercritical.co/2013/02/08/dont-stop-thinking-about-tomorrow
+[ipu]: http://www.theverge.com/2015/9/9/9277775/new-apple-iphone-6s-price-cost-carriers
+[live]: http://www.theverge.com/2015/9/10/9300055/live-photos-could-change-photography
 [macstories]: http://macstories.net
-[sixcolors]: http://sixcolors.com
+[pre]: http://9to5mac.com/2015/09/10/pre-order-iphone-6s/
 [sixcolors 2]: http://sixcolors.com/post/2015/04/the-new-macbook-a-reviewers-notebook/
 [sixcolors 3]: http://sixcolors.com/post/2015/09/notebook-apples-newest-product-announcements/
 [techradar]: http://www.techradar.com/us/news/wearables/apple-watch-os-2-release-date-news-and-features-1296413
