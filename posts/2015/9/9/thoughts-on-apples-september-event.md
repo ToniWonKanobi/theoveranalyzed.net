@@ -148,7 +148,7 @@ That about sums up my impressions of this latest September event. I don't know a
 
 Here's [John Gruber][daringfireball]'s and [Jason Snell][sixcolors 3]'s take on the event today. 
 
-Since the initial post, I also added additional content links, now that the big sites have started to analyzed the event in greater detail.
+Since the initial post, I also added additional content links, now that the big sites have started to analyze the event in greater detail.
 
 </div>
 	
