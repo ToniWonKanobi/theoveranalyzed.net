@@ -115,6 +115,12 @@ blockquote {
 
 img { max-width: 100% }
 
+/* Makes the white background on jpgs and shadow-less screenshots less offensive */
+img.jpg {
+	border: 2px solid #ddd;
+	border-radius: 0.2em
+}
+
 figure {
 	text-align: center;
 	margin: 1em auto;
@@ -447,12 +453,6 @@ figure:nth-child(1) { margin-top: 1.25em }
 .update blockquote { border-left: 5px solid #d0d0d0 }
 
 .update blockquote a { word-break: break-all }
-
-/* Makes the white background on jpgs less offensive */
-.update .jpg {
-	border: 2px solid #ddd;
-	border-radius: 0.2em
-}
 
 .update code {
 	border: 1px solid #ddd;
