@@ -152,7 +152,7 @@ Since the initial post, I also added additional content links, now that the big 
 
 </div>
 	
-[^prodef]: In the iPad Pro's defense, I don't care about any iPads, really. So there's that.
+[^prodef]: In the iPad Pro's defense, I don't care about any iPads, really. So there's that.
 [^still]: The iPhones 6 Plus still have the optical image stabilization:
 
 	<a class="nohover" href="http://d.pr/i/xeoY+">
