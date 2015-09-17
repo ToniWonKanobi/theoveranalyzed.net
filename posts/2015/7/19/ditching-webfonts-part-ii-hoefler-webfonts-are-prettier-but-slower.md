@@ -92,7 +92,11 @@ So what does this tell me? Well, for starters, it tells me that I'm not crazy. I
 
 It seems that across the board, Cloud.typography has significantly more latency than TypeKit. Or, put another way: Hoefler webfonts are slower than TypeKit.
 
-<div class="takehome" id="boom"><p>Hoefler webfonts are slower than TypeKit</p></div>
+<div class="takehomeRight" id="boom">
+
+Hoefler webfonts are slower than TypeKit
+
+</div>
 
 And that's too bad, because Hoefler fonts really are the *best* fonts. Typography shouldn't be about WebKit rendering, or CSS wonkery, or `@font-face` hacks. Typography is about conveying a language. But as long as Hoefler webfonts are this latent, it *will* be more about those other concepts, and any language that those fonts hoped to convey will be obscured by their own sluggishness.
 

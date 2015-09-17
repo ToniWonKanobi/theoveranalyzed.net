@@ -14,7 +14,11 @@ I've enjoyed watching almost all of his uploads not only because of their inform
 
 But, that's not the only reason I enjoy his videos.
 
-<div class="takehome"><p>It's all about the cars</p></div>
+<div class="takehomeRight">
+
+It's all about the cars
+
+</div>
 
 He[^ca] and his company [AMMO NYC][ammonyc] have serviced some of [the most special cars][youtube 4] out there. And while I love the ol' [Everyday Driver][youtube 5][^ed] or [Chris Harris][youtube 6] review as much as the next guy, there's no replacement for Kosilla's [up-close-and-personal takes on some amazing pieces of automotive engineering][youtube 7].
 

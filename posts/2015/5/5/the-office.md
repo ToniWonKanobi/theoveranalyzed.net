@@ -28,7 +28,7 @@ Allison and I watched *JAG* during special lunches at home together,[^hr]but mos
 
 It took us the better part of 6 months to get through *JAG*. After that, the next 'old' TV show we watched was [Gilmore Girls][wikipedia 6]. Allison followed a bit of this show when she was a teenager. I was hesitant at first. I hadn't heard much about the show, except that it was ostensibly a girl show, about girls, and for girls. She worked on me for a while before I gave in. Eventually I watched my first episode with her, and it was actually quite clever. In fact, I am convinced that [Amy Sherman-Palladino][wikipedia 7]'s writing for *Gilmore Girls* is some of the best 'pop-culture-reference' TV out there.
 
-For most TV shows, the last few seasons are usually the worst. *JAG* and *Gilmore Girls* were no exception. One of *JAG's* pivotal characters, John M. Jackson's [Rear Admiral A. J. Chegwidden][wikipedia 8], left in the penultimate season, only to be replaced by a bunch of new characters. In Bellisario's defense of the new hires, he had hoped NBC would launch a few *JAG* spinoffs, much like they had done so previously with *[NCIS][wikipedia 9])*. These new characters might have been lead characters in the spinoffs. Unfortunately for Bellisario, those spinoffs never happened.
+For most TV shows, the last few seasons are usually the worst. *JAG* and *Gilmore Girls* were no exception. One of *JAG's* pivotal characters, John M. Jackson's [Rear Admiral A. J. Chegwidden][wikipedia 8], left in the penultimate season, only to be replaced by a bunch of new characters. In Bellisario's defense of the new hires, he had hoped NBC would launch a few *JAG* spinoffs, much like they had done so previously with *[NCIS][wikipedia 9]*. These new characters might have been lead characters in the spinoffs. Unfortunately for Bellisario, those spinoffs never happened.
 
 <figure>
 	<img src="http://feather-mag.com/wp-content/uploads/2014/12/GILMOREGIRLS2.jpg" alt="Rory and Jess">
@@ -83,11 +83,11 @@ I'm glad I made it to *The Office* party eventually. If you haven't already seen
 [wikipedia 11]: https://en.wikipedia.org/wiki/Lorelai_Gilmore
 [wikipedia 12]: https://en.wikipedia.org/wiki/List_of_Gilmore_Girls_characters#Luke_Danes
 [wikipedia 13]: https://en.wikipedia.org/wiki/List_of_Gilmore_Girls_characters#Rory_Gilmore
-[wikipedia 14]: https://en.wikipedia.org/wiki/TheOffice(U.S.TVseries
+[wikipedia 14]: https://en.wikipedia.org/wiki/The_Office_(U.S._TV_series)
 [wikipedia 15]: https://en.wikipedia.org/wiki/Steve_Carell
 [wikipedia 16]: https://en.wikipedia.org/wiki/The40-Year-'old'Virgin
 [wikipedia 17]: https://en.wikipedia.org/wiki/Crazy,Stupid,Love
-[wikipedia 18]: https://en.wikipedia.org/wiki/Michael_Scott_(The_Office
+[wikipedia 18]: https://en.wikipedia.org/wiki/Michael_Scott_(The_Office)
 [wikipedia 19]: https://en.wikipedia.org/wiki/Goodbye,_Michael#Reviews
 [wikipedia 2]: https://en.wikipedia.org/wiki/JAG%28TVseries%29
 [wikipedia 20]: https://en.wikipedia.org/wiki/List_of_Gilmore_Girls_characters#Jess_Mariano
@@ -97,14 +97,14 @@ I'm glad I made it to *The Office* party eventually. If you haven't already seen
 [wikipedia 24]: https://en.wikipedia.org/wiki/Greg_Daniels
 [wikipedia 25]: https://en.wikipedia.org/wiki/Mockumentary
 [wikipedia 26]: https://en.wikipedia.org/wiki/Doug_Ross#Career
-[wikipedia 27]: https://en.wikipedia.org/wiki/Pilot_(The_Office
-[wikipedia 28]: https://en.wikipedia.org/wiki/Finale_(The_Office
+[wikipedia 27]: https://en.wikipedia.org/wiki/Pilot_(The_Office)
+[wikipedia 28]: https://en.wikipedia.org/wiki/Finale_(The_Office)
 [wikipedia 3]: http://en.wikipedia.org/wiki/Donald_P._Bellisario
 [wikipedia 4]: https://en.wikipedia.org/wiki/Afewgoodmen
 [wikipedia 5]: https://en.wikipedia.org/wiki/TopGun
 [wikipedia 6]: https://en.wikipedia.org/wiki/GilmoreGirls
 [wikipedia 7]: https://en.wikipedia.org/wiki/Amy_Sherman-Palladino
 [wikipedia 8]: https://en.wikipedia.org/wiki/A._J._Chegwidden
-[wikipedia 9]: https://en.wikipedia.org/wiki/NCIS(TVseries
+[wikipedia 9]: https://en.wikipedia.org/wiki/NCIS(TVseries)
 [youtube]: https://www.youtube.com/results?search_query=funniest+office+moments
 [youtube 2]: https://www.youtube.com/results?search_query=best%20office%20moments

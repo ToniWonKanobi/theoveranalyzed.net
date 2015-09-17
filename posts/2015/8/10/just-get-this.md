@@ -16,7 +16,11 @@ The first theory is that I have just become more picky as I get older. This is t
 
 Fast-forward: if you were to examine every corner of my life as it is today, you would fine that almost all of the decisions I have made---be it which movie to buy, or what t-shirt to get---those were all very intentional decisions. My [Precision bass][wikipedia] isn't [Faded Sonic Blue][fender] because I liked the color.[^al] No, that color was chosen because I knew I would eventually have an [Olympic White][fender 2] [Jazz bass][wikipedia 2] in the stable, and I didn't want them to be the exact same color.
 
-<div class="takehome"><p>It's the thought that counts</p></div>
+<div class="takehomeRight">
+
+It's the thought that counts
+
+</div>
 
 The better theory is that I have simply been repressing my dissatisfaction with past gifts, instead masking them with fake excitement. This is by far the more upsetting theory, because it would seem to suggest that *all* of the past gifts I had received were bad ones. I can picture my friends and family reading this thinking, "Did he like that gift I gave him, or did he hate it?" Fret not: this has not been the story my life. Have there been some duds? Surely.[^su] 
 
