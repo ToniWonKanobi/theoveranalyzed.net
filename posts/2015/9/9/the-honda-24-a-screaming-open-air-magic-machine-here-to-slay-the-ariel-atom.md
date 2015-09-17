@@ -2,7 +2,7 @@
 @@ Date=2015-09-09 09:41  
 @@ Link=http://lanesplitter.jalopnik.com/the-honda-2-4-212-hp-and-893-pounds-of-open-aired-good-1729565266  
 @@ Description=This is the Honda I remember.  
-@@ Tags=Honda, Ariel Atom, Honda 2&4, 2&4, cars, motorcycles  
+@@ Tags=Honda, Ariel Atom, cars, motorcycles  
 @@ Image=http://i.kinja-img.com/gawker-media/image/upload/s--hBI2wth_--/c_scale,fl_progressive,q_80,w_800/1423033440059352391.jpg  
 
 <figure>
