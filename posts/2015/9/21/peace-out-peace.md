@@ -8,8 +8,7 @@
 	<a class="nohover" href="http://d.pr/i/166fs+">
 		<img class="jpg" src="http://d.pr/i/166fs+" alt="Bye bye, Peace.">
 	</a>
-	<figcaption>I'm never on Twitter when stuff like this goes down<br>
-	Marco <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good">pulled Peace</a> from the App Store less than 48 hours after is entrance</figcaption>
+	<figcaption>I'm never on Twitter when stuff like this goes down&mdash;Marco <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good">pulled Peace</a> from the App Store less than 48 hours after is entrance</figcaption>
 </figure>
 
 If you're at all plugged in to the Apple blogosphere, you will have heard by now that the internet-famous [Instapaper][marco] creator, Marco Arment, abruptly pulled his latest effort from the App Store, a content blocker called [Peace][marco 2].
