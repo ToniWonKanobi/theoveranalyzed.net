@@ -471,7 +471,6 @@ figure:nth-child(1) { margin-top: 1.25em }
 
 .takehome {
   color: #3f70a2;
-  padding: 0.5em auto 0.5em auto;
 	font-weight: 600;
 	font-size: 1.2em;
 	line-height: 1.5;
@@ -481,32 +480,39 @@ figure:nth-child(1) { margin-top: 1.25em }
   border-bottom: 1px solid #ddd
 }
 
+.takehome p,
+.takehomeRight p,
+.takehomeLeft p {
+  margin: 0.5em auto 0.5em auto
+}
+
 .takehomeRight {
 	color: #3f70a2;
 	float: right;
-	padding: 1em 0.3em 1em 1.2em;
+	margin: 1em 0.3em 1em 1.2em;
 	font-weight: 600;
 	font-size: 1.2em;
 	line-height: 1.5;
 	font-style: italic;
 	text-transform: uppercase;
-	width: 30%
+	width: 30%;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd
 }
 
 .takehomeLeft {
 	color: #3f70a2;
 	float: left;
-	padding: 1em 1.2em 1em 0.3em;
+	margin: 1em 1.2em 1em 0.3em;
 	font-weight: 600;
 	font-size: 1.2em;
 	line-height: 1.5;
 	font-style: italic;
 	text-transform: uppercase;
-	width: 30%
+	width: 30%;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
 }
-
-.takehomeRight p,
-.takehomeLeft p { margin: 0 }
 
 /* Disabled until CommonMark / `markdown-it-footnote` gets fixed */
 .main hr.footnotes-sep {
