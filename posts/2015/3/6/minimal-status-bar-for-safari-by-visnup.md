@@ -6,10 +6,10 @@
 
 Want to know where a hyperlink will take you? Install this Safari extension, and enjoy  💻
 
-<div class="update">
+<div class="update" id="safari-update">
 
-## Update 
-<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">August 12, 2015</p>
+<h2>Update</h2>
+<p class="updateTime"><time datetime="2015-08-12">August 12, 2015</time></p>
 
 Safari 9.0 for OS X 10.11 "El Capitan" offers this functionality built-in. In order to achieve this, keep the "Show Status Bar" option in View enabled. And then, whenever you hover on a hyperlink, the a small popup revealing the hyperlink destination will appear at the bottom-left of the window (where the 'normal' status bar lives).
 

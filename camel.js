@@ -710,7 +710,7 @@ function sendYearListing(request, response) {
 					anyFound = true;
 
 					currentMonth = thisDay.getMonth();
-					retVal += '<h3><a href="/' + year + '/' + leadingZero((currentMonth + 1)) + '/">' + thisDay.format('{Month}') + '</a></h3>\n<ul>';
+					retVal += '<h2><a href="/' + year + '/' + leadingZero((currentMonth + 1)) + '/">' + thisDay.format('{Month}') + '</a></h2><ul>';
 				}
 
 				day['articles'].each(function (article) {
@@ -1214,7 +1214,7 @@ app.get('/:year/:month', function (request, response) {
 			if (thisDay.is(seekingDay.format('{Month} {yyyy}'))) {
 				anyFound = true;
 
-				html += "<h3>" + thisDay.format('{Weekday}, {Month} {d}') + "</h3>";
+				html += "<h2>" + thisDay.format('{Weekday}, {Month} {d}') + "</h2>";
 				html += "<ul>";
 				day.articles.each(function (article) {
 					html += '<li><a href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
@@ -1258,7 +1258,7 @@ app.get('/:year/:month/:day', function (request, response) {
 				var html = '';
 				html += performMetadataReplacements([], singleHeaderTemplate([]) );
 //				html += "<header><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
-                html += "<header><h1>" + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h1></header>";
+            html += "<header><h1>" + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h1></header>";
 				html += "<ul>";
 				var anyFound = false;
 				day.articles.each(function (article) {

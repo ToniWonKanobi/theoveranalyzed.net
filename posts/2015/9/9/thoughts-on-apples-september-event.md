@@ -141,9 +141,9 @@ Let's do them in order, more or less.
 
 That about sums up my impressions of this latest September event. I don't know about you, but Apple will be getting a nice little chunk of monies from me this month (and it all starts [this Friday night][pre]).
 
-<div class="update">
+<div class="update" id="links-update">
 
-## Update
+<h2>Update</h2>
 <p class="updateTime"><time datetime="2015-09-10">September 10, 2015</time></p>
 
 Here's [John Gruber][daringfireball]'s and [Jason Snell][sixcolors 3]'s take on the event today. 

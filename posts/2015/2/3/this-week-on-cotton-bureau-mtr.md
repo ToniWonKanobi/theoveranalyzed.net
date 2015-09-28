@@ -20,9 +20,9 @@ Starting this week, I will be occasionally featuring [neat designs][nd] from my 
 
 Be sure to use my coupon code CBANTHONYC10 at checkout for 10% off.
 
-<div class="update" id="update">
+<div class="update" id="promo-over-update">
 
-## Update
+<h2>Update</h2>
 
 The trial promotion has now ended, in case you were wondering why my coupon code no longer works.
 

@@ -57,9 +57,10 @@ I'll leave you with this, a conversation with a friend who knows me all too well
 	<figcaption>Touche.</figcaption>
 </figure>
 
-<div class="update">
+<div class="update" id="caseyliss-update">
 
-## Update
+<h2>Update</h2>
+<p class="updateTime"><time datetime="2015-03-12">March 12, 2015</time></p>
 
 Casey Liss [linked][caseyliss] to this [post][exactfitnessapps] by fitness company Exact Fitness, in which you can print out a mockup, cut it out, and 'try on' an Apple Watch in whatever size/band choice you are considering.
 
@@ -76,7 +77,8 @@ I used something [similar][instagram] last September when there were [suddenly][
 
 <div class="update" id="anotherupdate">
 
-## Another Update
+<h2>Another Update</h2>
+<p class="updateTime"><time datetime="2015-03-12">March 12, 2015</time></p>
 
 I found this little nugget of knowledge regarding the Apple Watch link bracelet:
 

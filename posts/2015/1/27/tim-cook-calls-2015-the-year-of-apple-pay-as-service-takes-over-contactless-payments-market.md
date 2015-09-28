@@ -9,10 +9,10 @@ AppleInsider:
 
 Yeah, I bet Wal-Mart et al. are [feeling pretty stupid right now][techcrunch].
 
-<div class="update">
+<div class="update" id="currentc-update">
 
-## Update
-<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">August 11, 2015</p>
+<h2>Update</h2>
+<p class="updateTime"><time datetime="2015-08-11">August 11, 2015</time></p>
 
 CurrentC [died today][dt].
 

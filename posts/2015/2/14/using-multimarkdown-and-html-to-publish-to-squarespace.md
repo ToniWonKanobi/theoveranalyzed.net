@@ -164,10 +164,10 @@ Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview
 
 As you can see, my workflow is not that complicated. Byword makes things incredibly easier than typing in straight HTML. Imagine how much time John Siracusa puts into his [OS X reviews][arstechnica]?[^sir]
 
-<div class="update">
+<div class="update" id="mmdc-update">
 
-### Update
-<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">March 4, 2015</p>
+<h2>Update</h2>
+<p class="updateTime"><time datetime="2015-03-04">March 4, 2015</time></p>
 
 Since writing this post, I [have switched from Byword to MultiMarkdown Composer][swit] for my text editor.  I also no longer use `Code blocks` for my content---I am using `Markdown blocks` instead. I just paste the raw HTML parsed from MultiMarkdown Composer into a `Markdown block`, just like I was doing previously with `Code blocks`. Because editing content in `Code blocks` required a desktop browser, I was stuck waiting until I could get to my MacBook before fixing a typo I noticed after publishing. Using the `Markdown blocks` allows me to edit posts on the go from the Squarespace iOS [Blog][apple] app. See my [post][theoveranalyzed 4] for details. 
 

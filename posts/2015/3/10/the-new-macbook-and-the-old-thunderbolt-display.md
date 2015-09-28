@@ -78,9 +78,10 @@ It will be interesting to see what, if anything, Apple does in the display space
 
 Apple <s>Thunderbolt</s> <s>USB</s> USB-C Dongle Display for 2015? I can only hope. 
 
-<div class="update">
+<div class="update" id="no-4K-update">
 
-## Update
+<h2>Update</h2>
+<p class="updateTime"><time datetime="2015-04-11">April 11, 2015</time></p>
 
 Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page][applep].
 

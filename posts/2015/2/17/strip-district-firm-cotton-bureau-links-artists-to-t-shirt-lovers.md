@@ -27,9 +27,9 @@ Try having that same experience at your local Wal-Mart. Oh you forgot your recei
 
 Check them out today! Use the coupon code **CBANTHONYC10** for a discount on your order.
 
-<div class="update">
+<div class="update" id="promo-over-1-update">
 
-## Update
+<h2>Update</h2>
 
 The promotion mentioned above is currently over.
 

@@ -67,9 +67,10 @@ So my line of HTML code looks like this:
 
 By placing the permalink in the Post Blog Item Code Injection section, I no longer have to manually create permalinks for Linked List posts. The downside to this newer method is that the a permalink shows up on *every* post, even the Article-style posts. A small price to pay methinks.
 
-<div class="update">
+<div class="update" id="fix-update">
 
-## Update
+<h2>Update</h2>
+<p class="updateTime"><time datetime="2015-02-09">February 9, 2015</time></p>
 
 Since initially writing this post, I have since turned on the [Developer Platform][squarespacee] for Squarespace. This has opened up both a bunch of possibilities, and a bunch of frustrations.
 

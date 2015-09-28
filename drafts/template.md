@@ -71,9 +71,9 @@ Italics
 
 </div>
 
-<div class="update">
+<div class="update" id="blah-update">
 
-## Update
+<h2>Update</h2>
 <p class="updateTime"><time datetime="2015-01-01">January 1, 2015</time></p>
 
 Text

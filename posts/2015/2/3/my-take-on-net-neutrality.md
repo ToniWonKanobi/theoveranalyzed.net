@@ -115,10 +115,10 @@ Sottek, on the prospects of the FCC reclassifying wireless as well (same article
 
 [Good luck][meme 2] getting that to happen with this Congress.
 
-<div class="update">
+<div class="update" id="victory-update">
 
-## Update
-<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">February 4, 2015</p>
+<h2>Update</h2>
+<p class="updateTime"><time datetime="2015-02-04">February 4, 2015</time></p>
 
 Sottek, in a [later piece][verg] for The Verge:
 >FCC Chairman Tom Wheeler revealed his plan to reclassify ISPs as common carriers under Title II of the Telcommunications Act. It's a striking victory for net neutrality advocates who have been fighting for years to solidify internet protections using Title II authority. And it's the first time the FCC has shown enough backbone to draw a line in the sand against companies like Comcast, AT&T, and Verizon, who are sure to fight viciously in courts.
@@ -127,10 +127,10 @@ Finally 🐺
 
 </div>
 
-<div class="update">
+<div class="update" id="victory-2-update">
 
-## Another Update---Ten Minutes After The Previous One
-<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">February 4, 2015</p>
+<h2>Another Update&mdash;Ten Minutes After The Previous One</h2>
+<p class="updateTime"><time datetime="2015-02-04">February 4, 2015</time></p>
 
 And Jacob Kastrenakes, also for [The Verge][vergee]:
 >The FCC has enforced some net neutrality rules for wireless carriers in the past, but chairman Tom Wheeler today announced that the commission intends implement new rules that will fully enforce its principles on mobile. As with wired broadband, the rules will ban paid prioritization and the "blocking and throttling of lawful content and services."

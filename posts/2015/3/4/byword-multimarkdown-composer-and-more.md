@@ -181,10 +181,10 @@ Ultimately, my nostalgic attachment to Byword was quickly forgotten. For all its
 
 And you know what? That's [okay][d].
 
-<div class="update">
+<div class="update" id="camel-update">
 
-## Update
-<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">June 1, 2015</p>
+<h2>Update</h2>
+<p class="updateTime"><time datetime="2015-06-01">June 1, 2015</time></p>
 
 Since writing this post originally, I moved to a [custom blogging engine][toa], one that is based on the actual Markdown files `.md`. And because of that, many MultiMarkdown features provided by MultiMarkdown Composer are no longer necessary, as `node.js` has plenty of `markdown-it` plugins that take the universal 'standard' Markdown documents and parse nifty stuff anyways. So I have actually reverted back to using Byword as my plain-text editor of choice. When I re-formatted this document to work with my new blogging engine, I kept the content the same, for both posterity's sake, and to help anyone out there who uses Squarespace.
 

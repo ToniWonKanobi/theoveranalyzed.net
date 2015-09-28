@@ -26,10 +26,10 @@ When I finished school[^yes] and started working, I toned down all of my movie p
 
 [From [/Film][sf]]
 
-<div class="update" style="overflow:scroll">
+<div class="update" style="overflow:scroll" id="new-trailer-update">
 
-## Update
-<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">August 27, 2015</p>
+<h2>Update</h2>
+<p class="updateTime"><time datetime="2015-08-27">August 27, 2015</time></p>
 
 Today, [Yahoo! Movies][ym] shared the new trailer for Warner Brothers's upcoming *The Iron Giant: Signature Edition*:
 
@@ -39,10 +39,10 @@ Today, [Yahoo! Movies][ym] shared the new trailer for Warner Brothers's upcoming
 
 </div>
 
-<div class="update">
+<div class="update" id="sequel-update">
 
-## Another Update
-<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">August  30, 2015</p>
+<h2>Another Update</h2>
+<p class="updateTime"><time datetime="2015-08-30">August 30, 2015</time></p>
 
 Ethan Anderton of [/Film][vd]:
 >For those who don’t know, Vin Diesel was the voice of the titular giant robot who crash lands on Earth and befriends a young boy, making for quite the charming and unique update of the familiar E.T. The Extra Terrestrial tale. And Diesel recently took to his Facebook page to post the Signature Edition trailer, and he teased that Warner Bros. might be on the verge of making The Iron Giant 2 happen.

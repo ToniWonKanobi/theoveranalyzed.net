@@ -23,9 +23,9 @@ Wow---the logotype looks *much* better in the full [Material Design][google] set
 
 [From [Stefan Constantine][twitter]]
 
-<div class="update">
+<div class="update" id="others-update">
 
-## Update
+<h2>Update</h2>
 
 1. Apparently I didn't hate it as much as [some][kottke] [people][twitterdm].
 2. [Ars Technica][ars]:

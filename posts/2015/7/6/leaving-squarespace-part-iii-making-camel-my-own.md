@@ -217,10 +217,10 @@ You can test that the plugin is working by editing a sample post and launching a
 
 There are other aspects of TheOverAnalyzed that took some tweaking. I might detail those changes someday. But the bulk of the changes I made to underlying structure Camel are detailed in this post. 
 
-<div class="update">
+<div class="update" id="camel-2-update">
 
-## Update
-<p style="font-size:0.9em; color:#9e9e9e;margin:0.5em auto -0.5em auto">August 11, 2015</p>
+<h2>Update</h2>
+<p class="updateTime"><time datetime="2015-08-11">August 11, 2015</time></p>
 
 Since writing this post, I have since disabled `markdown-it-highlightjs`. It wasn't a burdensome plugin or anything---I just decided it was unnecessary visual cruft.
 

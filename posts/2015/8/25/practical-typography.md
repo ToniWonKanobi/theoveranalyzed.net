@@ -138,9 +138,9 @@ I spent some time scaling-down the inflated heading sizes, and while doing so, e
 
 I'm bound to spend more time with Butterick's Practical Typography. There's just so much to digest. What is reassuring to me is that I had already been practicing a lot of his suggestions. That said, I'm sure this will prove a valuable resource for me in the future.
 
-<div class="update">
+<div class="update" id="mistakes-update">
 
-## Update
+<h2>Update</h2>
 
 After publishing this post, I stumbled upon an old [review][mw] from Jason Snell, former *editorial director* for Macworld:
 
