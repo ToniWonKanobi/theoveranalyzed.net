@@ -5,7 +5,7 @@
 @@ Tags=Star Wars, Star Trek, Civil, Civil Comments   
 @@ Image=https://civilcomments.com/images/article_images/starwarsvstartrek_2x.png  
 
-I stumbled onto Christa Mrgan's [Civil Comments][civilcomments] a few weeks ago. What is Civil Comments, you ask?
+I stumbled onto Christa Mrgan's [Civil][civil] a few weeks ago. What is [Civil Comments][civilcomments], you ask?
 
 I could tell you, but you should just watch this instead:
 
@@ -40,7 +40,8 @@ So there you go.
 [^poor]: The disparity is kind of sad, actually.
 [^unfort]: Unfortunately---and somewhat ironically---a lot of those comments were pretty funny.
 
-[civilcomments]: http://civilcomments.com
+[civil]: http://civil.cm
+[civilcomments]: http://www.civilcomments.com
 [daringfireball]: http://daringfireball.net/2010/06/whats_fair
 [instapaper]: http://instapaper.com
 [reederapp]: http://reederapp.com
