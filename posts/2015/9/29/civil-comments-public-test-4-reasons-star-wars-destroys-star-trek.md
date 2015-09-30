@@ -22,10 +22,10 @@ I plan to tryout Civil Comments once it goes live. I'm all for intelligent conve
 
 ***
 
-Today, Mrgan unveiled Civil Comment's "Public Test" mode. And what better crucible to test Civil Comments' civility than a snarky post detailing how Star Wars is better than Star Trek?
+Today, Mrgan unveiled Civil Comment's "Public Test" mode. And what better crucible to test Civil Comments' civility than a [snarky post][link] detailing how Star Wars is better than Star Trek?
 
 <figure>
-	<a class="nohover" href="https://civilcomments.com/images/article_images/starwarsvstartrek_2x.png">
+	<a class="nohover" href="https://civilcomments.com/star-wars-vs-star-trek/">
 		<img src="https://civilcomments.com/images/article_images/starwarsvstartrek_2x.png" alt="SW better than ST">
 	</a>
 	<figcaption>Star Wars > Star Trek, according to a senior engineer at Civil, Matthew Trost</figcaption>
@@ -45,6 +45,7 @@ So there you go.
 [cm]: https://twitter.com/antichrista
 [daringfireball]: http://daringfireball.net/2010/06/whats_fair
 [instapaper]: http://instapaper.com
+[link]: https://civilcomments.com/star-wars-vs-star-trek/
 [reederapp]: http://reederapp.com
 [theoveranalyzed]: http://www.theoveranalyzed.net/tags/Star%20Wars
 [theoveranalyzed 2]: http://www.theoveranalyzed.net/tags/Star%20Trek
