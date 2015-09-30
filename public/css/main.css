@@ -373,7 +373,7 @@ ul.postSubtitleItems li {
 }
 
 ul.eachTag {
-	margin-top: 0.3em;
+	margin: 0.3em auto auto 0;
 	padding-left: 0;
 	list-style: none;
 	height: 0;
