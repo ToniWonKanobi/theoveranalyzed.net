@@ -5,7 +5,7 @@
 @@ Tags=This Week on Cotton Bureau, Cotton Bureau, t-shirts, apparel, space, NASA  
 @@ Image=https://cottonbureau.com/img/products/6865_9sDj_2400.jpg  
 
-I've been listening to Relay.fm's space-themed podcast [Liftoff][relay]. Also, I follow one of the co-hosts, [Stephen Hackett][twitter], so I'm [aware][512pixels] of a recent [Kickstart project][kickstarter] that resurrects an old NASA Graphics Standard Manual. Because of that, his Star Wars-themed shirt immediately caught my eye.
+I've been listening to Relay.fm's space-themed podcast [Liftoff][relay]. Also, I follow one of the co-hosts, [Stephen Hackett][twitter], so I'm [aware][512pixels] of a recent [Kickstarter project][kickstarter] that resurrects an old NASA Graphics Standard Manual. Because of that, his Star Wars-themed shirt immediately caught my eye.
 
 <figure>
 	<a class="nohover" href="https://cottonbureau.com/products/millennium-falcon">
