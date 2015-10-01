@@ -172,7 +172,7 @@ While I can't say that the UI changes implemented contribute significantly to th
 
 Tweetbot 4 is available on the [App Store][apple] at a launch price of $4.99 (the normal price is $9.99). The app is available as a bundle with Tweetbot 3 for $9.99. According to developer Paul Haddad, "Users will be able to complete the bundle of both apps by paying the difference of the price they paid for Tweetbot 3 and the bundle price. So if they purchased Tweetbot 3 at $4.99 and they go to buy the bundle, they’ll be able to complete it for $4.99." Not bad.
 
-$5 is a very small price to pay for an app I've used [all throughout the day][daringfireball] for the past two years (the last *paid* upgrade was when [Tweetbot 3 launched in 2013][macstories 2]). 
+$5 is a very small price to pay for an app I've used [all throughout the day][daringfireball] for the past two years (the last *paid* upgrade was when Tweetbot 3 launched in 2013). 
 
 Tweetbot is [still the best Twitter client for iOS][still], I doubt that will change any time soon.
 
