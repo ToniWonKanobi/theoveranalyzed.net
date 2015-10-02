@@ -18,9 +18,9 @@ Apple has indeed been moving away from it's "i" prefix, [established][everysteve
 
 [From [512 Pixels][512pixels]]
 
-<div class="update" id="js-update">
+<div class="update">
 
-<h2>Update</h2>
+## Update: Jason Snell's Commentary
 
 Jason Snell offered his own [commentary on the subject][sc]:
 >It would also require a renaming of the iPad, and you’d have to ask about the iMac at that point, too.

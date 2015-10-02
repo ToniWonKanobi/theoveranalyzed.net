@@ -10,9 +10,9 @@
 
 [From [/Film][slashfilm]]
 
-<div class="update" id="alt-trailer-update">
+<div class="update">
 
-<h2>Update</h2>
+## Update: Alternate Version of Trailer
 <p class="updateTime"><time datetime="2015-08-10">August 10, 2015</time></p>
 
 From Star Wars Korea, here's an [alternate version][alt] of the trailer, which includes a few extra bits not found in the North American version.

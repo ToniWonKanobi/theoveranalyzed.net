@@ -31,10 +31,10 @@ Italics
 <!-- Two inline images -->
 <figure class="inlinetwo">
 	<a class="nohover" href="imagelink">
-		<img src="imagelink" alt="text">
+		<img class="jpg lazy" data-original="imagelink" alt="text">
 	</a>
 	<a class="nohover" href="imagelink">
-		<img src="imagelink" alt="text">
+		<img class="jpg lazy" data-original="imagelink" alt="text">
 	</a>
 	<figcaption>caption</figcaption>
 </figure>
@@ -42,13 +42,13 @@ Italics
 <!-- Three inline images -->
 <figure class="inlinethree">
 	<a class="nohover" href="imagelink">
-		<img src="imagelink" alt="text">
+		<img class="jpg lazy" data-original="imagelink" alt="text">
 	</a>
 	<a class="nohover" href="imagelink">
-		<img src="imagelink" alt="text">
+		<img class="jpg lazy" data-original="imagelink" alt="text">
 	</a>
 	<a class="nohover" href="imagelink">
-		<img src="imagelink" alt="text">
+		<img class="jpg lazy" data-original="imagelink" alt="text">
 	</a>
 	<figcaption>caption</figcaption>
 </figure>
@@ -56,7 +56,6 @@ Italics
 <!-- Table in a <div> to allow overflow scroll -->
 <!-- Table in a <figure> for caption -->
 <div class="table"
-
 <figure>
 
 | First Header  | Second Header | Third Header         |
@@ -68,12 +67,11 @@ Italics
 <figcaption>Table</figcaption>
 
 </figure>
-
 </div>
 
-<div class="update" id="blah-update">
+<div class="update">
 
-<h2>Update</h2>
+## Update: Blah
 <p class="updateTime"><time datetime="2015-01-01">January 1, 2015</time></p>
 
 Text

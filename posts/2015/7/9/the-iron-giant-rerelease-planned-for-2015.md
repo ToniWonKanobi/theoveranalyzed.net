@@ -26,9 +26,9 @@ When I finished school[^yes] and started working, I toned down all of my movie p
 
 [From [/Film][sf]]
 
-<div class="update" style="overflow:scroll" id="new-trailer-update">
+<div class="update" style="overflow:scroll">
 
-<h2>Update</h2>
+## Update: New Trailer
 <p class="updateTime"><time datetime="2015-08-27">August 27, 2015</time></p>
 
 Today, [Yahoo! Movies][ym] shared the new trailer for Warner Brothers's upcoming *The Iron Giant: Signature Edition*:
@@ -39,9 +39,9 @@ Today, [Yahoo! Movies][ym] shared the new trailer for Warner Brothers's upcoming
 
 </div>
 
-<div class="update" id="sequel-update">
+<div class="update">
 
-<h2>Another Update</h2>
+## Update: Sequel in the Works?
 <p class="updateTime"><time datetime="2015-08-30">August 30, 2015</time></p>
 
 Ethan Anderton of [/Film][vd]:

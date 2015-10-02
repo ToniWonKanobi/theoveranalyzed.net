@@ -9,9 +9,9 @@ Peter Sciretta, for /Film:
 
 Star Wars Rebels, the [critically acclaimed][slashfilm] new series, concluded its first season last night, and boy was it great. I'm excited to see what the writers do with whomever Gellar will portray.[^g] I won't spoil it for you. [See it for yourself][apple]. 
 
-<div class="update" id="smg-update">
+<div class="update">
 
-<h2>Update</h2>
+## Update: Gellar to Play Leia?
 <p class="updateTime"><time datetime="2015-09-27">September 27, 2015</time></p>
 
 Maybe Gellar won't be playing Kanan's love interest, [after all][wikipedia]? 

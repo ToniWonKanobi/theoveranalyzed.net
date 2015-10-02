@@ -16,9 +16,9 @@ There is still a lot we don’t know about the new MacBook and it’s USB-C port
 
 [April 10][cnet] can't come soon enough.
 
-<div class="update" id="4K-update">
+<div class="update">
 
-<h2>Update</h2>
+## Update: No 4K for MacBook
 <p class="updateTime"><time datetime="2015-04-11">April 11, 2015</time></p>
 
 Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page][apples].

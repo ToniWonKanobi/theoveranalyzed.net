@@ -33,7 +33,6 @@ I can't comment on the new features for Tweetbot 4 on iPad because I don't have 
 
 This isn't so much a Tweetbot 4 feature as it is an iOS 9 feature. Still, props to Hadded for incorporating it into this newest version of his app. 
 
-<!-- Two inline images -->
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/15zyw+">
 		<img class="jpg lazy" data-original="http://d.pr/i/15zyw+" alt="Safari View Controller in Tweetbot 4">
@@ -82,7 +81,6 @@ Mark Jardine, Tapbots' designer for both iOS and Mac applications, didn't break 
 
 Tweetbot 4 adds splashes of color in the Timeline where gray existed before. Pictured above, the "tweet dropdown" view. In Tweetbot 4, the dropdown has the Tapbots' characteristic blue background, whereas the previous version 3 had the darker (and more subdued) gray background. I can't say I prefer the new look over the old one, but it certinaly doesn't detract. Perhaps Jardine wanted to implement a way to help the user visualize that the dropdown view was active?
 
-<!-- Two inline images -->
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/J9lG+">
 		<img class="jpg lazy" data-original="http://d.pr/i/J9lG+" alt="Tweetbot 4 Timeline">
@@ -97,7 +95,6 @@ Tweetbot 4 adds splashes of color in the Timeline where gray existed before. Pic
 
 Just as with the tweet dropdown views described above the tweet composer view got a slight tweaking. In version 4, the top right and top left borders of the composer are now radiused. In fact, the entire defined-height "composer box" from version 3 is gone. Previously, the composer height in Tweetbot 3 would resize dynamically until the length of the tweet started to encroach on the keyboard, and after which, the composition area would simply scroll. Now, the composer text field completely blends into the viewport (except for the aforementioned radiused top borders).
 
-<!-- Three inline images -->
 <figure class="inlinethree">
 	<a class="nohover" href="http://d.pr/i/15UMZ+">
 		<img class="jpg lazy" data-original="http://d.pr/i/15UMZ+" alt="Tweetbot 4's compose area">
@@ -119,7 +116,6 @@ I spend a decent amount of time in my profile tab, though not for [the reason yo
 
 Besides the larger profile image, the most striking change to the profile tab in Tweetbot 4 is the promotion of Recent Tweets in lieu of Recent Photos. That section still exists in Tweetbot 4, but it's relegated to the bottom of the viewport, below the Recent Tweets section. I'm not sure of the utility of this view, as I'm often more interested in recent photos shared than recent tweets. (If I wanted to do that, I could just tap on the "Tweets" button above the "Recent" section.)
 
-<!-- Two inline images -->
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/19aZw+">
 		<img class="jpg lazy" data-original="http://d.pr/i/19aZw+" alt="Tweetbot 4 profile tab">
@@ -134,7 +130,6 @@ Besides the larger profile image, the most striking change to the profile tab in
 
 Generally speaking, Jardine has seen fit to increase the padding around almost all of the text elements within the app. Recall that before last year, the largest iPhone display was 4 inches. That doesn't leave a lot of room for white space flourishes and the ideal margin and padding spacing. Overall, this is a change I greatly welcome. It makes everything feel a bit more spacious than before. And since it seems logical that most of the potential Tweetbot 4 users already have bigger iPhones, this is probably a good design decision on Jardine's part.
 
-<!-- Two inline images -->
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/fUNl+">
 		<img class="jpg lazy" data-original="http://d.pr/i/fUNl+" alt="Tweetbot 4 padding">
@@ -151,7 +146,6 @@ Generally speaking, Jardine has seen fit to increase the padding around almost a
 
 Tweetbot has never been the [twitter client for typography lovers][twitterrific]. Indeed, Tweetbot 3 featured only two fonts: [Helvetica][wikipedia 2] (the system default for every iOS release besides iOS 9), and [Avenir][wikipedia 3]. I was hoping Tweetbot 4 would add at least *one* more typeface option but alas, no.
 
-<!-- Two inline images -->
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/6g8R+">
 		<img class="jpg lazy" data-original="http://d.pr/i/6g8R+" alt="Tweetbot 4 replaces Helvetica with San Francisco">

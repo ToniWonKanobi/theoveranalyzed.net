@@ -25,17 +25,17 @@ $203,193.
 
 Yikes 🇩🇪
 
-<div class="update" id="total911-update">
+<div class="update">
 
-<h2>Update</h2>
+## Update: Another Take
 
 [Total 911][tot] has an even better look that Jalopnik. Head over there to check it out.
 
 </div>
 
-<div class="update" id="video-update">
+<div class="update">
 
-<h2>Another Update</h2>
+## Update: Video
 
 And here's a [video][vid] they [featured][feat] from Porsche.
 

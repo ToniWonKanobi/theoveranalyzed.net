@@ -115,9 +115,9 @@ Sottek, on the prospects of the FCC reclassifying wireless as well (same article
 
 [Good luck][meme 2] getting that to happen with this Congress.
 
-<div class="update" id="victory-update">
+<div class="update">
 
-<h2>Update</h2>
+## Update: Victory
 <p class="updateTime"><time datetime="2015-02-04">February 4, 2015</time></p>
 
 Sottek, in a [later piece][verg] for The Verge:
@@ -127,9 +127,9 @@ Finally 🐺
 
 </div>
 
-<div class="update" id="victory-2-update">
+<div class="update">
 
-<h2>Another Update&mdash;Ten Minutes After The Previous One</h2>
+## Another Update, Ten Minutes After The Previous One: Victory Part II
 <p class="updateTime"><time datetime="2015-02-04">February 4, 2015</time></p>
 
 And Jacob Kastrenakes, also for [The Verge][vergee]:

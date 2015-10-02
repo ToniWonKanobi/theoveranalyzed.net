@@ -19,9 +19,9 @@ No word yet as to when the expansion should be finished.
 	<figcaption><a href="http://www.imsdb.com/scripts/Star-Wars-A-New-Hope.html">"What a piece of junk."</a></figcaption>
 </figure>
 
-<div class="update" id="when-update">
+<div class="update">
 
-<h2>Update</h2>
+## Update: Date of Completion?
 <p class="updateTime"><time datetime="2015-08-17">August 17, 2015</time></p>
 
 On the topic of *when*, it seems that there's still no official word. [Peter Sciretta][more] today wrote further on the matter, offering his speculation as to the park's eventual opening:

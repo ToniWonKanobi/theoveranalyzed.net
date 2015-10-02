@@ -14,9 +14,9 @@ Peter Sciretta, for /Film:
 
 Clearly, Harrison Ford is the man.
 
-<div class="update" id="future-films-update">
+<div class="update">
 
-<h2>Update</h2>
+## Update: Future Films
 <p class="updateTime"><time datetime="2015-08-13">August 13, 2015</time></p>
 
 Apparently today was a big news day for Star Wars fans. Angie Han, also of /Film, [pieced together][piece] some recent interviews with J.J. Abrams and Kathleen Kennedy, shedding light on the upcoming Episode VIII and IX of the [sequel trilogy][st]:
