@@ -36,10 +36,10 @@ This isn't so much a Tweetbot 4 feature as it is an iOS 9 feature. Still, props 
 <!-- Two inline images -->
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/15zyw+">
-		<img class="jpg" src="http://d.pr/i/15zyw+" alt="Safari View Controller in Tweetbot 4">
+		<img class="jpg lazy" data-original="http://d.pr/i/15zyw+" alt="Safari View Controller in Tweetbot 4">
 	</a>
 	<a class="nohover" href="http://d.pr/i/1dFgQ+">
-		<img class="jpg" src="http://d.pr/i/1dFgQ+" alt="Preview webview in Tweetbot 3">
+		<img class="jpg lazy" data-original="http://d.pr/i/1dFgQ+" alt="Preview webview in Tweetbot 3">
 	</a>
 	<figcaption>Tweetbot 4 uses <a href="https://developer.apple.com/videos/wwdc/2015/?id=504">SFSafariViewController</a></figcaption>
 </figure>
@@ -66,10 +66,10 @@ Stats contains a section at the top of the viewport called Today's Activity. Thi
 
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/52Oc+">
-		<img class="jpg" src="http://d.pr/i/52Oc+" alt="Tweetbot 4 Activity tab, Stats section">
+		<img class="jpg lazy" data-original="http://d.pr/i/52Oc+" alt="Tweetbot 4 Activity tab, Stats section">
 	</a>
 	<a class="nohover" href="http://d.pr/i/1fG8A+">
-		<img class="jpg" src="http://d.pr/i/1fG8A+" alt="Tweetbot 4 Activity tab, Activity section">
+		<img class="jpg lazy" data-original="http://d.pr/i/1fG8A+" alt="Tweetbot 4 Activity tab, Activity section">
 	</a>
 	<figcaption>Tweetbot 4's Activity tab, showing the Stats and Activity section. Both views contain essentially the same information, just presented in a slightly different manner</figcaption>
 </figure>
@@ -85,10 +85,10 @@ Tweetbot 4 adds splashes of color in the Timeline where gray existed before. Pic
 <!-- Two inline images -->
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/J9lG+">
-		<img class="jpg" src="http://d.pr/i/J9lG+" alt="Tweetbot 4 Timeline">
+		<img class="jpg lazy" data-original="http://d.pr/i/J9lG+" alt="Tweetbot 4 Timeline">
 	</a>
 	<a class="nohover" href="http://d.pr/i/17snp+">
-		<img class="jpg" src="http://d.pr/i/17snp+" alt="Tweetbot 3 Timeline">
+		<img class="jpg lazy" data-original="http://d.pr/i/17snp+" alt="Tweetbot 3 Timeline">
 	</a>
 	<figcaption>Tweetbot 4 and Tweetbot 3 Timeline tab</figcaption>
 </figure>
@@ -100,13 +100,13 @@ Just as with the tweet dropdown views described above the tweet composer view go
 <!-- Three inline images -->
 <figure class="inlinethree">
 	<a class="nohover" href="http://d.pr/i/15UMZ+">
-		<img class="jpg" src="http://d.pr/i/15UMZ+" alt="Tweetbot 4's compose area">
+		<img class="jpg lazy" data-original="http://d.pr/i/15UMZ+" alt="Tweetbot 4's compose area">
 	</a>
 	<a class="nohover" href="http://d.pr/i/CIzr+">
-		<img class="jpg" src="http://d.pr/i/CIzr+" alt="Tweetbot 3's compose area, pre height overflow">
+		<img class="jpg lazy" data-original="http://d.pr/i/CIzr+" alt="Tweetbot 3's compose area, pre height overflow">
 	</a>
 	<a class="nohover" href="http://d.pr/i/11Xpp+">
-		<img class="jpg" src="http://d.pr/i/11Xpp+" alt="Tweetbot 3's compose area, post height overflow">
+		<img class="jpg lazy" data-original="http://d.pr/i/11Xpp+" alt="Tweetbot 3's compose area, post height overflow">
 	</a>
 	<figcaption>Compared to Tweetbot 3, Tweetbot 4's compose tweet view blends in more with the entire viewport</figcaption>
 </figure>
@@ -122,10 +122,10 @@ Besides the larger profile image, the most striking change to the profile tab in
 <!-- Two inline images -->
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/19aZw+">
-		<img class="jpg" src="http://d.pr/i/19aZw+" alt="Tweetbot 4 profile tab">
+		<img class="jpg lazy" data-original="http://d.pr/i/19aZw+" alt="Tweetbot 4 profile tab">
 	</a>
 	<a class="nohover" href="http://d.pr/i/19owr+">
-		<img class="jpg" src="http://d.pr/i/19owr+" alt="Tweetbot 3 profile tab">
+		<img class="jpg lazy" data-original="http://d.pr/i/19owr+" alt="Tweetbot 3 profile tab">
 	</a>
 	<figcaption>The profile tab in Tweetbot 4 enlarges the users background (banner) image, and prioritizes Recent Tweets, rather than Recent Photos as seen in Tweetbot 3</figcaption>
 </figure>
@@ -137,10 +137,10 @@ Generally speaking, Jardine has seen fit to increase the padding around almost a
 <!-- Two inline images -->
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/fUNl+">
-		<img class="jpg" src="http://d.pr/i/fUNl+" alt="Tweetbot 4 padding">
+		<img class="jpg lazy" data-original="http://d.pr/i/fUNl+" alt="Tweetbot 4 padding">
 	</a>
 	<a class="nohover" href="http://d.pr/i/1h10p+">
-		<img class="jpg" src="http://d.pr/i/1h10p+" alt="Tweetbot 3 padding">
+		<img class="jpg lazy" data-original="http://d.pr/i/1h10p+" alt="Tweetbot 3 padding">
 	</a>
 	<figcaption>In the Search tab, the increased padding around the query options is immediately apparent in Tweetbot 4. This is in contrast to the condensed text elements in Tweetbot 3.</figcaption>
 </figure>
@@ -154,10 +154,10 @@ Tweetbot has never been the [twitter client for typography lovers][twitterrific]
 <!-- Two inline images -->
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/6g8R+">
-		<img class="jpg" src="http://d.pr/i/6g8R+" alt="Tweetbot 4 replaces Helvetica with San Francisco">
+		<img class="jpg lazy" data-original="http://d.pr/i/6g8R+" alt="Tweetbot 4 replaces Helvetica with San Francisco">
 	</a>
 	<a class="nohover" href="http://d.pr/i/y3Vm+">
-		<img class="jpg" src="http://d.pr/i/y3Vm+" alt="Tweetbot 4 and Helvetica">
+		<img class="jpg lazy" data-original="http://d.pr/i/y3Vm+" alt="Tweetbot 4 and Helvetica">
 	</a>
 	<figcaption>Still just two font choices for Tweetbot 4 <span style="font-style:normal">😐</span></figcaption>
 </figure>
