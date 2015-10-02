@@ -135,7 +135,7 @@ figcaption {
 	text-align: left
 }
 
-/*figure.inlinetwo img {
+figure.inlinetwo img {
 	width: 47%;
 	margin-left: 0.25em;
 	margin-right: 0.25em;
@@ -145,7 +145,7 @@ figure.inlinethree img {
 	width: 30%;
 	margin-left: 0.25em;
 	margin-right: 0.25em;
-}*/
+}
 
 figure.wide {
 	width: 1100px;
