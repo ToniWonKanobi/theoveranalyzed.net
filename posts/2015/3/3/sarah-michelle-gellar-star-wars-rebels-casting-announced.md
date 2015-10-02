@@ -22,9 +22,24 @@ Maybe Gellar won't be playing Kanan's love interest, [after all][wikipedia]?
 
 </div>
 
+<div class="update">
+
+## Update: Nope, She's Not Playing Leia
+<p class="updateTime"><time datetime="2015-10-02">October 2, 2015</time></p>
+
+Keely Flaherty, for [BuzzFeed](http://www.buzzfeed.com/keelyflaherty/sarah-michelle-gellar-reveals-her-mysterious-new-star-wars-r#.ccvq1lk1z):
+>It seems she won’t be joining the Jedi ranks. Her character, the Seventh Sister Inquisitor, is a cunning and crafty villain.
+
+So there you go. My hypothesis was completely incorrect, after all.[^or]
+
+[From [/Film](http://www.slashfilm.com/star-wars-rebels-sarah-michelle-gellar/)]
+
+</div>
+
 [^g]: I'm going to go on record right now and suggest that Gellar will play a love interest for [Kanan][wikia].
 
 	After all, it would only [make sense][huffingtonpost].
+[^or]: <p id="iwasright">Or was it? What if the Seventh Sister will be a love interest for Kanan? I'm going to `id` this footnote for when I'm right<s>wrong</s>right.</p>
 
 [apple]: https://itunes.apple.com/us/tv-season/fire-across-the-galaxy/id920938545?at=1l3vx9s
 [huffingtonpost]: http://www.huffingtonpost.com/2014/03/13/sarah-michelle-gellar-freddie-prinze-jr-selfie_n_4957924.html
