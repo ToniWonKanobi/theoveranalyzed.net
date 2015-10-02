@@ -12,7 +12,7 @@
 	<figcaption>Ben Dodson's iTunes Artwork Finder</figcaption>
 </figure>
 
-Ever since I [started working](http://twitter.com/anthonycraigdds), the iTunes Store has been my goto for digital media. I made a promise to myself that once I was making money instead of [borrowing it from the government](http://www.myfedloan.org/), I would make a genuine effort to quit [torrenting](https://www.transmissionbt.com/)/downloading digital media and start paying for it. 
+Before finishing school, I Ever since I [started working](http://twitter.com/anthonycraigdds), the iTunes Store has been my goto for digital media. I made a promise to myself that once I was making money instead of [borrowing it from the government](http://www.myfedloan.org/), I would make a genuine effort to quit [torrenting](https://www.transmissionbt.com/)/downloading digital media and start paying for it. 
 
 In a moment of self-righteous fervor several months ago, I purged <s>all</s>most all[^well] of the pirated content in my iTunes library (~200 movies, ~20 TV series, and lots of albums) and <s>re</s>purchased what I considered my must-have [titles](https://itunes.apple.com/us/movie/goodfellas/id275463151?at=1l3vx9s).[^money] Even [Don Melton](http://twitter.com/donmelton)---the guy whose [Handbrake-powered scripts](https://github.com/donmelton/video-transcoding-scripts) have become the *de facto* standard for transcoding hard copy content to digital---even he would [agree](https://github.com/donmelton/video-transcoding-scripts#alternatives-to-transcoding-your-media) that sourcing digital media through iTunes is probably the easiest way to obtain digital media:
 

@@ -39,7 +39,7 @@ So there you go. My hypothesis was completely incorrect, after all.[^or]
 [^g]: I'm going to go on record right now and suggest that Gellar will play a love interest for [Kanan][wikia].
 
 	After all, it would only [make sense][huffingtonpost].
-[^or]: <p id="iwasright">Or was it? What if the Seventh Sister will be a love interest for Kanan? I'm going to `id` this footnote for when I'm right<s>wrong</s>right.</p>
+[^or]: <p id="iwasright">Or was it? What if the Seventh Sister will be a love interest for Kanan? I'm going to <code>id</code> this footnote for easy hyperlinking, for when I'm right<s>wrong</s>right again.</p>
 
 [apple]: https://itunes.apple.com/us/tv-season/fire-across-the-galaxy/id920938545?at=1l3vx9s
 [huffingtonpost]: http://www.huffingtonpost.com/2014/03/13/sarah-michelle-gellar-freddie-prinze-jr-selfie_n_4957924.html
