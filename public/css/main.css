@@ -9,23 +9,23 @@ update: rgba(63, 110, 162, 0.11)
 
 /* "Top banner" concept cribbed from Marco Arment: http://www.marco.org/main12.css */
 #masthead {
-  width: 100%;
-  height: 160px;
-  margin-bottom: -160px;
-  background-color: #3f70a2
+	width: 100%;
+	height: 160px;
+	margin-bottom: -160px;
+	background-color: #3f70a2
 }
 
 .content .header,
 .content .header a {
 	margin: auto;
-  text-align: center;
-  text-decoration: none;
-  color: #fff;
-  border: 0;
-  border-width: 0;
-  -webkit-transition: none;
-  -moz-transition: none;
-  transition: none
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+	border: 0;
+	border-width: 0;
+	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none
 }
 
 .content .header #siteTitle img {
@@ -34,14 +34,14 @@ update: rgba(63, 110, 162, 0.11)
 }
 
 .content .header #siteByline {
-  font-size: 0.95em;
-  margin: 0.75em auto
+	font-size: 0.95em;
+	margin: 0.75em auto
 }
 
 .content {
 	text-align: left;
-  max-width: 620px;
-  margin: auto
+	max-width: 620px;
+	margin: auto
 }
 
 .main {
@@ -53,8 +53,8 @@ update: rgba(63, 110, 162, 0.11)
 body {
 	font-size: 13pt;
 	margin: 0; /* Prevents white space padding */
-  color: #545454;
-  line-height: 1.6;
+	color: #545454;
+	line-height: 1.6;
 	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Avenir", -apple-system, sans-serif; /* Thanks to Craig Hockenberry for the `-apple-system` tip: http://furbo.org/2015/07/09/i-left-my-system-fonts-in-san-francisco/ */
 	font-weight: 300
 }
@@ -64,8 +64,8 @@ i, em { font-style: italic }
 b, strong { font-weight: 600 }
 
 h1, h2, h3, h4 {
-  margin: 1.2em auto -0.3em auto;
-  font-weight: 600
+	margin: 1.2em auto -0.3em auto;
+	font-weight: 600
 }
 
 h1 { font-size: 1.5em }
@@ -92,13 +92,13 @@ a:hover { color: #2e8eef }
 }
 
 a.nohover:hover {
-  background: none;
-  border: none
+	background: none;
+	border: none
 }
 
 .sup {
-  vertical-align: super;
-  font-size: 50%
+	vertical-align: super;
+	font-size: 50%
 }
 
 .sub {
@@ -107,10 +107,10 @@ a.nohover:hover {
 }
 
 blockquote {
-  margin: 10px 0px 20px 2px;
-  color: #9e9e9e;
-  padding-left: 9px;
-  border-left: 5px solid #dbdbdb
+	margin: 10px 0px 20px 2px;
+	color: #9e9e9e;
+	padding-left: 9px;
+	border-left: 5px solid #dbdbdb
 }
 
 img { max-width: 100% }
@@ -121,18 +121,21 @@ img.jpg {
 	border-radius: 0.2em
 }
 
-figure { margin: 1em auto }
-
-figcaption {
-  margin: 0.5em auto auto 25%;
-  font-style: italic;
-  font-size: 0.8em;
-  color: #9e9e9e;
-  width: 50%;
-  text-align: left
+figure {
+	text-align: center;
+	margin: 1em auto
 }
 
-figure.inlinetwo img {
+figcaption {
+	margin: 0.5em auto auto 25%;
+	font-style: italic;
+	font-size: 0.8em;
+	color: #9e9e9e;
+	width: 50%;
+	text-align: left
+}
+
+/*figure.inlinetwo img {
 	width: 47%;
 	margin-left: 0.25em;
 	margin-right: 0.25em;
@@ -142,7 +145,7 @@ figure.inlinethree img {
 	width: 30%;
 	margin-left: 0.25em;
 	margin-right: 0.25em;
-}
+}*/
 
 figure.wide {
 	width: 1100px;
@@ -178,31 +181,31 @@ div.fluid-width-video-wrapper { margin-top: 1em }
 pre {
 	font-family: Hack, Monaco, monospace;
 	font-size: 0.8em;
-  white-space: pre;
-  padding: 1em;
-  overflow: auto;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
-  background-color: #eee
+	white-space: pre;
+	padding: 1em;
+	overflow: auto;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background-color: #eee
 }
 
 code {
 	font-style: normal;
-  font-family: Hack, Monaco, monospace;
-  font-size: 0.7em;
-  padding: 0.3em;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
-  background-color: #eee
+	font-family: Hack, Monaco, monospace;
+	font-size: 0.7em;
+	padding: 0.3em;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background-color: #eee
 }
 
 a code:hover { padding-bottom: 1px }
 
 pre code {
-  font-size: 0.9em;
-  overflow: auto;
+	font-size: 0.9em;
+	overflow: auto;
 }
 
 /* Fixes `markdown-it` `.homepage` fenced code block funkiness */
@@ -219,9 +222,7 @@ dl {
 	margin: 1em 0 1em .5em
 }
 
-li {
-  margin-bottom: 0.75em
-}
+li { margin-bottom: 0.75em }
 
 table.sortable thead { cursor: default }
 
@@ -234,25 +235,23 @@ div.table figcaption {
 
 /* Table styles cribbed from Byword's Marked CSS: "http://bywordapp.com/extras/index.html" */
 table {
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 24px;
-  border-bottom: 1px solid #ddd;
-  border-right: 1px solid #ddd;
-  border-spacing: 0
+	margin: auto auto auto 24px;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-spacing: 0
 }
 
 table th {
-  padding: 3px 10px;
-  background-color: #eee;
-  border-top: 1px solid #ddd;
-  border-left: 1px solid #ddd
+	padding: 3px 10px;
+	background-color: #eee;
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd
 }
 
 table td {
-  padding: 3px 10px;
-  border-top: 1px solid #ddd;
-  border-left: 1px solid #ddd
+	padding: 3px 10px;
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd
 }
 
 table th code {
@@ -261,16 +260,15 @@ table th code {
 }
 
 hr {
-  width: 60%;
-  margin-top: 2.5em;
-  margin-bottom: 2.5em;
-  border-radius: 1px;
-  border: 1px solid #ddd
+	width: 60%;
+	margin: 2.5em auto 2.5em auto;
+	border-radius: 1px;
+	border: 1px solid #ddd
 }
 
 hr.long {
-  width: 100%;
-  margin: 1.7em auto 1.7em auto
+	width: 100%;
+	margin: 1.7em auto 1.7em auto
 }
 
 i.fa.fa-long-arrow-right.fa-fw {
@@ -307,36 +305,41 @@ i.fa.fa-code.fa-fw {
 }
 
 .header-anchor {
-  color: #3f70a2;
-  opacity: 0;
-  font-size: 0.8em;
-  vertical-align: 7%
+	color: #3f70a2;
+	opacity: 0;
+	font-size: 0.8em;
+	vertical-align: 7%
 }
 
-.header-anchor, .header-anchor:hover, .title a {
-  text-decoration: none;
-  background: none;
-  color: #3f70a2;
-  border-radius: none
+.header-anchor,
+.header-anchor:hover,
+.title a {
+	text-decoration: none;
+	background: none;
+	color: #3f70a2;
+	border-radius: none
 }
 
-h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor, h4:hover .header-anchor, h5:hover .header-anchor, h6:hover .header-anchor {
-  opacity: 1
-}
+h1:hover .header-anchor,
+h2:hover .header-anchor,
+h3:hover .header-anchor,
+h4:hover .header-anchor,
+h5:hover .header-anchor,
+h6:hover .header-anchor { opacity: 1 }
 
 a.header-anchor:hover {
- border-bottom: none;
- background: none;
- color: #2e8eef;
- padding: 0px
+	border-bottom: none;
+	background: none;
+	color: #2e8eef;
+	padding: 0px
 }
 
 a.postTitleLinked:hover + i.fa.fa-long-arrow-right.fa-fw { color: #2e8eef }
 
 .postSubtitle,
 .postSubtitleTags {
-  color: #9e9e9e;
-  font-size: 0.9em
+	color: #9e9e9e;
+	font-size: 0.9em
 }
 
 .postSubtitle a,
@@ -399,9 +402,9 @@ ul.postSubtitleItems input.tagsList { vertical-align: 10% }
 
 .postHeader h1,
 .postHeaderLinked h2 {
-  font-weight: 700;
-  line-height: 1.4;
-  margin-bottom: 0
+	font-weight: 700;
+	line-height: 1.4;
+	margin-bottom: 0
 }
 
 a.postTitle { color: #545454 }
@@ -414,10 +417,8 @@ a.postTitleLinked:hover { color: #2e8eef }
 figure:first-child { margin-top: 1.25em }
 
 .topstory {
-	margin-top: 2em;
-  margin-bottom: 2em;
-  font-style: italic;
-  text-align: left
+	margin: 2em auto 2em auto;
+	font-style: italic
 }
 
 /* Removes italics on code blocks */
@@ -455,21 +456,19 @@ figure:first-child { margin-top: 1.25em }
 }
 
 .takehome {
-  color: #3f70a2;
+	color: #3f70a2;
 	font-weight: 600;
 	font-size: 1.2em;
 	line-height: 1.5;
 	font-style: italic;
 	text-transform: uppercase;
-  border-top: 2px solid #ddd;
-  border-bottom: 2px solid #ddd
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #ddd
 }
 
 .takehome p,
 .takehomeRight p,
-.takehomeLeft p {
-  margin: 0.5em auto 0.5em auto
-}
+.takehomeLeft p { margin: 0.5em auto 0.5em auto }
 
 .takehomeRight {
 	color: #3f70a2;
@@ -481,8 +480,8 @@ figure:first-child { margin-top: 1.25em }
 	font-style: italic;
 	text-transform: uppercase;
 	width: 30%;
-  border-top: 2px solid #ddd;
-  border-bottom: 2px solid #ddd
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #ddd
 }
 
 .takehomeLeft {
@@ -495,16 +494,16 @@ figure:first-child { margin-top: 1.25em }
 	font-style: italic;
 	text-transform: uppercase;
 	width: 30%;
-  border-top: 2px solid #ddd;
-  border-bottom: 2px solid #ddd;
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #ddd;
 }
 
 /* Disabled until CommonMark / `markdown-it-footnote` gets fixed */
 .main hr.footnotes-sep {
-  width: 10em;
-  margin: 5em auto 1.5em 0;
-  border: 1px solid #ddd;
-  display: none
+	width: 10em;
+	margin: 5em auto 1.5em 0;
+	border: 1px solid #ddd;
+	display: none
 }
 
 .main section.footnotes {
@@ -520,16 +519,16 @@ figure:first-child { margin-top: 1.25em }
 .footnote-ref a { color: #9e9e9e }
 
 a.footnote-backref {
-    vertical-align: -0.1em;
-    color:  #9e9e9e
+	vertical-align: -0.1em;
+	color:  #9e9e9e
 }
 
 .footnote-ref a:hover,
 a.footnote-backref:hover {
-  border-bottom: none;
-  background: none;
-  color: #2e8eef;
-  border-radius: none
+	border-bottom: none;
+	background: none;
+	color: #2e8eef;
+	border-radius: none
 }
 
 .post .main {
@@ -539,41 +538,39 @@ a.footnote-backref:hover {
 .homepage .day .articleDivider {
 	width: 80vw;
 	margin: 5em auto 5em calc((80vw - 620px) / -2);
-  background-color: #ddd;
-  height: 0.2em;
-  border-radius: 2px
+	background-color: #ddd;
+	height: 0.2em;
+	border-radius: 2px
 }
 
 .homepage .paginationFooter {
 	margin-bottom: 11em;
-  display: block;
-  width: 100%;
-  font-weight: 400;
-  font-size: 1.1em
+	display: block;
+	width: 100%;
+	font-weight: 400;
+	font-size: 1.1em
 }
 
 .homepage .paginationFooter .previousPage {
-  display: inline;
-  float: right
+	display: inline;
+	float: right
 }
 
 .homepage .paginationFooter .nextPage {
-  display: inline;
-  float: left
+	display: inline;
+	float: left
 }
 
 #bottomAd {
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  width: 100%;
-  height: 130px
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	width: 100%;
+	height: 130px
 }
 
 #bottomAd figcaption { text-align: center }
 
 #bottomAd img {
-  display: block;
-  margin: auto;
 	width: 150px;
 	border-top: none
 }
@@ -601,9 +598,7 @@ a.footnote-backref:hover {
 	padding-left: 0
 }
 
-#nav li {
-  margin-bottom: auto
-}
+#nav li { margin-bottom: auto }
 
 /* Search box cribbed from Hardik Pandya: http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 #search {
@@ -646,8 +641,8 @@ a.footnote-backref:hover {
 @media (max-width: 736px) {
 
 	#masthead {
-	  height: 130px;
-	  margin-bottom: -130px
+		height: 130px;
+		margin-bottom: -130px
 	}
 
 	.content {
@@ -661,8 +656,8 @@ a.footnote-backref:hover {
 	}
 
 	.content .header #siteTitle img {
-	  width: 100%;
-	  margin-top: 1.25em
+		width: 100%;
+		margin-top: 1.25em
 	}
 
 	.content .header #siteByline { margin: 1em auto }
@@ -685,10 +680,10 @@ a.footnote-backref:hover {
 	figure.figright,
 	figure.inlinetwo img,
 	figure.inlinethree img {
-    float: none;
-    width: 100%;
-    text-align: center;
-    margin: 1em auto 1em auto
+		float: none;
+		width: 100%;
+		text-align: center;
+		margin: 1em auto 1em auto
 	}
 
 	figure.wide {
@@ -697,11 +692,11 @@ a.footnote-backref:hover {
 	}
 
 	.homepage .day .articleDivider {
-    width: 100vw;
-    margin: 3em auto 3em calc((100vw - 300px) / -2);
-    background-color: #ddd;
-    border-radius: 0;
-    border: none
+		width: 100vw;
+		margin: 3em auto 3em calc((100vw - 300px) / -2);
+		background-color: #ddd;
+		border-radius: 0;
+		border: none
 	}
 
 	.homepage .paginationFooter { margin-bottom: 7em }
@@ -715,9 +710,9 @@ a.footnote-backref:hover {
   and (max-device-width: 1024px)
   and (-webkit-min-device-pixel-ratio: 2) {
 	.homepage .day .articleDivider {
-    width: 100vw;
-    margin: 5em auto 5em calc((100vw - 620px) / -2);
-    border-radius: 0;
-    border: none;
+		width: 100vw;
+		margin: 5em auto 5em calc((100vw - 620px) / -2);
+		border-radius: 0;
+		border: none;
 	}
 }
