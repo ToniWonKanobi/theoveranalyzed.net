@@ -36,7 +36,7 @@ When I need to pass the time, my go-to apps are what they have been for years: I
 Historically, when I've gone through my whole [Instapaper][instapaper] queue, I might launch an indie game and truly veg-out. Or if I have an article saved to Instapaper that I want to write about, I might do that instead.
 
 <figure class="iphone">
-	<img src="http://d.pr/i/1hDH9+" alt="Games">
+	<img class="jpg" src="http://d.pr/i/1hDH9+" alt="Games">
 	<figcaption>Games are a wonderful time waster.</figcaption>
 </figure>
 

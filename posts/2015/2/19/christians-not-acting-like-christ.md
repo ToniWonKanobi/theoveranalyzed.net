@@ -32,11 +32,11 @@ Her third-year research group wanted to explore how mostly Christian students at
 
 Problem was, higher-ups in the administration in both the School of Dentistry and the University as a whole thought Allison's research might paint the school in a bad light.[^bl] So, in one fell swoop of bureaucracy, her research project was stifled before even starting. 
 
-<hr class="long">
+<div class="takehome">
 
-**What to make of this?**
+What to make of this?
 
-<hr class="long">
+</div>
 
 A lot of the animal advocacy stuff that crosses my path comes from the progressive-leaning world. Indeed, this is unsurprising. Liberals are generally for movements and causes that increase the welfare and equality for all humans. Why wouldn't they feel the same way toward animals? 
 
@@ -44,11 +44,11 @@ When I read something by [PETA][peta], or watch a YouTube video from [Mercy For 
 
 What is interesting about *this* piece by The Humane Society of The United States is that there are Christian themes brought into the discussion.
 
-<hr class="long">
+<div class="takehome">
 
-**This was weird.**
+This was weird.
 
-<hr class="long">
+</div>
 
 Like many progressive ideas, animal advocacy is not particularly lauded by conservatives. Spend some time on your search engine of choice[^ddg] with queries like "[big ag][duckduckgo]," or "[ag gag][duckduckgo]," and you'll find that the major proponents for the current state of affairs in the agriculture industry are [Republicans][humanesociety] and their constituents. Also recall that a large amount of Christians lean traditionally conservative. 
 
@@ -69,11 +69,11 @@ When I saw today's featured video by HSUS, the irony of the reality rang loud an
 
 This brings us back to Loma Linda University:
 
-<hr class="long">
+<div class="takehome">
 
-**How can an institution of higher learning profess its observance and Christianity, while at the same time, neglect the opportunity to investigate alternatives to testing on animals?**
+How can an institution of higher learning profess its observance and Christianity, while at the same time, neglect the opportunity to investigate alternatives to testing on animals?
 
-<hr class="long">
+</div>
 
 Here's quote from Greg Boyd, PhD, pastor for [Woodland Hills Church][whchurch]:
 >You have a trajectory throughout the whole Biblical tradition of God caring for the animals. In fact, caring for the creation. And humans being mandated to work with God in caring about creation. It's the first mandate in the bible. 
@@ -101,13 +101,15 @@ Here is a non-exhaustive list found in the Notes and References section of his a
 	* [National Centre for the Replacement, Refinement, and Reduction of Animals in Research][nc3rs] (NC3R’s):  
 	* The [Johns Hopkins CAAT Center][jhsph 2] lists 36 centers around the world whose goal is to carry forward the agenda to find alternatives for animal testing.[^at] 
 
-<hr class="long">
+It's far time the Christian world caught up with the secular world.
+  
+It's far time Christians become the stewards that they profess to be.
 
-**It's far time the Christian world caught up with the secular world.**  
-**It's far time they become the stewards that they profess to be.**  
-**It's far time they start acting like Christ.**
+<div class="takehome">
 
-<hr class="long">
+It's far time Christians start acting like Christ.
+
+</div>
 
 If you aren't ready to give up meat and/or dairy, try more humane varieties of such. Skip the grocery store and get grass-fed, pasture-raised beef. Try cage-free eggs[^cf] over the regular ones. Start small. In only takes a spark.
 

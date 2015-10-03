@@ -112,7 +112,7 @@ Byword is both functional, and actually quite clever at the same time. Want to c
 Contrast this with MultiMarkdown Composer, in which the hotkey is buried in the Edit menu item:
 
 <figure>
-	<img src="http://d.pr/i/fWNQ+" alt="Ehh">
+	<img class="jpg" src="http://d.pr/i/fWNQ+" alt="Ehh">
 	<figcaption>Ehh...</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ The problem with Byword is that while the app *does* support [the most important
 Probably the biggest unexpected benefit of using MultiMarkdown Composer were the **inline footnotes.**[^inf]
 
 <figure>
-	<img src="http://d.pr/i/nOPD+" alt="Easy">
+	<img class="jpg" src="http://d.pr/i/nOPD+" alt="Easy">
 	<figcaption>Could this be any easier?</figcaption>
 </figure>
 
@@ -162,7 +162,7 @@ And then I would have to go back through my document and copy that format for re
 With MultiMarkdown Composer, I just place a `{{TOC}}` at the top of my document, and then I get something wonderful like this:
 
 <figure>
-	<img src="http://d.pr/i/1azBA+" alt="So much easier">
+	<img class="jpg" src="http://d.pr/i/1azBA+" alt="So much easier">
 	<figcaption><em>So</em> much easier than doing it by hand</figcaption>
 </figure>
 

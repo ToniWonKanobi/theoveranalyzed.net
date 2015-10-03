@@ -8,7 +8,9 @@
 I've heard of [Terminology for iOS][apple] before, but have never used it myself. This is probably because with [few exceptions][theoveranalyzed], all my writing takes place on OS X machines. If I were [Federico Viticci][macstories], a dictionary app for iOS might make more sense.
 
 <figure>
-	<img src="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg" alt="Terminology for OS X">
+	<a href="http://agiletortoise.com/terminology/mac/">
+		<img class="jpg" src="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg" alt="Terminology for OS X">
+	</a>
 	<figcaption>Terminology integrates with OS X's three-finger tap (and Force Touch 'hard press').</figcaption>
 </figure>
 

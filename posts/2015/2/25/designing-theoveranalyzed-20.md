@@ -145,7 +145,7 @@ After consulting with the [Squarespace Answers Forum](answers.squarespace.com), 
 But this led to a terrible design on mobile:
 
 <figure class="iphone">
-	<img src="http://d.pr/i/1l1L9+" alt="Mobile">
+	<img class="jpg" src="http://d.pr/i/1l1L9+" alt="Mobile">
 	<figcaption>Mobile, pre-<code>custom.less</code></figcaption>
 </figure>
 
@@ -303,21 +303,21 @@ Desktop:
 iPad (Portrait):
 
 <figure class="iphone">
-	<img src="http://d.pr/i/OgsK+" alt="iPad, portrait">
+	<img class="jpg" src="http://d.pr/i/OgsK+" alt="iPad, portrait">
 	<figcaption>iPad, portrait</figcaption>
 </figure>
 
 iPad (Landscape):
 
 <figure class="iphone">
-	<img src="http://d.pr/i/pAIQ+" alt="iPad, landscape">
+	<img class="jpg" src="http://d.pr/i/pAIQ+" alt="iPad, landscape">
 	<figcaption>iPad, landscape</figcaption>
 </figure>
 
 iPhone:
 
 <figure class="iphone">
-	<img src="http://d.pr/i/1fcI8+" alt="iPhone, portrait">
+	<img class="jpg" src="http://d.pr/i/1fcI8+" alt="iPhone, portrait">
 	<figcaption>iPhone, portrait</figcaption>
 </figure>
 

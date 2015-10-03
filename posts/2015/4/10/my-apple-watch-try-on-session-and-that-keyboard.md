@@ -32,7 +32,7 @@ It seems like supply was severely constrained for both items. Was it orchestrate
 Around 12:40 last night, I made my try-on appointment for the Apple Watch.
 
 <figure class="iphone">
-	<img src="http://d.pr/i/ZBFa+" alt="Three tries">
+	<img class="jpg" src="http://d.pr/i/ZBFa+" alt="Three tries">
 	<figcaption>And it only took me three tries!</figcaption>
 </figure>
 

@@ -18,11 +18,11 @@ Imagine owning car manufactured in the early 90's, or even earlier. While there 
 
 Why would you want to adorn your old car with such gaudy visual diarrhea? 
 
-<hr class="long">
+<div class="takehome">
 
-**The answer is that you wouldn't.**
+The answer is that you wouldn't.
 
-<hr class="long">
+</div>
 
 And on a less esthetic level, our modern-day reliance on technical amenities like [BTLE][wikipedia 2] and handsfree *could*---if you're that sort of person---make driving less enjoyable in their absence.[^could] 
 

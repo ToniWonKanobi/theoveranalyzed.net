@@ -23,7 +23,7 @@ His final quip is the best:
 And here's my situation:
 
 <figure>
-	<img src="http://d.pr/i/Prby+" alt="still" >
+	<img class="jpg" src="http://d.pr/i/Prby+" alt="still" >
 	<figcaption>Yep, still June. Sigh.</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@
 	<figcaption><a href="http://macrabbit.com/espresso/">Espresso</a> has a permanent place on my Dock because it's awesome.</figcaption>
 </figure>
 
-# Expresso, the "Web Editor" for Mac
+# Espresso, the "Web Editor" for Mac
 
 My code editor of choice has been with me since my [Squarespace][theoveranalyzed] days. The Squarespace [Developer Platform][squarespace] allowed either [Git][wikipedia] or [SFTP][wikipedia 2] methods for making changes to Developer Platform sites. Because I was---and in a lot of ways still am---a Git newbie, I chose SFTP instead. At the time, I wasn't sure what that even meant, so I went to YouTube for clues. I stumbled upon this [video][youtube], in which the author explained how to use the Developer Platform via SFTP using [Espresso][macrabbit], a Mac application by [MacRabbit][macrabbit 2]. 
 
@@ -25,7 +25,7 @@ Editing in Espresso is nice due to their language highlighting. It makes reviewi
 And what is especially nice about Espresso is their default custom font, Espresso Mono. That font features well thought-out character choices. For instance, in most monospace fonts, the capital "O" character is easily mistaken for the number "0". Espresso Mono has this taken care of:
 
 <figure>
-	<img src="http://d.pr/i/1fh8y+" alt="0 vs O in Espresso Mono">
+	<img class="jpg" src="http://d.pr/i/1fh8y+" alt="0 vs O in Espresso Mono">
 	<figcaption>Espresso Mono: <code>0</code> vs <code>O</code></figcaption>
 </figure>
 

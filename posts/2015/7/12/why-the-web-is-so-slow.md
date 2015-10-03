@@ -69,7 +69,7 @@ In his original piece, Gruber included a link to Dean Murphy's [blog post][murph
 
 # TheOverAnalyzed
 
-Websites should be fast. But can I put my money where my mouth is? It's easy to criticize iMore and all the other slowpoke webpages---how does [TheOverAnalyzed][theoveranalyzed] compare?
+Websites should be fast. But can I put my money where my mouth is? It's easy to criticize iMore and all the other slowpoke webpages---how does TheOverAnalyzed compare?
 
 Well enough, I think.
 

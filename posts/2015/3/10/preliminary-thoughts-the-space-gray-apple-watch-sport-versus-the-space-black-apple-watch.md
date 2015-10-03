@@ -23,7 +23,7 @@ It's the second question I have more trouble with.
 ## Watch or Watch Sport?
 
 <figure>
-	<img src="http://d.pr/i/1jzlL+" alt="Watch">
+	<img class="jpg" src="http://d.pr/i/1jzlL+" alt="Watch">
 	<figcaption>For the longest time, it was going to be this.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ The black models of anything have always been the best choice.[^re] And it's not
 As an aside, I don't remember Apple Watch in Space Black Stainless being so dang dark last September. I actually like it even more now that it's darker.[^di] Interestingly, Apple has set the Space Black version of Apple Watch  collection apart from the rest of the Apple Watch collection. In order to obtain that luscious fingerprint magnet of a case, you *have* to buy the link bracelet. And, not so interestingly, the link bracelet carries a rather hefty price bump from the fluoroelastomer of $600. Is it worth it?
 
 <figure>
-	<img src="http://d.pr/i/161KY+" alt="Watch Sport">
+	<img class="jpg" src="http://d.pr/i/161KY+" alt="Watch Sport">
 	<figcaption>This looks really nice too, though.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Another benefit to choosing Apple Watch Sport is that the fluoroelastomer band[^
 I'll leave you with this, a conversation with a friend who knows me all too well. We were talking about which case size to get, but really, I could apply his advise to almost every Apple hardware decision I have ever made:
 
 <figure>
-	<img src="http://d.pr/i/13VbL+" alt="Conversation" width="63%">
+	<img class="jpg" src="http://d.pr/i/13VbL+" alt="Conversation" width="63%">
 	<figcaption>Touche.</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ I used something [similar][instagram] last September when there were [suddenly][
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/10oi3+">
-		<img src="http://d.pr/i/10oi3+" alt="Mockups" width="80%">
+		<img class="jpg" src="http://d.pr/i/10oi3+" alt="Mockups" width="80%">
 	</a>
 	<figcaption>Mockups</figcaption>
 </figure>
@@ -84,7 +84,7 @@ I found this little nugget of knowledge regarding the Apple Watch link bracelet:
 
 <figure class="iphone">
 	<a class="nohover" href="https://pbs.twimg.com/media/B__JFBzUQAEqzn9.png">
-	<img src="https://pbs.twimg.com/media/B__JFBzUQAEqzn9.png" alt="Links">
+	<img class="jpg" src="https://pbs.twimg.com/media/B__JFBzUQAEqzn9.png" alt="Links">
 	</a>
 	<figcaption>From <a href="http://howtospendit.ft.com/articles/77791-the-man-behind-the-apple-watch">this</a> interview with Jony Ive by Nick Foulkes</figcaption>
 </figure>
