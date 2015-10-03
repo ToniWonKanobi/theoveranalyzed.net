@@ -72,9 +72,9 @@ The "rubber" band is far from *just* rubber---it is easily the biggest surprise 
 Oh, another thing about the fluoroelastomer band: it is a real pain to get on and off. The lady spent the most time with that watch taking it on/off.
 
 <figure class="inlinethree">
-	<img src="http://d.pr/i/1hgPn+" alt="Step 1">
-	<img src="http://d.pr/i/1eArk+" alt="Step 2">
-	<img src="http://d.pr/i/1hExt+" alt="step3" />
+	<img class="jpg lazy" data-original="http://d.pr/i/1hgPn+" alt="Step 1">
+	<img class="jpg lazy" data-original="http://d.pr/i/1eArk+" alt="Step 2">
+	<img class="jpg lazy" data-original="http://d.pr/i/1hExt+" alt="step3">
 	<figcaption>Steps 1, 2, and 3 for getting the Sport band on</figcaption>
 </figure>
 
@@ -111,9 +111,9 @@ The display is absolutely gorgeous. I had no reason to doubt the reports saying 
 
 I've played with the trackpad on the 13" MacBook Pro with Retina display, and this felt the same.
 
-What I was most looking forward to was typing on this thing. Jason Snell has bemoaned it endlessly in his reviews for [Macworld][macworld], [Six Colors][sixcolors], and his podcast [Upgrade](relay.fm/upgrade). I assumed he other keyboard purists weren't really the target market, since,  for them, clicky keyboards are the best. I assumed that it would feel just the same as typing on my MacBook Pros and Air's of the past.
+What I was most looking forward to was typing on this thing. Jason Snell has bemoaned it endlessly in his reviews for [Macworld][macworld], [Six Colors][sixcolors], and his podcast [Upgrade](relay.fm/upgrade). I assume keyboard purists like him weren't really the target market, since,  for them, clicky keyboards will always the best. I assumed that it would feel just the same as typing on my MacBook Pros and Air's of the past.
 
-Boy was I wrong. It really, truly does feel just *slightly* more feedback-y than typing on an iPad screen. The latter is certainly the worst typing experience of all, but the former isn't that far ahead. Yes, the keys feel very sturdy. Typing on the keyboard evoke all those things I remember Jony Ive talking about in the promotional videos. Don't get me wrong: this keyboard is an excellent hardware milestone. I just think it will take some getting used to. If you preordered one, be ready. It's not going to feel like typing on anything you've typed on before. 
+Boy was I wrong. It really, truly does feel just *slightly* more feedback-y than typing on an iPad screen. The latter is certainly the worst typing experience of all, but the former isn't that far ahead. Yes, the keys feel very sturdy. Typing on the keyboard evokes all those things I remember Jony Ive talking about in the promotional videos. Don't get me wrong: this keyboard is an excellent hardware milestone. I just think it will take some getting used to. If you preordered one, be ready. It's not going to feel like typing on anything you've typed on before. 
 
 <figure>
 	<img src="http://d.pr/i/120bA+" alt="Closing picture">

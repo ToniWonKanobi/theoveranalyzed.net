@@ -84,10 +84,10 @@ Thanks to the intricacies of the App Store, I was fortunate to purchase Peace be
 
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/1aYAD+">
-		<img class="jpg" src="http://d.pr/i/1aYAD+" alt="Without Peace">
+		<img class="jpg lazy" data-original="http://d.pr/i/1aYAD+" alt="Without Peace">
 	</a>
 	<a class="nohover" href="http://d.pr/i/dJpP+">
-		<img class="jpg" src="http://d.pr/i/dJpP+" alt="With Peace">
+		<img class="jpg lazy" data-original="http://d.pr/i/dJpP+" alt="With Peace">
 	</a>
 	<figcaption>Of course when I tried to demonstrate the difference Peace makes, The Verge's current ad is a relatively skinny one <span style="font-style:normal">😐</span></figcaption>
 </figure>

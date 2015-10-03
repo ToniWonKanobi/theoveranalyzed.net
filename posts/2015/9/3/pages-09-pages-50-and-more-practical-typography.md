@@ -40,10 +40,10 @@ Ideal Sans comes with several alternate versions of characters, but as you can s
 
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/17YoZ+">
-		<img src="http://d.pr/i/17YoZ+" alt="Pages 4.4.3 without OpenType">
+		<img class="jpg lazy" data-original="http://d.pr/i/17YoZ+" alt="Pages 4.4.3 without OpenType">
 	</a>
 	<a class="nohover" href="http://d.pr/i/14Yiy+">
-		<img src="http://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType">
+		<img class="jpg lazy" data-original="http://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType">
 	</a>
 	<figcaption>Pages 4.4.3 with OpenType support and Pages 5.5.3 without much OpenType support at all</figcaption>
 </figure>

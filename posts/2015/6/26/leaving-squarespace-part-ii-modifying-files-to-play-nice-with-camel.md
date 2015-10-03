@@ -25,8 +25,8 @@ A goal of mine from the beginning was to port over the ~250 posts I had accrued 
 Before transitioning to Camel, I adopted a hybrid metadata system inspired by both [Byword's][bywordapp] [MultiMarkdown guide][bywordapp 2], and, perhaps fortuitously, [Camel][github] itself. All of my posts since [TheOverAnalyzed 2.0][theoveranalyzed] had `Title:`, `Date:`, and `Link:` metadata. Byword is smart enough to know that properly-formatted text placed at the top of the document denotes metadata. Byword would then omit that when parsed to HTML.
 
 <figure class="inlinetwo">
-	<img src="http://d.pr/i/1lii9+" alt="Old style metadata">
-	<img src="http://d.pr/i/13n6Z+" alt="Smart Byword">
+	<img class="jpg lazy" data-original="http://d.pr/i/1lii9+" alt="Old style metadata">
+	<img class="jpg lazy" data-original="http://d.pr/i/13n6Z+" alt="Smart Byword">
 	<figcaption><Byword's MultiMarkdown-style metadata and HTML parse</figcaption>
 </figure>
 
@@ -133,8 +133,8 @@ Because I was using the parsed HTML as the content for my posts in Squarespace, 
 Out of the box, Camel includes the `markdown-it` plugin [`markdown-it-footnote`][mif], which allows for MultiMarkdown 3-style inline and multi-paragraph footnotes. 
 
 <figure class="inlinetwo">
-	<img src="http://d.pr/i/1aazM+" alt="Un-parsed text in Byword">
-	<img src="http://d.pr/i/12gMj+" alt="Parsed text in Byword">
+	<img class="jpg lazy" data-original="http://d.pr/i/1aazM+" alt="Un-parsed text in Byword">
+	<img class="jpg lazy" data-original="http://d.pr/i/12gMj+" alt="Parsed text in Byword">
 	<figcaption>Byword's footnote parsing</figcaption>
 </figure>
 
