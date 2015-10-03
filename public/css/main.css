@@ -229,37 +229,29 @@ table.sortable thead { cursor: default }
 /* Keeps wide tables from overwhelming the layout on mobile */
 div.table { overflow-x: scroll }
 
-div.table figcaption {
-	margin: -1em auto 1em auto
-}
+div.table figcaption { margin: -1em auto 1em auto }
 
 /* Table styles cribbed from Byword's Marked CSS: "http://bywordapp.com/extras/index.html" */
 table {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 24px;
-    border-bottom: 1px solid #ddd;
-    border-right: 1px solid #ddd;
-    border-spacing: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 24px;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-spacing: 0;
 }
 
 table th {
-    padding: 3px 10px;
-    background-color: #eee;
-    border-top: 1px solid #ddd;
-    border-left: 1px solid #ddd;
+	padding: 3px 10px;
+	background-color: #eee;
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd;
 }
 
 table td {
-    padding: 3px 10px;
-    border-top: 1px solid #ddd;
-    border-left: 1px solid #ddd;
-}
-
-caption {
-    font-size: 1.2em;
-    font-weight: bold;
-    margin-bottom: 5px;
+	padding: 3px 10px;
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd;
 }
 
 table th code {
@@ -711,7 +703,6 @@ a.footnote-backref:hover {
 }
 
 /* Mobile-first sucks */
-
 /* iPad */
 @media only screen
   and (min-device-width: 768px)
