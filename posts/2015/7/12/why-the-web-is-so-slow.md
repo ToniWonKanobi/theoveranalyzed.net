@@ -38,8 +38,10 @@ Eventually the open standards won out. By 2004, [CSS 2.1][wikipedia 3] had been 
 When iPhone [launched in 2007][wikipedia 4] with a version of the venerable Safari web browser, the advertisement firms took advantage. That trend has only increased in the 8 years thereafter. Just visit any major .com news organization and you'll see what I mean. The browser window will no doubt be filled with advertisements, most of which look like shat. It's not just that most mobile ads have horribly-pixelated versions of whatever product or service the ad is peddling. No, moreover: those ads typically obscure a *major* portion of the content. 
 
 <figure class="inlinetwo">
-	<img class="jpg lazy" data-original="http://d.pr/i/17moY+" alt="The Verge">
-	<img class="jpg lazy" data-original="http://d.pr/i/1cIGg+" alt="iMore">
+	<img class="screenshot lazy" data-original="http://d.pr/i/17moY+" alt="The Verge">
+		<noscript><img class="screenshot" src="http://d.pr/i/17moY+" alt="The Verge"></noscript>
+	<img class="screenshot lazy" data-original="http://d.pr/i/1cIGg+" alt="iMore">
+		<noscript><img class="screenshot" src="http://d.pr/i/1cIGg+" alt="iMore"></noscript>
 	<figcaption><a href="http://theverge.com/">The Verge</a> and <a href="http://imore.com/">iMore</a></figcaption>
 </figure>
 

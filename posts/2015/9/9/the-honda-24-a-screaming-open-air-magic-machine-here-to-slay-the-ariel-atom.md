@@ -38,10 +38,10 @@ Okay, *there's* the [Honda of today][honda] rearing it's ugly mug.
 
 <figure class="inlinetwo">
 	<a class="nohover" href="http://i.kinja-img.com/gawker-media/image/upload/s--jmKpCVw2--/c_scale,fl_progressive,q_80,w_800/1423033440558095431.jpg">
-		<img class="jpg lazy" data-original="http://i.kinja-img.com/gawker-media/image/upload/s--jmKpCVw2--/c_scale,fl_progressive,q_80,w_800/1423033440558095431.jpg" alt="Butt shot">
+		<img class="lazy" data-original="http://i.kinja-img.com/gawker-media/image/upload/s--jmKpCVw2--/c_scale,fl_progressive,q_80,w_800/1423033440558095431.jpg" alt="Butt shot">
 	</a>
 	<a class="nohover" href="http://i.kinja-img.com/gawker-media/image/upload/s--g0ERLVVQ--/c_scale,fl_progressive,q_80,w_800/1423033440720894279.jpg">
-		<img class="jpg lazy" data-original="http://i.kinja-img.com/gawker-media/image/upload/s--g0ERLVVQ--/c_scale,fl_progressive,q_80,w_800/1423033440720894279.jpg" alt="Side profile">
+		<img class="lazy" data-original="http://i.kinja-img.com/gawker-media/image/upload/s--g0ERLVVQ--/c_scale,fl_progressive,q_80,w_800/1423033440720894279.jpg" alt="Side profile">
 	</a>
 	<figcaption>It's too awesome to ever be for sale.</figcaption>
 </figure>

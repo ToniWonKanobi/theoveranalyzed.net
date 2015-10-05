@@ -6,7 +6,7 @@
 @@ Image=http://d.pr/i/E3zx+  
 
 <figure>
-	<img class="jpg" src="http://d.pr/i/E3zx+" alt="Parakeet's neat-o nav">
+	<img class="screenshot" src="http://d.pr/i/E3zx+" alt="Parakeet's neat-o nav">
 	<figcaption>Some pretty sweet CSS trickery from Patrick B. Gibson</figcaption>
 </figure>
 

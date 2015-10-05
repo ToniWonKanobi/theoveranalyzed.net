@@ -144,11 +144,11 @@ I'm bound to spend more time with Butterick's Practical Typography. There's just
 
 After publishing this post, I stumbled upon an old [review][mw] from Jason Snell, former *editorial director* for Macworld:
 
-<img class="jpg" src="http://d.pr/i/7mEj+" alt="Jason Snell em dash misuse">
+<img class="screenshot" src="http://d.pr/i/7mEj+" alt="Jason Snell em dash misuse">
 
 And check out the [latest][vox] from Ezra Klein---*editor-in-chief* for Vox:
 
-<img class="jpg" src="http://d.pr/i/12BRl+" alt="Ezra Klein em dash misuse">
+<img class="screenshot" src="http://d.pr/i/12BRl+" alt="Ezra Klein em dash misuse">
 
 Looks like I wasn't alone in my incorrect usage of en/em dashes.
 

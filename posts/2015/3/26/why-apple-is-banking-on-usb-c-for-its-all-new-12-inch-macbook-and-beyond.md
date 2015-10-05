@@ -30,7 +30,7 @@ I was checking into things this morning, and saw this:
 * 4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)
 	
 <figure>
-	<img class="jpg" src="http://d.pr/i/JI2b+" alt="well" width="63%">
+	<img class="screenshot" src="http://d.pr/i/JI2b+" alt="well" width="63%">
 	<figcaption>Well, there's your answer.</figcaption>
 </figure>
 

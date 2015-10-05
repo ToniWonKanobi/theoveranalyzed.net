@@ -5,7 +5,7 @@
 @@ Image=http://d.pr/i/1dizS+   
 
 <figure class="iphone">
-	<img class="jpg" src="http://d.pr/i/1d78E+" alt="Soft Remix is one of the earliest available WinterBoard themes for iOS 7">
+	<img class="screenshot" src="http://d.pr/i/1d78E+" alt="Soft Remix is one of the earliest available WinterBoard themes for iOS 7">
 	<figcaption>Soft Remix is one of the earliest available WinterBoard themes for iOS 7</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ It's called [Soft Remix][thebigboss], and it's great. Besides a few glaringly ug
 Even apps that have not been specifically drawn by López look great with the custom mask overlaid. 
 
 <figure class="iphone">
-	<img class="jpg" src="http://d.pr/i/1dizS+" alt="Precious">
+	<img class="screenshot" src="http://d.pr/i/1dizS+" alt="Precious">
 	<figcaption>Precious</figcaption>
 </figure>
 

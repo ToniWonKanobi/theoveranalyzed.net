@@ -23,7 +23,7 @@ Just yesterday my sister texted me regarding this very issue:
 
 <figure class="iphone">
 	<a class="nohover" href="http://d.pr/i/KBrS+">
-		<img class="jpg" src="http://d.pr/i/KBrS+" alt="Rose Gold ≠ Rose Gold">
+		<img class="screenshot" src="http://d.pr/i/KBrS+" alt="Rose Gold ≠ Rose Gold">
 	</a>
 	<figcaption>Rose Gold ≠ Rose Gold</figcaption>
 </figure>
@@ -36,7 +36,7 @@ I've mentioned it [before][theoveranalyzed]: Apple's "Space Gray" color option i
 
 Here's a picture Rene Ritchie posted to [Instagram][instagram], showing the discrepancy:
 
-<figure>
+<figure class="iphone">
 	<a class="nohover" href="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg">
 		<img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="Space Gray">
 	</a>

@@ -96,7 +96,7 @@ To figure out what container to target using Safari, first make sure you have tu
 Then, navigate to your page and then navigate to `Develop` → `Show Page Source`.[^or]
 
 <figure>
-	<img class="jpg" src="http://d.pr/i/1bkxh+" alt="Showing the page source">
+	<img class="screenshot" src="http://d.pr/i/1bkxh+" alt="Showing the page source">
 	<figcaption>Showing the page source has helped me with lots of HTML/CSS problems in the past</figcaption>
 </figure>
 

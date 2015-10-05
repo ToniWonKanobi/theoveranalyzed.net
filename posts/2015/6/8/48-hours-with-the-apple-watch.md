@@ -9,7 +9,7 @@ I did everything I was supposed to do.
 On the night of April 9th, I stayed up late like a big boy and placed my order for the Space Black Apple Watch. Despite the higher price tag, I was convinced this was the watch for me. It had that Darth Vader look, and as I mentioned [previously][theoveranalyzed], black is usually the better choice. I ordered the watch from the [Apple Store app][apple] on my iPhone, which has [traditionally][usatoday] been the most surefire way to ensure that I always had Apple's latest and greatest piece of glass on launch day. 
 
 <figure class="figleft">
-	<img class="jpg" src="http://d.pr/i/1bp1g+" alt="Sigh">
+	<img class="screenshot" src="http://d.pr/i/1bp1g+" alt="Sigh">
 	<figcaption>Still.</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ I didn't even bother including the battery complication on my watch face. I used
 I think Apple way-overshot their battery conservation measures. It feels like the display turns off the instant I look away. I wish it was just a little bit longer before auto-off. I can't blame Apple, though. Imagine all the complaints they would have gotten if the Watch died in the middle of the day like everyone feared after last year's introduction. 
 
 <figure class="figright">
-	<img class="jpg" src="http://d.pr/i/diJa+" alt="Remaining battery">
+	<img class="screenshotscreenshot" src="http://d.pr/i/diJa+" alt="Remaining battery">
 	<figcaption>Ignoring the prompts to enable Power Reserve</figcaption>
 </figure>
 

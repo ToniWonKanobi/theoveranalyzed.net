@@ -25,7 +25,7 @@ Editing in Espresso is nice due to their language highlighting. It makes reviewi
 And what is especially nice about Espresso is their default custom font, Espresso Mono. That font features well thought-out character choices. For instance, in most monospace fonts, the capital "O" character is easily mistaken for the number "0". Espresso Mono has this taken care of:
 
 <figure>
-	<img class="jpg" src="http://d.pr/i/1fh8y+" alt="0 vs O in Espresso Mono">
+	<img class="screenshot" src="http://d.pr/i/1fh8y+" alt="0 vs O in Espresso Mono">
 	<figcaption>Espresso Mono: <code>0</code> vs <code>O</code></figcaption>
 </figure>
 

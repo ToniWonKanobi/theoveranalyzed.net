@@ -92,7 +92,7 @@ I was checking into things this morning, and saw this:
 * 4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)
 	
 <figure class="iphone">
-	<img class="jpg" src="http://d.pr/i/JI2b+" alt="Well.">
+	<img class="screenshot" src="http://d.pr/i/JI2b+" alt="Well.">
 	<figcaption>Well, there's your answer.</figcaption>
 </figure>
 

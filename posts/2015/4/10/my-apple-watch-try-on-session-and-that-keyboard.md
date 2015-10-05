@@ -32,7 +32,7 @@ It seems like supply was severely constrained for both items. Was it orchestrate
 Around 12:40 last night, I made my try-on appointment for the Apple Watch.
 
 <figure class="iphone">
-	<img class="jpg" src="http://d.pr/i/ZBFa+" alt="Three tries">
+	<img class="screenshot" src="http://d.pr/i/ZBFa+" alt="Three tries">
 	<figcaption>And it only took me three tries!</figcaption>
 </figure>
 
@@ -72,9 +72,18 @@ The "rubber" band is far from *just* rubber---it is easily the biggest surprise 
 Oh, another thing about the fluoroelastomer band: it is a real pain to get on and off. The lady spent the most time with that watch taking it on/off.
 
 <figure class="inlinethree">
-	<img class="jpg lazy" data-original="http://d.pr/i/1hgPn+" alt="Step 1">
-	<img class="jpg lazy" data-original="http://d.pr/i/1eArk+" alt="Step 2">
-	<img class="jpg lazy" data-original="http://d.pr/i/1hExt+" alt="step3">
+	<a href="http://d.pr/i/1hgPn+">
+		<img class="screenshot lazy" data-original="http://d.pr/i/1hgPn+" alt="Step 1">
+			<noscript><img class="screenshot" src="http://d.pr/i/1hgPn+" alt="Step 1"></noscript>
+	</a>
+	<a href="http://d.pr/i/1eArk+">
+		<img class="screenshot lazy" data-original="http://d.pr/i/1eArk+" alt="Step 2">
+			<noscript><img class="screenshot" src="http://d.pr/i/1eArk+" alt="Step 2"></noscript>
+	</a>
+	<a href="http://d.pr/i/1hExt+">
+		<img class="screenshot lazy" data-original="http://d.pr/i/1hExt+" alt="http://d.pr/i/1hExt+">
+			<noscript><img class="screenshot" src="http://d.pr/i/1hExt+" alt="Step 3"></noscript>
+	</a>
 	<figcaption>Steps 1, 2, and 3 for getting the Sport band on</figcaption>
 </figure>
 

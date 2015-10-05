@@ -8,7 +8,7 @@
 James Dempsey, former software engineer at Apple, shared a picture showing the various top navigation bars apple.com has featured over the years. It's interesting to look at how much the navigation bar has changed, and, at the same time, how much it has stayed the same. 
 
 <figure>
-	<img class="jpg" src="http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png" alt="Apple home page navigation tabs">
+	<img class="screenshot" src="http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png" alt="Apple home page navigation tabs">
 	<figcaption>15 years of apple.com home page navigation bars</figcaption>
 </figure>
 

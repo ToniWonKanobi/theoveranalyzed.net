@@ -6,7 +6,7 @@
 
 <figure class="iphone">
 	<a class="nohover" href="http://d.pr/i/166fs+">
-		<img class="jpg" src="http://d.pr/i/166fs+" alt="Bye bye, Peace.">
+		<img class="screenshot" src="http://d.pr/i/166fs+" alt="Bye bye, Peace.">
 	</a>
 	<figcaption>I'm never on Twitter when stuff like this goes down&mdash;Marco <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good">pulled Peace</a> from the App Store less than 48 hours after is entrance</figcaption>
 </figure>
@@ -37,7 +37,8 @@ Again, at the time of Peace's removal, it was at the top of the Paid App Store c
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1fSZv+">
-		<img class ="jpg" src="http://d.pr/i/1fSZv+" alt="Content blockers aplenty.">
+		<img class ="screenshot" src="http://d.pr/i/1fSZv+" alt="Content blockers aplenty.">
+			
 	</a>
 	<figcaption>iOS 9 content blockers, aplenty.</figcaption>
 </figure>
@@ -84,10 +85,12 @@ Thanks to the intricacies of the App Store, I was fortunate to purchase Peace be
 
 <figure class="inlinetwo">
 	<a class="nohover" href="http://d.pr/i/1aYAD+">
-		<img class="jpg lazy" data-original="http://d.pr/i/1aYAD+" alt="Without Peace">
+		<img class="screenshot lazy" data-original="http://d.pr/i/1aYAD+" alt="Without Peace">
+			<noscript><img class="screenshot" src="http://d.pr/i/1aYAD+" alt="Without Peace"></noscript>
 	</a>
 	<a class="nohover" href="http://d.pr/i/dJpP+">
-		<img class="jpg lazy" data-original="http://d.pr/i/dJpP+" alt="With Peace">
+		<img class="screenshot lazy" data-original="http://d.pr/i/dJpP+" alt="With Peace">
+			<noscript><img class="screenshot" src="http://d.pr/i/dJpP+" alt="With Peace"></noscript>
 	</a>
 	<figcaption>Of course when I tried to demonstrate the difference Peace makes, The Verge's current ad is a relatively skinny one <span style="font-style:normal">😐</span></figcaption>
 </figure>

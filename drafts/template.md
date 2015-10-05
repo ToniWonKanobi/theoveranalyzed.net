@@ -30,25 +30,31 @@ Italics
 
 <!-- Two inline images -->
 <figure class="inlinetwo">
-	<a class="nohover" href="imagelink">
-		<img class="jpg lazy" data-original="imagelink" alt="text">
+	<a href="link">
+		<img class="screenshot lazy" data-original="src" alt="text">
+			<noscript><img class="screenshot" src="src" alt="text"></noscript>
 	</a>
-	<a class="nohover" href="imagelink">
-		<img class="jpg lazy" data-original="imagelink" alt="text">
+	<a href="link">
+		<img class="screenshot lazy" data-original="src" alt="text">
+			<noscript><img class="screenshot" src="src" alt="text"></noscript>
 	</a>
+
 	<figcaption>caption</figcaption>
 </figure>
 
 <!-- Three inline images -->
 <figure class="inlinethree">
-	<a class="nohover" href="imagelink">
-		<img class="jpg lazy" data-original="imagelink" alt="text">
+	<a href="link">
+		<img class="screenshot lazy" data-original="src" alt="text">
+			<noscript><img class="screenshot" src="src" alt="text"></noscript>
 	</a>
-	<a class="nohover" href="imagelink">
-		<img class="jpg lazy" data-original="imagelink" alt="text">
+	<a href="link">
+		<img class="screenshot lazy" data-original="src" alt="text">
+			<noscript><img class="screenshot" src="src" alt="text"></noscript>
 	</a>
-	<a class="nohover" href="imagelink">
-		<img class="jpg lazy" data-original="imagelink" alt="text">
+	<a href="link">
+		<img class="screenshot lazy" data-original="src" alt="text">
+			<noscript><img class="screenshot" src="src" alt="text"></noscript>
 	</a>
 	<figcaption>caption</figcaption>
 </figure>
