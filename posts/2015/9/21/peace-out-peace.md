@@ -38,7 +38,6 @@ Again, at the time of Peace's removal, it was at the top of the Paid App Store c
 <figure>
 	<a class="nohover" href="http://d.pr/i/1fSZv+">
 		<img class ="screenshot" src="http://d.pr/i/1fSZv+" alt="Content blockers aplenty.">
-			
 	</a>
 	<figcaption>iOS 9 content blockers, aplenty.</figcaption>
 </figure>
