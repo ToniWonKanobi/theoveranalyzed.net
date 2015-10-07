@@ -367,7 +367,7 @@ ul.postTags {
 }
 
 li.postTags {
-	width: 250px
+	width: 150px
 }
 li.postTags:hover { color: #2e8eef }
 
@@ -380,6 +380,8 @@ li.postTags:hover ul.postTags {
 	font-weight: 700;
 	line-height: 1.4
 }
+
+.postHeader h1 { margin-bottom: 0.1em }
 
 a.postTitle { color: #545454 }
 
