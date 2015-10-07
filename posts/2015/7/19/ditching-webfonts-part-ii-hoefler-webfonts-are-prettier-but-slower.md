@@ -76,7 +76,7 @@ Compared to TypeKit, things weren't looking good for Cloud.typography.
 
 # A Chance Meeting
 
-A couple of days ago, a patient of mine[^hippa] ended up being one of those typical web/design/code/developer/entrepreneur-types. We started talking non-dental things like iOS and OS X, and after the conversation included the typical Apple blogosphere heavyweights like [Gruber][daringfireball] and [Marco][marco], we talked a bit about webfonts.[^hy] 
+A couple of days ago, a patient of mine[^hippa] ended up being one of those typical web design . developer / entrapaneur types. We started talking non-dental things like iOS and OS X, and after the conversation included the typical Apple blogosphere heavyweights like [Gruber][daringfireball] and [Marco][marco], we talked a bit about webfonts.[^hy] 
 
 After the "exam" was completed, I went back to my office. And like any [good] aspiring web developer, I snuck a peak at his website's source code. He was using [Google Fonts][wikipedia].
 

@@ -571,7 +571,8 @@ a.footnote-backref:hover {
 
 #nav ul {
 	list-style: none;
-	padding-left: 0
+	padding-left: 0;
+	margin-left: 0
 }
 
 #nav li { margin-bottom: auto }
