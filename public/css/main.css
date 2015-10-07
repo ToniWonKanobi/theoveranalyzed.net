@@ -655,11 +655,13 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 #copyright { font-size: 0.8em }
 
 
+
+
 /* Mobile Styles
 ============================================ */
 
 /* iPad */
-@media (min-width: 768px) and (max-width: 1024) {
+@media (max-width: 800px) {
 	hr.articleDivider {
 		width: 100vw;
 		margin: 3em auto 3em calc((100vw - 620px) / -2);
