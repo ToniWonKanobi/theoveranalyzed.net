@@ -563,7 +563,7 @@ hr.articleDivider {
 ============================================ */
 
 .homepage .paginationFooter {
-	margin-bottom: 7em;
+	height: 1em;
 	display: block;
 	width: 100%;
 	font-weight: 400;
@@ -659,7 +659,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 ============================================ */
 
 /* iPad */
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 1024) {
 	hr.articleDivider {
 		width: 100vw;
 		margin: 3em auto 3em calc((100vw - 620px) / -2);
