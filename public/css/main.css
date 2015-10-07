@@ -1,56 +1,26 @@
 /* Colors
-body: #545454
-meta/quote: #9e9e9e
-masthead/links: #3f70a2
-links hover: #2e8eef
-hr's: #ddd
-pre: #eee
-update div's: rgba(63, 110, 162, 0.11)
+============================================ */
+
+/*
+banner:    #3f70a2
+body:      #545454
+meta:      #9e9e9e
+links:     #3f70a2
+hover:     #2e8eef
+quote:     #9e9e9e
+hr:        #ddd
+pre:       #eee
+update:    rgba(63, 110, 162, 0.11)
 */
 
-/* "Top banner" concept cribbed from Marco Arment: http://www.marco.org/main12.css */
-#masthead {
-	width: 100%;
-	height: 160px;
-	margin-bottom: -160px;
-	background-color: #3f70a2
-}
 
-.content .header,
-.content .header a {
-	margin: auto;
-	text-align: center;
-	text-decoration: none;
-	color: #fff;
-	border: 0;
-	border-width: 0;
-	-webkit-transition: none;
-	-moz-transition: none;
-	transition: none
-}
+/* Fonts
+============================================ */
 
-.content .header #siteTitle img {
-	width: 80%;
-	margin: 1.85em auto -1.5em auto
-}
+/* Font philosophies from
+Matthew Butterick's Practical Typography
+http://practicaltypography.com/point-size.html */
 
-.content .header #siteByline {
-	font-size: 0.95em;
-	margin: 0.75em auto
-}
-
-.content {
-	text-align: left;
-	max-width: 620px;
-	margin: auto
-}
-
-.main {
-	margin: 6em auto 6em auto;
-	min-height: 60vh 	/* Sets minimum page height for short pages like `/404` or `/about` */
-}
-
-/* Refer to Matthew Butterick's Practical Typography for font size philosophies: http://practicaltypography.com/point-size.html */
 body {
 	font-size: 13pt;
 	margin: 0; /* Prevents white space padding */
@@ -97,12 +67,12 @@ a.nohover:hover {
 	border: none
 }
 
-.sup {
+sup {
 	vertical-align: super;
 	font-size: 50%
 }
 
-.sub {
+sub {
 	vertical-align: sub;
 	font-size: 50%
 }
@@ -114,70 +84,139 @@ blockquote {
 	border-left: 5px solid #dbdbdb
 }
 
-img { max-width: 100% }
 
-/* Makes the white background on jpgs and shadow-less screenshots less offensive */
-img.screenshot {
-	border: 2px solid #ddd;
-	border-radius: 0.2em
+
+/* Main Content
+============================================ */
+
+/* Banner cribbed from Marco Arment
+(http://www.marco.org/main12.css) */
+#masthead {
+	width: 100%;
+	height: 160px;
+	margin-bottom: -160px;
+	background-color: #3f70a2
 }
 
-figure {
+.content .header,
+.content .header a {
+	margin: auto;
 	text-align: center;
-	margin: 1em auto
+	text-decoration: none;
+	color: #fff;
+	border: 0;
+	border-width: 0;
+	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none
 }
 
-figcaption {
-	margin: 0.5em auto auto 25%;
-	font-style: italic;
-	font-size: 0.8em;
+.content .header #siteTitle img {
+	width: 80%;
+	margin: 1.85em auto -1.5em auto
+}
+
+.content .header #siteByline {
+	font-size: 0.95em;
+	margin: 0.75em auto
+}
+
+.content {
+	text-align: left;
+	max-width: 620px;
+	margin: auto
+}
+
+.main {
+	margin: 6em auto 6em auto;
+	min-height: 40vh /* Sets minimum page height for short pages */
+}
+
+.postHeader h1,
+.postHeaderLinked h2 {
+	font-weight: 700;
+	line-height: 1.4
+}
+
+.postHeader h1 { margin-bottom: 0.1em }
+
+a.postTitle { color: #545454 }
+
+a.postTitleLinked  { color: #3f70a2 }
+
+a.postTitle:hover,
+a.postTitleLinked:hover { color: #2e8eef }
+
+a.postTitleLinked:hover + span.linkArrow { color: #2e8eef }
+
+span.linkArrow {
 	color: #9e9e9e;
-	width: 50%;
-	text-align: left
+	vertical-align: -4%;
+	-webkit-transition: all .2s ease-in;
+	-moz-transition: all .2s ease-in;
+	transition: all .2s ease-in
 }
 
-figure.inlinetwo img {
-	width: 47%;
-	margin-left: 0.25em;
-	margin-right: 0.25em;
+.postSubtitle {
+	color: #9e9e9e;
+	font-size: 0.9em;
+	margin-bottom: -0.25em
 }
 
-figure.inlinethree img {
-	width: 30%;
-	margin-left: 0.25em;
-	margin-right: 0.25em;
+.postSubtitle a { color: #9e9e9e }
+
+.postSubtitle a:hover { color: #2e8eef }
+
+ul.postSubtitleItems {
+	padding: 0;
+	margin: 0.5em auto 0.25em auto
 }
 
-figure.wide {
-	width: 1100px;
-	margin-left: -240px
+ul.postSubtitleItems li {
+	display: inline;
+	margin-right: 1em
 }
 
-figure.wide figcaption {
-	margin-left: 10%;
-	width: 75%
+ul.postSubtitleItems + ul {
+	padding: 0;
+	margin: 0.25em auto 0.5em auto;
+	list-style: none
 }
 
-/* Floated images */
-figure.figleft,
-figure.figright {
-	margin: 0.5em 2em 1em 0.5em;
-	width: 50%;
-	display: inline-block;
-	float: left
+ul.postTags {
+	padding-left: 0;
+	margin-left: 0;
+	list-style: none;
+	display: none
 }
 
-figure.figright {
-	float: right;
-	margin: 0.5em 0.5em 1em 2em
+li.postTags { width: 150px }
+
+li.postTags:hover { color: #2e8eef }
+
+li.postTags:hover ul.postTags { display: block }
+
+figure:first-child { margin-top: 1.25em }
+
+.topstory {
+	margin: 2em auto 2em auto;
+	font-style: italic
 }
 
-figure.iphone,
-figure.applewatch {
-	width: 300px
+/* Removes italics on code blocks */
+.topstory code { font-style: normal }
+
+hr {
+	width: 60%;
+	margin: 2.5em auto 2.5em auto;
+	border-radius: 1px;
+	border: 1px solid #ddd
 }
 
-div.fluid-width-video-wrapper { margin-top: 1em }
+hr.long {
+	width: 100%;
+	margin: 1.7em auto 1.7em auto
+}
 
 pre {
 	font-family: Hack, Monaco, monospace;
@@ -209,16 +248,87 @@ pre code {
 	overflow: auto;
 }
 
-/* Fixes `markdown-it` `.homepage` fenced code block funkiness */
+/* Fixes `markdown-it`
+`.homepage` fenced code block funkiness */
 .homepage pre code { white-space: pre-line }
 
-audio { width: 100% }
+/* Fixes iframe margin weirdness */
+.fluid-width-video-wrapper { margin-top: 1em }
 
-video { width: 100% }
+audio, video { width: 100% }
 
-ul,
-ol,
-dl {
+
+/* Images
+============================================ */
+
+img { max-width: 100% }
+
+/* Makes the white background on jpgs
+and shadow-less screenshots less offensive */
+img.screenshot {
+	border: 2px solid #ddd;
+	border-radius: 0.2em
+}
+
+figure {
+	text-align: center;
+	margin: 1em auto
+}
+
+figure.inlinetwo img {
+	width: 47%;
+	margin-left: 0.25em;
+	margin-right: 0.25em;
+}
+
+figure.inlinethree img {
+	width: 30%;
+	margin-left: 0.25em;
+	margin-right: 0.25em;
+}
+
+figure.figleft,
+figure.figright {
+	margin: 0.5em 2em 1em 0.5em;
+	width: 50%;
+	display: inline-block;
+	float: left
+}
+
+figure.figright {
+	float: right;
+	margin: 0.5em 0.5em 1em 2em
+}
+
+figure.iphone,
+figure.applewatch {
+	width: 300px
+}
+
+figure.wide {
+	width: 1000px;
+	margin-left: -190px
+}
+
+figcaption {
+	margin: 0.5em auto auto 25%;
+	font-style: italic;
+	font-size: 0.8em;
+	color: #9e9e9e;
+	width: 50%;
+	text-align: left
+}
+
+figure.wide figcaption {
+	margin-left: 10%;
+	width: 75%
+}
+
+
+/* Lists & Tables
+============================================ */
+
+ul, ol, dl {
 	padding-left: 1em;
 	margin: 1em 0 1em .5em
 }
@@ -228,11 +338,13 @@ li { margin-bottom: 0.75em }
 table.sortable thead { cursor: default }
 
 /* Keeps wide tables from overwhelming the layout on mobile */
-div.table { overflow-x: scroll }
+.table { overflow-x: scroll }
 
-div.table figcaption { margin: -1em auto 1em auto }
+.table figcaption { margin: -1em auto 1em auto }
 
-/* Table styles cribbed from Byword's Marked CSS: "http://bywordapp.com/extras/index.html" */
+/* Table styles cribbed from Byword's Marked CSS
+http://bywordapp.com/extras/index.html */
+
 table {
 	margin-left: auto;
 	margin-right: auto;
@@ -260,17 +372,10 @@ table th code {
 	border-radius: 3px
 }
 
-hr {
-	width: 60%;
-	margin: 2.5em auto 2.5em auto;
-	border-radius: 1px;
-	border: 1px solid #ddd
-}
 
-hr.long {
-	width: 100%;
-	margin: 1.7em auto 1.7em auto
-}
+/* Font Awesome
+http://fontawesome.io
+============================================ */
 
 i.fa.fa-clock-o.fa-fw {
 	vertical-align: 4%;
@@ -292,6 +397,11 @@ i.fa.fa-tag.fa-fw {
 	vertical-align: 12%;
 	font-size: 0.7em
 }
+
+
+/* Header Anchors
+https://www.npmjs.com/package/markdown-it-anchor
+============================================ */
 
 .header-anchor {
 	color: #3f70a2;
@@ -323,82 +433,52 @@ a.header-anchor:hover {
 	padding: 0px
 }
 
-a.postTitleLinked:hover + span.linkArrow { color: #2e8eef }
 
-.postSubtitle {
-	color: #9e9e9e;
-	font-size: 0.9em;
-	margin-bottom: -0.25em
+/* Custom Divisions
+============================================ */
+
+.takehome {
+	color: #3f70a2;
+	font-weight: 600;
+	font-size: 1.2em;
+	line-height: 1.5;
+	font-style: italic;
+	text-transform: uppercase;
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #ddd
 }
 
-span.linkArrow {
-	color: #9e9e9e;
-	vertical-align: -4%;
-	-webkit-transition: all .2s ease-in;
-	-moz-transition: all .2s ease-in;
-	transition: all .2s ease-in
+.takehomeRight {
+	color: #3f70a2;
+	float: right;
+	margin: 0.5em 0.5em 1em 2em;
+	font-weight: 600;
+	font-size: 1.2em;
+	line-height: 1.5;
+	font-style: italic;
+	text-transform: uppercase;
+	width: 30%;
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #ddd
 }
 
-.postSubtitle a { color: #9e9e9e }
-
-.postSubtitle a:hover { color: #2e8eef }
-
-ul.postSubtitleItems {
-	padding: 0;
-	margin: 0.7em auto 0.25em auto
+.takehomeLeft {
+	color: #3f70a2;
+	float: left;
+	margin: 0.5em 2em 1em 0.5em;
+	font-weight: 600;
+	font-size: 1.2em;
+	line-height: 1.5;
+	font-style: italic;
+	text-transform: uppercase;
+	width: 30%;
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #ddd
 }
 
-ul.postSubtitleItems li {
-	display: inline;
-	margin-right: 1em
-}
-
-ul.postSubtitleItems + ul {
-	padding: 0;
-	margin: 0.25em auto 0.5em auto;
-	list-style: none
-}
-
-ul.postTags {
-	padding-left: 0;
-	margin-left: 0;
-	list-style: none;
-	display: none
-}
-
-li.postTags {
-	width: 150px
-}
-li.postTags:hover { color: #2e8eef }
-
-li.postTags:hover ul.postTags {
-	display: block
-}
-
-.postHeader h1,
-.postHeaderLinked h2 {
-	font-weight: 700;
-	line-height: 1.4
-}
-
-.postHeader h1 { margin-bottom: 0.1em }
-
-a.postTitle { color: #545454 }
-
-a.postTitleLinked  { color: #3f70a2 }
-
-a.postTitle:hover,
-a.postTitleLinked:hover { color: #2e8eef }
-
-figure:first-child { margin-top: 1.25em }
-
-.topstory {
-	margin: 2em auto 2em auto;
-	font-style: italic
-}
-
-/* Removes italics on code blocks */
-.topstory code { font-style: normal }
+.takehome p,
+.takehomeRight p,
+.takehomeLeft p { margin: 0.5em auto 0.5em auto }
 
 .update {
 	margin-top: 2em;
@@ -421,9 +501,7 @@ figure:first-child { margin-top: 1.25em }
 	border-radius: 3px
 }
 
-.update pre code {
-	border: none;
-}
+.update pre code { border: none }
 
 .updateTime {
 	color: #9e9e9e;
@@ -431,48 +509,10 @@ figure:first-child { margin-top: 1.25em }
 	margin-top: 0.5em
 }
 
-.takehome {
-	color: #3f70a2;
-	font-weight: 600;
-	font-size: 1.2em;
-	line-height: 1.5;
-	font-style: italic;
-	text-transform: uppercase;
-	border-top: 2px solid #ddd;
-	border-bottom: 2px solid #ddd
-}
 
-.takehomeRight {
-	color: #3f70a2;
-	float: right;
-	margin: 1em 0.3em 1em 1.2em;
-	font-weight: 600;
-	font-size: 1.2em;
-	line-height: 1.5;
-	font-style: italic;
-	text-transform: uppercase;
-	width: 30%;
-	border-top: 2px solid #ddd;
-	border-bottom: 2px solid #ddd
-}
-
-.takehomeLeft {
-	color: #3f70a2;
-	float: left;
-	margin: 1em 1.2em 1em 0.3em;
-	font-weight: 600;
-	font-size: 1.2em;
-	line-height: 1.5;
-	font-style: italic;
-	text-transform: uppercase;
-	width: 30%;
-	border-top: 2px solid #ddd;
-	border-bottom: 2px solid #ddd;
-}
-
-.takehome p,
-.takehomeRight p,
-.takehomeLeft p { margin: 0.5em auto 0.5em auto }
+/* Footnotes
+https://www.npmjs.com/package/markdown-it-footnote
+============================================ */
 
 /* Disabled until CommonMark / `markdown-it-footnote` gets fixed */
 .main hr.footnotes-sep {
@@ -507,11 +547,10 @@ a.footnote-backref:hover {
 	border-radius: none
 }
 
-.post .main {
-	margin-bottom: 8em;
-}
 
-.homepage .day .articleDivider {
+.post .main { margin-bottom: 8em }
+
+hr.articleDivider {
 	width: 80vw;
 	margin: 5em auto 5em calc((80vw - 620px) / -2);
 	background-color: #ddd;
@@ -519,8 +558,12 @@ a.footnote-backref:hover {
 	border-radius: 2px
 }
 
+
+/* Pagination
+============================================ */
+
 .homepage .paginationFooter {
-	margin-bottom: 11em;
+	margin-bottom: 7em;
 	display: block;
 	width: 100%;
 	font-weight: 400;
@@ -536,6 +579,10 @@ a.footnote-backref:hover {
 	display: inline;
 	float: left
 }
+
+
+/* Bottom Navigation
+============================================ */
 
 #bottomAd {
 	border-top: 1px solid #ddd;
@@ -572,12 +619,13 @@ a.footnote-backref:hover {
 #nav ul {
 	list-style: none;
 	padding-left: 0;
-	margin-left: 0
+	margin-left:0
 }
 
 #nav li { margin-bottom: auto }
 
-/* Search box cribbed from Hardik Pandya: http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
+/* Search box cribbed from Hardik Pandya
+http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 #search {
 	margin: 1em auto auto 0;
 	width: 250px;
@@ -606,25 +654,23 @@ a.footnote-backref:hover {
 
 #copyright { font-size: 0.8em }
 
-/* Sets figure.wide pics */
-@media all and (max-width: 1200px) {
-	figure.wide {
-		max-width: 100vw;
-		margin-left: calc((100vw - 620px) / -2)
-	}
-}
+
+/* Mobile Styles
+============================================ */
 
 /* iPad */
-@media only screen
-  and (min-device-width: 768px)
-  and (max-device-width: 1024px)
-  and (orientation: portrait) {
-	  .homepage .day .articleDivider {
-		  width: 100vw;
-		  margin: 3em auto 3em calc((100vw - 620px) / -2);
-		  border-radius: 0;
-		  border: none
-  	}
+@media (min-width: 768px) {
+	hr.articleDivider {
+		width: 100vw;
+		margin: 3em auto 3em calc((100vw - 620px) / -2);
+		border-radius: 0;
+		border: none
+	}
+
+	figure.wide {
+		width: 100vw;
+		margin-left: calc((100vw - 620px) / -2)
+	}
 }
 
 /* iPhone 6 and 6 Plus */
@@ -668,14 +714,19 @@ a.footnote-backref:hover {
 		margin-left: calc((100vw - 300px) / -2)
 	}
 
-	.homepage .day .articleDivider {
+	.takehomeRight,
+	.takehomeLeft {
+		float: none;
+		margin: auto;
+		width: 100%
+	}
+
+	hr.articleDivider {
 		width: 100vw;
 		margin: 3em auto 3em calc((100vw - 300px) / -2);
 		border-radius: 0;
 		border: none
 	}
-
-	.homepage .paginationFooter { margin-bottom: 7em }
 }
 
 /* Smaller iPhones */
@@ -699,7 +750,7 @@ a.footnote-backref:hover {
 		margin-left: calc((100vw - 250px) / -2)
 	}
 
-	.homepage .day .articleDivider {
+	hr.articleDivider {
 		width: 100vw;
 		margin: 3em auto 3em calc((100vw - 250px) / -2);
 		border-radius: 0;
