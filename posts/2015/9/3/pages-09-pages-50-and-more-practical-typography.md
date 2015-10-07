@@ -45,7 +45,7 @@ Ideal Sans comes with several alternate versions of characters, but as you can s
 	</a>
 	<a class="nohover" href="http://d.pr/i/14Yiy+">
 		<img class="screenshot lazy" data-original="http://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType">
-			<noscript><img class="screenshot" src="http://d.pr/i/14Yiy" alt="Pages 5.5.3 OpenType"></noscript>
+			<noscript><img class="screenshot" src="http://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType"></noscript>
 	</a>
 	<figcaption>Pages 4.4.3 with OpenType support and Pages 5.5.3 without much OpenType support at all</figcaption>
 </figure>
@@ -61,9 +61,7 @@ Indeed, even the Pages.app application icon has now incorporated the Yosemite an
 	
 Louie Mantia agrees:
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> sure but this one suits Yosemite better.</p>&mdash; Louie (@mantia) <a href="https://twitter.com/mantia/status/638444776191209472">August 31, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-***
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> sure but this one suits Yosemite better.</p>&mdash; Louie (@mantia) <a href="https://twitter.com/mantia/status/638444776191209472">August 31, 2015</a></blockquote>
 
 It seems like Pages was never sure whether it wanted to be a layout/design application, or *just* a word processor. Version 5.0 of Pages solidified its place in the latter camp. And there's nothing particularly heinous about that, unless you're one of those prosumers not savvy enough for Illustrator, but too smart for Word. If you're one of those people, the new Pages is not what it used to be. I feel sorry for you, because I *am* one of you.
 

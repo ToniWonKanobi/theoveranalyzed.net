@@ -4,7 +4,7 @@
 @@ Description=Beats Music graps comedian Ellen for a Super Bowl advertisement.  
 @@ Tags=iOS, business, Apple, apps, App Store, music, Ellen DeGeneres, Beats Music, Rdio  
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p>Beats Music taps Ellen DeGeneres (and bears) for Super Bowl spot <a href="http://t.co/Vv06AbK905">http://t.co/Vv06AbK905</a></p>&mdash; The Verge (@verge) <a href="https://twitter.com/verge/status/430133943942144000">February 3, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote lang="en"><p>Beats Music taps Ellen DeGeneres (and bears) for Super Bowl spot <a href="http://t.co/Vv06AbK905">http://t.co/Vv06AbK905</a></p>&mdash; The Verge (@verge) <a href="https://twitter.com/verge/status/430133943942144000">February 3, 2014</a></blockquote>
 
 I have been using the new [Beats Music][apple] app for about a week. It had some [troubles initially][digitaltrends] at launch but overall it takes an interesting [turn away from the status quo][macstories] that is [Spotify][spotify] and [Rdio][rdio]. 
 

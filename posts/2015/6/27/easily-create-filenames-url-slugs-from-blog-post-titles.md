@@ -17,13 +17,15 @@ Easily Create Filenames & URL Slugs From Blog Post Titles
 It isn't the longest I've ever dreamt up, but it certainly isn't the shortest, either. If I wanted to create a URL-friendly filename, it would take *several* steps. 
 
 1. First, I would select and copy the [title's text][d]
-2. Next, `Cmd + S` to invoke the [save dialog box][d 2]
+2. Next, `Command-S` to invoke the [save dialog box][d 2]
 3. Then I paste the previously selected text into the [Save As field][d 3]:
 4. After that, I start manually changing the uppercase letters to lowercase, removing spaces and replacing them with hyphens, and deleting URL-unfriendly characters like `&`:
 
 <figure class="inlinetwo">
 	<img class="lazy" data-original="http://d.pr/i/15iqM+" alt="Starting the process">
+		<noscript><img class="screenshot" src="http://d.pr/i/15iqM+" alt="Starting the process"></noscript>
 	<img class="lazy" data-original="http://d.pr/i/184Ox+" alt="This takes forever">
+		<noscript><img class="screenshot" src="http://d.pr/i/184Ox+" alt="This takes forever"></noscript>
 	<figcaption style="font-style: normal;">😑</figcaption>
 </figure>
 
@@ -33,7 +35,7 @@ There had to be a better way.
 
 I tried a few browser searches, but nothing came up. I decided it would be a good idea to ask the king of scripting (at least amongst my Twitter follow's):
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> I wrote a Python function that does that as part of a blog-posting script. You could build a script/service from it.</p>&mdash; Dr. Drang (@drdrang) <a href="https://twitter.com/drdrang/status/614814467923120129">June 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> I wrote a Python function that does that as part of a blog-posting script. You could build a script/service from it.</p>&mdash; Dr. Drang (@drdrang) <a href="https://twitter.com/drdrang/status/614814467923120129">June 27, 2015</a></blockquote>
 
 The [good][leancrew] [doctor][twitter] was kind enough to send me an email with the contents of a Python script. 
 
@@ -114,7 +116,7 @@ Anthonys-MacBook:Unidecode-0.04.18 Anthony$
 
 Brett Terpstra's suggestion ended up being the winner:
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328">June 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328">June 27, 2015</a></blockquote>
 
 Ah. [Slugify][github]. I went back and double-checked Dr. Drang's script. It was basically leveraging Slugify.
 
@@ -215,15 +217,17 @@ I also assigned a keyboard shortcut to the service, so that I don't have to invo
 
 <figure>
 	<img src="http://d.pr/i/1lBKU+" alt="Keyboard shortcut for slugify.workflow">
-	<figcaption><code>Cmd + Opt + Shift + R</code></figcaption>
+	<figcaption><code>Option-Shift-Command-R</code></figcaption>
 </figure>
 
 This couldn't get any easier.
 
 <figure class="inlinetwo>
 	<img class="lazy" data-original="http://d.pr/i/10cCw+" alt="Select the text">
+		<noscript><img class="screenshot" src="http://d.pr/i/10cCw+" alt="Select the text"></noscript>
 	<img class="lazy" data-original="http://d.pr/i/11dN3+" alt="And...done.">
-	<figcaption style="font-style: normal;">😑 → 😄</figcaption>
+		<noscript><img class="screenshot" src="http://d.pr/i/11dN3+" alt="And...done."></noscript>
+	<figcaption style="font-style: normal;">😑 &#10142; 😄</figcaption>
 </figure>
 
 # Download

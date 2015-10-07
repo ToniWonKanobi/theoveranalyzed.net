@@ -7,7 +7,7 @@ On the way to work yesterday, I listened to the [latest episode][exponent] of Ex
 
 Their focus was Net Neutrality. And while both Ben and James are ardent supporters of regulation in this regard, Ben brought up an important rebuttal to the typical 'tech-focused' Net Neutrality argument.[^nna]
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p><a href="https://twitter.com/marcoarment">@marcoarment</a> Soooo does <a href="https://twitter.com/OvercastFM">@OvercastFM</a> have support for native <a href="https://twitter.com/twitter">@twitter</a> cards yet? I tried copying a link but no dice :/ <a href="http://t.co/1WPZqYqq3I">http://t.co/1WPZqYqq3I</a></p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/572771760392675328">March 3, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote lang="en"><p><a href="https://twitter.com/marcoarment">@marcoarment</a> Soooo does <a href="https://twitter.com/OvercastFM">@OvercastFM</a> have support for native <a href="https://twitter.com/twitter">@twitter</a> cards yet? I tried copying a link but no dice :/ <a href="http://t.co/1WPZqYqq3I">http://t.co/1WPZqYqq3I</a></p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/572771760392675328">March 3, 2015</a></blockquote>
 
 In a nutshell, Ben argues that instead of blindly supporting Net Neutrality, which cannot be 100% good, we might do better to fully acknowledge and come to terms with the ramifications of our desire to regulate the internet.
 
@@ -32,7 +32,7 @@ Here's Nilay Patel and Chris Plant discussing Net Neutrality's big development l
 ## Update: Netflix is a Hypocrite
 <p class="updateTime"><time datetime="2015-03-04">March 4, 2015</time></p>
 
-<blockquote><p>So everyone has discovered that Netflix is a net neutrality hypocrite: <a href="http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl">http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl</a>&#10;&#10;Told you so a year ago <a href="https://stratechery.com/2014/netflix-net-neutrality/">https://stratechery.com/2014/netflix-net-neutrality/</a></p>&mdash; Ben Thompson (@monkbent) <a href="https://twitter.com/monkbent/status/573141062073520128">March 4, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p>So everyone has discovered that Netflix is a net neutrality hypocrite: <a href="http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl">http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl</a>&#10;&#10;Told you so a year ago <a href="https://stratechery.com/2014/netflix-net-neutrality/">https://stratechery.com/2014/netflix-net-neutrality/</a></p>&mdash; Ben Thompson (@monkbent) <a href="https://twitter.com/monkbent/status/573141062073520128">March 4, 2015</a></blockquote>
 
 </div>
 

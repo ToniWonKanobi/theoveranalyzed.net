@@ -4,10 +4,10 @@
 @@ Tags=watches, Apple Watch, history  
 
 A tweet by Marco Arment caught my attention this morning:
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p>Quick, it’s 10:09, take all of your WatchKit screenshots!</p>&mdash; Marco Arment (@marcoarment) <a href="https://twitter.com/marcoarment/status/570601403678367744">February 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote lang="en"><p>Quick, it’s 10:09, take all of your WatchKit screenshots!</p>&mdash; Marco Arment (@marcoarment) <a href="https://twitter.com/marcoarment/status/570601403678367744">February 25, 2015</a></blockquote>
 
 I wasn't sure what he was referring to, and when I looked at the @replies, I found this nugget from Daniel Ernst:
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p><a href="https://twitter.com/marcoarment">@marcoarment</a> <a href="http://t.co/NpzmrwQnPV">http://t.co/NpzmrwQnPV</a></p>&mdash; Daniel Ernst (@danielhsqr) <a href="https://twitter.com/danielhsqr/status/570604129225199616">February 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote lang="en"><p><a href="https://twitter.com/marcoarment">@marcoarment</a> <a href="http://t.co/NpzmrwQnPV">http://t.co/NpzmrwQnPV</a></p>&mdash; Daniel Ernst (@danielhsqr) <a href="https://twitter.com/danielhsqr/status/570604129225199616">February 25, 2015</a></blockquote>
 
 That tweet linked to a 2008 New York Times [piece][nytimes] by Andrew Adam Newman.
 

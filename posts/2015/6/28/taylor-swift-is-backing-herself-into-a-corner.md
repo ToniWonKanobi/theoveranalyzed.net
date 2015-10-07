@@ -8,16 +8,14 @@
 By now you're familiar with the story:
 
 1. Last Sunday, Taylor Swift went to tumblr to explain why she was withholding her latest effort, [1989][wikipedia]), from the soon-to-be-launched Apple Music streaming service
-	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">To Apple, Love Taylor &#10;<a href="http://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor">http://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor</a></p>&mdash; Taylor Swift (@taylorswift13) <a href="https://twitter.com/taylorswift13/status/612575467787407360">June 21, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<blockquote lang="en"><p lang="en" dir="ltr">To Apple, Love Taylor &#10;<a href="http://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor">http://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor</a></p>&mdash; Taylor Swift (@taylorswift13) <a href="https://twitter.com/taylorswift13/status/612575467787407360">June 21, 2015</a></blockquote>
 2. Some 17 hours later, Eddy Cue, Apple's [Senior Vice President of Internet Software and Services][apple], effectively backtracked on Apple's [then] current policy of not compensating artists[^la] during Apple Music's 3-month trial period
-	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We hear you <a href="https://twitter.com/taylorswift13">@taylorswift13</a> and indie artists. Love, Apple</p>&mdash; Eddy Cue (@cue) <a href="https://twitter.com/cue/status/612824947342229504">June 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/AppleMusic?src=hash">#AppleMusic</a> will pay artist for streaming, even during customer’s free trial period</p>&mdash; Eddy Cue (@cue) <a href="https://twitter.com/cue/status/612824775220555776">June 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<blockquote lang="en"><p lang="en" dir="ltr">We hear you <a href="https://twitter.com/taylorswift13">@taylorswift13</a> and indie artists. Love, Apple</p>&mdash; Eddy Cue (@cue) <a href="https://twitter.com/cue/status/612824947342229504">June 22, 2015</a></blockquote>
+	<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/AppleMusic?src=hash">#AppleMusic</a> will pay artist for streaming, even during customer’s free trial period</p>&mdash; Eddy Cue (@cue) <a href="https://twitter.com/cue/status/612824775220555776">June 22, 2015</a></blockquote>
 3. Still Sunday, Swift took to Twitter to acknowledge Apple's change of heart
-	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I am elated and relieved. Thank you for your words of support today. They listened to us.</p>&mdash; Taylor Swift (@taylorswift13) <a href="https://twitter.com/taylorswift13/status/612841136311390209">June 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<blockquote lang="en"><p lang="en" dir="ltr">I am elated and relieved. Thank you for your words of support today. They listened to us.</p>&mdash; Taylor Swift (@taylorswift13) <a href="https://twitter.com/taylorswift13/status/612841136311390209">June 22, 2015</a></blockquote>
 4. And finally on Wednesday of last week, three days after all the Sunday hubbub, Swift too declared her change of heart
-	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">After the events of this week, I&#39;ve decided to put 1989 on Apple Music...and happily so.</p>&mdash; Taylor Swift (@taylorswift13) <a href="https://twitter.com/taylorswift13/status/614092816940167168">June 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-	
-***
+	<blockquote lang="en"><p lang="en" dir="ltr">After the events of this week, I&#39;ve decided to put 1989 on Apple Music...and happily so.</p>&mdash; Taylor Swift (@taylorswift13) <a href="https://twitter.com/taylorswift13/status/614092816940167168">June 25, 2015</a></blockquote>
 
 Quite the tumultuous week for both Taylor Swift *and* Apple. 
 

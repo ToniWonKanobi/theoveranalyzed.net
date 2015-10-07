@@ -215,7 +215,7 @@ But as I quickly found out, Pixelmator's (Vectormator's) vector graphic support 
 
 Alas, no: 
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> Vector file formats? No, they are not supported.</p>&mdash; Pixelmator Team (@pixelmator) <a href="https://twitter.com/pixelmator/status/565187997940064256">February 10, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> Vector file formats? No, they are not supported.</p>&mdash; Pixelmator Team (@pixelmator) <a href="https://twitter.com/pixelmator/status/565187997940064256">February 10, 2015</a></blockquote>
 
 There was no way to properly export an SVG from Pixelmator. Instead of being an all-out graphic design fork from Pixelmator, Vectormator merely enhanced photos for Pixelmator. 
 
@@ -325,11 +325,7 @@ iPhone:
 
 # Conclusion
 
-As far as I can tell, I have reached the limits of what one man can do for a given Squarespace template.
-
-I recently listened to an old [episode][5by5] of [Build and Analyze][5by6], in which Marco talked about [Second Crack][github 3].
-
-I then scoured over Casey Liss's blog to find this [post][caseyliss] discussing Camel, his blogging engine similar to Second Crack.
+As far as I can tell, I have reached the limits of what one man can do for a given Squarespace template. I recently listened to an old [episode][5by5] of [Build and Analyze][5by6], in which Marco talked about [Second Crack][github 3]. I then scoured over Casey Liss's blog to find this [post][caseyliss] discussing Camel, his blogging engine similar to Second Crack.
 
 I want the dual RSS feeds of Camel, and the easy bookmarklets that Second Crack offers.
 

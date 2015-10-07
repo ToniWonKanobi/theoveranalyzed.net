@@ -19,7 +19,7 @@ However, Anderson's post brought with it a bit of bad news, I'm afraid:
 
 It seems Anderton updated his post after I tweeted him this:
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> Because if a movie is released in IMAX 3D, which THE FORCE AWAKENS will be, it’s usually not available in IMAX 2D.</p>&mdash; Ethan Anderton (@Ethan_Anderton) <a href="https://twitter.com/Ethan_Anderton/status/636592401767919616">August 26, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> Because if a movie is released in IMAX 3D, which THE FORCE AWAKENS will be, it’s usually not available in IMAX 2D.</p>&mdash; Ethan Anderton (@Ethan_Anderton) <a href="https://twitter.com/Ethan_Anderton/status/636592401767919616">August 26, 2015</a></blockquote>
 
 I didn't know that this was the norm for IMAX releases, although I suppose it makes sense. If a film is to be projected on IMAX 3D, and if there are only so many IMAX theaters across the country, it would not be cost effective to project both a 3D and a 2D version of the same film. Still, sadface.
 

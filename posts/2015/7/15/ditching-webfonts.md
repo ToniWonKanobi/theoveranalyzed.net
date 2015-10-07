@@ -12,7 +12,7 @@ This piece is largely a self-response to an earlier post I wrote on the subject 
 
 <figure>
 	<img src="http://d.pr/i/138Zv+" alt="Waiting.">
-	<figcaption>That's 457.1ms too long for me.</figcaption>
+	<figcaption>That's 457.1 ms too long for me.</figcaption>
 </figure>
 
 # Becoming Ideal
@@ -61,13 +61,13 @@ Could I fix this?
 
 Interestingly, while I was examining TheOverAnalyzed's page source and realizing that the Hoefler webfont was killing my page loading, an important conversation was happening on Twitter. 
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/benthompson">@benthompson</a> No one should ever do anything that makes a website slow.</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/620966969953636353">July 14, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/benthompson">@benthompson</a> No one should ever do anything that makes a website slow.</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/620966969953636353">July 14, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/marcoarment">@marcoarment</a> <a href="https://twitter.com/benthompson">@benthompson</a> That’s one reason I’ve procrastinated on switching to webfonts at DF. (Bigger reason: inertia.)</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/621074509676826624">July 14, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/marcoarment">@marcoarment</a> <a href="https://twitter.com/benthompson">@benthompson</a> That’s one reason I’ve procrastinated on switching to webfonts at DF. (Bigger reason: inertia.)</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/621074509676826624">July 14, 2015</a></blockquote>
 
 Moreover, it seems Craig Hockenberry has experienced (or at least has knowledge of) webfont latency for himself:
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jimray">@jimray</a> <a href="https://twitter.com/gruber">@gruber</a> <a href="https://twitter.com/marcoarment">@marcoarment</a> <a href="https://twitter.com/benthompson">@benthompson</a> They can have high latency depending on where they’re hosted.</p>&mdash; Craig Hockenberry (@chockenberry) <a href="https://twitter.com/chockenberry/status/621119545227345924">July 15, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jimray">@jimray</a> <a href="https://twitter.com/gruber">@gruber</a> <a href="https://twitter.com/marcoarment">@marcoarment</a> <a href="https://twitter.com/benthompson">@benthompson</a> They can have high latency depending on where they’re hosted.</p>&mdash; Craig Hockenberry (@chockenberry) <a href="https://twitter.com/chockenberry/status/621119545227345924">July 15, 2015</a></blockquote>
 
 If Ideal Sans was the problem, I wondered how fast TheOverAnalyzed would load without it? 
 
