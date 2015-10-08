@@ -135,10 +135,10 @@ blockquote {
 .postHeader h1,
 .postHeaderLinked h2 {
 	font-weight: 700;
-	line-height: 1.4
+	line-height: 1.5
 }
 
-.postHeader h1 { margin-bottom: 0.1em }
+.postHeader h1 { margin-bottom: -0.25em }
 
 a.postTitle { color: #545454 }
 
@@ -169,7 +169,7 @@ span.linkArrow {
 
 ul.postSubtitleItems {
 	padding: 0;
-	margin: 0.5em auto 0.25em auto
+	margin: 0.75em auto 0.25em auto
 }
 
 ul.postSubtitleItems li {
@@ -261,7 +261,10 @@ audio, video { width: 100% }
 /* Images
 ============================================ */
 
-img { max-width: 100% }
+img {
+	max-width: 100%;
+	vertical-align: middle
+}
 
 /* Makes the white background on jpgs
 and shadow-less screenshots less offensive */

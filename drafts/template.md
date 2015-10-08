@@ -30,11 +30,11 @@ Italics
 
 <!-- Two inline images -->
 <figure class="inlinetwo">
-	<a href="link">
+	<a class="nohover" href="link">
 		<img class="screenshot lazy" data-original="src" alt="text">
 			<noscript><img class="screenshot" src="src" alt="text"></noscript>
 	</a>
-	<a href="link">
+	<a class="nohover" href="link">
 		<img class="screenshot lazy" data-original="src" alt="text">
 			<noscript><img class="screenshot" src="src" alt="text"></noscript>
 	</a>
@@ -44,15 +44,15 @@ Italics
 
 <!-- Three inline images -->
 <figure class="inlinethree">
-	<a href="link">
+	<a class="nohover" href="link">
 		<img class="screenshot lazy" data-original="src" alt="text">
 			<noscript><img class="screenshot" src="src" alt="text"></noscript>
 	</a>
-	<a href="link">
+	<a class="nohover" href="link">
 		<img class="screenshot lazy" data-original="src" alt="text">
 			<noscript><img class="screenshot" src="src" alt="text"></noscript>
 	</a>
-	<a href="link">
+	<a class="nohover" href="link">
 		<img class="screenshot lazy" data-original="src" alt="text">
 			<noscript><img class="screenshot" src="src" alt="text"></noscript>
 	</a>
