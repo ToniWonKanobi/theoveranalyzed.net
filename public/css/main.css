@@ -26,7 +26,7 @@ body {
 	margin: 0; /* Prevents white space padding */
 	color: #545454;
 	line-height: 1.6;
-	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Avenir", sans-serif;
+	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "-apple-system", "Helvetica Neue", sans-serif;
 	font-weight: 300
 }
 
@@ -661,7 +661,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 ============================================ */
 
 /* iPad */
-@media (max-width: 800px) {
+@media (max-width: 768px) {
 	hr.articleDivider {
 		width: 100vw;
 		margin: 3em auto 3em calc((100vw - 620px) / -2);

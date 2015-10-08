@@ -1,6 +1,5 @@
-@@ Title=Why Jack Dorsey Is Ready to Save Twitter  
-@@ Date=2015-10-08 10:52  
-@@ Link=http://recode.net/2015/10/02/why-jack-dorsey-is-ready-to-save-twitter/  
+@@ Title=Can Jack Dorsey Save Twitter?  
+@@ Date=2015-10-08 11:07    
 @@ Description=The comparison is so overused that it might as well be a cliche at this point. Still, is Jack Dorsey the next Steve Jobs?  
 @@ Tags=Twitter, business, industry, Steve Jobs, Jack Dorsey  
 @@ Image=https://recodetech.files.wordpress.com/2015/10/20150929-jack-dorsey-twitter-second-act.jpg
@@ -18,7 +17,7 @@ Oh, the irony.
 
 What's so telling about Twitter's present situation is just that: it is precisely *because* even I'd have trouble explaining Twitter to my friends, that the social network is what it is (or, more importantly, what it isn't).
 
-When Jason Del Rey and Kurt Wagner of Re/code published this story, they couldn't have known that three days later, [Twitter would announce Dorsey as the full CEO][nytimes], dropping his interim moniker.
+When Jason Del Rey and Kurt Wagner of Re/code published [their piece][rc], they couldn't have known that three days later, [Twitter would announce Dorsey as the full CEO][nytimes], dropping his interim moniker.
 
 I won't quote their whole piece, but there are a few takeaways that really hit the nail on the head.
 
@@ -71,6 +70,7 @@ Twitter is *the* real-time social networks. There's no arguing with that, and th
 
 [google]: https://books.google.com/books?id=ygwDHny6vpkC&pg=PT144&lpg=PT144&dq=steve+jobs+ceo+editor+quote&source=bl&ots=SV0M4Wd45N&sig=nbOujKjyf-dRvEpTMnCwgVZDwxA&hl=en&sa=X&ved=0CFQQ6AEwC2oVChMIupyHyZWkyAIVyeeACh3_7Au0#v=onepage&q=steve%20jobs%20ceo%20editor%20quote&f=false
 [nytimes]: http://www.nytimes.com/video/multimedia/100000003958874/twitter-makes-jack-dorsey-permanent-ceo.html
+[rc]: http://recode.net/2015/10/02/why-jack-dorsey-is-ready-to-save-twitter/
 [stratechery]: https://stratechery.com/2015/twitters-moment/
 [stratechery 2]: https://stratechery.com/2015/the-facebook-epoch/
 [stratechery 3]: https://stratechery.com/2015/twitter-might/
