@@ -516,6 +516,8 @@ a.header-anchor:hover {
 	margin-top: 0.5em
 }
 
+.bigfoot-footnote__content a { word-break: break-word }
+
 
 /* Footnotes
 https://www.npmjs.com/package/markdown-it-footnote
