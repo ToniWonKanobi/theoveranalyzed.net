@@ -39,11 +39,11 @@ The @mention tax is especially egregious, because it punishes people for having 
 Consider this conversation from a few days ago:
 
 <figure class="inlinetwo">
-	<a href="http://d.pr/i/11xqM+">
+	<a class="nohover" href="http://d.pr/i/11xqM+">
 		<img class="screenshot lazy" data-original="http://d.pr/i/11xqM+" alt="Conversation">
 			<noscript><img class="screenshot" src="http://d.pr/i/11xqM" alt="Conversation"></noscript>
 	</a>
-	<a href="http://d.pr/i/8LjF+">
+	<a class="nohover" href="http://d.pr/i/8LjF+">
 		<img class="screenshot lazy" data-original="http://d.pr/i/8LjF+" alt="Reply">
 			<noscript><img class="screenshot" src="http://d.pr/i/8LjF+" alt="Reply"></noscript>
 	</a>

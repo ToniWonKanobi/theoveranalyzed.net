@@ -69,12 +69,12 @@ a.nohover:hover {
 
 sup {
 	vertical-align: super;
-	font-size: 50%
+	font-size: 0.7em
 }
 
 sub {
 	vertical-align: sub;
-	font-size: 50%
+	font-size: 0.7em
 }
 
 blockquote {
@@ -169,7 +169,7 @@ span.linkArrow {
 
 ul.postSubtitleItems {
 	padding: 0;
-	margin: 0.75em auto 0.25em auto
+	margin: 0.5em auto 0.25em auto
 }
 
 ul.postSubtitleItems li {
@@ -314,7 +314,7 @@ figure.wide {
 }
 
 figcaption {
-	margin: 0.5em auto auto 25%;
+	margin: 1em auto auto 25%;
 	font-style: italic;
 	font-size: 0.8em;
 	color: #9e9e9e;
@@ -333,7 +333,7 @@ figure.wide figcaption {
 
 ul, ol, dl {
 	padding-left: 1em;
-	margin: 1em 0 1em .5em
+	margin: 1em 0 1em 0.5em
 }
 
 li { margin-bottom: 0.75em }
@@ -344,6 +344,10 @@ table.sortable thead { cursor: default }
 .table { overflow-x: scroll }
 
 .table figcaption { margin: -1em auto 1em auto }
+
+.table-of-contents a:hover {
+	border-bottom: none
+}
 
 /* Table styles cribbed from Byword's Marked CSS
 http://bywordapp.com/extras/index.html */
@@ -594,7 +598,10 @@ hr.articleDivider {
 	height: 130px
 }
 
-#bottomAd figcaption { text-align: center }
+#bottomAd figure figcaption {
+	text-align: center;
+	margin-top: 0
+}
 
 #bottomAd img {
 	width: 150px;
