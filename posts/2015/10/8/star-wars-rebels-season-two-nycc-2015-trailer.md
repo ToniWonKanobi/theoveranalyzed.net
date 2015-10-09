@@ -3,7 +3,7 @@
 @@ Link=https://www.youtube.com/watch?v=YfeWNZqVYsE  
 @@ Description=Star Wars Rebels Season 2 airs October 14 at 9:30 PM.  
 @@ Tags=Star Wars, Star Wars Rebels, TV, pop culture  
-@@ Image=http://vignette3.wikia.nocookie.net/starwars/images/c/cd/SiegeOfLothalPoster.png  
+@@ Image=http://d.pr/i/10CKN+  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfeWNZqVYsE" frameborder="0" allowfullscreen></iframe>
 
