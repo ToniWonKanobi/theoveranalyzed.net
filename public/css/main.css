@@ -707,7 +707,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 
 	.content .header #siteTitle img {
 		width: 100%;
-		margin-top: 1.25em
+		margin: 1.25em auto -1.25em auto
 	}
 
 	.content .header #siteByline { margin: 1em auto }
@@ -750,6 +750,8 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 		height: 110px;
 		margin-bottom: -110px
 	}
+
+	.content .header #siteTitle img { margin-bottom: -1em }
 
 	.content {
 		width: 250px;
