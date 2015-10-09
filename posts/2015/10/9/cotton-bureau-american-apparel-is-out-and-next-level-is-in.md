@@ -34,6 +34,8 @@ Having said that, let me address my previous concerns:
 
 	As fond as I am of American Apparel, I can imagine my feelings weren't shared by Cotton Bureau. American Apparel has been all over the news lately, and the writing on the wall has been that on their current trajectory, American Apparel as we know it was not going to be around forever. A few days ago, that premonition [came to fruition](http://www.nytimes.com/2015/10/06/business/american-apparel-files-for-bankruptcy.html?_r=0).
 	
+	**Again, everything is okay. Cotton Bureau is no longer tied to American Apparel for future endeavors. American Apparel can go by the wayside, while Cotton Bureau continues to flourish.**
+	
 *** 
 
 At the end of the day, I can't see any of this mattering that much. True, these are the early days of Cotton Bureau + Next Level, and maybe all the Next Level t-shirts in the pipeline will be terrible? Anything could happen. 
