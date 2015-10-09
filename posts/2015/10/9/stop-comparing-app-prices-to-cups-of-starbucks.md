@@ -9,7 +9,7 @@
 	<a class="nohover" href="https://s3-us-west-2.amazonaws.com/assets.www.wenatcheeworld.com/media/img/blog-photo/2013/08/14/d34999b3d9-starbucks-coffee.jpg">
 		<img src="https://s3-us-west-2.amazonaws.com/assets.www.wenatcheeworld.com/media/img/blog-photo/2013/08/14/d34999b3d9-starbucks-coffee.jpg" alt="Regular coffee">
 	</a>
-	<figcaption>Who am I kidding? <em>That's</em> not what coffee looks like, right? It looks like <a href="@@SiteRoot@@/2015/10/10/stop-comparing-app-prices-to-cups-of-starbucks#now-this-is-coffee">this.</a></figcaption>
+	<figcaption>Who am I kidding? <em>That's</em> not what coffee looks like, right? It looks like <a href="#now-this-is-coffee">this.</a></figcaption>
 </figure>
 
 Marco Arment's popular podcast client, Overcast, was [re-released today](http://www.marco.org/2015/10/09/overcast2) in 2.0 guise. 
