@@ -205,12 +205,7 @@ li.postTags {
 	transition: all .2s ease-in-out
 }
 
-li.postTags:hover {
-	color: #3f70a2;
-	-webkit-transition: all .2s ease-in-out;
-	-moz-transition: all .2s ease-in-out;
-	transition: all .2s ease-in-out
-}
+li.postTags:hover { color: #3f70a2 }
 
 li.postTags:hover ul.postTags { display: block }
 

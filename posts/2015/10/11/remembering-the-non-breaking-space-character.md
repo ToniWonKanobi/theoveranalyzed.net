@@ -1,12 +1,12 @@
-@@ Title=Remembering the Non-breaking Space Character  
+@@ Title=Remembering the Non-breaking Space Character (&npsp;) 
 @@ Date=2015-10-11 09:25  
 @@ Description=Don't forget about HTML's "no space" space, useful for weird situations where `white-space: nowrap` isn't suitable.  
 @@ Tags=HTML, CSS, blogging, web, web design  
 @@ Image=http://d.pr/i/1igkh+  
 
-<figure>
+<figure class="iphone">
 	<a class="nohover" href="http://d.pr/i/1igkh+">
-		<img src="http://d.pr/i/1igkh+" alt="Non-breaking space entity, oh how I forgot about you.">
+		<img class="screenshot" src="http://d.pr/i/1igkh+" alt="Non-breaking space entity, oh how I forgot about you.">
 	</a>
 	<figcaption>This stupid arrow has irked me for months.</figcaption>
 </figure>
