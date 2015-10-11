@@ -51,13 +51,13 @@ If I decide that I don't like the artwork iTunes has for a particular album, I c
 
 Although Dodson's utility can access plenty of other media types, only iTunes music purchases are [DRM][wikipedia]-free. iTunes Movies are *not* DRM-free, so I can't really use Dodson's utility for movies and TV Shows. Still, his resource is invaluable, and it has a permanent place in my Bookmarks Bar in Safari for that very reason.
 
-[^goodfellas]: [GoodFellas (1990)][apple]
+[^goodfellas]: Consider [GoodFellas (1990)][apple].
 
-	When did this terrible artwork
+	When did this current [terrible] artwork
 	
 	![][mzstatic]
 	
-	Replace this much better artwork?
+	Replace this much better version?
 	
 	![][impawards]
 	
