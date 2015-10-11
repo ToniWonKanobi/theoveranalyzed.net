@@ -6,14 +6,14 @@
 
 <figure>
 	<a class="nohover" href="http://d.pr/i/1igkh+">
-		<img src="asdf" alt="Non-breaking space entity, oh how I forgot about you.">
+		<img src="http://d.pr/i/1igkh+" alt="Non-breaking space entity, oh how I forgot about you.">
 	</a>
 	<figcaption>This stupid arrow has irked me for months.</figcaption>
 </figure>
 
-A few nights ago, inspired by a [critique of my site's design](https://twitter.com/MTello1984/status/650875060069249024), I finally fixed my `.content` being too wide on smaller-screened iPhones, as well as some other aspects of my poorer small-screen layout.[^mobile]
+A few nights ago, inspired by a [critique of my site's design][twitter], I finally fixed my `.content` being too wide on smaller-screened iPhones, as well as some other aspects of my poorer small-screen layout.[^mobile]
 
-And as expected, this took me down the rabbit hole of tinkering. While I was previewing the site in [Safari's Responsive Design Mode](http://d.pr/i/197dP+), I was reminded by one of those things that has irritated me for months, but I never took the time to fix: 
+And as expected, this took me down the rabbit hole of tinkering. While I was previewing the site in [Safari's Responsive Design Mode][d], I was reminded by one of those things that has irritated me for months, but I never took the time to fix: 
 
 <div class="takehome">
 
@@ -25,7 +25,7 @@ You know, that arrow symbol `→` that so[^marco] often[^liss] signifies[^brooks
 
 Occasionally, I would visit my site check something, only to find that the arrow in a linked post title had wrapped to a new line *by itself*. Ugh. Terrible.
 
-I wasn't sure if this was caused by an omission on my part, so I checked [Marco.org](http://marco.org), [Liss is More](http://www.caseyliss.com), and a couple other sites. They all exhibited the same arrow-wrap-wonkiness.[^brbad] I asked [each website owner](https://twitter.com/ToniWonKanobi/status/650916959379320832) [on Twitter](https://twitter.com/ToniWonKanobi/status/650917173292986368), and at least [one of them didn't know how to fix it](https://twitter.com/caseyliss/status/650980852348887040).
+I wasn't sure if this was caused by an omission on my part, so I checked [Marco.org][marco], [Liss is More][caseyliss], and a couple other sites. They all exhibited the same arrow-wrap-wonkiness.[^brbad] I asked [each website owner][twitter 2] [on Twitter][twitter 3], and at least [one of them didn't know how to fix it][twitter 4].
 
 My thought was the CSS property `white-space` to `nowrap`, like so:
 
@@ -35,11 +35,11 @@ white-space: nowrap
 
 A good idea, no doubt, but that would have fixed one problem only to create another. The arrow `→` would no longer wrap at all, which could cause it to overwhelm the horizontal container. (That's even worse than my arrow-wrapping-to-a-line-by-itself problem.)
 
-Thankfully, I follow a few CSS experts. And none other than Mr. [CSS-Tricks](https://css-tricks.com) himself---Chris Coyer---had the solution:
+Thankfully, I follow a few CSS experts. And none other than Mr. [CSS-Tricks][css-tricks] himself---Chris Coyer---had the solution:
 
 <blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> &amp;nbsp; between Arrow and last word</p>&mdash; Chris Coyier (@chriscoyier) <a href="https://twitter.com/chriscoyier/status/651002224525443072">October 5, 2015</a></blockquote>
 
-Ahh. `&nbsp;`---the HTML entity for "[non-breaking space character](https://en.wikipedia.org/wiki/Non-breaking_space)." What is that, exactly? It's just what it sounds like. It is a space character, except unlike regular spaces, which HTML will truncate, the `&nbsp;` character **will not break**.
+Ahh. `&nbsp;`---the HTML entity for "[non-breaking space character][wikipedia]." What is that, exactly? It's just what it sounds like. It is a space character, except unlike regular spaces, which HTML will truncate, the `&nbsp;` character **will not break**.
 
 In other words, if you have a string of text that would look stupid broken, such as proper nouns that contain a number modifier (e.g., `Tweetbot 4`), you can use `&nbsp;` to prevent the word and the number from ending up on separate lines.
 
@@ -77,27 +77,27 @@ And that's all there is to it.
 
 ***
 
-[Re-]Discovering `&nbsp;` reminded me of that poignant moment shared between [Gandalf](https://en.wikipedia.org/wiki/Gandalf) and [Frodo](https://en.wikipedia.org/wiki/Frodo_Baggins) at the beginning of [The Fellowship of The Ring](https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring):  
-In it, [Gandalf says to Frodo](http://www.imdb.com/title/tt0120737/quotes?item=qt0445987):
+[Re-]Discovering `&nbsp;` reminded me of that poignant moment shared between [Gandalf][wikipedia 2] and [Frodo][wikipedia 3] at the beginning of [The Fellowship of The Ring][wikipedia 4]:  
+In it, [Gandalf says to Frodo][imdb]:
 >My dear Frodo. Hobbits really are amazing creatures. You can learn all there is to know about their ways in a month, and yet after a hundred years they can still surprise you.
 
 HTML is my "hobbits"---just when I think I have a handle on it, something like a non-breaking space character pops up and surprises me. Shows what I know.
 
-[^512]: [512 Pixels](http://512pixels.net):
+[^512]: [512 Pixels][512pixels]:
 
-	![](http://d.pr/i/16hmF+)
-[^brbad]: [The Brooks Review](https://brooksreview.net/):
+	![][d 2]
+[^brbad]: [The Brooks Review][brooksreview]:
 
-	![](http://d.pr/i/150Nv+)
-[^brooks]: [The Brooks Review](https://brooksreview.net/):
+	![][d 3]
+[^brooks]: [The Brooks Review][brooksreview]:
 
-	![](http://d.pr/i/iFQM+)
-[^liss]: [Liss is More](http://caseyliss.com):
+	![][d 4]
+[^liss]: [Liss is More][caseyliss 2]:
 
-	![](http://d.pr/i/18VCM+)
-[^marco]: [Marco.org](http://marco.org):
+	![][d 5]
+[^marco]: [Marco.org][marco]:
 
-	![](http://d.pr/i/134ms+)
+	![][d 6]
 [^mobile]: Here's how I handled mobile styles previously:
 
 	1. I defined an `@media` query to target all screen widths up to 736px, which is the longest dimension of an iPhone (it's the length of an iPhone 6 Plus display @3x asset sizes). 
@@ -117,6 +117,30 @@ HTML is my "hobbits"---just when I think I have a handle on it, something like a
 	```
 	
 	2. I set `.content` `width: 250px` and `font-size: 0.9em`, as well as adjusted some `100vw` stuffs
-[^sc]: [Six Colors](http://sixcolors.com):
+[^sc]: [Six Colors][sixcolors]:
 
-	![](http://d.pr/i/1a2ML+)
+	![][d 7]
+
+[512pixels]: http://512pixels.net
+[brooksreview]: https://brooksreview.net/
+[caseyliss]: http://www.caseyliss.com
+[caseyliss 2]: http://caseyliss.com
+[css-tricks]: https://css-tricks.com
+[d]: http://d.pr/i/197dP+
+[d 2]: http://d.pr/i/16hmF+
+[d 3]: http://d.pr/i/150Nv+
+[d 4]: http://d.pr/i/iFQM+
+[d 5]: http://d.pr/i/18VCM+
+[d 6]: http://d.pr/i/134ms+
+[d 7]: http://d.pr/i/1a2ML+
+[imdb]: http://www.imdb.com/title/tt0120737/quotes?item=qt0445987
+[marco]: http://marco.org
+[sixcolors]: http://sixcolors.com
+[twitter]: https://twitter.com/MTello1984/status/650875060069249024
+[twitter 2]: https://twitter.com/ToniWonKanobi/status/650916959379320832
+[twitter 3]: https://twitter.com/ToniWonKanobi/status/650917173292986368
+[twitter 4]: https://twitter.com/caseyliss/status/650980852348887040
+[wikipedia]: https://en.wikipedia.org/wiki/Non-breaking_space
+[wikipedia 2]: https://en.wikipedia.org/wiki/Gandalf
+[wikipedia 3]: https://en.wikipedia.org/wiki/Frodo_Baggins
+[wikipedia 4]: https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring
