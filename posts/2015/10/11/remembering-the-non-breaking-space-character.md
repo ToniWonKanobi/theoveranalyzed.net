@@ -1,5 +1,5 @@
 @@ Title=Remembering the Non-breaking Space Character  
-@@ Date=2015-10-11 09:24  
+@@ Date=2015-10-11 09:25  
 @@ Description=Don't forget about HTML's "no space" space, useful for weird situations where `white-space: nowrap` isn't suitable.  
 @@ Tags=HTML, CSS, blogging, web, web design  
 @@ Image=http://d.pr/i/1igkh+  
