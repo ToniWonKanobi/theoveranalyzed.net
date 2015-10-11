@@ -199,7 +199,7 @@ ul.postTags {
 }
 
 li.postTags {
-	width: 150px;
+	width: 200px;
 	-webkit-transition: all .2s ease-in-out;
 	-moz-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out
