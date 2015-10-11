@@ -65,7 +65,6 @@ Although Dodson's utility can access plenty of other media types, only iTunes mu
 [^money]: Once I started actually paying for movies, I had to think twice when contemplating a new addition to my collection. When I was pirating movies, I wouldn't hesitate to download even the most terrible B-movie, just to have it. But [some of those][apple 2] B-movies cost $15 on the iTunes Store. While fifteen bucks isn't exactly a large sum of money, it's certainly not chump change either---it's a long way towards a meal out to eat with Allison! (And I love going out to eat [🍴][instagram])
 [^well]: In doing so, I also morally reconciled myself with keeping a few pirated medias. For instance, some iTunes versions of the media I wanted was less than desirable. So what did I do? I bought the less than desirable versions, deleted them, and [pirated the version I wanted][theoveranalyzed]. I feel okay with that.
 	
-
 [apple]: https://itunes.apple.com/us/movie/goodfellas/id275463151?at=1l3vx9s
 [apple 2]: https://itunes.apple.com/us/movie/the-fugitive/id282551004?at=1l3vx9s
 [bitbucket]: https://bitbucket.org/galad87/subler/wiki/Home
