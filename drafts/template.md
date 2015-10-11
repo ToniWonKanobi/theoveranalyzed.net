@@ -38,7 +38,6 @@ Italics
 		<img class="screenshot lazy" data-original="src" alt="text">
 			<noscript><img class="screenshot" src="src" alt="text"></noscript>
 	</a>
-
 	<figcaption>caption</figcaption>
 </figure>
 
