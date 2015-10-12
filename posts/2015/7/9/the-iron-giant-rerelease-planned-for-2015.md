@@ -54,6 +54,19 @@ If you've seen the first movie, you'll know that the ending left plenty of room 
 
 </div>
 
+<div class="update">
+
+## Update: iTunes Version Automatically Includes Signature Edition
+<p class="updateTime"><time datetime="2015-10-12">October 12, 2015</time></p>
+
+[Todd Vaziri][tv] of Industrial Light & Magic fame tweeted some good news this morning. It looks like iTunes automatically includes the Signature Edition of the movie now.
+
+<blockquote lang="en"><p lang="en" dir="ltr">If you previously purchased THE IRON GIANT from iTunes, you’ve been automatically ‘upgraded’ for free. <a href="https://twitter.com/tvaziri/status/653593764611538945/photo/1">pic.twitter.com/h9oCu7Dj0M</a></p>&mdash; Todd Vaziri (@tvaziri) <a href="https://twitter.com/tvaziri/status/653593764611538945">October 12, 2015</a></blockquote>
+
+I noticed a few weeks back that the [iTunes artwork][ita] for the movie changed, but I didn't even think to check if iTunes included the new version.
+
+</div>
+
 [^yes]: 🎉
 
 [bb]: https://en.wikipedia.org/wiki/Brad_Bird
@@ -61,10 +74,13 @@ If you've seen the first movie, you'll know that the ending left plenty of room 
 [cc]: https://en.wikipedia.org/wiki/The_Iron_Giant#Accolades
 [ds]: https://www.facebook.com/VinDiesel/videos/10153682936018313/
 [ig]: https://itunes.apple.com/us/movie/the-iron-giant/id284447916?at=1l3vx9s
+[ita]: http://www.theoveranalyzed.net/2015/10/11/finding-itunes-artwork
+[jv]: https://twitter.com/tvaziri/status/653593764611538945
 [is]: https://en.wikipedia.org/wiki/Inside_Out_(2015_film)
 [sf]: http://www.slashfilm.com/iron-giant-rerelease
 [sf2]: http://www.slashfilm.com/iron-giant-trailer/
 [sw]: /2015/5/14/this-is-the-best-version-of-star-wars-and-watching-it-is-a-crime
 [ts2]: https://en.wikipedia.org/wiki/Toy_Story_2
+[tv]: http://en.memory-alpha.wikia.com/wiki/Todd_Vaziri
 [vd]: http://www.slashfilm.com/vin-diesel-teases-the-iron-giant-2/
 [ym]: https://www.yahoo.com/movies/watch-the-trailer-for-remastered-iron-giant-127660292562.html
