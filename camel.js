@@ -1263,7 +1263,7 @@ app.get('/:year/:month/:day', function (request, response) {
 				var anyFound = false;
 				day.articles.each(function (article) {
 					anyFound = true;
-					html += '<li><a href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
+					html += '<li><a class="yearMonthDay" href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
 				});
 				html += "</ul>";
 

@@ -71,6 +71,21 @@ a {
 	border-bottom: none
 }
 
+a.yearMonthDay {
+	border-bottom: 2px solid #eee;
+	padding-bottom: 1px;
+	-webkit-transition: background .2s ease-in-out;
+	-moz-transition: background .2s ease-in-out;
+	transition: background .2s ease-in-out
+}
+
+a.yearMonthDay:hover {
+	color: #3f70a2;
+	background: #eee;
+	border-radius: 2px;
+	border-bottom: none
+}
+
 sup {
 	vertical-align: super;
 	font-size: 0.7em
