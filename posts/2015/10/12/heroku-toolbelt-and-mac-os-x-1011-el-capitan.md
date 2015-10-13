@@ -8,7 +8,7 @@
 	<a class="nohover" href="http://d.pr/i/1bik6+">
 		<img class="screenshot" src="http://d.pr/i/1bik6+" alt="Sigh, Terminal, sigh.">
 	</a>
-	<figcaption>El Cap---oh, how you frustrated me on this one.</figcaption>
+	<figcaption>El Cap&mdash;oh, how you frustrated me on this one.</figcaption>
 </figure>
 
 If you use the [Heroku CLI][heroku], and you tried to re-install the [Heroku Toolbelt][heroku 2] because you messed something up in your project directory,[^me] you might have noticed Terminal throwing `bash` errors:
