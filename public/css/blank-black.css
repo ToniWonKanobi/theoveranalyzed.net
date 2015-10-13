@@ -5,9 +5,7 @@ body.blankBlack {
 	color: #bbb
 }
 
-body.blankBlack #main {
-	margin: 4em auto
-}
+body.blankBlack #main { margin-top: 4em }
 
 body.blankBlack h1 {
 	margin: 1em;
@@ -50,6 +48,7 @@ body.blankBlack #footer { display: none }
 /* iPhone 6 and 6 Plus */
 @media (max-width: 736px) {
 
+	body.blankBlack #main { margin-top: 2em }
 
 	body.blankBlack video {
 		width: 100vw;
@@ -60,6 +59,7 @@ body.blankBlack #footer { display: none }
 /* Smaller iPhones */
 @media (max-width: 320px) {
 
+	body.blankBlack #main { margin-top: 2em }
 
 	body.blankBlack video {
 		width: 100vw;
