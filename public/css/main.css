@@ -481,9 +481,10 @@ a.header-anchor:hover {
 /* Custom Divisions and Classes
 ============================================ */
 
-/* For pages with just a single video or image */
+/* For black blank pages for media */
 body.black {
-	background: #000
+	background: #000;
+	color: #bbb
 }
 
 body.black .main {
@@ -492,9 +493,30 @@ body.black .main {
 
 body.black .main h1 {
 	margin-bottom: 1em;
-	font-size: 2em;
-	color: #bbb;
+	font-size: 1.5em;
 	text-align: center
+}
+
+body.black .blackInfo {
+	opacity: 0.2;
+	margin-top:10em;
+	margin-bottom:1em;
+	text-align: center;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+body.black .blackInfo:hover {
+	opacity: 1
+}
+
+body.black a,
+body.black a:hover {
+	color: #fff;
+	border-bottom: none;
+	padding-bottom: none;
+	background: none
 }
 
 body.black video {
@@ -510,7 +532,7 @@ body.black #footer { display: none }
 
 /* This is for Valentine's Day specials for Allison */
 body.specialDelivery {
-	background-image: url(http://d.pr/i/11ITs+);
+	background-image: url(http://d.pr/i/11ITs);
 	background-size: 100vw;
 	background-repeat: no-repeat;
 }
