@@ -72,7 +72,9 @@ And that's all there is to it.
 		<img class="screenshot lazy" data-original="http://d.pr/i/163ur+" alt="With &nbsp;">
 			<noscript><img class="screenshot" src="http://d.pr/i/163ur+" alt="With &nbsp;"></noscript>
 	</a>
-	<figcaption>With/without the non-breaking space character</figcaption>
+	<figcaption><p>Here's a post header using a regular space character between the title and the arrow, and the same header using the non-breaking space character instead.</p>
+<p>Which one looks better to you?</p>
+	</figcaption>
 </figure>
 
 ***

@@ -478,8 +478,48 @@ a.header-anchor:hover {
 }
 
 
-/* Custom Divisions
+/* Custom Divisions and Classes
 ============================================ */
+
+/* For pages with just a single video or image */
+body.black {
+	background: #000
+}
+
+body.black .main {
+	margin: 0;
+}
+
+body.black .main h1 {
+	margin-bottom: 1em;
+	font-size: 2em;
+	color: #bbb;
+	text-align: center
+}
+
+body.black video {
+	width: 80vw;
+	margin-left: calc((80vw - 620px) / -2)
+}
+
+body.black #masthead,
+body.black #siteTitle,
+body.black #siteByline,
+body.black #bottomAd,
+body.black #footer { display: none }
+
+/* This is for Valentine's Day specials for Allison */
+body.specialDelivery {
+	background-image: url(http://d.pr/i/11ITs+);
+	background-size: 100vw;
+	background-repeat: no-repeat;
+}
+
+body.specialDelivery #masthead,
+body.specialDelivery #siteTitle,
+body.specialDelivery #siteByline,
+body.specialDelivery #bottomAd,
+body.specialDelivery #footer { display: none }
 
 .takehome {
 	color: #3f70a2;
@@ -709,6 +749,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 
 /* iPad */
 @media (max-width: 768px) {
+
 	hr.articleDivider {
 		width: 100vw;
 		margin: 3em auto 3em calc((100vw - 620px) / -2);
@@ -724,6 +765,11 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 
 /* iPhone 6 and 6 Plus */
 @media (max-width: 736px) {
+
+	body.black video {
+		width: 100vw;
+		margin-left: calc((100vw - 300px) / -2)
+	}
 
 	#masthead {
 		height: 130px;
@@ -780,6 +826,11 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 
 /* Smaller iPhones */
 @media (max-width: 320px) {
+
+	body.black video {
+		width: 100vw;
+		margin-left: calc((100vw - 250px) / -2)
+	}
 
 	#masthead {
 		height: 110px;

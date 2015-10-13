@@ -3,13 +3,15 @@
 @@ Description=Happy Valentine's Day Allison.  
 @@ Tags=Anthony, Allison  
 @@ HideHeader=true  
-@@ HideFooter=true  
-@@ HidepageHeader=true  
-@@ HidepageFooter=true  
+@@ BodyClass=specialDelivery  
 
-<img src="http://d.pr/i/11ITs+" alt="Allison">
+<div style="width:400px; margin:auto; text-align:center; background-color:#eee; border-radius: 1em; padding: 1em; opacity: 0.8">
 
-<div style="width:400px; margin:auto; text-align:center">
+<style>
+	a {
+		color:#ff333f
+	}
+</style>
 
 Eight years ago today, we went on [our first 'big' date][d]
 
