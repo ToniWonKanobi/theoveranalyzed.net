@@ -1,0 +1,68 @@
+/* For blank black pages (good for media) */
+
+body.blankBlack {
+	background: #000;
+	color: #bbb
+}
+
+body.blankBlack #main {
+	margin: 4em auto
+}
+
+body.blankBlack h1 {
+	margin: 1em;
+	font-size: 1.5em;
+	text-align: center
+}
+
+body.blankBlack .blankBlackInfo {
+	opacity: 0.2;
+	margin-top:5em;
+	margin-bottom:1em;
+	text-align: center;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+body.blankBlack .blankBlackInfo:hover {
+	opacity: 1
+}
+
+body.blankBlack a,
+body.blankBlack a:hover {
+	color: #fff;
+	border-bottom: none;
+	padding-bottom: none;
+	background: none
+}
+
+body.blankBlack video {
+	width: 80vw;
+	margin-left: calc((80vw - 620px) / -2)
+}
+
+body.blankBlack #masthead,
+body.blankBlack #header,
+body.blankBlack #bottomAd,
+body.blankBlack #footer { display: none }
+
+/* iPhone 6 and 6 Plus */
+@media (max-width: 736px) {
+
+
+	body.blankBlack video {
+		width: 100vw;
+		margin-left: calc((100vw - 300px) / -2)
+	}
+}
+
+/* Smaller iPhones */
+@media (max-width: 320px) {
+
+
+	body.blankBlack video {
+		width: 100vw;
+		margin-left: calc((100vw - 250px) / -2)
+	}
+}

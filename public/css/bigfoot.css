@@ -248,3 +248,5 @@
 .is-positioned-top .bigfoot-footnote__tooltip {
   bottom: -0.65em;
 }
+
+.bigfoot-footnote__content a { word-break: break-word }

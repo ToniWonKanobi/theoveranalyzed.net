@@ -3,15 +3,11 @@
 @@ Description=Happy Valentine's Day Allison.  
 @@ Tags=Anthony, Allison  
 @@ HideHeader=true  
-@@ BodyClass=specialDelivery  
+@@ BodyClass=specialDelivery
 
-<div style="width:400px; margin:auto; text-align:center; background-color:#eee; border-radius: 1em; padding: 1em; opacity: 0.8">
+<link rel="stylesheet" type="text/css" href="/css/special-delivery.css">
 
-<style>
-	a {
-		color:#ff333f
-	}
-</style>
+<div class="specialDelivery">
 
 Eight years ago today, we went on [our first 'big' date][d]
 
