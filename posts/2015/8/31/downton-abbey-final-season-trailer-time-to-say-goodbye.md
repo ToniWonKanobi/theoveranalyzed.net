@@ -3,9 +3,7 @@
 @@ Link=http://www.slashfilm.com/downton-abbey-final-season-trailer/  
 @@ Description=Even though it will probably suck (most final seasons do), I'm sure to watch this.  
 @@ Tags=Downton Abbey, pop culture, TV  
-@@ Image=http://desktopbackgrounds1.com/wp-content/uploads/2013/01/Downton-Abbey.jpg 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WPwaCjE8DcY" frameborder="0" allowfullscreen></iframe>
+@@ Image=http://desktopbackgrounds1.com/wp-content/uploads/2013/01/Downton-Abbey.jpg  
 
 The other day, Allison asked me when the next season of Downton Abbey was coming out. I told her it would be sometime this fall. She then commented on how it wasn't likely to be very good.
 

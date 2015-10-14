@@ -7,8 +7,6 @@
 
 The guy who sings the [ATP][atp] [theme song][youtube], [Jonathan Mann][jonathanmann], has a neat-o story about Steve Jobs.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xFyXoPi9FNs" frameborder="0" allowfullscreen></iframe>
-
 [From [Six Colors][sixcolors]]
 
 [atp]: http://atp.fm

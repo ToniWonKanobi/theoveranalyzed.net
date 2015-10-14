@@ -29,9 +29,7 @@ When I finished school[^yes] and started working, I toned down all of my movie p
 ## Update: New Trailer
 <p class="updateTime"><time datetime="2015-08-27">August 27, 2015</time></p>
 
-Today, [Yahoo! Movies][ym] shared the new trailer for Warner Brothers's upcoming *The Iron Giant: Signature Edition*:
-
-<iframe width='640' height='360' scrolling='no' frameborder='0' src='https://movies.yahoo.com/video/iron-giant-trailer-204500104.html?format=embed' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true' allowtransparency='true'></iframe>
+Today, Yahoo! Movies shared the [new trailer][ym] for Warner Brothers's upcoming *The Iron Giant: Signature Edition*.
 
 [From [/Film][sf2]]
 

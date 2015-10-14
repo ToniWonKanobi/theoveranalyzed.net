@@ -5,8 +5,8 @@
 @@ Image=https://recodetech.files.wordpress.com/2015/10/20150929-jack-dorsey-twitter-second-act.jpg
 
 <figure>
-	<a class="nohover" href="http://recode.net/2015/10/02/why-jack-dorsey-is-ready-to-save-twitter/  ">
-		<img src="https://recodetech.files.wordpress.com/2015/10/20150929-jack-dorsey-twitter-second-act.jpg" alt="Jack Dorsey">
+	<a class="nohover" href="http://d.pr/i/15Oep+">
+		<img src="http://d.pr/i/15Oep+" alt="Jack Dorsey">
 	</a>
 	<figcaption>Jack Dorsey: Twitter's savior?</figcaption>
 </figure>

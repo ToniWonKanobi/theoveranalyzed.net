@@ -6,8 +6,8 @@
 @@ Image=https://s3-us-west-2.amazonaws.com/assets.www.wenatcheeworld.com/media/img/blog-photo/2013/08/14/d34999b3d9-starbucks-coffee.jpg  
 
 <figure class="applewatch">
-	<a class="nohover" href="https://s3-us-west-2.amazonaws.com/assets.www.wenatcheeworld.com/media/img/blog-photo/2013/08/14/d34999b3d9-starbucks-coffee.jpg">
-		<img src="https://s3-us-west-2.amazonaws.com/assets.www.wenatcheeworld.com/media/img/blog-photo/2013/08/14/d34999b3d9-starbucks-coffee.jpg" alt="Regular coffee">
+	<a class="nohover" href="http://d.pr/i/17f3Q+">
+		<img src="http://d.pr/i/17f3Q+" alt="Regular coffee">
 	</a>
 	<figcaption>Who am I kidding? <em>That's</em> not what coffee looks like, right? It looks like <a href="#now-this-is-coffee">this.</a></figcaption>
 </figure>
@@ -45,8 +45,8 @@ It would be funnier if Brooks' sarcasm was a unrealistic take on the actuality. 
 Since we're talking coffee, I thought I'd include one of Starbucks' most gourmet creation, the [Chocolate Cookie Crumble Crème Frappuccino®](http://www.starbucks.com/menu/drinks/frappuccino-blended-beverages/chocolate-cookie-crumble-frappuccino-blended-beverage), inspired by the authentic Italian coffee beverage of the same name (not really):
 
 <figure id="now-this-is-coffee">
-	<a class="nohover" href="https://hitsandmrs.files.wordpress.com/2013/05/starbucks_cookiecrumble-chocwhip.jpg">
-		<img src="https://hitsandmrs.files.wordpress.com/2013/05/starbucks_cookiecrumble-chocwhip.jpg" alt="Gluttonous American people coffee">
+	<a class="nohover" href="http://d.pr/i/1juzG+">
+		<img src="http://d.pr/i/1juzG+" alt="Gluttonous American people coffee">
 	</a>
 	<figcaption>Ahh. That's more like it, no?</figcaption>
 </figure>

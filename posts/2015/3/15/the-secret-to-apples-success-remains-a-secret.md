@@ -44,9 +44,7 @@ And finally, Kirk posits his great thesis in response to Stewart:
 
 ***
 
-John Gruber recently [retweeted][twitter] a video in which a guy tirades for nearly twenty minutes on 'everything that was wrong' with Apple's [Spring Forward][apple] event last week:
-
-<iframe src="https://www.youtube.com/embed/alXya_qowbE" frameborder="0" allowfullscreen></iframe>
+John Gruber recently [retweeted][twitter] a video in which a guy tirades for nearly twenty minutes on 'everything that was wrong' with Apple's [Spring Forward][apple] event last week.
 
 I got through about five minutes of it before switching off. Before I did, I had this epiphany: 
 

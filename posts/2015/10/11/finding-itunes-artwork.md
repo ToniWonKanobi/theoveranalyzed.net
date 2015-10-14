@@ -74,7 +74,7 @@ Although Dodson's utility can access plenty of other media types, only iTunes mu
 [impawards]: http://d.pr/i/1kHVX+
 [instagram]: https://instagram.com/p/1ExLghwz2f/?taken-by=toniwonkanobi
 [myfedloan]: http://www.myfedloan.org/
-[mzstatic]: http://is5.mzstatic.com/image/thumb/Video1/v4/20/d4/5b/20d45bed-b098-f836-fd71-4b7390bcb451/pr_source.lsr/100000x100000-999.jpg
+[mzstatic]: http://d.pr/i/BY2d+
 [theoveranalyzed]: http://www.theoveranalyzed.net/2015/5/14/this-is-the-best-version-of-star-wars-and-watching-it-is-a-crime
 [transmissionbt]: https://www.transmissionbt.com/
 [twitter]: http://twitter.com/donmelton

@@ -3,9 +3,7 @@
 @@ Description=I got through about a third of the Steve Jobs book. This is about that, as well as Steve Jobs in general.  
 @@ Tags=Steve Jobs, Apple, Pixar, books  
 
-[Devour][devour] recently featured a [supercut][urbandictionary] of [Pixar][wikipedia] films called "[The Best of Pixar][youtube]":
-
-<iframe src="https://www.youtube.com/embed/QAF8QAw6R58" frameborder="0" allowfullscreen></iframe>
+[Devour][devour] recently featured a [supercut][urbandictionary] of [Pixar][wikipedia] films called "[The Best of Pixar][youtube]."
  
 Watching this reminded me of a passage in a book I have been reading recently.
 

@@ -9,23 +9,21 @@ I watch [Jay Leno's Garage][jlg].[^th] Although I wish he'd resist the urge to p
 
 On this latest episode, [Rod Emory][emorymotorsports] showed up with a couple of sweet [356][wikipedia]'s.
 
-<iframe src="https://www.youtube.com/embed/jwln2ji-yOE" frameborder="0" allowfullscreen></iframe>
-
 A couple of interesting bits:
 
-1. [Jay has an Apple Watch][macrumors]
+1. [Jay has an Apple Watch][macrumors]:
 
-<figure>
-	<img src="http://d.pr/i/16MRP+" alt="Jay Leno has an Apple Watch">
-	<figcaption>Appears to be the stainless Watch with Milanese loop</figcaption>
-</figure>
+	<figure>
+		<img src="http://d.pr/i/16MRP+" alt="Jay Leno has an Apple Watch">
+		<figcaption>Appears to be the stainless Watch with Milanese loop</figcaption>
+	</figure>
 
-2. The inside of a 356 is *small*
+2. The inside of a 356 is *small*:
 
-<figure>
-	<img src="http://d.pr/i/1andJ+" alt="356 cramped interior">
-	<figcaption>Cozy.</figcaption>
-</figure>
+	<figure>
+		<img src="http://d.pr/i/1andJ+" alt="356 cramped interior">
+		<figcaption>Cozy.</figcaption>
+	</figure>
 
 [^th]: That is to say, I watch the videos posted to his YouTube channel. I don't watch regular-person TV. 
 

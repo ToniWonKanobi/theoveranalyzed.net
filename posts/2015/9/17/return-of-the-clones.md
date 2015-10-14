@@ -5,8 +5,6 @@
 @@ Tags=Star Wars, Star Wars Rebels, pop culture, TV shows, The Clone Wars, The Force Awakens, Star Wars: The Force Awakens  
 @@ Image=http://rebelsreport.com/wp-content/uploads/2015/09/image003.jpg  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j1Qc5JWxIaA" frameborder="0" allowfullscreen></iframe>
-
 From the [Star Wars YouTube channel][youtube]:
 >Clone troopers were first introduced in Star Wars: Attack of the Clones as highly-skilled combatants that followed any order without questioning its morality. But that has slowly changed over the years, most notably with the character of Captain Rex in Star Wars: The Clone Wars. Now everyone’s favorite clone is set to make his debut in Star Wars Rebels, and alongside him are two more Republic veterans who also don’t exactly see eye-to-eye with the Empire.
 

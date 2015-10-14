@@ -3,8 +3,6 @@
 @@ Description=Where would be without YouTube?    
 @@ Tags=YouTube, music, music videos, culture, business, Louisa Wendroff  
 
-<iframe src="https://www.youtube.com/embed/gVXEMa2nloM" frameborder="0" allowfullscreen></iframe>
-
 Think back twenty years (were you even born questionmark). Can you imagine a 'small-timer' like [Louisa Wendroff][twitter] [making it big][billboard] without YouTube?[^yt] I can't either. What I also can't imagine is how different YouTube might have been if [Google never bought them][gizmodo],[^gb] and there were no net neutrality. The first scenario sounds not that bad.[^ci] The second scenario sounds horrible. Wendroff could never had made it in a world without net neutrality. Thank goodness for [this][arstechnica]
 
 [^yt]: (Or without [Tae][twitter 2])

@@ -10,8 +10,6 @@ Raj Nair, Ford's Group Vice President and Chief Technical Officer, Global Produc
 >
 >This car's function is to win at Le Mans.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wC8IX1AqS1s" frameborder="0" allowfullscreen></iframe>
-
 I've featured Ford's recent endeavors [before][theoveranalyzed]. The company sure looks to have set itself up for an amazing attack on European supercars and hypercars. 
 
 [From [Jalopnik][jalopnik]]

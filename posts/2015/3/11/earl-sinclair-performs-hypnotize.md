@@ -4,9 +4,7 @@
 @@ Description=I loved Dinosaurs (TV Series 1991-1994).  
 @@ Tags=TV, funny, music, Notorious B.I.G., Dinosaurs, covers  
 
-I thought for a good while before sharing this. Does anyone really care about this? And then I decided of course you do. It's [Earl Sinclair][wikia]. Doing Biggie.
-
-<iframe src="https://www.youtube.com/embed/-v2mvO7Yq48" frameborder="0" allowfullscreen></iframe> 
+I thought for a good while before sharing this. I thought to myself, "Does anyone really care about this?" And then I decided that of course people want this. It's [Earl Sinclair][wikia]. Doing Biggie.
 
 [From [Devour][devour]]
 

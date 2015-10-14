@@ -51,9 +51,7 @@ Finally, I will continue to use the running app I started with:
 
 * [Go Couch to 5k][radianttap][^gc]
 
-The developer recently teased this video, detailing how Apple Watch will fit into things:[^su]
-
-<iframe src="https://player.vimeo.com/video/121081759?color=5ea313&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+The developer recently teased this [video][run], detailing how Apple Watch will fit into things.[^su]
 
 # Too Cliche?
 
@@ -76,6 +74,7 @@ Living life to the fullest doesn't mean doing whatever is the most fun. It means
 [macstories]: http://www.macstories.net/stories/life-after-cancer-how-the-iphone-helped-me-achieve-a-healthier-lifestyle/
 [neybox]: https://neybox.com/pillow/
 [radianttap]: http://radianttap.com/run-5k/
+[run]: https://vimeo.com/121081759
 [storify]: https://storify.com/ToniWonKanobi/viticci-federico-cancer-aarrow-therapy-fitness
 [tinyhearts]: http://tinyhearts.com/
 [tinyhearts 2]: http://www.tinyhearts.com/7-minute-workout-quickfit/

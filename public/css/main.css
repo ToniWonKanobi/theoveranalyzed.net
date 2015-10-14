@@ -375,7 +375,7 @@ img {
 and shadow-less screenshots less offensive */
 img.screenshot {
 	border: 2px solid #ddd;
-	border-radius: 0.2em
+	border-radius: 0.4em
 }
 
 figure {

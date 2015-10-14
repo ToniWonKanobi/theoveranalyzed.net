@@ -5,12 +5,7 @@
 @@ Tags=Star Wars, Star Wars Rebels, pop culture, TV  
 @@ Image=http://d.pr/i/u6QI+  
 
-I'm not sure how I missed this from a few days ago, but here's the teaser:
-
-<figure>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/dAGvFBwG834" frameborder="0" allowfullscreen></iframe>
-	<figcaption>Ahsoka gives the Ghost crew some easy advice as they set out to find her mysterious ally.</figcaption>
-</figure>
+I'm not sure how I missed this from a few days ago, but here's the [teaser][teaser].
 
 And here's more Season 2 news from [Rebels Report][rr]:[^rr-rss]
 
@@ -43,3 +38,4 @@ New episodes of Star Wars Rebels begin Wednesday, October 14 (9:30 p.m., ET/PT) 
 
 [rr]: http://rebelsreport.com/2015/09/01/star-wars-rebels-season-2-a-look-ahead-new-images-and-info-from-dave-filoni/
 [rrrss]: http://rebelsreport.com/feed
+[teaser]: https://www.youtube.com/watch?v=dAGvFBwG834
