@@ -7,7 +7,7 @@
 
 <figure>
 	<a class="nohover" href="https://cottonbureau.com/products/hide-your-shield-generators">
-		<img src="https://cottonbureau.com/img/products/6422_jblV_2400.jpg" alt="Hide Your Sheild Generators">
+		<img src="http://d.pr/i/1gDMd+" alt="Hide Your Sheild Generators">
 	</a>
 	<figcaption><a href="http://twitter.com/morganbranding">Morgan Branding</a>: "Beware of rogue tow cables when wearing this shirt."</figcaption>
 </figure>

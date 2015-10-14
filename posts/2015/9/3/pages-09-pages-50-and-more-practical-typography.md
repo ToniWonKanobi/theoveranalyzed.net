@@ -22,7 +22,7 @@ After a bit of searching, I found a working `.dmg` for "iWork '09 Trial." Great.
 And so, there I was with two versions of Pages in my `/Applications` folder. 
 
 <figure>
-	<img src="http://d.pr/i/uepY+" alt="Pages '09 (4.3)" width="70%">
+	<img src="http://d.pr/i/1fNTT+" alt="Pages '09 (4.3)" width="70%">
 	<figcaption>Just look at that icon 👌🏾</figcaption>
 </figure>
 

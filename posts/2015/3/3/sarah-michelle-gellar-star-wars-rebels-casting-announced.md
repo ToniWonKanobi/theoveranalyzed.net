@@ -14,9 +14,12 @@ Star Wars Rebels, the [critically acclaimed][slashfilm] new series, concluded it
 ## Update: Gellar to Play Leia?
 <p class="updateTime"><time datetime="2015-09-27">September 27, 2015</time></p>
 
-Maybe Gellar won't be playing Kanan's love interest, [after all][wikipedia]? 
+Maybe Gellar won't be playing Kanan's love interest, [after all][wikipedia]?
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/8EIbh4sY_i/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">I&#39;m super excited to announce that I will be on the #StarWarsRebels panel at #NYCC on 10/8, 1:30pm, on the Empire Stage (of course). Hope to see you there! #StarWars @starwars Now whatever should I wear?</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Sarah Michelle (@sarahmgellar) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-25T19:01:18+00:00">Sep 25, 2015 at 12:01pm PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+From an Instagram photo, here's Sarah Michelle Gellar:
+>I'm super excited to announce that I will be on the [#StarWarsRebels][swr] panel at [#NYCC][nycc] on 10/8, 1:30pm, on the Empire Stage (of course). Hope to see you there! [#StarWars][sw] [@starwars][sww] Now whatever should I wear?
+>
+>[Sep 25, 2015 at 12:01pm PDT][smg]
 
 [From [Rebels Report][rebelsreport]]
 
@@ -27,12 +30,12 @@ Maybe Gellar won't be playing Kanan's love interest, [after all][wikipedia]?
 ## Update: Nope, She's Not Playing Leia
 <p class="updateTime"><time datetime="2015-10-02">October 2, 2015</time></p>
 
-Keely Flaherty, for [BuzzFeed](http://www.buzzfeed.com/keelyflaherty/sarah-michelle-gellar-reveals-her-mysterious-new-star-wars-r#.ccvq1lk1z):
+Keely Flaherty, for [BuzzFeed][buzzfeed]:
 >It seems she won’t be joining the Jedi ranks. Her character, the Seventh Sister Inquisitor, is a cunning and crafty villain.
 
 So there you go. My hypothesis was completely incorrect, after all.[^or]
 
-[From [/Film](http://www.slashfilm.com/star-wars-rebels-sarah-michelle-gellar/)]
+[From [/Film][slashfilm2]]
 
 </div>
 
@@ -42,8 +45,15 @@ So there you go. My hypothesis was completely incorrect, after all.[^or]
 [^or]: <p id="iwasright">Or was it? What if the Seventh Sister will be a love interest for Kanan? I'm going to <code>id</code> this footnote for easy hyperlinking, for when I'm right<s>wrong</s>right again.</p>
 
 [apple]: https://itunes.apple.com/us/tv-season/fire-across-the-galaxy/id920938545?at=1l3vx9s
+[buzzfeed]: http://www.buzzfeed.com/keelyflaherty/sarah-michelle-gellar-reveals-her-mysterious-new-star-wars-r#.ccvq1lk1z
 [huffingtonpost]: http://www.huffingtonpost.com/2014/03/13/sarah-michelle-gellar-freddie-prinze-jr-selfie_n_4957924.html
+[nycc]: https://instagram.com/explore/tags/nycc/
 [rebelsreport]: http://rebelsreport.com/2015/09/27/did-sarah-michelle-geller-reveal-her-star-wars-rebels-season-2-character/
 [slashfilm]: http://www.slashfilm.com/star-wars-rebels-season-2/
+[slashfilm2]: http://www.slashfilm.com/star-wars-rebels-sarah-michelle-gellar/
+[smg]: https://instagram.com/p/8EIbh4sY_i/
+[sw]: https://instagram.com/explore/tags/starwars/
+[sww]: https://instagram.com/starwars/
+[swr]: https://instagram.com/explore/tags/starwarsrebels/
 [wikia]: http://starwars.wikia.com/wiki/Kanan_Jarrus
 [wikipedia]: https://en.wikipedia.org/wiki/Princess_Leia

@@ -29,7 +29,7 @@ After all my hyperbole, you can, therefore, imagine my delight upon navigating t
 This was Patagonia's website when I navigated there today: 
 
 <figure>
-	<img src="http://d.pr/i/17jKj+" alt="They aren't closed for the holidays, but they are still legit. See story below.">
+	<img src="http://d.pr/i/twiq+" alt="They aren't closed for the holidays, but they are still legit. See story below.">
 	<figcaption>They aren't closed for the holidays, but they are still legit. See story below.</figcaption>
 </figure>
 

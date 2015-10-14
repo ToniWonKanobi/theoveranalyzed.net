@@ -17,7 +17,7 @@
 
 I was going to spend my time bemoaning Google's overtly geometric sans-serif font choice, but then I watched this:
 
-<video src="https://g-design.storage.googleapis.com/production/v5/assets/g-voice-flow.mp4" alt="Voice Search Flow" poster="http://g-design.storage.googleapis.com/production/v5/assets/g-voice-flow-poster.png" preload="metadata" controls></video>
+<video src="https://g-design.storage.googleapis.com/production/v5/assets/g-voice-flow.mp4" alt="Voice Search Flow" poster="http://d.pr/i/1fu8s+" preload="metadata" controls></video>
 
 Wow---the logotype looks *much* better in the full [Material Design][google] setting. Bravo, Google.[^still]
 

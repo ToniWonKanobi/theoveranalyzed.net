@@ -19,7 +19,7 @@ One could argue airplanes might [have cars beat][bp] as far as space devotion go
 What could possibly possess us to allow so much of '[our][alternet]' land to be devoted to cars? Note that I don't think we are actually possessed; rather, the answer to this riddle is that we humans just [love our cars][truegoodlove], plain and simple.
 
 <figure>
-	<img src="http://image.automobilemag.com/f/52935344%2Bq100%2Bre0/chevrolet-corvette-c4-zr1.jpg">
+	<img src="http://d.pr/i/JPut+">
 	<figcaption>Ah, where it all started for me: the Chevrolet Corvette. This specimen is a 1990 ZR-1. 'Murica 🇺🇸</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ That car was an [engineering masterpiece][honda-nsx]. By the time I discovered t
 This NSX was my halo car until [graduate school][llu] where, guess what, I met a bunch of other people who, guess what, had different tastes than me. Eventually, I caught the Porsche bug. (Apparently, the de facto dentist car is the 911).
 
 <figure>
-	<img src="http://www.total911.com/wp-content/uploads/2014/10/Porsche-964-driving.jpg" alt="Ahhh: what some would call the purest (and last) classic Porsche 911, the 964">
+	<img src="http://d.pr/i/G4PX+" alt="Ahhh: what some would call the purest (and last) classic Porsche 911, the 964">
 	<figcaption>Ahhh: what some would call the purest (and last) classic Porsche 911, the 964 🇩🇪</figcaption>
 </figure>
 

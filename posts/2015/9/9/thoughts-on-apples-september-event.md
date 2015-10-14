@@ -166,11 +166,11 @@ Since the initial post, I also added additional content links, now that the big 
 [bat]: http://9to5mac.com/2015/09/10/phone-6s-battery-life-smaller-not-shorter/
 [bg]: http://www.theverge.com/2014/9/25/6844943/apple-says-iphone-bending-extremely-rare
 [d]: http://d.pr/i/1dwWv+
-[d 2]: http://d.pr/i/9H8Q+
-[d 3]: http://d.pr/i/10Fa0+
+[d 2]: http://d.pr/i/1hnCA+
+[d 3]: http://d.pr/i/FNOQ+
 [d 4]: http://d.pr/i/1aq7x+
 [d 5]: http://d.pr/i/15MWZ+
-[d 6]: http://d.pr/i/1g5pm+
+[d 6]: http://d.pr/i/1f2Mp+
 [d 7]: http://d.pr/i/1lDaJ+
 [daringfireball]: http://daringfireball.net/2015/09/thoughts_and_observations_on_todays_hey_siri_event
 [fiftythree]: http://www.fiftythree.com/pencil

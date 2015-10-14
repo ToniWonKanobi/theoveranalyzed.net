@@ -28,7 +28,7 @@ And here's more Season 2 news from [Rebels Report][rr]:[^rr-rss]
 Sounds like Season 2 will answer a lot of the questions posed at the end of Season 1.
 
 <figure>
-	<img src="http://d.pr/i/u6QI+" alt="text">
+	<img src="http://d.pr/i/XaQz+" alt="text">
 	<figcaption>Surely Darth Vader will play a more prominent role in Season 2</figcaption>
 </figure>
 

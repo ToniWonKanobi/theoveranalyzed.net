@@ -7,7 +7,7 @@
 
 <figure>
 	<a class="nohover" href="https://cottonbureau.com/products/r2d2">
-		<img src="https://cottonbureau.com/img/products/5753_HykZ_2400.jpg" alt="R2D2">
+		<img src="http://d.pr/i/1hl4W+" alt="R2D2">
 	</a>
 	<figcaption><a href="http://nicholasburroughs.com">Nicholas Burroughs</a>: "This is the droid you're looking for."</figcaption>
 </figure>

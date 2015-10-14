@@ -22,7 +22,7 @@ I started with the [Native][squarespace] template, which was, like most template
 Here's the Native demo page:
 
 <figure>
-	<img src="http://d.pr/i/196ta+" alt="Native">
+	<img src="http://d.pr/i/15dfx+" alt="Native">
 	<figcaption>The stock Native template</figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ I looked around the templates and discovered that Cybart had implemented a relat
 Here is the Wells demo:
 
 <figure>
-	<img src="http://d.pr/i/1bItW+" alt="Wells">
+	<img src="http://d.pr/i/12IAy+" alt="Wells">
 	<figcaption>Wells template</figcaption>
 </figure>
 

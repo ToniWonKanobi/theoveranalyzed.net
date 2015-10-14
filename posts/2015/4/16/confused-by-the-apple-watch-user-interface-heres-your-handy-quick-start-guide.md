@@ -8,7 +8,7 @@ Ben Lovejoy, writing for 9to5Mac, recently featured a nifty infographic detailin
 
 <figure>
 	<a class="nohover" href="http://9to5mac.com/2015/04/15/how-to-use-the-apple-watch/">
-		<img class="screenshot" src="http://i.imgur.com/FnNZzUG.jpg" alt="Apple Watch UI">
+		<img class="screenshot" src="http://d.pr/i/Uu8M+" alt="Apple Watch UI">
 	</a>
 	<figcaption>Apple Watch UI seems overly complicated, but what do I know?</figcaption>
 </figure>

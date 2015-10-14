@@ -76,12 +76,12 @@ Websites should be fast. But can I put my money where my mouth is? It's easy to 
 Well enough, I think.
 
 <figure>
-	<img src="http://d.pr/i/14dQN+" alt="Regular page load of TheOverAnalyzed">
+	<img src="http://d.pr/i/1cUBo+" alt="Regular page load of TheOverAnalyzed">
 	<figcaption>A run-of-the-mill page load for TheOverAnalyzed</figcaption>
 </figure>
 
 <figure id="nojs">
-	<img src="http://d.pr/i/14ER8+" alt="No-JS page load of TheOverAnalyzed">
+	<img src="http://d.pr/i/1iNdv+" alt="No-JS page load of TheOverAnalyzed">
 	<figcaption>A page load for TheOverAnalyzed with JavaScript disabled</figcaption>
 </figure>
 

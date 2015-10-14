@@ -14,12 +14,12 @@ Benjamin Clymer sat down with Nest's ([Google's][arstechnica]) [Tony Fadell][wik
 The most interesting of his timepieces was the first the first one mentioned in his interview, the Ikepod HemiPode Chronograph, which was designed by Marc Newson. In case you are unfamiliar with Newson, he co-founded [Ikepod][wikipedia 2] in 1994, and was [swooped up by Apple][wired] last year.
 
 <figure>
-	<img src="http://d.pr/i/1ktFA+" alt="this">
+	<img src="http://d.pr/i/1gRBt+" alt="this">
 	<figcaption>This seems so familiar, doesn't it?</figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/18TEX+" alt="looks">
+	<img src="http://d.pr/i/12r4H+" alt="looks">
 	<figcaption>Looks a lot like this!</figcaption>
 </figure>
  
