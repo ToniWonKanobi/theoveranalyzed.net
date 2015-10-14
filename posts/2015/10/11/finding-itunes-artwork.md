@@ -43,8 +43,8 @@ Specifically, I sometimes wish movies and music albums had different artwork.[^g
 If I decide that I don't like the artwork iTunes has for a particular album, I can just go to Dodson's site, search for the album in question, and then apply that to the files from within the iTunes browser.
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1eFbz+">
-		<img class="screenshot" src="http://d.pr/i/1eFbz+" alt="Searching with Ben Dodson's utility.">
+	<a class="nohover" href="http://d.pr/i/1eWpP+">
+		<img class="screenshot" src="http://d.pr/i/1eWpP+" alt="Searching with Ben Dodson's utility.">
 	</a>
 	<figcaption>Searching is super easy. (Even when the results lead to the occasional terribly-curated choice of artwork.</figcaption>
 </figure>

@@ -9,7 +9,7 @@ With pumpkin season upon us (just ask my [wife][instagram]), this shirt is more 
 
 <figure>
 	<a class="nohover" href="https://cottonbureau.com/products/i-love-pie">
-		<img src="https://cottonbureau.com/img/products/7061_OjvA_2400.jpg" alt="I Love Pie">
+		<img src="http://d.pr/i/12UHi+" alt="I Love Pie">
 	</a>
 	<figcaption><a href="http://twitter.com/rpinchera">Rick Pinchera</a>: "You love pie? So do I!"</figcaption>
 </figure>
