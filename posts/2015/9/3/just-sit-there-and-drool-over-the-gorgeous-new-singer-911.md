@@ -5,6 +5,17 @@
 @@ Tags=Cars, Singer, 911, 964, 4.0L, Porsche  
 @@ Image=http://i.kinja-img.com/gawker-media/image/upload/s--glI764tq--/c_scale,fl_progressive,q_80,w_800/1414556606644345009.jpg  
 
+<!-- LazyLoad -->
+<!-- http://www.appelsiini.net/projects/lazyload -->
+<script src="/js/lazyload.js"></script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		$("img.lazy").show().lazyload({
+			effect: "fadeIn"
+		});
+	});
+</script>
+
 <figure>
 	<a class="nohover" href="http://i.kinja-img.com/gawker-media/image/upload/s--glI764tq--/c_scale,fl_progressive,q_80,w_800/1414556606644345009.jpg">
 		<img src="http://i.kinja-img.com/gawker-media/image/upload/s--glI764tq--/c_scale,fl_progressive,q_80,w_800/1414556606644345009.jpg" alt="That rear fender flare though.">

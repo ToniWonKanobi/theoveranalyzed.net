@@ -4,6 +4,17 @@
 @@ Tags=Twitter, business, industry, Steve Jobs, Jack Dorsey  
 @@ Image=https://recodetech.files.wordpress.com/2015/10/20150929-jack-dorsey-twitter-second-act.jpg
 
+<!-- LazyLoad -->
+<!-- http://www.appelsiini.net/projects/lazyload -->
+<script src="/js/lazyload.js"></script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		$("img.lazy").show().lazyload({
+			effect: "fadeIn"
+		});
+	});
+</script>
+
 <figure>
 	<a class="nohover" href="http://d.pr/i/15Oep+">
 		<img src="http://d.pr/i/15Oep+" alt="Jack Dorsey">

@@ -3,6 +3,15 @@
 @@ Description=Net Neutrality is important. But there are tradeoffs.  
 @@ Tags=Net Neutrality, Exponent, podcasts, politics, industry, Ben Thompson  
 
+<!-- FitVids -->
+<!-- http://fitvidsjs.com -->
+<script src="/js/fitvids.js"></script>
+<script>
+	$(document).ready(function(){
+		$(".entry").fitVids();
+	});
+</script>
+
 On the way to work yesterday, I listened to the [latest episode][exponent] of Exponent. The topic of conversation was, like always, pure excellence.
 
 Their focus was Net Neutrality. And while both Ben and James are ardent supporters of regulation in this regard, Ben brought up an important rebuttal to the typical 'tech-focused' Net Neutrality argument.[^nna]

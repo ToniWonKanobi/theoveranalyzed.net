@@ -3,6 +3,15 @@
 @@ Description=Red-tailed hawks are just as awesome as John Oliver says.  
 @@ Tags=John Oliver, Last Week Tonight, Last Week Tonight With John Oliver, birds, raptors, red-tailed hawks, animals, TV, funny  
 
+<!-- FitVids -->
+<!-- http://fitvidsjs.com -->
+<script src="/js/fitvids.js"></script>
+<script>
+	$(document).ready(function(){
+		$(".entry").fitVids();
+	});
+</script>
+
 Here's John Oliver talking about the red-tailed hawk:
 
 <iframe src="https://www.youtube.com/embed/uiN_-AEhTpk" frameborder="0" allowfullscreen></iframe>

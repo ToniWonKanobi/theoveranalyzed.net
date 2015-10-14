@@ -4,6 +4,17 @@
 @@ Tags=HTML, CSS, blogging, web, web design  
 @@ Image=http://d.pr/i/1igkh+  
 
+<!-- LazyLoad -->
+<!-- http://www.appelsiini.net/projects/lazyload -->
+<script src="/js/lazyload.js"></script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		$("img.lazy").show().lazyload({
+			effect: "fadeIn"
+		});
+	});
+</script>
+
 <figure class="iphone">
 	<a class="nohover" href="http://d.pr/i/1igkh+">
 		<img class="screenshot" src="http://d.pr/i/1igkh+" alt="Non-breaking space entity, oh how I forgot about you.">

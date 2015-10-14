@@ -4,6 +4,17 @@
 @@ Tags=Tapbots, Tweetbot, Tweetbot 4, apps, reviews  
 @@ Image=http://d.pr/i/nwJY+  
 
+<!-- LazyLoad -->
+<!-- http://www.appelsiini.net/projects/lazyload -->
+<script src="/js/lazyload.js"></script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		$("img.lazy").show().lazyload({
+			effect: "fadeIn"
+		});
+	});
+</script>
+			
 <figure>
 	<a class="nohover" href="https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599?ls=1&mt=8&at=1l3vx9s">
 		<img src="http://d.pr/i/nwJY+" alt="Tweetbot 4 and Tweetbot 3">

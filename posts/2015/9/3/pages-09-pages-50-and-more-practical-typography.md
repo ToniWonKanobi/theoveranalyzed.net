@@ -4,6 +4,17 @@
 @@ Tags=Practical Typography, Matthew Butterick, fonts, typefaces, webfonts, design, web design, blogging, Pages, reviews  
 @@ Image=http://d.pr/i/1fZQU+  
 
+<!-- LazyLoad -->
+<!-- http://www.appelsiini.net/projects/lazyload -->
+<script src="/js/lazyload.js"></script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		$("img.lazy").show().lazyload({
+			effect: "fadeIn"
+		});
+	});
+</script>
+
 A few days ago, I wrote about [Practical Typography][theoveranalyzed] and how it caused me to change a few [style][theoveranalyzed 2] [issues][theoveranalyzed 3] on TheOverAnalyzed.[^lol] After spending more time with Matthew Butterick's masterpiece,[^atleast] I stumbled upon his [page][practicaltypography] explaining [OpenType][wikipedia] features. In it, Butterick shows how to implement OpenType features on the web via CSS.[^otfeatures]
 
 What caught my attention was Butterick's blurb on OpenType implementation across the various word processors.

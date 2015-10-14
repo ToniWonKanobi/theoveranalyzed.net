@@ -4,6 +4,17 @@
 @@ Tags=iOS 9, iOS, ad blocking, Matthew Butterick, Peace, Marco Arment   
 @@ Image=http://d.pr/i/1fSZv+  
 
+<!-- LazyLoad -->
+<!-- http://www.appelsiini.net/projects/lazyload -->
+<script src="/js/lazyload.js"></script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		$("img.lazy").show().lazyload({
+			effect: "fadeIn"
+		});
+	});
+</script>
+
 <figure class="iphone">
 	<a class="nohover" href="http://d.pr/i/166fs+">
 		<img class="screenshot" src="http://d.pr/i/166fs+" alt="Bye bye, Peace.">

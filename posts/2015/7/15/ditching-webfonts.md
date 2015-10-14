@@ -4,6 +4,17 @@
 @@ Tags=web, web design, design, fonts, typefaces, Ideal Sans, webfonts, Hoefler, Cloud.typography, Ditching Webfonts, CSS, typography  
 @@ Image=http://d.pr/i/138Zv+  
 
+<!-- LazyLoad -->
+<!-- http://www.appelsiini.net/projects/lazyload -->
+<script src="/js/lazyload.js"></script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		$("img.lazy").show().lazyload({
+			effect: "fadeIn"
+		});
+	});
+</script>
+
 <div class="topstory">
 
 This piece is largely a self-response to an earlier post I wrote on the subject called [Why The Web Is So Slow][why]. You should read that before reading this.

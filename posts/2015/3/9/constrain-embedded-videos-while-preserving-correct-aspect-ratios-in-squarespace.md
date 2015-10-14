@@ -3,6 +3,15 @@
 @@ Description=Here's how I get YouTube videos to behave responsively in my webpages.  
 @@ Tags=Squarespace, TheOverAnalyzed, web, web design, HTML, JavaScript, jQuery  
 
+<!-- FitVids -->
+<!-- http://fitvidsjs.com -->
+<script src="/js/fitvids.js"></script>
+<script>
+	$(document).ready(function(){
+		$(".entry").fitVids();
+	});
+</script>
+			
 ## TL;DR
 
 I just can't leave well enough alone. In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, constraining the proportions.

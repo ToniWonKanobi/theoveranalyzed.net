@@ -386,6 +386,10 @@ function allPostsSortedAndGrouped(completion) {
 
 			// For each day...
 			_.each(sortedKeys, function (key) {
+				if (new Date(key) > new Date()) {
+					return;
+				}
+				
 				// Get all the filenames...
 				var articleFiles = groupedFiles[key];
 				var articles = [];

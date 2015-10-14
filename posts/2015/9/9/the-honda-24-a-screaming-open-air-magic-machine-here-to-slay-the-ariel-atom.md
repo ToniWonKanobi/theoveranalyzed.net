@@ -5,6 +5,17 @@
 @@ Tags=Honda, Ariel Atom, 2&4, cars, motorcycles  
 @@ Image=http://i.kinja-img.com/gawker-media/image/upload/s--hBI2wth_--/c_scale,fl_progressive,q_80,w_800/1423033440059352391.jpg  
 
+<!-- LazyLoad -->
+<!-- http://www.appelsiini.net/projects/lazyload -->
+<script src="/js/lazyload.js"></script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		$("img.lazy").show().lazyload({
+			effect: "fadeIn"
+		});
+	});
+</script>
+
 <figure>
 	<a class="nohover" href="http://i.kinja-img.com/gawker-media/image/upload/s--hBI2wth_--/c_scale,fl_progressive,q_80,w_800/1423033440059352391.jpg">
 		<img src="http://i.kinja-img.com/gawker-media/image/upload/s--hBI2wth_--/c_scale,fl_progressive,q_80,w_800/1423033440059352391.jpg" alt="Honda 2&4">

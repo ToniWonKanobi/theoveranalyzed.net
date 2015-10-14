@@ -4,6 +4,17 @@
 @@ Tags=Camel, Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0  
 @@ Image=http://d.pr/i/1em7V+  
 
+<!-- LazyLoad -->
+<!-- http://www.appelsiini.net/projects/lazyload -->
+<script src="/js/lazyload.js"></script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		$("img.lazy").show().lazyload({
+			effect: "fadeIn"
+		});
+	});
+</script>
+
 <div class="topstory">
 
 This is Part II of the series entitled [Leaving Squarespace][ls], in which I outline how I left the CMS giant and dived deep into [Casey Liss][cl]'s static blogging engine, [Camel][cam].
