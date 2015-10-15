@@ -5,7 +5,7 @@
 <hr class="footnotes-sep" />
 <section class="footnotes">
 	<ol class="footnotes-list">
-		<li id="fn1"  class="footnote-item"><p>🙋🏾 <a href="#fnref1" class="footnote-backref">&#8629;</a></p>
+		<li id="fn1"><p>🙋🏾 <a href="#fnref1" class="footnote-backref">↩</a></p>
 		</li>
 	</ol>
 </section>
