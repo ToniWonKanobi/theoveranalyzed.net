@@ -48,4 +48,4 @@ The shirtstock is changing, but Cotton Bureau isn't. (Now go out and [buy some s
 
 [^boy]: Boy does that sentence sure make it sound like I'm about to follow up with a big fat "BUT." Just keep reading.
 [^me]: Yeah, I was in that camp. I found the "100% cotton" American Apparel Cotton Bureau t-shirts fit *perfectly*. The "tri-blend" and "poly cotton" ones, however---not so much. I had to size down for those.
-[^sigh]: Why did they bestow such an honor upon me? It couldn't be because I buy so many shirts from them, could it? [No, I didn't think so.](http://www.theoveranalyzed.net/tags/This%20Week%20on%20Cotton%20Bureau).
+[^sigh]: Why did they bestow such an honor upon me? It couldn't be because I buy so many shirts from them, could it? [No, I didn't think so](http://www.theoveranalyzed.net/tags/This%20Week%20on%20Cotton%20Bureau).

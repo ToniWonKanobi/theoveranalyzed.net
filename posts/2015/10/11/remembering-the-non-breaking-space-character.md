@@ -59,17 +59,13 @@ To implement the non-breaking space character, I dug into the `.html` file that 
 So,
 
 ```
-<li class="postPermalink">
-	<a class="postPermalink" title="Permalink to post" href="{{permalink}}"><i class="fa fa-paragraph fa-fw"></i> Permalink</a>
-</li>
+<h2><a class="postTitleLinked" href="{{Link}}">{{Title}} <span class="linkArrow">&#10142;</span></a></h2>
 ```
 
 becomes
 
 ```
-<li class="postPermalink">
-	<a class="postPermalink" title="Permalink to post" href="{{permalink}}"><i class="fa fa-paragraph fa-fw"></i>&nbsp;Permalink</a>
-</li>
+<h2><a class="postTitleLinked" href="{{Link}}">{{Title}}&nbsp;<span class="linkArrow">&#10142;</span></a></h2>
 ```
 
 And that's all there is to it.
@@ -113,23 +109,23 @@ HTML is my "hobbits"---just when I think I have a handle on it, something like a
 	![][d 6]
 [^mobile]: Here's how I handled mobile styles previously:
 
-	1. I defined an `@media` query to target all screen widths up to 736px, which is the longest dimension of an iPhone (it's the length of an iPhone 6 Plus display @3x asset sizes). 
+	* I defined an `@media` query to target all screen widths up to 736px, which is the longest dimension of an iPhone (it's the length of an iPhone 6 Plus display @3x asset sizes). 
 
-	2. I then set `.content` to `width: 300px`, which was a good compromise between too much whitespace on iPhone 6 Plus, and not enough on iPhone 6. (When I did the big redesign back in June, I had a Plus and Allison had a 6, so I could test against both of those devices easily).
+	* I then set `.content` to `width: 300px`, which was a good compromise between too much whitespace on iPhone 6 Plus, and not enough on iPhone 6. (When I did the big redesign back in June, I had a Plus and Allison had a 6, so I could test against both of those devices easily).
 	
-	3. iPads behaved like the desktop site, more or less (portrait was always a headache for some reason).
+	* iPads behaved like the desktop site, more or less (portrait was always a headache for some reason).
 
 	The site looked great on iPhone 6 and 6 Plus, but at 300px, the `.content` width was overwhelming the 320px width screens on 3.5" and 4" iPhones. Not only was the `.content` width too wide on those small screens, the font size was too big, and the line spacing was too large as well. Needless to say, I needed to fix this.
 	
 	So what did I do?
 	
-	1. I added an additional `@media` query targeting smaller iPhones: 
+	* I added an additional `@media` query targeting smaller iPhones: 
 	
 	```
 	@media (max-width: 320px)
 	```
 	
-	2. I set `.content` `width: 250px` and `font-size: 0.9em`, as well as adjusted some `100vw` stuffs
+	* I set `.content` `width: 250px` and `font-size: 0.9em`, as well as adjusted some `100vw` stuffs
 [^sc]: [Six Colors][sixcolors]:
 
 	![][d 7]

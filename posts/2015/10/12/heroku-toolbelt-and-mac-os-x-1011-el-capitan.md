@@ -19,8 +19,6 @@ If you use the [Heroku CLI][heroku], and you tried to re-install the [Heroku Too
 
 Don't worry, you're not alone. I was with you, up until a few hours ago.
 
-***
-
 For the past few months, I always thought it was just me---that I had done something catastrophic with my root directory. Due to a lack of knowledge, as well as sheer laziness, I planned on just riding the wave of never having to use the official `heroku` commands again.[^gphm]
 
 My plan was thwarted when I realized today that a `git push` command wasn't going to execute due to large file wonkiness. 
