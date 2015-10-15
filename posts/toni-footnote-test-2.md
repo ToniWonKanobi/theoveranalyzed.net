@@ -1,4 +1,4 @@
-@@ Title=Toni Footnote Test 1
+@@ Title=Toni Footnote Test 2
 
 <p>Sample text.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
 
