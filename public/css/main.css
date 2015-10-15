@@ -21,8 +21,6 @@ update:    rgba(63, 110, 162, 0.11)
 Matthew Butterick's Practical Typography
 http://practicaltypography.com/point-size.html */
 
-html { height: 100% }
-
 body {
 	font-size: 13pt;
 	margin: 0; /* Prevents white space padding */
@@ -30,8 +28,7 @@ body {
 	line-height: 1.6;
 	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B',
 		"-apple-system", "Helvetica Neue", sans-serif;
-	font-weight: 300;
-	height: 100%
+	font-weight: 300
 }
 
 i, em { font-style: italic }
@@ -119,7 +116,9 @@ blockquote {
 	background-color: #3f70a2
 }
 
-#container { min-height: calc(100vh - 160px - 200px) }
+/* Keeps the `.footer` from floating up
+on "short" pages like `/about` */
+#container { min-height: calc(100vh - 25em) }
 
 #content {
 	width: 620px;
@@ -148,10 +147,7 @@ blockquote {
 	margin-top: -0.5em
 }
 
-#main {
-	margin: 3em auto 6em auto;
-	min-height: 55vh
-}
+#main { margin: 3em auto 6em auto }
 
 .postHeader,
 .postHeaderLinked {
@@ -720,6 +716,8 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 		margin-bottom: -130px
 	}
 
+	#container { min-height: calc(100vh - 24em) }
+
 	#content { width: 300px }
 
 	#header,
@@ -730,10 +728,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 
 	#siteByline { margin-top: 0 }
 
-	#main {
-		margin: 0 auto 5em auto;
-		min-height: 25vh
-	}
+	#main { margin: 0 auto 5em auto }
 
 	/* Causes all floated images to collapse to center */
 	figure.figleft,
