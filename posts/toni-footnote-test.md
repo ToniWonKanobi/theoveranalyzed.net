@@ -5,7 +5,7 @@
 <div class="footnotes">
 	<hr />
 	<ol>
-		<li id="fn1"  class="footnote-item"><p>🙋🏾 <a href="#fnref1" class="footnote-backref">↩</a></p>
+		<li id="fn1"><p>🙋🏾 <a href="#fnref1">↩</a></p>
 		</li>
 	</ol>
 </div>
