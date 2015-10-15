@@ -1,6 +1,6 @@
-@@ Title=Toni Footnote Test 2
+@@ Title=Toni Footnote Test 3
 
-<p>Sample text.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
+<p>Sample text.<sup class="footnote-ref"><a href="#fn1" id="fnref1" rel="footnote">[1]</a></sup></p>
 
 <hr class="footnotes-sep" />
 <section class="footnotes">
