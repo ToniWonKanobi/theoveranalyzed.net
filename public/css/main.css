@@ -21,6 +21,8 @@ update:    rgba(63, 110, 162, 0.11)
 Matthew Butterick's Practical Typography
 http://practicaltypography.com/point-size.html */
 
+html { height: 100% }
+
 body {
 	font-size: 13pt;
 	margin: 0; /* Prevents white space padding */
@@ -29,6 +31,7 @@ body {
 	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B',
 		"-apple-system", "Helvetica Neue", sans-serif;
 	font-weight: 300;
+	height: 100%
 }
 
 i, em { font-style: italic }
@@ -115,6 +118,8 @@ blockquote {
 	margin-bottom: -160px;
 	background-color: #3f70a2
 }
+
+#container { min-height: calc(100vh - 160px - 200px) }
 
 #content {
 	width: 620px;

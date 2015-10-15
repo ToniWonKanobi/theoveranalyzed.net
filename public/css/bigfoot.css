@@ -23,7 +23,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     line-height: 0;
     /* Sets the vertical height of button */
     /* vertical-align: middle; */
-    vertical-align: text-top;
+    vertical-align: super;
     text-decoration: none;
     -webkit-font-smoothing: antialiased;
     -webkit-transition-property: background-color;
