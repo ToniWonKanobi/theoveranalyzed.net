@@ -1,12 +1,11 @@
 @@ Title=Toni Footnote Test
 
-<p>Sample text.<sup><a href="#fn1" id="fnref1">[1]</a></sup></p>
+<p>Sample text.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
 
-<div class="footnotes">
-	<hr />
-	<ol>
-		<li id="fn1">
-			<p>🙋🏾 <a href="#fnref1">↩</a></p>
+<hr class="footnotes-sep" />
+<section class="footnotes">
+	<ol class="footnotes-list">
+		<li id="fn1"  class="footnote-item"><p>🙋🏾 <a href="#fnref1" class="footnote-backref">↩</a></p>
 		</li>
 	</ol>
-</div>
+</section>
