@@ -61,14 +61,13 @@ I followed the advice in the pull request's thread:
 	```
 	$ brew install heroku
 	==> Downloading https://s3.amazonaws.com/assets.heroku.com/heroku-	client/heroku-
-	#######################################################################	# 100.0%
+	######################################################################## 100.0%
 	Error: The `brew link` step did not complete successfully
 	The formula built, but is not symlinked into /usr/local
 	Could not symlink bin/heroku
 	Target /usr/local/bin/heroku
 	already exists. You may want to remove it:
 	  rm '/usr/local/bin/heroku'
-
 	To force the link and overwrite all conflicting files:
 	  brew link --overwrite heroku-toolbelt
 
@@ -78,11 +77,9 @@ I followed the advice in the pull request's thread:
 	Possible conflicting files are:
 	/usr/local/bin/heroku -> /usr/local/heroku
 	==> Caveats
-	Unlike the standalone download for Heroku Toolbelt, the Homebrew 	package
-	does not come with Foreman. It is available via RubyGems, direct 	download,
-	and other installation methods. See https://ddollar.github.io/		foreman/ for more info.
+	Unlike the standalone download for Heroku Toolbelt, the Homebrew package does not come with Foreman. It is available via RubyGems, direct download,and other installation methods. See https://ddollar.github.io/foreman/ for more info.
 	==> Summary
-	🍺  /usr/local/Cellar/heroku-toolbelt/3.42.17: 985 files, 8.6M, 	built in 5 seconds
+	🍺  /usr/local/Cellar/heroku-toolbelt/3.42.17: 985 files, 8.6M, built in 5 seconds
 	```
 
 4. Reviewing the output, it was clear I needed to remove the old [likely corrupted] instance of heroku on my root directory, and overwrite it with a fresh one:

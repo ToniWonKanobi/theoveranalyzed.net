@@ -9,16 +9,40 @@
    <input type="hidden" name="kh" value="1"/>
    <input type="hidden" name="kp" value="-1"/>
    <input type="hidden" name="k1" value="-1"/>
-   <input type="text" name="q" maxlength="300" placeholder="Search TheOverAnalyzed via DuckDuckGo">
+   <input type="text" name="q" placeholder="&nbsp;&nbsp;&nbsp;Powered by DuckDuckGo">
    <input type="submit" value="DuckDuckGo Search" style="visibility: hidden">
 </form>
 
-<hr class="long">
+<h3>Options</h3>
 
-### Tips
+To search with another search provider instead of the default, DuckDuckGo, append the appropriate `!bang` to your search string.
 
-You can append `!g` to your query to search with Google instead of DuckDuckGo.
+Consider the following examples:
 
-For example, consider the query `!g apple`.
+Instead of the more default string
 
-The resultant search would be a *Google* search for `apple site:theoveranalyzed.net`
+```
+apple
+```
+
+which leads to results like this
+
+<a href="http://duckduckgo.com/?q=apple+site:theoveranalyzed.net"><img class="screenshot" src="http://d.pr/i/1htib+" alt="DuckDuckGo results"></a>
+
+you could append `!g` to your search string
+
+```
+!g apple
+```
+
+which would call for a *Google* search, leading to the results similar to the following:
+
+<a href="https://encrypted.google.com/search?hl=en&q=apple%20site%3Ahttp%3A%2F%2Fwww.theoveranalyzed.net"><img class="screenshot" src="http://d.pr/i/1bE2M+" alt="Google results"></a>
+
+Or, alternatively, you could append `!y` to search for TheOverAnalyzed content using Yahoo!, or `!b` to search Bing instead.[^not]
+
+</div>
+
+[^not]: I'm not sure what value there is to be had in these last two examples
+
+

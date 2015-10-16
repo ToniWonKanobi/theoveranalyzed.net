@@ -84,8 +84,6 @@ And that's all there is to it.
 	</figcaption>
 </figure>
 
-***
-
 [Re-]Discovering `&nbsp;` reminded me of that poignant moment shared between [Gandalf][wikipedia 2] and [Frodo][wikipedia 3] at the beginning of [The Fellowship of The Ring][wikipedia 4]:  
 In it, [Gandalf says to Frodo][imdb]:
 >My dear Frodo. Hobbits really are amazing creatures. You can learn all there is to know about their ways in a month, and yet after a hundred years they can still surprise you.
@@ -121,9 +119,9 @@ HTML is my "hobbits"---just when I think I have a handle on it, something like a
 	
 	* I added an additional `@media` query targeting smaller iPhones: 
 	
-	```
-	@media (max-width: 320px)
-	```
+		```
+		@media (max-width: 320px)
+		```
 	
 	* I set `.content` `width: 250px` and `font-size: 0.9em`, as well as adjusted some `100vw` stuffs
 [^sc]: [Six Colors][sixcolors]:
