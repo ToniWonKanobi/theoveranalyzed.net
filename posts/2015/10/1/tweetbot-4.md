@@ -194,7 +194,7 @@ Tweetbot 4 is available on the [App Store][apple] at a launch price of $4.99 (th
 
 $5 is a very small price to pay for an app I've used [all throughout the day][daringfireball] for the past two years (the last *paid* upgrade was when Tweetbot 3 launched in 2013). 
 
-Tweetbot is [still the best Twitter client for iOS][still], I doubt that will change any time soon.
+Tweetbot is [still the best Twitter client for iOS][still], and based on the quality of this realease, I doubt that will change any time soon.
 
 [^ts]: Incidentally, this is also a useful way to engage in an impromptu [Tweetstorm][elischiff].
 [^wasnt]: I [wasn't alone in my choice][furbo], either. 
