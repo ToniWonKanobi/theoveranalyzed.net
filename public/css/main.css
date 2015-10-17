@@ -68,7 +68,7 @@ a {
 	color: #3f70a2;
 	background: #eee;
 	border-radius: 2px;
-	border-bottom-style: none
+	border-bottom: none
 }
 
 /* So /:year/:month/:day matches other pages */
@@ -235,7 +235,7 @@ figure:first-child { margin-top: 1.25em }
 .topstory code { font-style: normal }
 
 pre {
-	font-family: Hack, Monaco, monospace;
+	font-family: Menlo, monospace;
 	font-size: 0.8em;
 	white-space: pre;
 	padding: 0.75em;
@@ -248,7 +248,7 @@ pre {
 
 code {
 	font-style: normal;
-	font-family: Hack, Monaco, monospace;
+	font-family: Menlo, monospace;
 	font-size: 0.7em;
 	padding: 0.2em;
 	-webkit-border-radius: 0.2em;
@@ -260,14 +260,11 @@ code {
 pre code {
 	font-size: 0.9em;
 	overflow: auto;
-	padding: 0
+	padding: 0;
+	border: none
 }
 
-a code,
-a code:hover {
-	padding-bottom: 0;
-	border-bottom: none
-}
+a code { padding-bottom: 0 }
 
 /* Fixes `markdown-it`
 `.homepage` fenced code block funkiness */
