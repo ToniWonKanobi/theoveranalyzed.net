@@ -668,10 +668,10 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 }
 
 #search input {
-	width: 100%;
+	width: 90%;
 	background-color: #f8f8f8;
 	border: 2px solid #eee;
-	padding: 1em 0 1em 0;
+	padding: 1em 0.25em 1em 0.25em;
 	color: #545454;
 	-webkit-border-radius: 0.4em;
 	-moz-border-radius: 0.4em;
