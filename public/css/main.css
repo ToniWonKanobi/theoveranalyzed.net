@@ -67,8 +67,8 @@ a {
 .entry a:hover {
 	color: #3f70a2;
 	background: #eee;
-	border-radius: 2px
-	border-bottom: none
+	border-radius: 2px;
+	border-bottom-style: none
 }
 
 /* So /:year/:month/:day matches other pages */
@@ -260,12 +260,14 @@ code {
 pre code {
 	font-size: 0.9em;
 	overflow: auto;
-	padding: 0;
-	border: none
+	padding: 0
 }
 
 a code,
-a code:hover { padding-bottom: 0 }
+a code:hover {
+	padding-bottom: 0;
+	border-bottom: none
+}
 
 /* Fixes `markdown-it`
 `.homepage` fenced code block funkiness */

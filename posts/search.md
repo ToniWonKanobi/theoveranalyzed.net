@@ -27,9 +27,9 @@ apple
 
 which leads to results like this
 
-<figure class="iphone">
+<figure>
 	<a href="http://duckduckgo.com/?q=apple+site:theoveranalyzed.net">
-		<img class="screenshot" src="http://d.pr/i/1htib+" alt="DuckDuckGo results">
+		<img class="screenshot" src="http://d.pr/i/1iRwX+" alt="DuckDuckGo results">
 	</a>
 </figure>
 
@@ -41,9 +41,9 @@ you could append `!g` to your search string
 
 which would call for a *Google* search, leading to the results similar to the following:
 
-<figure class="iphone">
+<figure>
 	<a href="https://encrypted.google.com/search?hl=en&q=apple%20site%3Ahttp%3A%2F%2Fwww.theoveranalyzed.net">
-		<img class="screenshot" src="http://d.pr/i/1bE2M+" alt="Google results">
+		<img class="screenshot" src="http://d.pr/i/ZJvU+" alt="Google results">
 	</a>
 </figure>
 
