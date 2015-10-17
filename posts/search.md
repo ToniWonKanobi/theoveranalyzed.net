@@ -27,7 +27,11 @@ apple
 
 which leads to results like this
 
-<a href="http://duckduckgo.com/?q=apple+site:theoveranalyzed.net"><img class="screenshot" src="http://d.pr/i/1htib+" alt="DuckDuckGo results"></a>
+<figure class="iphone">
+	<a href="http://duckduckgo.com/?q=apple+site:theoveranalyzed.net">
+		<img class="screenshot" src="http://d.pr/i/1htib+" alt="DuckDuckGo results">
+	</a>
+</figure>
 
 you could append `!g` to your search string
 
@@ -37,7 +41,11 @@ you could append `!g` to your search string
 
 which would call for a *Google* search, leading to the results similar to the following:
 
-<a href="https://encrypted.google.com/search?hl=en&q=apple%20site%3Ahttp%3A%2F%2Fwww.theoveranalyzed.net"><img class="screenshot" src="http://d.pr/i/1bE2M+" alt="Google results"></a>
+<figure class="iphone">
+	<a href="https://encrypted.google.com/search?hl=en&q=apple%20site%3Ahttp%3A%2F%2Fwww.theoveranalyzed.net">
+		<img class="screenshot" src="http://d.pr/i/1bE2M+" alt="Google results">
+	</a>
+</figure>
 
 Or, alternatively, you could append `!y` to search for TheOverAnalyzed content using Yahoo!, or `!b` to search Bing instead.[^not]
 
