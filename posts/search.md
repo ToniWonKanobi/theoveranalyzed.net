@@ -9,7 +9,7 @@
    <input type="hidden" name="kh" value="1"/>
    <input type="hidden" name="kp" value="-1"/>
    <input type="hidden" name="k1" value="-1"/>
-   <input type="text" name="q" placeholder="why is the author so awesome">
+   <input type="text" name="q" placeholder="Star Wars">
    <input type="submit" value="DuckDuckGo Search" style="visibility: hidden">
 </form>
 

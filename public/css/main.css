@@ -264,6 +264,9 @@ pre code {
 	border: none
 }
 
+a code,
+a code:hover { padding-bottom: 0 }
+
 /* Fixes `markdown-it`
 `.homepage` fenced code block funkiness */
 .homepage pre code { white-space: pre-line}
@@ -671,7 +674,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 	width: 90%;
 	background-color: #f8f8f8;
 	border: 2px solid #eee;
-	padding: 1em 0.25em 1em 0.25em;
+	padding: 1em;
 	color: #545454;
 	-webkit-border-radius: 0.4em;
 	-moz-border-radius: 0.4em;
