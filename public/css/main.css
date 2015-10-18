@@ -1,5 +1,7 @@
-/* Colors
+/* Basics
 ============================================ */
+
+/* Colors */
 
 /*
 banner:    #3f70a2
@@ -8,14 +10,13 @@ meta:      #9e9e9e
 links:     #3f70a2
 hover:     #eee
 quote:     #9e9e9e
+meta:      #9e9e9e
 hr:        #eee
 pre:       #eee
-update:    rgba(63, 110, 162, 0.10)
+code:      #eee
+borders:   #ddd
+update:    rgba(63, 110, 162, 0.15)
 */
-
-
-/* Fonts
-============================================ */
 
 /* Font philosophies from
 Matthew Butterick's Practical Typography
@@ -23,11 +24,11 @@ http://practicaltypography.com/point-size.html */
 
 body {
 	font-size: 13pt;
-	margin: 0; /* Prevents white space padding */
+	margin: 0;
 	color: #545454;
 	line-height: 1.6;
-	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B',
-		"-apple-system", "Helvetica Neue", sans-serif;
+	font-family: "Ideal Sans SSm A", "Ideal Sans SSm B",
+		"-apple-system", sans-serif;
 	font-weight: 300
 }
 
@@ -100,9 +101,19 @@ sub {
 blockquote {
 	margin: auto;
 	color: #9e9e9e;
-	padding: 1.5em 1em 0.25em 1.5em;
+	padding-left: 1.5em;
 	border-left: 3px solid #eee
 }
+
+blockquote p:first-child,
+blockquote ul:first-child,
+blockquote ol:first-child { padding-top: 2em }
+
+blockquote p:last-child,
+blockquote ul:last-child,
+blockquote ol:last-child { padding-bottom: 0.1em }
+
+blockquote a { word-break: break-all }
 
 
 
@@ -149,6 +160,10 @@ on "short" pages like `/about` */
 
 #main { margin: 3em auto 6em auto }
 
+
+/* Post Header
+============================================ */
+
 .postHeader,
 .postHeaderLinked {
 	-webkit-transition: all 0.2s ease-in-out;
@@ -179,6 +194,10 @@ span.linkArrow {
 	transition: all 0.2s ease-in-out
 }
 
+
+/* Post Subtitle
+============================================ */
+
 .postSubtitle {
 	color: #9e9e9e;
 	font-size: 0.9em;
@@ -190,6 +209,9 @@ span.linkArrow {
 .postSubtitle a:hover { color: #3f70a2 }
 
 
+/* Post Tags
+============================================ */
+
 ul.postSubtitleItems {
 	padding: 0;
 	margin: 0.5em auto 0.25em auto
@@ -197,7 +219,8 @@ ul.postSubtitleItems {
 
 ul.postSubtitleItems li {
 	display: inline;
-	margin-right: 1em
+	margin-right: 1em;
+	padding: 0
 }
 
 ul.postSubtitleItems + ul {
@@ -207,13 +230,14 @@ ul.postSubtitleItems + ul {
 }
 
 ul.postTags {
-	padding-left: 0;
+	padding: 0;
 	margin-left: 0;
 	list-style: none;
 	display: none
 }
 
 li.postTags {
+	padding: 0;
 	width: 200px;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
@@ -224,7 +248,11 @@ li.postTags:hover { color: #3f70a2 }
 
 li.postTags:hover ul.postTags { display: block }
 
-figure:first-child { margin-top: 1.25em }
+li.eachTag { padding: 0 }
+
+
+/* Post Content
+============================================ */
 
 .topstory {
 	margin: 2em auto 2em auto;
@@ -270,10 +298,15 @@ a code { padding-bottom: 0 }
 `.homepage` fenced code block funkiness */
 .homepage pre code { white-space: pre-line}
 
-audio, video { width: 100% }
+audio,
+video { width: 100% }
 
 /* Fixes iframe margin weirdness */
 .fluid-width-video-wrapper { margin-top: 1em }
+
+
+/* Horizontal Rules
+============================================ */
 
 hr {
 	width: 40%;
@@ -294,6 +327,22 @@ hr.articleDivider {
 	height: 0.2em;
 	border-radius: 0.2em
 }
+
+/* Keeps the divider from being
+disproportionally long
+on wide screens */
+@media (min-width: 1400px) {
+
+	hr.articleDivider {
+		width: 60vw;
+		margin-left: calc((60vw - 620px) / -2)
+	}
+
+}
+
+
+/* Asides
+============================================ */
 
 .takehome {
 	color: #3f70a2;
@@ -338,10 +387,14 @@ hr.articleDivider {
 .takehomeRight p,
 .takehomeLeft p { margin: 0.5em auto 0.5em auto }
 
+
+/* Updated Content
+============================================ */
+
 .update {
 	margin-top: 2em;
-	background-color: rgba(63, 110, 162, 0.10);
-	border-radius: 0.2em;
+	background-color: rgba(63, 110, 162, 0.15);
+	border-radius: 0.4em;
 	padding: 0.5em 2em 2em 2em
 }
 
@@ -356,16 +409,16 @@ hr.articleDivider {
 	border-radius: 0.2em
 }
 
-.update blockquote { border-left: 5px solid #d0d0d0 }
-
-.update blockquote a { word-break: break-all }
-
 .update code {
 	border: 1px solid #ddd;
 	border-radius: 0.2em
 }
 
 .update pre code { border: none }
+
+.update a { border-bottom: none }
+
+.update a:hover { background: #fff }
 
 
 /* Images
@@ -387,6 +440,8 @@ figure {
 	text-align: center;
 	margin: 1em auto
 }
+
+.article .entry figure:first-child { margin-top: 1.5em }
 
 figure a.nohover {
 	background: none;
@@ -424,9 +479,7 @@ figure.figright {
 }
 
 figure.iphone,
-figure.applewatch {
-	width: 300px
-}
+figure.applewatch { width: 300px }
 
 figure.wide {
 	width: 1000px;
@@ -443,22 +496,20 @@ figcaption {
 }
 
 
-/* Lists & Tables
+/* Lists
 ============================================ */
 
-ul, ol, dl {
-	padding-left: 1em;
-	margin: 1em 0 1em 0.5em;
+ul,
+ol,
+dl {
+	padding-left: 1.75em;
+	margin: 1em auto 1em auto
 }
 
-li { margin-bottom: 0.75em }
-
-table.sortable thead { cursor: default }
-
-/* Keeps wide tables from overwhelming the layout on mobile */
-.table { overflow-x: scroll }
-
-.table figcaption { margin: -1em auto 1em auto }
+li {
+	padding-left: 0.25em;
+	margin-bottom: 1em
+}
 
 .table-of-contents a:hover,
 .table-of-contents a {
@@ -466,28 +517,32 @@ table.sortable thead { cursor: default }
 	background: none
 }
 
+
+/* Tables
+============================================ */
+
 /* Table styles cribbed from Byword's Marked CSS
 http://bywordapp.com/extras/index.html */
 table {
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 24px;
-	border-bottom: 1px solid #ddd;
-	border-right: 1px solid #ddd;
-	border-spacing: 0;
+	margin-bottom: auto;
+	border-bottom: 2px solid #ddd;
+	border-right: 2px solid #ddd;
+	border-collapse: collapse
 }
 
 table th {
-	padding: 3px 10px;
+	padding: 0.3em 1em;
 	background-color: #eee;
-	border-top: 1px solid #ddd;
-	border-left: 1px solid #ddd;
+	border-top: 2px solid #ddd;
+	border-left: 2px solid #ddd;
 }
 
 table td {
-	padding: 3px 10px;
-	border-top: 1px solid #ddd;
-	border-left: 1px solid #ddd;
+	padding: 0.3em 1em;
+	border-top: 2px solid #ddd;
+	border-left: 2px solid #ddd;
 }
 
 table th code {
@@ -495,8 +550,15 @@ table th code {
 	border-radius: 0.2em
 }
 
+table.sortable thead { cursor: default }
 
-/* Font Awesome Glyphs
+/* Keeps wide tables from overwhelming the layout on mobile */
+.table { overflow-x: scroll }
+
+.table figcaption { margin: 1em auto }
+
+
+/* Font Awesome
 http://fontawesome.io
 ============================================ */
 
@@ -545,9 +607,7 @@ https://www.npmjs.com/package/markdown-it-anchor
 h1:hover .header-anchor,
 h2:hover .header-anchor,
 h3:hover .header-anchor,
-h4:hover .header-anchor,
-h5:hover .header-anchor,
-h6:hover .header-anchor { opacity: 1 }
+h4:hover .header-anchor { opacity: 1 }
 
 a.header-anchor,
 a.header-anchor:hover {
@@ -568,7 +628,8 @@ https://www.npmjs.com/package/markdown-it-footnote
 	transition: all 0.2s ease-in-out
 }
 
-/* Disabled until CommonMark / `markdown-it-footnote` gets fixed */
+/* Disabled until CommonMark /
+`markdown-it-footnote` gets fixed */
 hr.footnotes-sep {
 	width: 10em;
 	margin: 5em auto 1.5em 0;
@@ -607,7 +668,7 @@ a.footnote-backref:hover {
 }
 
 
-/* Pagination
+/* Homepage Pagination
 ============================================ */
 
 .homepage .paginationFooter {
@@ -644,10 +705,7 @@ a.footnote-backref:hover {
 	margin-top: 0
 }
 
-#bottomAd img {
-	width: 150px;
-	border-top: none
-}
+#bottomAd img { width: 150px }
 
 #footer {
 	background-color: #3f70a2;
@@ -658,9 +716,7 @@ a.footnote-backref:hover {
 
 #nav {
 	font-size: 1.1em;
-	font-weight: 400;
-	font-style: bold;
-	padding-top: 0.5em
+	font-weight: 400
 }
 
 #nav a { color: #fff }
@@ -668,12 +724,21 @@ a.footnote-backref:hover {
 #nav a:hover { color: #8abef4 }
 
 #nav ul {
+	margin: auto;
 	list-style: none;
-	padding-left: 0;
-	margin-left:0
+	padding: 1.25em 0 1em 0
 }
 
-#nav li { margin-bottom: auto }
+#nav li {
+	margin-bottom: auto;
+	padding: 0
+}
+
+#copyright { font-size: 0.8em }
+
+
+/* Search Page
+============================================ */
 
 /* Search box cribbed from Hardik Pandya
 http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
@@ -694,8 +759,6 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 }
 
 #search input:focus { outline: none }
-
-#copyright { font-size: 0.8em }
 
 
 /* Mobile Styles
@@ -746,8 +809,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 	figure.inlinethree img {
 		float: none;
 		width: 80%;
-		text-align: center;
-		margin: 1em auto 1em auto
+		margin: 1em 10% 1em 10%
 	}
 
 	figure.wide {

@@ -1,9 +1,19 @@
 @@ Title=About  
 @@ HideHeader=true  
 
-<figure class="figright">
-	<img src="http://d.pr/i/1d53F+" alt="❤️">
-</figure>
+<style>
+	figure.iphone img { margin-top: 3em }
+	figure.iphone img { 
+		opacity: 0.2;
+		-webkit-filter: grayscale(1);
+		transition: all 0.2s ease-in-out
+	}
+	
+	.entry:hover figure.iphone img { 
+		opacity: 1;
+		-webkit-filter: grayscale(0)
+	}
+</style>
 
 <h1 id="info">About The Site</h1>
 
@@ -22,6 +32,10 @@ I eventually found that even on Squarespace's Developer Platform, not *everythin
 In early 2015, I caught wind of Casey Liss's blogging engine, Camel, which he open-sourced [months earlier][caseyliss]. With the option for an [alternate][rssa] RSS feed (linked posts point back to TheOverAnalyzed) and the openness of a completely customizable platform, I knew that was the direction I would eventually head. I procrastinated for a month before finally starting work on Version 3.0 of the site. Head over to [/nerd][nerd] for more technical information about the site.
 
 Thanks for stopping by.
+	
+<figure class="iphone">
+	<img src="http://d.pr/i/1d53F+" alt="❤️">
+</figure>
 
 [ant]: http://www.twitter.com/toniwonkanobi
 [atp]: http://atp.fm

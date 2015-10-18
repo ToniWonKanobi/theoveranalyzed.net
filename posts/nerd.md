@@ -8,6 +8,8 @@ All of the pages on this site are based on "[static][wikipedia 2]" [Markdown][wi
 
 I have also employed a couple of indispensable open-source JavaScript projects. The first is [Bigfoot.js][bigfootjs] for fancy popup footnotes---[first popularized][marco] by [Marco Arment][marco2]'s read-it-later app, [Instapaper][itunes]. And then there's [FitVids.js][fitvidsjs], which makes all `<iframe>` embeds responsive (i.e., it makes YouTube videos scale to the width of the horizontal container).
 
+<div id="useful">
+
 ## Useful URL Slugs
 
 **[.md][theoveranalyzed 4]**: You can append `.md` to the end of any post URL to see the actual source (Markdown) for that page
@@ -21,6 +23,8 @@ I have also employed a couple of indispensable open-source JavaScript projects. 
 **[/newsletter][theoveranalyzed 6]**: Subscribe to the daily email newsletter
 
 **[/brokenlinks][theoveranalyzed 7]**: Perhaps you've looked high and low in a search engine and still can't find a link you're looking for? If so, the post might be here
+
+</div>
 
 [^mdinpm]: npm: <https://www.npmjs.com/package/markdown-it>
 [^mdianpm]: npm: <https://www.npmjs.com/package/markdown-it-anchor>
