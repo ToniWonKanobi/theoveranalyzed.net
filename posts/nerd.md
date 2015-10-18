@@ -6,9 +6,7 @@ The site is built on a [forked version][github] of [Casey Liss][twitter]'s stati
 
 All of the pages on this site are based on "[static][wikipedia 2]" [Markdown][wikipedia 3] files `.md` (see [below][theoveranalyzed]), which are converted to HTML non-dynamically. The later versions of Camel and it's forks use [Vitaly Puzrin's][twitter 2] [CommonMark][commonmark]-based parser called [`markdown-it`][github 3].[^mdinpm] I've also installed several additional `markdown-it` [plugins][mdipl]. First, there's [Valérian Galliat][val]'s [`markdown-it-anchor`][github 4],[^mdianpm] which makes for easy linking to specific headers like on GitHub. Also, I added [Oktavilla][oktavilla]'s [`markdown-it-table-of-contents`][github 5],[^mditocnpm] which allows for easy insertion of a table of contents with `[[TOC]]`. I wish it supported nested header levels, but [the developer doesn't seem interested][okt].
 
-I have also employed a couple of indispensable open-source JavaScript projects. The first is [Bigfoot.js][bigfootjs] for fancy popup footnotes---first popularized by Marco Arment's read-it-later app, [Instapaper][marco]. And then there's [FitVids.js][fitvidsjs], which makes all `<iframe>` embeds responsive (i.e., it makes YouTube videos scale to the width of the horizontal container).
- 
-To the best of my knowledge, TheOverAnalyzed should perform well in most modern web browsers. For users of Internet Explorer version 6 and prior: my site might look weird in certain areas. Might I suggest an [alternative][google]?[^chrome]
+I have also employed a couple of indispensable open-source JavaScript projects. The first is [Bigfoot.js][bigfootjs] for fancy popup footnotes---[first popularized][marco] by [Marco Arment][marco2]'s read-it-later app, [Instapaper][itunes]. And then there's [FitVids.js][fitvidsjs], which makes all `<iframe>` embeds responsive (i.e., it makes YouTube videos scale to the width of the horizontal container).
 
 ## Useful URL Slugs
 
@@ -24,7 +22,6 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 
 **[/brokenlinks][theoveranalyzed 7]**: Perhaps you've looked high and low in a search engine and still can't find a link you're looking for? If so, the post might be here
 
-[^chrome]: For myself, I use [Safari][wikipedia 4] almost exclusively. I wanted to be as as platform-agnostic as possible with my suggestion, hence Google Chrome.
 [^mdinpm]: npm: <https://www.npmjs.com/package/markdown-it>
 [^mdianpm]: npm: <https://www.npmjs.com/package/markdown-it-anchor>
 [^mditocnpm]: npm: <https://www.npmjs.com/package/markdown-it-table-of-contents>
@@ -43,8 +40,9 @@ To the best of my knowledge, TheOverAnalyzed should perform well in most modern 
 [github 3]: https://github.com/markdown-it/markdown-it
 [github 4]: https://github.com/valeriangalliat/markdown-it-anchor
 [github 5]: https://github.com/Oktavilla/markdown-it-table-of-contents
-[google]: https://encrypted.google.com/chrome
+[itunes]: https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&at=1l3vx9s
 [marco]: http://www.marco.org/2011/10/17/instapaper-4-released
+[marco2]: http://twitter.com/marcoarment
 [mdipl]: https://www.npmjs.com/browse/keyword/markdown-it-plugin
 [okt]: https://twitter.com/oktavilla/status/638103971018764288
 [oktavilla]: http://oktavilla.se
