@@ -100,7 +100,7 @@ sub {
 blockquote {
 	margin: auto;
 	color: #9e9e9e;
-	padding: 0.5em 1em 0.25em 1em;
+	padding: 1.5em 1em 0.1em 1em;
 	border-left: 3px solid #eee
 }
 
