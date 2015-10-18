@@ -20,6 +20,8 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     font-size: 1rem;
+	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B',
+		"-apple-system", "Helvetica Neue", sans-serif;
     line-height: 0;
     /* Sets the vertical height of button */
     /* vertical-align: middle; */
@@ -32,19 +34,18 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     transition-duration: 0.25s
 }
 
-.bigfoot-footnote__button:hover, .bigfoot-footnote__button:focus {
+.bigfoot-footnote__button:hover,
+.bigfoot-footnote__button:focus {
     outline: none;
-    background-color: #ddd
-}
-
-.bigfoot-footnote__button:active {
     background-color: #ccc
 }
+
+.bigfoot-footnote__button:active { background-color: #ccc }
 
 /* Adjusts color of button when active */
 .bigfoot-footnote__button.is-active {
     /*background-color: #6e6e6e;*/
-    background-color: #aaa;
+    background-color: #545454;
     -webkit-transition-delay: 0.1s;
     transition-delay: 0.1s
 }
@@ -63,27 +64,12 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     float: left
 }
 
-.bigfoot-footnote__button__circle:last-child {
-    margin-right: 0
-}
+.bigfoot-footnote__button__circle:last-child { margin-right: 0 }
 
 .bigfoot-footnote__container {
     display: inline-block;
     position: relative;
     text-indent: 0
-}
-
-@media not print {
-    .footnote-print-only {
-        display: none !important
-    }
-}
-
-@media print {
-    .bigfoot-footnote,
-    .bigfoot-footnote__button {
-        display: none !important
-    }
 }
 
 /* Footnote open */
@@ -162,13 +148,9 @@ http://bigfootjs.com/download/bigfoot-number.zip */
 }
 
 .bigfoot-footnote.is-bottom-fixed .bigfoot-footnote__wrapper,
-.bigfoot-footnote.is-bottom-fixed .bigfoot-footnote__content {
-    border-radius: 0
-}
+.bigfoot-footnote.is-bottom-fixed .bigfoot-footnote__content { border-radius: 0 }
 
-.bigfoot-footnote.is-bottom-fixed .bigfoot-footnote__tooltip {
-    display: none
-}
+.bigfoot-footnote.is-bottom-fixed .bigfoot-footnote__tooltip { display: none }
 
 .bigfoot-footnote.is-scrollable:after {
     content: '';
@@ -214,9 +196,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     background-image: linear-gradient(to top, #fafafa 50%, rgba(250, 250, 250, 0) 100%)
 }
 
-.bigfoot-footnote.is-scrollable ::-webkit-scrollbar {
-    display: none
-}
+.bigfoot-footnote.is-scrollable ::-webkit-scrollbar { display: none }
 
 .bigfoot-footnote.is-fully-scrolled:after, .bigfoot-footnote.is-fully-scrolled:before {
     opacity: 0;
@@ -256,17 +236,11 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     line-height: 1.5
 }
 
-.bigfoot-footnote__content img {
-    max-width: 100%
-}
+.bigfoot-footnote__content img { max-width: 100% }
 
-.bigfoot-footnote__content * :last-child {
-    margin-bottom: 0 !important
-}
+.bigfoot-footnote__content * :last-child { margin-bottom: 0 !important }
 
-.bigfoot-footnote__content * :first-child {
-    margin-top: 0 !important
-}
+.bigfoot-footnote__content * :first-child { margin-top: 0 !important }
 
 /* Arrow thingy */
 .bigfoot-footnote__tooltip {
@@ -287,20 +261,17 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     border-top-left-radius: 0
 }
 
-.is-positioned-bottom .bigfoot-footnote__tooltip {
-    top: -0.65em
+.is-positioned-bottom .bigfoot-footnote__tooltip { top: -0.65em
 }
 
-.is-positioned-top .bigfoot-footnote__tooltip {
-    bottom: -0.65em
-}
+.is-positioned-top .bigfoot-footnote__tooltip { bottom: -0.65em }
 
 /* Shape of Bigfoot button */
 .bigfoot-footnote__button {
     position: relative;
     /* height: 0.95em;
-        	width: 1.5em;
-        	border-radius: 0.475em; */
+    width: 1.5em;
+    border-radius: 0.475em; */
     height: 1em;
     width: 1em;
     border-radius: .5em
@@ -322,15 +293,19 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     transition: color 0.25s ease
 }
 
-.bigfoot-footnote__button:hover:after, .bigfoot-footnote__button.is-active:after {
-    color: white
-}
+.bigfoot-footnote__button:hover:after,
+.bigfoot-footnote__button.is-active:after { color: white }
 
-.bigfoot-footnote__button__circle {
-    display: none
-}
+.bigfoot-footnote__button__circle { display: none }
 
 /* Keeps links from overwhelming content of footnote */
-.bigfoot-footnote__content a {
-    word-break: break-word
+.bigfoot-footnote__content a { word-break: break-word }
+
+@media not print {
+    .footnote-print-only { display: none !important }
+}
+
+@media print {
+    .bigfoot-footnote,
+    .bigfoot-footnote__button { display: none !important }
 }
