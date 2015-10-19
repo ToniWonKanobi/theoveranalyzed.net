@@ -111,7 +111,7 @@ blockquote ol:first-child { padding-top: 2em }
 
 blockquote p:last-child,
 blockquote ul:last-child,
-blockquote ol:last-child { padding-bottom: 0.1em }
+blockquote ol:last-child { padding-bottom: 0.25em }
 
 blockquote a { word-break: break-all }
 
@@ -778,6 +778,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 		width: 100vw;
 		margin-left: calc((100vw - 620px) / -2)
 	}
+
 }
 
 /* iPhone 6 and 6 Plus */
@@ -830,6 +831,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 		border-radius: 0;
 		border: none
 	}
+
 }
 
 /* Smaller iPhones */
@@ -862,4 +864,5 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 		border-radius: 0;
 		border: none
 	}
+
 }
