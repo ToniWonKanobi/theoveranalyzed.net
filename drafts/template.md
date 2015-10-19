@@ -6,6 +6,26 @@
 @@ Image=  
 @@ Video=
 
+<!-- FitVids -->
+<!-- http://fitvidsjs.com -->
+<script src="/js/fitvids.js"></script>
+<script>
+	$(document).ready(function(){
+		$(".entry").fitVids();
+	});
+</script>
+
+<!-- LazyLoad -->
+<!-- http://www.appelsiini.net/projects/lazyload -->
+<script src="/js/lazyload.js"></script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		$("img.lazy").show().lazyload({
+			effect: "fadeIn"
+		});
+	});
+</script>
+
 <div class="topstory">
 
 Italics

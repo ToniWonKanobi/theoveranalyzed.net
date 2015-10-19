@@ -271,17 +271,19 @@ pre {
 	-webkit-border-radius: 0.2em;
 	-moz-border-radius: 0.2em;
 	border-radius: 0.2em;
-	background-color: #eee
+	background-color: #eee;
+	border: 1px solid #ddd
 }
 
 code {
 	font-style: normal;
 	font-family: Menlo, monospace;
 	font-size: 0.7em;
-	padding: 0.2em;
+	padding: 0.3em 0.3em 0.2em 0.3em;
 	-webkit-border-radius: 0.2em;
 	-moz-border-radius: 0.2em;
 	border-radius: 0.2em;
+	border: 1px solid #ddd;
 	background-color: #eee
 }
 
