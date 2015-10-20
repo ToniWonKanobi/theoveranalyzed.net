@@ -800,11 +800,14 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 	#header a { height: 130px }
 
 	#siteTitle img,
-	#siteTitle a { width: 100% }
+	#siteTitle a {
+		width: 100%;
+		margin-top: 1.75em
+	}
 
 	#siteByline { margin-top: 0 }
 
-	#main { margin: 2em auto 4em auto }
+	#main { margin: 2.5em auto 4em auto }
 
 	/* Causes all floated images to collapse to center */
 	figure.figleft,
@@ -850,7 +853,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 		font-size: 0.9em
 	}
 
-	#main { margin-top: 0 }
+	#main { margin-top: 2em }
 
 	#header,
 	#header a { height: 110px }
