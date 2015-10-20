@@ -3,7 +3,7 @@
 @@ Link=https://www.youtube.com/watch?v=sGbxmsDFVnE  
 @@ Description="Nothing will stand in our way. I will finish what you started."  
 @@ Tags=Star Wars, Star Wars: The Force Awakens, movies, pop culture  
-@@ Image=http://toaassets.s3.amazonaws.com/Images/2015/10/19/star-wars-the-force-awakens-trailer/darth.jpg  
+@@ Image=http://d.pr/i/1luZm+ 
 
 <!-- FitVids -->
 <!-- http://fitvidsjs.com -->
