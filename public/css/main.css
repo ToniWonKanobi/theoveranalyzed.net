@@ -333,7 +333,7 @@ hr.articleDivider {
 /* Keeps the divider from being
 disproportionally long
 on wide screens */
-@media (min-width: 1400px) {
+@media (min-width: 1450px) {
 
 	hr.articleDivider {
 		width: 60vw;
@@ -421,6 +421,10 @@ on wide screens */
 .update a { border-bottom: none }
 
 .update a:hover { background: #fff }
+
+.update blockquote {
+	border-left-color: #ccc
+}
 
 
 /* Images
@@ -764,6 +768,8 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 /* iPad */
 @media (max-width: 768px) {
 
+	#main { margin-bottom: 4em }
+
 	hr.articleDivider {
 		width: 100vw;
 		margin: 3em auto 3em calc((100vw - 620px) / -2);
@@ -798,7 +804,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 
 	#siteByline { margin-top: 0 }
 
-	#main { margin: 0 auto 5em auto }
+	#main { margin: 2em auto 4em auto }
 
 	/* Causes all floated images to collapse to center */
 	figure.figleft,
@@ -843,6 +849,8 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 		width: 250px;
 		font-size: 0.9em
 	}
+
+	#main { margin-top: 0 }
 
 	#header,
 	#header a { height: 110px }
