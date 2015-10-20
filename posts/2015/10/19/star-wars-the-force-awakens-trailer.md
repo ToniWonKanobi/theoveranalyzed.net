@@ -6,13 +6,4 @@
 @@ Image=https://s3-us-west-1.amazonaws.com/theoveranalyzed/Images/2015/10/19/star-wars-the-force-awakens-trailer/darth.jpg  
 @@ Video=https://www.youtube.com/watch?v=sGbxmsDFVnE  
 
-<!-- FitVids -->
-<!-- http://fitvidsjs.com -->
-<script src="/js/fitvids.js"></script>
-<script>
-	$(document).ready(function(){
-		$(".entry").fitVids();
-	});
-</script>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sGbxmsDFVnE" frameborder="0" allowfullscreen></iframe>
+Here's the official trailer for Star Wars: The Force Awakens.
