@@ -6,11 +6,11 @@
 /*
 banner:    #3f70a2
 body:      #545454
-meta:      #9e9e9e
+meta:      #999
 links:     #3f70a2
 hover:     #eee
-quote:     #9e9e9e
-meta:      #9e9e9e
+quote:     #999
+meta:      #999
 hr:        #eee
 pre:       #eee
 code:      #eee
@@ -25,7 +25,7 @@ http://practicaltypography.com/point-size.html */
 body {
 	font-size: 13pt;
 	margin: 0;
-	color: #545454;
+	color: #555;
 	line-height: 1.6;
 	font-family: "Ideal Sans SSm A", "Ideal Sans SSm B",
 		"-apple-system", sans-serif;
@@ -100,7 +100,7 @@ sub {
 
 blockquote {
 	margin: auto;
-	color: #9e9e9e;
+	color: #999;
 	padding-left: 1.5em;
 	border-left: 3px solid #eee
 }
@@ -187,7 +187,7 @@ a.postTitleLinked { color: #3f70a2 }
 a.postTitleLinked:hover span.linkArrow { color: #3f70a2 }
 
 span.linkArrow {
-	color: #9e9e9e;
+	color: #999;
 	vertical-align: -4%;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
@@ -199,12 +199,12 @@ span.linkArrow {
 ============================================ */
 
 .postSubtitle {
-	color: #9e9e9e;
+	color: #999;
 	font-size: 0.9em;
 	margin-bottom: -0.25em
 }
 
-.postSubtitle a { color: #9e9e9e }
+.postSubtitle a { color: #999 }
 
 .postSubtitle a:hover { color: #3f70a2 }
 
@@ -325,7 +325,7 @@ hr.long {
 hr.articleDivider {
 	width: 80vw;
 	margin: 5em auto 5em calc((80vw - 620px) / -2);
-	background-color: #eee;
+	background-color: #ddd;
 	height: 0.2em;
 	border-radius: 0.2em
 }
@@ -401,7 +401,7 @@ on wide screens */
 }
 
 .updateTime {
-	color: #9e9e9e;
+	color: #999;
 	font-size: 0.9em;
 	margin-top: 0.5em
 }
@@ -496,7 +496,7 @@ figcaption {
 	margin: 1em auto auto 25%;
 	font-style: italic;
 	font-size: 0.8em;
-	color: #9e9e9e;
+	color: #999;
 	width: 50%;
 	text-align: left
 }
@@ -622,7 +622,7 @@ https://www.npmjs.com/package/markdown-it-footnote
 ============================================ */
 
 .footnote-ref a {
-	color: #9e9e9e;
+	color: #999;
 	border-bottom: none;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
@@ -641,7 +641,7 @@ hr.footnotes-sep {
 section.footnotes {
 	margin-top: 5em;
 	font-size: 0.8em;
-	color: #9e9e9e;
+	color: #999;
 	padding-left: 1.5em;
 	border-top: 1.5px solid #eee; /* Sorta-mimics `#main hr.footnotes-sep` */
 	border-radius: 0.2em;
@@ -649,7 +649,7 @@ section.footnotes {
 }
 
 section.footnotes a {
-	color: #9e9e9e;
+	color: #999;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out
@@ -657,7 +657,7 @@ section.footnotes a {
 
 a.footnote-backref {
 	vertical-align: -0.2em;
-	color:  #9e9e9e;
+	color:  #999;
 	border-bottom: none
 }
 
@@ -672,7 +672,7 @@ a.footnote-backref:hover {
 /* Homepage Pagination
 ============================================ */
 
-.homepage .paginationFooter {
+.paginationFooter {
 	height: 1em;
 	display: block;
 	width: 100%;
@@ -680,12 +680,16 @@ a.footnote-backref:hover {
 	font-size: 1.1em
 }
 
-.homepage .paginationFooter .previousPage {
+.paginationFooter a { color: #999 }
+
+.paginationFooter a:hover { color: #3f70a2 }
+
+.paginationFooter .previousPage {
 	display: inline;
 	float: right
 }
 
-.homepage .paginationFooter .nextPage {
+.paginationFooter .nextPage {
 	display: inline;
 	float: left
 }
