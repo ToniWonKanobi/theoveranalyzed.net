@@ -306,10 +306,18 @@ video { width: 100% }
 ============================================ */
 
 hr {
-	width: 40%;
-	margin: 2em auto 2em auto;
-	border-radius: 0.2em;
-	border: 1px solid #eee
+    padding: 0;
+    border: none;
+    color: #555;
+    text-align: center
+}
+
+hr:after {
+    content: "* * *";
+    display: inline-block;
+    position: relative;
+    font-size: 1.25em;
+	top: 0.2em
 }
 
 hr.long {
@@ -324,6 +332,10 @@ hr.articleDivider {
 	height: 0.2em;
 	border-radius: 0.2em
 }
+
+/* Removes "* * *" from non-<hr> */
+hr.long:after,
+hr.articleDivider:after { content: initial }
 
 /* Keeps the divider from being
 disproportionally long

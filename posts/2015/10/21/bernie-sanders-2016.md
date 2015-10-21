@@ -13,7 +13,7 @@ You thought this was going to be a post about politics, didn't you?
 
 <figure>
 	<a class="nohover" href="http://fontsinuse.com/uses/10488/bernie-sanders-2016-3">
-		<img src="http://assets.fontsinuse.com/static/use-media-items/33/32845/upto-700xauto/5623bb5a/@2x/Screen-Shot-2015-10-16-at-3-51-12-PM.png" alt="Bernie Sanders website">
+		<img class="screenshot" src="http://assets.fontsinuse.com/static/use-media-items/33/32845/upto-700xauto/5623bb5a/@2x/Screen-Shot-2015-10-16-at-3-51-12-PM.png" alt="Bernie Sanders website">
 	</a>
 	<figcaption><a href="http://fontsinuse.com/contributors/6317/naomie">Naomie Ross</a>: 
 	On the website, Jubilat is used as the headline typeface, while Freight Sans is used for supporting text."</figcaption>
