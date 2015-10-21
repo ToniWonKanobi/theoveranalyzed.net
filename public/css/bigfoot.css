@@ -37,7 +37,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
 .bigfoot-footnote__button:hover,
 .bigfoot-footnote__button:focus {
     outline: none;
-    background-color: #ccc
+    background-color: #bbb
 }
 
 .bigfoot-footnote__button:active { background-color: #ccc }
@@ -45,7 +45,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
 /* Adjusts color of button when active */
 .bigfoot-footnote__button.is-active {
     /*background-color: #6e6e6e;*/
-    background-color: #545454;
+    background-color: #555;
     -webkit-transition-delay: 0.1s;
     transition-delay: 0.1s
 }
@@ -82,12 +82,12 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     box-sizing: border-box;
     max-width: 90%;
     margin: 1.96924em 0;
-    background: #fafafa;
+    background: #eee;
     opacity: 0;
     border-radius: 0.5em;
     /* box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3); */
     /* border: 1px solid #c3c3c3; */
-    border: 2px solid #ccc;
+    border: 2px solid #ddd;
     line-height: 0;
     -webkit-transition-property: opacity, -webkit-transform;
     transition-property: opacity, transform;
@@ -229,14 +229,16 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     overflow: auto;
     -webkit-overflow-scrolling: touch;
     /* background: #fafafa; */
-    background: #f7f7f7;
-    border-radius: 0.5em;
+    background: #eee;
+    border-radius: 0.4em;
     -webkit-font-smoothing: subpixel-antialiased;
     /* line-height: normal */
     line-height: 1.5
 }
 
 .bigfoot-footnote__content img { max-width: 100% }
+
+.bigfoot-footnote__content a { border-bottom: 2px solid #ddd }
 
 .bigfoot-footnote__content * :last-child { margin-bottom: 0 !important }
 
@@ -254,9 +256,9 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
     /* background: #fafafa; */
-    background: #f7f7f7;
+    background: #eee;
     /* border: 1px solid #c3c3c3; */
-    border: 2px solid #ccc;
+    border: 2px solid #ddd;
     /* box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3); */
     border-top-left-radius: 0
 }

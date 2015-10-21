@@ -4,18 +4,17 @@
 /* Colors */
 
 /*
-banner:    #3f70a2
-body:      #545454
-meta:      #999
-links:     #3f70a2
-hover:     #eee
-quote:     #999
-meta:      #999
-hr:        #eee
-pre:       #eee
-code:      #eee
-borders:   #ddd
-update:    rgba(63, 110, 162, 0.15)
+masthead:    #3f70a2
+links:       #3f70a2
+body:        #555
+meta:        #999
+blockquote:  #999
+hover:       #eee
+hr:          #eee
+pre:         #eee
+code:        #eee
+borders:     #ddd
+update:      rgba(63, 112, 162, 0.2)
 */
 
 /* Font philosophies from
@@ -105,13 +104,9 @@ blockquote {
 	border-left: 3px solid #eee
 }
 
-blockquote p:first-child,
-blockquote ul:first-child,
-blockquote ol:first-child { padding-top: 2em }
+blockquote *:first-child { padding-top: 2em }
 
-blockquote p:last-child,
-blockquote ul:last-child,
-blockquote ol:last-child { padding-bottom: 0.25em }
+blockquote *:last-child { padding-bottom: 0.25em }
 
 blockquote a { word-break: break-all }
 
@@ -395,9 +390,10 @@ on wide screens */
 
 .update {
 	margin-top: 2em;
-	background-color: rgba(63, 110, 162, 0.15);
+	background-color: rgba(63, 112, 162, 0.2);
 	border-radius: 0.4em;
-	padding: 0.5em 2em 2em 2em
+	padding: 0.5em 2em 2em 2em;
+	border: 2px solid #ddd
 }
 
 .updateTime {
@@ -589,11 +585,14 @@ i.fa.fa-tag.fa-fw {
 https://www.npmjs.com/package/markdown-it-anchor
 ============================================ */
 
-.header-anchor {
-	color: #3f70a2;
+a.header-anchor {
+	color: #999;
 	opacity: 0;
 	font-size: 0.8em;
-	vertical-align: 7%
+	vertical-align: 8%;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out
 }
 
 .header-anchor,
