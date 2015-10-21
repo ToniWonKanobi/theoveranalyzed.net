@@ -337,18 +337,6 @@ hr.articleDivider {
 hr.long:after,
 hr.articleDivider:after { content: initial }
 
-/* Keeps the divider from being
-disproportionally long
-on wide screens */
-@media (min-width: 1450px) {
-
-	hr.articleDivider {
-		width: 60vw;
-		margin-left: calc((60vw - 620px) / -2)
-	}
-
-}
-
 
 /* Asides
 ============================================ */
@@ -775,6 +763,24 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 }
 
 #search input:focus { outline: none }
+
+
+/* Wide Displays
+============================================ */
+
+/* Keeps the divider from being
+disproportionally long
+on wide screens */
+@media (min-width: 2000px) {
+
+	#main { margin-top: 5em }
+
+	hr.articleDivider {
+		width: 1400px;
+		margin-left: calc((1400px - 620px) / -2)
+	}
+
+}
 
 
 /* Mobile Styles
