@@ -1,5 +1,5 @@
 @@ Title=The Ethics of Testing Cancer Treatments on Dogs  
-@@ Date=2015-10-22 08:00  
+@@ Date=2015-10-23 08:00  
 @@ Description=What if scientists could 3D-print DNA that helps fight cancer?  
 @@ Tags=animals, medicine, cancer, dogs  
 @@ Image=http://d.pr/i/12WGA+  
