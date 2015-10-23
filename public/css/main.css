@@ -105,6 +105,8 @@ blockquote {
 
 blockquote *:first-child { padding-top: 2em }
 
+blockquote a:first-child { padding-top: 0 }
+
 blockquote *:last-child { padding-bottom: 0.25em }
 
 blockquote a { word-break: break-all }
