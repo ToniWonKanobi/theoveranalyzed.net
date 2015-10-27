@@ -12,7 +12,7 @@
 	<figcaption>Nothing's ever as good as the original</figcaption>
 </figure>
 
-Evan Klein, over at Road & Track, took the new 2017 Acura NSX for a spin. And---surprise, surpsise---it doesn't live up to [the original][wikipedia]:
+Over at Road & Track, Evan Klein took the new 2017 Acura NSX for a spin. And---surprise, surpsise---it doesn't live up to [the original][wikipedia]:
 >This is not a modern interpretation of the light and lithe machine that stole our hearts in 1990. If you’re looking for mechanical purity, or that magical synergy of man and machine that Honda once did so well, I’m sorry, neither is here.
 
 >There are other ghosts to contend with. Stumbling out of San Francisco and into the varicose pavement along the coast, I expect the NSX to come alive, to shine like the new penny wonder its ancestor was.
