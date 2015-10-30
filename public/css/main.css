@@ -27,32 +27,44 @@ body {
 	line-height: 1.6;
 	font-family: "Ideal Sans SSm A", "Ideal Sans SSm B",
 		"-apple-system", sans-serif;
-	font-weight: 300
+	font-weight: 300;
 }
 
-i, em { font-style: italic }
+i, em {
+	font-style: italic;
+}
 
-b, strong { font-weight: 600 }
+b, strong {
+	font-weight: 600;
+}
 
 h1, h2, h3, h4 {
 	margin: 1.2em auto -0.3em auto;
-	font-weight: 600
+	font-weight: 600;
 }
 
-h1 { font-size: 1.5em }
+h1 {
+	font-size: 1.5em;
+}
 
-h2 { font-size: 1.25em }
+h2 {
+	font-size: 1.25em;
+}
 
-h3 { font-size: 1em }
+h3 {
+	font-size: 1em;
+}
 
-h4 { font-size: 0.9em }
+h4 {
+	font-size: 0.9em;
+}
 
 a {
 	text-decoration: none;
 	color: #3f70a2;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out
+	transition: all 0.2s ease-in-out;
 }
 
 .entry a {
@@ -60,14 +72,14 @@ a {
 	padding-bottom: 1px;
 	-webkit-transition: background 0.2s ease-in-out;
 	-moz-transition: background 0.2s ease-in-out;
-	transition: background 0.2s ease-in-out
+	transition: background 0.2s ease-in-out;
 }
 
 .entry a:hover {
 	color: #3f70a2;
 	background: #eee;
 	border-radius: 2px;
-	border-bottom: none
+	border-bottom: none;
 }
 
 /* So /:year/:month/:day matches other pages */
@@ -76,41 +88,48 @@ a.yearMonthDay {
 	padding-bottom: 1px;
 	-webkit-transition: background 0.2s ease-in-out;
 	-moz-transition: background 0.2s ease-in-out;
-	transition: background 0.2s ease-in-out
+	transition: background 0.2s ease-in-out;
 }
 
 a.yearMonthDay:hover {
 	color: #3f70a2;
 	background: #eee;
 	border-radius: 2px;
-	border-bottom: none
+	border-bottom: none;
 }
 
 sup {
 	vertical-align: super;
-	font-size: 0.7em
+	font-size: 0.7em;
 }
 
 sub {
 	vertical-align: sub;
-	font-size: 0.7em
+	font-size: 0.7em;
 }
 
 blockquote {
 	margin: auto;
 	color: #999;
 	padding-left: 1.5em;
-	border-left: 3px solid #eee
+	border-left: 3px solid #eee;
 }
 
-blockquote *:first-child { padding-top: 2em }
+blockquote *:first-child {
+	padding-top: 2em;
+}
 
-blockquote a:first-child { padding-top: 0 }
+blockquote a:first-child {
+	padding-top: 0;
+}
 
-blockquote *:last-child { padding-bottom: 0.25em }
+blockquote *:last-child {
+	padding-bottom: 0.25em;
+}
 
-blockquote a { word-break: break-all }
-
+blockquote a {
+	word-break: break-all;
+}
 
 
 /* Main Content
@@ -120,41 +139,45 @@ blockquote a { word-break: break-all }
 	width: 100%;
 	height: 160px;
 	margin-bottom: -160px;
-	background-color: #3f70a2
+	background-color: #3f70a2;
 }
 
 /* Keeps the `.footer` from floating up
 on "short" pages like `/about` */
-#container { min-height: calc(100vh - 25em) }
+#container {
+	min-height: calc(100vh - 25em);
+}
 
 #content {
 	width: 620px;
-	margin: auto
+	margin: auto;
 }
 
 #header,
 #header a {
 	text-align: center;
 	color: #fff;
-	height: 160px
+	height: 160px;
 }
 
 #header:hover {
 	background: none;
 	border: none;
-	text-decoration: none
+	text-decoration: none;
 }
 
 #siteTitle img {
 	width: 80%;
-	margin-top: 2em
+	margin-top: 2em;
 }
 
 #siteByline {
-	margin-top: -0.5em
+	margin-top: -0.5em;
 }
 
-#main { margin: 3em auto 6em auto }
+#main {
+	margin: 3em auto 6em auto;
+}
 
 
 /* Post Header
@@ -164,30 +187,40 @@ on "short" pages like `/about` */
 .postHeaderLinked {
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out
+	transition: all 0.2s ease-in-out;
 }
 .postHeader h1,
 .postHeaderLinked h2 {
 	font-weight: 700;
-	line-height: 1.5
+	line-height: 1.5;
 }
 
-.postHeader h1 { margin-bottom: -0.25em }
+.postHeader h1 {
+	margin-bottom: -0.25em;
+}
 
-a.postTitle { color: #545454 }
+a.postTitle {
+	color: #545454;
+}
 
-a.postTitle:hover { color: #3f70a2 }
+a.postTitle:hover {
+	color: #3f70a2;
+}
 
-a.postTitleLinked { color: #3f70a2 }
+a.postTitleLinked {
+	color: #3f70a2;
+}
 
-a.postTitleLinked:hover span.linkArrow { color: #3f70a2 }
+a.postTitleLinked:hover span.linkArrow {
+	color: #3f70a2;
+}
 
 span.linkArrow {
 	color: #999;
 	vertical-align: -4%;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out
+	transition: all 0.2s ease-in-out;
 }
 
 
@@ -197,12 +230,16 @@ span.linkArrow {
 .postSubtitle {
 	color: #999;
 	font-size: 0.9em;
-	margin-bottom: -0.25em
+	margin-bottom: -0.25em;
 }
 
-.postSubtitle a { color: #999 }
+.postSubtitle a {
+	color: #999;
+}
 
-.postSubtitle a:hover { color: #3f70a2 }
+.postSubtitle a:hover {
+	color: #3f70a2;
+}
 
 
 /* Post Tags
@@ -210,26 +247,26 @@ span.linkArrow {
 
 ul.postSubtitleItems {
 	padding: 0;
-	margin: 0.5em auto 0.25em auto
+	margin: 0.5em auto 0.25em auto;
 }
 
 ul.postSubtitleItems li {
 	display: inline;
 	margin-right: 1em;
-	padding: 0
+	padding: 0;
 }
 
 ul.postSubtitleItems + ul {
 	padding: 0;
 	margin: 0.25em auto 0.5em auto;
-	list-style: none
+	list-style: none;
 }
 
 ul.postTags {
 	padding: 0;
 	margin-left: 0;
 	list-style: none;
-	display: none
+	display: none;
 }
 
 li.postTags {
@@ -237,14 +274,20 @@ li.postTags {
 	width: 200px;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out
+	transition: all 0.2s ease-in-out;
 }
 
-li.postTags:hover { color: #3f70a2 }
+li.postTags:hover {
+	color: #3f70a2;
+}
 
-li.postTags:hover ul.postTags { display: block }
+li.postTags:hover ul.postTags {
+	display: block;
+}
 
-li.eachTag { padding: 0 }
+li.eachTag {
+	padding: 0;
+}
 
 
 /* Post Content
@@ -252,11 +295,13 @@ li.eachTag { padding: 0 }
 
 .topstory {
 	margin: 2em auto 2em auto;
-	font-style: italic
+	font-style: italic;
 }
 
 /* Removes italics on code blocks */
-.topstory code { font-style: normal }
+.topstory code {
+	font-style: normal;
+}
 
 pre {
 	font-family: Menlo, monospace;
@@ -268,7 +313,7 @@ pre {
 	-moz-border-radius: 0.2em;
 	border-radius: 0.2em;
 	background-color: #eee;
-	border: 1px solid #ddd
+	border: 1px solid #ddd;
 }
 
 code {
@@ -280,27 +325,35 @@ code {
 	-moz-border-radius: 0.2em;
 	border-radius: 0.2em;
 	border: 1px solid #ddd;
-	background-color: #eee
+	background-color: #eee;
 }
 
 pre code {
 	font-size: 0.9em;
 	overflow: auto;
 	padding: 0;
-	border: none
+	border: none;
 }
 
-a code { padding-bottom: 0 }
+a code {
+	padding-bottom: 0;
+}
 
 /* Fixes `markdown-it`
 `.homepage` fenced code block funkiness */
-.homepage pre code { white-space: pre-line}
+.homepage pre code {
+	white-space: pre-line;
+}
 
 audio,
-video { width: 100% }
+video {
+	width: 100%;
+}
 
 /* Fixes iframe margin weirdness */
-.fluid-width-video-wrapper { margin-top: 1em }
+.fluid-width-video-wrapper {
+	margin-top: 1em;
+}
 
 
 /* Horizontal Rules
@@ -310,7 +363,7 @@ hr {
     padding: 0;
     border: none;
     color: #555;
-    text-align: center
+    text-align: center;
 }
 
 hr:after {
@@ -318,12 +371,12 @@ hr:after {
     display: inline-block;
     position: relative;
     font-size: 1.25em;
-	top: 0.2em
+	top: 0.2em;
 }
 
 hr.long {
 	width: 100%;
-	margin: 1.5em auto 1.5em auto
+	margin: 1.5em auto 1.5em auto;
 }
 
 hr.articleDivider {
@@ -331,15 +384,17 @@ hr.articleDivider {
 	margin: 5em auto 5em calc((80vw - 620px) / -2);
 	background-color: #ddd;
 	height: 0.3em;
-	border-radius: 0.2em
+	border-radius: 0.2em;
 }
 
 /* Removes "* * *" from non-<hr> */
 hr.long:after,
-hr.articleDivider:after { content: initial }
+hr.articleDivider:after {
+	content: initial;
+}
 
 
-/* Asides
+/* Emphasized Text "Asides"
 ============================================ */
 
 .takehome {
@@ -350,7 +405,7 @@ hr.articleDivider:after { content: initial }
 	font-style: italic;
 	text-transform: uppercase;
 	border-top: 2px solid #eee;
-	border-bottom: 2px solid #eee
+	border-bottom: 2px solid #eee;
 }
 
 .takehomeRight {
@@ -364,7 +419,7 @@ hr.articleDivider:after { content: initial }
 	text-transform: uppercase;
 	width: 30%;
 	border-top: 2px solid #eee;
-	border-bottom: 2px solid #eee
+	border-bottom: 2px solid #eee;
 }
 
 .takehomeLeft {
@@ -378,12 +433,14 @@ hr.articleDivider:after { content: initial }
 	text-transform: uppercase;
 	width: 30%;
 	border-top: 2px solid #ddd;
-	border-bottom: 2px solid #ddd
+	border-bottom: 2px solid #ddd;
 }
 
 .takehome p,
 .takehomeRight p,
-.takehomeLeft p { margin: 0.5em auto 0.5em auto }
+.takehomeLeft p {
+	margin: 0.5em auto 0.5em auto;
+}
 
 
 /* Updated Content
@@ -394,33 +451,39 @@ hr.articleDivider:after { content: initial }
 	background-color: rgba(63, 112, 162, 0.15);
 	border-radius: 0.4em;
 	padding: 0.5em 2em 2em 2em;
-	border: 2px solid #ddd
+	border: 2px solid #ddd;
 }
 
 .updateTime {
 	color: #999;
 	font-size: 0.9em;
-	margin-top: 0.5em
+	margin-top: 0.5em;
 }
 
 .update pre {
 	border: 2px solid #ddd;
-	border-radius: 0.2em
+	border-radius: 0.2em;
 }
 
 .update code {
 	border: 1px solid #ddd;
-	border-radius: 0.2em
+	border-radius: 0.2em;
 }
 
-.update pre code { border: none }
+.update pre code {
+	border: none;
+}
 
-.update a { border-bottom: none }
+.update a {
+	border-bottom: none;
+}
 
-.update a:hover { background: #fff }
+.update a:hover {
+	background: #fff;
+}
 
 .update blockquote {
-	border-left-color: #ccc
+	border-left-color: #ccc;
 }
 
 
@@ -429,31 +492,33 @@ hr.articleDivider:after { content: initial }
 
 img {
 	max-width: 100%;
-	vertical-align: middle
+	vertical-align: middle;
 }
 
 /* Makes the white background on jpgs
 and shadow-less screenshots less offensive */
 img.screenshot {
 	border: 2px solid #ddd;
-	border-radius: 0.4em
+	border-radius: 0.4em;
 }
 
 figure {
 	text-align: center;
-	margin: 1em auto
+	margin: 1em auto;
 }
 
-.article .entry figure:first-child { margin-top: 1.5em }
+.article .entry figure:first-child {
+	margin-top: 1.5em;
+}
 
 figure a.nohover {
 	background: none;
-	border: none
+	border: none;
 }
 
 figure a.nohover:hover {
 	background: none;
-	border: none
+	border: none;
 }
 
 figure.inlinetwo img {
@@ -473,20 +538,22 @@ figure.figright {
 	margin: 0.5em 2em 1em 0.5em;
 	width: 50%;
 	display: inline-block;
-	float: left
+	float: left;
 }
 
 figure.figright {
 	float: right;
-	margin: 0.5em 0.5em 1em 2em
+	margin: 0.5em 0.5em 1em 2em;
 }
 
 figure.iphone,
-figure.applewatch { width: 300px }
+figure.applewatch {
+	width: 300px;
+}
 
 figure.wide {
 	width: 1000px;
-	margin-left: -190px
+	margin-left: -190px;
 }
 
 figcaption {
@@ -495,7 +562,7 @@ figcaption {
 	font-size: 0.8em;
 	color: #999;
 	width: 50%;
-	text-align: left
+	text-align: left;
 }
 
 
@@ -506,18 +573,18 @@ ul,
 ol,
 dl {
 	padding-left: 1.75em;
-	margin: 1em auto 1em auto
+	margin: 1em auto 1em auto;
 }
 
 li {
 	padding-left: 0.25em;
-	margin-bottom: 1em
+	margin-bottom: 1em;
 }
 
 .table-of-contents a:hover,
 .table-of-contents a {
 	border-bottom: none;
-	background: none
+	background: none;
 }
 
 
@@ -532,7 +599,7 @@ table {
 	margin-bottom: auto;
 	border-bottom: 2px solid #ddd;
 	border-right: 2px solid #ddd;
-	border-collapse: collapse
+	border-collapse: collapse;
 }
 
 table th {
@@ -550,15 +617,21 @@ table td {
 
 table th code {
 	border: 1px solid #ddd;
-	border-radius: 0.2em
+	border-radius: 0.2em;
 }
 
-table.sortable thead { cursor: default }
+table.sortable thead {
+	cursor: default;
+}
 
 /* Keeps wide tables from overwhelming the layout on mobile */
-.table { overflow-x: scroll }
+.table {
+	overflow-x: scroll;
+}
 
-.table figcaption { margin: 1em auto }
+.table figcaption {
+	margin: 1em auto;
+}
 
 
 /* Font Awesome
@@ -568,17 +641,17 @@ http://fontawesome.io
 i.fa.fa-clock-o.fa-fw {
 	vertical-align: 4%;
 	font-size: 0.9em;
-	margin-left: -2px
+	margin-left: -2px;
 }
 
 i.fa.fa-tags.fa-fw {
 	vertical-align: 5%;
-	font-size: 0.8em
+	font-size: 0.8em;
 }
 
 i.fa.fa-tag.fa-fw {
 	vertical-align: 12%;
-	font-size: 0.7em
+	font-size: 0.7em;
 }
 
 
@@ -593,7 +666,7 @@ a.header-anchor {
 	vertical-align: 8%;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out
+	transition: all 0.2s ease-in-out;
 }
 
 .header-anchor,
@@ -602,18 +675,20 @@ a.header-anchor {
 	text-decoration: none;
 	background: none;
 	color: #3f70a2;
-	border-radius: none
+	border-radius: none;
 }
 
 h1:hover .header-anchor,
 h2:hover .header-anchor,
 h3:hover .header-anchor,
-h4:hover .header-anchor { opacity: 1 }
+h4:hover .header-anchor {
+	opacity: 1;
+}
 
 a.header-anchor,
 a.header-anchor:hover {
 	border-bottom: none;
-	background: none
+	background: none;
 }
 
 
@@ -626,7 +701,7 @@ https://www.npmjs.com/package/markdown-it-footnote
 	border-bottom: none;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out
+	transition: all 0.2s ease-in-out;
 }
 
 /* Disabled until CommonMark /
@@ -635,7 +710,7 @@ hr.footnotes-sep {
 	width: 10em;
 	margin: 5em auto 1.5em 0;
 	border: 1px solid #ddd;
-	display: none
+	display: none;
 }
 
 section.footnotes {
@@ -645,27 +720,27 @@ section.footnotes {
 	padding-left: 1.5em;
 	border-top: 1.5px solid #eee; /* Sorta-mimics `#main hr.footnotes-sep` */
 	border-radius: 0.2em;
-	padding-top: 1.5em
+	padding-top: 1.5em;
 }
 
 section.footnotes a {
 	color: #999;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out
+	transition: all 0.2s ease-in-out;
 }
 
 a.footnote-backref {
 	vertical-align: -0.2em;
 	color:  #999;
-	border-bottom: none
+	border-bottom: none;
 }
 
 .footnote-ref a:hover,
 a.footnote-backref:hover {
 	border-bottom: none;
 	background: none;
-	border-radius: none
+	border-radius: none;
 }
 
 
@@ -677,21 +752,25 @@ a.footnote-backref:hover {
 	display: block;
 	width: 100%;
 	font-weight: 400;
-	font-size: 1.1em
+	font-size: 1.1em;
 }
 
-.paginationFooter a { color: #999 }
+.paginationFooter a {
+	color: #999;
+}
 
-.paginationFooter a:hover { color: #3f70a2 }
+.paginationFooter a:hover {
+	color: #3f70a2;
+}
 
 .paginationFooter .previousPage {
 	display: inline;
-	float: right
+	float: right;
 }
 
 .paginationFooter .nextPage {
 	display: inline;
-	float: left
+	float: left;
 }
 
 
@@ -700,46 +779,60 @@ a.footnote-backref:hover {
 
 #bottomAd {
 	border-top: 1px solid #ddd;
-	border-bottom: 1px solid #ddd;
 	width: 100%;
-	height: 130px
+	height: 130px;
+	background: #fff;
 }
 
 #bottomAd figure figcaption {
 	text-align: center;
-	margin-top: 0
+	margin-top: 0;
 }
 
-#bottomAd img { width: 150px }
+#bottomAd img {
+	width: 150px;
+}
 
-#footer {
+footer {
 	background-color: #3f70a2;
 	color: #fff;
-	height: 200px;
-	text-align: center
+	text-align: center;
 }
 
-#nav {
+nav {
+	background-color: #3f70a2;
+	color: #fff;
 	font-size: 1.1em;
-	font-weight: 400
+	font-weight: 400;
 }
 
-#nav a { color: #fff }
+nav a {
+	color: #fff;
+}
 
-#nav a:hover { color: #8abef4 }
+nav a:hover {
+	color: #8abef4;
+}
 
-#nav ul {
+nav ul {
 	margin: auto;
 	list-style: none;
-	padding: 1.25em 0 1em 0
+	padding: 1em 0;
 }
 
-#nav li {
+nav li {
 	margin-bottom: auto;
-	padding: 0
+	padding: 0;
 }
 
-#copyright { font-size: 0.8em }
+#copyright {
+	background: #3f70a2;
+	font-size: 0.8em;
+}
+
+#copyright p {
+	margin: 0;
+}
 
 
 /* Search Page
@@ -749,7 +842,7 @@ a.footnote-backref:hover {
 http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 #search {
 	margin: 1em auto 5em auto;
-	width: 100%
+	width: 100%;
 }
 
 #search input {
@@ -760,10 +853,12 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 	color: #545454;
 	-webkit-border-radius: 0.4em;
 	-moz-border-radius: 0.4em;
-	border-radius: 0.4em
+	border-radius: 0.4em;
 }
 
-#search input:focus { outline: none }
+#search input:focus {
+	outline: none;
+}
 
 
 /* Wide Displays
@@ -774,11 +869,13 @@ disproportionally long
 on wide screens */
 @media (min-width: 1600px) {
 
-	#main { margin-top: 5em }
+	#main {
+		margin-top: 5em;
+	}
 
 	hr.articleDivider {
 		width: 1400px;
-		margin-left: calc((1400px - 620px) / -2)
+		margin-left: calc((1400px - 620px) / -2);
 	}
 
 }
@@ -790,18 +887,20 @@ on wide screens */
 /* iPad */
 @media (max-width: 768px) {
 
-	#main { margin-bottom: 4em }
+	#main {
+		margin-bottom: 4em;
+	}
 
 	hr.articleDivider {
 		width: 100vw;
 		margin: 3em auto 3em calc((100vw - 620px) / -2);
 		border-radius: 0;
-		border: none
+		border: none;
 	}
 
 	figure.wide {
 		width: 100vw;
-		margin-left: calc((100vw - 620px) / -2)
+		margin-left: calc((100vw - 620px) / -2);
 	}
 
 }
@@ -811,25 +910,35 @@ on wide screens */
 
 	#masthead {
 		height: 130px;
-		margin-bottom: -130px
+		margin-bottom: -130px;
 	}
 
-	#container { min-height: calc(100vh - 24em) }
+	#container {
+		min-height: calc(100vh - 24em);
+	}
 
-	#content { width: 300px }
+	#content {
+		width: 300px;
+	}
 
 	#header,
-	#header a { height: 130px }
+	#header a {
+		height: 130px;
+	}
 
 	#siteTitle img,
 	#siteTitle a {
 		width: 100%;
-		margin-top: 1.75em
+		margin-top: 1.75em;
 	}
 
-	#siteByline { margin-top: 0 }
+	#siteByline {
+		margin-top: 0;
+	}
 
-	#main { margin: 2.5em auto 4em auto }
+	#main {
+		margin: 2.5em auto 4em auto;
+	}
 
 	/* Causes all floated images to collapse to center */
 	figure.figleft,
@@ -838,26 +947,26 @@ on wide screens */
 	figure.inlinethree img {
 		float: none;
 		width: 80%;
-		margin: 1em 10% 1em 10%
+		margin: 1em 10% 1em 10%;
 	}
 
 	figure.wide {
 		width: 100vw;
-		margin-left: calc((100vw - 300px) / -2)
+		margin-left: calc((100vw - 300px) / -2);
 	}
 
 	.takehomeRight,
 	.takehomeLeft {
 		float: none;
 		margin: auto;
-		width: 100%
+		width: 100%;
 	}
 
 	hr.articleDivider {
 		width: 100vw;
 		margin: 3em auto 3em calc((100vw - 300px) / -2);
 		border-radius: 0;
-		border: none
+		border: none;
 	}
 
 }
@@ -867,32 +976,38 @@ on wide screens */
 
 	#masthead {
 		height: 110px;
-		margin-bottom: -110px
+		margin-bottom: -110px;
 	}
 
 	#content {
 		width: 250px;
-		font-size: 0.9em
+		font-size: 0.9em;
 	}
 
-	#main { margin-top: 2em }
+	#main {
+		margin-top: 2em;
+	}
 
 	#header,
-	#header a { height: 110px }
+	#header a {
+		height: 110px;
+	}
 
 	figure.iphone,
-	figure.applewatch { width: 200px }
+	figure.applewatch {
+		width: 200px;
+	}
 
 	figure.wide {
 		width: 100vw;
-		margin-left: calc((100vw - 250px) / -2)
+		margin-left: calc((100vw - 250px) / -2);
 	}
 
 	hr.articleDivider {
 		width: 100vw;
 		margin: 3em auto 3em calc((100vw - 250px) / -2);
 		border-radius: 0;
-		border: none
+		border: none;
 	}
 
 }
