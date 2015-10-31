@@ -398,7 +398,7 @@ hr.articleDivider:after{
 	content: inherit;
 }
 
-section.day section.articles hr.articleDivider:last-child {
+section.day:last-of-type hr.articleDivider:last-of-type {
 	display: none;
 }
 
