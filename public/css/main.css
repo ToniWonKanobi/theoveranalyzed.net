@@ -26,8 +26,8 @@ body {
 	color: #555;
 	font-size: 13pt;
 	line-height: 1.6;
-	font-family: "Ideal Sans SSm A", "Ideal Sans SSm B",
-		"-apple-system", sans-serif;
+	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B',
+		-apple-system, sans-serif;
 	font-weight: 300;
 }
 
@@ -157,7 +157,7 @@ header:hover {
 }
 
 #siteTitle {
-	margin: 2em auto 0 auto;
+	margin: 1.75em auto 0 auto;
 }
 
 #siteTitle img {
@@ -207,15 +207,9 @@ a.postTitle {
 	color: #555;
 }
 
-a.postTitle:hover {
-	color: #3f70a2;
-}
-
-a.postTitleLinked {
-	color: #3f70a2;
-}
-
-a.postTitleLinked:hover span.linkArrow {
+a.postTitle:hover,
+a.postTitleLinked,
+a.postTitleLinked:hover span.linkArrow{
 	color: #3f70a2;
 }
 
@@ -786,16 +780,20 @@ a.footnote-backref:hover {
 #bottomAd {
 	border-top: 2px solid #ddd;
 	height: 130px;
+	max-height: 20vh;
 	background: #fff;
 }
 
-#bottomAd figcaption {
-	text-align: center;
-	margin-top: 0;
+#bottomAd figure {
+	width: 150px;
+	max-width: 35%;
+	margin-top: 0.75em;
 }
 
-#bottomAd img {
-	width: 150px;
+#bottomAd figcaption {
+	margin: auto auto auto auto;
+	width: 100%%;
+	text-align: center;
 }
 
 footer {
@@ -908,16 +906,16 @@ on wide screens */
 
 	header,
 	header a {
-		height: 130px;
+		height: 17vh;
 	}
 
 	#topBanner {
-		height: 130px;
-		margin-bottom: -130px;
+		height: 17vh;
+		margin-bottom: -17vh;
 	}
 
 	#siteTitle {
-		margin-top: 1.75em;
+		margin-top: 3.5vh;
 	}
 
 	#siteTitle img,
@@ -942,7 +940,7 @@ on wide screens */
 	figure.inlinethree img {
 		float: none;
 		width: 100%;
-		margin: 1em 10% 1em 10%;
+		margin: 1em auto 1em auto;
 	}
 
 	figure.wide {
@@ -963,22 +961,6 @@ on wide screens */
 		border-radius: 0;
 	}
 
-	#bottomAd {
-		height: 100px;
-	}
-
-	#bottomAd figure {
-		margin: 0.75em auto;
-	}
-
-	#bottomAd figcaption {
-		font-size: 0.7em;
-	}
-
-	#bottomAd img {
-		width: 120px;
-	}
-
 }
 
 /* Smaller iPhones */
@@ -986,16 +968,6 @@ on wide screens */
 
 	body {
 		font-size: 0.95em
-	}
-
-	header,
-	header a {
-		height: 110px;
-	}
-
-	#topBanner {
-		height: 110px;
-		margin-bottom: -110px;
 	}
 
 	main {
