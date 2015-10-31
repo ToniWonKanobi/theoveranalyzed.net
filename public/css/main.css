@@ -398,8 +398,8 @@ hr.articleDivider:after{
 	content: inherit;
 }
 
-hr.articleDivider:last-child {
-	display: none
+section.day section.articles hr.articleDivider:last-child {
+	display: none;
 }
 
 
