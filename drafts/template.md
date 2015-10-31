@@ -94,15 +94,17 @@ Italics
 </figure>
 </div>
 
-<div class="update">
+<aside>
+	<div class="update">
 
-## Update: Blah
-<p class="updateTime"><time datetime="2015-01-01">January 1, 2015</time></p>
+	## Update: Blah
+	<p class="updateTime"><time datetime="2015-01-01">January 1, 2015</time></p>
 
-Text
+	Text
 
-JPG<img class="jpg" src="imagelink" alt="alttext" />
+	JPG<img class="jpg" src="imagelink" alt="alttext" />
 
-PNG<img src="imagelink" alt="alttext" />
+	PNG<img src="imagelink" alt="alttext" />
 
-</div>
+	</div>
+</aside>

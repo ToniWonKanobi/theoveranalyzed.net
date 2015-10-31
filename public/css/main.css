@@ -1,5 +1,5 @@
 /*
-masthead:    #3f70a2
+topBanner:   #3f70a2
 links:       #3f70a2
 body:        #555
 meta:        #999
@@ -9,7 +9,7 @@ hr:          #eee
 pre:         #eee
 code:        #eee
 borders:     #ddd
-update:      rgba(63, 112, 162, 0.15)
+update:      rgba(63, 112, 162, 0.10)
 */
 
 
@@ -21,25 +21,26 @@ Matthew Butterick's Practical Typography
 http://practicaltypography.com/point-size.html */
 
 body {
-	font-size: 13pt;
 	margin: 0;
+	padding: 0;
 	color: #555;
+	font-size: 13pt;
 	line-height: 1.6;
 	font-family: "Ideal Sans SSm A", "Ideal Sans SSm B",
 		"-apple-system", sans-serif;
 	font-weight: 300;
 }
 
-i, em {
+em, i {
 	font-style: italic;
 }
 
-b, strong {
+strong, b {
 	font-weight: 600;
 }
 
 h1, h2, h3, h4 {
-	margin: 1.2em auto -0.3em auto;
+	margin: 1.25em auto -0.25em auto;
 	font-weight: 600;
 }
 
@@ -119,6 +120,10 @@ blockquote *:first-child {
 	padding-top: 2em;
 }
 
+blockquote a {
+	word-break: break-all;
+}
+
 blockquote a:first-child {
 	padding-top: 0;
 }
@@ -127,68 +132,67 @@ blockquote *:last-child {
 	padding-bottom: 0.25em;
 }
 
-blockquote a {
-	word-break: break-all;
-}
 
-
-/* Main Content
+/* Header
 ============================================ */
 
-#masthead {
+header,
+header a {
+	text-align: center;
+	color: #fff;
+	height: 160px;
+}
+
+header:hover {
+	background: none;
+	border: none;
+	text-decoration: none;
+}
+
+#topBanner {
 	width: 100%;
 	height: 160px;
 	margin-bottom: -160px;
 	background-color: #3f70a2;
 }
 
-/* Keeps the `.footer` from floating up
-on "short" pages like `/about` */
-#container {
-	min-height: calc(100vh - 25em);
-}
-
-#content {
-	width: 620px;
-	margin: auto;
-}
-
-#header,
-#header a {
-	text-align: center;
-	color: #fff;
-	height: 160px;
-}
-
-#header:hover {
-	background: none;
-	border: none;
-	text-decoration: none;
+#siteTitle {
+	margin: 2em auto 0 auto;
 }
 
 #siteTitle img {
-	width: 80%;
-	margin-top: 2em;
+	width: 520px;
 }
 
 #siteByline {
 	margin-top: -0.5em;
 }
 
-#main {
+
+/* Main Content
+============================================ */
+
+main {
+	width: 650px;
+	min-height: calc(100vh - 609px);
 	margin: 3em auto 6em auto;
 }
 
-
-/* Post Header
-============================================ */
+main header {
+	height: auto;
+	color: inherit;
+	text-align: left;
+}
 
 .postHeader,
 .postHeaderLinked {
+	text-align: left;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
+	height:auto
 }
+
 .postHeader h1,
 .postHeaderLinked h2 {
 	font-weight: 700;
@@ -200,7 +204,7 @@ on "short" pages like `/about` */
 }
 
 a.postTitle {
-	color: #545454;
+	color: #555;
 }
 
 a.postTitle:hover {
@@ -272,6 +276,7 @@ ul.postTags {
 li.postTags {
 	padding: 0;
 	width: 200px;
+	margin: 0;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
@@ -313,7 +318,6 @@ pre {
 	-moz-border-radius: 0.2em;
 	border-radius: 0.2em;
 	background-color: #eee;
-	border: 1px solid #ddd;
 }
 
 code {
@@ -324,7 +328,6 @@ code {
 	-webkit-border-radius: 0.2em;
 	-moz-border-radius: 0.2em;
 	border-radius: 0.2em;
-	border: 1px solid #ddd;
 	background-color: #eee;
 }
 
@@ -376,21 +379,27 @@ hr:after {
 
 hr.long {
 	width: 100%;
+	border-radius: 0.2em;
+	border: 1.5px solid #ddd;
 	margin: 1.5em auto 1.5em auto;
 }
 
 hr.articleDivider {
 	width: 80vw;
-	margin: 5em auto 5em calc((80vw - 620px) / -2);
+	margin: 4em auto 4em calc( (80vw - 650px) / -2);
 	background-color: #ddd;
 	height: 0.3em;
 	border-radius: 0.2em;
 }
 
-/* Removes "* * *" from non-<hr> */
+/* Removes the "***" on regular `<hr>` */
 hr.long:after,
-hr.articleDivider:after {
-	content: initial;
+hr.articleDivider:after{
+	content: inherit;
+}
+
+hr.articleDivider:last-child {
+	display: none
 }
 
 
@@ -448,10 +457,9 @@ hr.articleDivider:after {
 
 .update {
 	margin-top: 2em;
-	background-color: rgba(63, 112, 162, 0.15);
+	background-color: rgba(63, 112, 162, 0.1);
 	border-radius: 0.4em;
 	padding: 0.5em 2em 2em 2em;
-	border: 2px solid #ddd;
 }
 
 .updateTime {
@@ -479,7 +487,7 @@ hr.articleDivider:after {
 }
 
 .update a:hover {
-	background: #fff;
+	background: #ccc;
 }
 
 .update blockquote {
@@ -511,11 +519,7 @@ figure {
 	margin-top: 1.5em;
 }
 
-figure a.nohover {
-	background: none;
-	border: none;
-}
-
+figure a.nohover,
 figure a.nohover:hover {
 	background: none;
 	border: none;
@@ -533,8 +537,7 @@ figure.inlinethree img {
 	margin-right: 0.25em;
 }
 
-figure.figleft,
-figure.figright {
+figure.figleft {
 	margin: 0.5em 2em 1em 0.5em;
 	width: 50%;
 	display: inline-block;
@@ -542,8 +545,10 @@ figure.figright {
 }
 
 figure.figright {
-	float: right;
 	margin: 0.5em 0.5em 1em 2em;
+	width: 50%;
+	display: inline-block;
+	float: right;
 }
 
 figure.iphone,
@@ -552,8 +557,8 @@ figure.applewatch {
 }
 
 figure.wide {
-	width: 1000px;
-	margin-left: -190px;
+	width: 80vw;
+	margin-left: -10vw;
 }
 
 figcaption {
@@ -572,17 +577,16 @@ figcaption {
 ul,
 ol,
 dl {
-	padding-left: 1.75em;
-	margin: 1em auto 1em auto;
+	padding-left: 1.25em;
 }
 
 li {
 	padding-left: 0.25em;
-	margin-bottom: 1em;
+	margin: 1em auto 1em auto
 }
 
-.table-of-contents a:hover,
-.table-of-contents a {
+.table-of-contents a,
+.table-of-contents a:hover {
 	border-bottom: none;
 	background: none;
 }
@@ -594,9 +598,7 @@ li {
 /* Table styles cribbed from Byword's Marked CSS
 http://bywordapp.com/extras/index.html */
 table {
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: auto;
+	margin: auto;
 	border-bottom: 2px solid #ddd;
 	border-right: 2px solid #ddd;
 	border-collapse: collapse;
@@ -707,9 +709,9 @@ https://www.npmjs.com/package/markdown-it-footnote
 /* Disabled until CommonMark /
 `markdown-it-footnote` gets fixed */
 hr.footnotes-sep {
-	width: 10em;
+/* 	width: 10em;
 	margin: 5em auto 1.5em 0;
-	border: 1px solid #ddd;
+	border: 1px solid #ddd; */
 	display: none;
 }
 
@@ -718,7 +720,7 @@ section.footnotes {
 	font-size: 0.8em;
 	color: #999;
 	padding-left: 1.5em;
-	border-top: 1.5px solid #eee; /* Sorta-mimics `#main hr.footnotes-sep` */
+	border-top: 1.5px solid #eee; /* Sorta-mimics `main hr.footnotes-sep` */
 	border-radius: 0.2em;
 	padding-top: 1.5em;
 }
@@ -748,7 +750,7 @@ a.footnote-backref:hover {
 ============================================ */
 
 .paginationFooter {
-	height: 1em;
+	padding: 3em 0 0 0;
 	display: block;
 	width: 100%;
 	font-weight: 400;
@@ -763,6 +765,10 @@ a.footnote-backref:hover {
 	color: #3f70a2;
 }
 
+.pageintationFooder p {
+	vertical-align: center;
+}
+
 .paginationFooter .previousPage {
 	display: inline;
 	float: right;
@@ -774,17 +780,16 @@ a.footnote-backref:hover {
 }
 
 
-/* Bottom Navigation
+/* Footer
 ============================================ */
 
 #bottomAd {
-	border-top: 1px solid #ddd;
-	width: 100%;
+	border-top: 2px solid #ddd;
 	height: 130px;
 	background: #fff;
 }
 
-#bottomAd figure figcaption {
+#bottomAd figcaption {
 	text-align: center;
 	margin-top: 0;
 }
@@ -821,17 +826,15 @@ nav ul {
 }
 
 nav li {
-	margin-bottom: auto;
+	margin: auto;
 	padding: 0;
 }
 
 #copyright {
 	background: #3f70a2;
 	font-size: 0.8em;
-}
-
-#copyright p {
 	margin: 0;
+	padding-bottom: 0.5em;
 }
 
 
@@ -850,7 +853,7 @@ http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
 	background-color: #f8f8f8;
 	border: 2px solid #eee;
 	padding: 1em;
-	color: #545454;
+	color: #555;
 	-webkit-border-radius: 0.4em;
 	-moz-border-radius: 0.4em;
 	border-radius: 0.4em;
@@ -869,75 +872,67 @@ disproportionally long
 on wide screens */
 @media (min-width: 1600px) {
 
-	#main {
-		margin-top: 5em;
-	}
-
 	hr.articleDivider {
 		width: 1400px;
-		margin-left: calc((1400px - 620px) / -2);
+		margin-left: -375px;
 	}
 
 }
 
 
-/* Mobile Styles
+/* Mobile
 ============================================ */
 
 /* iPad */
 @media (max-width: 768px) {
 
-	#main {
-		margin-bottom: 4em;
-	}
-
-	hr.articleDivider {
-		width: 100vw;
-		margin: 3em auto 3em calc((100vw - 620px) / -2);
-		border-radius: 0;
-		border: none;
+	main {
+		min-height: calc(100vh - 600px);
 	}
 
 	figure.wide {
 		width: 100vw;
-		margin-left: calc((100vw - 620px) / -2);
+		margin-left: calc( (100vw - 650px) / -2);
+	}
+
+	hr.articleDivider {
+		width: 100vw;
+		margin: 3em auto 3em calc( (100vw - 650px) / -2);
+		border-radius: 0;
 	}
 
 }
 
-/* iPhone 6 and 6 Plus */
+/* Big iPhones */
 @media (max-width: 736px) {
 
-	#masthead {
+	header,
+	header a {
+		height: 130px;
+	}
+
+	#topBanner {
 		height: 130px;
 		margin-bottom: -130px;
 	}
 
-	#container {
-		min-height: calc(100vh - 24em);
-	}
-
-	#content {
-		width: 300px;
-	}
-
-	#header,
-	#header a {
-		height: 130px;
+	#siteTitle {
+		margin-top: 1.75em;
 	}
 
 	#siteTitle img,
 	#siteTitle a {
-		width: 100%;
-		margin-top: 1.75em;
+		width: 80vw;
 	}
 
 	#siteByline {
-		margin-top: 0;
+		margin-top: -0.25em;
 	}
 
-	#main {
-		margin: 2.5em auto 4em auto;
+	main {
+		margin-top: 1.5em;
+		min-height: calc(100vh - 500px);
+		width: 80vw;
 	}
 
 	/* Causes all floated images to collapse to center */
@@ -946,13 +941,13 @@ on wide screens */
 	figure.inlinetwo img,
 	figure.inlinethree img {
 		float: none;
-		width: 80%;
+		width: 100%;
 		margin: 1em 10% 1em 10%;
 	}
 
 	figure.wide {
 		width: 100vw;
-		margin-left: calc((100vw - 300px) / -2);
+		margin-left: -10vw;
 	}
 
 	.takehomeRight,
@@ -964,9 +959,24 @@ on wide screens */
 
 	hr.articleDivider {
 		width: 100vw;
-		margin: 3em auto 3em calc((100vw - 300px) / -2);
+		margin: 2em auto 2em -10vw;
 		border-radius: 0;
-		border: none;
+	}
+
+	#bottomAd {
+		height: 100px;
+	}
+
+	#bottomAd figure {
+		margin: 0.5em auto;
+	}
+
+	#bottomAd figcaption {
+		font-size: 0.7em;
+	}
+
+	#bottomAd img {
+		width: 120px;
 	}
 
 }
@@ -974,40 +984,22 @@ on wide screens */
 /* Smaller iPhones */
 @media (max-width: 320px) {
 
-	#masthead {
+	body {
+		font-size: 0.95em
+	}
+
+	header,
+	header a {
+		height: 110px;
+	}
+
+	#topBanner {
 		height: 110px;
 		margin-bottom: -110px;
 	}
 
-	#content {
-		width: 250px;
-		font-size: 0.9em;
-	}
-
-	#main {
-		margin-top: 2em;
-	}
-
-	#header,
-	#header a {
-		height: 110px;
-	}
-
-	figure.iphone,
-	figure.applewatch {
-		width: 200px;
-	}
-
-	figure.wide {
-		width: 100vw;
-		margin-left: calc((100vw - 250px) / -2);
-	}
-
-	hr.articleDivider {
-		width: 100vw;
-		margin: 3em auto 3em calc((100vw - 250px) / -2);
-		border-radius: 0;
-		border: none;
+	main {
+		min-height: calc(100vh - 450px);
 	}
 
 }

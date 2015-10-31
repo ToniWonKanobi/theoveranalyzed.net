@@ -8,6 +8,7 @@
 
 Here's the official trailer for Star Wars: The Force Awakens.
 
+<aside>
 <div class="update">
 
 ## Update: Music-Only Trailer
@@ -16,6 +17,7 @@ Here's the official trailer for Star Wars: The Force Awakens.
 Here's a [music-only version](https://www.youtube.com/watch?v=Ci0C8ggQWys) of the trailer, "revised by [Tim Gonzales][tg] to take away to drops in music during the dialogue bits," as Peter Sciretta of [/Film][sf] notes.
 
 </div>
+</aside>
 
 [sf]: http://www.slashfilm.com/star-wars-the-force-awakens-trailer-music/
 [tg]: http://timgonzales.com

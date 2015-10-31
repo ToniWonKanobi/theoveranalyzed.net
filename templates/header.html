@@ -2,7 +2,6 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="description" content="TheOverAnalyzed is about Apple and technology in general, as well as automobilia, design, and pop culture.">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>@@SiteTitle@@ &mdash; @@Title@@</title>
@@ -44,7 +43,6 @@
 
 		<!-- JavaScript -->
 		<script src="/js/jquery-2.0.3.min.js"></script>
-
 			<!-- Bigfoot Footnotes -->
 			<!-- http://www.bigfootjs.com -->
 			<script src="/js/bigfoot.min.js"></script>
@@ -54,28 +52,6 @@
 					numberResetSelector: ".entry"
 				});
 			</script>
-
-			<!-- FitVids -->
-			<!-- http://fitvidsjs.com -->
-			<!-- Loading on a per-post basis -->
-			<!-- <script src="/js/fitvids.js"></script>
-			<script>
-				$(document).ready(function(){
-					$(".entry").fitVids();
-				});
-			</script> -->
-
-			<!-- LazyLoad -->
-			<!-- http://www.appelsiini.net/projects/lazyload -->
-			<!-- Loading on a per-post basis -->
-			<!-- <script src="/js/lazyload.js"></script>
-			<script type="text/javascript" charset="utf-8">
-				$(function() {
-					$("img.lazy").show().lazyload({
-						effect: "fadeIn"
-					});
-				});
-			</script> -->
 
 			<!-- Google Analytics -->
 			<!-- Trust me, there is no alterative. Yet. -->
@@ -91,15 +67,9 @@
 			</script>
 	</head>
 	<body>
-		<div id="masthead"></div>
-		<div id="container">
-			<div id="content">
-				<div id="header">
-					<div id="siteTitle">
-						<a href="/">
-							<img src="@@SiteRoot@@/images/site-title.svg" alt="TheOverAnalyzed">
-						</a>
-					</div>
-					<div id="siteByline">By <a href="http://twitter.com/toniwonkanobi" rel="author">Anthony Craig</a></div>
-				</div>
-				<div id="main">
+		<header>
+			<div id="topBanner"></div>
+			<p id="siteTitle"><a href="/"><img src="@@SiteRoot@@/images/site-title.svg" alt="TheOverAnalyzed"></a></p>
+			<p id="siteByline">By <a href="http://twitter.com/toniwonkanobi" rel="author">Anthony Craig</a></p>
+		</header>
+		<main>

@@ -114,7 +114,7 @@ function normalizedFileName(file) {
     retVal = retVal.replace('.md', '');
 
     return retVal;
-}function fetchFromCache(file) {
+} function fetchFromCache(file) {
 	return renderedPosts[normalizedFileName(file)] || null;
 }
 
@@ -386,10 +386,10 @@ function allPostsSortedAndGrouped(completion) {
 
 			// For each day...
 			_.each(sortedKeys, function (key) {
-				if (new Date(key) > new Date()) {
-					return;
-				}
-				
+				// if (new Date(key) > new Date()) {
+				// 	return;
+				// }
+
 				// Get all the filenames...
 				var articleFiles = groupedFiles[key];
 				var articles = [];
