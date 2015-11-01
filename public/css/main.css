@@ -787,11 +787,11 @@ a.footnote-backref:hover {
 #bottomAd figure {
 	width: 150px;
 	max-width: 35%;
-	margin-top: 0.75em;
+	margin-top: 1em;
 }
 
 #bottomAd figcaption {
-	margin: auto auto auto auto;
+	margin: auto;
 	width: 100%%;
 	text-align: center;
 }
@@ -833,32 +833,6 @@ nav li {
 	font-size: 0.8em;
 	margin: 0;
 	padding-bottom: 0.5em;
-}
-
-
-/* Search Page
-============================================ */
-
-/* Search box cribbed from Hardik Pandya
-http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ */
-#search {
-	margin: 1em auto 5em auto;
-	width: 100%;
-}
-
-#search input {
-	width: 90%;
-	background-color: #f8f8f8;
-	border: 2px solid #eee;
-	padding: 1em;
-	color: #555;
-	-webkit-border-radius: 0.4em;
-	-moz-border-radius: 0.4em;
-	border-radius: 0.4em;
-}
-
-#search input:focus {
-	outline: none;
 }
 
 
@@ -904,23 +878,19 @@ on wide screens */
 /* Big iPhones */
 @media (max-width: 736px) {
 
-	header,
-	header a {
-		height: 17vh;
+	header {
+		height: 130px;
 	}
 
 	#topBanner {
-		height: 17vh;
-		margin-bottom: -17vh;
+		height: 130px;
+		margin-bottom: -130px;
 	}
 
 	#siteTitle {
-		margin-top: 3.5vh;
-	}
-
-	#siteTitle img,
-	#siteTitle a {
+		margin-top: 1.75em;
 		width: 80vw;
+		max-width: 400px;
 	}
 
 	#siteByline {
@@ -968,6 +938,15 @@ on wide screens */
 
 	body {
 		font-size: 0.95em
+	}
+
+	header {
+		height: 110px;
+	}
+
+	#topBanner {
+		height: 110px;
+		margin-bottom: -110px;
 	}
 
 	main {

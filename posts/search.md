@@ -1,5 +1,36 @@
 @@ Title=Search  
 
+<style>
+
+<!-- Search box cribbed from Hardik Pandya
+http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ -->
+
+#search {
+	width: 100%;
+}
+
+#search input {
+	margin: 1em auto 0 auto;
+	width: 90%;
+	background-color: #f8f8f8;
+	border: 2px solid #eee;
+	padding: 1em;
+	color: #555;
+	-webkit-border-radius: 0.4em;
+	-moz-border-radius: 0.4em;
+	border-radius: 0.4em;
+}
+
+#search input:focus {
+	outline: none;
+}
+
+#search + h3 {
+	margin-top: 0;
+}
+
+</style>
+
 <form method="get" id="search" action="http://duckduckgo.com/">
    <input type="hidden" name="sites"value="http://www.theoveranalyzed.net">
    <input type="hidden" name="kz" value="1"/>
@@ -13,7 +44,7 @@
    <input type="submit" value="DuckDuckGo Search" style="visibility: hidden">
 </form>
 
-<h3>Options</h3>
+### Optons
 
 To search with another search provider instead of the default, DuckDuckGo, append the appropriate [`!bang`][bang] to your search string.
 

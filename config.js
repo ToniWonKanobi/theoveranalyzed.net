@@ -2,7 +2,7 @@ module.exports = {
 	Site: {
 		Url: "http://www.theoveranalyzed.net",
 		Title: "TheOverAnalyzed",
-		About: "TheOverAnalyzed is about Apple and technology culture in general. Occasionally cars, movies, music, TV, and other pop culture.",
+		About: "TheOverAnalyzed is about Apple and technology in general. Occasionally cars, movies, music, TV, and other pop culture.",
 		Author: "Anthony Craig",
 		DefaultImage: "http://www.theoveranalyzed.net/images/favicon.png"
 	},
