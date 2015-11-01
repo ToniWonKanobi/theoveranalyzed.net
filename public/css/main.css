@@ -780,13 +780,11 @@ a.footnote-backref:hover {
 #bottomAd {
 	border-top: 2px solid #ddd;
 	height: 130px;
-	max-height: 20vh;
 	background: #fff;
 }
 
 #bottomAd figure {
 	width: 150px;
-	max-width: 35%;
 	margin-top: 1em;
 }
 

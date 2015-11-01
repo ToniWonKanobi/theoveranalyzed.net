@@ -552,8 +552,11 @@ function init() {
 		Handlebars.registerHelper('formatPostDate', function (date) {
 			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
 		});
-		Handlebars.registerHelper('formatCalendar', function (date) {
+		Handlebars.registerHelper('formatCalendarDate', function (date) {
 			return new Handlebars.SafeString(new Date(date).format('{Month}-{dd}'));
+		});
+		Handlebars.registerHelper('sectionDay', function (date) {
+			return new Handlebars.SafeString(new Date(date).format('{mm}-{dd}-{yyyy}'));
 		});
 		Handlebars.registerHelper('formatIsoDate', function (date) {
 			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
