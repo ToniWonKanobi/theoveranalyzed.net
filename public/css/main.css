@@ -378,7 +378,7 @@ hr.long {
 	margin: 1.5em auto 1.5em auto;
 }
 
-hr.articleDivider {
+hr.articleSeparater {
 	width: 80vw;
 	margin: 4em auto 4em calc( (80vw - 650px) / -2);
 	background-color: #ddd;
@@ -388,11 +388,11 @@ hr.articleDivider {
 
 /* Removes the "***" on regular `<hr>` */
 hr.long:after,
-hr.articleDivider:after{
+hr.articleSeparater:after{
 	content: inherit;
 }
 
-section.day:last-of-type hr.articleDivider:last-of-type {
+section.day:last-of-type hr.articleSeparater:last-of-type {
 	display: none;
 }
 
@@ -842,7 +842,7 @@ disproportionally long
 on wide screens */
 @media (min-width: 1600px) {
 
-	hr.articleDivider {
+	hr.articleSeparater {
 		width: 1400px;
 		margin-left: -375px;
 	}
@@ -865,7 +865,7 @@ on wide screens */
 		margin-left: calc( (100vw - 650px) / -2);
 	}
 
-	hr.articleDivider {
+	hr.articleSeparater {
 		width: 100vw;
 		margin: 3em auto 3em calc( (100vw - 650px) / -2);
 		border-radius: 0;
@@ -923,7 +923,7 @@ on wide screens */
 		width: 100%;
 	}
 
-	hr.articleDivider {
+	hr.articleSeparater {
 		width: 100vw;
 		margin: 2em auto 2em -10vw;
 		border-radius: 0;

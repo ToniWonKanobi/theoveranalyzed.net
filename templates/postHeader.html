@@ -1,50 +1,50 @@
-{{#if Link}}
+	{{#if Link}}
 <!-- Linked Post-->
-<header class="postHeaderLinked">
-	<h2><a class="postTitleLinked" href="{{Link}}">{{Title}}&nbsp;<span class="linkArrow">&#8594;</span></a></h2>
-	<div class="postSubtitle">
-		<ul class="postSubtitleItems">
-			<li class="postDate">
-				<a href="http://www.historynet.com/today-in-history/{{formatCalendarDate Date}}">
-					<time class="linkedTime" dateTime="{{formatIsoDate Date}}" pubDate><i class="fa fa-clock-o fa-fw"></i>&nbsp;{{formatPostDate Date}}</time>
-				</a>
-			</li>
-			<li class="postPermalink">
-				<a class="postPermalink" title="Permalink to post" href="{{permalink}}">¶&nbsp;<span style="margin-left: 0.1em">Permalink</span></a>
-			</li>
-		</ul>
-		<ul>
-			<li class="postTags">
-				<i class="fa fa-tags fa-fw"></i>&nbsp;Tags
-				<ul class="postTags">
-					{{#each tags}}
-					<li class="eachTag"><i class="fa fa-tag fa-fw"></i>&nbsp;{{{this}}}</li>
-					{{/each}}
-				</ul>
-			</li>
-		</ul>
-	</div>
-</header>
-{{else}}
+	<header class="postHeaderLinked">
+		<h2><a class="postTitleLinked" href="{{Link}}">{{Title}}&nbsp;<span class="linkArrow">&#8594;</span></a></h2>
+		<div class="postSubtitle">
+			<ul class="postSubtitleItems">
+				<li class="postDate">
+					<a href="http://www.historynet.com/today-in-history/{{formatCalendarDate Date}}">
+						<time class="linkedTime" dateTime="{{formatIsoDate Date}}" pubDate><i class="fa fa-clock-o fa-fw"></i>&nbsp;{{formatPostDate Date}}</time>
+					</a>
+				</li>
+				<li class="postPermalink">
+					<a class="postPermalink" title="Permalink to post" href="{{permalink}}">¶&nbsp;<span style="margin-left: 0.1em">Permalink</span></a>
+				</li>
+			</ul>
+			<ul>
+				<li class="postTags">
+					<i class="fa fa-tags fa-fw"></i>&nbsp;Tags
+					<ul class="postTags">
+						{{#each tags}}
+						<li class="eachTag"><i class="fa fa-tag fa-fw"></i>&nbsp;{{{this}}}</li>
+						{{/each}}
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</header>
+	{{else}}
 <!-- Non-linked Post -->
-<header class="postHeader">
-	<h1><a class="postTitle" href="{{relativeLink}}">{{Title}}</a></h1>
-	<div class="postSubtitle">
-		<ul class="postSubtitleItems">
-			<li class="postDate">
-				<a href="http://www.historynet.com/today-in-history/{{formatCalendarDate Date}}"><time class="linkedTime" dateTime="{{formatIsoDate Date}}" pubDate><i class="fa fa-clock-o fa-fw"></i>&nbsp;{{formatPostDate Date}}</time></a>
-			</li>
-		</ul>
-		<ul>
-			<li class="postTags">
-				<i class="fa fa-tags fa-fw"></i>&nbsp;Tags
-				<ul class="postTags">
-					{{#each tags}}
-					<li class="eachTag"><i class="fa fa-tag fa-fw"></i>&nbsp;{{{this}}}</li>
-					{{/each}}
-				</ul>
-			</li>
-		</ul>
-	</div>
-</header>
-{{/if}}
+	<header class="postHeader">
+		<h1><a class="postTitle" href="{{relativeLink}}">{{Title}}</a></h1>
+		<div class="postSubtitle">
+			<ul class="postSubtitleItems">
+				<li class="postDate">
+					<a href="http://www.historynet.com/today-in-history/{{formatCalendarDate Date}}"><time class="linkedTime" dateTime="{{formatIsoDate Date}}" pubDate><i class="fa fa-clock-o fa-fw"></i>&nbsp;{{formatPostDate Date}}</time></a>
+				</li>
+			</ul>
+			<ul>
+				<li class="postTags">
+					<i class="fa fa-tags fa-fw"></i>&nbsp;Tags
+					<ul class="postTags">
+						{{#each tags}}
+						<li class="eachTag"><i class="fa fa-tag fa-fw"></i>&nbsp;{{{this}}}</li>
+						{{/each}}
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</header>
+	{{/if}}

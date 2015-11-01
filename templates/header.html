@@ -54,7 +54,6 @@
 			</script>
 
 			<!-- Google Analytics -->
-			<!-- Trust me, there is no alterative. Yet. -->
 			<!-- This is basically here so I can get Carbon Ads eventually. Sorry for tracking you. I'm so conflicted about this. -->
 			<meta name="google-site-verification" content="bTslVH_XkdLoX1gCjVeqGK1od1brDOtiVSfp5lyxJiE">
 			<script>
@@ -68,8 +67,12 @@
 	</head>
 	<body>
 		<header>
+		<!-- for screen readers -->
+		<h1 class="header" hidden>Header</h1>
 			<div id="topBanner"></div>
 			<p id="siteTitle"><a href="/"><img src="@@SiteRoot@@/images/site-title.svg" alt="TheOverAnalyzed"></a></p>
 			<p id="siteByline">By <a href="http://twitter.com/toniwonkanobi" rel="author">Anthony Craig</a></p>
 		</header>
-		<main>
+		<main role="main">
+		<!-- for screen readers -->
+		<h1 class="main" hidden>Main Content</h1>
