@@ -9,7 +9,7 @@ hr:          #eee
 pre:         #eee
 code:        #eee
 borders:     #ddd
-update:      rgba(63, 112, 162, 0.10)
+update:      rgba(63, 112, 162, 0.13)
 */
 
 
@@ -116,7 +116,8 @@ blockquote {
 	border-left: 3px solid #eee;
 }
 
-blockquote *:first-child {
+blockquote p:first-child,
+blockquote blockquote:first-child {
 	padding-top: 2em;
 }
 
@@ -126,10 +127,6 @@ blockquote a {
 
 blockquote a:first-child {
 	padding-top: 0;
-}
-
-blockquote *:last-child {
-	padding-bottom: 0.25em;
 }
 
 
@@ -239,10 +236,6 @@ span.linkArrow {
 	color: #3f70a2;
 }
 
-
-/* Post Tags
-============================================ */
-
 ul.postSubtitleItems {
 	padding: 0;
 	margin: 0.5em auto 0.25em auto;
@@ -260,32 +253,32 @@ ul.postSubtitleItems + ul {
 	list-style: none;
 }
 
-ul.postTags {
-	padding: 0;
-	margin-left: 0;
-	list-style: none;
-	display: none;
-}
-
-li.postTags {
-	padding: 0;
-	width: 200px;
-	margin: 0;
+details.postTags {
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
 
-li.postTags:hover {
+details.postTags:hover {
 	color: #3f70a2;
 }
 
-li.postTags:hover ul.postTags {
-	display: block;
+details.postTags summary:focus {
+	outline: none;
 }
 
-li.eachTag {
-	padding: 0;
+details.postTags summary::-webkit-details-marker {
+	display: none;
+}
+
+details.postTags ul {
+	list-style: none;
+	margin-top: -0.4em;
+	padding-left: 0.5em;
+}
+
+details.postTags ul li {
+	padding-left: 0;
 }
 
 
@@ -451,7 +444,7 @@ section.day:last-of-type hr.articleSeparater:last-of-type {
 
 .update {
 	margin-top: 2em;
-	background-color: rgba(63, 112, 162, 0.1);
+	background-color: rgba(63, 112, 162, 0.13);
 	border-radius: 0.4em;
 	padding: 0.5em 2em 2em 2em;
 }
@@ -460,6 +453,19 @@ section.day:last-of-type hr.articleSeparater:last-of-type {
 	color: #999;
 	font-size: 0.9em;
 	margin-top: 0.5em;
+}
+
+.update a {
+	border-bottom: 2px solid #ddd;
+	padding-bottom: 1px;
+}
+
+.update a:hover {
+	background: #ccc;
+}
+
+.update blockquote {
+	border-left-color: #ccc;
 }
 
 .update pre {
@@ -474,18 +480,6 @@ section.day:last-of-type hr.articleSeparater:last-of-type {
 
 .update pre code {
 	border: none;
-}
-
-.update a {
-	border-bottom: none;
-}
-
-.update a:hover {
-	background: #ccc;
-}
-
-.update blockquote {
-	border-left-color: #ccc;
 }
 
 

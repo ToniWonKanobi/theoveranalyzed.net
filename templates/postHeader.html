@@ -13,16 +13,14 @@
 					<a class="postPermalink" title="Permalink to post" href="{{permalink}}">¶&nbsp;<span style="margin-left: 0.1em">Permalink</span></a>
 				</li>
 			</ul>
-			<ul>
-				<li class="postTags">
-					<i class="fa fa-tags fa-fw"></i>&nbsp;Tags
-					<ul class="postTags">
-						{{#each tags}}
-						<li class="eachTag"><i class="fa fa-tag fa-fw"></i>&nbsp;{{{this}}}</li>
-						{{/each}}
-					</ul>
-				</li>
-			</ul>
+			<details class="postTags">
+				<summary><i class="fa fa-tags fa-fw"></i>&nbsp;Tags</summary>
+				<ul>
+					{{#each tags}}
+					<li><i class="fa fa-tag fa-fw"></i>&nbsp;{{{this}}}</li>
+					{{/each}}
+				</ul>
+			</details>
 		</div>
 	</header>
 	{{else}}
@@ -35,16 +33,14 @@
 					<a href="http://www.historynet.com/today-in-history/{{formatCalendarDate Date}}"><time class="linkedTime" dateTime="{{formatIsoDate Date}}" pubDate><i class="fa fa-clock-o fa-fw"></i>&nbsp;{{formatPostDate Date}}</time></a>
 				</li>
 			</ul>
-			<ul>
-				<li class="postTags">
-					<i class="fa fa-tags fa-fw"></i>&nbsp;Tags
-					<ul class="postTags">
-						{{#each tags}}
-						<li class="eachTag"><i class="fa fa-tag fa-fw"></i>&nbsp;{{{this}}}</li>
-						{{/each}}
-					</ul>
-				</li>
-			</ul>
+			<details class="postTags">
+				<summary><i class="fa fa-tags fa-fw"></i>&nbsp;Tags</summary>
+				<ul>
+					{{#each tags}}
+					<li><i class="fa fa-tag fa-fw"></i>&nbsp;{{{this}}}</li>
+					{{/each}}
+				</ul>
+			</details>
 		</div>
 	</header>
 	{{/if}}
