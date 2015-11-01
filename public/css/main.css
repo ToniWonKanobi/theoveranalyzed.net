@@ -268,7 +268,7 @@ details.postTags summary:focus {
 }
 
 details.postTags summary::-webkit-details-marker {
-	display: none;
+	margin-left: 0.15em;
 }
 
 details.postTags ul {
@@ -631,11 +631,6 @@ i.fa.fa-clock-o.fa-fw {
 	vertical-align: 4%;
 	font-size: 0.9em;
 	margin-left: -2px;
-}
-
-i.fa.fa-tags.fa-fw {
-	vertical-align: 5%;
-	font-size: 0.8em;
 }
 
 i.fa.fa-tag.fa-fw {
