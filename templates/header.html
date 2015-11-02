@@ -7,18 +7,18 @@
 		<title>@@SiteTitle@@ &mdash; @@Title@@</title>
 
 		<!-- Helpers -->
-		<link rel="canonical" href="@@canonicalLink@@">
-		<link rel="index" title="TheOverAnalyzed" href="@@SiteRoot@@">
-		<link rel="alternate" type="application/rss+xml" title="RSS for @@SiteTitle@@" href="@@SiteRoot@@/rss">
-		<link rel="alternate" type="application/rss+xml" title="RSS for @@SiteTitle@@ with linked entries pointing back to @@SiteTitle@@ instead of their targets" href="@@SiteRoot@@/rss-alternate">
-		<link rel="mask-icon" href="/images/safari-pinned-tabs.svg" color="#3F70A2">
-		<link rel="apple-touch-icon-precomposed" href="/images/favicon-square.png">
+		<link rel="index" href="/" title="TheOverAnalyzed">
+		<link rel="canonical" href="@@canonicalLink@@"  title="Permalink to this Page">
+		<link rel="alternate" type="application/rss+xml" href="/rss" title="RSS for @@SiteTitle@@">
+		<link rel="alternate" type="application/rss+xml"  href="@@SiteRoot@@/rss-alternate" title="RSS for @@SiteTitle@@ with linked entries pointing back to @@SiteTitle@@ instead of their targets">
+		<link rel="mask-icon" href="/images/safari-pinned-tabs.svg" color="#3F70A2" title="Safari Pinned Tabs Icon">
+		<link rel="apple-touch-icon-precomposed" href="/images/favicon-square.png" title="Site Favicon">
 
 		<!-- Stylesheets -->
-		<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7099154/750568/css/fonts.css">
-		<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<link rel="stylesheet" type="text/css" href="/css/bigfoot.css">
+		<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7099154/750568/css/fonts.css" title="Stylesheet for Hoefler Webfont">
+		<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" title="Stylesheet for Font Awesome Webfont">
+		<link rel="stylesheet" type="text/css" href="/css/main.css" title="Main Stylesheet for TheOverAnalyzed">
+		<link rel="stylesheet" type="text/css" href="/css/bigfoot.css" title="Stylesheet for Bigfoot Footnotes">
 
 		<!-- Open Graph -->
 		<meta property="og:locale" content="en_US">
@@ -70,8 +70,8 @@
 		<!-- for screen readers -->
 		<h1 class="header" hidden>Header</h1>
 			<div id="topBanner"></div>
-			<p id="siteTitle"><a href="/"><img src="@@SiteRoot@@/images/site-title.svg" alt="TheOverAnalyzed"></a></p>
-			<p id="siteByline">By <a href="http://twitter.com/toniwonkanobi" rel="author">Anthony Craig</a></p>
+			<p id="siteTitle"><a rel="index" href="/" title="Homepage for TheOverAnalyzed"><img src="/images/site-title.svg" alt="TheOverAnalyzed"></a></p>
+			<p id="siteByline">By <a rel="author" href="http://twitter.com/toniwonkanobi" title="Anthony Craig on Twitter">Anthony Craig</a></p>
 		</header>
 		<main role="main">
 		<!-- for screen readers -->

@@ -1,16 +1,16 @@
 	{{#if Link}}
 <!-- Linked Post-->
 	<header class="postHeaderLinked">
-		<h2><a class="postTitleLinked" href="{{Link}}" target="_blank">{{Title}}&nbsp;<span class="linkArrow">&#8594;</span></a></h2>
+		<h2><a class="postTitleLinked" href="{{Link}}" target="_blank" title="Link to External Content">{{Title}}&nbsp;<span class="linkArrow">&#8594;</span></a></h2>
 		<div class="postSubtitle">
 			<ul class="postSubtitleItems">
 				<li class="postDate">
-					<a href="http://www.historynet.com/today-in-history/{{formatCalendarDate Date}}">
+					<a href="http://www.historynet.com/today-in-history/{{formatCalendarDate Date}}" title="Link to 'Today in History' Page">
 						<time class="linkedTime" dateTime="{{formatIsoDate Date}}" pubDate><i class="fa fa-clock-o fa-fw"></i>&nbsp;{{formatPostDate Date}}</time>
 					</a>
 				</li>
 				<li class="postPermalink">
-					<a class="postPermalink" title="Permalink to post" href="{{permalink}}">¶&nbsp;<span style="margin-left: 0.1em">Permalink</span></a>
+					<a class="postPermalink" href="{{permalink}}" title="Permalink to post">¶&nbsp;<span style="margin-left: 0.1em">Permalink</span></a>
 				</li>
 			</ul>
 			<details class="postTags">
@@ -26,11 +26,11 @@
 	{{else}}
 <!-- Non-linked Post -->
 	<header class="postHeader">
-		<h1><a class="postTitle" href="{{relativeLink}}">{{Title}}</a></h1>
+		<h1><a class="postTitle" href="{{relativeLink}}" title="Permalink to this Post">{{Title}}</a></h1>
 		<div class="postSubtitle">
 			<ul class="postSubtitleItems">
 				<li class="postDate">
-					<a href="http://www.historynet.com/today-in-history/{{formatCalendarDate Date}}"><time class="linkedTime" dateTime="{{formatIsoDate Date}}" pubDate><i class="fa fa-clock-o fa-fw"></i>&nbsp;{{formatPostDate Date}}</time></a>
+					<a href="http://www.historynet.com/today-in-history/{{formatCalendarDate Date}}" title="Link to 'Today in History' Page"><time class="linkedTime" dateTime="{{formatIsoDate Date}}" pubDate><i class="fa fa-clock-o fa-fw"></i>&nbsp;{{formatPostDate Date}}</time></a>
 				</li>
 			</ul>
 			<details class="postTags">
