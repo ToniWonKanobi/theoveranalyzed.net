@@ -567,6 +567,10 @@ dl {
 	padding-left: 1.25em;
 }
 
+ul {
+	list-style: circle;
+}
+
 li {
 	padding-left: 0.25em;
 	margin: 1em auto 1em auto
