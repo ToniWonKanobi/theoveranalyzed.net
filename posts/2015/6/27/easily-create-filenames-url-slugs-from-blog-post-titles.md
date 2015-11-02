@@ -243,12 +243,11 @@ This couldn't get any easier.
 
 # Download
 
-You can download `Slugify.workflow` [here][d 4]. 
+You can download `Slugify.workflow` <a href="http://d.pr/f/1lx3X+" title="Download my `Slugify.workflow`"  download>here</a>.
 
 [d]: http://d.pr/i/MDC4+
 [d 2]: http://d.pr/i/BPjq+
 [d 3]: http://d.pr/i/14x3d+
-[d 4]: http://d.pr/f/1lx3X
 [github]: https://github.com/cocur/slugify
 [j-schell]: http://www.j-schell.de/node/269
 [leancrew]: http://www.leancrew.com/all-this/
