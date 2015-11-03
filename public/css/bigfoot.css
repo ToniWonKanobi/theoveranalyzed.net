@@ -263,9 +263,13 @@ http://bigfootjs.com/download/bigfoot-number.zip */
 }
 
 .bigfoot-footnote__content code {
-	background: #ddd;
-	border: 1px solid #ccc;
-	border-radius: 0.2em
+    background: #ddd;
+    border: 1px solid #ccc;
+    border-radius: 0.2em
+}
+
+.bigfoot-footnote__content blockquote {
+	border-left-color: #ccc;
 }
 
 /* Arrow thingy */
@@ -299,8 +303,8 @@ http://bigfootjs.com/download/bigfoot-number.zip */
 .bigfoot-footnote__button {
     position: relative;
     /* height: 0.95em;
-        width: 1.5em;
-        border-radius: 0.475em; */
+            width: 1.5em;
+            border-radius: 0.475em; */
     height: 1em;
     width: 1em;
     border-radius: .5em

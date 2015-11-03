@@ -339,6 +339,11 @@ video {
 	width: 100%;
 }
 
+video.wide {
+	width: 150%;
+	margin-left: calc( (150% - 650px) / -2);
+}
+
 /* Fixes iframe margin weirdness */
 .fluid-width-video-wrapper {
 	margin-top: 1em;
@@ -544,8 +549,8 @@ figure.applewatch {
 }
 
 figure.wide {
-	width: 80vw;
-	margin-left: -10vw;
+	width: 150%;
+	margin-left: calc( (150% - 650px) / -2);
 }
 
 figcaption {
@@ -576,10 +581,8 @@ li {
 	margin: 1em auto 1em auto
 }
 
-.table-of-contents a,
-.table-of-contents a:hover {
+.table-of-contents a {
 	border-bottom: none;
-	background: none;
 }
 
 
@@ -855,6 +858,11 @@ on wide screens */
 	figure.wide {
 		width: 100vw;
 		margin-left: calc( (100vw - 650px) / -2);
+	}
+
+	video.wide {
+		width: 100vw;
+		margin-left: -10vw;
 	}
 
 	hr.articleSeparater {
