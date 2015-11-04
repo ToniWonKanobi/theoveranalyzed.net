@@ -285,7 +285,6 @@ details.postTags ul li {
 ============================================ */
 
 .topstory {
-	margin: 2em auto 2em auto;
 	font-style: italic;
 }
 
@@ -507,10 +506,6 @@ figure {
 	margin: 1em auto;
 }
 
-.article .entry figure:first-child {
-	margin-top: 1.5em;
-}
-
 figure a.nohover,
 figure a.nohover:hover {
 	background: none;
@@ -545,7 +540,7 @@ figure.figright {
 
 figure.iphone,
 figure.applewatch {
-	width: 300px;
+	width: 50%;
 }
 
 figure.wide {
@@ -581,9 +576,17 @@ li {
 	margin: 1em auto 1em auto
 }
 
-.table-of-contents a {
-	border-bottom: none;
+.table-of-contents li:hover {
+	list-style: disc;
+	color: #3f70a2;
 }
+
+.table-of-contents a,
+.table-of-contents a:hover {
+	border-bottom: none;
+	background: none;
+}
+
 
 
 /* Tables
@@ -780,7 +783,7 @@ a.footnote-backref:hover {
 
 #bottomAd figure {
 	width: 150px;
-	margin-top: 1em;
+	margin: 1em auto;
 }
 
 #bottomAd figcaption {
@@ -857,9 +860,16 @@ on wide screens */
 
 	figure.wide {
 		width: 100vw;
-		margin-left: calc( (100vw - 650px) / -2);
+		margin-left: calc( (100vw - 100%) / -2);
 	}
 
+	img.screenshot {
+		border-left: none;
+		border-right: none;
+		border-radius: 0;
+	}
+
+	video,
 	video.wide {
 		width: 100vw;
 		margin-left: -10vw;
@@ -867,7 +877,7 @@ on wide screens */
 
 	hr.articleSeparater {
 		width: 100vw;
-		margin: 3em auto 3em calc( (100vw - 650px) / -2);
+		margin: 3em auto 3em calc( (100vw - 100%) / -2);
 		border-radius: 0;
 	}
 
@@ -901,19 +911,22 @@ on wide screens */
 		width: 80vw;
 	}
 
-	/* Causes all floated images to collapse to center */
+	figure,
+	figure.wide,
 	figure.figleft,
 	figure.figright,
+	figure.iphone,
+	figure.applewatch {
+		float: none;
+		width: 100vw;
+		margin: 1em auto auto -10vw;
+	}
+
 	figure.inlinetwo img,
 	figure.inlinethree img {
 		float: none;
-		width: 100%;
-		margin: 1em auto 1em auto;
-	}
-
-	figure.wide {
-		width: 100vw;
-		margin-left: -10vw;
+		width: 80%;
+		margin: 1em auto;
 	}
 
 	.takehomeRight,

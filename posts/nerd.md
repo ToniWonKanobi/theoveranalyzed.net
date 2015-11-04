@@ -42,7 +42,7 @@ I have also employed a couple of indispensable open-source JavaScript projects. 
 [mdipl]: https://www.npmjs.com/browse/keyword/markdown-it-plugin
 [okt]: https://twitter.com/oktavilla/status/638103971018764288
 [oktavilla]: http://oktavilla.se
-[theoveranalyzed]: #slugs
+[theoveranalyzed]: #useful-url-slugs
 [theoveranalyzed 2]: /tags
 [theoveranalyzed 3]: /2015
 [theoveranalyzed 4]: /nerd.md

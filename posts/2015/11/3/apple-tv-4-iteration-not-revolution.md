@@ -2,7 +2,7 @@
 @@ Date=2015-11-03 14:47  
 @@ Description=I received my Apple TV 4 today. And you know what's the best thing about that? tvOS, that's what.  
 @@ Tags=Apple TV, Apple TV 4, tvOS, reviews, Apple, TV  
-@@ Image=http://d.pr/i/1cHdB+  
+@@ Image=http://d.pr/i/19jXS+  
 
 <div class="topstory">
 
