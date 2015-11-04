@@ -289,7 +289,7 @@ And that's fine by me.
 	<br>
 	
 	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@toniwonkanobi</a> Also, yes, we&#39;re looking into updating with tap to jump :) -H</p>&mdash; Alto&#39;s Adventure (@altosadventure) <a href="https://twitter.com/altosadventure/status/661351503500861440">November 3, 2015</a></blockquote>
-[^behind]: Interestingly, the version of iOS powering Apple TV has always a year behind whatever version powered that year's new iPhones and iPads. (Why release software updates with the newer OS's for the *hobby* device, I suppose.)
+[^behind]: Interestingly, the version of iOS powering Apple TV has consistently been a year behind whatever version powered that year's new iPhones and iPads. (Why release software updates with the newer OS's for the *hobby* device, I suppose.)
 [^imagine]: Imagine all the different hardware vendors they had to test against!
 [^onebig]: After all, Apple is just *now* putting the finishing touches on Jony Ive's vision with iOS 9. Iteration, and more iteration. That's Apple's way.
 [^own]: Although I was a freshmen in college, I rebuffed my grandma's offer to purchase the MacBook Pro, and instead spent my own ~$3K on that wonderful 17-inch monstrosity. The hardware was great, but the software. Oh, the software.
