@@ -541,6 +541,9 @@ figure.figright {
 figure.iphone,
 figure.applewatch {
 	width: 50%;
+	border-right: 2px solid #ddd;
+	border-left: 2px solid #ddd;
+	border-radius: 0.4em;
 }
 
 figure.wide {
@@ -869,6 +872,13 @@ on wide screens */
 		border-radius: 0;
 	}
 
+	figure.inlinetwo img.screenshot,
+	figure.inlinethree img.screenshot {
+		border-right: 2px solid #ddd;
+		border-left: 2px solid #ddd;
+		border-radius: 0.4em;
+	}
+
 	video,
 	video.wide {
 		width: 100vw;
@@ -927,6 +937,13 @@ on wide screens */
 		float: none;
 		width: 80%;
 		margin: 1em auto;
+	}
+
+	figure.inlinetwo img.screenshot,
+	figure.inlinethree img.screenshot {
+		border-right: 2px solid #ddd;
+		border-left: 2px solid #ddd;
+		border-radius: 0.4em;
 	}
 
 	.takehomeRight,
