@@ -296,6 +296,7 @@ And that's fine by me.
 [^review]: I put "review" in quotations because I don't think this was long enough to qualify for a review.
 [^tts]: On this week's episode of The Talk Show, John Gruber and Guy English hypothesized that the Apple TV might find itself on a 2-year release cycle, which is to say that the device will only get hardware changes every other year. Then again, Apple is on a more-or-less yearly cycle with the rest of the iOS devices. If the latter is true, all the more reason to save $50---why buy the expensive version of something that will get updated next year?
 [^tv]: Apparently, prototype televisions made it pretty far along in Jony Ive's walled-off design studio.
+[^what]: [What if that really happened?][sb]
 [^why]: There are a lot of niceties I often forget. Random hardware example: why is the anodized metal on the iPhone so nice to the touch? Random software example: Why is the SpringBoard UI leaps and bounds better than what Marshmallow has to offer? 
 
 [allthingsd]: http://allthingsd.com/20130611/apples-declaration-of-values-simplify-perfect-delight/
@@ -314,6 +315,7 @@ And that's fine by me.
 [mashable]: http://mashable.com/2014/04/24/apple-tv-hobby/#5DgU48SI98qM
 [mgs2]: https://en.wikipedia.org/wiki/Metal_Gear_Solid_2%3A_Sons_of_Liberty
 [relay]: http://www.relay.fm/upgrade/61
+[sb]: http://www.city-data.com/crime/crime-San-Bernardino-California.html
 [stratechery]: https://stratechery.com/2015/stop-doubting-the-iphone-the-macintosh-company-2/
 [stratechery 2]: https://stratechery.com/2015/activision-blizzard-buys-king-digital-ea-and-the-disruption-narrative-apple-tv-gaming/
 [theoveranalyzed]: /2015/9/9/thoughts-on-apples-september-event
