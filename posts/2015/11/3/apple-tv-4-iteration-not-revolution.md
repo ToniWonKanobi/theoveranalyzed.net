@@ -28,7 +28,7 @@ A "hobby," indeed.
 
 ## Adopting iOS
 
-The [1st generation][wikipedia 2] Apple TV was essentially a pared-down Mac. In it's silver and white guise,[^such] it was based on a variant of Mac OS X 10.4 "Tiger." That Apple TV required a computer running an iTunes to stream content. There was no Netflix, no Hulu Plus, and no HBO <s>Go</s> Now. Apple TV was essentially a glorified conversion box that helped your HDTV stream content from Apple's iTunes CDN.
+The [1st generation][wikipedia 2] Apple TV was essentially a pared-down Mac. In it's silver and white guise, it was based on a variant of Mac OS X 10.4 "Tiger." That Apple TV required a computer running an iTunes to stream content. There was no Netflix, no Hulu Plus, and no HBO <s>Go</s> Now. Apple TV was essentially a glorified conversion box that helped your HDTV stream content from Apple's iTunes CDN.
 
 For the [following two generations][wikipedia], Apple TV dropped it's OS X underpinnings and adopted iOS for its operating system.[^behind] It no longer required a computer running iTunes, and it could finally purchase/stream content from the iTunes Store directly. 
 
