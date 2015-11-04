@@ -77,26 +77,15 @@ a {
 }
 
 .entry a:hover {
-	color: #3f70a2;
 	background: #eee;
 	border-radius: 2px;
 	border-bottom: none;
 }
 
-/* So /:year/:month/:day matches other pages */
-a.yearMonthDay {
-	border-bottom: 2px solid #eee;
-	padding-bottom: 1px;
-	-webkit-transition: background 0.2s ease-in-out;
-	-moz-transition: background 0.2s ease-in-out;
-	transition: background 0.2s ease-in-out;
-}
-
-a.yearMonthDay:hover {
-	color: #3f70a2;
-	background: #eee;
-	border-radius: 2px;
-	border-bottom: none;
+a.nohover,
+a.nohover:hover {
+	background: none;
+	border: none;
 }
 
 sup {
@@ -187,7 +176,7 @@ main header {
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
-	height:auto
+	height:auto; /* Keeps tagsList from overriding height */
 }
 
 .postHeader h1,
@@ -206,7 +195,7 @@ a.postTitle {
 
 a.postTitle:hover,
 a.postTitleLinked,
-a.postTitleLinked:hover span.linkArrow{
+a.postTitleLinked:hover span.linkArrow {
 	color: #3f70a2;
 }
 
@@ -225,7 +214,6 @@ span.linkArrow {
 .postSubtitle {
 	color: #999;
 	font-size: 0.9em;
-	margin-bottom: -0.25em;
 }
 
 .postSubtitle a {
@@ -250,16 +238,20 @@ ul.postSubtitleItems li {
 ul.postSubtitleItems + ul {
 	padding: 0;
 	margin: 0.25em auto 0.5em auto;
-	list-style: none;
 }
 
-details.postTags {
+details.postTags,
+details.postTags summary {
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
 
-details.postTags:hover {
+details.postTags {
+	list-style: none;
+}
+
+details.postTags summary:hover {
 	color: #3f70a2;
 }
 
@@ -268,16 +260,23 @@ details.postTags summary:focus {
 }
 
 details.postTags summary::-webkit-details-marker {
-	margin-left: 0.15em;
+	display: none;
 }
 
-details.postTags ul {
-	list-style: none;
-	padding-left: 0;
-}
-
+details.postTags ul,
 details.postTags ul li {
 	padding-left: 0;
+	list-style: none;
+}
+
+details.postTags li {
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+details.postTags li:hover {
+	color: #3f70a2;
 }
 
 
@@ -296,22 +295,15 @@ details.postTags ul li {
 pre {
 	font-family: Menlo, monospace;
 	font-size: 0.8em;
-	white-space: pre;
 	padding: 0.5em 0.75em 0.5em 0.75em;
-	overflow: auto;
-	-webkit-border-radius: 0.2em;
-	-moz-border-radius: 0.2em;
 	border-radius: 0.2em;
 	background-color: #eee;
 }
 
 code {
-	font-style: normal;
 	font-family: Menlo, monospace;
 	font-size: 0.7em;
 	padding: 0.3em 0.3em 0.2em 0.3em;
-	-webkit-border-radius: 0.2em;
-	-moz-border-radius: 0.2em;
 	border-radius: 0.2em;
 	background-color: #eee;
 }
@@ -340,7 +332,7 @@ video {
 
 video.wide {
 	width: 150%;
-	margin-left: calc( (150% - 650px) / -2);
+	margin-left: calc( (150% - 100%) / -2);
 }
 
 /* Fixes iframe margin weirdness */
@@ -503,13 +495,7 @@ img.screenshot {
 
 figure {
 	text-align: center;
-	margin: 1em auto;
-}
-
-figure a.nohover,
-figure a.nohover:hover {
-	background: none;
-	border: none;
+	margin: 2em auto;
 }
 
 figure.inlinetwo img {
@@ -524,17 +510,19 @@ figure.inlinethree img {
 	margin-right: 0.25em;
 }
 
-figure.figleft {
-	margin: 0.5em 2em 1em 0.5em;
+figure.figleft,
+figure.figright {
 	width: 50%;
 	display: inline-block;
+}
+
+figure.figleft {
+	margin: 0.5em 2em 1em 0.5em;
 	float: left;
 }
 
 figure.figright {
 	margin: 0.5em 0.5em 1em 2em;
-	width: 50%;
-	display: inline-block;
 	float: right;
 }
 
@@ -579,13 +567,12 @@ li {
 	margin: 1em auto 1em auto
 }
 
-.table-of-contents li:hover {
+ul li:hover {
 	list-style: disc;
-	color: #3f70a2;
 }
 
-.table-of-contents a,
-.table-of-contents a:hover {
+li a:only-child,
+li a:only-child:hover {
 	border-bottom: none;
 	background: none;
 }
@@ -649,6 +636,12 @@ i.fa.fa-clock-o.fa-fw {
 i.fa.fa-tag.fa-fw {
 	vertical-align: 12%;
 	font-size: 0.7em;
+}
+
+i.fa.fa-tags.fa-fw {
+	vertical-align: 12%;
+	font-size: 0.75em;
+	margin-right: 0.3em;
 }
 
 
