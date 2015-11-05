@@ -1,85 +1,86 @@
-/*
-topBanner:   #3f70a2
-links:       #3f70a2
-body:        #555
-meta:        #999
-blockquote:  #999
-hover:       #eee
-hr:          #eee
-pre:         #eee
-code:        #eee
-borders:     #ddd
-update:      rgba(63, 112, 162, 0.13)
-*/
-
-
-/* Basics
-============================================ */
-
-/* Font philosophies from
-Matthew Butterick's Practical Typography
+/* See "Practical Typography," by Matthew Butterick:
 http://practicaltypography.com/point-size.html */
+	body {
+		color: #555;
+		font-size: 13pt;
+		font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B',
+			-apple-system, sans-serif;
+		font-weight: 300;
+		line-height: 1.6;
+		margin: 0;
+		padding: 0;
+	}
 
-body {
-	margin: 0;
-	padding: 0;
-	color: #555;
-	font-size: 13pt;
-	line-height: 1.6;
-	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B',
-		-apple-system, sans-serif;
-	font-weight: 300;
-}
+	h1, h2, h3, h4 {
+		font-weight: 600;
+		margin: 1.25em auto -0.25em auto;
+	}
 
-em, i {
-	font-style: italic;
-}
+	h1 {
+		font-size: 1.5em;
+	}
 
-strong, b {
-	font-weight: 600;
-}
+	h2 {
+		font-size: 1.25em;
+	}
 
-h1, h2, h3, h4 {
-	margin: 1.25em auto -0.25em auto;
-	font-weight: 600;
-}
+	h3 {
+		font-size: 1em;
+	}
 
-h1 {
-	font-size: 1.5em;
-}
+	h4 {
+		font-size: 0.9em;
+	}
 
-h2 {
-	font-size: 1.25em;
-}
+/* Header Anchors:
+https://www.npmjs.com/package/markdown-it-anchor */
+	a.header-anchor {
+		color: #999;
+		opacity: 0;
+		font-size: 0.8em;
+		vertical-align: 8%;
+		transition: all 0.2s ease-in-out;
+	}
 
-h3 {
-	font-size: 1em;
-}
+	.header-anchor,
+	.header-anchor:hover,
+	.title a {
+		text-decoration: none;
+		background: none;
+		color: #3f70a2;
+		border-radius: none;
+	}
 
-h4 {
-	font-size: 0.9em;
-}
+	h1:hover .header-anchor,
+	h2:hover .header-anchor,
+	h3:hover .header-anchor,
+	h4:hover .header-anchor {
+		opacity: 1;
+	}
+
+	a.header-anchor,
+	a.header-anchor:hover {
+		border-bottom: none;
+		background: none;
+	}
 
 a {
-	text-decoration: none;
 	color: #3f70a2;
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
+	text-decoration: none;
 	transition: all 0.2s ease-in-out;
 }
 
 .entry a {
 	border-bottom: 2px solid #eee;
 	padding-bottom: 1px;
-	-webkit-transition: background 0.2s ease-in-out;
-	-moz-transition: background 0.2s ease-in-out;
 	transition: background 0.2s ease-in-out;
 }
 
 .entry a:hover {
 	background: #eee;
-	border-radius: 2px;
 	border-bottom: none;
+	border-radius: 2px;
+
 }
 
 a.nohover,
@@ -88,45 +89,15 @@ a.nohover:hover {
 	border: none;
 }
 
-sup {
-	vertical-align: super;
-	font-size: 0.7em;
-}
 
-sub {
-	vertical-align: sub;
-	font-size: 0.7em;
-}
-
-blockquote {
-	margin: auto;
-	color: #999;
-	padding-left: 1.5em;
-	border-left: 3px solid #eee;
-}
-
-blockquote p:first-child,
-blockquote blockquote:first-child {
-	padding-top: 2em;
-}
-
-blockquote a {
-	word-break: break-all;
-}
-
-blockquote a:first-child {
-	padding-top: 0;
-}
-
-
-/* Header
-============================================ */
+/*                      Header                       */
+/* ================================================= */
 
 header,
 header a {
-	text-align: center;
 	color: #fff;
 	height: 160px;
+	text-align: center;
 }
 
 header:hover {
@@ -136,10 +107,11 @@ header:hover {
 }
 
 #topBanner {
-	width: 100%;
+	background-color: #3f70a2;
 	height: 160px;
 	margin-bottom: -160px;
-	background-color: #3f70a2;
+	width: 100%;
+
 }
 
 #siteTitle {
@@ -155,28 +127,24 @@ header:hover {
 }
 
 
-/* Main Content
-============================================ */
+/*                       Main                        */
+/* ================================================= */
 
 main {
 	width: 650px;
-	min-height: calc(100vh - 609px);
+	min-height: calc(100vh - 609px); /* Sets minimum page height */
 	margin: 3em auto 6em auto;
 }
 
 main header {
 	height: auto;
-	color: inherit;
 	text-align: left;
 }
 
 .postHeader,
 .postHeaderLinked {
 	text-align: left;
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
-	height:auto; /* Keeps tagsList from overriding height */
 }
 
 .postHeader h1,
@@ -199,17 +167,15 @@ a.postTitleLinked:hover span.linkArrow {
 	color: #3f70a2;
 }
 
-span.linkArrow {
+.linkArrow {
 	color: #999;
 	vertical-align: -4%;
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
 
 
-/* Post Subtitle
-============================================ */
+/*                   Post Subtitle                   */
+/* ================================================= */
 
 .postSubtitle {
 	color: #999;
@@ -242,8 +208,6 @@ ul.postSubtitleItems + ul {
 
 details.postTags,
 details.postTags summary {
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
 
@@ -270,8 +234,6 @@ details.postTags ul li {
 }
 
 details.postTags li {
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
 
@@ -279,17 +241,125 @@ details.postTags li:hover {
 	color: #3f70a2;
 }
 
+/* Font Awesome:
+http://fontawesome.io */
+	i.fa.fa-clock-o.fa-fw {
+		vertical-align: 4%;
+		font-size: 0.9em;
+		margin-left: -2px;
+	}
 
-/* Post Content
-============================================ */
+	i.fa.fa-tag.fa-fw {
+		vertical-align: 12%;
+		font-size: 0.7em;
+	}
+
+	i.fa.fa-tags.fa-fw {
+		vertical-align: 12%;
+		font-size: 0.75em;
+		margin-right: 0.3em;
+	}
+
+
+/*                    Post Content                   */
+/* ================================================= */
 
 .topstory {
 	font-style: italic;
 }
 
-/* Removes italics on code blocks */
 .topstory code {
 	font-style: normal;
+}
+
+img {
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+img.screenshot {
+	border: 2px solid #ddd;
+	border-radius: 0.4em;
+}
+
+figure {
+	text-align: center;
+	margin: 2em auto;
+}
+
+figure.inlinetwo img {
+	width: 47%;
+	margin-left: 0.25em;
+	margin-right: 0.25em;
+}
+
+figure.inlinethree img {
+	width: 30%;
+	margin-left: 0.25em;
+	margin-right: 0.25em;
+}
+
+figure.figleft,
+figure.figright {
+	width: 50%;
+	display: inline-block;
+}
+
+figure.figleft {
+	margin: 0.5em 2em 1em 0.5em;
+	float: left;
+}
+
+figure.figright {
+	margin: 0.5em 0.5em 1em 2em;
+	float: right;
+}
+
+figure.iphone,
+figure.applewatch {
+	width: 50%;
+	border-radius: 0.4em;
+	margin: 2em auto;
+}
+
+figure.wide {
+	width: 150%;
+	margin-left: calc( (150% - 650px) / -2);
+}
+
+figcaption {
+	margin: 1em auto auto 25%;
+	font-style: italic;
+	font-size: 0.8em;
+	color: #999;
+	width: 50%;
+	text-align: left;
+}
+
+audio,
+video {
+	width: 100%;
+}
+
+video.wide {
+	width: 150%;
+	margin-left: calc( (150% - 100%) / -2);
+}
+
+/* Fixes iframe margin weirdness with FitVids.js */
+.fluid-width-video-wrapper {
+	margin-top: 1em;
+}
+
+blockquote {
+	border-left: 3px solid #eee;
+	color: #999;
+	margin: auto;
+	padding-left: 1em;
+}
+
+blockquote ul li:hover {
+	list-style: inherit;
 }
 
 pre {
@@ -310,13 +380,10 @@ code {
 
 pre code {
 	font-size: 0.9em;
-	overflow: auto;
+	overflow: scroll;
 	padding: 0;
 	border: none;
-}
-
-a code {
-	padding-bottom: 0;
+	word-break: break-word
 }
 
 /* Fixes `markdown-it`
@@ -325,68 +392,70 @@ a code {
 	white-space: pre-line;
 }
 
-audio,
-video {
-	width: 100%;
+ul,
+ol,
+dl {
+	padding-left: 1.75em;
 }
 
-video.wide {
-	width: 150%;
-	margin-left: calc( (150% - 100%) / -2);
+ul {
+	list-style: circle;
 }
 
-/* Fixes iframe margin weirdness */
-.fluid-width-video-wrapper {
-	margin-top: 1em;
+li {
+	padding-left: 0.25em;
+	margin: 1em auto 1em auto
 }
 
-
-/* Horizontal Rules
-============================================ */
-
-hr {
-    padding: 0;
-    border: none;
-    color: #555;
-    text-align: center;
+ul li:hover {
+	list-style: disc;
 }
 
-hr:after {
-    content: "* * *";
-    display: inline-block;
-    position: relative;
-    font-size: 1.25em;
-	top: 0.2em;
+li a:only-child,
+li a:only-child:hover {
+	border-bottom: none;
+	background: none;
 }
 
-hr.long {
-	width: 100%;
+/* Cribbed from Byword's Marked CSS:
+http://bywordapp.com/extras/index.html */
+	table {
+		margin: auto;
+		border-bottom: 2px solid #ddd;
+		border-right: 2px solid #ddd;
+		border-collapse: collapse;
+	}
+
+	table th {
+		padding: 0.3em 1em;
+		background-color: #eee;
+		border-top: 2px solid #ddd;
+		border-left: 2px solid #ddd;
+	}
+
+	table td {
+		padding: 0.3em 1em;
+		border-top: 2px solid #ddd;
+		border-left: 2px solid #ddd;
+	}
+
+table th code {
+	border: 1px solid #ddd;
 	border-radius: 0.2em;
-	border: 1.5px solid #ddd;
-	margin: 1.5em auto 1.5em auto;
 }
 
-hr.articleSeparater {
-	width: 80vw;
-	margin: 4em auto 4em calc( (80vw - 650px) / -2);
-	background-color: #ddd;
-	height: 0.3em;
-	border-radius: 0.2em;
+table.sortable thead {
+	cursor: default;
 }
 
-/* Removes the "***" on regular `<hr>` */
-hr.long:after,
-hr.articleSeparater:after{
-	content: inherit;
+/* Keeps wide tables from overwhelming the layout on mobile */
+.table {
+	overflow-x: scroll;
 }
 
-section.day:last-of-type hr.articleSeparater:last-of-type {
-	display: none;
+.table figcaption {
+	margin: 1em auto;
 }
-
-
-/* Emphasized Text "Asides"
-============================================ */
 
 .takehome {
 	color: #3f70a2;
@@ -433,10 +502,6 @@ section.day:last-of-type hr.articleSeparater:last-of-type {
 	margin: 0.5em auto 0.5em auto;
 }
 
-
-/* Updated Content
-============================================ */
-
 .update {
 	margin-top: 2em;
 	background-color: rgba(63, 112, 162, 0.13);
@@ -477,225 +542,54 @@ section.day:last-of-type hr.articleSeparater:last-of-type {
 	border: none;
 }
 
-
-/* Images
-============================================ */
-
-img {
-	max-width: 100%;
-	vertical-align: middle;
-}
-
-/* Makes the white background on jpgs
-and shadow-less screenshots less offensive */
-img.screenshot {
-	border: 2px solid #ddd;
-	border-radius: 0.4em;
-}
-
-figure {
+hr {
+	border: none;
+	color: #555;
+	padding: 0;
 	text-align: center;
-	margin: 2em auto;
 }
 
-figure.inlinetwo img {
-	width: 47%;
-	margin-left: 0.25em;
-	margin-right: 0.25em;
-}
-
-figure.inlinethree img {
-	width: 30%;
-	margin-left: 0.25em;
-	margin-right: 0.25em;
-}
-
-figure.figleft,
-figure.figright {
-	width: 50%;
+hr:after {
+	content: "* * *";
 	display: inline-block;
+	font-size: 1.25em;
+	position: relative;
+	top: 0.2em;
 }
 
-figure.figleft {
-	margin: 0.5em 2em 1em 0.5em;
-	float: left;
+hr.long {
+	width: 100%;
+	border-radius: 0.2em;
+	border: 1.5px solid #ddd;
+	margin: 1.5em auto 1.5em auto;
 }
 
-figure.figright {
-	margin: 0.5em 0.5em 1em 2em;
-	float: right;
-}
-
-figure.iphone,
-figure.applewatch {
-	width: 50%;
-	border-right: 2px solid #ddd;
-	border-left: 2px solid #ddd;
-	border-radius: 0.4em;
-}
-
-figure.wide {
-	width: 150%;
-	margin-left: calc( (150% - 650px) / -2);
-}
-
-figcaption {
-	margin: 1em auto auto 25%;
-	font-style: italic;
-	font-size: 0.8em;
-	color: #999;
-	width: 50%;
-	text-align: left;
-}
-
-
-/* Lists
-============================================ */
-
-ul,
-ol,
-dl {
-	padding-left: 1.25em;
-}
-
-ul {
-	list-style: circle;
-}
-
-li {
-	padding-left: 0.25em;
-	margin: 1em auto 1em auto
-}
-
-ul li:hover {
-	list-style: disc;
-}
-
-li a:only-child,
-li a:only-child:hover {
-	border-bottom: none;
-	background: none;
-}
-
-
-
-/* Tables
-============================================ */
-
-/* Table styles cribbed from Byword's Marked CSS
-http://bywordapp.com/extras/index.html */
-table {
-	margin: auto;
-	border-bottom: 2px solid #ddd;
-	border-right: 2px solid #ddd;
-	border-collapse: collapse;
-}
-
-table th {
-	padding: 0.3em 1em;
-	background-color: #eee;
-	border-top: 2px solid #ddd;
-	border-left: 2px solid #ddd;
-}
-
-table td {
-	padding: 0.3em 1em;
-	border-top: 2px solid #ddd;
-	border-left: 2px solid #ddd;
-}
-
-table th code {
-	border: 1px solid #ddd;
+hr.articleSeparater {
+	width: 80vw;
+	margin: 4em auto 4em calc( (80vw - 650px) / -2);
+	background-color: #ddd;
+	height: 0.3em;
 	border-radius: 0.2em;
 }
 
-table.sortable thead {
-	cursor: default;
+/* Removes the "* * *" on regular `<hr>` */
+hr.long:after,
+hr.articleSeparater:after{
+	content: normal;
 }
 
-/* Keeps wide tables from overwhelming the layout on mobile */
-.table {
-	overflow-x: scroll;
+/* Removes the last hr.articleSeparater on homepage */
+section.day:last-of-type hr.articleSeparater:last-of-type {
+	display: none;
 }
-
-.table figcaption {
-	margin: 1em auto;
-}
-
-
-/* Font Awesome
-http://fontawesome.io
-============================================ */
-
-i.fa.fa-clock-o.fa-fw {
-	vertical-align: 4%;
-	font-size: 0.9em;
-	margin-left: -2px;
-}
-
-i.fa.fa-tag.fa-fw {
-	vertical-align: 12%;
-	font-size: 0.7em;
-}
-
-i.fa.fa-tags.fa-fw {
-	vertical-align: 12%;
-	font-size: 0.75em;
-	margin-right: 0.3em;
-}
-
-
-/* Header Anchors
-https://www.npmjs.com/package/markdown-it-anchor
-============================================ */
-
-a.header-anchor {
-	color: #999;
-	opacity: 0;
-	font-size: 0.8em;
-	vertical-align: 8%;
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out;
-}
-
-.header-anchor,
-.header-anchor:hover,
-.title a {
-	text-decoration: none;
-	background: none;
-	color: #3f70a2;
-	border-radius: none;
-}
-
-h1:hover .header-anchor,
-h2:hover .header-anchor,
-h3:hover .header-anchor,
-h4:hover .header-anchor {
-	opacity: 1;
-}
-
-a.header-anchor,
-a.header-anchor:hover {
-	border-bottom: none;
-	background: none;
-}
-
-
-/* Footnotes
-https://www.npmjs.com/package/markdown-it-footnote
-============================================ */
 
 .footnote-ref a {
 	color: #999;
 	border-bottom: none;
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
 
-/* Disabled until CommonMark /
-`markdown-it-footnote` gets fixed */
+/* Disabled until CommonMark & `markdown-it-footnote` gets fixed */
 hr.footnotes-sep {
 /* 	width: 10em;
 	margin: 5em auto 1.5em 0;
@@ -715,8 +609,6 @@ section.footnotes {
 
 section.footnotes a {
 	color: #999;
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
 
@@ -734,13 +626,11 @@ a.footnote-backref:hover {
 }
 
 
-/* Homepage Pagination
-============================================ */
+/*                 Homepage Pagination               */
+/* ================================================= */
 
 .paginationFooter {
 	padding: 3em 0 0 0;
-	display: block;
-	width: 100%;
 	font-weight: 400;
 	font-size: 1.1em;
 }
@@ -768,8 +658,8 @@ a.footnote-backref:hover {
 }
 
 
-/* Footer
-============================================ */
+/*                      Footer                       */
+/* ================================================= */
 
 #bottomAd {
 	border-top: 2px solid #ddd;
@@ -828,24 +718,19 @@ nav li {
 }
 
 
-/* Wide Displays
-============================================ */
+/*                   @media Queries                  */
+/* ================================================= */
 
-/* Keeps the divider from being
-disproportionally long
-on wide screens */
+/* Wide Displays */
 @media (min-width: 1600px) {
 
+	/* Keeps divider from being too long */
 	hr.articleSeparater {
 		width: 1400px;
 		margin-left: -375px;
 	}
 
 }
-
-
-/* Mobile
-============================================ */
 
 /* iPad */
 @media (max-width: 768px) {
@@ -859,20 +744,6 @@ on wide screens */
 		margin-left: calc( (100vw - 100%) / -2);
 	}
 
-	img.screenshot {
-		border-left: none;
-		border-right: none;
-		border-radius: 0;
-	}
-
-	figure.inlinetwo img.screenshot,
-	figure.inlinethree img.screenshot {
-		border-right: 2px solid #ddd;
-		border-left: 2px solid #ddd;
-		border-radius: 0.4em;
-	}
-
-	video,
 	video.wide {
 		width: 100vw;
 		margin-left: -10vw;
@@ -914,28 +785,34 @@ on wide screens */
 		width: 80vw;
 	}
 
+	img.screenshot {
+		border: none;
+		border-radius: 0;
+	}
+
 	figure,
 	figure.wide,
 	figure.figleft,
-	figure.figright,
-	figure.iphone,
-	figure.applewatch {
+	figure.figright {
 		float: none;
 		width: 100vw;
 		margin: 1em auto auto -10vw;
+		border: none;
+		border-radius: 0;
 	}
 
 	figure.inlinetwo img,
 	figure.inlinethree img {
-		float: none;
-		width: 80%;
-		margin: 1em auto;
+		margin: 1em auto 0 auto;
+		width: 75%;
+		border: 2px solid #ddd;
+		border-radius: 0.4em;
 	}
 
-	figure.inlinetwo img.screenshot,
-	figure.inlinethree img.screenshot {
-		border-right: 2px solid #ddd;
-		border-left: 2px solid #ddd;
+	figure.iphone,
+	figure.applewatch {
+		width: 75%;
+		border: 2px solid #ddd;
 		border-radius: 0.4em;
 	}
 
