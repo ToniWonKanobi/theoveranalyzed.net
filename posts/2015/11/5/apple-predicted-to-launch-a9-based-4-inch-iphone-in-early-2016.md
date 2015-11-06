@@ -1,4 +1,4 @@
-@@ Title=Apple Predicted to Launch A9-Based 4-Inch iPhone in Early 2016, iPhone 7 Plus to Carry 3 GB of RAM  
+@@ Title=Apple Predicted to Launch A9-Based 4-Inch iPhone in Early 2016  
 @@ Date=2015-11-05 13:47  
 @@ Link=http://www.macrumors.com/2015/11/03/kuo-4-inch-iphone-2016-iphone-7-ram/  
 @@ Description=Ah, another 4" iPhone? Count me in.  
@@ -21,3 +21,7 @@ I have both an iPhone 4s and an iPhone 5s that I use for testing. Without hesita
 The newer iPhones are technological marvels, to be sure, but they don't hold a candle to the previous two generations' look and feel.
 
 Count me in.
+
+[From [Greg Koenig][twit]]
+
+[twit]: https://twitter.com/gak_pdx/status/661754767090188288

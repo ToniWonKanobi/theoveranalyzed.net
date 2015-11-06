@@ -5,7 +5,7 @@
 @@ Tags=App Store, iOS, business, Overcast, Starbucks  
 @@ Image=https://s3-us-west-2.amazonaws.com/assets.www.wenatcheeworld.com/media/img/blog-photo/2013/08/14/d34999b3d9-starbucks-coffee.jpg  
 
-<figure class="applewatch">
+<figure>
 	<a class="nohover" href="http://d.pr/i/17f3Q+">
 		<img src="http://d.pr/i/17f3Q+" alt="Regular coffee">
 	</a>

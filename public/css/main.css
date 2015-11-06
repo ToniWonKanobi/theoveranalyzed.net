@@ -1,68 +1,39 @@
-/* See "Practical Typography," by Matthew Butterick:
+/* Basics
+======================================== */
+
+/* Practical Typography:
 http://practicaltypography.com/point-size.html */
-	body {
-		color: #555;
-		font-size: 13pt;
-		font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B',
-			-apple-system, sans-serif;
-		font-weight: 300;
-		line-height: 1.6;
-		margin: 0;
-		padding: 0;
-	}
+body {
+	color: #555;
+	font-size: 13pt;
+	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B',
+		-apple-system, sans-serif;
+	font-weight: 300;
+	line-height: 1.6;
+	margin: 0;
+	padding: 0;
+}
 
-	h1, h2, h3, h4 {
-		font-weight: 600;
-		margin: 1.25em auto -0.25em auto;
-	}
+h1, h2, h3, h4 {
+	font-weight: 600;
+	margin: 1.25em auto -0.25em auto;
+}
 
-	h1 {
-		font-size: 1.5em;
-	}
+h1 {
+	font-size: 1.5em;
+}
 
-	h2 {
-		font-size: 1.25em;
-	}
+h2 {
+	font-size: 1.25em;
+}
 
-	h3 {
-		font-size: 1em;
-	}
+h3 {
+	font-size: 1em;
+}
 
-	h4 {
-		font-size: 0.9em;
-	}
-
-/* Header Anchors:
-https://www.npmjs.com/package/markdown-it-anchor */
-	a.header-anchor {
-		color: #999;
-		opacity: 0;
-		font-size: 0.8em;
-		vertical-align: 8%;
-		transition: all 0.2s ease-in-out;
-	}
-
-	.header-anchor,
-	.header-anchor:hover,
-	.title a {
-		text-decoration: none;
-		background: none;
-		color: #3f70a2;
-		border-radius: none;
-	}
-
-	h1:hover .header-anchor,
-	h2:hover .header-anchor,
-	h3:hover .header-anchor,
-	h4:hover .header-anchor {
-		opacity: 1;
-	}
-
-	a.header-anchor,
-	a.header-anchor:hover {
-		border-bottom: none;
-		background: none;
-	}
+h4 {
+	font-size: 0.9em;
+}
 
 a {
 	color: #3f70a2;
@@ -80,7 +51,6 @@ a {
 	background: #eee;
 	border-bottom: none;
 	border-radius: 2px;
-
 }
 
 a.nohover,
@@ -90,35 +60,24 @@ a.nohover:hover {
 }
 
 
-/*                      Header                       */
-/* ================================================= */
+/* Site Header
+======================================== */
 
-header,
-header a {
+#topHeader,
+#topHeader a {
 	color: #fff;
 	height: 160px;
 	text-align: center;
-}
-
-header:hover {
-	background: none;
-	border: none;
-	text-decoration: none;
 }
 
 #topBanner {
 	background-color: #3f70a2;
 	height: 160px;
 	margin-bottom: -160px;
-	width: 100%;
-
 }
 
 #siteTitle {
 	margin: 1.75em auto 0 auto;
-}
-
-#siteTitle img {
 	width: 520px;
 }
 
@@ -127,55 +86,42 @@ header:hover {
 }
 
 
-/*                       Main                        */
-/* ================================================= */
+/* Main
+======================================== */
 
 main {
-	width: 650px;
-	min-height: calc(100vh - 609px); /* Sets minimum page height */
 	margin: 3em auto 6em auto;
+	min-height: calc(100vh - 609px); /* Sets minimum page height */
+	width: 650px;
 }
 
-main header {
-	height: auto;
-	text-align: left;
-}
-
-.postHeader,
-.postHeaderLinked {
-	text-align: left;
-	transition: all 0.2s ease-in-out;
-}
-
-.postHeader h1,
-.postHeaderLinked h2 {
+header.postHeader h1,
+header.postHeaderLinked h2 {
 	font-weight: 700;
 	line-height: 1.5;
-}
-
-.postHeader h1 {
-	margin-bottom: -0.25em;
 }
 
 a.postTitle {
 	color: #555;
 }
 
-a.postTitle:hover,
-a.postTitleLinked,
+a.postTitle:hover {
+	color: #3f70a2;
+}
+
+span.linkArrow {
+	color: #999;
+	transition: all 0.2s ease-in-out;
+	vertical-align: -4%;
+}
+
 a.postTitleLinked:hover span.linkArrow {
 	color: #3f70a2;
 }
 
-.linkArrow {
-	color: #999;
-	vertical-align: -4%;
-	transition: all 0.2s ease-in-out;
-}
 
-
-/*                   Post Subtitle                   */
-/* ================================================= */
+/* Post Subtitle
+======================================== */
 
 .postSubtitle {
 	color: #999;
@@ -191,8 +137,8 @@ a.postTitleLinked:hover span.linkArrow {
 }
 
 ul.postSubtitleItems {
-	padding: 0;
 	margin: 0.5em auto 0.25em auto;
+	padding: 0;
 }
 
 ul.postSubtitleItems li {
@@ -201,18 +147,12 @@ ul.postSubtitleItems li {
 	padding: 0;
 }
 
-ul.postSubtitleItems + ul {
-	padding: 0;
-	margin: 0.25em auto 0.5em auto;
-}
-
-details.postTags,
-details.postTags summary {
-	transition: all 0.2s ease-in-out;
-}
-
 details.postTags {
 	list-style: none;
+}
+
+details.postTags summary {
+	transition: all 0.2s ease-in-out;
 }
 
 details.postTags summary:hover {
@@ -229,11 +169,9 @@ details.postTags summary::-webkit-details-marker {
 
 details.postTags ul,
 details.postTags ul li {
-	padding-left: 0;
 	list-style: none;
-}
-
-details.postTags li {
+	margin: 0.5em auto;
+	padding-left: 0;
 	transition: all 0.2s ease-in-out;
 }
 
@@ -244,25 +182,25 @@ details.postTags li:hover {
 /* Font Awesome:
 http://fontawesome.io */
 	i.fa.fa-clock-o.fa-fw {
-		vertical-align: 4%;
 		font-size: 0.9em;
-		margin-left: -2px;
+		margin-left: -0.15em;
+		vertical-align: 4%;
 	}
 
 	i.fa.fa-tag.fa-fw {
-		vertical-align: 12%;
 		font-size: 0.7em;
+		vertical-align: 12%;
 	}
 
 	i.fa.fa-tags.fa-fw {
-		vertical-align: 12%;
 		font-size: 0.75em;
 		margin-right: 0.3em;
+		vertical-align: 12%;
 	}
 
 
-/*                    Post Content                   */
-/* ================================================= */
+/* Post Content
+======================================== */
 
 .topstory {
 	font-style: italic;
@@ -283,57 +221,55 @@ img.screenshot {
 }
 
 figure {
-	text-align: center;
 	margin: 2em auto;
+	text-align: center;
 }
 
 figure.inlinetwo img {
-	width: 47%;
 	margin-left: 0.25em;
 	margin-right: 0.25em;
+	width: 47%;
 }
 
 figure.inlinethree img {
-	width: 30%;
 	margin-left: 0.25em;
 	margin-right: 0.25em;
+	width: 30%;
 }
 
 figure.figleft,
 figure.figright {
 	width: 50%;
-	display: inline-block;
 }
 
 figure.figleft {
-	margin: 0.5em 2em 1em 0.5em;
 	float: left;
+	margin: 0.5em 2em 1em 0.5em;
 }
 
 figure.figright {
-	margin: 0.5em 0.5em 1em 2em;
 	float: right;
+	margin: 0.5em 0.5em 1em 2em;
 }
 
 figure.iphone,
 figure.applewatch {
-	width: 50%;
-	border-radius: 0.4em;
 	margin: 2em auto;
+	width: 50%;
 }
 
 figure.wide {
-	width: 150%;
 	margin-left: calc( (150% - 650px) / -2);
+	width: 150%;
 }
 
 figcaption {
-	margin: 1em auto auto 25%;
-	font-style: italic;
-	font-size: 0.8em;
 	color: #999;
-	width: 50%;
+	font-size: 0.8em;
+	font-style: italic;
+	margin: 1em auto auto 25%;
 	text-align: left;
+	width: 50%;
 }
 
 audio,
@@ -342,8 +278,8 @@ video {
 }
 
 video.wide {
-	width: 150%;
 	margin-left: calc( (150% - 100%) / -2);
+	width: 150%;
 }
 
 /* Fixes iframe margin weirdness with FitVids.js */
@@ -363,27 +299,58 @@ blockquote ul li:hover {
 }
 
 pre {
+	background-color: #eee;
+	border-radius: 0.2em;
 	font-family: Menlo, monospace;
 	font-size: 0.8em;
 	padding: 0.5em 0.75em 0.5em 0.75em;
-	border-radius: 0.2em;
-	background-color: #eee;
 }
 
 code {
+	background-color: #eee;
+	border-radius: 0.2em;
 	font-family: Menlo, monospace;
 	font-size: 0.7em;
 	padding: 0.3em 0.3em 0.2em 0.3em;
-	border-radius: 0.2em;
-	background-color: #eee;
 }
 
 pre code {
-	font-size: 0.9em;
-	overflow: scroll;
-	padding: 0;
 	border: none;
+	font-size: 0.9em;
+	padding: 0;
 	word-break: break-word
+}
+
+/* Header Anchors:
+https://github.com/valeriangalliat/markdown-it-anchor */
+a.header-anchor {
+	color: #999;
+	font-size: 0.8em;
+	opacity: 0;
+	transition: all 0.2s ease-in-out;
+	vertical-align: 8%;
+}
+
+a.header-anchor,
+a.header-anchor:hover,
+a.title a {
+	background: none;
+	border-radius: none;
+	color: #3f70a2;
+	text-decoration: none;
+}
+
+h1:hover .header-anchor,
+h2:hover .header-anchor,
+h3:hover .header-anchor,
+h4:hover .header-anchor {
+	opacity: 1;
+}
+
+a.header-anchor,
+a.header-anchor:hover {
+	background: none;
+	border-bottom: none;
 }
 
 /* Fixes `markdown-it`
@@ -392,9 +359,7 @@ pre code {
 	white-space: pre-line;
 }
 
-ul,
-ol,
-dl {
+ul, ol, dl {
 	padding-left: 1.75em;
 }
 
@@ -403,40 +368,42 @@ ul {
 }
 
 li {
+	margin: 1em auto 1em auto;
 	padding-left: 0.25em;
-	margin: 1em auto 1em auto
 }
 
 ul li:hover {
 	list-style: disc;
 }
 
-li a:only-child,
-li a:only-child:hover {
+.table-of-contents li a:only-child {
 	border-bottom: none;
+}
+
+.table-of-contents li a:only-child:hover {
 	background: none;
 }
 
 /* Cribbed from Byword's Marked CSS:
 http://bywordapp.com/extras/index.html */
 	table {
-		margin: auto;
 		border-bottom: 2px solid #ddd;
 		border-right: 2px solid #ddd;
 		border-collapse: collapse;
+		margin: auto;
 	}
 
 	table th {
-		padding: 0.3em 1em;
 		background-color: #eee;
 		border-top: 2px solid #ddd;
 		border-left: 2px solid #ddd;
+		padding: 0.3em 1em;
 	}
 
 	table td {
-		padding: 0.3em 1em;
 		border-top: 2px solid #ddd;
 		border-left: 2px solid #ddd;
+		padding: 0.3em 1em;
 	}
 
 table th code {
@@ -448,52 +415,47 @@ table.sortable thead {
 	cursor: default;
 }
 
-/* Keeps wide tables from overwhelming the layout on mobile */
-.table {
-	overflow-x: scroll;
-}
-
 .table figcaption {
 	margin: 1em auto;
 }
 
 .takehome {
-	color: #3f70a2;
-	font-weight: 600;
-	font-size: 1.2em;
-	line-height: 1.5;
-	font-style: italic;
-	text-transform: uppercase;
 	border-top: 2px solid #eee;
 	border-bottom: 2px solid #eee;
+	color: #3f70a2;
+	font-size: 1.2em;
+	font-style: italic;
+	font-weight: 600;
+	line-height: 1.5;
+	text-transform: uppercase;
 }
 
 .takehomeRight {
-	color: #3f70a2;
-	float: right;
-	margin: 0.5em 0.5em 1em 2em;
-	font-weight: 600;
-	font-size: 1.2em;
-	line-height: 1.5;
-	font-style: italic;
-	text-transform: uppercase;
-	width: 30%;
 	border-top: 2px solid #eee;
 	border-bottom: 2px solid #eee;
+	color: #3f70a2;
+	float: right;
+	font-size: 1.2em;
+	font-style: italic;
+	font-weight: 600;
+	line-height: 1.5;
+	margin: 0.5em 0.5em 1em 2em;
+	text-transform: uppercase;
+	width: 30%;
 }
 
 .takehomeLeft {
-	color: #3f70a2;
-	float: left;
-	margin: 0.5em 2em 1em 0.5em;
-	font-weight: 600;
-	font-size: 1.2em;
-	line-height: 1.5;
-	font-style: italic;
-	text-transform: uppercase;
-	width: 30%;
 	border-top: 2px solid #ddd;
 	border-bottom: 2px solid #ddd;
+	color: #3f70a2;
+	float: left;
+	font-weight: 600;
+	font-size: 1.2em;
+	font-style: italic;
+	line-height: 1.5;
+	margin: 0.5em 2em 1em 0.5em;
+	text-transform: uppercase;
+	width: 30%;
 }
 
 .takehome p,
@@ -503,9 +465,9 @@ table.sortable thead {
 }
 
 .update {
-	margin-top: 2em;
 	background-color: rgba(63, 112, 162, 0.13);
 	border-radius: 0.4em;
+	margin-top: 2em;
 	padding: 0.5em 2em 2em 2em;
 }
 
@@ -545,31 +507,29 @@ table.sortable thead {
 hr {
 	border: none;
 	color: #555;
-	padding: 0;
 	text-align: center;
 }
 
 hr:after {
 	content: "* * *";
-	display: inline-block;
 	font-size: 1.25em;
 	position: relative;
 	top: 0.2em;
 }
 
 hr.long {
-	width: 100%;
 	border-radius: 0.2em;
 	border: 1.5px solid #ddd;
 	margin: 1.5em auto 1.5em auto;
+	width: 100%;
 }
 
 hr.articleSeparater {
-	width: 80vw;
-	margin: 4em auto 4em calc( (80vw - 650px) / -2);
 	background-color: #ddd;
-	height: 0.3em;
 	border-radius: 0.2em;
+	height: 0.3em;
+	margin: 4em auto 4em calc( (80vw - 650px) / -2);
+	width: 80vw;
 }
 
 /* Removes the "* * *" on regular `<hr>` */
@@ -583,56 +543,50 @@ section.day:last-of-type hr.articleSeparater:last-of-type {
 	display: none;
 }
 
-.footnote-ref a {
-	color: #999;
+sup.footnote-ref a {
 	border-bottom: none;
+	color: #999;
 	transition: all 0.2s ease-in-out;
 }
 
-/* Disabled until CommonMark & `markdown-it-footnote` gets fixed */
 hr.footnotes-sep {
-/* 	width: 10em;
+	border: 1px solid #ddd;
 	margin: 5em auto 1.5em 0;
-	border: 1px solid #ddd; */
-	display: none;
+	width: 10em;
+	display: none; /* Disabled until `markdown-it-footnote` gets fixed */
 }
 
 section.footnotes {
-	margin-top: 5em;
+	border-top: 2px solid #eee; /* Sorta-mimics `hr.footnotes-sep` */
+	color: #999;
 	font-size: 0.8em;
-	color: #999;
-	padding-left: 1.5em;
-	border-top: 1.5px solid #eee; /* Sorta-mimics `main hr.footnotes-sep` */
-	border-radius: 0.2em;
-	padding-top: 1.5em;
-}
-
-section.footnotes a {
-	color: #999;
-	transition: all 0.2s ease-in-out;
+	margin-top: 5em;
+	padding-top: 1em;
+	padding-left: 1em;
 }
 
 a.footnote-backref {
-	vertical-align: -0.2em;
+	border-bottom: none;
 	color:  #999;
-	border-bottom: none;
+	vertical-align: -0.2em;
 }
 
-.footnote-ref a:hover,
+sup.footnote-ref a:hover,
 a.footnote-backref:hover {
-	border-bottom: none;
 	background: none;
+	border-bottom: none;
 	border-radius: none;
+	color: #3f70a2;
 }
 
 
-/*                 Homepage Pagination               */
-/* ================================================= */
+/* Homepage Pagination
+======================================== */
 
 .paginationFooter {
-	padding: 3em 0 0 0;
-	font-weight: 400;
 	font-size: 1.1em;
+	font-weight: 400;
+	padding: 3em 0 0 0;
 }
 
 .paginationFooter a {
@@ -643,50 +597,43 @@ a.footnote-backref:hover {
 	color: #3f70a2;
 }
 
-.pageintationFooder p {
-	vertical-align: center;
-}
-
-.paginationFooter .previousPage {
-	display: inline;
+.previousPage {
 	float: right;
 }
 
-.paginationFooter .nextPage {
-	display: inline;
+.nextPage {
 	float: left;
 }
 
 
-/*                      Footer                       */
-/* ================================================= */
+/* Footer
+======================================== */
+
+footer {
+	background: #3f70a2;
+	color: #fff;
+	text-align: center;
+}
 
 #bottomAd {
-	border-top: 2px solid #ddd;
-	height: 130px;
 	background: #fff;
+	border-top: 2px solid #ddd;
+	height: 100px;
 }
 
 #bottomAd figure {
-	width: 150px;
 	margin: 1em auto;
+	width: 100px;
 }
 
-#bottomAd figcaption {
+#bottomAd figure figcaption {
+	font-size: 0.8em;
 	margin: auto;
-	width: 100%%;
 	text-align: center;
-}
-
-footer {
-	background-color: #3f70a2;
-	color: #fff;
-	text-align: center;
+	width: 100%;
 }
 
 nav {
-	background-color: #3f70a2;
-	color: #fff;
 	font-size: 1.1em;
 	font-weight: 400;
 }
@@ -701,25 +648,25 @@ nav a:hover {
 
 nav ul {
 	margin: auto;
-	list-style: none;
 	padding: 1em 0;
 }
 
-nav li {
+nav li,
+nav li:hover {
+	list-style: none;
 	margin: auto;
 	padding: 0;
 }
 
 #copyright {
-	background: #3f70a2;
 	font-size: 0.8em;
 	margin: 0;
 	padding-bottom: 0.5em;
 }
 
 
-/*                   @media Queries                  */
-/* ================================================= */
+/* @media Queries
+======================================== */
 
 /* Wide Displays */
 @media (min-width: 1600px) {
@@ -740,19 +687,19 @@ nav li {
 	}
 
 	figure.wide {
-		width: 100vw;
 		margin-left: calc( (100vw - 100%) / -2);
+		width: 100vw;
 	}
 
 	video.wide {
-		width: 100vw;
 		margin-left: -10vw;
+		width: 100vw;
 	}
 
 	hr.articleSeparater {
-		width: 100vw;
-		margin: 3em auto 3em calc( (100vw - 100%) / -2);
 		border-radius: 0;
+		margin: 3em auto 3em calc( (100vw - 100%) / -2);
+		width: 100vw;
 	}
 
 }
@@ -760,7 +707,7 @@ nav li {
 /* Big iPhones */
 @media (max-width: 736px) {
 
-	header {
+	#topHeader {
 		height: 130px;
 	}
 
@@ -772,7 +719,6 @@ nav li {
 	#siteTitle {
 		margin-top: 1.75em;
 		width: 80vw;
-		max-width: 400px;
 	}
 
 	#siteByline {
@@ -780,8 +726,8 @@ nav li {
 	}
 
 	main {
-		margin-top: 1.5em;
 		min-height: calc(100vh - 500px);
+		margin-top: 1.5em;
 		width: 80vw;
 	}
 
@@ -795,23 +741,20 @@ nav li {
 	figure.figleft,
 	figure.figright {
 		float: none;
-		width: 100vw;
 		margin: 1em auto auto -10vw;
-		border: none;
-		border-radius: 0;
+		width: 100vw;
 	}
 
-	figure.inlinetwo img,
-	figure.inlinethree img {
-		margin: 1em auto 0 auto;
-		width: 75%;
+	figure.inlinetwo img.screenshot,
+	figure.inlinethree img.screenshot {
 		border: 2px solid #ddd;
 		border-radius: 0.4em;
+		margin: 1em auto 0 auto;
+		width: 50%;
 	}
 
-	figure.iphone,
-	figure.applewatch {
-		width: 75%;
+	figure.iphone img.screenshot,
+	figure.applewatch img.screenshot {
 		border: 2px solid #ddd;
 		border-radius: 0.4em;
 	}
@@ -824,9 +767,9 @@ nav li {
 	}
 
 	hr.articleSeparater {
-		width: 100vw;
-		margin: 2em auto 2em -10vw;
 		border-radius: 0;
+		margin: 2em auto 2em -10vw;
+		width: 100vw;
 	}
 
 }
@@ -835,10 +778,10 @@ nav li {
 @media (max-width: 320px) {
 
 	body {
-		font-size: 0.95em
+		font-size: 0.9em
 	}
 
-	header {
+	#topHeader {
 		height: 110px;
 	}
 
