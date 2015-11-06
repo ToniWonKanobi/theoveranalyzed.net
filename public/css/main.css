@@ -221,7 +221,7 @@ img.screenshot {
 }
 
 figure {
-	margin: 2em auto;
+	margin: 1em auto;
 	text-align: center;
 }
 
@@ -254,12 +254,11 @@ figure.figright {
 
 figure.iphone,
 figure.applewatch {
-	margin: 2em auto;
 	width: 50%;
 }
 
 figure.wide {
-	margin-left: calc( (150% - 650px) / -2);
+	margin: 2em auto auto calc( (150% - 650px) / -2);
 	width: 150%;
 }
 
@@ -367,21 +366,19 @@ ul {
 	list-style: circle;
 }
 
+ul li:hover {
+	list-style: disc;
+}
+
 li {
 	margin: 1em auto 1em auto;
 	padding-left: 0.25em;
 }
 
-ul li:hover {
-	list-style: disc;
-}
-
-.table-of-contents li a:only-child {
-	border-bottom: none;
-}
-
-.table-of-contents li a:only-child:hover {
+li a:only-child,
+li a:only-child:hover {
 	background: none;
+	border-bottom: none;
 }
 
 /* Cribbed from Byword's Marked CSS:
@@ -415,8 +412,8 @@ table.sortable thead {
 	cursor: default;
 }
 
-.table figcaption {
-	margin: 1em auto;
+.table {
+	overflow: auto;
 }
 
 .takehome {
@@ -731,12 +728,12 @@ nav li:hover {
 		width: 80vw;
 	}
 
-	img.screenshot {
+	:not(.update) img.screenshot {
 		border: none;
 		border-radius: 0;
 	}
 
-	figure,
+	:not(.table) > figure,
 	figure.wide,
 	figure.figleft,
 	figure.figright {
