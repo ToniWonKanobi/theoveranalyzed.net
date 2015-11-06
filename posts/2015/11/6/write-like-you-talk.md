@@ -9,7 +9,7 @@
 	<a class="nohover" href="http://d.pr/i/1fwaF+">
 		<img class="screenshot" src="http://d.pr/i/1fwaF+" alt="text">
 	</a>
-	<figcaption><a href="https://developer.mozilla.org/en-US/Marketplace/Options/Mobile_optimized_websites">Optimized for mobile</a>, this site is not.</figcaption>
+	<figcaption>Old-school.</figcaption>
 </figure>
 
 Paul Graham, of [Yahoo! Store][wikipedia] and [Y Combinator][wikipedia 2] fame, with some advice for <s>pen'ers</s> writers:
