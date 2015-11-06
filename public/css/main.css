@@ -91,7 +91,7 @@ a.nohover:hover {
 
 main {
 	margin: 3em auto 6em auto;
-	min-height: calc(100vh - 609px); /* Sets minimum page height */
+	min-height: calc(100vh - 600px); /* Sets minimum page height */
 	width: 650px;
 }
 
