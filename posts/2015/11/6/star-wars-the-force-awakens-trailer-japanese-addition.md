@@ -5,7 +5,7 @@
 @@ Tags=Star Wars, Star Wars: The Force Awakens, movies, trailers, Japan  
 @@ Image=http://d.pr/i/1fAqM+  
 
-[Everything][wikipedia] [Japanese][wikipedia 2] [is][wikipedia 3] better.
+[Everything][wikipedia] [Japanese][wikipedia 2] is [better][wikipedia 3].
 
 [From [Rene Ritchie][twitter]]
 
