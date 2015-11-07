@@ -14,7 +14,7 @@ body {
 	padding: 0;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5, h6 {
 	font-weight: 600;
 	margin: 1.25em auto -0.25em auto;
 }
@@ -31,7 +31,7 @@ h3 {
 	font-size: 1em;
 }
 
-h4 {
+h4, h5, h6 {
 	font-size: 0.9em;
 }
 
@@ -91,8 +91,8 @@ a.nohover:hover {
 
 main {
 	margin: 3em auto 6em auto;
-	min-height: calc(100vh - 600px); /* Sets minimum page height */
-	width: 650px;
+	min-height: calc(100vh - 605px); /* Sets minimum page height */
+	width: 50vw;
 }
 
 header.postHeader h1,
@@ -258,7 +258,7 @@ figure.applewatch {
 }
 
 figure.wide {
-	margin: 2em auto auto calc( (150% - 650px) / -2);
+	margin: 2em auto auto -25%;
 	width: 150%;
 }
 
@@ -277,7 +277,7 @@ video {
 }
 
 video.wide {
-	margin-left: calc( (150% - 100%) / -2);
+	margin-left: -25%;
 	width: 150%;
 }
 
@@ -508,8 +508,9 @@ hr {
 }
 
 hr:after {
-	content: "* * *";
+	content: "***";
 	font-size: 1.25em;
+	letter-spacing: 0.25em;
 	position: relative;
 	top: 0.2em;
 }
@@ -525,8 +526,8 @@ hr.articleSeparater {
 	background-color: #ddd;
 	border-radius: 0.2em;
 	height: 0.3em;
-	margin: 4em auto 4em calc( (80vw - 650px) / -2);
-	width: 80vw;
+	margin: 4em auto 4em -30%;
+	width: 160%;
 }
 
 /* Removes the "* * *" on regular `<hr>` */
@@ -666,12 +667,10 @@ nav li:hover {
 ======================================== */
 
 /* Wide Displays */
-@media (min-width: 1600px) {
+@media (min-width: 1500px) {
 
-	/* Keeps divider from being too long */
-	hr.articleSeparater {
-		width: 1400px;
-		margin-left: -375px;
+	main {
+		width: 40vw;
 	}
 
 }
@@ -681,6 +680,7 @@ nav li:hover {
 
 	main {
 		min-height: calc(100vh - 600px);
+		width: 80vw;
 	}
 
 	figure.wide {
@@ -723,9 +723,8 @@ nav li:hover {
 	}
 
 	main {
-		min-height: calc(100vh - 500px);
+		min-height: calc(100vh - 550px);
 		margin-top: 1.5em;
-		width: 80vw;
 	}
 
 	:not(.update) img.screenshot {
@@ -788,7 +787,7 @@ nav li:hover {
 	}
 
 	main {
-		min-height: calc(100vh - 450px);
+		min-height: calc(100vh - 480px);
 	}
 
 }
