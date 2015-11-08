@@ -92,7 +92,7 @@ a.nohover:hover {
 main {
 	margin: 3em auto 6em auto;
 	min-height: calc(100vh - 605px); /* Sets minimum page height */
-	width: 50vw;
+	width: 650px;
 }
 
 header.postHeader h1,
@@ -666,15 +666,6 @@ nav li:hover {
 /* @media Queries
 ======================================== */
 
-/* Wide Displays */
-@media (min-width: 1500px) {
-
-	main {
-		width: 40vw;
-	}
-
-}
-
 /* iPad */
 @media (max-width: 768px) {
 
@@ -760,12 +751,6 @@ nav li:hover {
 		float: none;
 		margin: auto;
 		width: 100%;
-	}
-
-	hr.articleSeparater {
-		border-radius: 0;
-		margin: 2em auto 2em -10vw;
-		width: 100vw;
 	}
 
 }
