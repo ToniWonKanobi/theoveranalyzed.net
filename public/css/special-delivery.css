@@ -1,34 +1,32 @@
-/* This is for Valentine's Day specials for Allison */
+header, footer {
+	display: none;
+}
 
 body.specialDelivery {
-	background-image: url(https://s3-us-west-1.amazonaws.com/toaassets/Images/IMG_0522.jpg);
-	background-position: top center;
-	background-size: 100vw;
-	background-repeat: no-repeat;
+	background: #aaa;
 }
 
 body.specialDelivery a,
-body.specialDelivery a:hover { color: #ff333f }
+body.specialDelivery a:hover {
+	background: none;
+	border: none;
+	color: #ff333f
+}
 
-body.specialDelivery #masthead,
-body.specialDelivery #header,
-body.specialDelivery #bottomAd,
-body.specialDelivery #footer { display: none }
-
-.specialDelivery {
-	text-align: center;
+div.specialDelivery {
 	background-color: #eee;
 	border-radius: 1em;
-	padding: 1em;
-	opacity: 0.9
+	margin: 5em auto;
+	padding: 2em;
+	text-align: center;
+	width: 60vw;
 }
 
-/* iPad*/
-@media (max-width: 768px) {
-	body.specialDelivery { background-size: 200vh }
-}
+@media (min-width: 1400px) {
 
-/* Smaller iPhones */
-@media (max-width: 320px) {
-	body.specialDelivery { background-size: 300vh }
+	div.specialDelivery {
+		margin-top: 8em;
+		width: 30vw;
+	}
+
 }

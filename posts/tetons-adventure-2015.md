@@ -10,6 +10,6 @@
 Are you using a crappy browser? It must be crappy, because it doesn't support this HTML5 <code>video</code> element.
 </video>
 
-<div class="blankBlackInfo">
-<p>For less fun and more nerdy adventures, visit <a href="/">TheOverAnalyzed</a></p>
+<div class="info">
+	<p>For less fun and more nerdy adventures, visit <a href="/">TheOverAnalyzed</a></p>
 </div>
