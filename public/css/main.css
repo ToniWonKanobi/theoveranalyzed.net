@@ -76,14 +76,9 @@ a.nohover:hover {
 }
 
 #siteTitle {
-	margin: 2em auto 0 auto;
+	margin: 2em auto -1.5em auto;
 	width: 520px;
 }
-
-#siteByline {
-	margin-top: -0.5em;
-}
-
 
 /* Main
 ======================================== */
@@ -703,13 +698,9 @@ nav li:hover {
 	}
 
 	#siteTitle {
-		margin-top: 1.5em;
+		margin: 1.35em auto -1.5em auto;
 		max-width: 400px;
 		width: 80vw;
-	}
-
-	#siteByline {
-		margin-top: -0.5em;
 	}
 
 	main {
