@@ -209,9 +209,8 @@ img {
 	vertical-align: middle;
 }
 
-img.screenshot {
-	border: 2px solid #ddd;
-	border-radius: 0.4em;
+.entry img {
+	box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
 }
 
 figure {
@@ -698,7 +697,7 @@ nav li:hover {
 	}
 
 	#siteTitle {
-		margin: 1.35em auto -1.25em auto;
+		margin: 1.6em auto -1.25em auto;
 		max-width: 400px;
 		width: 80vw;
 	}
@@ -708,11 +707,6 @@ nav li:hover {
 		margin-top: 1.5em;
 	}
 
-	:not(.update) img.screenshot {
-		border: none;
-		border-radius: 0;
-	}
-
 	:not(.table) > figure,
 	figure.wide,
 	figure.figleft,
@@ -720,20 +714,6 @@ nav li:hover {
 		float: none;
 		margin: 1em auto auto -10vw;
 		width: 100vw;
-	}
-
-	figure.inlinetwo img.screenshot,
-	figure.inlinethree img.screenshot {
-		border: 2px solid #ddd;
-		border-radius: 0.4em;
-		margin: 1em auto 0 auto;
-		width: 50%;
-	}
-
-	figure.iphone img.screenshot,
-	figure.applewatch img.screenshot {
-		border: 2px solid #ddd;
-		border-radius: 0.4em;
 	}
 
 	.takehomeRight,
