@@ -5,8 +5,9 @@
 @@ Image=http://d.pr/i/nwJY+  
 
 <!-- LazyLoad -->
+<script src="http://theoveranalyzed.net/js/jquery-2.0.3.min.js"></script>
 <!-- http://www.appelsiini.net/projects/lazyload -->
-<script src="/js/lazyload.js"></script>
+<script src="http://theoveranalyzed.net/js/lazyload.js"></script>
 <script type="text/javascript" charset="utf-8">
 	$(function() {
 		$("img.lazy").show().lazyload({
