@@ -1,5 +1,5 @@
 Title: Fantastical 2  
-Dat: 2014-02-02 22:54  
+Date: 2014-02-02 22:54  
 Dexcription: A short review of Flexibits's calendar app, Fantastical 2, as well comparisons to several popular competitors.  
 Tags: Reviews, Apps  
 Image: http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg  
@@ -66,7 +66,7 @@ I'm the first to admit that when it comes to a lot of the visual and otherwise U
 
 # The Competition
 
-## [Sunrise][sr]
+## [Sunrise][sunrise]
 
 Sunrise [tries to be][idb] a 'Fantastical+,' but ultimately eschews parsing prowess for social. 
 
@@ -113,5 +113,5 @@ Fantastical 2 is $1.99 on the [App Store][apple] and is a small price to pay for
 [macstories 2]: http://www.macstories.net/Reviews/Calendars-5-Review/ "Federico Viticci reviews Calendars 5"
 [macworld]: http://www.macworld.com/article/2017389/review-fantastical-for-iphone-shines-despite-ios-caused-limitations.html "Macword reviews Fantastical for iPhone"
 [readdle]: https://itunes.apple.com/us/app/calendars-5-event-task-manager/id697927927?mt=8&at=1l3vx9s "Calendars 5 on the App Store"
-[sr]: https://itunes.apple.com/us/app/sunrise-calendar-outlook-app/id599114150?mt=8&at=1l3vx9s "Sunrise on the App Store"
+[sunrise]: https://itunes.apple.com/us/app/sunrise-calendar-outlook-app/id599114150?mt=8&at=1l3vx9s "Sunrise on the App Store"
 [tumblr]: http://ios7fail.tumblr.com/ "tumblr full of iOS 7 design failures"
