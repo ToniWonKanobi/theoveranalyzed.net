@@ -97,7 +97,7 @@ a.nohover:hover {
 
 #siteTitleAndLogo {
 	margin: 0;
-	padding-top: 0.75em;
+	padding-top: 1em;
 }
 
 #logo {
@@ -116,8 +116,8 @@ a.nohover:hover {
 }
 
 #siteByline {
-	margin-top: -0.5em;
-	padding-bottom: 1.25em;
+	margin-top: -1em;
+	padding-bottom: 1.5em;
 }
 
 /* Main
@@ -665,6 +665,11 @@ form#search input:focus {
 
 	#siteTitle {
 		font-size: 1.75em;
+	}
+
+	#siteByline {
+		margin-top: -0.5em;
+		padding-bottom: 1em;
 	}
 
 	main {
