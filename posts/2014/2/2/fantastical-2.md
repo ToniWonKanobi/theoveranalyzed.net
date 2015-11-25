@@ -92,7 +92,7 @@ This is kind of an [oddball][macstories 2]. It's biggest pro is the unique portr
 
 When I am at work, I often only have a few of minutes between patients. And when it does come time to add an event or make a reminder, my goto apps are Fantastical and [Drafts][agiletortoise] (more on that later). I want to be able to add an event quickly, lock my phone, put it in my pocket, and go on with my day. Fantastical is the bomb for this. 
 
-Fantastical 2 is $1.99 on the [App Store][apple] and is a small price to pay for expediency. I have quite a few thoughts on the current state of paid apps on the App Store (more on that later), but suffice it to say that I am more than willing to spend money on apps that make my iOS experience better. Fantastical is one of those apps.
+Fantastical 2 is only [$1.99][apple]---a small price to pay for the expediency and utility it provides. I have quite a few thoughts on the current state of paid apps on the App Store (more on that later), but suffice it to say that I am more than willing to spend money on apps that make my iOS experience better. Fantastical is one of those apps.
 
 ## The Pros
 
