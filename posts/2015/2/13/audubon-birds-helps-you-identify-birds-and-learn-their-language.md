@@ -1,8 +1,9 @@
-@@ Title=Audubon Birds Helps You Identify Birds and Learn Their Language  
-@@ Date=2015-02-13 10:00  
-@@ Link=http://www.appleworld.today/blog/2015/2/11/audubon-birds  
-@@ Description=Gotta love that app icon.  
-@@ Tags=birds, apps, iPhone, iOS  
+Title: Audubon Birds Helps You Identify Birds and Learn Their Language  
+Date: 2015-02-13 10:00  
+Link: http://www.appleworld.today/blog/2015/2/11/audubon-birds  
+Description: Gotta love that app icon.  
+Tags: Animals  
+Image: http://static1.squarespace.com/static/54c95d06e4b04d8d26f97dde/t/54db629be4b0da00562a5506/1423663772722/?format=500w  
 
 I hadn't previously used the Audubon app before seeing this article. And, full disclosure: this seems like a promoted post for [Green Mountain Digital][natureshare]. It reads an awful lot like an ad read. Still, this app is worth checking out if you like birds.[^br]
 
@@ -10,5 +11,5 @@ As an aside: I wholeheartedly recommend the [Peterson Birds][apple] app over Aud
 
 [^br]: I hope you like birds 🐦
 
-[apple]: https://itunes.apple.com/us/app/id407825684?at=1l3vx9s
-[natureshare]: http://www.natureshare.com/
+[apple]: https://itunes.apple.com/us/app/id407825684?at=1l3vx9s "Peterson Birds on the App Store"
+[natureshare]: http://www.natureshare.com/ "Questionable native ad-ery from AWT"

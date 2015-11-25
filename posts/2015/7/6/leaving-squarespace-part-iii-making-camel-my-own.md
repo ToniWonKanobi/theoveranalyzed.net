@@ -1,18 +1,10 @@
-@@ Title=Leaving Squarespace Part III: Making Camel My Own  
-@@ Date=2015-07-06 10:27
-@@ Description=Casey Liss's Camel (as well as Roger Stringer's fork) made for excellent starting points for TheOverAnalyzed. I added some things to make it my own.  
-@@ Tags=Leaving Squarespace, TheOverAnalyzed, TheOverAnalyzed 3.0, HTML, CSS, JavaScript, jQuery, Camel  
-@@ Image=http://d.pr/i/1d63D+  
+Title: Leaving Squarespace Part III: Making Camel My Own  
+Date: 2015-07-06 10:27  
+Description: Casey Liss's Camel made for excellent starting point for this blog. I added some extra things to make it my own.  
+Tags: Meta, Camel  
+Image: http://d.pr/i/1d63D+  
 
-<div class="topstory">
-
-When I started trying to figure out Camel, all I knew was that it was going to be both more open and easier to tweak than Squarespace. Little did I know that I would discover several additional 'extras' that would make *my* version of Camel the perfect blogging platform for me. As always, check Roger Stringer's thorough post [here][sp] for more in-depth information, such as how to install `npm` and `node`.
-
-</div>
-
-<h2>Contents</h2>
-
-[[TOC]]
+<p><em class="topStory">When I started trying to figure out Camel, all I knew was that it was going to be both more open and easier to tweak than Squarespace. Little did I know that I would discover several additional 'extras' that would make my version of Camel the perfect blogging platform for me. As always, check Roger Stringer's thorough post <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/" title="Roger Stringer's post on how to set Camel up">here</a> for more in-depth information, such as how to install <code>npm</code> and <code>node</code>.</em></p>
 
 # Updating Camel's Default Dependencies
 
@@ -31,7 +23,7 @@ Here's how to do that:
 4. Further navigate to the `node_modules` directory (this is where all of Camel's modules live, such as `handlebars`, `express`, and `markdown-it`):
 5.  Run the command `npm update markdown-it` and confirm that `markdown-it` has been updated:
 
-	![][d]
+	![npm update markdown-it][d]
 	
 You can now proceed with installing these additional `markdown-it` plugins.
 
@@ -48,7 +40,7 @@ Here's how to enable header anchors:
 3. Run the command `npm i markdown-it-anchor --save`[^sa]
 5. Test the installation by checking `package.json` for a new dependency
 	
-	![][d 3]
+	![Adding `markdown-it-anchor` to package.json][d 3]
 	
 6. Open `camel.js` and add the following to the Initialization section
 
@@ -100,14 +92,14 @@ a.header-anchor:hover {
 To test that everything worked as it should, `cd` to Camel's main directory and run `node camel.js`:
 
 <figure>
-	<img src="http://d.pr/i/1cpAW+" alt="Header anchors working">
+	<img src="http://d.pr/i/1cpAW+" alt="Header anchors working" title="Header anchors working">
 	<figcaption>Permalink ("header anchor") only visible on hover. Perfect.</figcaption>
 </figure>
 
 Note the `#header-test` appended to the hyperlink (check the status bar on the bottom left of the window).
 
 <figure>
-	<img src="http://d.pr/i/1lpF3+" alt="Finished anchors">
+	<img src="http://d.pr/i/1lpF3+" alt="Finished anchors" title="Finished anchors">
 	<figcaption>Success.</figcaption>
 </figure>
 
@@ -122,7 +114,7 @@ Installing the plugin wasn't difficult, but it took me a while to figure it out:
 3. Run the command `npm i markdown-it-table-of-contents --save`
 4. Test the installation by checking `package.json` for a new dependency
 	
-	![][d 4]
+	![Adding `markdown-it-table-of-contents` to package.json][d 4]
 	
 6. Open `camel.js` and add the following to the Initialization section
 
@@ -170,7 +162,8 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 3. Run the command `npm i markdown-it-highlightjs --save`
 4. Test the installation by checking `package.json` for a new dependency
 	
-	![][d 5]
+	!["Adding `markdown-it-highlightjs` to package.json"][d 5]
+	
 6. Open `camel.js` and add the following to the Initialization section:
 
 	```
@@ -211,12 +204,13 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 	
 You can test that the plugin is working by editing a sample post and launching a local version of your site.
 
-![][d 6]
+![It works!][d 6]
                                           
 ***
 
 There are other aspects of TheOverAnalyzed that took some tweaking. I might detail those changes someday. But the bulk of the changes I made to underlying structure Camel are detailed in this post. 
 
+<aside>
 <div class="update">
 
 ## Update: No More Highights
@@ -226,18 +220,29 @@ Since writing this post, I have since disabled `markdown-it-highlightjs`. It was
 
 </div>
 
+<div class="update">
+
+## Update: No More Table of Contents or [Exposed] Header Anchors
+<p class="updateTime"><time datetime="2015-11-20">November 20, 2015</time></p>
+
+During the first few weeks of November, I spent some time refactoring my website---making changes here and there. In doing so, I culled a bunch of stuff. On the chopping block were both `markdown-it-table-of-contents` and `markdown-it-anchor`. The Table of Contents are something I'd like to see adopted by CommonMark itself. But that will be a while. Until then, I'll do without Table of Contents (they're incredibly time-consuming to do, even in Markdown.)
+
+And while `markdown-it-anchor` is still a dependency on this project, I've tweaked `camel.js` such that permalinks don't pop up anymore on hover (since they header anchors are written to the DOM, they showed up in the RSS feeds, and just looked stupid there).
+
+</div>
+</aside>
+
 [^la]: I'll talk more my CSS philosophy/changes in a future post. 
-[^sa]: Appending `--save` marks the package as a dependency in Camel's `package.json`, which is important if you actually want the plugin to work.
+[^sa]: Appending `--save` marks the package as a dependency in Camel's `package.json`, which is important!
 
 [d]: http://d.pr/i/10848+ "npm update markdown-it"
-[d 2]: http://d.pr/i/16frZ+
-[d 3]: http://d.pr/i/1kT9a+
-[d 4]: http://d.pr/i/1lwKV+
-[d 5]: http://d.pr/i/Z46L+
-[d 6]: http://d.pr/i/BuH9+
-[github]: https://github.com/cliss/camel/blob/master/package.json#L61
-[highlightjs]: https://highlightjs.org
-[npmjs]: https://www.npmjs.com/package/markdown-it
-[npmjs 2]: https://www.npmjs.com/package/markdown-it-anchor
-[npmjs 3]: https://www.npmjs.com/package/markdown-it-highlightjs/
-[sp]: http://www.sitepoint.com/deploying-camel-js-blog-heroku/
+[d 2]: http://d.pr/i/16frZ+ "GitHub header permalinks"
+[d 3]: http://d.pr/i/1kT9a+ "Adding `markdown-it-anchor` to package.json"
+[d 4]: http://d.pr/i/1lwKV+ "Adding `markdown-it-table-of-contents` to package.json"
+[d 5]: http://d.pr/i/Z46L+ "Adding `markdown-it-highlightjs` to package.json"
+[d 6]: http://d.pr/i/BuH9+ "It works!"
+[github]: https://github.com/cliss/camel/blob/master/package.json#L61 "Line of code in the package.json for Camel that calls for Express"
+[highlightjs]: https://highlightjs.org "Home of highlight.js on the internet"
+[npmjs]: https://www.npmjs.com/package/markdown-it "npmjs page for `markdown-it`"
+[npmjs 2]: https://www.npmjs.com/package/markdown-it-anchor "npmjs page for `markdown-it-anchor`"
+[npmjs 3]: https://www.npmjs.com/package/markdown-it-highlightjs/ "npmjs page for `markdown-it-highlightjs`"

@@ -1,10 +1,14 @@
-@@ Title=Job Interviews    
-@@ Date=2015-02-25 18:00  
-@@ Description=I've been on a few job interviews the past few weeks. It hasn't been fun.    
-@@ Tags=Anthony, dentistry  
+Title: Job Interviews  
+Date: 2015-02-25 18:00  
+Description: I've been on a few job interviews the past few weeks. It hasn't been fun.  
+Tags: Dentistry  
+Image: http://d.pr/i/15qcR+  
+
+![Anthony Craig, DDS](http://d.pr/i/15qcR+ "Anthony Craig, DDS")
 
 Luis Abreu wrote a [piece][lmjabreu] yesterday outlining his experience interviewing for a job at Apple:
->The [interview] seemed based on indirect questioning, [which] leaves too much room for bad judgements and assumptions
+
+> The [interview] seemed based on indirect questioning, [which] leaves too much room for bad judgements and assumptions
 
 It's the dream, isn't it? To work for that small-ish company in Cupertino? 
 
@@ -38,7 +42,7 @@ What I take home from Abreu's story is solace---at least I'm not alone.
 [^idg]: Another interesting tidbit: just as his departure from IDG coincided with the launch of his personal blog, [Six Colors][sixcolors], my own departure from my job at PDS led to my spending *a lot* more time on my blog here. It's funny how big, planned life changes often lead to other equally big, *unplanned* life changes.
 [^kr]: The grass is always greener.
 
-[lmjabreu]: https://lmjabreu.com/post/700-billion/
-[pacificdentalservices]: http://pacificdentalservices.com
-[sixcolors]: http://www.sixcolors.com
-[snellworld]: http://snellworld.com/a-personal-announcement.html
+[lmjabreu]: https://lmjabreu.com/post/700-billion/ "Louie A interviewing Apple post it's $700B quarter"
+[pacificdentalservices]: http://pacificdentalservices.com "Pacific Dental Services (PDS)"
+[sixcolors]: http://www.sixcolors.com "Jason Snell's blog, Six Colors"
+[snellworld]: http://snellworld.com/a-personal-announcement.html "Jason Snell's introducing Six Colors"

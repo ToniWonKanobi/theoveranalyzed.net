@@ -1,11 +1,14 @@
-@@ Title=Wearing Two Watches?    
-@@ Date=2015-03-10 18:00  
-@@ Link=http://www.theverge.com/2015/3/9/8176049/apple-watch-edition-vs-rolex-benjamin-clymer-interview  
-@@ Description=Sounds crazy right? Who would wear *two* watches, just to experience the old way (mechanical watch) and the new way (Apple Watch)?    
-@@ Tags=Apple, Apple Watch, Benjamin Clymer, HODINKEE  
+Title: Wearing Two Watches?  
+Date: 2015-03-10 18:00    
+Description: Sounds crazy right? Who would wear *two* watches, just to experience the old way (mechanical watch) and the new way (Apple Watch)?  
+Tags: Watches, Apple Watch  
+Image: http://d.pr/i/uan2+  
 
-Benjamin Clymer, founder of [HODINKEE][hodinkee], for The Verge:
->The Apple Watch has minimal human value, and that is the biggest difference between it and its mechanical counterparts.
+<p><img class="screenshot" src="http://d.pr/i/uan2+" alt="Benjamin Clymer's piece on The Verge" title="Benjamin Clymer's piece on The Verge"></p>
+
+Benjamin Clymer, founder of [HODINKEE][hodinkee], for [The Verge][tv]:
+
+> The Apple Watch has minimal human value, and that is the biggest difference between it and its mechanical counterparts.
 
 This got me thinking.
 
@@ -35,6 +38,7 @@ And you know what? That's okay. I am probably going to get the Apple Watch. I ne
 
 [^h]: ❤️
 
-[hodinkee]: http://www.hodinkee.com/
-[patek]: http://www.patek.com/en/mens-watches/aquanaut/5167A-001
-[rolex]: http://www.rolex.com/watches/sea-dweller-4000/m116600-0003/magazine.html
+[hodinkee]: http://www.hodinkee.com/ "HODINKEE"
+[patek]: http://www.patek.com/en/mens-watches/aquanaut/5167A-001 "Patek Aquanaut 5167A-001"
+[rolex]: http://www.rolex.com/watches/sea-dweller-4000/m116600-0003/magazine.html "Rolex Sea-Dweller 4000"
+[tv]: http://www.theverge.com/2015/3/9/8176049/apple-watch-edition-vs-rolex-benjamin-clymer-interview "Benjamin Clymer's post on The Verge"

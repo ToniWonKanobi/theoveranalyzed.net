@@ -1,8 +1,9 @@
-@@ Title=Kenny G and Warren G Perform Regulate  
-@@ Date=2015-02-24 07:35  
-@@ Link=https://www.youtube.com/watch?v=L4E4MWLzKrg  
-@@ Description=Kenny G and Warren G, both G's, perform on Kimmel.  
-@@ Tags=music, music videos, bass, Kenny G, Andrew Gouche, Warren G, Jimmy Kimmel  
+Title: Kenny G and Warren G Perform Regulate  
+Date: 2015-02-24 07:35  
+Link: https://youtu.be/L4E4MWLzKrg  
+Description: Kenny G and Warren G, both G's, perform on Kimmel.  
+Tags: Music, Bass Guitar  
+Video: https://youtu.be/L4E4MWLzKrg  
 
 Thanks Jimmy Kimmel.
 
@@ -14,6 +15,6 @@ Thanks Jimmy Kimmel.
 
 [From [Devour][devour]]
 
-[devour]: http://devour.com/video/kenny-g-and-warren-g-perform-regulate/
-[musiciansfriend]: http://www.musiciansfriend.com/bass/mtd-kingston-andrew-gouche-signature-6-string-electric-bass
-[twitter]: https://twitter.com/andrewgouche
+[devour]: http://devour.com/video/kenny-g-and-warren-g-perform-regulate/ "Source post on Devour"
+[musiciansfriend]: http://www.musiciansfriend.com/bass/mtd-kingston-andrew-gouche-signature-6-string-electric-bass "Andrew Gouche's MTD on Musician's Friend"
+[twitter]: https://twitter.com/andrewgouche "Andrew Gouche on Twitter"

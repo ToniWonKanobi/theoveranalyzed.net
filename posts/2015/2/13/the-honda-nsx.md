@@ -1,10 +1,14 @@
-@@ Title=The Honda NSX  
-@@ Date=2015-02-13 09:00  
-@@ Description=I talk about one of my favorite cars of all time.  
-@@ Tags=cars, NSX, Honda, Acura, Anthony, Jalopnik  
+Title: The Honda NSX  
+Date: 2015-02-13 09:00  
+Description: I talk about one of my favorite cars of all time.  
+Tags: Honda  
+Image: http://d.pr/i/1hDP1+  
+
+![NSX][d]
 
 Patrick George, with Jalopnik on the [Honda NSX][jalopnik]:
->There is no way the new NSX will escape comparison with its famous father.
+
+> There is no way the new NSX will escape comparison with its famous father.
 
 I remember seeing the fabled Iron Man SH-AWD [NSX][wikia] of a few years ago. I wondered just how Honda planned to top their venerable supercar with ... *this.* Flash forward to today, and I still don't think they've quite figured that out. 
 
@@ -16,7 +20,7 @@ But even if you strip all that away, the fact remains: **no new NSX could ever b
 
 About 5 or so years ago, I was back home in Central California visiting my parents, and while I was driving through the neighborhood on the way back to our house, I spotted it. 
 
-**It.**
+*It.*
 
 A black NA1 NSX. 
 
@@ -51,20 +55,21 @@ Yeah. I didn't think so.[^ts]
 [^s]: How I avoided the appearance of a road-raging murderer, I will never know. 
 [^ts]: If you answered *yes* to any of the above questions, I'm not sure we can be friends anymore 🚗
 
-[caranddriver]: http://www.caranddriver.com/reviews/2005-ford-gt-road-test-review
-[jalopnik]: http://jalopnik.com/driving-a-supercharged-zanardi-edition-acura-nsx-was-a-1684602295
-[jalopnik 2]: http://jalopnik.com/ford-gt-this-is-it-1678893649
-[prev]: /2015/1/12/we-love-cars
-[teslamotors]: http://www.teslamotors.com/blog/dual-motor-model-s-and-autopilot
-[total911]: http://www.total911.com/opinion-in-defence-of-the-porsche-991s-electric-power-steering/
-[wikia]: http://ironman.wikia.com/wiki/Acura_NSX
-[wikipedia]: https://en.wikipedia.org/wiki/Ferrari_458
-[wsj]: http://blogs.wsj.com/digits/2015/02/02/uber-chases-google-in-self-driving-cars/
-[youtube]: https://www.youtube.com/watch?v=BJ3vTFHDa_4
-[youtube 2]: https://www.youtube.com/watch?v=uebXYuTYrPE
-[youtube 3]: https://www.youtube.com/watch?v=c3Wbgl_ZP_A
-[youtube 4]: https://www.youtube.com/watch?v=Atyd84SGnBM
-[youtube 5]: https://www.youtube.com/watch?v=w7qVyKKE0UM
-[youtube 6]: https://www.youtube.com/watch?v=e7LgNeodoDo
-[youtube 7]: https://www.youtube.com/watch?v=bLCa67RngWs
-[youtube 8]: https://www.youtube.com/watch?v=dFva5Z8hio8
+[caranddriver]: http://www.caranddriver.com/reviews/2005-ford-gt-road-test-review "Car and Driver reviews the 2005 Ford GT"
+[d]: http://d.pr/i/1hDP1+ "NSX"
+[jalopnik]: http://jalopnik.com/driving-a-supercharged-zanardi-edition-acura-nsx-was-a-1684602295 "Jalopnik drives a Zanardi NSX"
+[jalopnik 2]: http://jalopnik.com/ford-gt-this-is-it-1678893649 "The new Ford GT"
+[prev]: /2015/1/12/we-love-cars "My post about the cars I love"
+[teslamotors]: http://www.teslamotors.com/blog/dual-motor-model-s-and-autopilot "Tesla: Model S autopilot?"
+[total911]: http://www.total911.com/opinion-in-defence-of-the-porsche-991s-electric-power-steering/ "Total 911 defending the 991's electric power steering"
+[wikia]: http://ironman.wikia.com/wiki/Acura_NSX "The new NSX as seen in Iron Man"
+[wikipedia]: https://en.wikipedia.org/wiki/Ferrari_458 "Wikipedia: Ferrari 458"
+[wsj]: http://blogs.wsj.com/digits/2015/02/02/uber-chases-google-in-self-driving-cars/ "WSJ on Google and self-driving cars"
+[youtube]: https://www.youtube.com/watch?v=BJ3vTFHDa_4 "Top Gear - Honda NSX"
+[youtube 2]: https://www.youtube.com/watch?v=uebXYuTYrPE "Acura NSX (Generation 1) Review - Everyday Driver"
+[youtube 3]: https://www.youtube.com/watch?v=c3Wbgl_ZP_A "1966 Ford GT40 - CCC Drive-Thru"
+[youtube 4]: https://www.youtube.com/watch?v=Atyd84SGnBM "Porsche 991 911 Carrera GTS: This Is The 911 You're Looking For - XCAR"
+[youtube 5]: https://www.youtube.com/watch?v=w7qVyKKE0UM "1981 Porsche 911 SC | Ride Along"
+[youtube 6]: https://www.youtube.com/watch?v=e7LgNeodoDo "2015 BMW M4 Coupe (manual) - /MATT FARAH"
+[youtube 7]: https://www.youtube.com/watch?v=bLCa67RngWs "BMW M3 Review (E46) - M3s Pt.1"
+[youtube 8]: https://www.youtube.com/watch?v=dFva5Z8hio8 "2011 BMW M3 Competition Package Review"

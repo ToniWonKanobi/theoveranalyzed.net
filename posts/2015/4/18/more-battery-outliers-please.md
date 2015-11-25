@@ -1,14 +1,19 @@
-@@ Title=More Battery Outliers, Please  
-@@ Date=2015-04-18 13:42  
-@@ Link=http://www.marco.org/2015/04/17/battery-outliers  
-@@ Description=Here's hoping the new MacBook will *at least* beat the 11" MacBook Air's 9-hour battery life.  
-@@ Tags=MacBook, Apple, hardware, gear, Marco Arment, Jason Snell, Apple Watch  
+Title: More Battery Outliers, Please  
+Date: 2015-04-18 13:42  
+Link: http://www.marco.org/2015/04/17/battery-outliers  
+Description: Here's hoping the new MacBook will *at least* beat the 11" MacBook Air's 9-hour battery life.  
+Tags: Mac  
+Image: https://scontent-lax3-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11189543_1602101240031945_722941898_n.jpg  
+
+![My MacBook][cdninstagram]
 
 Marco Arment, on the new MacBook's [reported][anandtech] battery life:
->As batteries and components advance, device designers are able to spend those advancements increasing battery life at a given size and weight, or they can keep battery life in the same range and just make the batteries (and therefore the devices) smaller and lighter. **In recent years, Apple has chosen the latter almost every time** [emphasis added].
+
+> As batteries and components advance, device designers are able to spend those advancements increasing battery life at a given size and weight, or they can keep battery life in the same range and just make the batteries (and therefore the devices) smaller and lighter. **In recent years, Apple has chosen the latter almost every time** [emphasis added].
 
 Marco also linked to a few-months-old [post][sixcolors] by Jason Snell, in which he graphed the static nature of battery life across the iOS device range:
->So when you’re anticipating the next model of iPhone or iPad, and wondering if it’ll show markedly improved battery life, keep this in mind: So far Apple has behaved as if the battery life of the iPad and the iPhone are perfectly fine as is, and that it would prefer to create a thinner and lighter model to one that puts the makers of external battery packs out of business.
+
+> So when you’re anticipating the next model of iPhone or iPad, and wondering if it’ll show markedly improved battery life, keep this in mind: So far Apple has behaved as if the battery life of the iPad and the iPhone are perfectly fine as is, and that it would prefer to create a thinner and lighter model to one that puts the makers of external battery packs out of business.
 
 Could it be that Apple has been applying the same "solving for x" battery life logic to their portable *OS X* devices as well?
 
@@ -17,7 +22,8 @@ When the 13" MacBook Air [launched][theverge] in 2013, the real-world battery li
 Similarly, when the iPhone 6 Plus [landed][theverge 2] last year, many users reported substantially increased battery life compared to the regular iPhone 6. Again, was that *just* an unintended consequence of their offering an additional, bigger phone size?[^ab]
 
 Finally, consider Apple's newest device category, Apple Watch. Here's what their [support page][apple] has to say about its battery life:
->Apple Watch battery performance claims are based on test results from the 38 mm Apple Watch. A 42 mm Apple Watch typically experiences longer battery life.
+
+> Apple Watch battery performance claims are based on test results from the 38 mm Apple Watch. A 42 mm Apple Watch typically experiences longer battery life.
 
 Note that there has not been a huge amount of press regarding the 42 mm's increased battery life. Was that intentional on Apple's part? As long as it basically lasted a whole day, Apple could care less about the battery life? 
 
@@ -25,9 +31,10 @@ It sure seems that Apple is either satisfied with battery life performance acros
 
 [^ab]: A bigger case to house *bigger screen* means a bigger case that can house a *bigger battery* as well.
 
-[anandtech]: http://www.anandtech.com/show/9136/the-2015-macbook-review/11
-[apple]: https://www.apple.com/watch/battery.html
-[forbes]: http://www.forbes.com/sites/gordonkelly/2014/09/16/iphone-6-camera-bulge/
-[sixcolors]: http://sixcolors.com/post/2015/01/battery-life-apples-solving-for-x/
-[theverge]: http://www.theverge.com/2013/6/17/4436332/macbook-air-review-13-inch-2013
-[theverge 2]: http://www.theverge.com/2014/9/16/6155009/apple-iphone-6-plus-review
+[anandtech]: http://www.anandtech.com/show/9136/the-2015-macbook-review/11 "AnandTech reviews the 2015 MacBook"
+[apple]: https://www.apple.com/watch/battery.html "Apple Watch battery life"
+[cdninstagram]: https://scontent-lax3-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11189543_1602101240031945_722941898_n.jpg "My MacBook"
+[forbes]: http://www.forbes.com/sites/gordonkelly/2014/09/16/iphone-6-camera-bulge/ "Forbes on that silly iPhone 6 camera bulge"
+[sixcolors]: http://sixcolors.com/post/2015/01/battery-life-apples-solving-for-x/ "Jason Snell, reporting on Apple's apparent 10-hour battery life for iOS devices (no more!)"
+[theverge]: http://www.theverge.com/2013/6/17/4436332/macbook-air-review-13-inch-2013 "The Verge reviewing the 2013 MacBook Air (13-inch)"
+[theverge 2]: http://www.theverge.com/2014/9/16/6155009/apple-iphone-6-plus-review "The Verge reviewing the iPhone 6"

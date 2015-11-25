@@ -1,13 +1,11 @@
-@@ Title=Heroku Toolbelt and Mac OS X 10.11 "El Capitan"  
-@@ Date=2015-10-12 22:37  
-@@ Description=El Capitan broke the Heroku Toolbelt. So, if you use that, here's how to fix it.  
-@@ Tags=tech tips, power user, OS X, El Capitan, Heroku  
-@@ Image=http://d.pr/i/1bik6+  
+Title: Heroku Toolbelt and Mac OS X 10.11 "El Capitan"  
+Date: 2015-10-12 22:37  
+Description: El Capitan broke the Heroku Toolbelt. So, if you use that, here's how to fix it.  
+Tags: Power User, Camel  
+Image: http://d.pr/i/1bik6+  
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/1bik6+">
-		<img class="screenshot" src="http://d.pr/i/1bik6+" alt="Sigh, Terminal, sigh.">
-	</a>
+	<img class="screenshot" src="http://d.pr/i/1bik6+" alt="Sigh, Terminal, sigh." title="Sigh, Terminal, sigh.">
 	<figcaption>El Cap&mdash;oh, how you frustrated me on this one.</figcaption>
 </figure>
 
@@ -36,7 +34,7 @@ Oh yeah, that `-bash` problem.
 
 In a moment of desperation, I went to Twitter:
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/caseyliss">@caseyliss</a> Have you noticed that the Heroku CLI is broken in El Capitan? I thought <a href="https://twitter.com/heroku">@heroku</a> would have fixed that by now… (Rootless thing?)</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/653741132627578880">October 13, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/caseyliss" title="Casey Liss on Twitter">@caseyliss</a> Have you noticed that the Heroku CLI is broken in El Capitan? I thought <a href="https://twitter.com/heroku" title="Heroku on Twitter">@heroku</a> would have fixed that by now… (Rootless thing?)</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/653741132627578880" title="Asking Casey about the Toolbelt">October 13, 2015</a></blockquote>
 
 And, in true newbie fashion, less than a minute after Tweeting my question, I stumbled onto Heroku's GitHub repository, where a [pull request][github] had been initiated by someone experiencing the same problem as me!
 
@@ -82,7 +80,7 @@ I followed the advice in the pull request's thread:
 	🍺  /usr/local/Cellar/heroku-toolbelt/3.42.17: 985 files, 8.6M, built in 5 seconds
 	```
 
-4. Reviewing the output, it was clear I needed to remove the old [likely corrupted] instance of heroku on my root directory, and overwrite it with a fresh one:
+4. Reviewing the output, it was clear I needed to remove the old [likely corrupted] instance of Heroku on my root directory, and overwrite it with a fresh one:
 
 	```
 	$ rm '/usr/local/bin/heroku'
@@ -101,7 +99,7 @@ I followed the advice in the pull request's thread:
 
 The author of Camel himself, Casey Liss, has had no Heroku problems while on El Capitan:
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> no. Not at all.</p>&mdash; Casey Liss (@caseyliss) <a href="https://twitter.com/caseyliss/status/653749713372622848">October 13, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> no. Not at all.</p>&mdash; Casey Liss (@caseyliss) <a href="https://twitter.com/caseyliss/status/653749713372622848" title="Casey responding to my question">October 13, 2015</a></blockquote>
 
 Maybe he never used the Toolbelt to install Heroku (Casey is an actual developer)?
 
@@ -110,8 +108,8 @@ Either way, I'm glad this is sorted. Hope this helps someone who's pulling their
 [^gphm]: `git push heroku master`, the final command I use to deploy changes to my project (blog), doesn't actually use the `heroku` command (Duh?)
 [^me]: 🙋🏾
 
-[brew]: http://brew.sh
-[github]: https://github.com/heroku/heroku/pull/1615
-[github 2]: https://github.com/heroku/heroku/pull/1615#issue-88082389
-[heroku]: https://devcenter.heroku.com/articles/heroku-command
-[heroku 2]: https://toolbelt.heroku.com/
+[brew]: http://brew.sh "Homebrew"
+[github]: https://github.com/heroku/heroku/pull/1615 "Toolbelt issues, part 1"
+[github 2]: https://github.com/heroku/heroku/pull/1615#issue-88082389 "Toolbelt issues, part 2"
+[heroku]: https://devcenter.heroku.com/articles/heroku-command "Heroku Command Line Tools"
+[heroku 2]: https://toolbelt.heroku.com/ "Heroku Toolbelt"

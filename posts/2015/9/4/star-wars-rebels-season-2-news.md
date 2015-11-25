@@ -1,9 +1,9 @@
-@@ Title=Star Wars Rebels Season 2 News  
-@@ Date=2015-09-04 17:02  
-@@ Link=http://www.slashfilm.com/star-wars-bits-26/3/  
-@@ Description=Not sure how I missed this, but here's the second teaser trailer for Season 2 of Star Wars Rebels.  
-@@ Tags=Star Wars, Star Wars Rebels, pop culture, TV  
-@@ Image=http://d.pr/i/u6QI+  
+Title: Star Wars Rebels Season 2 News  
+Date: 2015-09-04 17:02  
+Link: http://www.slashfilm.com/star-wars-bits-26/3/  
+Description: Not sure how I missed this, but here's the second teaser trailer for Season 2 of Star Wars Rebels.  
+Tags: Star Wars  
+Image: http://d.pr/i/u6QI+  
 
 I'm not sure how I missed this from a few days ago, but here's the [teaser][teaser].
 
@@ -11,7 +11,7 @@ And here's more Season 2 news from [Rebels Report][rr]:[^rr-rss]
 
 > Dave Filoni hosts a special Season 2 preview on the Star Wars Rebels Season One blu-ray set.
 >
->Included in the preview he reveals some information:
+> Included in the preview he reveals some information:
 >
 > * What does Ezra do with his new power and how does he react when Darth Vader and new Inquisitors come into the picture?
 > * The Inquisitor in season one was the “Grand Inquisitor,” the Inquisitors in season two were ranked below him.
@@ -28,7 +28,7 @@ And here's more Season 2 news from [Rebels Report][rr]:[^rr-rss]
 Sounds like Season 2 will answer a lot of the questions posed at the end of Season 1.
 
 <figure>
-	<img src="http://d.pr/i/XaQz+" alt="text">
+	<img src="http://d.pr/i/XaQz+" alt="Darth Vader in Rebels" title="Darth Vader in Rebels">
 	<figcaption>Surely Darth Vader will play a more prominent role in Season 2</figcaption>
 </figure>
 
@@ -36,6 +36,6 @@ New episodes of Star Wars Rebels begin Wednesday, October 14 (9:30 p.m., ET/PT) 
 
 [^rr-rss]: RSS feed [here][rrrss]
 
-[rr]: http://rebelsreport.com/2015/09/01/star-wars-rebels-season-2-a-look-ahead-new-images-and-info-from-dave-filoni/
-[rrrss]: http://rebelsreport.com/feed
-[teaser]: https://www.youtube.com/watch?v=dAGvFBwG834
+[rr]: http://rebelsreport.com/2015/09/01/star-wars-rebels-season-2-a-look-ahead-new-images-and-info-from-dave-filoni/ "Star Wars Rebels Season 2 look ahead"
+[rrrss]: http://rebelsreport.com/feed "RSS feed for Rebels Report"
+[teaser]: https://www.youtube.com/watch?v=dAGvFBwG834 "Someone You Can Count On - The Lost Commanders Preview"

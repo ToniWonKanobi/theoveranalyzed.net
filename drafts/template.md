@@ -1,13 +1,14 @@
-@@ Title=  
-@@ Date=  
-@@ Link=  
-@@ Description=  
-@@ Tags=  
-@@ Image=  
-@@ Video=
+Title: blah  
+Date: blah  
+Link: blah  
+Description: blah  
+Tags: blah  
+Image: blah  
+Video: blah  
+CSS: blah  
 
-<!-- FitVids -->
-<!-- http://fitvidsjs.com -->
+```
+<!-- FitVids (http://fitvidsjs.com) -->
 <script src="/js/fitvids.js"></script>
 <script>
 	$(document).ready(function(){
@@ -15,72 +16,41 @@
 	});
 </script>
 
-<!-- LazyLoad -->
-<!-- http://www.appelsiini.net/projects/lazyload -->
-<script src="/js/lazyload.js"></script>
-<script type="text/javascript" charset="utf-8">
-	$(function() {
-		$("img.lazy").show().lazyload({
-			effect: "fadeIn"
-		});
-	});
-</script>
+<em class="topStory">blah</em>
 
-<div class="topstory">
+<em class="takeHome">blah</em>
 
-Italics
-
-</div>
-
-<div class="takehome">boom</div>
-<div class="takehomeLeft">boom</div>
-
-<!-- Single image -->
 <figure>
-<figure class="wide">
-<figure class="iphone">
-<figure class="applewatch">
-<figure class="figleft">
-<figure class="figright">
-	<a class="nohover" href="contentlink">
-		<img src="imagelink" alt="text">
+	<a class="nohover" href="src" title="title">
+		<img class="screenshot" src="src" alt="title">
 	</a>
 	<figcaption>caption</figcaption>
 </figure>
 
-<!-- Two inline images -->
-<figure class="inlinetwo">
-	<a class="nohover" href="link">
-		<img class="screenshot lazy" data-original="src" alt="text">
-			<noscript><img class="screenshot" src="src" alt="text"></noscript>
+<figure>
+	<a class="nohover" href="src" title="title">
+		<img class="screenshot inlineTwo" src="src" alt="title">
 	</a>
-	<a class="nohover" href="link">
-		<img class="screenshot lazy" data-original="src" alt="text">
-			<noscript><img class="screenshot" src="src" alt="text"></noscript>
+	<a class="nohover" href="src" title="title">
+		<img class="screenshot inlineTwo" src="src" alt="title">
 	</a>
 	<figcaption>caption</figcaption>
 </figure>
 
-<!-- Three inline images -->
-<figure class="inlinethree">
-	<a class="nohover" href="link">
-		<img class="screenshot lazy" data-original="src" alt="text">
-			<noscript><img class="screenshot" src="src" alt="text"></noscript>
+<figure class="inlineThree">
+	<a class="nohover" href="src" title="title">
+		<img class="screenshot inlineThree" src="src" alt="title">
 	</a>
-	<a class="nohover" href="link">
-		<img class="screenshot lazy" data-original="src" alt="text">
-			<noscript><img class="screenshot" src="src" alt="text"></noscript>
+	<a class="nohover" href="src" title="title">
+		<img class="screenshot inlineThree" src="src" alt="title">
 	</a>
-	<a class="nohover" href="link">
-		<img class="screenshot lazy" data-original="src" alt="text">
-			<noscript><img class="screenshot" src="src" alt="text"></noscript>
+	<a class="nohover" href="src" title="title">
+		<img class="screenshot inlineThree" src="src" alt="title">
 	</a>
 	<figcaption>caption</figcaption>
 </figure>
 
-<!-- Table in a <div> to allow overflow scroll -->
-<!-- Table in a <figure> for caption -->
-<div class="table"
+<div class="table">
 <figure>
 
 | First Header  | Second Header | Third Header         |
@@ -89,22 +59,19 @@ Italics
 | Second row    | **Cell**      | *Cell*               |
 | Third row     | Cell that spans across two columns  ||
 
-<figcaption>Table</figcaption>
-
+<figcaption>Caption</figcaption>
 </figure>
 </div>
 
+
 <aside>
-	<div class="update">
+<div class="update">
+ 
+ ## Update: Blah
+<p class="updateTime"><time datetime="2015-01-01">January 1, 2015</time></p>
 
-	## Update: Blah
-	<p class="updateTime"><time datetime="2015-01-01">January 1, 2015</time></p>
+Markdown
 
-	Text
-
-	JPG<img class="jpg" src="imagelink" alt="alttext" />
-
-	PNG<img src="imagelink" alt="alttext" />
-
-	</div>
+</div>
 </aside>
+```

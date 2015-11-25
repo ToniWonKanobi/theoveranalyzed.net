@@ -1,7 +1,8 @@
-@@ Title=Traveling   
-@@ Date=2015-03-28 11:30  
-@@ Description=Traveling doesn't have to be terrible.  
-@@ Tags=travel, Anthony  
+Title: Traveling  
+Date: 2015-03-28 11:30  
+Description: Traveling doesn't have to be terrible.  
+Tags: Travel  
+Image: http://d.pr/i/14G2w+  
 
 I don't travel much. When I do, it is usually by car, accompanied my [wife][twitter], and my [dog][twitter 2]. 
 
@@ -9,10 +10,10 @@ The drive to Northern California isn't horrible. That said, it's not exactly thr
 
 Flying is a much nicer experience:[^th]
 
-* Arrive at the airport an hour before departure
-* Because I'm lazy and hate lines, I forego checking a bag, and instead send my 'bag'[^ba] with Allison
-* Sit in a terminal for about 40 minutes while I finishing several [podcasts][overcast] and plowing through my [read-it-later][instapaper] queue 
-* Get on the plane and, an hour later, arrive at my destination
+1. Arrive at the airport an hour before departure
+2. Because I'm lazy and hate lines, I forego checking a bag, and instead send my 'bag'[^ba] with Allison
+3. Sit in a terminal for about 40 minutes while I finishing several [podcasts][overcast] and plowing through my [read-it-later][instapaper] queue
+4. Get on the plane and, an hour later, arrive at my destination
 
 Easy-peasy. 
 
@@ -22,14 +23,14 @@ I don't usually fly more than once or twice a year. And because of that, fuselag
 
 The warm-fuzzies I have for flying has less to do with the actual flying, and more to do with the *purpose* of flying.
 
-*Flying is a way of connecting people, when driving or 'train'-ing isn't possible or practical.*
+<p><em class="takeHome">Flying is a way of connecting people, when driving or 'train'-ing isn't possible or practical</em></p>
 
 For whatever reason, this notion hit me hard in the heart strings upon landing at my destination.
 
 After my fellow air travelers and I passed onto and then off of the escalators in a sort-of '2300 hours zombie-state,' I passed through the terminal's exit doors into the pickup/taxi area. And as I did, I saw what appeared to be a father and son embrace each other.
 
 <figure>
-	<img src="http://d.pr/i/14G2w+" alt="such" width="75%">
+	<img src="http://d.pr/i/14G2w+" alt="Such preciousness" title="Such preciousness" style="max-width: 75%">
 	<figcaption>Such happiness</figcaption>
 </figure>
 
@@ -52,11 +53,11 @@ And what is even more special about this is how we can enjoy the fruits of our l
 [^ca]: I calculate this by adding the time it took to drive to the airport, park, sit in the terminal, fly to my destination, depart the aircraft, and get picked up.
 [^ts]: Touchscreen glass that acts also as [a widescreen iPod with touch controls, a revolutionary mobile phone, and a breakthrough internet communications device][youtube]
 
-[amazon]: https://www.amazon.com/dp/B00EDFX9HO/?tag=theov0c-20
-[gif]: http://gif.co/qxYq.gif
-[instagram]: http://instagram.com/p/0t37k5Qz2q/
-[instapaper]: http://www.instapaper.com
-[overcast]: http://overcast.fm
-[twitter]: http://www.twitter.com/venusautumn
-[twitter 2]: http://www.twitter.com/smokeythedingo
-[youtube]: https://www.youtube.com/watch?v=e7EfxMOElBE#t=22m34s
+[amazon]: http://www.amazon.com/Herschel-Supply-Co-Novel-Duffel/dp/B00QG80D6Q/ref=sr_1_2?tag=theov0c-20 "My duffle bag on Amazon"
+[gif]: http://gif.co/qxYq.gif "Polar bears cuddling"
+[instagram]: http://instagram.com/p/0t37k5Qz2q/ "People happy to see each other"
+[instapaper]: https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&at=1l3vx9s "Instapaper on the App Store"
+[overcast]:https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8&at=1l3vx9s "Overcast on the App Store"
+[twitter]: http://www.twitter.com/venusautumn "Allison on Twitter"
+[twitter 2]: http://www.twitter.com/smokeythedingo "Smokey on Twitter"
+[youtube]: https://www.youtube.com/watch?v=e7EfxMOElBE#t=22m34s "Steve Jobs Unveils The Original iPhone - Macworld San Francisco 2007"

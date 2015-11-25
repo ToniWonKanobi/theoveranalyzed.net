@@ -1,14 +1,10 @@
-@@ Title=Ditching Webfonts Part II: Hoefler Webfonts Are Prettier, but Slower  
-@@ Date=2015-07-19 11:14
-@@ Description=It's been a few days since I stopped using webfonts on my website. I did some super scientific and empirical testing in determining that Cloud.typography (Hoefler) webfonts are slower than everyone else's.  
-@@ Tags=web, web design, design, fonts, typefaces, Ideal Sans, webfonts, Cloud.typography, Ditching Webfonts, CSS, TypeKit, Hoefler, Adobe, typography  
-@@ Image=http://www.typography.com/images/overviewPageImages/whitney_cell_07.png  
+Title: Ditching Webfonts Part II: Hoefler Webfonts Are Prettier, but Slower  
+Date: 2015-07-19 11:14  
+Description: It's been a few days since I stopped using webfonts on my website. I did some super scientific and empirical testing in determining that Cloud.typography (Hoefler) webfonts are slower than everyone else's.  
+Tags: Typography, Web Design & Development, Ditching Webfonts  
+Image: http://www.typography.com/images/overviewPageImages/whitney_cell_07.png  
 
-<div class="topstory">
-
-What started out as a simple rant about the slowness of the web morphed into a [mini-series][ms] about webfonts. Be sure to check out the [first][first] and [second][sec] posts on the subject.
-
-</div>
+<p><em class="topStory">What started out as a simple rant about the slowness of the web morphed into a <a href="/tags/Ditching%20Webfonts title="My mini-series entitled 'Ditching Webfonts'">mini-series</a> about webfonts. Be sure to check out the <a href="/2015/7/12/why-the-web-is-so-slow" title="My piece on why the web is slow">first</a> and <a href="/2015/7/15/ditching-webfonts" title="First of a two-part series on ditching webfonts">second</a> posts on the subject.</em></p>
 
 ## Just Not The Same
 
@@ -18,9 +14,9 @@ What started out as a simple rant about the slowness of the web morphed into a [
 
 A few days ago I found myself commanding the attention of none other than Ben Thompson, who had this to say about my hasty[^has] decision to ditch webfonts:
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> <a href="https://twitter.com/gruber">@gruber</a> <a href="https://twitter.com/marcoarment">@marcoarment</a> <a href="https://twitter.com/TheOverAnalyzed">@TheOverAnalyzed</a> the vast majority of computers don&#39;t have Avenir installed</p>&mdash; Ben Thompson (@benthompson) <a href="https://twitter.com/benthompson/status/621555208657592320">July 16, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> <a href="https://twitter.com/gruber" title="John Gruber on Twitter">@gruber</a> <a href="https://twitter.com/marcoarment" title="Marco Arment on Twitter">@marcoarment</a> <a href="https://twitter.com/TheOverAnalyzed" title="TheOverAnalyzed on Twitter">@TheOverAnalyzed</a> the vast majority of computers don&#39;t have Avenir installed</p>&mdash; Ben Thompson (@benthompson) <a href="https://twitter.com/benthompson/status/621555208657592320" title="Ben Thompson positing to me on Twitter">July 16, 2015</a></blockquote>
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/benthompson">@benthompson</a> <a href="https://twitter.com/gruber">@gruber</a> <a href="https://twitter.com/marcoarment">@marcoarment</a> <a href="https://twitter.com/TheOverAnalyzed">@TheOverAnalyzed</a> It should default to whatever sans serif is there if no Avenir: <a href="http://t.co/WiLvy1Lvai">http://t.co/WiLvy1Lvai</a></p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/621555527638609920">July 16, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/benthompson" title="Ben Thompson on Twitter">@benthompson</a> <a href="https://twitter.com/gruber" title="John Gruber on Twitter">@gruber</a> <a href="https://twitter.com/marcoarment" title="Marco Arment on Twitter">@marcoarment</a> <a href="https://twitter.com/TheOverAnalyzed" title="TheOverAnalyzed on Twitter">@TheOverAnalyzed</a> It should default to whatever sans serif is there if no Avenir: <a href="http://t.co/WiLvy1Lvai" title="Screenshot of my CSS showing the default to Avenir">http://t.co/WiLvy1Lvai</a></p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/621555527638609920" title="Me positing to Ben Thompson">July 16, 2015</a></blockquote>
 
 Thompson was right. In modifying my CSS to call for generic font families in lieu of my webfont of choice, I am potentially allowing fonts I never approved of to be displayed on my site (e.g., in the case of the fallback to `sans serif`). That's not ideal.
 
@@ -28,26 +24,27 @@ My website is faster for it, but it's not *really* my website anymore.
 
 A later tweet by Thompson seemed to suggest to me that perhaps [Cloud.typography][ct] webfonts were more latency-prone and less performant than competitors' webfonts:
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> yep. Don&#39;t feel it slows my site up 97% of the time</p>&mdash; Ben Thompson (@benthompson) <a href="https://twitter.com/benthompson/status/621561134663897088">July 16, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> yep. Don&#39;t feel it slows my site up 97% of the time</p>&mdash; Ben Thompson (@benthompson) <a href="https://twitter.com/benthompson/status/621561134663897088" title="Ben Thompson on TypeKit webfonts on Stratechery">July 16, 2015</a></blockquote>
 
 Thompson's blog [Stratechery][str] uses the [Freight Sans][fs] font family, provided by Adobe's TypeKit webfont repository:
 
 <figure>
-	<img src="http://d.pr/i/1lonW+" alt="Stratechery">
-	<figcaption><a href="http://stratechery.com">Stratechery</a> showing very little latency</figcaption>
+	<img src="http://d.pr/i/1lonW+" alt="Stratechery" title="Stratechery">
+	<figcaption><a href="http://stratechery.com" title="Ben Thompson's website, Stratechery">Stratechery</a> showing very little latency</figcaption>
 </figure>
 
 For [Liss Is More][lm], Casey Liss uses [Lato][lato], another TypeKit font:
 
 <figure>
-	<img src="http://d.pr/i/120yX+" alt="Liss Is More">
-	<figcaption><a href="http://caseyliss.com">Liss Is More</a>, with relatively no latency as well</figcaption>
+	<img src="http://d.pr/i/120yX+" alt="Liss Is More" title="Liss Is More">
+	<figcaption><a href="http://caseyliss.com" title="Casey Liss's personal blog, Liss Is More">Liss Is More</a>, with relatively no latency as well</figcaption>
 </figure>
 
 # Further Experimentation, Lazy Style
 
 Yesterday afternoon, I thought some more about my alternatives to Cloud.typography. I decided to do a preliminary search on 'Hoefler's webfonts versus Adobe's'. The very *first* [DuckDuckGo][ddg] result was a [post][cb] by Chris Bowler, who had this to say about Hoefler's [then] newbie webfont foundry:
->Overall, Typekit is a slightly easier to use service. Both offer great fonts, decent pricing, and are technically sound. The primary reason a designer would use Cloud.typography is when he/she absolutely needs to use a H&FJ font in a design. Otherwise, the options lean toward Typekit.
+
+> Overall, Typekit is a slightly easier to use service. Both offer great fonts, decent pricing, and are technically sound. The primary reason a designer would use Cloud.typography is when he/she absolutely needs to use a H&FJ font in a design. Otherwise, the options lean toward Typekit.
 
 Bowler wrote this post in 2013, right as Hoefler was launching its webfont service.[^this] Bowler had nothing to say about latency, probably because the service hadn't been live long enough to properly evaluate.
 
@@ -56,18 +53,18 @@ In that same post, Bowler linked to three websites, all of which helped beta-tes
 And of course I checked out their source code as well.
 
 <figure>
-	<img src="http://d.pr/i/1k8Wv+" alt="kottke.org source">
-	<figcaption><a href="http://kottke.org">kottke.org</a></figcaption>
+	<img src="http://d.pr/i/1k8Wv+" alt="kottke.org source" title="kottke.org source">
+	<figcaption><a href="http://kottke.org" title="Jason Kottke">kottke.org</a></figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/14hQq+" alt="Rands in Repose source">
-	<figcaption><a href="http://randsinrepose.com">Rands in Repose</a></figcaption>
+	<img src="http://d.pr/i/14hQq+" alt="Rands in Repose source" title="Rands in Repose source">
+	<figcaption><a href="http://randsinrepose.com" title="Michael Lopp's blog, Rands in Repose">Rands in Repose</a></figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/11Gtm+" alt="SimpleBits source">
-	<figcaption><a href="http://simplebits.com">SimpleBits</a></figcaption>
+	<img src="http://d.pr/i/11Gtm+" alt="SimpleBits source" title="SimpleBits source">
+	<figcaption><a href="http://simplebits.com" title="SimpleBits source">SimpleBits</a></figcaption>
 </figure>
 
 Pay close attention to the timeline view. Look [familiar][toa]? Yes, that's *latency* you see, found in two of the three sites that beta-tested Hoefler webfonts. Notice anything else? There is relatively *no* latency for SimpleBits, which *now* uses TypeKit for the webfont instead of Hoefler.
@@ -92,11 +89,7 @@ So what does this tell me? Well, for starters, it tells me that I'm not crazy. I
 
 It seems that across the board, Cloud.typography has significantly more latency than TypeKit. Or, put another way: Hoefler webfonts are slower than TypeKit.
 
-<div class="takehomeRight" id="boom">
-
-Hoefler webfonts are slower than TypeKit
-
-</div>
+<p id="boom"><em class="takeHome">Hoefler webfonts are slower than TypeKit</em></p>
 
 And that's too bad, because Hoefler fonts really are the *best* fonts. Typography shouldn't be about WebKit rendering, or CSS wonkery, or `@font-face` hacks. Typography is about conveying a language. But as long as Hoefler webfonts are this latent, it *will* be more about those other concepts, and any language that those fonts hoped to convey will be obscured by their own sluggishness.
 
@@ -108,19 +101,19 @@ Over the past three decades, Hoefler & Co ([prev. Hoefler & Frere-Jones][hfj]) h
 
 Here are some of my favorites:[^acc] 
 
-<figure class="wide">
-	<img src="http://www.typography.com/images/overviewPageImages/archer-A-07.png" alt="Archer">
-	<figcaption><a href="http://www.typography.com/fonts/archer/overview/">Archer</a> is a slab-serif, featured in the poster for <a href="http://fontsinuse.com/uses/7035/the-grand-budapest-hotel-poster-and-props">The Grand Budapest Hotel (2014)</a>, as well as in the <a href="https://en.wikipedia.org/wiki/Martha_Stewart_Living">Martha Stewart Living</a> magazine.</figcaption>
+<figure>
+	<img class="wide" src="http://www.typography.com/images/overviewPageImages/archer-A-07.png" alt="Archer" title="Archer">
+	<figcaption><a href="http://www.typography.com/fonts/archer/overview/" title="Archer webfont">Archer</a> is a slab-serif, featured in the poster for <a href="http://fontsinuse.com/uses/7035/the-grand-budapest-hotel-poster-and-props" title="Fonts In Use: The Grand Budapest Hotel">The Grand Budapest Hotel (2014)</a>, as well as in the <a href="https://en.wikipedia.org/wiki/Martha_Stewart_Living" title="Wikipedia: Martha Stewart Living">Martha Stewart Living</a> magazine.</figcaption>
 </figure>
 
-<figure class="wide">
-	<img src="http://www.typography.com/images/overviewPageImages/gotham_cell_02.png" alt="Gotham">
-	<figcaption><a href="http://www.typography.com/fonts/gotham/overview/">Gotham</a> is probably Hoefler & Frere-Jones's most well-known font. What started as GQ commission became an 'everywhere' font. Notably, Gotham was featured in <a href="https://en.wikipedia.org/wiki/Gotham_(typeface)#In_the_Obama_campaign">Obama's</a> <a href="http://fontsinuse.com/uses/1603/obama-2008-campaign-posters">2008 and 2012 presidential campaigns</a>.</figcaption>
+<figure>
+	<img class="wide" src="http://www.typography.com/images/overviewPageImages/gotham_cell_02.png" alt="Gotham" title="Gotham">
+	<figcaption><a href="http://www.typography.com/fonts/gotham/overview/" title="Gotham webfont">Gotham</a> is probably Hoefler & Frere-Jones's most well-known font. What started as GQ commission became an 'everywhere' font. Notably, Gotham was featured in <a href="https://en.wikipedia.org/wiki/Gotham_(typeface)#In_the_Obama_campaign" title="Wikipedia: Gotham in Obama's campaign">Obama's</a> <a href="http://fontsinuse.com/uses/1603/obama-2008-campaign-posters" title="Fonts In Use: Gotham in Obama's campaigns">2008 and 2012 presidential campaigns</a>.</figcaption>
 </figure>
 
-<figure class="wide">
-	<img src="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png" alt="Whitney">
-	<figcaption><a href="http://www.typography.com/fonts/whitney/overview/">Whitney</a> was the runner-up font for TheOverAnalyzed. If it weren't for all the <a href="/2015/7/15/ditching-webfonts#becoming-ideal">personal history</a> associated with Ideal Sans, I probably would have chosen Whitney instead. <a href="http://fontsinuse.com/uses/2384/romney-2012-presidential-campaign">Mitt Romney's 2012 presidential campaign</a> featured this font.</figcaption>
+<figure>
+	<img class="wide" src="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png" alt="Whitney" title="Whitney">
+	<figcaption><a href="http://www.typography.com/fonts/whitney/overview/" title="Whitney webfont">Whitney</a> was the runner-up font for TheOverAnalyzed. If it weren't for all the <a href="/2015/7/15/ditching-webfonts#becoming-ideal" title="My piece on Ditching Webfonts, specifically the section about going back to Ideal Sans">personal history</a> associated with Ideal Sans, I probably would have chosen Whitney instead. <a href="http://fontsinuse.com/uses/2384/romney-2012-presidential-campaign" title="Fonts In Use: Whitney in Romney's 2012 presidential campaign">Mitt Romney's 2012 presidential campaign</a> featured this font.</figcaption>
 </figure>
 
 These are just a [few][typography] of the [great][typography 2] [fonts][typography 3] [available][typography 4] from [Hoefler][typography 5]. And unfortunately, I can't use any of them.
@@ -148,39 +141,35 @@ You may have noticed that I've re-enabled my Cloud.typography webfont, Ideal San
 [^hy]: At this point, the hygienist was most displeased. As you might imagine, our nerdy conversation went on for a while, and this was impeding her from moving on to her next patient.
 [^this]: Hoefler conveniently launched Cloud.typography *after* the split with Frere-Jones was [official][off], thereby obfuscating any potential copyright claims from Frere-Jones in the future. That [whole story][ws] is just sad.
 
-[an]: https://en.wikipedia.org/wiki/Avenir_(typeface)#Avenir_Next
-[cb]: http://chrisbowler.com/journal/cloud-vs-typekit
-[ct]: http://cloud.typography.com
-[daringfireball]: http://daringfireball.net
-[ddg]: /2015/3/19/you-should-use-duckduckgo
-[ff]: http://gizmodo.com/what-hoefler-frere-jones-breakup-means-for-the-futur-1503686340
-[first]: /2015/7/12/why-the-web-is-so-slow
-[fs]: https://typekit.com/fonts/freight-sans-pro
-[hfj]: http://www.theverge.com/2014/1/17/5318206/hoefler-and-frere-jones-lawsuit
-[hippa]: https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act
-[ht]: https://en.wikipedia.org/wiki/Hoefler_Text
-[kottke]: http://kottke.org
-[lato]: https://typekit.com/fonts/lato
-[lm]: http://www.caseyliss.com
-[logo]: /images/SiteTitle.svg
-[marco]: http://marco.org
-[ms]: /tags/Ditching%20Webfonts
-[off]: http://typography.com/press/20140117
-[randsinrepose]: http://randsinrepose.com
-[sec]: /2015/7/15/ditching-webfonts
-[simplebits]: http://simplebits.com
-[sk]: http://bohemiancoding.com/sketch/
-[ss]: http://thesweetsetup.com
-[str]:  http://stratechery.com
-[theoveranalyzed]: /2015/6/1/introducing-theoveranalyzed-30
-[theoveranalyzed 2]: /2015/7/19/ditching-webfonts-part-ii#final-thoughts
-[toa]: http://d.pr/i/138Zv+
-[typo]: http://typography.com
-[typography]: http://www.typography.com/fonts/knockout/overview/
-[typography 2]: http://www.typography.com/fonts/obsidian/overview/
-[typography 3]: http://www.typography.com/fonts/sentinel/overview/
-[typography 4]: http://www.typography.com/fonts/surveyor/overview/
-[typography 5]: http://www.typography.com/fonts/tungsten/overview/. 
-[wikipedia]: https://en.wikipedia.org/wiki/Google_Fonts
-[ws]: https://en.wikipedia.org/wiki/Hoefler_%26_Co.#Conflict_between_Hoefler_and_Frere-Jones
-
+[an]: https://en.wikipedia.org/wiki/Avenir_(typeface)#Avenir_Next "Wikipedia: Avenir Next"
+[cb]: http://chrisbowler.com/journal/cloud-vs-typekit "Chris Bowler compares webfonts"
+[ct]: http://cloud.typography.com "Hoefler & Co's webfonts"
+[daringfireball]: http://daringfireball.net "John Gruber's personal blog, Daring Fireball"
+[ddg]: /2015/3/19/you-should-use-duckduckgo "My linked post about DuckDuckGo"
+[ff]: http://gizmodo.com/what-hoefler-frere-jones-breakup-means-for-the-futur-1503686340 "Gizmodo: Hoefler Frere-Jones breakup"
+[fs]: https://typekit.com/fonts/freight-sans-pro "Adobe TypeKit's 'Freight Sans Pro'"
+[hfj]: http://www.theverge.com/2014/1/17/5318206/hoefler-and-frere-jones-lawsuit "The Verge: Hoefler Frere-Jones lawsuit"
+[hippa]: https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act "Wikipedia: HIPPA"
+[ht]: https://en.wikipedia.org/wiki/Hoefler_Text "Wikipedia: Hoefler Text"
+[kottke]: http://kottke.org "Jason Kottke's blog, kottke.org"
+[lato]: https://typekit.com/fonts/lato "Adobe TypeKit's 'Lato'"
+[lm]: http://www.caseyliss.com "Casey Liss's personal blog, Liss Is More"
+[logo]: /images/site-title.svg "TheOverAnalyzed's title (SVG)"
+[marco]: http://marco.org "Marco Arment's personal blog, Marco.org"
+[off]: http://typography.com/press/20140117 "Press release from Hoefler & Co about Frere-Jones departure"
+[randsinrepose]: http://randsinrepose.com "Michael Lopp's blog, Rands in Repose"
+[simplebits]: http://simplebits.com "SimpleBits and Dribbble founder, Dan Cederholm"
+[sk]: https://itunes.apple.com/us/app/sketch-3/id852320343?mt=12&at=1l3vx9s "Sketch on the App Store"
+[ss]: http://thesweetsetup.com "The Sweet Setup"
+[str]:  http://stratechery.com "Ben Thompson's blog, Stratechery"
+[theoveranalyzed]: /2015/6/1/introducing-theoveranalyzed-30 "My post introducing TheOverAnalyzed 3.0"
+[theoveranalyzed 2]: /2015/7/19/ditching-webfonts-part-ii#final-thoughts "Final section of the part 2 post in my 'Ditching Webfonts' mini-series"
+[toa]: http://d.pr/i/138Zv+ "Speedtesting the site with everything turned back on"
+[typo]: http://typography.com "Hoefler & Co"
+[typography]: http://www.typography.com/fonts/knockout/overview/ "Hoefler & Co's 'Knockout' webfont"
+[typography 2]: http://www.typography.com/fonts/obsidian/overview/ "Hoefler & Co's 'Obsidian' webfont"
+[typography 3]: http://www.typography.com/fonts/sentinel/overview/ "Hoefler & Co's 'Sentinel' webfont"
+[typography 4]: http://www.typography.com/fonts/surveyor/overview/ "Hoefler & Co's 'Surveyor' webfont"
+[typography 5]: http://www.typography.com/fonts/tungsten/overview/  "Hoefler & Co's 'Tungsten' webfont"
+[wikipedia]: https://en.wikipedia.org/wiki/Google_Fonts "Wikipedia: Google Fonts"
+[ws]: https://en.wikipedia.org/wiki/Hoefler_%26_Co.#Conflict_between_Hoefler_and_Frere-Jones "Wikipedia: Conflict between Hoefler and Frere-Jones"

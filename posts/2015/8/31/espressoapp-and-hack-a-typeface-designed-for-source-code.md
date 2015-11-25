@@ -1,12 +1,12 @@
-@@ Title=Espresso.app and Hack, a Typeface Designed for Source Code 
-@@ Date=2015-08-31 08:39 
-@@ Description=Tired of Monaco or Menlo fonts for your monospace code blocks? Hack is for you.  
-@@ Tags=fonts, typefaces, monospace, design, web design, Hack, Menlo, Monaco  
-@@ Image=http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png  
+Title: Espresso Web Editor and Hack, a Typeface Designed for Source Code  
+Date: 2015-08-31 08:39  
+Description: Tired of Monaco or Menlo fonts for your monospace code blocks? Hack is for you.  
+Tags: Typography, Apps, Web Design & Development  
+Image: http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png  
 
 <figure>
-	<img src="http://macrabbit.com/espresso/images/screenshots-2.0/Main-SourceEditor.jpg" alt="Espresso Text Editor for OS X">
-	<figcaption><a href="http://macrabbit.com/espresso/">Espresso</a> has a permanent place on my Dock because it's awesome.</figcaption>
+	<img src="http://macrabbit.com/espresso/images/screenshots-2.0/Main-SourceEditor.jpg" alt="Espresso Text Editor for OS X" title="Espresso Text Editor for OS X">
+	<figcaption><a href="http://macrabbit.com/espresso/" title="Link to the developers of Espresso">Espresso</a> has a permanent place on my Dock because it's awesome.</figcaption>
 </figure>
 
 # Espresso, the "Web Editor" for Mac
@@ -18,15 +18,15 @@ In a lot of ways, Espresso is very much of the pre-2007 Apple era of OS X applic
 Editing in Espresso is nice due to their language highlighting. It makes reviewing code much easier:
 
 <figure>
-	<img src="http://d.pr/i/1jmu3+" alt="Espresso Colors">
+	<img src="http://d.pr/i/1jmu3+" alt="Espresso Colors" title="Espresso Colors">
 	<figcaption>This would be more laborious without all the pretty colors</figcaption>
 </figure>
 
 And what is especially nice about Espresso is their default custom font, Espresso Mono. That font features well thought-out character choices. For instance, in most monospace fonts, the capital "O" character is easily mistaken for the number "0". Espresso Mono has this taken care of:
 
 <figure>
-	<img class="screenshot" src="http://d.pr/i/1fh8y+" alt="0 vs O in Espresso Mono">
-	<figcaption>Espresso Mono: <code>0</code> vs <code>O</code></figcaption>
+	<img class="screenshot" src="http://d.pr/i/1fh8y+" alt="0 vs O in Espresso Mono" title="0 vs O in Espresso Mono" style="margin: auto; width: 50%">
+	<figcaption>Espresso Mono: the number <code>0</code> versus the letter <code>O</code></figcaption>
 </figure>
 
 # In the Spirit of Espresso Mono Comes Hack
@@ -36,14 +36,15 @@ Why am I writing about an infrequently-updated "web-editor?" Because of its afor
 Yesterday, Nathan Mattise of Ars Technica [linked][arstechnica] to a new [open-sourced][github] monospace font named [Hack][sourcefoundry].
 
 <figure>
-	<img src="http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png" alt="Hack">
+	<img src="http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png" alt="Hack typeface" title="Hack typeface">
 	<figcaption>An alternative to <code>font-family: Monaco</code>: Hack</figcaption>
 </figure>
 
 Here's what Mattise had to say about Hack:
->The days of coders being shackled to Monaco or Courier New ends now. At SourceFoundry.org this week, programmer Chris Simpkins debuted the 2.0 version of 
+
+> The days of coders being shackled to Monaco or Courier New ends now. At SourceFoundry.org this week, programmer Chris Simpkins debuted the 2.0 version of 
 >
->Hack, an open-source typeface designed specifically for use in source code.
+> Hack, an open-source typeface designed specifically for use in source code.
 Hack is characterized by a large x-height, wide aperture, and low contrast design in order to be "highly legible" at common coding text sizes. Its "sweet spot runs in the 8px-12px range on modern desktop and laptop monitors," Simpkins writes on [GitHub][github]. "Combine it with an HD monitor and you can comfortably work at 6 or 7px sizes." As seen in the image above, there's a heavier semi-bold weight in the regular font, and strategic serifs eliminate large gaps on each side of narrow characters. As Simpkins notes on the SourceFoundry site, **this helps to distinguish glyphs like the lowercase l and number 1 at small text sizes** [emphasis added].
 
 (Not to mention the "0" and "O" characters.)
@@ -51,50 +52,50 @@ Hack is characterized by a large x-height, wide aperture, and low contrast desig
 After visiting the GitHub page, I immediately found the CDN[^cdn] link and added that to my website's `<head>` section:
 
 <figure>
-	<img src="http://d.pr/i/sINJ+" alt="Adding the Hack stylesheet to `header.html`">
+	<img src="http://d.pr/i/sINJ+" alt="Adding the Hack stylesheet to `header.html`" title="Adding the Hack stylesheet to `header.html`">
 	<figcaption>CDN source? Nice.</figcaption>
 </figure>
 
 I also called for Hack via `font-family` for `<pre>` and `<code>`:
 
 <figure>
-	<img src="http://d.pr/i/176dB+" alt="Calling for Hack in my `main.css` stylesheet">
+	<img src="http://d.pr/i/176dB+" alt="Calling for Hack in my `main.css` stylesheet" title="Calling for Hack in my `main.css` stylesheet">
 	<figcaption>Changing the <code>font-family</code> preference</figcaption>
 </figure>
 
 Voilà:
 
 <figure>
-	<img src="http://d.pr/i/12y9F+" alt="Hack installed on TheOverAnalyzed">
+	<img src="http://d.pr/i/12y9F+" alt="Hack installed on TheOverAnalyzed" title="Hack installed on TheOverAnalyzed">
 	<figcaption>Boom.</figcaption>
 </figure>
 
 [^cdn]: You don't have to use a CDN---you could also deploy the font from you own [webserver][github 2], if you're into that sort of thing.
 [^redirect]: Looking in your direction, `.redirect`
 
-[arstechnica]: http://arstechnica.com/information-technology/2015/08/open-source-typeface-hack-brings-design-to-source-code/
-[barebones]: http://www.barebones.com/products/bbedit/
-[bywordapp]: http://bywordapp.com/
-[duckduckgo]: http://duckduckgo.com/?q=bbedit&t=osx
-[fontbureau]: http://www.fontbureau.com
-[github]: https://github.com/chrissimpkins/Hack#about
-[github 2]: https://github.com/chrissimpkins/Hack#host-hack-font-files-on-your-server
-[macrabbit]: http://macrabbit.com/espresso/
-[macrabbit 2]: http://macrabbit.com
-[sourcefoundry]: http://sourcefoundry.org/hack/
-[squarespace]: http://developers.squarespace.com
-[theoveranalyzed]: /tags/Squarespace
-[theoveranalyzed 2]: /2015/6/17/leaving-squarespace-part-I-getting-started-with-camel
-[twitter]: http://twitter.com/gruber
-[twitter 2]: http://twitter.com/siracusa
-[twitter 3]: http://twitter.com/jsnell
-[twitter 4]: http://www.twitter.com/jdalrymple
-[twitter 5]: http://www.twitter.com/reneritchie
-[twitter 6]: http://www.twitter.com/danielpunkass
-[twitter 7]: http://www.twitter.com/jamesthomson
-[typography]: http://www.typography.com/
-[wikipedia]: https://en.wikipedia.org/wiki/Git_(software)
-[wikipedia 2]: https://en.wikipedia.org/wiki/SFTP
-[wikipedia 3]: https://en.wikipedia.org/wiki/BBEdit
-[wikipedia 4]: https://en.wikipedia.org/wiki/TextEdit
-[youtube]: https://www.youtube.com/watch?v=HzravxTgTe4
+[arstechnica]: http://arstechnica.com/information-technology/2015/08/open-source-typeface-hack-brings-design-to-source-code/ "Ars piece on Hack"
+[barebones]: http://www.barebones.com/products/bbedit/ "BBEdit"
+[bywordapp]: http://bywordapp.com/ "Byword"
+[duckduckgo]: http://duckduckgo.com/?q=bbedit&t=osx "BBEdit search"
+[fontbureau]: http://www.fontbureau.com "Font Bureau"
+[github]: https://github.com/chrissimpkins/Hack#about "About Hack typeface"
+[github 2]: https://github.com/chrissimpkins/Hack#host-hack-font-files-on-your-server "GitHub for Hack"
+[macrabbit]: http://macrabbit.com/espresso/ "Espresso website"
+[macrabbit 2]: http://macrabbit.com "Developers of Espresso"
+[sourcefoundry]: http://sourcefoundry.org/hack/ "Hack typeface"
+[squarespace]: http://developers.squarespace.com "Developer Platform on Squarespace"
+[theoveranalyzed]: /tags/Squarespace "Posts tagged 'Squarespace'"
+[theoveranalyzed 2]: /2015/6/17/leaving-squarespace-part-I-getting-started-with-camel "My piece on leaving Squarespace for Camel"
+[twitter]: http://twitter.com/gruber "John Gruber on Twitter"
+[twitter 2]: http://twitter.com/siracusa "John Siracusa on Twitter"
+[twitter 3]: http://twitter.com/jsnell "Jason Snell on Twitter"
+[twitter 4]: http://www.twitter.com/jdalrymple "Jim Dalrymple on Twitter"
+[twitter 5]: http://www.twitter.com/reneritchie "Rene Ritchie on Twitter"
+[twitter 6]: http://www.twitter.com/danielpunkass "Daniel Jalkut on Twitter"
+[twitter 7]: http://www.twitter.com/jamesthomson "James Thompson on Twitter"
+[typography]: http://www.typography.com/ "Hofeler & Co. typefaces"
+[wikipedia]: https://en.wikipedia.org/wiki/Git_(software) "Wikipedia: Git"
+[wikipedia 2]: https://en.wikipedia.org/wiki/SFTP "Wikipedia: SFTP"
+[wikipedia 3]: https://en.wikipedia.org/wiki/BBEdit "Wikipedia: BBEdit"
+[wikipedia 4]: https://en.wikipedia.org/wiki/TextEdit "Wikipedia: TextEdit"
+[youtube]: https://www.youtube.com/watch?v=HzravxTgTe4 "Setting Up Squarespace 7 (Squarespace 6) Developer Platform with Espresso2 and Live"

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>@@SiteTitle@@ &mdash; @@Title@@</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>@@SiteTitle@@ &mdash; @@Title@@</title>
 		<meta name="description" content="TheOverAnalyzed is about Apple and technology in general, as well as automobilia, design, and pop culture.">
 		<link rel="index" href="/" title="TheOverAnalyzed">
 		<link rel="canonical" href="@@canonicalLink@@"  title="Permalink to this Page">
@@ -34,18 +34,18 @@
 
 		<!-- Stylesheets -->
 		<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7099154/750568/css/fonts.css">
-		<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 		<link rel="stylesheet" type="text/css" href="/css/bigfoot.css">
+		<link rel="stylesheet" type="text/css" href="/css/@@CSS@@">
 
-		<!-- JavaScript -->
+		<!-- jQuery -->
 		<script src="/js/jquery-2.0.3.min.js"></script>
-		<!-- Bigfoot Footnotes -->
-		<!-- http://www.bigfootjs.com -->
+
+		<!-- Bigfoot Footnotes (http://www.bigfootjs.com) -->
 		<script src="/js/bigfoot.min.js"></script>
 		<script type="text/javascript">
 			$.bigfoot({
-				// actionOriginalFN: "ignore",
+				actionOriginalFN: "ignore",
 				numberResetSelector: ".entry"
 			});
 		</script>
@@ -62,13 +62,14 @@
 		</script>
 	</head>
 	<body class="@@BodyClass@@">
-		<header id="topHeader">
+		<header id="topHeader" class="fadeInDown">
 			<!-- for screen readers -->
 			<h1 class="header" hidden>Header</h1>
-			<div id="topBanner"></div>
-			<p id="siteTitle"><a rel="index" href="/" title="TheOverAnalyzed Homepage"><img src="/images/site-title.svg" alt="TheOverAnalyzed"></a></p>
+			<p id="siteTitleAndLogo"><span id="logo"><img src="/images/logo.svg" alt="TheOverAnalyzed Logo" title="TheOverAnalyzed Logo"></span>
+			<span id="siteTitle"><a rel="index" href="/" title="TheOverAnalyzed Homepage">TheOverAnalyzed</a></span>
+			</p>
 			<p id="siteByline">By <a rel="author" href="http://twitter.com/toniwonkanobi" title="Anthony Craig on Twitter">Anthony Craig</a></p>
 		</header>
-		<main role="main">
+		<main role="main" class="fadeInUp">
 			<!-- for screen readers -->
 			<h1 class="main" hidden>Main Content</h1>

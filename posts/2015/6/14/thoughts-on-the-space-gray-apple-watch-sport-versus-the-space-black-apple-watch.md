@@ -1,11 +1,11 @@
-@@ Title=Thoughts on the Space Gray Apple Watch Sport Versus the Space Black Apple Watch
-@@ Date=2015-06-14 21:05  
-@@ Description=Apparently, Apple overestimated the transit time for my Space Black Apple Watch. Here are my thoughts regarding it and the Space Gray Apple Watch Sport.  
-@@ Tags=Apple Watch, Apple Watch Sport, Apple, reviews, Anthony  
-@@ Image=http://d.pr/i/1aUO8+  
+Title: Thoughts on the Space Gray Apple Watch Sport Versus the Space Black Apple Watch  
+Date: 2015-06-14 21:05  
+Description: Apparently, Apple overestimated the transit time for my Space Black Apple Watch. Here are my thoughts regarding it and the Space Gray Apple Watch Sport.  
+Tags: Reviews, Apple Watch  
+Image: http://d.pr/i/1aUO8+  
 
-<figure class="wide">
-	<img src="http://d.pr/i/1aUO8+" alt="Both Watches">
+<figure>
+	<img class="wide" src="http://d.pr/i/1aUO8+" alt="Both Watches" title="Both Watches">
 	<figcaption>When I look at both models side by side it's hard to see the Sport as anything but quality hardware.</figcaption>
 </figure>
 
@@ -21,8 +21,8 @@ It took about ten seconds for me to completely change my mind. In short, I am ke
 
 It's black. Just not *that* black. More like 'super dark gray.' Yes, the Space Black model is definitely blacker than the regular ol' stainless version Apple sells for $100 less.[^bl]  Now, since my recollection of the [Space Black model][theoveranalyzed 3] in the [Apple Retail Store][theoveranalyzed 4] was rusty, the only visuals I had were in the form of pictures shared by [Rene Ritchie][instagram] of iMore. The photographs he shared with his followers always showed the watch as **black**. The Space Black Watch is, in my opinion, somewhat less black than what most of his pictures portray. 
 
-<figure class="wide">
-	<img src="http://d.pr/i/1eGgI+" alt="Sport and Watch">
+<figure>
+	<img class="wide" src="http://d.pr/i/1eGgI+" alt="Sport and Watch" title="Sport and Watch">
 	<figcaption>Two different takes on black</figcaption>
 </figure>
 
@@ -32,8 +32,8 @@ Thinking ahead: if there were a color option in between Space Black and the regu
 
 Sitting at my desk at work the other day, I glanced over to my left wrist and saw the light reflect off of the brushed black links. What a sight to behold. 
 
-<figure class="wide">
-	<img src="http://d.pr/i/1kr4i+" alt="Links at work">
+<figure>
+	<img class="wide" src="http://d.pr/i/1kr4i+" alt="Links at work" title="Links at work">
 	<figcaption>How much longer until I have to get up and do work again?</figcaption>
 </figure>
 
@@ -73,18 +73,18 @@ Today I packed up the Apple Watch Sport and prepared it for sale on eBay. Am I m
 [^ko]: And, moreover, imagine just how much more the panel gaps are finessed on this 911 '[model][autoweek].'
 [^re]: I seem to recall that in last year's September event, the Space Black watch was not nearly as black as it is now. Am I crazy?
 
-[autoweek]: http://autoweek.com/article/car-reviews/first-drive-porsche-911-reimagined-singer
-[instagram]: https://instagram.com/p/265eV7GM8z/?taken-by=reneritchie
-[marco]: http://www.marco.org/2015/05/24/filling-the-green-circle
-[nine]: http://d.pr/i/1fOn4+
-[overcast]: https://overcast.fm/+BtuxdpSV4/2:12:45
-[theoveranalyzed]: /2015/5/1/my-first-week-without-an-apple-watch
-[theoveranalyzed 2]: /2015/6/8/48-hours-with-the-apple-watch
-[theoveranalyzed 3]: /2015/3/10/apple-watch-sport-or-apple-watch-collection
-[theoveranalyzed 4]: /2015/4/10/my-apple-watch-try-on-session-and-that-keyboard#visiting-the-store
-[thesmallwave]: http://thesmallwave.com/2008/02/26/apple-reduces-the-macbook-black-tax/
-[twitter]: https://twitter.com/gak_pdx
-[wikipedia]: https://en.wikipedia.org/wiki/Porsche_911
-[wikipedia 2]: https://en.wikipedia.org/wiki/Porsche_997
-[wikipedia 3]: https://en.wikipedia.org/wiki/BMW_M5#E39_M5_.281998.E2.80.932003.29
-[wikipedia 4]: https://en.wikipedia.org/wiki/Diamond-like_carbon
+[autoweek]: http://autoweek.com/article/car-reviews/first-drive-porsche-911-reimagined-singer "Autoweek on the Singer 911"
+[instagram]: https://instagram.com/p/265eV7GM8z/?taken-by=reneritchie "Rene Ritchie's Instagram picture of the Space Black Apple Watch"
+[marco]: http://www.marco.org/2015/05/24/filling-the-green-circle "Marco Arment's post on Apple Watch and fitness"
+[nine]: http://d.pr/i/1fOn4+ "Screenshot from Apple's page on how long it takes for people to make the link bracelet"
+[overcast]: https://overcast.fm/+BtuxdpSV4/2:12:45 "The Talk Show Ep. 121: ‘He Was Sort of Anti-Golf’, With Guest Rene Ritchie---the guys talking about how the case feels different from metal"
+[theoveranalyzed]: /2015/5/1/my-first-week-without-an-apple-watch "My link to a snarky post by Neven Mrgan"
+[theoveranalyzed 2]: /2015/6/8/48-hours-with-the-apple-watch "My initial thoughts on the Apple Watch"
+[theoveranalyzed 3]: /2015/3/10/apple-watch-sport-or-apple-watch-collection "My post discussing my Apple Watch choices"
+[theoveranalyzed 4]: /2015/4/10/my-apple-watch-try-on-session-and-that-keyboard#visiting-the-store "My post on first trying on the Apple Watch"
+[thesmallwave]: http://thesmallwave.com/2008/02/26/apple-reduces-the-macbook-black-tax/ "Apple's 'Black Tax'"
+[twitter]: https://twitter.com/gak_pdx "Greg Koenig on Twitter"
+[wikipedia]: https://en.wikipedia.org/wiki/Porsche_911 "Wikipedia: Porsche 911"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Porsche_997 "Wikipedia: Porsche 997"
+[wikipedia 3]: https://en.wikipedia.org/wiki/BMW_M5#E39_M5_.281998.E2.80.932003.29 "Wikipedia: BMW E39 M5"
+[wikipedia 4]: https://en.wikipedia.org/wiki/Diamond-like_carbon "Wikipedia: Diamond-like carbon"

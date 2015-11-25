@@ -1,11 +1,13 @@
-@@ Title=This Is Why Everyone Hates In-Car Navigation Systems  
-@@ Date=2015-02-05 10:00  
-@@ Link=http://www.theverge.com/2015/2/5/7982525/in-car-navigation-systems-are-terrible  
-@@ Description=Yes, everyone hates in-car navigation.  
-@@ Tags=cars, CarPlay, Android Auto, Magellan  
+Title: This Is Why Everyone Hates In-Car Navigation Systems  
+Date: 2015-02-05 10:00  
+Link: http://www.theverge.com/2015/2/5/7982525/in-car-navigation-systems-are-terrible  
+Description: Yes, everyone hates in-car navigation.  
+Tags: Cars, CarPlay  
+Image: https://cdn1.vox-cdn.com/thumbor/b8PG0wFnPcxMZo9kKloY4MLTK00=/800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3377426/starlink-1.0.gif  
 
-Chris Ziegler for The Verge: 
->"Tablet-like"? What kind of jacked-up tablet are you using, Subaru?
+Chris Ziegler for The Verge:
+
+> "Tablet-like"? What kind of jacked-up tablet are you using, Subaru?
 
 Before I had an iPhone, we used a portable in-car navigation unit from Magellan. It was terrible. Even in 2007, before the world knew [what touch screens could offer][tuaw], I knew the Magellan was terrible. "Maggie," we called her. I had to boot into Windows to update her, and even then, she still sucked.
 
@@ -15,6 +17,6 @@ Car companies have been putting out navigation systems with about as much awesom
 
 Subaru clearly missed the memo on that last part.
 
-[android]: http://www.android.com/auto/
-[apple]: https://www.apple.com/ios/carplay
-[tuaw]: http://www.tuaw.com/2007/01/09/iphone-announced/
+[android]: http://www.android.com/auto/ "Android Auto"
+[apple]: https://www.apple.com/ios/carplay "CarPlay"
+[tuaw]: http://www.tuaw.com/2007/01/09/iphone-announced/ "TUAW reporting on the unveiling of the original iPhone"

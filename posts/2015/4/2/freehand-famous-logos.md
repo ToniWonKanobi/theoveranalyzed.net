@@ -1,12 +1,13 @@
-@@ Title=Freehand Famous Logos  
-@@ Date=2015-04-02 08:00  
-@@ Link=https://www.youtube.com/watch?v=byQy0w5vr-A  
-@@ Description=Seb Lester shows how great his freehand is.  
-@@ Tags=design, logos  
+Title: Freehand Famous Logos  
+Date: 2015-04-02 08:00  
+Link: https://youtu.be/byQy0w5vr-A  
+Description: Seb Lester shows how great his freehand is.  
+Tags: Design  
+Video: https://youtu.be/byQy0w5vr-A  
 
 [Seb Lester][seblester] draws all the <s>things</s> logos.
 
 [From [Devour][devour]]
 
-[devour]: http://devour.com/video/freehand-famous-logos/
-[seblester]: http://www.seblester.com/
+[devour]: http://devour.com/video/freehand-famous-logos/ "Source post on Devour"
+[seblester]: http://www.seblester.com/ "Seb Lester's website"

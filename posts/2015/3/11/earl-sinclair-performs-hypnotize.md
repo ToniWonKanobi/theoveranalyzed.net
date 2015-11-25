@@ -1,12 +1,13 @@
-@@ Title=Earl Sinclair - "Hypnotize" (Notorious B.I.G. Cover)
-@@ Date=2015-03-11 13:29  
-@@ Link=https://www.youtube.com/watch?v=-v2mvO7Yq48  
-@@ Description=I loved Dinosaurs (TV Series 1991-1994).  
-@@ Tags=TV, funny, music, Notorious B.I.G., Dinosaurs, covers  
+Title: Earl Sinclair - "Hypnotize" (Notorious B.I.G. Cover)  
+Date: 2015-03-11 13:29  
+Link: https://youtu.be/-v2mvO7Yq48  
+Description: I loved Dinosaurs (TV Series 1991-1994).  
+Tags: TV, Music  
+Video: https://youtu.be/-v2mvO7Yq48  
 
 I thought for a good while before sharing this. I thought to myself, "Does anyone really care about this?" And then I decided that of course people want this. It's [Earl Sinclair][wikia]. Doing Biggie.
 
 [From [Devour][devour]]
 
-[devour]: http://devour.com/video/earl-sinclair-performs-hypnotize/
-[wikia]: http://muppet.wikia.com/wiki/Earl_Sinclair
+[devour]: http://devour.com/video/earl-sinclair-performs-hypnotize/ "Source post on Devour"
+[wikia]: http://muppet.wikia.com/wiki/Earl_Sinclair "Wikipedia: Earl Sinclair"

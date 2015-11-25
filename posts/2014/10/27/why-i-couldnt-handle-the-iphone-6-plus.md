@@ -1,7 +1,8 @@
-@@ Title=Why I Couldn't Handle the iPhone 6 Plus  
-@@ Date=2014-10-27 12:00  
-@@ Description=So I tried the iPhone 6 Plus, and it was too much for me.  
-@@ Tags=reviews, iPhone, iPhone 6 Plus, Anthony  
+Title: Why I Couldn't Handle the iPhone 6 Plus  
+Date: 2014-10-27 12:00  
+Description: So I tried the iPhone 6 Plus, and it was too much for me.  
+Tags: Reviews, iPhone  
+Image: https://313e5987718b346aaf83-f5e825270f29a84f7881423410384342.ssl.cf1.rackcdn.com/1410293876-iPhone6_PF_SpGry_iPhone6_PB_SpGry_iPhone6_PSL_SpGry_Homescreen-PRINT.jpg  
 
 # That Night
 
@@ -9,15 +10,15 @@ It was 12:43 AM on Friday, September 12, 2014. After 43 minutes of horror, I was
 
 Some thought went into my decision.
 
-# In Favor Of The Plus Versus The Regular
+# In Favor of Plus over Regular
 
 1. A bigger screen meant [not having to carry around an iPad][gottabemobile], because I could watch things on my big ol' phone.
 2. A bigger case meant the iPhone could house a [bigger battery][bgr], so I wouldn't have to feel guilty for not charging my phone in the car during lunch.
 3. [OIS][youtube] meant I could take better pictures.
-4. A design better in every way than the [previous iPhones][sonnydickson] (except for the [original iPhone][wikipedia]). That thing was a [beaut][archive].)
+4. A design better in every way than the [previous iPhones][sonnydickson] (except for the [original iPhone][wikipedia]. That thing was a [beaut][archive].)
 Adventure
 
-# In Favor Of The Regular Versus The Plus
+# In Favor of Regular over Plus
 
 1. A bigger screen and a bigger case meant ... a bigger lump of metal in my [pocket][gottabemobile 2].
 2. A bigger lump in my pocket also meant that I would have a bigger lump in my workout shorts. A bigger lump in my workout shorts means my phone could more easily fall out. Could I deal with that?
@@ -41,7 +42,7 @@ Next, I did what any self-respecting nerdophile would do in these situations: I 
 
 *The iPhone 6 Plus was too big.*
 
-*So they all got the regular 6.*
+So they all got the regular 6.
 
 This talk hadn't perturbed me initially. In fact, during the time leading up to the actual launch day, I chalked up all the nerd-hate against the Plus as a sort of 'Ah-these-are-the-same-guys-who-thought-Apple-should-have-stayed-with-a-3.5"-screen-size-forever' mentality. 
 
@@ -49,25 +50,24 @@ But, after having some frustrations of my own, it was easier to see where the te
 
 It was just too big. I loved holding that phone. I have small hands, but the bigger case was never an issue. As an aside, I used (and still do) use Reachability at lot. It's a great feature. I wish I had it whilst thumb-typing on my iPad mini (or Allison's iPad Air).
 
-And so, after about two weeks of ownership, I put my iPhone 6 Plus up for sale on [eBay][ebay], and got myself a shiny new iPhone 6. 
+And so, after about two weeks of ownership, I put my iPhone 6 Plus up for sale on eBay, and got myself a shiny new iPhone 6. 
 
 I love it. It's like having my iPhone 5S again (or the 5C before that, or the 5S before that, or the 5 before that, or the 5 before that). It fits easily in my pocket, and it just feels like a screen I can manage. 
 
 Different strokes for different folks I guess. 
 
-[apple]: http://store.apple.com/us/product/MGR92ZM/A/iphone-6-plus-silicone-case-black
-[archive]: https://web.archive.org/web/20080119034334/http://www.apple.com/iphone/gallery/index2.html
-[atp]: http://atp.fm/episodes/82
-[bgr]: http://bgr.com/2014/09/22/iphone-6-vs-iphone-6-plus-battery-life/
-[cnet]: http://www.cnet.com/news/apple-iphone-6-preorders/
-[daringfireball]: http://daringfireball.net/thetalkshow/2014/09/19/ep-095
-[ebay]: http://www.ebay.com/itm/111484228252?ssPageName=STRK:MESELX:IT&amp;_trksid=p3984.m1555.l2649
-[francemovil]: http://www.francemovil.do/media/motorola8000x.jpg
-[gottabemobile]: http://www.gottabemobile.com/2014/10/04/can-iphone-6-plus-replace-your-ipad-mini-with-retina/
-[gottabemobile 2]: http://www.gottabemobile.com/2014/09/15/iphone-6-iphone-6-plus-pocket-test-video/
-[relay]: http://relay.fm/upgrade/1
-[sonnydickson]: http://sonnydickson.com/2014/05/22/a-visual-look-at-apples-iphone-6-vs-previous-iphones/
-[spibelt]: http://www.spibelt.com/products/spibelt/large-pocket-spibelt
-[twitter]: https://twitter.com/smokeythedingo
-[wikipedia]: https://en.wikipedia.org/wiki/IPhone_(1st_generation
-[youtube]: http://www.youtube.com/watch?v=0uA_IbqRlKc
+[apple]: http://store.apple.com/us/product/MGR92ZM/A/iphone-6-plus-silicone-case-black "iPhone 6 Plus Silicone Case from Apple"
+[archive]: https://web.archive.org/web/20080119034334/http://www.apple.com/iphone/gallery/index2.html "iPhone gallery on Apple's website from 2008"
+[atp]: http://atp.fm/episodes/82 "The Accidental Tech Podcast, episode 82"
+[bgr]: http://bgr.com/2014/09/22/iphone-6-vs-iphone-6-plus-battery-life/ "Boy Genius Report on the new iPhones"
+[cnet]: http://www.cnet.com/news/apple-iphone-6-preorders/ "Cnet on iPhone 6 preorders"
+[daringfireball]: http://daringfireball.net/thetalkshow/2014/09/19/ep-095 "The Talk Show, episode 95"
+[francemovil]: http://www.francemovil.do/media/motorola8000x.jpg "'Smartphone' (?)"
+[gottabemobile]: http://www.gottabemobile.com/2014/10/04/can-iphone-6-plus-replace-your-ipad-mini-with-retina/ "iPhone 6 Plus as replacement for iPad mini?"
+[gottabemobile 2]: http://www.gottabemobile.com/2014/09/15/iphone-6-iphone-6-plus-pocket-test-video/ "iPhone 6 and 6 Plus pocket test"
+[relay]: http://relay.fm/upgrade/1 "Upgrade podcast, episode 1"
+[sonnydickson]: http://sonnydickson.com/2014/05/22/a-visual-look-at-apples-iphone-6-vs-previous-iphones/ "Visual look at iPhone 6 vs previous iPhones"
+[spibelt]: http://www.spibelt.com/products/spibelt/large-pocket-spibelt "Fanny pack that I bought because my friend has it"
+[twitter]: https://twitter.com/smokeythedingo "Smokey on Twitter"
+[wikipedia]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "Wikipedia: the original iPhone"
+[youtube]: http://www.youtube.com/watch?v=0uA_IbqRlKc "YouTube: 'Apple iPhone 6 Plus | OIS Test'"

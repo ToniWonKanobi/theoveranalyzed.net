@@ -1,10 +1,14 @@
-@@ Title=Facebook Is the New AOL  
-@@ Date=2015-01-05 10:00  
-@@ Description=I discuss how Facebook is irrelevant, as well as recount some of my earliest experiences with computers.  
-@@ Tags=culture, history, Anthony, web, AOL, Nilay Patel    
+Title: Facebook Is the New AOL  
+Date: 2015-01-05 10:00  
+Description: I discuss how Facebook is irrelevant, as well as recount some of my earliest experiences with computers.  
+Tags: Facebook, Culture  
+Image: https://cdn1.vox-cdn.com/thumbor/AJTVH3mD2RQgGveTg9YU6J4vzL0=/0x165:3968x2810/2050x1367/cdn0.vox-cdn.com/uploads/chorus_image/image/45147628/AOL_promotional_CDs_in_Canada.0.0.jpg  
+
+![Facebook Is the New AOL][vox-cdn]
 
 Nilay Patel, for [The Verge][theverge]:
->Just think about it for a minute. Of course Facebook is the new AOL.
+
+> Just think about it for a minute. Of course Facebook is the new AOL.
 
 Honestly, the title of Nilay Patel's latest op-ed for The Verge *does* have a pretty catchy headline. And while it is, indeed, both fun and trendy to paint [Facebook as the social network of our mothers][mom], the point is well made: from the nerdy corner of the internet where sites like The Verge and Gizmodo thrive, Facebook truly does seem to be losing its prowess amongst tweens and 20-somethings. 
 
@@ -44,30 +48,31 @@ Another example: Apparently, [people go to the movie theaters less nowadays][the
 
 Maybe in ten years I will be formulating a similar post, one in which I detail the fall of Snapchat, and the rise of whatever the next big thing will be.
 
-[cultofmac]: http://www.cultofmac.com/227936/watch-steve-jobs-laugh-at-the-idea-of-intel-inside-stickers-on-the-side-of-every-mac-video/
-[ebay]: http://www.ebay.com/itm/COMPAQ-PRESARIO-5280-DESKTOP-good-condition-80-00-/281529628304?pt=US_Computer_Cases&amp;hash=item418c793690
-[facebook]: https://www.facebook.com/philcollins
-[microsoft]: http://support.microsoft.com/kb/314481
-[msc]: https://en.wikipedia.org/wiki/MSConfig
-[mom]: http://mom.me/teen/8179-moms-have-taken-over-facebook/
-[pimp-my-profile]: http://www.pimp-my-profile.com/generators/myspace.php
-[puc]: http://puc.edu/
-[scpr]: http://www.scpr.org/news/2013/07/05/38068/hawthorne-police-concerned-about-cyber-threats-aft/
-[socialbuzzpros]: http://www.socialbuzzpros.com/2014/11/04/is-facebook-still-important/
-[theguardian]: http://www.theguardian.com/technology/2013/nov/20/marketing-to-kids-on-social-media-facebook-and-twitter-are-not-enough
-[theoveranalyzed]: /2015/1/5/facebook-is-the-new-aol
-[theverge]: http://www.theverge.com/2015/1/4/7488495/facebook-is-the-new-aol
-[theverge 2]: http://www.theverge.com/2015/1/1/7478987/box-office-attendance-hits-lowest-level-in-19-years
-[theverge 3]: http://www.theverge.com/2014/12/19/7420823/mpaa-decries-googles-shameful-attack-on-its-anti-piracy-program
-[twitter]: http://twitter.com/the_real_hunter
-[wikipedia]: https://en.wikipedia.org/wiki/Drop_It_Like_It's_Hot
-[wikipedia 10]: https://en.wikipedia.org/wiki/Mac_OS
-[wikipedia 2]: https://en.wikipedia.org/wiki/Year_2000_problem
-[wikipedia 3]: https://en.wikipedia.org/wiki/Apple_Inc%2E
-[wikipedia 4]: https://en.wikipedia.org/wiki/Iomega_Zip_drive
-[wikipedia 5]: https://en.wikipedia.org/wiki/Windows_XP
-[wikipedia 6]: https://en.wikipedia.org/wiki/Windows_98
-[wikipedia 7]: https://en.wikipedia.org/wiki/Encarta
-[wikipedia 8]: https://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air
-[wikipedia 9]: https://en.wikipedia.org/wiki/Imac
-[youtube]: https://www.youtube.com/watch?v=QgwhOEoZOhA
+[cultofmac]: http://www.cultofmac.com/227936/watch-steve-jobs-laugh-at-the-idea-of-intel-inside-stickers-on-the-side-of-every-mac-video/ "Steve Jobs laughing at the idea of Intel stickers"
+[ebay]: http://www.ebay.com/itm/COMPAQ-PRESARIO-5280-DESKTOP-good-condition-80-00-/281529628304?pt=US_Computer_Cases&amp;hash=item418c793690 "Basically the PC we had when I was a teenager"
+[facebook]: https://www.facebook.com/philcollins "Phil Collins on Facebook"
+[microsoft]: http://support.microsoft.com/kb/314481 "How to uninstall a program on Windows"
+[msc]: https://en.wikipedia.org/wiki/MSConfig "Wikipedia: 'MSConfig'"
+[mom]: http://mom.me/teen/8179-moms-have-taken-over-facebook/ "Moms have taken over Facebook"
+[pimp-my-profile]: http://www.pimp-my-profile.com/generators/myspace.php "Oh, Myspace profile creators"
+[puc]: http://puc.edu/ "Pacific Union College"
+[scpr]: http://www.scpr.org/news/2013/07/05/38068/hawthorne-police-concerned-about-cyber-threats-aft/ "Hawthorne Police Department concerned about cyber threats"
+[socialbuzzpros]: http://www.socialbuzzpros.com/2014/11/04/is-facebook-still-important/ "Is Facebook still important?"
+[theguardian]: http://www.theguardian.com/technology/2013/nov/20/marketing-to-kids-on-social-media-facebook-and-twitter-are-not-enough "The Guardian: marketing to kids on social media (Facebook and Twitter isn't enough)"
+[theoveranalyzed]: /2015/1/5/facebook-is-the-new-aol "My post calling out the irrelevance of Facebook"
+[theverge]: http://www.theverge.com/2015/1/4/7488495/facebook-is-the-new-aol "Nilay Patel on the irrelevancy of Facebook"
+[theverge 2]: http://www.theverge.com/2015/1/1/7478987/box-office-attendance-hits-lowest-level-in-19-years "The Verge on theater attendance"
+[theverge 3]: http://www.theverge.com/2014/12/19/7420823/mpaa-decries-googles-shameful-attack-on-its-anti-piracy-program "The Verge on NPAA's calling out Googles attack on anti-piraacy"
+[twitter]: http://twitter.com/the_real_hunter "Wesley Hunter on Twitter"
+[wikipedia]: https://en.wikipedia.org/wiki/Drop_It_Like_It's_Hot "Wikipedia: 'Drop It Like It's Hot'"
+[wikipedia 10]: https://en.wikipedia.org/wiki/Mac_OS "Wikipedia: 'Mac OS'"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Year_2000_problem "Wikipedia: 'Y2K'"
+[wikipedia 3]: https://en.wikipedia.org/wiki/Apple_Inc%2E "Wikipedia: 'Apple, Inc.'"
+[wikipedia 4]: https://en.wikipedia.org/wiki/Iomega_Zip_drive "Wikipedia: zip drive"
+[wikipedia 5]: https://en.wikipedia.org/wiki/Windows_XP "Wikipedia: 'Windows XP'"
+[wikipedia 6]: https://en.wikipedia.org/wiki/Windows_98 "Wikipedia: 'Windows 98'"
+[wikipedia 7]: https://en.wikipedia.org/wiki/Encarta "Wikipedia: 'Encarta'"
+[wikipedia 8]: https://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air "Wikipedia: 'Fresh Prince of Bel-Air'"
+[vox-cdn]: https://cdn1.vox-cdn.com/thumbor/AJTVH3mD2RQgGveTg9YU6J4vzL0=/0x165:3968x2810/2050x1367/cdn0.vox-cdn.com/uploads/chorus_image/image/45147628/AOL_promotional_CDs_in_Canada.0.0.jpg "Facebook Is the New AOL"
+[wikipedia 9]: https://en.wikipedia.org/wiki/Imac "Wikipedia: 'iMac'"
+[youtube]: https://www.youtube.com/watch?v=QgwhOEoZOhA "YouTube: Silly rabbit tricks are for kids!! Carlton Banks"

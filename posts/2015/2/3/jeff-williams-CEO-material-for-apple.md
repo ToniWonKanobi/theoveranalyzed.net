@@ -1,11 +1,15 @@
-@@ Title=Jeff Williams: CEO Material for Apple?  
-@@ Date=2015-02-03 15:00  
-@@ Link=http://www.aboveavalon.com/notes/2015/1/29/jeff-williams-apple-ceo-material  
-@@ Description=Could Apple's current COO end up its next CEO? (Does this sound familiar?)  
-@@ Tags=Apple, business, Neil Cybart, John Gruber, Tim Cook, Eddy Cue, Jony Ive, Phil Schiller, Jeff Williams, Angela Ahrendts  
+Title: Jeff Williams: CEO Material for Apple?  
+Date: 2015-02-03 15:00  
+Link: http://www.aboveavalon.com/notes/2015/1/29/jeff-williams-apple-ceo-material  
+Description: Could Apple's current COO end up its next CEO? (Does this sound familiar?)  
+Tags: Apple  
+Image: http://d.pr/i/1b2QC+  
+
+![Above Avalon on Jeff Williams][d]
 
 Neil Cybart's recent piece inspired some interesting thoughts from [John Gruber][daringfireball]. Here's what he had to say:
->I’d guess that the current short list of Cook successors would consist of (in alphabetical order) Eddy Cue, Jony Ive, Phil Schiller, and Williams. All of them long-time Apple leaders. (After a few more years, Angela Ahrendts would certainly be considered. But at this point she’s still too new to the company.) I think Ive is the least likely of the bunch to want the job, but he certainly has the respect within the company.
+
+> I’d guess that the current short list of Cook successors would consist of (in alphabetical order) Eddy Cue, Jony Ive, Phil Schiller, and Williams. All of them long-time Apple leaders. (After a few more years, Angela Ahrendts would certainly be considered. But at this point she’s still too new to the company.) I think Ive is the least likely of the bunch to want the job, but he certainly has the respect within the company.
 
 I just had to link to this piece because I too have thought about whom might be next in line after Tim Cook is done. 
 
@@ -16,18 +20,20 @@ Eddy Cue has, in my opinion, about the [best stage presence][youtube 2] of any o
 Phil Schiller has to be on the list too. He is just as much a part of the old guard as Jony. And, despite his most recent [lackluster Keynote address][youtube 3], he generally engages with the audience well enough.[^e]
 
 I think the best suggestion comes at the end of his Gruber's speculation:
->But a replacement who isn’t named until Tim Cook’s retirement in, say, 2030, will likely be someone we don’t yet know — someone who’ll rise through the company’s ranks between now and then.
 
-We will just have to wait and see. Until then, I am happy to go along for the ride <i class="fa fa-apple"></i>
+> But a replacement who isn’t named until Tim Cook’s retirement in, say, 2030, will likely be someone we don’t yet know — someone who’ll rise through the company’s ranks between now and then.
+
+We will just have to wait and see. Until then, I am happy to go along for the ride 
 
 [^k]: Though, admittedly, he sometimes comes off as a tool.
 [^e]: I cannot stress enough that my appraisal of these contenders' CEO abilities is based *solely* on those little glimpses into who they are that we get to see at the Keynotes. They could be totally different people behind closed doors. Hard to say obviously. 
 
-[apple]: https://www.apple.com/pr/library/2015/01/27Apple-Reports-Record-First-Quarter-Results.html
-[cnet]: http://news.cnet.com/Dell-Apple-should-close-shop/2100-1001_3-203937.html
-[cnet 2]: http://news.cnet.com/Apple-acquires-Next%2C-Jobs/2100-1001_3-256914.html
-[daringfireball]: http://daringfireball.net/2015/01/jeff_williams_apple_executives
-[macrumors]: http://www.macrumors.com/2012/11/05/jony-ive-is-now-playing-the-steve-jobs-role/
-[youtube]: https://www.youtube.com/watch?v=9e4HKc0VnY0
-[youtube 2]: https://www.youtube.com/watch?v=oHN673Vi9eo
-[youtube 3]: https://www.youtube.com/watch?v=OD9ZQ9WylRM#t=2102
+[apple]: https://www.apple.com/pr/library/2015/01/27Apple-Reports-Record-First-Quarter-Results.html "Apple Press Release after it's record-setting Q1 results"
+[cnet]: http://news.cnet.com/Dell-Apple-should-close-shop/2100-1001_3-203937.html "Cnet: 'Dell: Apple should close shop'"
+[cnet 2]: http://news.cnet.com/Apple-acquires-Next%2C-Jobs/2100-1001_3-256914.html "Cnet: 'Apple acquires Next, Jobs'"
+[d]: http://d.pr/i/1b2QC+ "Above Avalon on Jeff Williams"
+[daringfireball]: http://daringfireball.net/2015/01/jeff_williams_apple_executives "John Gruber's take on Jeff Williams"
+[macrumors]: http://www.macrumors.com/2012/11/05/jony-ive-is-now-playing-the-steve-jobs-role/ "MacRumors on Jony Ive's new role"
+[youtube]: https://www.youtube.com/watch?v=9e4HKc0VnY0 "YouTube: Jony Ive Supercut"
+[youtube 2]: https://www.youtube.com/watch?v=oHN673Vi9eo "YouTube: Apple Pay introduced by Eddy Cue"
+[youtube 3]: https://www.youtube.com/watch?v=OD9ZQ9WylRM#t=2102 "YouTube: Apple Keynote: iPhone 6 & Apple Watch"

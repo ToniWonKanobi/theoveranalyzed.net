@@ -1,15 +1,12 @@
-@@ Title=Permalinks in Squarespace 
-@@ Date=2015-02-01 10:00  
-@@ Description=I figured out how to enable permalinks in posts (with the help of someone smarter than me).  
-@@ Tags=Squarespace, TheOverAnalyzed, blogging, permalinks  
+Title: Permalinks in Squarespace  
+Date: 2015-02-01 10:00  
+Description: I figured out how to enable permalinks in posts (with the help of someone smarter than me).  
+Tags: Blogging, Squarespace  
+Image: http://d.pr/i/1lSZU+  
 
 ## Forward
 
 Squarespace is a great CMS. "[The Apple of content management services][ss]," it has been said. And I would generally agree. With just a minimal amount of effort from the user, it would be *very* difficult to make a website with Squarespace that wasn't halfway decent. That said, there are some caveats to be told. Just like my experiences with everyone's favorite fruit company, whenever I have strayed just a bit from the Squarespace Beaten Path™, things got hairy. One of those areas was [footnotes][fn]. I figured that out with the help of the internet. Next on the list: permalinks.
-
-<h2>Contents</h2>
-
-[[TOC]]
 
 # Backstory
 
@@ -41,32 +38,33 @@ He suggested pasting a line of HTML code in the [Post Blog Item Code Injection][
 
 Here is the line of HTML code he suggested:
 
-```html
+```
 <center><a href="http://smithjw.me{permalink}">∞</a></center>
 ```
 
 Now, because I tend to gravitate toward content being left-adjusted, I changed
 
-```html
+```
 <center></center>
 ```
  	
 to
 
-```html
-<left></left>
+```
+<p></p>
 ```
 
 So my line of HTML code looks like this:
 
-```html
-<left><a href="{permalink}">∞ Permalink</a></center></left>
+```
+<p><a href="{permalink}">∞ Permalink</a></p>
 ```
 
 # The Results
 
 By placing the permalink in the Post Blog Item Code Injection section, I no longer have to manually create permalinks for Linked List posts. The downside to this newer method is that the a permalink shows up on *every* post, even the Article-style posts. A small price to pay methinks.
 
+<aside>
 <div class="update">
 
 ## Update: Permalink Fix
@@ -98,11 +96,12 @@ Here is the relevant code he suggests pasting there:
 Now, whenever I post a "Linked List" item, as long as the "External link" checkbox is checked in the New Post Advanced panel, a permalink will show up just to the right of the title of the post (which is the target external link):
 
 <figure>
-	<img src="http://d.pr/i/1lSZU+" alt="Boom">
+	<img src="http://d.pr/i/1lSZU+" alt="Boom" title="Boom">
 	<figcaption>Boom</figcaption>
 </figure>
 
 </div>
+</aside>
 
 [^cc]: And just good 'internet form'
 [^hc]: Many of the sites I follow use a similar Linked List format as Daring Fireball. [Six Colors][sixcolors], [Marco.org][marco], [The Sweet Setup][thesweetsetup], [The Loop][loopinsight], [512 Pixels][512pixels], and more use this style of posting. And just like with Daring Fireball, sometimes I enjoy these authors' commentary on the links more than the actual content they are linking to.
@@ -111,19 +110,19 @@ Now, whenever I post a "Linked List" item, as long as the "External link" checkb
 [^pl]: I was copying and pasting the link string of the post and placing it in the appropriate location after `http://www.theoveranalyzed.net` I then took that link and placed it at the bottom of every Linked-List style post I had made as "[Permalink]." It worked well enough, but what a [PITA][urbandictionary]. 
 [^wa]: Come to find out, MacSparky was [doing something similar][macsparky], though he made use of a [TextExpander][smilesoftware] snippet.
 
-[512pixels]: http://www.512pixels.net
-[alexduner]: http://alexduner.com/blog/squarespace-permalinks
-[daringfireball]: http://daringfireball.net/2004/06/linked_list
-[fn]: /2015/1/31/bigfoot-footnotes-in-squarespace
-[loopinsight]: http://loopinsight.com
-[macsparky]: http://macsparky.com/blog/permalinkingss
-[marco]: http://www.marco.org
-[real]: http:///http://smithjw.me/blog/permalinking-with-squarespace
-[sixcolors]: http://www.sixcolors.com
-[smilesoftware]: http://smilesoftware.com/TextExpander/index.html
-[squarespace]: http://help.squarespace.com/guides/using-code-injection
-[ss]: http://stream-seo.com/squarespace-review/
-[squarespacee]: http://developers.squarespace.com
-[thesweetsetup]: http://www.thesweetsetup.com
-[twitter]: https://twitter.com/smithjw
-[urbandictionary]: http://www.urbandictionary.com/define.php?term=pita&defid=549368
+[512pixels]: http://www.512pixels.net "Stephen Hackett's blog, 512 Pixels"
+[alexduner]: http://alexduner.com/blog/squarespace-permalinks "One of the posts that helped me with permalinks"
+[daringfireball]: http://daringfireball.net/2004/06/linked_list "John Gruber introducing the 'Linked List'"
+[fn]: /2015/1/31/bigfoot-footnotes-in-squarespace "My post on incorporating Bigfoot footnotes in Squarespace"
+[loopinsight]: http://loopinsight.com "Jim Dalyrmple's blog, The Loop"
+[macsparky]: http://macsparky.com/blog/permalinkingss "How David Sparks did permalinks in his Squarespace-powered blog"
+[marco]: http://www.marco.org "Marco Arment's blog, Marco.org"
+[real]: http:///http://smithjw.me/blog/permalinking-with-squarespace "Another post that helped me figure out permalinks"
+[sixcolors]: http://www.sixcolors.com "Jason Snell's blog, Six Colors"
+[smilesoftware]: http://smilesoftware.com/TextExpander/index.html "TextExpander's webpage"
+[squarespace]: http://help.squarespace.com/guides/using-code-injection "Squarespace help page for using code injection"
+[ss]: http://stream-seo.com/squarespace-review/ "Review of the Squarespace CMS"
+[squarespacee]: http://developers.squarespace.com "Squarespace Developer Platform"
+[thesweetsetup]: http://www.thesweetsetup.com "The Sweet Setup"
+[twitter]: https://twitter.com/smithjw "Another guy with some tips on permalinks in Squarespace"
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=pita&defid=549368 "Urban Dictionary: 'PITA'"

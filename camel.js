@@ -10,18 +10,10 @@ var qfs = require('q-io/fs');
 var sugar = require('sugar');
 var _ = require('underscore');
 var markdownit = require('markdown-it')({
-		html: true,
-		xhtmlOut: true,
-		typographer: true
-   	})
-	.use(require('markdown-it-footnote'))
-	.use(require('markdown-it-anchor'), {
-		permalink: true,
-		permalinkSymbol: '¶'
-	})
-	.use(require("markdown-it-table-of-contents"), {
-		includeLevel: 1,
-	});
+	html: true,
+	typographer: true
+}).use(require('markdown-it-footnote'))
+.use(require('markdown-it-anchor'));
 var Rss = require('rss');
 var Handlebars = require('handlebars');
 
@@ -53,8 +45,6 @@ var templateRoot = './templates/';
 var metadataMarker = '@@';
 var maxCacheSize = 50;
 var postsPerPage = 10;
-//var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-)*(.md)?/;
-//var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-)*(.redirect|.md)?$/;
 var postRegex = /^(.\/)?posts\/\d{4}\/\d{1,2}\/\d{1,2}\/(\w|-|\+)*(.redirect|.md)?$/;
 var footnoteAnchorRegex = /[#"]fn\d+/g;
 var footnoteIdRegex = /fnref\d+/g;
@@ -114,20 +104,6 @@ function normalizedFileName(file) {
     retVal = retVal.replace('.md', '');
 
     return retVal;
-} function fetchFromCache(file) {
-	return renderedPosts[normalizedFileName(file)] || null;
-}
-
-function addRenderedPostToCache(file, postData) {
-	//console.log('Adding to cache: ' + normalizedFileName(file));
-	renderedPosts[normalizedFileName(file)] = _.extend({ file: normalizedFileName(file), date: new Date() }, postData);
-
-	if (_.size(renderedPosts) > maxCacheSize) {
-		var sorted = _.sortBy(renderedPosts, function (post) { return post.date; });
-		delete renderedPosts[sorted.first().file];
-	}
-
-	//console.log('Cache has ' + JSON.stringify(_.keys(renderedPosts)));
 }
 
 function fetchFromCache(file) {
@@ -146,42 +122,92 @@ function addRenderedPostToCache(file, postData) {
 	//console.log('Cache has ' + JSON.stringify(_.keys(renderedPosts)));
 }
 
+// // Gets all the lines in a post and separates the metadata from the body
+// function getLinesFromPost(file) {
+// 	file = file.endsWith('.md') ? file : file + '.md';
+// 	var data = fs.readFileSync(file, {encoding: 'UTF8'});
+//
+// 	// Extract the pieces
+// 	var lines = data.lines();
+// 	var metadataLines = _.filter(lines, function (line) { return line.startsWith(metadataMarker); });
+// 	var body = _.difference(lines, metadataLines).join('\n');
+//
+// 	return {metadata: metadataLines, body: body};
+// }
+//
+// // Parses the metadata in the file
+// function parseMetadata(lines) {
+// 	var retVal = {};
+//
+// 	lines.each(function (line) {
+// 		line = line.replace(metadataMarker, '');
+// 		line = line.compact();
+// 		if (line.has(':')) {
+// 			var firstIndex = line.indexOf(':');
+// 			retVal[line.first(firstIndex)] = line.from(firstIndex + 2);
+// 		}
+// 	});
+//
+// 	// NOTE: Some metadata is added in generateHtmlAndMetadataForFile().
+//
+// 	// Merge with site default metadata
+// 	Object.merge(retVal, siteMetadata, false, function(key, targetVal, sourceVal) {
+// 		// Ensure that the file wins over the defaults.
+// 		console.log('overwriting "' + sourceVal + '" with "' + targetVal);
+// 		return targetVal;
+// 	});
+//
+// 	return retVal;
+// }
+
+// Separate the metadata from the body
+function getLinesFromData(data) {
+	var lines = data.lines();
+	// Extract the metadata
+	var metadataEnds = _.findIndex(lines, function (line) {
+		 return line.trim().length === 0;
+	});
+	metadataEnds = metadataEnds === -1 ? lines.length : metadataEnds;
+
+	return {
+		metadata: lines.slice(0, metadataEnds),
+		body: lines.slice(metadataEnds).join('\n')
+	};
+}
+
 // Gets all the lines in a post and separates the metadata from the body
 function getLinesFromPost(file) {
-	file = file.endsWith('.md') ? file : file + '.md';
-	var data = fs.readFileSync(file, {encoding: 'UTF8'});
+    file = file.endsWith('.md') ? file : file + '.md';
+    var data = fs.readFileSync(file, {encoding: 'UTF8'});
 
-	// Extract the pieces
-	var lines = data.lines();
-	var metadataLines = _.filter(lines, function (line) { return line.startsWith(metadataMarker); });
-	var body = _.difference(lines, metadataLines).join('\n');
-
-	return {metadata: metadataLines, body: body};
+    return getLinesFromData(data);
 }
 
 // Parses the metadata in the file
 function parseMetadata(lines) {
-	var retVal = {};
+    var retVal = {};
 
-	lines.each(function (line) {
-		line = line.replace(metadataMarker, '');
-		line = line.compact();
-		if (line.has('=')) {
-			var firstIndex = line.indexOf('=');
-			retVal[line.first(firstIndex)] = line.from(firstIndex + 1);
+    lines.each(function (line) {
+        line = line.replace(metadataMarker, '');
+        line = line.compact();
+        if (line.has('=')) {
+            var firstIndex = line.indexOf('=');
+            retVal[line.first(firstIndex)] = line.from(firstIndex + 1);
+        } else if (line.has(':')) {
+			var firstIndex = line.indexOf(':');
+			retVal[line.first(firstIndex)] = line.from(firstIndex + 2);
 		}
-	});
+    });
 
-	// NOTE: Some metadata is added in generateHtmlAndMetadataForFile().
+    // NOTE: Some metadata is added in generateHtmlAndMetadataForFile().
 
-	// Merge with site default metadata
-	Object.merge(retVal, siteMetadata, false, function(key, targetVal, sourceVal) {
-		// Ensure that the file wins over the defaults.
-		console.log('overwriting "' + sourceVal + '" with "' + targetVal);
-		return targetVal;
-	});
+    // Merge with site default metadata
+    Object.merge(retVal, siteMetadata, false, function (key, targetVal, sourceVal) {
+        // Ensure that the file wins over the defaults.
+        return targetVal;
+    });
 
-	return retVal;
+    return retVal;
 }
 
 function performMetadataReplacements(replacements, haystack) {
@@ -202,18 +228,6 @@ function parseHtml(lines, replacements, postHeader, postFooter) {
 	var body = body;
 	// Concatenate HTML
 	return header + '<article>' + postHeader + '<div class="entry">' + body + '</div>' + postFooter + '</article>' + footerSource;
-}
-
-// Gets all the lines in a post and separates the metadata from the body
-function getLinesFromPost(file) {
-	file = file.endsWith('.md') ? file : file + '.md';
-	var data = fs.readFileSync(file, {encoding: 'UTF8'});
-
-	// Extract the pieces
-	var lines = data.lines();
-	var metadataLines = _.filter(lines, function (line) { return line.startsWith(metadataMarker); });
-	var body = _.difference(lines, metadataLines).join('\n');
-	return {metadata: metadataLines, body: body};
 }
 
 // Gets the metadata & rendered HTML for this file
@@ -252,8 +266,8 @@ function generateHtmlAndMetadataForFile(file) {
 			var d = 1;
 			for( var i in tags ){
 				var tag = tags[i].trim();
-//				tagslist.push('<a href="/tags/' + tag + '">' + tag.toLowerCase() + '</a>');
-				tagslist.push('<a href="/tags/' + tag + '">' + tag + '</a>');
+				var tagReplace = tag.replace(/\s/g,'%20');
+				tagslist.push('<a href="/tags/' + tagReplace + '">' + tag + '</a>');
 				hashtags += tag;
 				if( d < tags.length ){
 					hashtags += ',';
@@ -273,8 +287,7 @@ function generateHtmlAndMetadataForFile(file) {
 			metadata.canonicalLink = metadata.SiteRoot;
 			metadata.ogtype = 'website';
 		}else{
-//			metadata.canonicalLink = metadata.SiteRoot + '/' + metadata.permalink;
-			metadata.canonicalLink = metadata.SiteRoot + metadata.permalink;
+			metadata.canonicalLink = metadata.SiteRoot + '/' + metadata.permalink;
 			metadata.ogtype = 'article';
 		}
 
@@ -727,7 +740,7 @@ function sendYearListing(request, response) {
 		});
 
 		if (!anyFound) {
-			retVal += "<i>No posts found.</i>";
+			retVal += "<i>No posts found</i>";
 		}
 
 		retVal += performMetadataReplacements([], postBodyEndTemplate([]) );
@@ -1027,26 +1040,6 @@ app.get('/rss', function (request, response) {
 	}
 });
 
-//app.get('/rss2', function (request, response) {
-//	if ('user-agent' in request.headers && request.headers['user-agent'].has('subscriber')) {
-//		console.log('Alternate RSS: ' + request.headers['user-agent']);
-//	}
-//	response.type('application/rss+xml');
-//
-//	if (typeof(renderedAlternateRss.date) === 'undefined' || new Date().getTime() - renderedAlternateRss.date.getTime() > 3600000) {
-//		generateRss(request, '/rss-alternate', function (article) {
-//			return externalFilenameForFile(article.file, request);
-//		}, function (article){
-//			return article.metadata.Title;
-//		}, function (rss) {
-//			renderedAlternateRss = rss;
-//			response.status(200).send(renderedAlternateRss.rss);
-//		});
-//	} else {
-//		response.status(200).send(renderedAlternateRss.rss);
-//	}
-//});
-
 app.get('/rss-alternate', function (request, response) {
 	if ('user-agent' in request.headers && request.headers['user-agent'].has('subscriber')) {
 		console.log('Alternate RSS: ' + request.headers['user-agent']);
@@ -1074,8 +1067,7 @@ app.get('/tags', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-//		retVal += "<header><h2>Posts By Tag</h2></header>";
-		retVal += '<header><h1>Posts By Tag</h1></header>';
+		retVal += "<header><h1>Tags</h1></header>";
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );
 		postsByDay.each(function (day) {
 			day['articles'].each(function (article) {
@@ -1102,17 +1094,18 @@ app.get('/tags', function (request, response) {
 		});
 		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return key.toLowerCase() });
 		_.each(orderedKeys, function (key) {
-//			retVal += '<h3><a href="/tags/' + key.toLowerCase() + '">' + key.capitalize() + '</a></h3>';
-			retVal += '<h3><a href="/tags/' + key + '" style="border-bottom:none"><i class="fa fa-tag fa-fw"></i> ' + key + '</a></h3>';
+			// Remove spaces from HTML
+			var keyReplace = key.replace(/\s/g,'%20');
+			retVal += '<h2><a href="/tags/' + keyReplace + '">' + key + '</a></h2>';
 			retVal += '<ul>';
 			_.each(postsByTag[key], function (post) {
-				retVal += '<li><a href="' + post.url + '">' + post.title + '</a></li>';
+				retVal += '<li><a href="' + post.url + '">' + post.title  + '</a></li>';
 			});
 			retVal += '</ul>';
 		});
 
 		if (!anyFound) {
-			retVal += "<i>No posts found.</i>";
+			retVal += "<i>No posts found</i>";
 		}
 
 		retVal += performMetadataReplacements([], postBodyEndTemplate([]) );
@@ -1142,8 +1135,7 @@ app.get('/tags/:tag', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-//		retVal += '<header><h2>' + thetag.capitalize() + ' Archives</h2></header>';
-		retVal += '<header><h1><i class="fa fa-tag fa-fw"></i> ' + thetag + '</em></h1></header>';
+		retVal += '<header><h1>' + 'Posts tagged ' + '<i>' + thetag + '</i>' + '</h1></header>';
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );
 		retVal += '<ul>';
 
@@ -1176,20 +1168,19 @@ app.get('/tags/:tag', function (request, response) {
 		var orderedKeys = _.sortBy(Object.keys(postsByTag), function (key) { return parseInt(key); }).reverse();
 		_.each(orderedKeys, function (key) {
 			_.each(postsByTag[key], function (post) {
-				retVal += '<li><a href="' + post.url + '">' + post.title  + '</a></li>';
+				retVal += '<li><a href="' + post.url + '" title="' + post.title + '">' + post.title  + '</a></li>';
 			});
 		});
 
 		if (!anyFound) {
-			retVal += "<li><i>No posts found.</i></li>";
+			retVal += "<li><i>No posts found</i></li>";
 		}
 		retVal += '</ul>';
 		retVal += performMetadataReplacements([], postBodyEndTemplate([]) );
 		retVal += performMetadataReplacements([], singleFooterTemplate([]) );
 
 		var replacements = {};
-//		replacements.Title = thetag.capitalize() + ' Archives';
-		replacements.Title = thetag + ' Archives';
+		replacements.Title = thetag.capitalize() + ' Archives';
 		replacements.canonicalLink = config.Site.Url + '/tags/' + thetag;
 		replacements.ogtype = 'website';
 		replacements.Image = config.Site.DefaultImage;
@@ -1198,8 +1189,7 @@ app.get('/tags/:tag', function (request, response) {
 		var header = performMetadataReplacements(replacements, headerSource);
 		header = header.replace(
 			metadataMarker + 'Title' + metadataMarker,
-//			thetag.capitalize() + ' Archives'
-			thetag + ' Archives'
+			thetag.capitalize() + ' Archives'
 		);
 		response.status(200).send(header + retVal + footerSource);
 	});
@@ -1231,7 +1221,7 @@ app.get('/:year/:month', function (request, response) {
 		});
 
 		if (!anyFound) {
-			html += "<i>No posts found.</i>";
+			html += "<i>No posts found</i>";
 		}
 
 		html += performMetadataReplacements([], postBodyEndTemplate([]) );
@@ -1275,7 +1265,7 @@ app.get('/:year/:month/:day', function (request, response) {
 				html += "</ul>";
 
 				if (!anyFound) {
-					html += "<i>No posts found.</i>";
+					html += "<i>No posts found</i>";
 				}
 
 				html += performMetadataReplacements([], postBodyEndTemplate([]) );
@@ -1323,7 +1313,7 @@ app.get('/count', function (request, response) {
 			days += 1;
 			count += all[day].articles.length;
 		}
-		response.status(200).send(count + ' articles, across ' + days + ' days that have at least one post.');
+		response.status(200).send('TheOverAnalyzed has ' + count + ' articles, across ' + days + ' days that have at least one post therein.');
 	});
 });
 

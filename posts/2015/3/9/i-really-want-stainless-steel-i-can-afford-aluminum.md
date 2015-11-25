@@ -1,11 +1,13 @@
-@@ Title=I Really Want Stainless Steel, I Can Afford Aluminum 
-@@ Date=2015-03-09 17:08  
-@@ Link=http://www.appleworld.today/blog/2015/3/9/i-really-want-stainless-steel-i-can-afford-aluminum  
-@@ Description=Apple Watch in Black DLC versus Apple Watch Sport in Space Gray. Hard decision.  
-@@ Tags=Apple, Apple Watch, John Gruber  
+Title: I Really Want Stainless Steel, I Can Afford Aluminum  
+Date: 2015-03-09 17:08  
+Link: http://www.appleworld.today/blog/2015/3/9/i-really-want-stainless-steel-i-can-afford-aluminum  
+Description: Apple Watch in Black DLC versus Apple Watch Sport in Space Gray. Hard decision.  
+Tags: Apple Watch  
+Image:  http://static1.squarespace.com/static/54c95d06e4b04d8d26f97dde/t/54fe0390e4b068b1280466c5/1425933202910/?format=750w  
 
-Steven Sande for Apple World Today: 
->What this tells us, of course, is that for a lot more people, the Apple Watch Sport may be the model that they'll go for. The price is right and they get the same functionality as the $10,000 model with a lot less pretentiousness.
+Steven Sande for Apple World Today:
+
+> What this tells us, of course, is that for a lot more people, the Apple Watch Sport may be the model that they'll go for. The price is right and they get the same functionality as the $10,000 model with a lot less pretentiousness.
 
 I couldn't *disagree* more. I think, if anything, this will push people *upmarket*---not downmarket---to the Apple Watch collection, away from the Apple Watch Sport collection. 
 
@@ -16,7 +18,7 @@ It's the [iPad effect][daringfireball]. When iPad launched in 2010, everyone tho
 The same will be true for Apple Watch collection. Gruber [thought][daringfireball 2] the Edition might fall closer to the $10,000 - $20,000 range. 
 
 <figure>
-	<img src="http://d.pr/i/1epcH+" alt="Gruber">
+	<img src="http://d.pr/i/1epcH+" alt="Gruber was right about the price" title="Gruber was right about the price">
 	<figcaption>Gruber was so right.</figcaption>
 </figure>
 
@@ -27,5 +29,5 @@ Faced with a relatively[^ta] smaller price difference, why *wouldn't* you get a 
 [^th]: That's a lot of differences and differentials.
 [^ta]: Talking $600 vs $16,000, mind you.
 
-[daringfireball]: http://daringfireball.net/2010/04/the_ipad
-[daringfireball 2]: http://daringfireball.net/2015/02/apple_watch_pricing
+[daringfireball]: http://daringfireball.net/2010/04/the_ipad "John Gruber reviews the iPad"
+[daringfireball 2]: http://daringfireball.net/2015/02/apple_watch_pricing "John Gruber's Apple Watch price predictions"

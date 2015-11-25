@@ -1,11 +1,7 @@
-@@ Title=Preliminary Thoughts: The Space Gray Apple Watch Sport Versus the Space Black Apple Watch  
-@@ Date=2015-03-10 15:00  
-@@ Description=I'm still deciding between Watch Sport and the Watch collection.  
-@@ Tags=Apple, Apple Watch, Anthony  
-
-<h2>Contents</h2>
-
-[[TOC]]
+Title: Preliminary Thoughts: The Space Gray Apple Watch Sport Versus the Space Black Apple Watch  
+Date: 2015-03-10 15:00  
+Description: I'm still deciding between Watch Sport and the Watch collection.  
+Tags: Reviews, Apple Watch  
 
 # Introduction
 
@@ -23,7 +19,7 @@ It's the second question I have more trouble with.
 ## Watch or Watch Sport?
 
 <figure>
-	<img class="screenshot" src="http://d.pr/i/1jzlL+" alt="Watch">
+	<img class="screenshot" src="http://d.pr/i/1jzlL+" alt="Apple Watch Space Black" title="Apple Watch Space Black">
 	<figcaption>For the longest time, it was going to be this.</figcaption>
 </figure>
 
@@ -36,7 +32,7 @@ The black models of anything have always been the best choice.[^re] And it's not
 As an aside, I don't remember Apple Watch in Space Black Stainless being so dang dark last September. I actually like it even more now that it's darker.[^di] Interestingly, Apple has set the Space Black version of Apple Watch  collection apart from the rest of the Apple Watch collection. In order to obtain that luscious fingerprint magnet of a case, you *have* to buy the link bracelet. And, not so interestingly, the link bracelet carries a rather hefty price bump from the fluoroelastomer of $600. Is it worth it?
 
 <figure>
-	<img class="screenshot" src="http://d.pr/i/161KY+" alt="Watch Sport">
+	<img class="screenshot" src="http://d.pr/i/161KY+" alt="Apple Watch Sport" title="Apple Watch Sport">
 	<figcaption>This looks really nice too, though.</figcaption>
 </figure>
 
@@ -53,10 +49,11 @@ Another benefit to choosing Apple Watch Sport is that the fluoroelastomer band[^
 I'll leave you with this, a conversation with a friend who knows me all too well. We were talking about which case size to get, but really, I could apply his advise to almost every Apple hardware decision I have ever made:
 
 <figure>
-	<img class="screenshot" src="http://d.pr/i/13VbL+" alt="Conversation" width="63%">
+	<img class="screenshot iphone" src="http://d.pr/i/13VbL+" alt="Conversation with John" title="Conversation with John">
 	<figcaption>Touche.</figcaption>
 </figure>
 
+<aside>
 <div class="update">
 
 ## Update: Link to Useful Mockups
@@ -64,12 +61,10 @@ I'll leave you with this, a conversation with a friend who knows me all too well
 
 Casey Liss [linked][caseyliss] to this [post][exactfitnessapps] by fitness company Exact Fitness, in which you can print out a mockup, cut it out, and 'try on' an Apple Watch in whatever size/band choice you are considering.
 
-I used something [similar][instagram] last September when there were [suddenly][thenextweb] *two* iPhone sizes to choose from.
+I used something similar last September when there were [suddenly][thenextweb] *two* iPhone sizes to choose from.
 
 <figure>
-	<a class="nohover" href="http://d.pr/i/10oi3+">
-		<img class="screenshot" src="http://d.pr/i/10oi3+" alt="Mockups" width="80%">
-	</a>
+	<img class="screenshot" src="http://d.pr/i/10oi3+" alt="Mockups" title="Mockups" width="80%">
 	<figcaption>Mockups</figcaption>
 </figure>
 
@@ -82,14 +77,13 @@ I used something [similar][instagram] last September when there were [suddenly][
 
 I found this little nugget of knowledge regarding the Apple Watch link bracelet:
 
-<figure class="iphone">
-	<a class="nohover" href="https://pbs.twimg.com/media/B__JFBzUQAEqzn9.png">
-	<img class="screenshot" src="https://pbs.twimg.com/media/B__JFBzUQAEqzn9.png" alt="Links">
-	</a>
+<figure>
+	<img class="screenshot iphone" src="https://pbs.twimg.com/media/B__JFBzUQAEqzn9.png" alt="Link Bracelet information" title="Link Bracelet information">
 	<figcaption>From <a href="http://howtospendit.ft.com/articles/77791-the-man-behind-the-apple-watch">this</a> interview with Jony Ive by Nick Foulkes</figcaption>
 </figure>
 
 </div>
+</aside>
 
 [^wh]: Where `gaudiness` and `case diameter` are directly proportional `∝`
 [^up]: Update: I found this [article][mcelhearn], which noted how the Apple Store iOS app includes actual-size [screen] previews of both cases sizes. So that helps.
@@ -99,18 +93,17 @@ I found this little nugget of knowledge regarding the Apple Watch link bracelet:
 [^rub]: "Rubber," said the [supermodel][apple 2]
 [^sou]: [Source][apple 3]
 
-[512pixels]: http://www.512pixels.net/blog/2015/2/future-classics-the-black-macbook
-[apple]: http://www.apple.com/watch/apple-watch/space-black-stainless-steel-case-space-black-link-bracelet/
-[apple 2]: https://www.apple.com/watch/christy-turlington-burns/
-[apple 3]: http://store.apple.com/Catalog/regional/amr/pdf/static/pdf/content/Watch_Sizing_Guide.pdf
-[astroawani]: http://car.astroawani.com/detail/news-grey-new-black-47911
-[caseyliss]: http://www.caseyliss.com/2015/3/11/apple-watch-paper-try-on
-[d]: http://d.pr/i/12Qgx+
-[exactfitnessapps]: http://exactfitnessapps.com/try-it-on-apple-watch-sizing-guide.html
-[instagram]: https://instagram.com/toniwonkanobi/p/syXZwJwz3Y/
-[mcelhearn]: http://www.mcelhearn.com/try-out-apple-watch-sizes-on-your-wrist/
-[relay]: http://www.relay.fm/upgrade/26
-[thenextweb]: http://thenextweb.com/apple/2014/09/09/apple-unveils-iphone-6/
-[theoveranalyzed]: /2015/3/9/apple-watch-sizing-38-mm-or-42-mm
-[twitter]: https://twitter.com/viticci/status/575014129095864320
-[urbandictionary]: http://nl.urbandictionary.com/define.php?term=BA&amp;defid=1081389
+[512pixels]: http://www.512pixels.net/blog/2015/2/future-classics-the-black-macbook "Stephen Hackett on the Black MacBook"
+[apple]: http://www.apple.com/watch/apple-watch/space-black-stainless-steel-case-space-black-link-bracelet/ "Apple's product page for the Apple Watch Space Black"
+[apple 2]: https://www.apple.com/watch/christy-turlington-burns/ "Apple's piece on Christy Turlington-Burns"
+[apple 3]: http://store.apple.com/Catalog/regional/amr/pdf/static/pdf/content/Watch_Sizing_Guide.pdf "Sizing guide for Apple Watch"
+[astroawani]: http://car.astroawani.com/detail/news-grey-new-black-47911 "'Grey is the new black'"
+[caseyliss]: http://www.caseyliss.com/2015/3/11/apple-watch-paper-try-on "Casey's mockups of Apple Watch"
+[d]: http://d.pr/i/12Qgx+ "Apple's guide to 38mm vs 42mm Watch link bracelet sizes"
+[exactfitnessapps]: http://exactfitnessapps.com/try-it-on-apple-watch-sizing-guide.html "Source of mockups Casey linked to on his site"
+[mcelhearn]: http://www.mcelhearn.com/try-out-apple-watch-sizes-on-your-wrist/ "More mockups"
+[relay]: http://www.relay.fm/upgrade/26 "Upgrade podcast episode 26"
+[thenextweb]: http://thenextweb.com/apple/2014/09/09/apple-unveils-iphone-6/ "TNW reporting on Apple unveiling the iPhones 6"
+[theoveranalyzed]: /2015/3/9/apple-watch-sizing-38-mm-or-42-mm "My post questioning whether the 42mm model was for me"
+[twitter]: https://twitter.com/viticci/status/575014129095864320 "Federico Viticci checking out the Retina MacBook"
+[urbandictionary]: http://nl.urbandictionary.com/define.php?term=BA&amp;defid=1081389 "Urban Dictionary: BA'"

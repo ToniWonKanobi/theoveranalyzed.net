@@ -1,12 +1,16 @@
-@@ Title=The New MacBook and the Old Thunderbolt Display
-@@ Date=2015-03-10 09:00  
-@@ Description=What are the external display options for prospective owners of the new MacBook? Not many.  
-@@ Tags=MacBook, displays, hardware, gear, Apple  
+Title: The New MacBook and the Old Thunderbolt Display  
+Date: 2015-03-10 09:00  
+Description: What are the external display options for prospective owners of the new MacBook? Not many.  
+Tags: Mac  
+Image: https://www.twelvesouth.com/uploads/images/pages/twelvesouth_wallpaperc1_image3.jpg  
+
+![Twelve South knows what looks good][photo]
 
 # Bye, Bye Thunderbolt
 
 Glenn Fleishman, writing for [Macworld][macworld]:
->But Thunderbolt is the really big loser in the new 12-inch MacBook: USB-C can’t support Thunderbolt devices.
+
+> But Thunderbolt is the really big loser in the new 12-inch MacBook: USB-C can’t support Thunderbolt devices.
 
 Since [Monday][apple], I have been scouring the internet, looking for a way to continue to use my [Thunderbolt Display][apple 2][^tbd] with the new [12-inch MacBook][theoveranalyzed].
 
@@ -14,13 +18,13 @@ Sadly, I am beginning to think that my efforts will end up being rather fruitles
 
 He wasn't the only one who thought as much:
 
-<blockquote lang="en"><p><a href="https://twitter.com/ToniWonKanobi">@toniwonkanobi</a> I don&#39;t think it&#39;s possible.</p>&mdash; Jason Snell (@jsnell) <a href="https://twitter.com/jsnell/status/575428012935675904">March 10, 2015</a></blockquote>
+<blockquote lang="en"><p><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@toniwonkanobi</a> I don&#39;t think it&#39;s possible.</p>&mdash; Jason Snell (@jsnell) <a href="https://twitter.com/jsnell/status/575428012935675904" title="Jason Snell responding to my question">March 10, 2015</a></blockquote>
 
 So, the tentative plan is to sell my recently-acquired Thunderbolt display, and choose a suitable replacement (one that will be compatible with the new MacBook).
 
 # Choices For A New Display
 
-## [Apple 27-inch LED Cinema Display][apple 3][^cd]		
+## 1. [Apple 27-inch LED Cinema Display][apple 2][^cd]		
 
 **$500 - 600** Believe it or not, this 5-year old monitor is the most viable option for me. It is essentially the Thunderbolt Display, but without the Thunderbolt requirement. With the new 12-inch MacBook, I would lose out on the USB 2.0 ports and MagSafe would be useless to me. But that's not really the point, is it? 
 
@@ -39,7 +43,7 @@ So, the tentative plan is to sell my recently-acquired Thunderbolt display, and 
 
 	My other option, the LG display, offers *much* more in terms of experience and utility than the Apple one. Maybe my money is better spent on an upgrade rather than a lateral move?
 			
-## [LG 34UC97-S][lg][^lg]
+## 2. [LG 34UC97-S][lg][^lg]
 
 **$1,000 - $1,200** This would be my choice if I stepped out of the Apple display sphere. Mark Jardine of Tapbots fame [loves his][twitter].
 
@@ -55,7 +59,7 @@ So, the tentative plan is to sell my recently-acquired Thunderbolt display, and 
 
 * It's big. Like, really big. I could *maybe* fit small speakers on the very peripheries of my desk, but it might look stupid.
 			
-## [Dell UltraSharp U2713HM][dell][^us]
+## 3. [Dell UltraSharp U2713HM][dell][^us]
 
 **$585** This was [The Wirecutter][thewirecutter]'s top pic for a great 27-inch monitor. Everything about this display is, on paper, great. 
 			
@@ -78,6 +82,7 @@ It will be interesting to see what, if anything, Apple does in the display space
 
 Apple <s>Thunderbolt</s> <s>USB</s> USB-C Dongle Display for 2015? I can only hope. 
 
+<aside>
 <div class="update">
 
 ## Update: No 4K for MacBook
@@ -86,13 +91,14 @@ Apple <s>Thunderbolt</s> <s>USB</s> USB-C Dongle Display for 2015? I can only ho
 Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page][applep].
 
 I was checking into things this morning, and saw this:
->The MacBook (Retina, 12-inch, Early 2015) will support these displays and rates using the USB-C Digital AV Multiport Adapter.
+
+> The MacBook (Retina, 12-inch, Early 2015) will support these displays and rates using the USB-C Digital AV Multiport Adapter.
 
 * 3840x2160 at 30 Hz refresh rate
 * 4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)
 	
-<figure class="iphone">
-	<img class="screenshot" src="http://d.pr/i/JI2b+" alt="Well.">
+<figure>
+	<img class="screenshot iphone" src="http://d.pr/i/JI2b+" alt="Well, there's your answer." title="Well, there's your answer.">
 	<figcaption>Well, there's your answer.</figcaption>
 </figure>
 
@@ -101,6 +107,7 @@ I'm not sure when that info was added, but the page was last updated yesterday.
 **So, no 4K @ 60 Hz for the new MacBook it seems.**
 
 </div>
+</aside>
 
 [^tbd]: [AnandTech][youtube] review
 [^cd]: [cnet][cnet] review
@@ -108,20 +115,20 @@ I'm not sure when that info was added, but the page was last updated yesterday.
 [^us]: [cnet][cnet 2] review
 [^md]: Remember when the CEO [told Apple investors to ask for their money back][cnet 3]?
 
-[applep]: https://support.apple.com/en-us/HT202856
-[apple]: http://www.apple.com/live/2015-mar-event/
-[apple 2]: https://www.apple.com/displays
-[apple 3]: https://www.apple.com/displays/
-[cnet]: http://www.cnet.com/products/apple-led-cinema-display-27-inch-2010/
-[cnet 2]: http://www.cnet.com/products/dell-u2713hm/
-[cnet 3]: http://news.cnet.com/Dell-Apple-should-close-shop/2100-1001_3-203937.html
-[dell]: http://www.dell.com/ed/business/p/dell-u2713hm/pd
-[digitaltrends]: http://www.digitaltrends.com/monitor-reviews/lg-34uc97-review/
-[lg]: http://www.lg.com/us/monitors/lg-34UC97-S-ultrawide-monitor
-[macworld]: http://www.macworld.com/article/2894423/thunderbolted-usb-c-is-our-new-connection-overlord-get-used-to-it.html
-[theoveranalyzed]: /2015/3/9/hands-on-with-the-new-12-inch-macbook-with-retina-display
-[thewirecutter]: http://thewirecutter.com/reviews/a-great-27-inch-lcd-monitor/
-[twelvesouth]: https://www.twelvesouth.com/product/backpack-for-imac
-[twitter]: https://twitter.com/markjardine/status/575430861077676032
-[wikipedia]: https://en.wikipedia.org/wiki/Prosumer
-[youtube]: https://www.youtube.com/watch?v=8Z7RxvkqF5I
+[applep]: https://support.apple.com/en-us/HT202856 "Apple Support Page: 'Use 4K displays and Ultra HD TVs with your Mac'"
+[apple]: http://www.apple.com/live/2015-mar-event/ "Apple's live event for March 2015"
+[apple 2]: https://www.apple.com/displays "Product page for Apple's displays"
+[cnet]: http://www.cnet.com/products/apple-led-cinema-display-27-inch-2010/ "Cnet reviewing the LED Cinema Display from 2010"
+[cnet 2]: http://www.cnet.com/products/dell-u2713hm/ "Cnet reviewing Dell's U2713 (Thunderbolt Display competitor)"
+[cnet 3]: http://news.cnet.com/Dell-Apple-should-close-shop/2100-1001_3-203937.html "Cnet covering Michael Dell's suggestion that Apple close up shop and give the money back to the shareholders"
+[dell]: http://www.dell.com/ed/business/p/dell-u2713hm/pd "Dell's product page for the U2713"
+[digitaltrends]: http://www.digitaltrends.com/monitor-reviews/lg-34uc97-review/ "Review of LG's 34UC97 (Mark Jardine's monitor)"
+[lg]: http://www.lg.com/us/monitors/lg-34UC97-S-ultrawide-monitor "LG's product page for the 34UC97"
+[macworld]: http://www.macworld.com/article/2894423/thunderbolted-usb-c-is-our-new-connection-overlord-get-used-to-it.html "Macworld: Thunderbolt gone?"
+[photo]: https://www.twelvesouth.com/uploads/images/pages/twelvesouth_wallpaperc1_image3.jpg "Twelve South knows what looks good"
+[theoveranalyzed]: /2015/3/9/hands-on-with-the-new-12-inch-macbook-with-retina-display "My link to the first hands-on with the new MacBook"
+[thewirecutter]: http://thewirecutter.com/reviews/a-great-27-inch-lcd-monitor/ "Wirecutter reviews for 27-inch monitors"
+[twelvesouth]: https://www.twelvesouth.com/product/backpack-for-imac "Twelve South's BackPack for iMac/ACD/TD"
+[twitter]: https://twitter.com/markjardine/status/575430861077676032 "Mark Jardine loves his LG monitor"
+[wikipedia]: https://en.wikipedia.org/wiki/Prosumer "Wikipedia: Prosumer"
+[youtube]: https://www.youtube.com/watch?v=8Z7RxvkqF5I "AnandTech's review of the Thunderbolt Display"

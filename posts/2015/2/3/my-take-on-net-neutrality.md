@@ -1,15 +1,14 @@
-@@ Title=My Take on Net Neutrality  
-@@ Date=2015-02-03 09:00  
-@@ Description=What's all the hubbub about? Is Net Neutrality *that* important? Well, only if you value choices and a decent internet.  
-@@ Tags=politics, Net Neutrality, industry, business  
+Title: My Take on Net Neutrality  
+Date: 2015-02-03 09:00  
+Description: What's all the hubbub about? Is Net Neutrality *that* important? Well, only if you value choices and a decent internet.  
+Tags: Net Neutrality  
+Image: http://2303ad6b2d9098b39a9c-d707f5436983e390b4cf6d08f6997555.r81.cf1.rackcdn.com/shutterstock_Net_Neutrality_(1).jpg  
+
+![Net Neutrality][nn]
 
 ## Forward
 
 The team at BackBlaze posted a short [piece][backblaze] regarding the FCC's recent [re-defining][gigaom] of broadband internet access in America. In their article they quoted [Gizmodo][gizmodo], saying that "The redefinition of broadband should increase competition between ISPs and cable companies as well as encourage the development of better infrastructure." That would be a step in the right direction, that's for sure.
-
-<h2>Contents</h2>
-
-[[TOC]]
 
 # Backstory
 
@@ -41,7 +40,8 @@ It is that second of the two topics that I would like to focus on for now.
 For the majority of my post-secondary and graduate training, I considered myself pretty conservative/libertarian when it came to fiscal issues.[^iss] I have softened considerably since then, but I still believe that **less government intervention is generally a good thing, and that the free market can self-regulate, under the right circumstances.**
 
 There are numerous examples of government intervention making things worse for consumers. Consider this case, covered by [The Oklahoman Editorial Board][newsok]:
->When recently asked to comment on the Oklahoma market, Costco's chairman simply emailed a frowny face. The company, which has 600 locations around the globe, is reluctant to open a store in Oklahoma due in part to our Byzantine liquor laws, which prevent Costco from selling wine in its stores.
+
+> When recently asked to comment on the Oklahoma market, Costco's chairman simply emailed a frowny face. The company, which has 600 locations around the globe, is reluctant to open a store in Oklahoma due in part to our Byzantine liquor laws, which prevent Costco from selling wine in its stores.
 
 That is just one seemingly insignificant example. 
 
@@ -104,24 +104,28 @@ Suffice it to say that it seems, despite the recent changes in the legislature, 
 This is shaping up to be a momentous <s>time</s> week for net neutrality advocates.
 
 T.C. Sottek with [The Verge][theverge 5]:
->After years of dithering, manipulative scheming from mega telcos, bad proposals begetting bad proposals, months of F-bombs and death threats, and partisan warfare in Congress, it appears this will be the week we’ve all been waiting for: the week we find out exactly how the FCC will propose to regulate the internet like a utility.
+
+> After years of dithering, manipulative scheming from mega telcos, bad proposals begetting bad proposals, months of F-bombs and death threats, and partisan warfare in Congress, it appears this will be the week we’ve all been waiting for: the week we find out exactly how the FCC will propose to regulate the internet like a utility.
 
 # The Next Battle
 
 *Advocating for the FCC to dumb wireless spectrum into the same classification as wired broadband*
 
 Sottek, on the prospects of the FCC reclassifying wireless as well (same article as above):
->It’s a move that’s sure to make companies like Verizon and AT&T foam at the mouth while they shove truckloads of money at lawyers and receptive lawmakers in Congress who either historically have hated the FCC or have simply found a novel way to compare something to Obamacare.
+
+> It’s a move that’s sure to make companies like Verizon and AT&T foam at the mouth while they shove truckloads of money at lawyers and receptive lawmakers in Congress who either historically have hated the FCC or have simply found a novel way to compare something to Obamacare.
 
 [Good luck][meme 2] getting that to happen with this Congress.
 
+<aside>
 <div class="update">
 
 ## Update: Victory
 <p class="updateTime"><time datetime="2015-02-04">February 4, 2015</time></p>
 
 Sottek, in a [later piece][verg] for The Verge:
->FCC Chairman Tom Wheeler revealed his plan to reclassify ISPs as common carriers under Title II of the Telcommunications Act. It's a striking victory for net neutrality advocates who have been fighting for years to solidify internet protections using Title II authority. And it's the first time the FCC has shown enough backbone to draw a line in the sand against companies like Comcast, AT&T, and Verizon, who are sure to fight viciously in courts.
+
+> FCC Chairman Tom Wheeler revealed his plan to reclassify ISPs as common carriers under Title II of the Telcommunications Act. It's a striking victory for net neutrality advocates who have been fighting for years to solidify internet protections using Title II authority. And it's the first time the FCC has shown enough backbone to draw a line in the sand against companies like Comcast, AT&T, and Verizon, who are sure to fight viciously in courts.
 
 Finally 🐺
 
@@ -133,11 +137,13 @@ Finally 🐺
 <p class="updateTime"><time datetime="2015-02-04">February 4, 2015</time></p>
 
 And Jacob Kastrenakes, also for [The Verge][vergee]:
->The FCC has enforced some net neutrality rules for wireless carriers in the past, but chairman Tom Wheeler today announced that the commission intends implement new rules that will fully enforce its principles on mobile. As with wired broadband, the rules will ban paid prioritization and the "blocking and throttling of lawful content and services."
+
+> The FCC has enforced some net neutrality rules for wireless carriers in the past, but chairman Tom Wheeler today announced that the commission intends implement new rules that will fully enforce its principles on mobile. As with wired broadband, the rules will ban paid prioritization and the "blocking and throttling of lawful content and services."
 
 This is just crazy. It's like a dream come true for net neutrality advocates. 
 
 </div>
+</aside>
 
 [^att]: Yeah, [that could really happen][usatoday]
 [^cba]: Yeah, [that really happened][cnet]. 
@@ -157,39 +163,40 @@ This is just crazy. It's like a dream come true for net neutrality advocates.
 [^to]: Social engagements are so stupid sometimes.
 [^vv]: Apple is likely the worst example for me to use here, because it probably would continue to make excellent things, even if Samsung wasn't copying everything they did and thereby forcing Apple to re-invent itself [quicker than it would like][marco] just to remain fresh
 
-[backblaze]: https://www.backblaze.com/blog/broadband-getting-broader/
-[cnet]: http://www.cnet.com/news/comcast-apologizes-after-re-naming-customer-with-expletive/
-[daringfireball]: http://daringfireball.net/linked/2015/01/30/aol
-[dnsrsearch]: http://www.dnsrsearch.com/index.php?origURL=http%3A//www.thedogelor.com/&r=
-[duckduckgo]: https://duckduckgo.com/?q=problems+with+government+regulation&ia=about
-[gigaom]: https://gigaom.com/2015/01/29/bam-the-fcc-just-defined-broadband-as-25-mbps-down-and-4-mbps-up/
-[gizmodo]: http://gizmodo.com/fcc-redefines-broadband-to-bring-you-faster-internet-1682516928
-[go]: http://abc.go.com/shows/the-bachelor/cast/host-chris-harrison
-[marco]: http://www.marco.org/2015/01/04/apple-lost-functional-high-ground
-[meme]: http://cdn.meme.am/instances/500x/58763138.jpg
-[meme 2]: http://cdn.meme.am/instances/500x/35885793.jpg
-[netflix]: http://blog.netflix.com/2015/01/the-misconception-about-internet-fast.html
-[newsok]: http://newsok.com/government-regulations-can-hurt-consumers-business/article/3709750
-[theverge]: http://www.theverge.com/2012/5/10/3011302/net-neutrality
-[theverge 2]: http://www.theverge.com/2015/1/21/7865511/heres-how-the-new-republican-congress-plans-to-undercut-net-neutrality
-[theverge 3]: http://www.theverge.com/2014/5/15/5721276/FCC-reactions-net-neutrality-ohanian-franken
-[theverge 4]: http://www.theverge.com/2014/11/10/7185933/fcc-should-reclassify-internet-as-utility-obama-says
-[theverge 5]: http://www.theverge.com/2015/2/2/7966363/net-neutrality-proposal
-[usatoday]: http://www.usatoday.com/story/tech/2014/05/08/comcast-time-warner-cable-house-hearing/8847183/
-[verg]: http://www.theverge.com/2015/2/4/7977569/its-official-the-fcc-will-seek-to-reclassify-the-internet-as-a-utility
-[vergee]: http://www.theverge.com/2015/2/4/7977633/fcc-will-apply-net-neutrality-to-mobile-for-the-first-time
-[wikipedia]: https://en.wikipedia.org/wiki/Power_rangers
-[wikipedia 10]: https://en.wikipedia.org/wiki/Jason_Lee_Scott#Power_Rangers_Zeo
-[wikipedia 11]: https://en.wikipedia.org/wiki/Capitalism#Criticism
-[wikipedia 2]: https://en.wikipedia.org/wiki/Capitalism
-[wikipedia 3]: https://en.wikipedia.org/wiki/Republican_Party_(United_States)
-[wikipedia 4]: https://en.wikipedia.org/wiki/Net_neutrality#Definition_and_related_principles
-[wikipedia 5]: https://en.wikipedia.org/wiki/Net_neutrality#Dumb_pipe
-[wikipedia 6]: https://en.wikipedia.org/wiki/Net_neutrality#Open_Internet
-[wikipedia 7]: https://en.wikipedia.org/wiki/Tommy_Oliver
-[wikipedia 8]: https://en.wikipedia.org/wiki/Jason_Lee_Scott
-[wikipedia 9]: https://en.wikipedia.org/wiki/Jason_Lee_Scott#cite_note-9
-[youtube]: http://www.youtube.com/watch?v=2yii5CY04Lc
-[youtube 2]: https://www.youtube.com/watch?v=JXF85txIlIY
-[youtube 3]: https://www.youtube.com/watch?v=fKgCgnLl8k8#t=23
-[youtube 4]: http://www.youtube.com/watch?v=AVbQo3IOC_A
+[backblaze]: https://www.backblaze.com/blog/broadband-getting-broader/ "BackBlaze on the FCC's decision to redefine 'broadband' in America"
+[cnet]: http://www.cnet.com/news/comcast-apologizes-after-re-naming-customer-with-expletive/ "Cnet on Comcast sucking"
+[daringfireball]: http://daringfireball.net/linked/2015/01/30/aol "John Gruber poking fun at the irrelevance of AOL"
+[dnsrsearch]: http://www.dnsrsearch.com/index.php?origURL=http%3A//www.thedogelor.com/&r= "DNS Search"
+[duckduckgo]: https://duckduckgo.com/?q=problems+with+government+regulation&ia=about "DuckDuckGo search for 'problems with governmental regulartion'"
+[gigaom]: https://gigaom.com/2015/01/29/bam-the-fcc-just-defined-broadband-as-25-mbps-down-and-4-mbps-up/ "GigaOM on the FCC re-defining 'broadband'"
+[gizmodo]: http://gizmodo.com/fcc-redefines-broadband-to-bring-you-faster-internet-1682516928 "Gizmodo on the FCC re-defining 'broadband'"
+[go]: http://abc.go.com/shows/the-bachelor/cast/host-chris-harrison "Chris Harrison on 'The Bachelor'"
+[marco]: http://www.marco.org/2015/01/04/apple-lost-functional-high-ground "Marco Arment's infamous post on the falling quality standards at Apple"
+[meme]: http://cdn.meme.am/instances/500x/58763138.jpg "'Do not make waves' meme"
+[meme 2]: http://cdn.meme.am/instances/500x/35885793.jpg "'Good luck' meme"
+[netflix]: http://blog.netflix.com/2015/01/the-misconception-about-internet-fast.html "Netflix: 'The Misconception About Internet Fast Lanes'"
+[nn]: http://2303ad6b2d9098b39a9c-d707f5436983e390b4cf6d08f6997555.r81.cf1.rackcdn.com/shutterstock_Net_Neutrality_(1).jpg "Net Neutrality"
+[newsok]: http://newsok.com/government-regulations-can-hurt-consumers-business/article/3709750 "An example of when governmental regulation hurts consumers"
+[theverge]: http://www.theverge.com/2012/5/10/3011302/net-neutrality "The Verge on Net Neutrality"
+[theverge 2]: http://www.theverge.com/2015/1/21/7865511/heres-how-the-new-republican-congress-plans-to-undercut-net-neutrality "The Verge on what Republicans think of Net Neutrality"
+[theverge 3]: http://www.theverge.com/2014/5/15/5721276/FCC-reactions-net-neutrality-ohanian-franken "The Verge on the FCC's reactions"
+[theverge 4]: http://www.theverge.com/2014/11/10/7185933/fcc-should-reclassify-internet-as-utility-obama-says "Another piece by The Verge on Net Neutrality"
+[theverge 5]: http://www.theverge.com/2015/2/2/7966363/net-neutrality-proposal "More on 'Net Neutrality' from The Verge"
+[usatoday]: http://www.usatoday.com/story/tech/2014/05/08/comcast-time-warner-cable-house-hearing/8847183/ "Comcast + Time Warner = Terrible"
+[verg]: http://www.theverge.com/2015/2/4/7977569/its-official-the-fcc-will-seek-to-reclassify-the-internet-as-a-utility "The Verge on the FCC's decision"
+[vergee]: http://www.theverge.com/2015/2/4/7977633/fcc-will-apply-net-neutrality-to-mobile-for-the-first-time "The Verge on FCC's decision to apply Net Neutrality to mobile for the first time"
+[wikipedia]: https://en.wikipedia.org/wiki/Power_rangers "Wikipedia: Power Rangers"
+[wikipedia 10]: https://en.wikipedia.org/wiki/Jason_Lee_Scott#Power_Rangers_Zeo "Wikipedia: Power Rangers Zeo"
+[wikipedia 11]: https://en.wikipedia.org/wiki/Capitalism#Criticism "Wikipedia: Criticism of Capitalism"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Capitalism "Wikipedia: Capitalism"
+[wikipedia 3]: https://en.wikipedia.org/wiki/Republican_Party_(United_States) "Wikipedia: Republican political party"
+[wikipedia 4]: https://en.wikipedia.org/wiki/Net_neutrality#Definition_and_related_principles "Wikipedia: Net Neutrality"
+[wikipedia 5]: https://en.wikipedia.org/wiki/Net_neutrality#Dumb_pipe "Wikipedia: Net Neutrality 'dumb pipe'"
+[wikipedia 6]: https://en.wikipedia.org/wiki/Net_neutrality#Open_Internet "Wikipedia: Net Neutrality 'open internet'"
+[wikipedia 7]: https://en.wikipedia.org/wiki/Tommy_Oliver "Wikipedia: Power Rangers' 'Tommy Oliver'"
+[wikipedia 8]: https://en.wikipedia.org/wiki/Jason_Lee_Scott "Wikipedia: Power Rangers' 'Jason Lee Scott'"
+[wikipedia 9]: https://en.wikipedia.org/wiki/Jason_Lee_Scott#cite_note-9 "Wikipedia: Power Rangers' 'Missing Men'"
+[youtube]: http://www.youtube.com/watch?v=2yii5CY04Lc "YouTube: Green Ranger vs Red Ranger!?"
+[youtube 2]: https://www.youtube.com/watch?v=JXF85txIlIY "YouTube: Drunk guy tells story and laughs like a crazy person"
+[youtube 3]: https://www.youtube.com/watch?v=fKgCgnLl8k8#t=23 "YouTube: You Know Nothing, Jon Snow"
+[youtube 4]: http://www.youtube.com/watch?v=AVbQo3IOC_A "YouTube: Fresh Prince of Bel Air theme song"

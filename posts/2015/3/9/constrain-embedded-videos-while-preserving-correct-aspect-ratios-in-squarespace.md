@@ -1,7 +1,7 @@
-@@ Title=Constrain Embedded Videos While Preserving Correct Aspect Ratios in Squarespace
-@@ Date=2015-03-09 08:00 
-@@ Description=Here's how I get YouTube videos to behave responsively in my webpages.  
-@@ Tags=Squarespace, TheOverAnalyzed, web, web design, HTML, JavaScript, jQuery  
+Title: Constrain Embedded Videos While Preserving Correct Aspect Ratios in Squarespace  
+Date: 2015-03-09 08:00  
+Description: Here's how I get YouTube videos to behave responsively in my webpages.  
+Tags: Web Design & Development, Squarespace  
 
 <!-- FitVids -->
 <!-- http://fitvidsjs.com -->
@@ -15,10 +15,6 @@
 ## TL;DR
 
 I just can't leave well enough alone. In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, constraining the proportions.
-
-<h2>Contents</h2>
-
-[[TOC]]
 
 # The Problem
 
@@ -40,7 +36,7 @@ Now, because I have set the width of my "main content" to 450px,[^on][^tr] I wou
 The problem with that is that it leads to aspect ratio weirdness like this:
 
 <figure>
-	<img src="http://d.pr/i/10yC5+" alt="Stubby">
+	<img src="http://d.pr/i/10yC5+" alt="Stubby" title="Stubby">
 	<figcaption>Stubby</figcaption>
 </figure>
 
@@ -60,8 +56,7 @@ Here's how I chose to get around the funky looking `width="100%"` 'fix:'
 		* `_your_width_here_` / *x* = 1.78
 		* Therefore, *x* = `_your_width_here_` / 1.78
 		* *x* = 253 px
-4. Modify the `height` string accordingly, using that `height` value (*x*) calculated in the previous step:  
-	`height="253"`
+4. Modify the `height` string accordingly, using that `height` value (*x*) calculated in the previous step: `height="253"`
 5. Finally, place that value in the `<iframe>` accordingly:
 
 	```
@@ -85,6 +80,7 @@ It's a nifty jQuery plugin that basically does everything I was trying to do pre
 It was easy enough:
 
 1. Download the JavaScript, `jQuery.fitvids.js`, and upload it  
+	
 	On Squarespace, all of the scripts are stored at  `/scripts/` (for those on the developer platform), or you could alternatively upload it to a random page using their somewhat wanky system
 2. Call the script (as well as jQuery) and target the videos container
 3. *Happiness*
@@ -98,14 +94,14 @@ Copier says to "Target your .container, .wrapper, .post, etc." The problem was t
 To figure out what container to target using Safari, first make sure you have turned on "Show Develop menu in menu bar" (Chrome users can do something similar).
 
 <figure>
-	<img src="http://d.pr/i/1097d+" alt="Make sure">
+	<img src="http://d.pr/i/1097d+" alt="Make sure the Develop option is checked" title="Make sure the Develop option is checked">
 	<figcaption>Make sure the Develop option is checked</figcaption>
 </figure>
 
 Then, navigate to your page and then navigate to `Develop` → `Show Page Source`.[^or]
 
 <figure>
-	<img class="screenshot" src="http://d.pr/i/1bkxh+" alt="Showing the page source">
+	<img class="screenshot" src="http://d.pr/i/1bkxh+" alt="Showing the page source" title="Showing the page source">
 	<figcaption>Showing the page source has helped me with lots of HTML/CSS problems in the past</figcaption>
 </figure>
 
@@ -114,14 +110,14 @@ For my site, I visited the `/archive/` page, which is the URL slug for my main b
 After viewing the source, make sure that "Source Code" is selected and then click "Inspect Element". This will allow you to hover over the main content area of the blog post to try and figure out what that area is called. Whatever that main area is called---*that's* what you're looking to target with the script.
 
 <figure>
-	<img src="http://d.pr/i/10stf+" alt="Looking for important stuff">
+	<img src="http://d.pr/i/10stf+" alt="Looking for important stuff title="Looking for important stuff">
 	<figcaption>Looking for the important stuff</figcaption>
 </figure>
 
 What we are looking for (at least in my template): `.main-content`
 
 <figure>
-	<img src="http://d.pr/i/1enKi+" alt="There you are">
+	<img src="http://d.pr/i/1enKi+" alt="There you are" title="There you are">
 	<figcaption>There you are, <code>.main-content</code></figcaption>
 </figure>
 
@@ -153,9 +149,7 @@ So, with that, your videos should look like this:
 
 The FitVids.js solution works on all `<iframe>` elements found on `.main-content` So, any post that contains that, such as Storify, will also have the wonderful FitVids effect applied.
 
-[^foo]: At this point, I look at every 'problem' that I fix on the site as a learning opportunity. Granted, many of the fixes I implement are not my own, but rather others.' Still, I take solace in knowing that I didn't need anyone to show me how to fix it. I searched for a solution, found it, and implemented it.
-
-	The gratification of tweaking code and having it *finally* work after many failed attempts is very real, and quite awesome. After just a couple months of web design, I can understand how programmers can go on week-long coding adventures without sleep or food. It's a surreal experience.
+[^foo]: At this point, I look at every 'problem' that I fix on the site as a learning opportunity. Granted, many of the fixes I implement are not my own, but rather others.' Still, I take solace in knowing that I didn't need anyone to show me how to fix it. I searched for a solution, found it, and implemented it. The gratification of tweaking code and having it *finally* work after many failed attempts is very real, and quite awesome. After just a couple months of web design, I can understand how programmers can go on week-long coding adventures without sleep or food. It's a surreal experience.
 [^on]: On mobile, this width is overruled with some `@media` queries for phone and tablet displays
 [^tr]: Truthfully, I am more or less targeting iPhone and iPad with my `@media` queries---because, let's face it---I could care less about other devices. Tons of web designers make a good practice of implementing 'fixes' for Internet Explorer's stupidness. Again, I could care less, so I don't. I am a terrible person.
 [^ifi]: If I were embedding HTML5 video, this wouldn't be an issue. But I don't want to embed HTML5 video for storage and page-loading reasons]
@@ -165,11 +159,11 @@ The FitVids.js solution works on all `<iframe>` elements found on `.main-content
 [^con]: `Pages` → `_your_blog_name_here_` → `Blog settings` → `Page Header Code Injection`]:
 [^ify]: If you don't do this, the size modifiers might override the script, leading to weird aspect ratios.
 
-[css-tricks]: http://css-tricks.com/
-[css-tricks 2]: https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
-[daverupert]: http://daverupert.com/
-[fitvidsjs]: http://fitvidsjs.com/
-[squarespace]: http://help.squarespace.com/guides/using-code-injection
-[squarespace 2]: http://developers.squarespace.com/
-[squarespace 3]: http://help.squarespace.com/guides/uploading-and-managing-files
-[youtube]: https://www.youtube.com/watch?v=kOh6iATnEnw
+[css-tricks]: http://css-tricks.com/ "CSS-Tricks"
+[css-tricks 2]: https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php "CSS-Tricks post on embedding fluid width video"
+[daverupert]: http://daverupert.com/ "Co-creator of FitVids.js"
+[fitvidsjs]: http://fitvidsjs.com/ "FitVids.js"
+[squarespace]: http://help.squarespace.com/guides/using-code-injection "Squarespace's help topic on using code injection"
+[squarespace 2]: http://developers.squarespace.com/ "Squarespace's Developer Platform"
+[squarespace 3]: http://help.squarespace.com/guides/uploading-and-managing-files "Squarespace help topic for uploading and managing files"
+[youtube]: https://www.youtube.com/watch?v=kOh6iATnEnw "Maroon 5 cover Pharrell's Happy in the Live Lounge"

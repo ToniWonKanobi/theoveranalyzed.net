@@ -1,14 +1,15 @@
-@@ Title=Just Hear Me Out Out for a Second: "Apple Phone"   
-@@ Date=2015-06-02 7:25  
-@@ Link=http://www.theverge.com/2015/6/2/8704891/just-hear-me-out-for-a-second-apple-phone  
-@@ Description=iGoodbye, iThings?  
-@@ Tags=Apple, culture, history, iPhone  
-@@ Image=https://cdn2.vox-cdn.com/uploads/chorus_asset/file/3748066/apple-phone.0.png  
+Title: Just Hear Me Out Out for a Second: "Apple Phone"  
+Date: 2015-06-02 7:25  
+Link: http://www.theverge.com/2015/6/2/8704891/just-hear-me-out-for-a-second-apple-phone  
+Description: iGoodbye, iThings?  
+Tags: Apple  
+Image: https://cdn2.vox-cdn.com/uploads/chorus_asset/file/3748066/apple-phone.0.png  
 
 The Verge's Chris Ziegler:
->"IPHONE" doesn't look good set in all-caps, which is how the Apple Watch's logo is styled. In fact, it looks terrible. If you kill the "i," your problem is solved.
+
+> "IPHONE" doesn't look good set in all-caps, which is how the Apple Watch's logo is styled. In fact, it looks terrible. If you kill the "i," your problem is solved.
 >
->There's no guarantee that Apple will update the phone's logo to match the Apple Watch's, of course, but it seems logical that that'd be the goal.
+> There's no guarantee that Apple will update the phone's logo to match the Apple Watch's, of course, but it seems logical that that'd be the goal.
 
  tv,  Pay,  WATCH. 
 
@@ -18,19 +19,22 @@ Apple has indeed been moving away from it's "i" prefix, [established][everysteve
 
 [From [512 Pixels][512pixels]]
 
+<aside>
 <div class="update">
 
 ## Update: Jason Snell's Commentary
 
 Jason Snell offered his own [commentary on the subject][sc]:
->It would also require a renaming of the iPad, and you’d have to ask about the iMac at that point, too.
+
+> It would also require a renaming of the iPad, and you’d have to ask about the iMac at that point, too.
 
 Unless I'm misinterpreting Snell, he is using the iPad and iMac as examples as to why dropping the "i" would be a *bad* idea, not a good one. However, I couldn't disagree more. Yes, "Apple Pad" sounds tremendously similar to [something][some] you might find on aisle 11 of your local grocery store. But "Apple Mac,"or---dare I be so bold---*just* "Macintosh" ([again][again]). That sounds glorious.
 
 </div>
+</aside>
 
-[512pixels]: http://www.512pixels.net/blog/2015/6/apple-phone
-[again]: http://www.telegraph.co.uk/technology/apple/10593083/Steve-Jobs-unveils-first-Apple-Mac.html
-[everystevejobsvideo]: http://everystevejobsvideo.com/original-imac-introduction-apple-special-event-1998/
-[sc]: http://sixcolors.com/link/2015/06/apple-phone/
-[some]: https://en.wikipedia.org/wiki/Sanitary_napkin
+[512pixels]: http://www.512pixels.net/blog/2015/6/apple-phone "Stephen Hackett's post on 'Apple Phone'"
+[again]: http://www.telegraph.co.uk/technology/apple/10593083/Steve-Jobs-unveils-first-Apple-Mac.html "Telegraph on Steve Jobs unveiling the original iPhone"
+[everystevejobsvideo]: http://everystevejobsvideo.com/original-imac-introduction-apple-special-event-1998/ "Original iMac introduction"
+[sc]: http://sixcolors.com/link/2015/06/apple-phone/ "Jason Snell's post on the subject"
+[some]: https://en.wikipedia.org/wiki/Sanitary_napkin "Wikipedia: Sanitary napkins"

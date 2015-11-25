@@ -1,22 +1,10 @@
-@@ Title=Apple TV 4: Iteration, Not Revolution  
-@@ Date=2015-11-03 14:47  
-@@ Description=I received my Apple TV 4 today. And you know what's the best thing about that? tvOS, that's what.  
-@@ Tags=Apple TV, Apple TV 4, tvOS, reviews, Apple, TV  
-@@ Image=http://d.pr/i/19jXS+  
+Title: Apple TV 4: Iteration, Not Revolution  
+Date: 2015-11-03 14:47  
+Description: I received my Apple TV 4 today. And you know what's the best thing about that? tvOS, that's what.  
+Tags: Reviews, Apple TV  
+Image: http://d.pr/i/19jXS+  
 
-<div class="topstory">
-
-[Smokey][twitter] was barking at the front door.
-
-That could only mean one thing: OnTrac must've just dropped off a package.
-
-What was that package? The new Apple TV&nbsp;4.
-
-</div>
-
-<h2>Contents</h2>
-
-[[TOC]]
+<p><em class="topStory"><a href="http://twitter.com/smokeythedingo" title="Smokey on Twitter">Smokey</a> was barking at the front door. That could only mean one thing: OnTrac must've just dropped off a package. What was that package? It was the new Apple TV&nbsp;4!</em></p>
 
 # Previously, on Apple TV
 
@@ -34,9 +22,9 @@ For the [following two generations][wikipedia], Apple TV dropped it's OS X under
 
 And that brings us to today.
 
-<figure class="wide">
-	<a class="nohover" href="https://www.apple.com/v/tv/c/images/experience/hero_large.jpg">
-		<img src="https://www.apple.com/v/tv/c/images/experience/hero_large.jpg" alt="Apple TV is neat again.">
+<figure>
+	<a class="nohover" href="https://www.apple.com/v/tv/c/images/experience/hero_large.jpg" title="No one watches TV like this">
+		<img class="wide lazy" src="https://www.apple.com/v/tv/c/images/experience/hero_large.jpg" alt="No one watches TV like this">
 	</a>
 	<figcaption>Source: Apple</figcaption>
 </figure>
@@ -83,9 +71,9 @@ And if you've been following Apple for any reasonable amount of time, this is no
 
 Iteration, not revolution.
 
-<figure class="wide">
-	<a class="nohover" href="http://d.pr/i/19jXS+">
-		<img src="http://d.pr/i/19jXS+" alt="Both remotes">
+<figure>
+	<a class="nohover" href="http://d.pr/i/19jXS+" title="Apple TV remotes">
+		<img class="wide lazy" src="http://d.pr/i/19jXS+" alt="Apple TV remotes">
 	</a>
 	<figcaption>Side by side: the old remote vs Siri Remote</figcaption>
 </figure>
@@ -100,10 +88,8 @@ Let's talk about the remote.
 
 The biggest visual change for Apple TV hardware is the new Siri Remote. It's basically the same size as the last one, except it's 30% deeper. bigger in most dimensions compared to the previous two generations' remotes. I was concerned that the trackpad would feel awkward. I was also concerned that the button layout was unintuitive.
 
-<figure class="figright">
-	<a class="nohover" href="http://d.pr/i/1eUes+">
-		<img src="http://d.pr/i/1eUes+" alt="Apple TV 2/3 remote vs Siri Remote">
-	</a>
+<figure>
+	<img class="wide lazy" src="http://d.pr/i/1eUes+" alt="Apple TV remotes, again" title="Apple TV remotes, again">
 	<figcaption>Siri Remote (Left) vs. 2nd and 3rd Generation Apple TV remote (Right)</figcaption>
 </figure>
 
@@ -144,9 +130,9 @@ The next step was to choose what apps to install. That experience is what you'd 
 
 So far, so good.
 
-<figure class="figleft">
-	<a class="nohover" href="https://www.apple.com/v/tv/c/images/experience/gesture_scrub_large.png">
-		<img src="https://www.apple.com/v/tv/c/images/experience/gesture_scrub_large.png" alt="Swiping on the Touch surface is pretty intuitive if you've used an Apple laptop before">
+<figure>
+	<a class="nohover" href="https://www.apple.com/v/tv/c/images/experience/gesture_scrub_large.png" title="Swiping on the Touch surface is pretty intuitive if you've used an Apple laptop before">
+		<img src="https://www.apple.com/v/tv/c/images/experience/gesture_scrub_large.png" alt="Swiping on the Touch surface is pretty intuitive if you've used an Apple laptop before" style="margin: auto; width: 40%;">
 	</a>
 	<figcaption>Source: Apple</figcaption>
 </figure>
@@ -164,9 +150,10 @@ But once I got past that drudgery, it was time for delight.
 Good software should delight.
 
 Here's BuzzFeed's John Paczkowski, formerly of [AllThingsD][allthingsd], calling out a mission statement that used to adorn Apple's website:
->Presented in two videos that bookended the keynote address, it was at once [a mission statement][archive] for the post-Steve Jobs era and a paean to the Apple co-founder’s vision for the company. It’s a “Think Different” campaign for the next phase of Apple’s evolution, and it speaks to Apple’s drive for perfection, Jobs’s “we just want to make great products” refrain, and his 1997 observation that “innovation is saying no to 1,000 things.”
+
+> Presented in two videos that bookended the keynote address, it was at once [a mission statement][archive] for the post-Steve Jobs era and a paean to the Apple co-founder’s vision for the company. It’s a “Think Different” campaign for the next phase of Apple’s evolution, and it speaks to Apple’s drive for perfection, Jobs’s “we just want to make great products” refrain, and his 1997 observation that “innovation is saying no to 1,000 things.”
 >
->The first thing we ask is: What do we want people to feel? Delight. Surprise. Love. Connection. Then we begin to craft around our intention. It takes time. There are a thousand no’s for every yes. We simplify. We perfect. We start over. Until everything we touch enhances each life it touches. Only then do we sign our work.
+> The first thing we ask is: What do we want people to feel? Delight. Surprise. Love. Connection. Then we begin to craft around our intention. It takes time. There are a thousand no’s for every yes. We simplify. We perfect. We start over. Until everything we touch enhances each life it touches. Only then do we sign our work.
 
 Just like everyone else, I was enamored with [Aqua][wikipedia 7] when I bought my first Apple computer in 2006.[^own] Over the years, I found myself delighting in OS X's liberal use of chrome UI, and of the not-so-subtle [Genie][appleinsider 3] Dock animations, and the drop shadows on screenshots---the list goes on. There were times that I thought---especially at the height of skeumorphism in 2012---that Apple's UI needed a refresh. And in an effort to internalize that belief, I pushed back against those delights of yore.
 
@@ -184,9 +171,9 @@ The sounds have been thoroughly redone, as well. I liked the old ones quite a bi
 
 Tap the menu button on the Siri Remote to go back one level. Gone is the sharp thud from before. It's more of a subtle dong. "Thud." "Dong." I know these terms are incredibly subjective, and may not adequately capture the new sounds. But trust me: they're great.
 
-<figure class="wide">
-	<a class="nohover" href="https://www.apple.com/v/tv/c/images/experience/interface_screensaver_large.jpg">
-		<img src="https://www.apple.com/v/tv/c/images/experience/interface_screensaver_large.jpg" alt="New screensavers for tvOS">
+<figure>
+	<a class="nohover" href="https://www.apple.com/v/tv/c/images/experience/interface_screensaver_large.jpg" title="Screensavers on tvOS are pretty awesome">
+		<img class="wide lazy" src="https://www.apple.com/v/tv/c/images/experience/interface_screensaver_large.jpg" alt="Screensavers on tvOS are pretty awesome">
 	</a>
 	<figcaption>Source: Apple</figcaption>
 </figure>
@@ -201,18 +188,17 @@ Yes, yes they are.
 
 Here's a video I captured showing one of the many [600 MB] screensavers new for tvOS:
 
-<video class="wide" src="http://d.pr/v/MTTo+" controls>
-</video>
+<video class="wide" src="http://d.pr/v/MTTo+" title="Apple TV 4 / tvOS screensaver in action" controls></video>
 
 Like many annoying hippie environmentalists, I had previously set my Apple TV to sleep after 30 minutes---what I believe was the shortest time interval I could have chosen.
 
 Having screensavers this nice makes me want to set the sleep timer to 1 hour, just so I can walk by the TV and see these awesome Aerial screensavers.
 
-### The Need for Speed
+## The Need for Speed
 
 Navigating through the menus and the overall hierarchy of the UI seems roughly 50% faster than the previous generations. I don't chalk this up to hardware alone; it seems like tvOS itself plays a part. For instance, I've noticed there is a slight delay between when I select something, and the content presenting itself onscreen. In this situation, it's almost as if tvOS is compensating for the slight delay between selections: instead of just going black, the background blurs, calling out the centered, non-blurred text stating the UI destination. The background blur only lasts for a half second or so, but for whatever reason, transitioning in this manner instead of via **black** screen seems faster.
 
-### Video Seek
+## Video Seek
 
 The video seeking demonstrations at Apple's September event were not exaggerated. Seeking on the new Apple TV 4 is vastly different from the previous generations.
 
@@ -242,10 +228,8 @@ The most recent of which is [Alto's Adventure][apple 2]. Part endless runner, an
 
 I bought the app and played for about ten minutes this evening.
 
-<figure class="wide">
-	<a href="http://d.pr/i/1gr1K+">
-		<img src ="http://d.pr/i/1gr1K+" alt="Alto's Adventure" title="Alto's Adventure screenshot">
-	</a>
+<figure>
+	<img class="wide lazy" src="http://d.pr/i/1gr1K+" alt="Alto's Adventure on tvOS" title="Alto's Adventure on tvOS">
 	<figcaption>Alto's Adventure is just as fun on tvOS as it is on iOS</figcaption>
 </figure>
 	
@@ -258,14 +242,13 @@ Awkward re-learning controls aside, there's really no substitute to playing your
 Consoles aren't going away any time soon, but Apple TV 4 / tvOS is a significant step toward console disruption.
 
 Here's Ben Thompson of Stratechery, adding some perspective on [Apple TV gaming versus console gaming][stratechery 2]:
->None of [the Apple TV 4] games are even close to being a substitute for what is on a console, and again, that market is big enough — now twice the size of Hollywood — that it will continue for quite some time. And, of course, I continue to have minimal faith in Apple investing in the sort of thriving ecosystem that supports multi-million dollar titles.
->
->That said, the ultimate battle is not for AAA-games but for attention, and the reality is that every single minute spent on a casual game on Apple TV (or an iPhone, for that matter) is a minute that is unavailable to consoles. Moreover, the existence of any games at all makes the selling proposition of consoles that much harder: they not only need to appeal to people who like to play games, they need to be demonstrably better than what people already have, or in the case of Apple TV, what they can buy for $150. Small wonder console publishers are looking elsewhere for growth.
 
-<figure class="wide">
-	<a href="http://d.pr/i/1cHdB+">
-		<img src ="http://d.pr/i/1cHdB+" alt="Siri Remote">
-	</a>
+> None of [the Apple TV 4] games are even close to being a substitute for what is on a console, and again, that market is big enough — now twice the size of Hollywood — that it will continue for quite some time. And, of course, I continue to have minimal faith in Apple investing in the sort of thriving ecosystem that supports multi-million dollar titles.
+>
+> That said, the ultimate battle is not for AAA-games but for attention, and the reality is that every single minute spent on a casual game on Apple TV (or an iPhone, for that matter) is a minute that is unavailable to consoles. Moreover, the existence of any games at all makes the selling proposition of consoles that much harder: they not only need to appeal to people who like to play games, they need to be demonstrably better than what people already have, or in the case of Apple TV, what they can buy for $150. Small wonder console publishers are looking elsewhere for growth.
+
+<figure>
+	<img  class="wide" src="http://d.pr/i/1cHdB+" alt="Siri Remote" title="Siri Remote">
 	<figcaption>I'll be using this a lot more than the old one.</figcaption>
 </figure>
 
@@ -282,13 +265,7 @@ Apple TV 4: iteration, not revolution.
 And that's fine by me.
 
 [^1pass]: Or copy and paste from 1Password 🔑
-[^asked]: I asked if a "tap to click" was planned for the future, and the app's twitter account suggested as much:
-
-	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/altosadventure">@altosadventure</a> Well, looks like I’m left with option #9 :/&#10;&#10;Also, does Apple expose an API to use a “tap to click” (jump) instead of click?</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/661349732690694144">November 3, 2015</a></blockquote>
-	
-	<br>
-	
-	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@toniwonkanobi</a> Also, yes, we&#39;re looking into updating with tap to jump :) -H</p>&mdash; Alto&#39;s Adventure (@altosadventure) <a href="https://twitter.com/altosadventure/status/661351503500861440">November 3, 2015</a></blockquote>
+[^asked]: I [asked][twitter] if a "tap to click" was planned for the future, and the app's Twitter account [suggested as much][twitter 2].
 [^behind]: Interestingly, the version of iOS powering Apple TV has consistently been a year behind whatever version powered that year's new iPhones and iPads. (Why release software updates with the newer OS's for the *hobby* device, I suppose.)
 [^imagine]: Imagine all the different hardware vendors they had to test against!
 [^onebig]: After all, Apple is just *now* putting the finishing touches on Jony Ive's vision with iOS 9. Iteration, and more iteration. That's Apple's way.
@@ -299,32 +276,33 @@ And that's fine by me.
 [^what]: [What if that really happened?][sb]
 [^why]: There are a lot of niceties I often forget. Random hardware example: why is the anodized metal on the iPhone so nice to the touch? Random software example: Why is the SpringBoard UI leaps and bounds better than what Marshmallow has to offer? 
 
-[allthingsd]: http://allthingsd.com/20130611/apples-declaration-of-values-simplify-perfect-delight/
-[apple]: https://itunes.apple.com/us/app/remote/id284417350?mt=8
-[apple 2]: https://itunes.apple.com/us/app/altos-adventure/id950812012?mt=8&at=1l3vx9s
-[apple 3]: https://itunes.apple.com/us/app/monument-valley/id728293409?mt=8&at=1l3vx9s
-[appleinsider]: http://appleinsider.com/topic/Gene+Munster
-[appleinsider 2]: http://appleinsider.com/articles/15/05/19/piper-jaffray-abandons-hope-for-full-fledged-apple-television-remains-bullish-on-aapl-stock
-[appleinsider 3]: http://appleinsider.com/articles/04/10/06/apple_receives_patent_for_genie_dock_effect
-[archive]: https://web.archive.org/web/20130611205710/http://www.apple.com/designed-by-apple/
-[arstechnica]: http://arstechnica.com/apple/2014/09/ios-8-and-the-apple-tv-flattening-the-living-room/
-[atp]: http://atp.fm/episodes/135
-[businessinsider]: http://www.businessinsider.com/new-apple-tv-fall-of-2015-says-gene-munster-2015-2?op=1
-[facebook]: https://www.facebook.com/photo.php?fbid=3691983469524&set=a.3691979069414.2131226.1573381671&type=3&theater
-[macworld]: http://www.macworld.com/article/2042808/inside-the-technology-behind-ios-7s-parallax-effect.html
-[mashable]: http://mashable.com/2014/04/24/apple-tv-hobby/#5DgU48SI98qM
-[mgs2]: https://en.wikipedia.org/wiki/Metal_Gear_Solid_2%3A_Sons_of_Liberty
-[relay]: http://www.relay.fm/upgrade/61
-[sb]: http://www.city-data.com/crime/crime-San-Bernardino-California.html
-[stratechery]: https://stratechery.com/2015/stop-doubting-the-iphone-the-macintosh-company-2/
-[stratechery 2]: https://stratechery.com/2015/activision-blizzard-buys-king-digital-ea-and-the-disruption-narrative-apple-tv-gaming/
-[theoveranalyzed]: /2015/9/9/thoughts-on-apples-september-event
-[time]: http://time.com/3713134/millennials-tv-cord-cutting-cable/
-[twitter]: http://twitter.com/smokeythedingo
-[wikipedia]: https://en.wikipedia.org/wiki/Apple_TV#2nd_and_3rd_generation
-[wikipedia 2]: https://en.wikipedia.org/wiki/Apple_TV#1st_generation
-[wikipedia 3]: https://en.wikipedia.org/wiki/Cord-cutting
-[wikipedia 4]: https://en.wikipedia.org/wiki/IPhone_(first_generation)
-[wikipedia 5]: https://en.wikipedia.org/wiki/IMac_G3
-[wikipedia 6]: https://en.wikipedia.org/wiki/Macintosh_128K
-[wikipedia 7]: https://en.wikipedia.org/wiki/Aqua_%28user_interface%29
+[allthingsd]: http://allthingsd.com/20130611/apples-declaration-of-values-simplify-perfect-delight/ "AllThingsD piece extolling Apple's values"
+[apple]: https://itunes.apple.com/us/app/remote/id284417350?mt=8 "Remote.app on the App Store"
+[apple 2]: https://itunes.apple.com/us/app/altos-adventure/id950812012?mt=8&at=1l3vx9s "Alto's Adventure on the App Store"
+[apple 3]: https://itunes.apple.com/us/app/monument-valley/id728293409?mt=8&at=1l3vx9s "Monument Valley on the App Store"
+[appleinsider]: http://appleinsider.com/topic/Gene+Munster "Gene Munster on AppleInsider" 
+[appleinsider 2]: http://appleinsider.com/articles/15/05/19/piper-jaffray-abandons-hope-for-full-fledged-apple-television-remains-bullish-on-aapl-stock "Gene Munster abandoning hope for an Apple TV set"
+[appleinsider 3]: http://appleinsider.com/articles/04/10/06/apple_receives_patent_for_genie_dock_effect "OS X's 'Genie' Dock animation"
+[archive]: https://web.archive.org/web/20130611205710/http://www.apple.com/designed-by-apple/ "Archived page from Apple.com: 'Designed by Apple'"
+[arstechnica]: http://arstechnica.com/apple/2014/09/ios-8-and-the-apple-tv-flattening-the-living-room/ "iOS 8 and the changes to the Apple TV UI"
+[atp]: http://atp.fm/episodes/135 "Accidental Tech Podcast, Episode 135"
+[businessinsider]: http://www.businessinsider.com/new-apple-tv-fall-of-2015-says-gene-munster-2015-2 "Gene Munster talking about Apple TV"
+[facebook]: https://www.facebook.com/photo.php?fbid=3691983469524&l=c632afacf4 "My first photo shared to Facebook via an iOS device"
+[macworld]: http://www.macworld.com/article/2042808/inside-the-technology-behind-ios-7s-parallax-effect.html "iOS 7 'parallax' explained"
+[mashable]: http://mashable.com/2014/04/24/apple-tv-hobby/#5DgU48SI98qM "Apple TV as a hobby"
+[mgs2]: https://en.wikipedia.org/wiki/Metal_Gear_Solid_2%3A_Sons_of_Liberty "Wikipedia: Metal Gear Solid 2"
+[relay]: http://www.relay.fm/upgrade/61 "Upgrade, Episode 61"
+[sb]: http://www.city-data.com/crime/crime-San-Bernardino-California.html "San Bernardino is the best. (It's really not.)"
+[stratechery]: https://stratechery.com/2015/stop-doubting-the-iphone-the-macintosh-company-2/ "Ben Thompson, unapologetic Apple bear"
+[stratechery 2]: https://stratechery.com/2015/activision-blizzard-buys-king-digital-ea-and-the-disruption-narrative-apple-tv-gaming/ "Ben Thompson, on Apple TV as a contender in the 'console' gaming market"
+[theoveranalyzed]: /2015/9/9/thoughts-on-apples-september-event "My take on Apple's September event of 2015"
+[time]: http://time.com/3713134/millennials-tv-cord-cutting-cable/ "Time piece on cord-cutting"
+[twitter]: https://twitter.com/ToniWonKanobi/status/661349732690694144 "Asking about a tap to click API"
+[twitter 2]: https://twitter.com/altosadventure/status/661351503500861440 "A response from Snowman"
+[wikipedia]: https://en.wikipedia.org/wiki/Apple_TV#2nd_and_3rd_generation "Wikipedia: Apple TV, 3rd Generation"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Apple_TV#1st_generation "Wikipedia: Apple TV, 1st Generation"
+[wikipedia 3]: https://en.wikipedia.org/wiki/Cord-cutting "Wikipedia: Cord-cutting"
+[wikipedia 4]: https://en.wikipedia.org/wiki/IPhone_(first_generation) "Wikipedia: The Original iPhone"
+[wikipedia 5]: https://en.wikipedia.org/wiki/IMac_G3 "Wikipedia: iMac G3"
+[wikipedia 6]: https://en.wikipedia.org/wiki/Macintosh_128K "Wikipedia: The Original Macintosh"
+[wikipedia 7]: https://en.wikipedia.org/wiki/Aqua_%28user_interface%29 "Wikipedia: Aqua in OS X"

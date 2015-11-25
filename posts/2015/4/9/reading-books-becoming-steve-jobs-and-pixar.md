@@ -1,13 +1,10 @@
-@@ Title=Reading Books, Becoming Steve Jobs, and Pixar  
-@@ Date=2015-04-09 10:00  
-@@ Description=I got through about a third of the Steve Jobs book. This is about that, as well as Steve Jobs in general.  
-@@ Tags=Steve Jobs, Apple, Pixar, books  
+Title: Reading Books, Becoming Steve Jobs, and Pixar  
+Date: 2015-04-09 10:00  
+Description: I got through about a third of the Steve Jobs book. This is about that, as well as Steve Jobs in general.  
+Tags: Steve Jobs  
+Image: http://d.pr/i/561i+  
 
-[Devour][devour] recently featured a [supercut][urbandictionary] of [Pixar][wikipedia] films called "[The Best of Pixar][youtube]."
- 
-Watching this reminded me of a passage in a book I have been reading recently.
-
-But before I talk about that, I should give some backstory.
+[Devour][devour] recently featured a [supercut][urbandictionary] of [Pixar][wikipedia] films called "[The Best of Pixar][youtube]." Watching this reminded me of a passage in a book I have been reading recently. But before I talk about that, I should give some backstory.
 
 # Reading Books
 
@@ -21,11 +18,7 @@ So when family members or friends have gifted me books, my emotions have been a 
 
 I have even gone so far as to specifically ask for books as gifts, in the hopes that my fear of disappointing the gifter might actually motivate me to do some good old fashioned book reading. Alas, no. The guilt is there, but the books remain on the shelf, staring me down on a daily basis. 
 
-<div class="takehomeRight">
-
-Will I finish this before I see them next, less they think me ungrateful?
-
-</div>
+<p><em class="takeHome">Will I finish this before I see them next, less they think me ungrateful?</em></p>
 
 Thankfully, the new biography "[Becoming Steve Jobs][amazon]" by Brent Schlender and Rick Tetzeli might just be the motivation I need.
 
@@ -33,8 +26,8 @@ When I need to pass the time, my go-to apps are what they have been for years: I
 
 Historically, when I've gone through my whole [Instapaper][instapaper] queue, I might launch an indie game and truly veg-out. Or if I have an article saved to Instapaper that I want to write about, I might do that instead.
 
-<figure class="iphone">
-	<img class="screenshot" src="http://d.pr/i/1hDH9+" alt="Games">
+<figure>
+	<img class="screenshot iphone" src="http://d.pr/i/1hDH9+" alt="Games on my iPhone" title="Games on my iPhone">
 	<figcaption>Games are a wonderful time waster.</figcaption>
 </figure>
 
@@ -61,11 +54,12 @@ Now we come back to Pixar. In the chapter "A Side Bet," the authors discuss the 
 But before Pixar was Pixar, Jobs and some of Pixar's own had doubts about the company's sustainability. In the late 80's, Pixar wasn't making any serious amount of money. John Lasseter, the animator/designer whose storytelling abilities are unmatched even today, thought back then that Jobs might decide to cut the animation team at Pixar, in order to save money. 
 
 According to Schlender, Lasseter was worried, to say the least:[^be]
->“And I thought for sure that they’d get rid of Animation. At one point they were contemplating a layoff in Hardware, I think, and there were lots of complaints like, ‘What about Animation? They don’t do anything to bring in the money.’ So I asked the head of Software, a guy named Mickey Mantle, like the baseball player, ‘When’s the shoe gonna drop, really? When will they just close Animation?’ And he said, ‘John, they never will.’
-> 
->“ ‘What do you mean?’ I asked him,” continues Lasseter. “And Mickey said, ‘Computer hardware and software companies, they go through layoffs and it’s business. It’s the ups and downs of the business. But when people think of Pixar, it’s not our computers or our software. They think of those little short films you’ve made. That’s the identity of Pixar to the rest of the world. So if Pixar were to stop making those films and lay everybody off in Animation, that would signal to the entire world that Pixar is done. That,’ he said, ‘is why they’re not gonna close Animation.’ ”
 
-Even then, before the [Tin Toy (1989)][wikipedia 2] and the [Oscar][youtube 2], Pixar *was* animation. Today, nothing's changed. Pixar is still about the stories through brilliant animation. If you haven't watched anything from Pixar, start with [Toy Story (1995)][wikipedia 3], and then just go through them all, up until today. I really like [Cars (2006)][wikipedia 4]), though I can admit that it probably wasn't, cinematically-speaking, the best Pixar film ever.[^all]
+> “And I thought for sure that they’d get rid of Animation. At one point they were contemplating a layoff in Hardware, I think, and there were lots of complaints like, ‘What about Animation? They don’t do anything to bring in the money.’ So I asked the head of Software, a guy named Mickey Mantle, like the baseball player, ‘When’s the shoe gonna drop, really? When will they just close Animation?’ And he said, ‘John, they never will.’
+> 
+> “ ‘What do you mean?’ I asked him,” continues Lasseter. “And Mickey said, ‘Computer hardware and software companies, they go through layoffs and it’s business. It’s the ups and downs of the business. But when people think of Pixar, it’s not our computers or our software. They think of those little short films you’ve made. That’s the identity of Pixar to the rest of the world. So if Pixar were to stop making those films and lay everybody off in Animation, that would signal to the entire world that Pixar is done. That,’ he said, ‘is why they’re not gonna close Animation.’ ”
+
+Even then, before the [Tin Toy (1989)][wikipedia 2] and the [Oscar][youtube 2], Pixar *was* animation. Today, nothing's changed. Pixar is still about the stories through brilliant animation. If you haven't watched anything from Pixar, start with [Toy Story (1995)][wikipedia 3], and then just go through them all, up until today. I really like [Cars (2006)][wikipedia 4], though I can admit that it probably wasn't, cinematically-speaking, the best Pixar film ever.[^all]
 
 ***
 
@@ -77,21 +71,21 @@ Becoming Steve Jobs is an exploration into the parts of Steve Jobs' life that Ap
 [^be]: Becoming Steve Jobs, p.327
 [^all]: Allison and I like it for sentimental reasons, which can be a powerful motivator when it comes to watching so-so movies.
 
-[amazon]: http://www.amazon.com/dp/0385347405/?tag=theov0c-20
-[amazon 2]: http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/ref=la_B000APFLB8_1_2?tag=theov0c-20
-[apple]: https://itunes.apple.com/us/app/tweetbot-3-for-twitter-iphone/id722294701?mt=8&at=1l3vx9s
-[apple 2]: https://itunes.apple.com/us/app/reeder-2/id697846300?mt=8&at=1l3vx9s
-[apple 3]: https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&at=1l3vx9s
-[devour]: http://devour.com/video/best-of-pixar/
-[instapaper]: https://www.instapaper.com/p/toniwonkanobi
-[macworld]: http://www.macworld.com/article/2900540/apple-gives-stamp-of-approval-to-new-steve-jobs-biography.html
-[overca]: http://overca.st/DeCkrTEVE?t=953
-[typographica]: http://typographica.org/typeface-reviews/ideal-sans/
-[urbandictionary]: http://www.urbandictionary.com/define.php?term=supercut&defid=6174084
-[wikipedia]: https://en.wikipedia.org/wiki/Pixar
-[wikipedia 2]: https://en.wikipedia.org/wiki/Tin_Toy
-[wikipedia 3]: https://en.wikipedia.org/wiki/Toy_Story
-[wikipedia 4]: https://en.wikipedia.org/wiki/Cars_(film)
-[wordnik]: http://www.wordnik.com/words/completionist
-[youtube]: https://www.youtube.com/embed/QAF8QAw6R58
-[youtube 2]: http://www.youtube.com/watch?v=lph0JuWv_ko
+[amazon]: http://www.amazon.com/dp/0385347405/?tag=theov0c-20 "'Becoming Steve Jobs' on Amazon"
+[amazon 2]: http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/ref=la_B000APFLB8_1_2?tag=theov0c-20 "'Steve Jobs' by Walter Isaacson, on Amazon"
+[apple]: https://itunes.apple.com/us/app/tweetbot-3-for-twitter-iphone/id722294701?mt=8&at=1l3vx9s "Tweetbot 3 on the App Store"
+[apple 2]: https://itunes.apple.com/us/app/reeder-2/id697846300?mt=8&at=1l3vx9s "Reeder 2 on the App Store"
+[apple 3]: https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&at=1l3vx9s "Instapaper on the App Store"
+[devour]: http://devour.com/video/best-of-pixar/ "The Best of Pixar"
+[instapaper]: https://www.instapaper.com/p/toniwonkanobi "Me on Instapaper"
+[macworld]: http://www.macworld.com/article/2900540/apple-gives-stamp-of-approval-to-new-steve-jobs-biography.html "'Becoming Steve Jobs' unofficially approved by Apple executives"
+[overca]: http://overca.st/DeCkrTEVE?t=953 "Jason Snell and John Siracusa on 'Becoming Steve Jobs'"
+[typographica]: http://typographica.org/typeface-reviews/ideal-sans/ "Ideal Sans on Typographica"
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=supercut&defid=6174084 "Urban Dictionary: 'supercut'"
+[wikipedia]: https://en.wikipedia.org/wiki/Pixar "Wikipedia: Pixar"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Tin_Toy "Wikipedia: 'Tin Toy'"
+[wikipedia 3]: https://en.wikipedia.org/wiki/Toy_Story "Wikipedia: 'Toy Story'"
+[wikipedia 4]: https://en.wikipedia.org/wiki/Cars_(film) "Wikipedia: 'Cars'"
+[wordnik]: http://www.wordnik.com/words/completionist "What's a completionist?"
+[youtube]: https://www.youtube.com/embed/QAF8QAw6R58 "'Best of Pixar Animation'"
+[youtube 2]: http://www.youtube.com/watch?v=lph0JuWv_ko "John Lasseter on winning an Oscar for 'Tin Toy'"

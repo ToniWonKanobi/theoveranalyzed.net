@@ -1,27 +1,13 @@
-@@ Title=About  
-@@ HideHeader=true  
+Title: About  
+Description: Info about me and TheOverAnalyzed  
 
-<style>
-	figure.iphone img { margin-top: 3em }
-	figure.iphone img { 
-		opacity: 0.2;
-		-webkit-filter: grayscale(1);
-		transition: all 0.2s ease-in-out
-	}
-	
-	.entry:hover figure.iphone img { 
-		opacity: 1;
-		-webkit-filter: grayscale(0)
-	}
-</style>
-
-<h1 id="info">About The Site</h1>
+![Allison and I][d]
 
 Hi. I'm [Anthony][ant].
 
-TheOverAnalyzed is about [Apple][theoveranalyzed] and technology in general, as well as [automobilia][theoveranalyzed 2], [design][theoveranalyzed 3], and [pop culture][theoveranalyzed 4].
+TheOverAnalyzed is a website about technology, design, and pop culture.
 
-<h1 id="howthiscametobe">How This Came To Be</h1>
+## How This Came to Be
 
 After months of hearing on my favorite [podcast][atp] various advertisements for [Squarespace][ss], I took the plunge and started my own blog in [early 2014][ear]: TheOverAnalyzed. I had no formal web development or design background, but I am a quick learner and a pretty well-rounded nerd. Blogging seemed like an outlet as well as a way to learn some new things.
 
@@ -29,26 +15,20 @@ Consequently, Versions 1 through [2.5][instagram] of the site were built on the 
 
 I eventually found that even on Squarespace's Developer Platform, not *everything* was open for tweaking. Ultimately, too many simple tasks were made difficult using Squarespace, and too *few* difficult tasks were made simple using Squarespace. I knew I wanted something better, but wasn't sure I had the skills to leave a CMS and take on a self-hosted website.
 
-In early 2015, I caught wind of Casey Liss's blogging engine, Camel, which he open-sourced [months earlier][caseyliss]. With the option for an [alternate][rssa] RSS feed (linked posts point back to TheOverAnalyzed) and the openness of a completely customizable platform, I knew that was the direction I would eventually head. I procrastinated for a month before finally starting work on Version 3.0 of the site. Head over to [/nerd][nerd] for more technical information about the site.
+In early 2015, I caught wind of Casey Liss's blogging engine, Camel, which he open-sourced [months earlier][caseyliss]. With the option for an [alternate][rssa] RSS feed (linked posts point back to TheOverAnalyzed) and the openness of a completely customizable platform, I knew that was the direction I would eventually head. I procrastinated for a month before finally starting work on Version 3.0 of the site. Head over to [/useful-urls][useful] for useful URL slugs, or [/colophon][colophon] for more information about the site.
 
 Thanks for stopping by.
-	
-<figure class="iphone">
-	<img src="http://d.pr/i/1d53F+" alt="❤️">
-</figure>
 
-[ant]: http://www.twitter.com/toniwonkanobi
-[atp]: http://atp.fm
-[caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced
-[ear]: https://twitter.com/TheOverAnalyzed/status/430233457029947392
-[hacks]: /tags/Squarespace
-[instagram]: https://instagram.com/p/2oFqCowLyD/?taken-by=theoveranalyzed
-[nerd]: /nerd
-[ss]: http://www.squarespace.com
-[toa]: /tags/TheOverAnalyzed
-[rssa]: /rss-alternate
-[theoveranalyzed]: /tags/Apple
-[theoveranalyzed 2]: /tags/cars
-[theoveranalyzed 3]: /tags/design
-[theoveranalyzed 4]: /tags/pop%20culture
-[twitter]: https://twitter.com/caseyliss/status/601133285356531712
+[ant]: http://www.twitter.com/toniwonkanobi "Me on Twitter"
+[atp]: http://atp.fm "The Accidental Tech Podcast---the best podcast ever"
+[caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced "Casey Liss on making Camel open-sourced"
+[colophon]: /colophon "Information about the site"
+[d]: http://d.pr/i/1d53F+ "Allison and I"
+[ear]: https://twitter.com/TheOverAnalyzed/status/430233457029947392 "First post ever ❤️"
+[hacks]: /tags/Squarespace "Posts tagged 'Squarespace'"
+[instagram]: https://instagram.com/p/2oFqCowLyD/?taken-by=theoveranalyzed "Instagram picture of my site in a transition period before finalizing Camel"
+[ss]: http://www.squarespace.com "Likely the best stating point for aspiring bloggers"
+[toa]: /tags/meta "Posts about the inner workings of TheOverAnalyzed"
+[rssa]: /rss-alternate "The alternate feed for TheOverAnalyzed, for which linked posts point back to TheOverAnalyzed instead of the external site"
+[twitter]: https://twitter.com/caseyliss/status/601133285356531712 "Casey on being a developer"
+[useful]: /useful-urls "Useful URLs to help navigating this site"

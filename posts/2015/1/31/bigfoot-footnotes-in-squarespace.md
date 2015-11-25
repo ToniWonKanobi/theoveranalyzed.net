@@ -1,19 +1,15 @@
-@@ Title=Bigfoot Footnotes in Squarespace  
-@@ Date=2015-01-31 08:00  
-@@ Description=A big milestone in my blogging development: footnotes are live on TheOverAnalyzed!  
-@@ Tags=blogging, Squarespace, TheOverAnalyzed, Bigfoot.js, footnotes  
+Title: Bigfoot Footnotes in Squarespace  
+Date: 2015-01-31 08:00  
+Description: A big milestone in my blogging development: footnotes are live on TheOverAnalyzed!  
+Tags: Best Of, Squarespace  
 
 ## TL;DR
 
 Exactly 20 days ago, [I publicly committed myself][twitter] to integrating [fancy footnotes][bigfootjs] into my blog (as seen on [Marco.org][marco] and [Six Colors][sixcolors]). And guess what? I've done it!
 
-<h2>Contents</h2>
-
-[[TOC]]
-
 # Backstory
 
-Ever since I started following [prominent Apple bloggers][daringfireball] a few years ago, the concept of footnotes really grew on me subconsciously. [^sc]
+Ever since I started following [prominent Apple bloggers][daringfireball] a few years ago, the concept of footnotes really grew on me subconsciously.[^sc]
 
 I'm sure by now you have concluded that I can talk incessantly and often go off on long tangents. I think that is just how my brain works. Occasionally, whilst conversing with people, I often step outside myself and say/think, "Am I really still talking right now? Is this person *not* yet burned out?"[^bo]
 
@@ -21,7 +17,7 @@ And so it would not surprise you that, in my writing, I find myself often having
 
 # Searching
 
-I searched high and low and came up on a [post][marco 2] by Marco, in which he plugged a project by Chris Sauvé[^csa] of [lemondesign.com][lemondesign][^ld] called [bigfoot.js][bigfootjs]. I read through that and then did a few [DuckDuckGo][duckduckgo] searches. I found this [post][recklessunicorn][^bfs] on [Reckless Unicorn][recklessunicorn 2], and after **much** trial and error[^te], I finally got them working. 
+I searched high and low and came up on a [post][marco 2] by Marco, in which he plugged a project by Chris Sauvé[^csa] of [lemondesign.com][lemondesign][^ld] called [bigfoot.js][bigfootjs]. I read through that and then did a few [DuckDuckGo][duckduckgo] searches. I found this [post][recklessunicorn][^bfs] on Reckless Unicorn, and after **much** trial and error[^te], I finally got them working. 
 
 Note my liberal use of [fancy schmancy][urbandictionary] footnotes in this post? Yay Bigfoot.js.[^pu]
 
@@ -81,25 +77,22 @@ So, for completeness, this is what my `Header` in the `Code Injection` field loo
 [^pu]: I have been wanting to do this for longer than just 20 days ago, so this is like months of pent up 'wanting to footnote' feelings.
 [^sc]: Oh, authors can write, but put in all those 'asides,' without consciously distracting from the whole of the text? Nice.
 [^te]: [Squarespace][ss] is a wonderful CMS, and makes things really easy for novice bloggers. But Squarespace also makes things incredibly difficult for bloggers who want to step outside of the 'normal' and typical way of doing things (e.g., footnotes). 
-[^tp]: I suppose I can't blame them. Me asking quite rudimentary questions about jQuery implementation in what is, to them, a random blog engine (Squarespace) is probably just as confounded as someone asking me which fingers they should use to fret a power cord. 
+[^tp]: I suppose I can't blame them. Me asking quite rudimentary questions about jQuery implementation in what is, to them, a random blog engine (Squarespace) is probably just as confounded as someone asking me which fingers they should use to fret a power cord. Still, it felt terrible to not have closure on this issue.
 
-	Still, it felt terrible to not have closure on this issue.
-	
-[bigfootjs]: http://www.bigfootjs.com
-[crateofpenguins]: http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites
-[daringfireball]: http://www.daringfireball.net
-[duckduckgo]: https://duckduckgo.com/?q=bigfootjs&t=osx
-[github]: https://github.com/lemonmade
-[lemondesign]: http://www.lemondesign.com
-[marco]: http://www.marco.org/
-[marco 2]: http://www.marco.org/2013/12/15/bigfoot
-[recklessunicorn]: http://recklessunicorn.net/blog/2014/2/11/how-to-use-bigfoot-on-squarespace
-[recklessunicorn 2]: http://recklessunicorn.net/
-[recklessunicorn 3]: http://recklessunicorn.net/blog/2014/2/11/how-to-use-bigfoot-on-squarespacecra
-[sixcolors]: http://www.sixcolors.com
-[ss]: http://www.sqarespace.com
-[thepunctuationguide]: http://www.thepunctuationguide.com/em-dash.html
-[twitter]: https://twitter.com/TheOverAnalyzed/status/553716002999898112
-[twitter 2]: https://twitter.com/jsnell/status/560581646248722433
-[urbandictionary]: http://www.urbandictionary.com/define.php?term=Fancy+Schmancy
-[wordpress]: https://strainindex.wordpress.com/2008/07/28/the-average-sentence-length/
+[bigfootjs]: http://www.bigfootjs.com "Bigfoot footnotes"
+[crateofpenguins]: http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites "This page helped me figure out Bigfoot footnotes"
+[daringfireball]: http://www.daringfireball.net "John Gruber's blog, Daring Fireball"
+[duckduckgo]: https://duckduckgo.com/?q=bigfootjs&t=osx "DuckDuckGo search for Bigfoot footnotes"
+[github]: https://github.com/lemonmade "GitHub page for creator of Bigfoot.js"
+[lemondesign]: http://www.lemondesign.com "Creator of Bigfoot.js"
+[marco]: http://www.marco.org/ "Marco Arment's blog, Marco.org"
+[marco 2]: http://www.marco.org/2013/12/15/bigfoot "Marco Arment's post on how he incorporated Bigfoot footnotes"
+[recklessunicorn]: http://recklessunicorn.net/blog/2014/2/11/how-to-use-bigfoot-on-squarespace "More help with Bigfoot footnotes"
+[recklessunicorn 3]: http://recklessunicorn.net/blog/2014/2/11/how-to-use-bigfoot-on-squarespace "How-to: Use Bigfoot on Squarespace"
+[sixcolors]: http://www.sixcolors.com "Jason Snell's blog, Six Colors"
+[ss]: http://www.sqarespace.com "Squarespace"
+[thepunctuationguide]: http://www.thepunctuationguide.com/em-dash.html "Em dash"
+[twitter]: https://twitter.com/TheOverAnalyzed/status/553716002999898112 "Tweet announcing Bigfoot on TheOverAnalyzed"
+[twitter 2]: https://twitter.com/jsnell/status/560581646248722433 "Jason Snell responding to John Siracusa re: Bigfoot footnotes"
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=Fancy+Schmancy "Urban Dictionary: 'Fancy schmancy'"
+[wordpress]: https://strainindex.wordpress.com/2008/07/28/the-average-sentence-length/ "'The average sentence length'"

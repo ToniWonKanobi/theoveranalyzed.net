@@ -1,7 +1,13 @@
-@@ Title=Net Neutrality and Tradeoffs  
-@@ Date=2015-03-03 08:00  
-@@ Description=Net Neutrality is important. But there are tradeoffs.  
-@@ Tags=Net Neutrality, Exponent, podcasts, politics, industry, Ben Thompson  
+Title: Net Neutrality and Tradeoffs  
+Date: 2015-03-03 08:00  
+Description: Net Neutrality is important. But there are tradeoffs.  
+Tags: Net Neutrality  
+Image: http://www.wired.com/wp-content/uploads/blogs/opinion/wp-content/uploads/2014/01/net-neutrality-op.jpg  
+
+<figure>
+	<img src="http://www.wired.com/wp-content/uploads/blogs/opinion/wp-content/uploads/2014/01/net-neutrality-op.jpg" alt="Net Neutrality" title="Net Neutrality">
+	<figcaption>[Source: <a href="http://www.wired.com/wp-content/uploads/blogs/opinion/wp-content/uploads/2014/01/net-neutrality-op.jpg" title="Source of photo">Wired</a>]</figcaption>
+</figure>
 
 <!-- FitVids -->
 <!-- http://fitvidsjs.com -->
@@ -16,7 +22,7 @@ On the way to work yesterday, I listened to the [latest episode][exponent] of Ex
 
 Their focus was Net Neutrality. And while both Ben and James are ardent supporters of regulation in this regard, Ben brought up an important rebuttal to the typical 'tech-focused' Net Neutrality argument.[^nna]
 
-<blockquote lang="en"><p><a href="https://twitter.com/marcoarment">@marcoarment</a> Soooo does <a href="https://twitter.com/OvercastFM">@OvercastFM</a> have support for native <a href="https://twitter.com/twitter">@twitter</a> cards yet? I tried copying a link but no dice :/ <a href="http://t.co/1WPZqYqq3I">http://t.co/1WPZqYqq3I</a></p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/572771760392675328">March 3, 2015</a></blockquote>
+<blockquote lang="en"><p><a href="https://twitter.com/marcoarment" title="Marco Arment on Twitter">@marcoarment</a> Soooo does <a href="https://twitter.com/OvercastFM" title="Overcast account on Twitter">@OvercastFM</a> have support for native <a href="https://twitter.com/twitter" title="Official Twitter account on Twitter">@twitter</a> cards yet? I tried copying a link but no dice :/ <a href="http://t.co/1WPZqYqq3I" title="Me asking Marco a question about Ovecast cards">http://t.co/1WPZqYqq3I</a></p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/572771760392675328" title="Original post to Marco Arment">March 3, 2015</a></blockquote>
 
 In a nutshell, Ben argues that instead of blindly supporting Net Neutrality, which cannot be 100% good, we might do better to fully acknowledge and come to terms with the ramifications of our desire to regulate the internet.
 
@@ -36,20 +42,22 @@ Here's Nilay Patel and Chris Plant discussing Net Neutrality's big development l
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/193999672&color=ff5500"></iframe>
 
+<aside>
 <div class="update">
 
 ## Update: Netflix is a Hypocrite
 <p class="updateTime"><time datetime="2015-03-04">March 4, 2015</time></p>
 
-<blockquote><p>So everyone has discovered that Netflix is a net neutrality hypocrite: <a href="http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl">http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl</a>&#10;&#10;Told you so a year ago <a href="https://stratechery.com/2014/netflix-net-neutrality/">https://stratechery.com/2014/netflix-net-neutrality/</a></p>&mdash; Ben Thompson (@monkbent) <a href="https://twitter.com/monkbent/status/573141062073520128">March 4, 2015</a></blockquote>
+<blockquote><p>So everyone has discovered that Netflix is a net neutrality hypocrite: <a href="http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl" title="The Verge commenting on Netflix and net neutrality">http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl</a>&#10;&#10;Told you so a year ago <a href="https://stratechery.com/2014/netflix-net-neutrality/" title="Ben Thompson on net neutrality">https://stratechery.com/2014/netflix-net-neutrality/</a></p>&mdash; Ben Thompson (@monkbent) <a href="https://twitter.com/monkbent/status/573141062073520128" title="Ben Thompson telling us he was right about this a year ago">March 4, 2015</a></blockquote>
 
 </div>
+</aside>
 
 [^nna]: The one made [here][theoveranalyzed]
 [^q]: Quite the reverse of "subsidization" as we normally encounter it in the political spectrum
 
-[exponent]: http://exponent.fm/exponent-036-tradeoffs/
-[stratechery]: http://stratechery.com/2014/netflix-net-neutrality/
-[theoveranalyzed]: /2015/2/3/my-take-on-net-neutrality
-[twitter]: https://twitter.com/ToniWonKanobi/status/572772049535426560
-[wikipedia]: http://en.wikipedia.org/wiki/Net_neutrality_in_the_United_States#FCC_Open_Internet_Order_.282010.29
+[exponent]: https://overcast.fm/+BihnR0COE "Exponent, episode 36"
+[stratechery]: http://stratechery.com/2014/netflix-net-neutrality/ "Ben Thompson's post on net neutrality"
+[theoveranalyzed]: /2015/2/3/my-take-on-net-neutrality "My take on net neutrality"
+[twitter]: https://twitter.com/ToniWonKanobi/status/572772049535426560 "Asking Marco about Overcast cards view in the Twitter timeline"
+[wikipedia]: http://en.wikipedia.org/wiki/Net_neutrality_in_the_United_States#FCC_Open_Internet_Order_.282010.29 "Wikipedia: Net neutrality"

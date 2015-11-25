@@ -1,13 +1,9 @@
-@@ Title=Thoughts on Apple Watch  
-@@ Date=2015-02-25 16:00  
-@@ Description=Apple Watch is going to be important. But is it *that* important? Here are my thoughts.  
-@@ Tags=Apple, Apple Watch, reviews  
+Title: Thoughts on Apple Watch  
+Date: 2015-02-25 16:00  
+Description: Apple Watch is going to be important. But is it *that* important? Here are my thoughts.  
+Tags: Apple Watch  
 
-<h2>Contents</h2>
-
-[[TOC]]
-
-# Thoughts On Price
+# Thoughts on Price
 
 ## John Gruber's Opinion
 
@@ -45,13 +41,13 @@ What we don't know beyond that is ...a lot.
 
 Besides the starting price, everything else is up in the air. 
 
-# Questions Regarding The Collections
+# Questions Regarding the Collections
 
-## Who Is The Sport Model For?
+## Who Is the Sport Model For?
 
 It is for people who either don't have a lot of money to spend, or do not want to spend a lot of money on a new platform, even one from our favorite fruit company. Gruber and John Moltz both seem set on getting the Sport model for this very reason.[^jm] They aren't sold on the viability of an Apple Watch yet, and thus, do not want to spend a lot of money on the 1.0 product. I have [friends][twitter] who feel the same way. 
 
-## Who Is The Standard Model For?
+## Who Is the Standard Model For?
 
 The regular model for the people like me. It is for people who buy new iPhones every year, [^ey] and likely buy new iPads and/or Macs every year as well. Thanks to the generally low depreciation of Apple hardware, I am usually able to upgrade to new equipment at a rather trivial cost. 
 
@@ -63,7 +59,7 @@ Still. $1,000?
 
 Hear me out. It makes sense for Apple to keep the price of the stainless mid-tier model *somewhat* affordable. $1,000 is *just* at the border past which even fans like me might go for the Sport model. $500 would be even better. And Apple might even do that. They could have a $700 price point for the standard model with the Sport band, and maybe $1,300 for the standard model with the link bracelet. Who knows. And at an average selling price (ASP) of ~$1,000, they are in solid upper-end quartz territory. In the decent-ish quartz watch market, $1,000 isn't chump change, but it's also quite far from Rolex territory. Around this price point, it doesn't seem *completely* outrageous to spend this kind of money on ...a watch.[^aw]
 
-## Who Is The Edition Model For?
+## Who Is the Edition Model For?
 
 This is what I really wanted to talk about.
 
@@ -116,11 +112,12 @@ But, that assumes you are like most of us. The rich people who are going to buy 
 Much of the discussion about Edition---and Apple Watch as whole for that matter---makes more sense when viewed from a *fashion/luxury*-oriented point of view, rather than a purely technology-centric point of view.
 
 Ben Thompson had thinks the same. Here's [his take][stratechery] last September:
->The question is likely more fraught than it seems: the entry price for Apple Watch is $350, nearly half the price of an iPhone (and $150 more than the up-front cost for a subsidized consumer). Moreover, I suspect Edition models will go for ten times that, if not more. Surely such a price demands a device that is capable of doing more, not less.
 
->In fact, I would argue the contrary. Swiss watches are less accurate, but the benefit they confer on the user are so much greater. Those benefits are about intangible things like status and fashion, but that doesn’t mean they are worth less than more technical capabilities like telling time accurately. Indeed, they are exponentially more valuable.
+> The question is likely more fraught than it seems: the entry price for Apple Watch is $350, nearly half the price of an iPhone (and $150 more than the up-front cost for a subsidized consumer). Moreover, I suspect Edition models will go for ten times that, if not more. Surely such a price demands a device that is capable of doing more, not less.
 
->Moreover, it seems clear to me that Apple wants to play in this space: Jony Ive wasn’t joking when he allegedly said that Switzerland was in trouble. I believe Apple’s long-term plan for Apple Watch is to own the wrist and to confer prestige and status with options like premium bands and 18-karat gold. To do that, though, they must compete not on technical merit but on the sort of intangible benefits that they always win with; chief among these is the user experience. A premium smart watch will win by yes, being fashionable, and yes, conferring status, but above all by doing a few things better than any other product on the market, and – this is critical – dispensing with everything else in the pursuit of simplicity.
+> In fact, I would argue the contrary. Swiss watches are less accurate, but the benefit they confer on the user are so much greater. Those benefits are about intangible things like status and fashion, but that doesn’t mean they are worth less than more technical capabilities like telling time accurately. Indeed, they are exponentially more valuable.
+
+> Moreover, it seems clear to me that Apple wants to play in this space: Jony Ive wasn’t joking when he allegedly said that Switzerland was in trouble. I believe Apple’s long-term plan for Apple Watch is to own the wrist and to confer prestige and status with options like premium bands and 18-karat gold. To do that, though, they must compete not on technical merit but on the sort of intangible benefits that they always win with; chief among these is the user experience. A premium smart watch will win by yes, being fashionable, and yes, conferring status, but above all by doing a few things better than any other product on the market, and – this is critical – dispensing with everything else in the pursuit of simplicity.
 
 This is Apple's first foray into the fashion industry. And understandably, the sharp minds[^smi] who have spent careers analyzing Apple don't initially know what to do with this.
 
@@ -134,20 +131,18 @@ Apple Watch will launch not only as a new product category, it will launch in a 
 [^ey]: I am on an unlimited plan that I bought off of eBay a couple of years ago. So, I pay full contract pricing *every year.* There is no incentive for me to keep my old phone and 'wait' for the next contract upgrade time, since I won't benefit from the upgrade pricing anyways (that is, as long as I want to keep my unlimited data, which I very much do).
 [^co]: I just really wanted to link to this.
 [^aw]: As I am writing this, a part of me wonders whether the Sport model might just be a better buy. Undoubtedly, there will be an Apple Watch 2.0 in 2015/2016, and because of all unknowns as far as upgradability, etc, it might be smart for me to do the Gruber/Moltz thing and just get the cheapest model. 'See how things go,' as it were.
-[^be]: The iPad is the big outlier here. Everyone was [prepared to pay $1,000][mshable] for that tablet, and when it launched in 2010 at half that, [fanfare ensued][engadget]. And Apple could be doing this again. They are the kings of 'controlled leaks,' in which 9to5Mac or MacRumors will pick up a story about *xyz* leaked by Apple. And then when Apple actually gets around to unveiling *xyz* to the public, no one is disappointed, Wall Street included. 
-
-	[Look what happened with sapphire displays on the iPhones 6][forbes]: leaks came out weeks before the September debunking the inclusion of sapphire. Imagine if those 'leaks' hadn't surfaced. Everyone, Wall Street included, would have been tremendously disappointed. (Wall Street is always disappointed in Apple. [They are the perennial Apple bears][forbes 2].)
+[^be]: The iPad is the big outlier here. Everyone was [prepared to pay $1,000][mshable] for that tablet, and when it launched in 2010 at half that, [fanfare ensued][engadget]. And Apple could be doing this again. They are the kings of 'controlled leaks,' in which 9to5Mac or MacRumors will pick up a story about *xyz* leaked by Apple. And then when Apple actually gets around to unveiling *xyz* to the public, no one is disappointed, Wall Street included. [Look what happened with sapphire displays on the iPhones 6][forbes]: leaks came out weeks before the September debunking the inclusion of sapphire. Imagine if those 'leaks' hadn't surfaced. Everyone, Wall Street included, would have been tremendously disappointed. (Wall Street is always disappointed in Apple. [They are the perennial Apple bears][forbes 2].)
 [^sm]: Apple has done [both.][ycharts]
 [^ff]: Piece of junk.
 [^smi]: And the out of touch Wall Street people ripe with annual "Apple is doomed" rhetoric
 
-[bloombergview]: http://www.bloombergview.com/articles/2014-02-14/there-s-rich-then-there-s-the-0-01-
-[daringfireball]: http://daringfireball.net/2015/02/apple_watch_pricing
-[daringfireball 2]: http://daringfireball.net/2014/09/apple_watch
-[daringfireball 3]: http://daringfireball.net/thetalkshow/2015/02/23/ep-111
-[engadget]: http://www.engadget.com/2010/01/27/the-apple-ipad/
-[forbes]: http://www.forbes.com/sites/gordonkelly/2014/07/30/iphone-6-sapphire-display-doubt/
-[forbes 2]: http://www.forbes.com/sites/chuckjones/2015/01/28/half-a-dozen-apple-bears-are-sticking-to-their-guns/
+[bloombergview]: http://www.bloombergview.com/articles/2014-02-14/there-s-rich-then-there-s-the-0-01- "Bloomberg: 'There’s Rich, Then There's the 0.01%'"
+[daringfireball]: http://daringfireball.net/2015/02/apple_watch_pricing "John Gruber's thoughts on Apple Watch pricing"
+[daringfireball 2]: http://daringfireball.net/2014/09/apple_watch "John Gruber's initial thoughts on the Apple Watch"
+[daringfireball 3]: http://daringfireball.net/thetalkshow/2015/02/23/ep-111 "The Talk Show with John Gruber, episode 111"
+[engadget]: http://www.engadget.com/2010/01/27/the-apple-ipad/ "Engadget reviews the iPad"
+[forbes]: http://www.forbes.com/sites/gordonkelly/2014/07/30/iphone-6-sapphire-display-doubt/ "Forbes doubting sapphire for the iPhone 6 display"
+[forbes 2]: http://www.forbes.com/sites/chuckjones/2015/01/28/half-a-dozen-apple-bears-are-sticking-to-their-guns/ 
 [lowendmac]: http://lowendmac.com/1997/20th-anniversary-mac/
 [mshable]: http://mshable.com/2010/01/04/tablet-1000-price/
 [stratechery]: http://stratechery.com/2014/apple-watch-asking-saying/

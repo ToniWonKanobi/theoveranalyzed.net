@@ -1,8 +1,9 @@
-@@ Title=New ‘Star Wars: The Force Awakens’ Teaser: Chewie, We’re Home  
-@@ Date=2015-04-16 11:33  
-@@ Link=https://www.youtube.com/watch?v=ngElkyQ6Rhs  
-@@ Description=Star Wars: The Force Awakens.  
-@@ Tags=Star Wars, Star Wars: The Force Awakens, movies, pop culture 
+Title: New ‘Star Wars: The Force Awakens’ Teaser: Chewie, We’re Home  
+Date: 2015-04-16 11:33  
+Link: https://youtu.be/ngElkyQ6Rhs  
+Description: Star Wars  
+Tags: Star Wars  
+Video: https://youtu.be/ngElkyQ6Rhs  
 
 <!-- FitVids -->
 <!-- http://fitvidsjs.com -->
@@ -19,6 +20,7 @@
 
 [From [/Film][slashfilm]]
 
+<aside>
 <div class="update">
 
 ## Update: Alternate Version of Trailer
@@ -29,8 +31,9 @@ From Star Wars Korea, here's an [alternate version][alt] of the trailer, which i
 [From [Devour][dev]]
 
 </div>
+</aside>
 
-[alt]: https://www.youtube.com/watch?v=M-VTdsCKLgg
-[dev]: http://devour.com/video/star-wars-the-force-awakens-korean-trailer/
-[slashfilm]: http://www.slashfilm.com/the-force-awakens-trailer/
-[wikipedia]: https://en.wikipedia.org/wiki/Goose_bumps
+[alt]: https://www.youtube.com/watch?v=M-VTdsCKLgg "Star Wars Korea version of the trailer (possibly not viewable outside of Korea)"
+[dev]: http://devour.com/video/star-wars-the-force-awakens-korean-trailer/ "Star Wars: Force Awakens alternate trailer"
+[slashfilm]: http://www.slashfilm.com/the-force-awakens-trailer/ "/Film sharing the Star Wars: The Force Awakens trailer"
+[wikipedia]: https://en.wikipedia.org/wiki/Goose_bumps "Wikipedia: goose bumps"

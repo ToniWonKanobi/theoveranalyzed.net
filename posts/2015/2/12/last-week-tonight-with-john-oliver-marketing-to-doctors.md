@@ -1,8 +1,9 @@
-@@ Title=Last Week Tonight With John Oliver: Marketing to Doctors  
-@@ Date=2015-02-12 09:00  
-@@ Link=http://www.youtube.com/watch?v=YQZ2UeOTO3I  
-@@ Description=John Oliver sticking it to the pharmaceutical industry.  
-@@ Tags=medicine, culture, industry, business, John Oliver, Last Week Tonight, Last Week Tonight With John Oliver
+Title: Last Week Tonight With John Oliver: Marketing to Doctors  
+Date: 2015-02-12 09:00  
+Link: https://youtu.be/YQZ2UeOTO3I  
+Description: John Oliver sticking it to the pharmaceutical industry.  
+Tags: Medicine, John Oliver  
+Video: https://youtu.be/YQZ2UeOTO3I  
 
 A good example of John Oliver doing his thing. 
 
@@ -12,6 +13,6 @@ But nothing, *nothing* in my professional world compares to this apparently horr
 
 [^di]: I hesitate to put this word, but really, dentistry is an industry just like the toilet paper industry. Huge corporations make their money selling things to a lot of people, and dentists are people too. Crazy, but true.
 
-[gcamerica]: http://www.gcamerica.com/
-[kerrdental]: http://www.kerrdental.com/kerrdental-composites-2
-[kuraraydental]: http://kuraraydental.com/
+[gcamerica]: http://www.gcamerica.com/ "GC America"
+[kerrdental]: http://www.kerrdental.com/kerrdental-composites-2 "Kerr Dental composites"
+[kuraraydental]: http://kuraraydental.com/ "Kuraray Dental"

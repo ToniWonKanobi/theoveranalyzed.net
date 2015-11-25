@@ -1,28 +1,13 @@
-@@ Title=Fantastical 2  
-@@ Date=2014-02-02 22:54  
-@@ Description=A short review of Flexibits's calendar app, Fantastical 2, as well comparisons to several popular competitors.  
-@@ Image=http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg  
-@@ Tags=iPhone, apps, iOS 7, design, reviews, App Store, iOS, Fantastical, Flexibits, The Iconfactory  
-
-<!-- LazyLoad -->
-<!-- http://www.appelsiini.net/projects/lazyload -->
-<script src="/js/lazyload.js"></script>
-<script type="text/javascript" charset="utf-8">
-	$(function() {
-		$("img.lazy").show().lazyload({
-			effect: "fadeIn"
-		});
-	});
-</script>
+Title: Fantastical 2  
+Dat: 2014-02-02 22:54  
+Dexcription: A short review of Flexibits's calendar app, Fantastical 2, as well comparisons to several popular competitors.  
+Tags: Reviews, Apps  
+Image: http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg  
 
 <figure>
-	<img src="http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg" alt="The Iconfactory's [redesign][iconfactory] for Fantastical 2 is so precious.">
+	<img src="http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg" alt="The Iconfactory's redesign for Fantastical 2 is so precious." title="The Iconfactory's redesign for Fantastical 2 is so precious.">
 	<figcaption>The Iconfactory's <a href="http://design.iconfactory.com/fantastical-2-for-ios-7/" />redesign</a> for Fantastical 2 is so nice.</figcaption>
 </figure>
-
-<h2>Contents</h2>
-
-[[TOC]]
   
 ## So Here We Are at App Slot Number Two
 
@@ -42,11 +27,9 @@ It's as simple as this:
 
 4. *Done.*
 
-<figure class="inlinetwo">
-	<img class="screenshot lazy" data-original="http://d.pr/i/1dddh+" alt="Yeah, that's it.">
-		<noscript><img class="screenshot" src="http://d.pr/i/1dddh+" alt="Yeah, that's it."></noscript>
-	<img class="screenshot lazy" data-original="http://d.pr/i/1aiHr+" alt="Never again.">
-		<noscript><img class="screenshot" src="http://d.pr/i/1aiHr+" alt="Never again."></noscript>
+<figure>
+	<img class="screenshot inlineTwo" src="http://d.pr/i/1dddh+" alt="Yeah, that's it." title="Yeah, that's it.">
+	<img class="screenshot inlineTwo" src="http://d.pr/i/1aiHr+" alt="Never again." title="Never again.">
 	<figcaption>Easy-peasy.</figcaption>
 </figure>
 
@@ -56,15 +39,15 @@ For version 2, Flexibits also included a fourth row of keys, accessible without 
 
 Also in this version is a new Week view for Landscape mode:
 
-<figure class="iphone">
-	<img class="screenshot" src="http://d.pr/i/BNnH+" alt="Does anyone actually use their iPhone in landscape?">
+<figure>
+	<img class="screenshot iphone" src="http://d.pr/i/BNnH+" alt="Does anyone actually use their iPhone in landscape?" title="Does anyone actually use their iPhone in landscape?">
 	<figcaption>Does anyone actually use their iPhone in landscape?</figcaption>
 </figure>
 
 A big feature update for Fantastical 2 was the integration of the stock Reminders app. For all the reasons for foregoing the stock Calendar app, there exist just as many reasons for foregoing the stock Reminders app. Fantastical 2 lets me do that.
 
-<figure class="iphone" />
-	<img class="screenshot" src="http://d.pr/i/15UTy+" alt="Such a nice feature">
+<figure>
+	<img class="screenshot iphone" src="http://d.pr/i/15UTy+" alt="Such a nice feature" title="Such a nice feature">
 	<figcaption>Reminders in Fantastical&mdash;such a nice feature</figcaption>
 </figure>
 
@@ -74,26 +57,22 @@ At first glance, not a whole lot has changed since the iOS 6 version of Fantasti
 
 I'm the first to admit that when it comes to a lot of the visual and otherwise UI/UX changes iOS 7 brought, the grass was definitely not greener. Don't get me wrong, I like a lot of the sweeping changes Jony Ive brought. The [skeumorphic touches][cultofmac] that Steve Jobs and Scott Forstall favorited were like vestigial organs, once they were necessary, but now they are obsolete. In 2007, I'm sure everyone really did need the Notes app to have all that chrome. But this isn't 2007, it's 2014. I just wish Ive would have spent a little bit more time in the [details][tumblr] (more on that later). 
 
-<figure class="inlinethree">
-	<img class="screenshot lazy" data-original="http://d.pr/i/A7lR+" alt="Fantastical (iOS 6)">
-		<noscript><img class="screenshot" src="http://d.pr/i/A7lR" alt="Fantastical (iOS 6)"></noscript>
-	<img class="screenshot lazy" data-original="http://d.pr/i/SumY+" alt="Fantastical 2 Dark theme">
-		<noscript><img class="screenshot" src="http://d.pr/i/SumY+" alt="Fantastical 2 Dark theme"></noscript>
-	<img class="screenshot lazy" data-original="http://d.pr/i/MzGi+" alt="Fantastical 2 Light theme">
-		<noscript><img class="screenshot" src="http://d.pr/i/MzGi+" alt="Fantastical 2 Light theme"></noscript>
+<figure >
+	<img class="screenshot inlineThree" src="http://d.pr/i/A7lR+" alt="Fantastical (iOS 6)" title="Fantastical (iOS 6)">
+	<img class="screenshot inlineThree" src="http://d.pr/i/SumY+" alt="Fantastical 2 Dark theme" title="Fantastical 2 Dark theme">
+	<img class="screenshot inlineThree" src="http://d.pr/i/MzGi+" alt="Fantastical 2 Light theme" title="Fantastical 2 Light theme">
 	<figcaption>Fantastical for iOS 6, and Fantastical 2 for iOS 7 only, Dark theme and Light theme</figcaption>
 </figure>
 
 # The Competition
 
-## [Sunrise](http://www.sunrise.am/)
-Sunrise [tries to be](Http://www.idownloadblog.com/2014/01/09/Sunrise-Calendar-Ipad/) a 'Fantastical+,' but ultimately eschews parsing prowess for social. 
+## [Sunrise][sr]
 
-<figure class="inlinetwo">
-	<img class="screenshot lazy" data-original="http://d.pr/i/15enF+" alt="The weather and iconography is nice, no doubt.">
-		<noscript><img class="screenshot" src="http://d.pr/i/15enF+" alt="The weather and iconography is nice, no doubt."></noscript>
-	<img class="screenshot lazy" data-original="http://d.pr/i/1aRkU+" alt="But the parser, well, there is no parser. This is like the stock Calendar app. That sucks.">
-		<noscript><img class="screenshot" src="http://d.pr/i/1aRkU" alt="But the parser, well, there is no parser. This is like the stock Calendar app. That sucks."></noscript>
+Sunrise [tries to be][idb] a 'Fantastical+,' but ultimately eschews parsing prowess for social. 
+
+<figure>
+	<img class="screenshot inlineTwo" src="http://d.pr/i/15enF+" alt="The weather and iconography is nice, no doubt." title="The weather and iconography is nice, no doubt.">
+	<img class="screenshot inlineTwo" src="http://d.pr/i/1aRkU+" alt="But the parser, well, there is no parser. This is like the stock Calendar app. That sucks." title="But the parser, well, there is no parser. This is like the stock Calendar app. That sucks.">
 	<figcaption>The iconography is nice, but there is no parser.</figcaption>
 </figure>
 
@@ -103,11 +82,9 @@ Overall, Sunrise is quite pretty. It has more white space, and doesn't feel as t
 
 This is kind of an [oddball][macstories 2]. It's biggest pro is the unique portrait Day view, which is like what Fantastical 2 does in Landscape, only in portrait. Its parser is closer to Fantastical than Sunrise, and its design is more spartan than Sunrise, and to some extent, Fantastical.
 
-<figure class="inlinetwo">
-	<img class="screenshot lazy" data-original="http://d.pr/i/18doD+" alt="Calendars 5">
-		<noscript><img class="screenshot" src="http://d.pr/i/18doD+" alt="Calendars 5"></noscript>
-	<img class="screenshot lazy" data-original="http://d.pr/i/1dpEy+" alt="Not as good as Fantastical">
-		<noscript><img class="screenshot" src="http://d.pr/i/1dpEy+" alt="Not as good as Fantastical"></noscript>
+<figure>
+	<img class="screenshot inlineTwo" src="http://d.pr/i/18doD+" alt="Calendars 5" title="Calendars 5">
+	<img class="screenshot inlineTwo" src="http://d.pr/i/1dpEy+" alt="Not as good as Fantastical" title="Not as good as Fantastical">
 	<figcaption>Meh.</figcaption>
 </figure>
 
@@ -127,13 +104,14 @@ Fantastical 2 is $1.99 on the [App Store][apple] and is a small price to pay for
 
 * Minimal white (dark) space in the Ticker view
 
-[agiletortoise]: http://agiletortoise.com/drafts/
-[apple]: https://itunes.apple.com/us/app/fantastical-2-calendar-reminders/id718043190?at=1l3vx9s
-[cultofmac]: http://www.cultofmac.com/189707/steve-jobs-himself-is-responsible-for-calendar-and-game-centers-hideous-skeuomorphic-designs/
-[iconfactory]: http://design.iconfactory.com/fantastical-2-for-ios-7/
-[macstories]: http://www.macstories.net/reviews/fantastical-for-iphone-review/
-[macstories 2]: http://www.macstories.net/Reviews/Calendars-5-Review/
-[macworld]: http://www.macworld.com/article/2017389/review-fantastical-for-iphone-shines-despite-ios-caused-limitations.html
-[readdle]: http://readdle.com/products/calendars5/
-[sunrise]: http://www.sunrise.am/
-[tumblr]: http://ios7fail.tumblr.com/
+[agiletortoise]: https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8&at=1l3vx9s "Drafts 4 on the App Store"
+[apple]: https://itunes.apple.com/us/app/fantastical-2-calendar-reminders/id718043190?at=1l3vx9s "Fantastical 2 on the App Store"
+[cultofmac]: http://www.cultofmac.com/189707/steve-jobs-himself-is-responsible-for-calendar-and-game-centers-hideous-skeuomorphic-designs/ "Steve Jobs loved skeuomorphism"
+[iconfactory]: http://design.iconfactory.com/fantastical-2-for-ios-7/ "Iconfactory guys on their app icon for Fantastical 2"
+[idb]: http://www.idownloadblog.com/2014/01/09/Sunrise-Calendar-Ipad/ "iDownloadBlog reviews Sunrise for iPad"
+[macstories]: http://www.macstories.net/reviews/fantastical-for-iphone-review/ "Federico Viticci reviews Fantastical for iPhone"
+[macstories 2]: http://www.macstories.net/Reviews/Calendars-5-Review/ "Federico Viticci reviews Calendars 5"
+[macworld]: http://www.macworld.com/article/2017389/review-fantastical-for-iphone-shines-despite-ios-caused-limitations.html "Macword reviews Fantastical for iPhone"
+[readdle]: https://itunes.apple.com/us/app/calendars-5-event-task-manager/id697927927?mt=8&at=1l3vx9s "Calendars 5 on the App Store"
+[sr]: https://itunes.apple.com/us/app/sunrise-calendar-outlook-app/id599114150?mt=8&at=1l3vx9s "Sunrise on the App Store"
+[tumblr]: http://ios7fail.tumblr.com/ "tumblr full of iOS 7 design failures"

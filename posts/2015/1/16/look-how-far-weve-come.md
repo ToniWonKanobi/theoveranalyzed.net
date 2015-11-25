@@ -1,32 +1,24 @@
-@@ Title=Look How Far We've Come  
-@@ Date=2015-01-16 20:30  
-@@ Description=Broadband internet speeds aren't the only thing that's changed since I was a kid.  
-@@ Tags=history, internet, web, Anthony, culture    
-@@ Image=http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif
+Title: Look How Far We've Come  
+Date: 2015-01-16 20:30  
+Description: Broadband internet speeds aren't the only thing that's changed since I was a kid.  
+Tags: Culture  
+Image: http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif  
 
 I worked at a different dental office today. This one has a [desk][d] that I can sit in. When I wasn't performing irreversible surgical procedures on human hard tissue, I read. A lot. Between my [Instapaper][instapaper] queue and Twitter/RSS, I have had a lot of great things to read.
 
-In between my reading sessions, I decided to do what I always do in these situations: [Speedtest][speedtest] the Wi-Fi and cellular download and upload rates. I probably do this at every new location I go to, be it a hotel room, or a friend's house. I am that guy who asks for the Wi-Fi password not five minutes into the [pleasantries session][loljunky]. (Hey, I could be the guy who asks questions for which the answers I care not. At least I'm not him.)
+In between my reading sessions, I decided to do what I always do in these situations: [Speedtest][st] the Wi-Fi and cellular download and upload rates. I probably do this at every new location I go to, be it a hotel room, or a friend's house. I am that guy who asks for the Wi-Fi password not five minutes into the [pleasantries session][loljunky]. (Hey, I could be the guy who asks questions for which the answers I care not. At least I'm not him.)
 
 I am usually surprised at just how terrible the in-house Wi-Fi is for both personal friends and businesses; my LTE speeds often trump the local Wi-Fi 4-5x on the downstream, and typically 40x on the upstream.
 
 Today's situation was no different from the norm. This was my Speedtest today over LTE:
 
-<figure>
-	<a href="http://www.speedtest.net/my-result/4065330285" class="nohover">
-		<img src="http://www.speedtest.net/result/4065330285.png">
-	</a>
-</figure>
+<p><img class="iphone" src="http://www.speedtest.net/result/4065330285.png" alt="Speedtest over cellular" title="Speedtest over cellular">
 
 Interestingly, Speedtest garnered a mere A- for these speeds. I guess that's fair, considering the relativity of it all.
 
 Here was a Speedtest from a few months ago, when Time Warner decided to grace its Inland Empire customers with an exorbitant amount of speed increases. (We should totally be okay with them [merging with Comcast][bgr], right? Uh, no.)
 
-<figure>
-	<a href="http://www.speedtest.net/my-result/3867339763" class="nohover">
-		<img src="http://www.speedtest.net/result/3867339763.png">
-	</a>
-</figure>
+<p><img class="iphone" src="http://www.speedtest.net/result/3867339763.png" alt="Speedtest over home internet" title="Speedtest over home internet">
 
 ***
 
@@ -47,11 +39,11 @@ But what I remember the most vividly is so ephemeral for me, and so emotionally 
 What I most remember about AOL was that perspiration-inducing and absolutely curse-worthy [noise][youtube] that accompanied my  quest to make it online. 
 
 <figure>
-	<img src="http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" alt="Does the sight of this GIF not make your blood boil?">
+	<img src="http://media.giphy.com/media/3hRzIz4D8Ikgg/giphy.gif" alt="Does the sight of this GIF not make your blood boil?" title="Does the sight of this GIF not make your blood boil?">
 	<figcaption>Does the sight of this GIF <em>not</em> make your blood boil?</figcaption>
 </figure>
 
-My inclination here is to make a joke about how connecting via AOL was a lot like Forrest Gump's "[box of chocolates][wiktionary]", because it was. There was no predictable pattern. Oh, it's 5:57 PM, after dinner, and you want to get online? NOPE. Try again. Okay, I'll try again at 9:03 PM. The parentals are asleep, everyone is in their rooms. Who else would be using the phone right now? I should be able to get online now, right? NOPE. Try again. Screw it. I'm not trying again. I'll try tomorrow. I try again tomorrow. It works after dinner, but still not at night. Next day: broken both tries. The. Endless. Cycle. Of. Suck. 
+My inclination here is to make a joke about how connecting via AOL was a lot like Forrest Gump's "[box of chocolates][wiktionary]", because it was. There was no predictable pattern. Oh, it's 5:57 PM, after dinner, and you want to get online? NOPE. Try again. Okay, I'll try again at 9:03 PM. The parents are asleep, everyone is in their rooms. Who else would be using the phone right now? I should be able to get online now, right? NOPE. Try again. Screw it. I'm not trying again. I'll try tomorrow. I try again tomorrow. It works after dinner, but still not at night. Next day: broken both tries. The. Endless. Cycle. Of. Suck. 
 
 I did everything I could. I tweaked as many settings within Windows XP that I could find. Sometimes it would work, sometimes it wouldn't. We even got a separate phone line exclusively for AOL. What AOL wanted, AOL got, apparently. It was a real struggle.
 
@@ -71,19 +63,19 @@ And yet, at the same time, it was completely awesome.
 
 For the first time ever, I knew more about something than most every adult I came in contact with. Sure, I also knew more about the X-men than the average adult, but knowing more about something like computers? That was cooler. That became a big part of my identity. It has followed me all the way to where I am now. I'm sure there have countless others who share my story of internet discovery. I am *the* generation that grew up with the internet. Yay internet!
 
-[bgr]: http://bgr.com/2015/01/15/comcast-time-warner-cable-merger-opposition-2/
-[d]: http://d.pr/i/14WBi+
-[download-time]: http://www.download-time.com
-[files]: http://pandodaily.files.wordpress.com/2014/04/aol-cd.png?w=1024&h=768
-[instapaper]: https://www.instapaper.com/p/ToniWonKanobi
-[jsonline]: http://www.jsonline.com/watchdog/pi/time-warner-scores-lowest-on-cable-tv-customer-satisfaction-report-says-b9915944z1-208433401.html
-[loljunky]: http://loljunky.com/images/me-vs-normal-people-at-someones-house-1608.jpg
-[readwrite]: http://readwrite.com/2008/07/17/the_story_of_the_fail_whale
-[speedtest]: http://speedtest.org
-[theoveranalyzed]: /2015/1/5/facebook-is-the-new-aol
-[vergee]: http://www.theverge.com
-[wikipedia]: https://en.wikipedia.org/wiki/AOL
-[wikipedia 2]: https://en.wikipedia.org/wiki/56_kbit/s_modem
-[wikipedia 3]: https://en.wikipedia.org/wiki/Digital_subscriber_line
-[wiktionary]: https://en.wiktionary.org/wiki/life_is_like_a_box_of_chocolates
-[youtube]: https://www.youtube.com/watch?v=D1UY7eDRXrs
+[bgr]: http://bgr.com/2015/01/15/comcast-time-warner-cable-merger-opposition-2/ "Boy Genius Report on the Comcast / Time Warner merger"
+[d]: http://d.pr/i/14WBi+ "Picture of my current situation at work"
+[download-time]: http://www.download-time.com "Tests true download times"
+[files]: http://nowiknow.com/wp-content/uploads/2012/12/120866345IVflSI_ph.jpeg "AOL CD"
+[instapaper]: https://www.instapaper.com/p/ToniWonKanobi "Me on Instagram"
+[jsonline]: http://www.jsonline.com/watchdog/pi/time-warner-scores-lowest-on-cable-tv-customer-satisfaction-report-says-b9915944z1-208433401.html "Time Warner scores lowest on cable TV customer satisfaction, report says"
+[loljunky]: http://loljunky.com/images/me-vs-normal-people-at-someones-house-1608.jpg "'What's your WiFi passowrd?'"
+[readwrite]: http://readwrite.com/2008/07/17/the_story_of_the_fail_whale "Twitter's 'Fail Whale'"
+[st]: http://speedtest.org "Speedtest"
+[theoveranalyzed]: /2015/1/5/facebook-is-the-new-aol "My post on how Facebook is irrelevant"
+[vergee]: http://www.theverge.com "The Verge"
+[wikipedia]: https://en.wikipedia.org/wiki/AOL "Wikipedia: AOL"
+[wikipedia 2]: https://en.wikipedia.org/wiki/56_kbit/s_modem "Wikipedia: 56k modem"
+[wikipedia 3]: https://en.wikipedia.org/wiki/Digital_subscriber_line "Wikipedia: DSL"
+[wiktionary]: https://en.wiktionary.org/wiki/life_is_like_a_box_of_chocolates "Forrest Gump quote"
+[youtube]: https://www.youtube.com/watch?v=D1UY7eDRXrs "AOL dial-up sequence"

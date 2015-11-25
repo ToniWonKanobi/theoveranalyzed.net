@@ -1,28 +1,13 @@
-@@ Title=Ditching Webfonts  
-@@ Date=2015-07-15 11:41
-@@ Description=Over the past few years, I've become increasingly interested in design and specifically, typography. Ideal Sans was *it* for me. But maybe Hoefler's webfont is just too much of a drag right now?  
-@@ Tags=web, web design, design, fonts, typefaces, Ideal Sans, webfonts, Hoefler, Cloud.typography, Ditching Webfonts, CSS, typography  
-@@ Image=http://d.pr/i/138Zv+  
+Title: Ditching Webfonts  
+Date: 2015-07-15 11:41  
+Description: Over the past few years, I've become increasingly interested in design and specifically, typography. Ideal Sans was *it* for me. But maybe Hoefler's webfont is just too much of a drag right now?  
+Tags: Typography, Web Design & Development, Ditching Webfonts  
+Image: http://d.pr/i/138Zv+  
 
-<!-- LazyLoad -->
-<!-- http://www.appelsiini.net/projects/lazyload -->
-<script src="/js/lazyload.js"></script>
-<script type="text/javascript" charset="utf-8">
-	$(function() {
-		$("img.lazy").show().lazyload({
-			effect: "fadeIn"
-		});
-	});
-</script>
-
-<div class="topstory">
-
-This piece is largely a self-response to an earlier post I wrote on the subject called [Why The Web Is So Slow][why]. You should read that before reading this.
-
-</div>
+<p><em class="topStory">This piece is largely a self-response to an earlier post I wrote on the subject called <a href=" /2015/7/12/why-the-web-is-so-slow" title="My piece on The Verge piece about the slow web">Why The Web Is So Slow</a>. You should read that before reading this.</em></p>
 
 <figure>
-	<img src="http://d.pr/i/138Zv+" alt="Waiting.">
+	<img src="http://d.pr/i/138Zv+" alt="Waiting." title="Waiting.">
 	<figcaption>That's 457.1 ms too long for me.</figcaption>
 </figure>
 
@@ -50,7 +35,7 @@ Right?
 
 My priorities changed somewhat last week. Gruber [wrote a short piece][daringfireball 2] on the crummy state of modern web browsing, focusing primarily on how *slowly* most webpages load these days. According to Gruber, the culprit was all those JavaScript extensions powering those annoying web advertisements. He picked on iMore in particular. [I did the same][theoveranalyzed 4]. 
 
-While I was writing that post last week, I experimented with a jQuery plugin called [Lazy Load](), by Mika Tuupola. The purpose of that plugin is to prevent the loading of embedded images until they come into `viewport`. I had to edit the source code (Markdown/HTML) for my posts by adding a special class to images, `<img class="lazy"`, as well as add a `data-original=` modifier in place of the traditional `src=`. When the image comes into focus on the webpage, Lazy Load dynamically reads the `data-original=` content and inserts an `src=` string into the `<img>` tag, thereby loading the image. It's a pretty nifty plugin---at least in theory. 
+While I was writing that post last week, I experimented with a jQuery plugin called [Lazy Load][lazy], by Mika Tuupola. The purpose of that plugin is to prevent the loading of embedded images until they come into `viewport`. I had to edit the source code (Markdown/HTML) for my posts by adding a special class to images, `<img class="lazy"`, as well as add a `data-original=` modifier in place of the traditional `src=`. When the image comes into focus on the webpage, Lazy Load dynamically reads the `data-original=` content and inserts an `src=` string into the `<img>` tag, thereby loading the image. It's a pretty nifty plugin---at least in theory. 
 
 Truthfully, I'm not sure why I was so bent on trying this. At the time, I justified using it by telling myself that it would make TheOverAnalyzed load faster. From the beginning, this was flawed logic. Previously, I tested the site against the `Disable Images` option in Safari's Develop menu. And guess what? Disabling images never made a meaningful difference in page loading times.
 
@@ -72,36 +57,36 @@ Could I fix this?
 
 Interestingly, while I was examining TheOverAnalyzed's page source and realizing that the Hoefler webfont was killing my page loading, an important conversation was happening on Twitter. 
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/benthompson">@benthompson</a> No one should ever do anything that makes a website slow.</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/620966969953636353">July 14, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/benthompson" title="Ben Thompson on Twitter">@benthompson</a> No one should ever do anything that makes a website slow.</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/620966969953636353" title="John Gruber suggesting that anything done to a website that makes it slower is bad">July 14, 2015</a></blockquote>
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/marcoarment">@marcoarment</a> <a href="https://twitter.com/benthompson">@benthompson</a> That’s one reason I’ve procrastinated on switching to webfonts at DF. (Bigger reason: inertia.)</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/621074509676826624">July 14, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/marcoarment" "Marco Arment on Twitter">@marcoarment</a> <a href="https://twitter.com/benthompson" "Ben Thompson on Twitter">@benthompson</a> That’s one reason I’ve procrastinated on switching to webfonts at DF. (Bigger reason: inertia.)</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/621074509676826624" title="Gruber talking about switching to webfonts for Daring Fireball">July 14, 2015</a></blockquote>
 
 Moreover, it seems Craig Hockenberry has experienced (or at least has knowledge of) webfont latency for himself:
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jimray">@jimray</a> <a href="https://twitter.com/gruber">@gruber</a> <a href="https://twitter.com/marcoarment">@marcoarment</a> <a href="https://twitter.com/benthompson">@benthompson</a> They can have high latency depending on where they’re hosted.</p>&mdash; Craig Hockenberry (@chockenberry) <a href="https://twitter.com/chockenberry/status/621119545227345924">July 15, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jimray" title="Twitter user @jimray">@jimray</a> <a href="https://twitter.com/gruber" title="John Gruber on Twitter">@gruber</a> <a href="https://twitter.com/marcoarment" title="Marco Arment on Twitter">@marcoarment</a> <a href="https://twitter.com/benthompson" "Ben Thompson on Twitter">@benthompson</a> They can have high latency depending on where they’re hosted.</p>&mdash; Craig Hockenberry (@chockenberry) <a href="https://twitter.com/chockenberry/status/621119545227345924" title="Craig Hockenberry on webfont latency">July 15, 2015</a></blockquote>
 
 If Ideal Sans was the problem, I wondered how fast TheOverAnalyzed would load without it? 
 
 # Gaining A Second
 
-To test the site without the webfont, I modified `main.css`, so that there would be a fallback font. In this case, [Avenir][wikipedia]), which is like [Helvetica][wikipedia 2] but less cliche.[^sf]
+To test the site without the webfont, I modified `main.css`, so that there would be a fallback font. In this case, [Avenir][wikipedia], which is like [Helvetica][wikipedia 2] but less cliche.[^sf]
 
 <figure>
-	<img src="http://d.pr/i/U6XZ+" alt="Adding Avenir">
+	<img src="http://d.pr/i/U6XZ+" alt="Switching to Avenir" title="Switching to Avenir">
 	<figcaption>Adding Avenir.</figcaption>
 </figure>
 
 I also commented-out the stylesheet helper for the webfont in the `<head>` section (`header.html` for Camel)
 
 <figure>
-	<img src="http://d.pr/i/hddm+" alt="Disabling the webfont stylesheet.">
+	<img src="http://d.pr/i/hddm+" alt="Disabling the webfont stylesheet" title="Disabling the webfont stylesheet">
 	<figcaption>Disabling the webfont stylesheet.</figcaption>
 </figure>
 
-Once that was done, the results were noticable.
+Once that was done, the results were noticeable.
 
 <figure>
-	<img src="http://d.pr/i/1eIhx+" alt="Not waiting as long.">
+	<img src="http://d.pr/i/1eIhx+" alt="Not waiting as long" title="Not waiting as long">
 	<figcaption>Bye bye latency.</figcaption>
 </figure>
 
@@ -110,14 +95,16 @@ Yes, *still* not [Daring Fireball][d 2], but significantly quicker page loading 
 # Slow Is Death
 
 Ben Thompson of Stratechery recently [wrote][stratechery] on the subject of web advertisements from the perspective of both the publishers and the readers. Always the pragmatist, he had this to say:
->The problem for publishers, though, is that dollars and cents — which come from advertisers — are a far more scarce resource than are page views, leaving publishers with a binary choice: provide a great user experience and go out of business, or muddle along with all of the baggage that relying on advertising networks entails.
+
+> The problem for publishers, though, is that dollars and cents — which come from advertisers — are a far more scarce resource than are page views, leaving publishers with a binary choice: provide a great user experience and go out of business, or muddle along with all of the baggage that relying on advertising networks entails.
 
 He also puts the slow web conversation into perspective with regard to [Facebook Instant Articles][theoveranalyzed 6]:
->If the New York Times cannot resist programmatic advertising, what chance does iMore or the vast majority of online publications have? If anything this puts Facebook’s Instant Articles initiative in a far more positive light: the social network is offering to not only improve the user experience by displaying articles instantly — thanks, primarily, to the lack of programmatic advertising cruft — but also to help monetize said content by selling ads against it and sharing 70%, backed by profile data that is far superior to even the ad networks.
->
->Indeed, arguably the biggest takeaway should be that the chief objection to Facebook’s offer — that publishers are giving up their independence — is a red herring. **Publishers are already slaves to the ad networks** [emphasis added], and their primary decision at this point is which master — ad networks or Facebook — is preferable?
 
->[A reckoning is coming], as I noted when Facebook’s Instant Articles launched. The future for most publishers is likely that of pure content production only, save for the few — like Gruber — who are destination sites capable of selling native advertising in stream (or selling subscriptions, like this site). What is very much in question is exactly how users will feel when they finally get what they claim they wish for.
+> If the New York Times cannot resist programmatic advertising, what chance does iMore or the vast majority of online publications have? If anything this puts Facebook’s Instant Articles initiative in a far more positive light: the social network is offering to not only improve the user experience by displaying articles instantly — thanks, primarily, to the lack of programmatic advertising cruft — but also to help monetize said content by selling ads against it and sharing 70%, backed by profile data that is far superior to even the ad networks.
+>
+> Indeed, arguably the biggest takeaway should be that the chief objection to Facebook’s offer — that publishers are giving up their independence — is a red herring. **Publishers are already slaves to the ad networks** [emphasis added], and their primary decision at this point is which master — ad networks or Facebook — is preferable?
+
+> [A reckoning is coming], as I noted when Facebook’s Instant Articles launched. The future for most publishers is likely that of pure content production only, save for the few — like Gruber — who are destination sites capable of selling native advertising in stream (or selling subscriptions, like this site). What is very much in question is exactly how users will feel when they finally get what they claim they wish for.
 
 Ben Thompson is coming at slow loading webpages from a different perspective than my own. The point of his post was to explain how iMore's job of making a [Gruber-approved webpage][daringfireball 3] is easier said than done. Because the average web reader is not willing to pay for content, ads *must* be served to keep the publisher publishing. And, as Thompson asserts, users can't have free without ads. For both the publisher and the reader, Facebook Instant Articles (and [Apple News][instagram]) might not be that bad after all, on an infinite time scale.[^atp]
 
@@ -129,44 +116,42 @@ Still, I am not sure if I'll stay away from webfonts forever. I haven't taken a 
 
 And because I'm in the purging mood, I'm going to try TheOverAnalyzed without all JavaScript as well.[^big] I'll probably turn it back on, but I want to enjoy speedy page loads to the fullest extent possible. I've always wondered why Daring Fireball didn't have any fancy JavaScript. Now I know why. Because it's faster without it. And for the web, faster is *always* better.
 
-[^atp]: [ATP reference][overcast].
-[^big]: No Bigfoot footnotes!? How can this be? (Especially when I've dedicated entire [posts][theoveranalyzed 7] to how I enabled them in the first place.)
-
-	This is probably just temporary. But only time will tell.
+[^atp]: [ATP reference][overcast]
+[^big]: No Bigfoot footnotes!? How can this be? (Especially when I've dedicated entire [posts][theoveranalyzed 7] to how I enabled them in the first place?) This is probably just temporary. But only time will tell.
 [^no]: Nothing's changed. I don't think I'll ever be truly done with my website. 
 [^sf]: I tried [San Francisco][wikipedia 3], per Craig Hockenberry's [recommendation][furbo], but I think the font name changed since his original post. He warned that might happen, since iOS 9 / 10.11 are still in beta. I'll have to revisit this when both OS's are officially released.
 
-[bigfootjs]: http://www.bigfootjs.com/
-[d]: http://d.pr/i/1hGao+
-[d 2]: http://d.pr/i/8o2U+
-[d 3]: http://d.pr/i/wayX+
-[daringfireball]: http://daringfireball.net
-[daringfireball 2]: http://daringfireball.net/2015/07/safari_content_blocker_imore
-[daringfireball 3]: http://daringfireball.net/linked/2015/07/09/ritchie-bad-ads
-[feedbin]: http://blog.feedbin.com/2013/09/03/format-toolbar/
-[fitvidsjs]: http://fitvidsjs.com/
-[fontsinuse]: http://fontsinuse.com/uses/1577/instapaper-ios-app
-[furbo]: http://furbo.org/2015/07/09/i-left-my-system-fonts-in-san-francisco/
-[google]: https://encrypted.google.com/fonts
-[hippa]: https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act
-[instagram]: https://instagram.com/p/4XAr5Fwz3M/
-[marco]: http://marco.org
-[overcast]: https://overcast.fm/+CdRcwCsQ/43:24
-[stratechery]: https://stratechery.com/2015/why-web-pages-suck/
-[theoveranalyzed]: /2015/6/1/introducing-theoveranalyzed-30
-[theoveranalyzed 2]: /tags/Star%20Wars
-[theoveranalyzed 3]: /tags/movies
-[theoveranalyzed 4]: /2015/7/12/why-the-web-is-so-slow
-[theoveranalyzed 5]: /2015/7/12/why-the-web-is-so-slow#nojs
-[theoveranalyzed 6]: /2015/5/15/facebooks-instant-articles
-[theoveranalyzed 7]: /2015/1/31/bigfoot-footnotes-in-squarespace
-[typekit]: http://typekit.com/
-[typography]: http://www.typography.com/fonts/ideal-sans/overview/
-[typography 2]: http://www.typography.com/fonts/whitney/overview/
-[typography 3]: http://www.typography.com/cloud/welcome/
-[vesperapp]: http://vesperapp.co/blog/how-to-make-a-vesper/
-[vesperapp 2]: http://vesperapp.co
-[why]: /2015/7/12/why-the-web-is-so-slow
-[wikipedia]: https://en.wikipedia.org/wiki/Avenir_(typeface
-[wikipedia 2]: https://en.wikipedia.org/wiki/Helvetica
-[wikipedia 3]: https://en.wikipedia.org/wiki/San_Francisco_(2014_typeface)
+[bigfootjs]: http://www.bigfootjs.com/ "Bigfoot Footnotes website"
+[d]: http://d.pr/i/1hGao+ "Speedtesting Daring Fireball with Alexa"
+[d 2]: http://d.pr/i/8o2U+ "Speedtesting Daring Fireball on my Mac"
+[d 3]: http://d.pr/i/wayX+ "Hiding footnotes on the homepage. Not sure if this will last."
+[daringfireball]: http://daringfireball.net "John Gruber's personal blog, Daring Fireball"
+[daringfireball 2]: http://daringfireball.net/2015/07/safari_content_blocker_imore "John Gruber on Safari Content Blockers"
+[daringfireball 3]: http://daringfireball.net/linked/2015/07/09/ritchie-bad-ads "John Gruber on iMore's crappy website"
+[feedbin]: http://blog.feedbin.com/2013/09/03/format-toolbar/ "Ideal Sans (and other Hoefler & Co webfonts in Feedbin!"
+[fitvidsjs]: http://fitvidsjs.com/ "FitVids.js website"
+[fontsinuse]: http://fontsinuse.com/uses/1577/instapaper-ios-app "Fonts In Use: Instapaper and Ideal Sans"
+[furbo]: http://furbo.org/2015/07/09/i-left-my-system-fonts-in-san-francisco/ "Craig Hockenberry on `-apple-system` font"
+[google]: https://encrypted.google.com/fonts "Google Fonts"
+[hippa]: https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act "Wikipedia: HIPPA"
+[instagram]: https://instagram.com/p/4XAr5Fwz3M/ "TheOverAnalyzed on Apple News!"
+[lazy]: http://www.appelsiini.net/projects/lazyload "LazyLoad.js"
+[marco]: http://marco.org "Marco Arment's personal blog, Marco.org"
+[overcast]: https://overcast.fm/+CdRcwCsQ/43:24 "Accidental Tech Podcast 124: The Tyranny of Radio"
+[stratechery]: https://stratechery.com/2015/why-web-pages-suck/ "Ben Thompson on that Verge piece about slow websites"
+[theoveranalyzed]: /2015/6/1/introducing-theoveranalyzed-30 "Me introducing TheOverAnalyzed 3.0"
+[theoveranalyzed 2]: /tags/Star%20Wars "Posts tagged 'Star Wars'"
+[theoveranalyzed 3]: /tags/movies "Posts tagged 'Movies'"
+[theoveranalyzed 4]: /2015/7/12/why-the-web-is-so-slow "My take on that Verge piece on why the web is slow"
+[theoveranalyzed 5]: /2015/7/12/why-the-web-is-so-slow#nojs "No-JavaScript section of my take on that Verge piece on why the web is slow"
+[theoveranalyzed 6]: /2015/5/15/facebooks-instant-articles "My post on Facebook Instant Articles"
+[theoveranalyzed 7]: /2015/1/31/bigfoot-footnotes-in-squarespace "My post about adding Bigfoot footnotes in Squarespace"
+[typekit]: http://typekit.com/ "Adobe TypeKit"
+[typography]: http://www.typography.com/fonts/ideal-sans/overview/ "My beloved Ideal Sans on Hoefler & Co's website"
+[typography 2]: http://www.typography.com/fonts/whitney/overview/ "A previous alternate for Ideal Sans, Whitney, on Hoefler & Co's website"
+[typography 3]: http://www.typography.com/cloud/welcome/ "Hoefler & Co"
+[vesperapp]: http://vesperapp.co/blog/how-to-make-a-vesper/ "The Vesper app's blog, posting about how Vesper 2 came to be"
+[vesperapp 2]: https://itunes.apple.com/us/app/vesper/id655895325?mt=8&at=1l3vx9s "Vesper on the App Store"
+[wikipedia]: https://en.wikipedia.org/wiki/Avenir_(typeface) "Wikipedia: Avenir typeface"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Helvetica "Wikipedia: Helvetica"
+[wikipedia 3]: https://en.wikipedia.org/wiki/San_Francisco_(2014_typeface) "Wikipedia: Apple's San Francisco typeface"

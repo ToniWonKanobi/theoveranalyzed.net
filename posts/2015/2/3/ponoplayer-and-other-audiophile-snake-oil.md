@@ -1,19 +1,22 @@
-@@ Title=PonoPlayer and Other Audiophile Snake Oil  
-@@ Date=2015-02-03 20:00  
-@@ Description=I used to have hundreds of gigabytes of high resolution audio. Was it worth it?  
-@@ Tags=audiophile, audio, music, Neil Young, PonoPlayer, David Pogue  
+Title: PonoPlayer and Other Audiophile Snake Oil  
+Date: 2015-02-03 20:00  
+Description: I used to have hundreds of gigabytes of high resolution audio. Was it worth it?  
+Tags: Audio, Culture  
+Image: https://ksr-ugc.imgix.net/projects/884493/photo-original.jpg?v=1397869511&w=1536&h=1152&fit=crop&auto=format&q=92&s=6b28c62550d672c15f152706808a2a5e  
 
 David Pogue, for [Yahoo!][yahoo] on [PonoPlayer][kickstarter]:
->You’ve got to admit it: The argument for the Pono Player sure is appealing — that we don’t know what we’ve been missing in our music.
 
->Unfortunately, it isn’t true.
+> You’ve got to admit it: The argument for the Pono Player sure is appealing — that we don’t know what we’ve been missing in our music.
+
+> Unfortunately, it isn’t true.
 
 Ouch.
 
 And Sam Machkovech, of [Ars Technica][arstechnica]:
->When it came to comparing albums that were nearly identical, save their sampling rates, we sometimes heard an opportunity to pick out sibilance in a vocal or the ringing sound of a cymbal and say, "Oooh, there's the higher-res version." We were right on those calls every single time. But we had to really, really pick at the audio, asking for frequent replays of short snippets, to make those calls. Some albums, particularly Ella, gave us very few obvious moments like that to work with.
 
->We did notice a difference between songs rendered through a Pono Player and the same ones on either a stereo or a MacBook Pro. Mostly, we preferred on the Pono where the bass sat in the mix, which we noticed was less of a bitrate issue and more of the Pono Player's on-board mix of pre-amp and digital audio converter (DAC). We confirmed this preference after countless volume adjustments to make sure the Pono wasn't just tricking us with volume bumps. We should point out that this bass improvement was most noticeable on pop-rock albums; jazz and classical have plenty of bass action going on, but in those cases, it was actually the higher-end sounds (like an endlessly banged high-hat) that sounded noticeably brighter and crisper compared to other sound sources.
+> When it came to comparing albums that were nearly identical, save their sampling rates, we sometimes heard an opportunity to pick out sibilance in a vocal or the ringing sound of a cymbal and say, "Oooh, there's the higher-res version." We were right on those calls every single time. But we had to really, really pick at the audio, asking for frequent replays of short snippets, to make those calls. Some albums, particularly Ella, gave us very few obvious moments like that to work with.
+
+> We did notice a difference between songs rendered through a Pono Player and the same ones on either a stereo or a MacBook Pro. Mostly, we preferred on the Pono where the bass sat in the mix, which we noticed was less of a bitrate issue and more of the Pono Player's on-board mix of pre-amp and digital audio converter (DAC). We confirmed this preference after countless volume adjustments to make sure the Pono wasn't just tricking us with volume bumps. We should point out that this bass improvement was most noticeable on pop-rock albums; jazz and classical have plenty of bass action going on, but in those cases, it was actually the higher-end sounds (like an endlessly banged high-hat) that sounded noticeably brighter and crisper compared to other sound sources.
 
 So there was no real difference in sound between the Pono songs and the same songs on iTunes. 
 
@@ -32,12 +35,12 @@ The *real* issue facing most modern music concerns [dynamic range][wikipedia] an
 [^o]: Ultimately the [bitrate][wikipedia 3] of the encode matters more than the [bit depth][wikipedia 4] and [sampling rate,][wikipedia 5] but even then, it's a stretch. Once [iTunes Plus][wikipedia 6] came out and ushered in 256 kbps AAC files, the days of crappy sounding lossy tracks were gone. 
 [^n]: My statistics are completely based not on actual data
 
-[arstechnica]: http://arstechnica.com/gadgets/2015/02/pono-player-review-a-tall-refreshing-drink-of-snake-oil/2/
-[kickstarter]: https://www.kickstarter.com/projects/1003614822/ponomusic-where-your-soul-rediscovers-music
-[wikipedia]: https://en.wikipedia.org/wiki/Dynamic_range
-[wikipedia 2]: https://en.wikipedia.org/wiki/Loudness_war
-[wikipedia 3]: https://en.wikipedia.org/wiki/Bit_rate#Audio
-[wikipedia 4]: https://en.wikipedia.org/wiki/Audio_bit_depth
-[wikipedia 5]: https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate
-[wikipedia 6]: https://en.wikipedia.org/wiki/ITunes_Store#Pricing_model
-[yahoo]: https://www.yahoo.com/tech/it-was-one-of-kickstarters-most-successful-109496883039.html
+[arstechnica]: http://arstechnica.com/gadgets/2015/02/pono-player-review-a-tall-refreshing-drink-of-snake-oil/2/ "Ars Technica on the PonoPlayer"
+[kickstarter]: https://www.kickstarter.com/projects/1003614822/ponomusic-where-your-soul-rediscovers-music "PonoPlayer Kickstater"
+[wikipedia]: https://en.wikipedia.org/wiki/Dynamic_range "Wikipedia: Dynamic Range"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Loudness_war "Wikipedia: 'Loudness War'"
+[wikipedia 3]: https://en.wikipedia.org/wiki/Bit_rate#Audio "Wikipedia: Bit rate"
+[wikipedia 4]: https://en.wikipedia.org/wiki/Audio_bit_depth "Wikipedia: Bit depth"
+[wikipedia 5]: https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate "Wikipedia: Sampling rate"
+[wikipedia 6]: https://en.wikipedia.org/wiki/ITunes_Store#Pricing_model "Wikipedia: iTunes Store pricing model"
+[yahoo]: https://www.yahoo.com/tech/it-was-one-of-kickstarters-most-successful-109496883039.html "Yahoo reporting on the PonoPlayer's success as a Kickstater"

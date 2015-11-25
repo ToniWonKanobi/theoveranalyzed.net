@@ -1,9 +1,10 @@
-@@ Title=Honda NSX at Geneva 2015  
-@@ Date=2015-03-06 07:18  
-@@ Link=https://www.youtube.com/watch?v=c1EF4NSp_yM&feature=youtube_gdata  
-@@ Description=It will never be the same.  
-@@ Tags=cars, Honda, NSX, Acura  
+Title: Honda NSX at Geneva 2015  
+Date: 2015-03-06 07:18  
+Link: https://youtu.be/c1EF4NSp_yM  
+Description: Nothing ever stays the same.  
+Tags: Honda  
+Video: https://youtu.be/c1EF4NSp_yM  
 
 Truly, I can't help but miss the [old one][wikipedia].
 
-[wikipedia]: https://en.wikipedia.org/wiki/Honda_NSX
+[wikipedia]: https://en.wikipedia.org/wiki/Honda_NSX "Wikipedia: Honda NSX"

@@ -1,12 +1,16 @@
-@@ Title=Christians [Not] Acting Like Christ?  
-@@ Date=2015-02-19 12:00  
-@@ Description=Because "Love thy neighbor" should *also* apply to every other living thing on the planet.  
-@@ Tags=religion, culture, animals, advocacy, animal advocacy, science, medicine, dentistry, Christianity, Christians, politics  
+Title: Christians Not Acting Like Christ  
+Date: 2015-02-19 12:00  
+Description: Because "Love thy neighbor" should *also* apply to every other living thing on the planet.  
+Tags: Advocacy, Medicine  
+Video: http://www.foodwise.com.au/wp-content/uploads/2012/08/BACKGROUND-Animal-Welfare.jpg  
+
+![Piggies][pigs]
 
 Elaine West, founder of the animal sanctuary [Rooterville][rooterville], was featured in this [video][youtube] by The Humane Society of The United States. 
 
 Here's a quote from the video:
->My brothers would bring home pigs, and we would raise them and eat them. I was always taught that that's what God gave us the animals for.
+
+> My brothers would bring home pigs, and we would raise them and eat them. I was always taught that that's what God gave us the animals for.
 
 Whether or not you eat meat, or whether or not you are an observant/religious person, this is a great watch.
 
@@ -32,11 +36,7 @@ Her third-year research group wanted to explore how mostly Christian students at
 
 Problem was, higher-ups in the administration in both the School of Dentistry and the University as a whole thought Allison's research might paint the school in a bad light.[^bl] So, in one fell swoop of bureaucracy, her research project was stifled before even starting. 
 
-<div class="takehome">
-
-What to make of this?
-
-</div>
+<p><em class="takeHome">What to make of this?</em></p>
 
 A lot of the animal advocacy stuff that crosses my path comes from the progressive-leaning world. Indeed, this is unsurprising. Liberals are generally for movements and causes that increase the welfare and equality for all humans. Why wouldn't they feel the same way toward animals? 
 
@@ -44,52 +44,46 @@ When I read something by [PETA][peta], or watch a YouTube video from [Mercy For 
 
 What is interesting about *this* piece by The Humane Society of The United States is that there are Christian themes brought into the discussion.
 
-<div class="takehome">
-
-This was weird.
-
-</div>
+<p><em class="takeHome">This was weird.</em></p>
 
 Like many progressive ideas, animal advocacy is not particularly lauded by conservatives. Spend some time on your search engine of choice[^ddg] with queries like "[big ag][duckduckgo]," or "[ag gag][duckduckgo]," and you'll find that the major proponents for the current state of affairs in the agriculture industry are [Republicans][humanesociety] and their constituents. Also recall that a large amount of Christians lean traditionally conservative. 
 
 So, to recap: 
 
-**A large amount of conservatives/Republicans, either directly or indirectly,[^di] don't tend to care much about the atrocities in the factory farm industry. And a lot of Christians are conservatives/Republicans.**
+A large amount of conservatives/Republicans, either directly or indirectly,[^di] don't tend to care much about the atrocities in the factory farm industry. And a lot of Christians are conservatives/Republicans.
 
 When I saw today's featured video by HSUS, the irony of the reality rang loud and clear:
 
-* Christians are supposed to act like Christ.
-* [Christ cared about animals][biblestudytools].
-* Christians should care about animals too.[^t]
-* But Christians as a group typically align themselves with the [conservative worldview][alternet].
-* Conservatives are proponents of big business, probably because they own a lot of them.
-* [Big Agriculture is big business][typepad].
-* End result: a whole lot of Christians are ardent defenders of the current [Upton Sinclair][wikipedia]-esque industrialization of animals. 
-* *That's not Christ-like at all.*
+1. Christians are supposed to act like Christ.
+2. [Christ cared about animals][biblestudytools].
+3. Christians should care about animals too.[^t]
+4. But Christians as a group typically align themselves with the [conservative worldview][alternet].
+5. Conservatives are proponents of big business, probably because they own a lot of them.
+6. [Big Agriculture is big business][typepad].
+7. End result: a whole lot of Christians are ardent defenders of the current [Upton Sinclair][wikipedia]-esque industrialization of animals. 
+8. *That's not Christ-like at all.*
 
 This brings us back to Loma Linda University:
 
-<div class="takehome">
-
-How can an institution of higher learning profess its observance and Christianity, while at the same time, neglect the opportunity to investigate alternatives to testing on animals?
-
-</div>
+<p><em class="takeHome">How can an institution of higher learning profess its observance and Christianity, while at the same time, neglect the opportunity to investigate alternatives to testing on animals?</em></p>
 
 Here's quote from Greg Boyd, PhD, pastor for [Woodland Hills Church][whchurch]:
->You have a trajectory throughout the whole Biblical tradition of God caring for the animals. In fact, caring for the creation. And humans being mandated to work with God in caring about creation. It's the first mandate in the bible. 
 
->[Our second] mandate: be fruitful in order that you can have dominion over the earth and the animal kingdom.
+> You have a trajectory throughout the whole Biblical tradition of God caring for the animals. In fact, caring for the creation. And humans being mandated to work with God in caring about creation. It's the first mandate in the bible. 
 
->**The dominion does not mean dominate** [emphasis added].[^ea] It's rather more a concept of stewardship. We are to reflect God's character to the earth and to the animal kingdom. The character he reflects towards us, we are to administrate on the Earth.
+> [Our second] mandate: be fruitful in order that you can have dominion over the earth and the animal kingdom.
+
+> **The dominion does not mean dominate** [emphasis added].[^ea] It's rather more a concept of stewardship. We are to reflect God's character to the earth and to the animal kingdom. The character he reflects towards us, we are to administrate on the Earth.
 
 A couple of years ago, Mark F. Carr[^mc] wrote an [article][adventist][^ca] for an Adventist publication, discussing the morality of testing on animals.
 
 Here are a few pertinent snippets:[^sn]
->Parallel to the basic definition of human rights, that every person is inherently entitled to certain rights simply because of being human, an animal-rights definition asserts similar protections and freedoms for animals.
 
->[Non]-human animals created by God have inherent moral value.
+> Parallel to the basic definition of human rights, that every person is inherently entitled to certain rights simply because of being human, an animal-rights definition asserts similar protections and freedoms for animals.
 
->The intrinsic moral worth in animals should make us reluctant to conduct research that causes them pain and suffering or results in their death.
+> [Non]-human animals created by God have inherent moral value.
+
+> The intrinsic moral worth in animals should make us reluctant to conduct research that causes them pain and suffering or results in their death.
 
 To Carr's point, a number of institutions have elected to explore other means of conducting research, ones that do *not* involve the traditional means of testing on live animal subjects.
 
@@ -105,11 +99,7 @@ It's far time the Christian world caught up with the secular world.
   
 It's far time Christians become the stewards that they profess to be.
 
-<div class="takehome">
-
-It's far time Christians start acting like Christ.
-
-</div>
+<p><em class="takeHome">It's far time Christians start acting like Christ.</em></p>
 
 If you aren't ready to give up meat and/or dairy, try more humane varieties of such. Skip the grocery store and get grass-fed, pasture-raised beef. Try cage-free eggs[^cf] over the regular ones. Start small. In only takes a spark.
 
@@ -130,27 +120,28 @@ If you aren't ready to give up meat and/or dairy, try more humane varieties of s
 [^at]: In addition, they maintain a journal (ALTEX: Alternatives to Animal Experimentation) and a Website dedicated to gathering credible news on alternatives to the use of animals in experimentation (Altweb: The Global Clearinghouse for Information on Alternatives to Animal Testing)
 [^cf]: Be careful with stuff marked "Humane." Sometimes it means something more legitimate than other times. Thanks to the clever marketing techniques of Big Ag, "humane" can be almost as much of a misnomer as "natural."  
 
-[adventist]: http://circle.adventist.org/files/jae/en/jae201376011607.pdf
-[alternet]: http://www.alternet.org/story/146855/why_are_so_many_christians_conservative
-[amazon]: http://www.amazon.com/ENTRUSTED-Christians-Environmental-Care-Dunbar/dp/0984539972%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduckduckgo-osx-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0984539972
-[biblestudytools]: http://www.biblestudytools.com/matthew/9-13.html
-[cdapresents]: http://www.cdapresents.com/
-[duckduckgo]: https://duckduckgo.com/?q=big+ag
-[duckduckgo 2]: http://duckduckgo.com
-[fathompodcast]: http://fathompodcast.com
-[hsus]: http://www.hsus.org
-[humanesociety]: http://www.humanesociety.org/issues/confinement_farm/king-amendment.html
-[jhsph]: http://caat.jhsph.edu
-[jhsph 2]: http://caat.jhsph.edu/resources
-[mercyforanimals]: http://mercyforanimals.org
-[nc3rs]: http://www.nc3rs.org.uk
-[pcrm]: http://www.pcrm.org
-[peta]: http://www.peta.org
-[rooterville]: http://www.rooterville.org
-[theliturgists]: http://www.theliturgists.com
-[twitter]: http://www.twitter.com/venusautumn
-[typepad]: http://hslf.typepad.com/political_animal/
-[uni-konstanz]: http://cms.uni-konstanz.de/leist/caat-europe/
-[whchurch]: http://whchurch.org/
-[wikipedia]: https://en.wikipedia.org/wiki/The_Jungle
-[youtube]: https://www.youtube.com/watch?v=L-Va6F3iQFc&feature=youtube_gdata
+[adventist]: http://circle.adventist.org/files/jae/en/jae201376011607.pdf "'How Should Christians Treat Animals in Research?'"
+[alternet]: http://www.alternet.org/story/146855/why_are_so_many_christians_conservative "AlterNet: 'Why Are So Many Christians Conservative?'"
+[amazon]: http://www.amazon.com/ENTRUSTED-Christians-Environmental-Care-Dunbar/dp/0984539972?tag=theov0c-20 "'Entrusted' on Amazon"
+[biblestudytools]: http://www.biblestudytools.com/matthew/9-13.html "Matthew 9:13"
+[cdapresents]: http://www.cdapresents.com/ "The California Dental Association's annual convention in Anaheim, CA"
+[duckduckgo]: https://duckduckgo.com/?q=big+ag "DuckDuckGo search for 'Big Ag'"
+[duckduckgo 2]: http://duckduckgo.com "DuckDuckGo"
+[fathompodcast]: http://fathompodcast.com "Podcast discussion contemporary Christianity topics, hosted by Dustin Comm"
+[hsus]: http://www.hsus.org "The Humane Society of the United States"
+[humanesociety]: http://www.humanesociety.org/issues/confinement_farm/king-amendment.html "HSUS: King Amendment"
+[jhsph]: http://caat.jhsph.edu "Johns Hopkins University: Center for Alternatives to Animal Testing"
+[jhsph 2]: http://caat.jhsph.edu/resources "Resources from John Hopkins CAAT"
+[mercyforanimals]: http://mercyforanimals.org "Mercy foro Animals"
+[nc3rs]: http://www.nc3rs.org.uk "The National Centre for the Replacement, Refinement, & Reduction of Animals in Research (NC3Rs)"
+[pcrm]: http://www.pcrm.org "Physicians Committee for Responsible Medicine"
+[peta]: http://www.peta.org "People for the Ethical Treatment of Animals"
+[pigs]: http://www.foodwise.com.au/wp-content/uploads/2012/08/BACKGROUND-Animal-Welfare.jpg "Piggies Source: Foodwise]"
+[rooterville]: http://www.rooterville.org "Rooterville, a sanctuary for animals"
+[theliturgists]: http://www.theliturgists.com "Podcast discussing contemporary religion and spirituality, hosted by Michael Gungor and Science Mike"
+[twitter]: http://www.twitter.com/venusautumn "Allison on Twitter"
+[typepad]: http://hslf.typepad.com/political_animal/ "Humane Society Legislative Fund: 'Lawmakers Call for Action in Wake of Mass Slaughter of Wild Horses'"
+[uni-konstanz]: http://cms.uni-konstanz.de/leist/caat-europe/ "CAAT Europe"
+[whchurch]: http://whchurch.org/ "Woodland Hills Church, St. Paul, MN"
+[wikipedia]: https://en.wikipedia.org/wiki/The_Jungle "Upton Sinclair's 'The Jungle'"
+[youtube]: https://youtu.be/L-Va6F3iQFc "Eating Mercifully"

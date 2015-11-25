@@ -1,7 +1,8 @@
-@@ Title=Red-tailed Hawks  
-@@ Date=2015-04-02 14:00  
-@@ Description=Red-tailed hawks are just as awesome as John Oliver says.  
-@@ Tags=John Oliver, Last Week Tonight, Last Week Tonight With John Oliver, birds, raptors, red-tailed hawks, animals, TV, funny  
+Title: Red-tailed Hawks  
+Date: 2015-04-02 14:00  
+Description: Red-tailed hawks are just as awesome as John Oliver says.  
+Tags: Animals, John Oliver  
+Image: http://d.pr/i/1dQXc+  
 
 <!-- FitVids -->
 <!-- http://fitvidsjs.com -->
@@ -29,7 +30,7 @@ Whenever we can, Allison and I visit our [favorite place on Earth][nps]. And whi
 TRC is a non-profit that rehabilitates injured birds of prey. As part of their mission, they offer tours and demonstrations as opportunities for education for tourists. 
 
 <figure>
-	<img src="http://d.pr/i/1dQXc+" alt="Ruby">
+	<img src="http://d.pr/i/1dQXc+" alt="Ruby the red-tailed hawk at Teton Raptor Center" title="Ruby the red-tailed hawk at Teton Raptor Center">
 	<figcaption>Ruby the red-tailed hawk</figcaption>
 </figure>
 
@@ -37,8 +38,8 @@ One of their resident raptors, Ruby, is always a sight to behold. According to J
 
 While the New Hampshire legislature *did* miss an excellent opportunity to show children just how much of a difference they can make in their government, all is not lost. The red-tailed hawk is still as awesome as it always has been. And that's not likely to ever change. 
 
-[nps]: http://www.nps.gov/grte/
-[tetonraptorcenter]: http://www.tetonraptorcenter.org
-[tetonraptorcenter 2]: http://www.tetonraptorcenter.org/meet-the-birds.html
-[urbandictionary]: http://www.urbandictionary.com/define.php?term=BA&defid=1081389
-[wikipedia]: https://en.wikipedia.org/wiki/Red-tailed_Hawk
+[nps]: http://www.nps.gov/grte/ "Grand Teton National Park"
+[tetonraptorcenter]: http://www.tetonraptorcenter.org "Teton Raptor Center"
+[tetonraptorcenter 2]: http://www.tetonraptorcenter.org/meet-the-birds.html "'Meet the Birds' of Teton Raptor Center"
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=BA&defid=1081389 "Urban Dictionary: 'BA'"
+[wikipedia]: https://en.wikipedia.org/wiki/Red-tailed_Hawk "Wikipedia: Red-tailed hawks"

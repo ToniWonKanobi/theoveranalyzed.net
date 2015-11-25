@@ -1,7 +1,8 @@
-@@ Title=One Year Later  
-@@ Date=2015-02-06 18:00  
-@@ Description=Although I haven't been posting regularly for the past year, it feels good to have garnered a small following. Thanks to all of you who read this site.  
-@@ Tags=meta, Anthony, blogging, TheOverAnalyzed    
+Title: One Year Later  
+Date: 2015-02-06 18:00  
+Description: Although I haven't been posting regularly for the past year, it feels good to have garnered a small following. Thanks to all of you who read this site.  
+Tags: Meta  
+Image: https://scontent-lax3-1.cdninstagram.com/hphotos-xtf1/t51.2885-15/e15/1598915_892793347438828_559123465_n.jpg  
 
 # First, Thanks.
 
@@ -50,15 +51,15 @@ So forcing myself to sit down and write an app will accomplish my goal of learni
 
 Stay tuned for updates on my app, and, eventually, podcast. All in good time 🐺
 
-[atp]: http://atp.fm
-[atp 2]: http://atp.fm/episodes/102
-[bigfootjs]: http://www.bigfootjs.com
-[caseyliss]: http://www.caseyliss.com/2014/6/9/how-do-i-start-programming
-[http:]: http:///2015/1/31/bigfoot-footnotes-in-squarespace
-[imore]: http://www.imore.com/debug
-[squarespace]: http://help.squarespace.com/guides/podcasting-with-squarespace
-[theoveranalyzed]: /2014/2/2/first-post-ever
-[theoveranalyzed 2]: /2014/12/23/serial
-[urbandictionary]: http://www.urbandictionary.com/define.php?term=nerd+dome&defid=1935462
-[wikipedia]: https://en.wikipedia.org/wiki/Objective-C
-[wikipedia 2]: https://en.wikipedia.org/wiki/Swift_(programming_language)
+[atp]: http://atp.fm "The Accidental Tech Podcast"
+[atp 2]: http://atp.fm/episodes/102 "Accidental Tech Podcast, episode 102"
+[bigfootjs]: http://www.bigfootjs.com "Bigfoot footnotes"
+[caseyliss]: http://www.caseyliss.com/2014/6/9/how-do-i-start-programming "Casey Liss on how to start programming"
+[http:]: /2015/1/31/bigfoot-footnotes-in-squarespace "My post on incorporating Bigfoot footnotes into Squarespace"
+[imore]: http://www.imore.com/debug "Debug podcast"
+[squarespace]: http://help.squarespace.com/guides/podcasting-with-squarespace "Squarespace help topic on podcasting"
+[theoveranalyzed]: /2014/2/2/first-post-ever "My first post ever"
+[theoveranalyzed 2]: /2014/12/23/serial "My post on the podcast 'Serial'"
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=nerd+dome&defid=1935462 "Urban Dictionary: 'Nerddome"
+[wikipedia]: https://en.wikipedia.org/wiki/Objective-C "Wikipedia: Objective-C"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Swift_(programming_language) "Wikipedia: Swift programming language"

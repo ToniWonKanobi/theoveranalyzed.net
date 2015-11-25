@@ -1,8 +1,9 @@
-@@ Title=Here's What You'd Get if Michael Bay Made a Gritty Power Rangers Movie  
-@@ Date=2015-02-26 10:00  
-@@ Link=http://www.theverge.com/2015/2/24/8100337/power-rangers-michael-bay-movie-adi-shankar  
-@@ Description=This is worth a watch for any Power Rangers fan.    
-@@ Tags=Power Rangers, Anthony, TV, pop culture, Michael Bay  
+Title: Here's What You'd Get if Michael Bay Made a Gritty Power Rangers Movie  
+Date: 2015-02-26 10:00  
+Link: http://www.theverge.com/2015/2/24/8100337/power-rangers-michael-bay-movie-adi-shankar  
+Description: This is worth a watch for any Power Rangers fan.  
+Tags: TV  
+Video: https://youtu.be/vw5vcUPyL90  
 
 Yes, I watched this. 
 
@@ -14,4 +15,4 @@ But it does have that [Dawson's Creek][wikipedia] guy.
 
 Worth 15 minutes? Absolutely.
 
-[wikipedia]: https://en.wikipedia.org/wiki/James_Van_Der_Beek
+[wikipedia]: https://en.wikipedia.org/wiki/James_Van_Der_Beek "Wikipedia: James Van Der Beek"

@@ -1,19 +1,8 @@
-@@ Title=Easily Create Filenames & URL Slugs From Blog Post Titles   
-@@ Date=2015-06-27 17:26  
-@@ Description=I wanted a quick and easy way to select the text in the title of a post and create a URL-friendly ASCII string. Here's how I did it (with help).  
-@@ Tags=blogging, filesystem, AppleScript, scripts, tech tips  
-@@ Image=http://d.pr/i/155iQ+  
-
-<!-- LazyLoad -->
-<!-- http://www.appelsiini.net/projects/lazyload -->
-<script src="/js/lazyload.js"></script>
-<script type="text/javascript" charset="utf-8">
-	$(function() {
-		$("img.lazy").show().lazyload({
-			effect: "fadeIn"
-		});
-	});
-</script>
+Title: Easily Create Filenames & URL Slugs From Blog Post Titles  
+Date: 2015-06-27 17:26  
+Description: I wanted a quick and easy way to select the text in the title of a post and create a URL-friendly ASCII string. Here's how I did it (with help).  
+Tags: Power User, Blogging  
+Image: http://d.pr/i/155iQ+  
 
 # The Problem
 
@@ -21,7 +10,7 @@ My workflow for naming files has never been anything to write home about. Square
 
 For instance, suppose I wanted to create the filename (and in Camel, the resultant URL slug) for this post:
 
-```md
+```
 Easily Create Filenames & URL Slugs From Blog Post Titles
 ```
 
@@ -32,11 +21,9 @@ It isn't the longest I've ever dreamt up, but it certainly isn't the shortest, e
 3. Then I paste the previously selected text into the [Save As field][d 3]:
 4. After that, I start manually changing the uppercase letters to lowercase, removing spaces and replacing them with hyphens, and deleting URL-unfriendly characters like `&`:
 
-<figure class="inlinetwo">
-	<img class="lazy" data-original="http://d.pr/i/15iqM+" alt="Starting the process">
-		<noscript><img class="screenshot" src="http://d.pr/i/15iqM+" alt="Starting the process"></noscript>
-	<img class="lazy" data-original="http://d.pr/i/184Ox+" alt="This takes forever">
-		<noscript><img class="screenshot" src="http://d.pr/i/184Ox+" alt="This takes forever"></noscript>
+<figure>
+	<img class="inlineTwo" src="http://d.pr/i/15iqM+" alt="Starting the process" title="Starting the process">
+	<img class="inlineTwo" src="http://d.pr/i/184Ox+" alt="This takes forever" title="This takes forever">
 	<figcaption style="font-style: normal;">😑</figcaption>
 </figure>
 
@@ -46,7 +33,7 @@ There had to be a better way.
 
 I tried a few browser searches, but nothing came up. I decided it would be a good idea to ask the king of scripting (at least amongst my Twitter follow's):
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> I wrote a Python function that does that as part of a blog-posting script. You could build a script/service from it.</p>&mdash; Dr. Drang (@drdrang) <a href="https://twitter.com/drdrang/status/614814467923120129">June 27, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> I wrote a Python function that does that as part of a blog-posting script. You could build a script/service from it.</p>&mdash; Dr. Drang (@drdrang) <a href="https://twitter.com/drdrang/status/614814467923120129" title="Dr. Drang responding to my question">June 27, 2015</a></blockquote>
 
 The [good][leancrew] [doctor][twitter] was kind enough to send me an email with the contents of a Python script. 
 
@@ -92,7 +79,7 @@ The [good][leancrew] [doctor][twitter] was kind enough to send me an email with 
 
 I tried getting it to work, but, alas, it was beyond my understanding. 
 
-```md
+```
 Anthonys-MacBook:Unidecode-0.04.18 Anthony$ python setup.py install
 running install
 Checking .pth file support in /Library/Python/2.7/site-packages/
@@ -127,11 +114,11 @@ Anthonys-MacBook:Unidecode-0.04.18 Anthony$
 
 Brett Terpstra's suggestion ended up being the winner:
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328">June 27, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328" title="Brett Terpstra's response to me">June 27, 2015</a></blockquote>
 
 Ah. [Slugify][github]. I went back and double-checked Dr. Drang's script. It was basically leveraging Slugify.
 
-After a bit more searching, I found this [page][superuser], in which Alex Plumb shared his [AppleScript][superuser 2], cribbed from [two][macosxautomation] [other][j-schell] AppleScripts he found elsewhere online.
+After a bit more searching, I found this [page][superuser], in which Alex Plumb shared his [AppleScript][superuser 2], cribbed from [two][macosxautomation] other AppleScripts he found elsewhere online.
 
 After some cribbing of my own, here is the contents of my version of Alex's script:
 
@@ -216,7 +203,7 @@ set theresult to change_case(theresult)
 And here's a screenshot of the workflow (it's actually a Service):
 
 <figure>
-	<img src="http://d.pr/i/107X5+" alt="Finished workflow">
+	<img src="http://d.pr/i/107X5+" alt="Finished workflow" title="Finished workflow">
 	<figcaption><code>Slugify.workflow</code></figcaption>
 </figure>
 
@@ -227,31 +214,39 @@ Essentially, what `Slugify.workflow` does is take selected text and automate the
 I also assigned a keyboard shortcut to the service, so that I don't have to invoke the 'right-click' submenu.
 
 <figure>
-	<img src="http://d.pr/i/1lBKU+" alt="Keyboard shortcut for slugify.workflow">
-	<figcaption><code>Option-Shift-Command-R</code></figcaption>
+	<img src="http://d.pr/i/1lBKU+" alt="Keyboard shortcut for slugify.workflow" title="Keyboard shortcut for slugify.workflow">
+	<figcaption><code>Shift-Option-Command-R</code></figcaption>
 </figure>
 
 This couldn't get any easier.
 
-<figure class="inlinetwo>
-	<img class="lazy" data-original="http://d.pr/i/10cCw+" alt="Select the text">
-		<noscript><img class="screenshot" src="http://d.pr/i/10cCw+" alt="Select the text"></noscript>
-	<img class="lazy" data-original="http://d.pr/i/11dN3+" alt="And...done.">
-		<noscript><img class="screenshot" src="http://d.pr/i/11dN3+" alt="And...done."></noscript>
+<figure>
+	<img class="inlineTwo" src="http://d.pr/i/10cCw+" alt="Select the text" title="Select the text">
+	<img class="inlineTwo" src="http://d.pr/i/11dN3+" alt="And ...done." title="And ...done.">
 	<figcaption style="font-style: normal;">😑 &#10142; 😄</figcaption>
 </figure>
 
 # Download
 
-You can download `Slugify.workflow` <a href="http://d.pr/f/1lx3X+" title="Download my `Slugify.workflow`"  download>here</a>.
+You can download `Slugify.workflow` <a href="http://d.pr/f/ra62" title="Download my `Slugify.workflow`">here</a>.
 
-[d]: http://d.pr/i/MDC4+
-[d 2]: http://d.pr/i/BPjq+
-[d 3]: http://d.pr/i/14x3d+
-[github]: https://github.com/cocur/slugify
-[j-schell]: http://www.j-schell.de/node/269
-[leancrew]: http://www.leancrew.com/all-this/
-[macosxautomation]: http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html
-[superuser]: http://superuser.com/questions/635351/process-clipboard-content-on-mac-os
-[superuser 2]: http://superuser.com/revisions/635370/2
-[twitter]: https://twitter.com/drdrang
+<aside>
+<div class="update">
+
+## Update: Fixed Some Errors in Slugify
+<p class="updateTime"><time datetime="2015-11-21">November 21, 2015</time></p>
+
+Found some errors in my script, such as not removing commas. So, I fixed that. (For posterity's sake, I left the code above alone.)
+
+</div>
+</aside>
+
+[d]: http://d.pr/i/MDC4+ "Highlighting the post title"
+[d 2]: http://d.pr/i/BPjq+ "Invoking the Save command"
+[d 3]: http://d.pr/i/14x3d+ "Pasting the text"
+[github]: https://github.com/cocur/slugify "Slugify's GitHub page"
+[leancrew]: http://www.leancrew.com/all-this/ "Dr. Drang's blog, And Now It's All This"
+[macosxautomation]: http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html "AppleScript tutorial"
+[superuser]: http://superuser.com/questions/635351/process-clipboard-content-on-mac-os "Superuser: Process clipboard content on Mac OS?"
+[superuser 2]: http://superuser.com/revisions/635370/2 "The basis for my version of Slugify"
+[twitter]: https://twitter.com/drdrang "Dr. Drang on Twitter"

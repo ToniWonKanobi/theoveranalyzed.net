@@ -1,14 +1,13 @@
-@@ Title=Civil Comments Public Test: 4 Reasons Star Wars Destroys Star Trek  
-@@ Date=2015-09-29 16:23  
-@@ Link=https://civilcomments.com/star-wars-vs-star-trek/  
-@@ Description=  
-@@ Tags=Star Wars, Star Trek, Civil, Civil Comments   
-@@ Image=https://civilcomments.com/images/article_images/starwarsvstartrek_2x.png  
+Title: Civil Comments Public Test: 4 Reasons Star Wars Destroys Star Trek   
+Date: 2015-09-29 16:23  
+Link: https://civilcomments.com/star-wars-vs-star-trek/  
+Description: Civil Comments is in beta.  
+Tags: Blogging, The Web  
+Image: https://civilcomments.com/images/article_images/starwarsvstartrek_2x.png  
 
-<!-- FitVids -->
-<!-- http://fitvidsjs.com -->
+<!-- FitVids (http://fitvidsjs.com) -->
 <script src="/js/fitvids.js"></script>
-<script>
+<script> 
 	$(document).ready(function(){
 		$(".entry").fitVids();
 	});
@@ -19,8 +18,8 @@ I stumbled onto [Christa Mrgan's][cm] [Civil][civil] a few weeks ago. What is [C
 I could tell you, but you should just watch this instead:
 
 <figure>
-	<iframe src="https://player.vimeo.com/video/131170273?color=45a5a5&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-	<figcaption><a href="https://vimeo.com/131170273">"Civil Comments"</a> from <a href="https://vimeo.com/user41217360">Civil Co.</a> on <a href="https://vimeo.com">Vimeo</a></figcaption>
+	<iframe src="https://player.vimeo.com/video/131170273?color=45a5a5&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen title="What is Civil Comments?"></iframe> 
+	<figcaption><a href="https://vimeo.com/131170273" title="Link to Civil Comments on Vimeo">"Civil Comments"</a> from <a href="https://vimeo.com/user41217360" title="Link to Civil Co. on Vimeo">Civil Co.</a> on <a href="https://vimeo.com" title="Vimeo">Vimeo</a></figcaption>
 </figure>
 
 Comments are a [touchy subject][daringfireball] in the blogging world. Some publishers think they are an indispensable aspect of modern blogging. (Why force readers to take their conversations to social media in lieu of having them on publishers's websites?) Yet other publishers find that the [vitriol of public comments leads to a poorer experience for everyone][theverge], so they turn them off.
@@ -34,9 +33,7 @@ I plan to tryout Civil Comments once it goes live. I'm all for intelligent conve
 Today, Mrgan unveiled Civil Comment's "Public Test" mode. And what better crucible to test Civil Comments' civility than a [snarky post][link] detailing how Star Wars is better than Star Trek?
 
 <figure>
-	<a class="nohover" href="https://civilcomments.com/star-wars-vs-star-trek/">
-		<img src="https://civilcomments.com/images/article_images/starwarsvstartrek_2x.png" alt="SW better than ST">
-	</a>
+	<img src="https://civilcomments.com/images/article_images/starwarsvstartrek_2x.png" alt="Star Wars &#62; than Star Trek?" title="Star Wars &#62; than Star Trek?">
 	<figcaption>Star Wars > Star Trek, according to a senior engineer at Civil, Matthew Trost</figcaption>
 </figure>
 
@@ -49,14 +46,14 @@ So there you go.
 [^poor]: The disparity is kind of sad, actually.
 [^unfort]: Unfortunately---and somewhat ironically---a lot of those comments were pretty funny.
 
-[civil]: http://civil.cm
-[civilcomments]: http://www.civilcomments.com
-[cm]: https://twitter.com/antichrista
-[daringfireball]: http://daringfireball.net/2010/06/whats_fair
-[instapaper]: http://instapaper.com
-[link]: https://civilcomments.com/star-wars-vs-star-trek/
-[reederapp]: http://reederapp.com
-[theoveranalyzed]: http://www.theoveranalyzed.net/tags/Star%20Wars
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/tags/Star%20Trek
-[theverge]: http://www.theverge.com/2015/7/6/8901115/were-turning-comments-off-for-a-bit
-[twitter]: https://twitter.com/siracusa/status/648914275369623552
+[civil]: http://civil.cm "Civil Co."
+[civilcomments]: http://www.civilcomments.com "Civil Comments"
+[cm]: https://twitter.com/antichrista "Christa Mrgan on Twitter"
+[daringfireball]: http://daringfireball.net/2010/06/whats_fair "John Gruber on comments"
+[instapaper]: http://instapaper.com "Instapaper"
+[link]: https://civilcomments.com/star-wars-vs-star-trek/ "Civil Comments public test: Star Wars vs. Star Trek"
+[reederapp]: http://reederapp.com "Reeder"
+[theoveranalyzed]: /tags/star%20wars "Posts tagged 'Star Wars'"
+[theoveranalyzed 2]: /tags/star%20trek "Posts tagged 'Star Trek'"
+[theverge]: http://www.theverge.com/2015/7/6/8901115/were-turning-comments-off-for-a-bit "The Verge turning off comments"
+[twitter]: https://twitter.com/siracusa/status/648914275369623552 "Siracusa's tweet about Civil Comments"

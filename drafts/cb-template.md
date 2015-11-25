@@ -1,13 +1,11 @@
-@@ Title=This Week on Cotton Bureau: asdf  
-@@ Date=  
-@@ Link=  
-@@ Description=  
-@@ Tags=This Week on Cotton Bureau, Cotton Bureau, t-shirts, apparel  
-@@ Image=  
+Title: blah  
+Date: blah  
+Link: blah  
+Description: blah  
+Tags: blah  
+Image: blah  
 
 <figure>
-	<a class="nohover" href="linktoshirt">
-		<img src="linktoshirtimage" alt="nameofshirt">
-	</a>
-	<figcaption><a href="twitterlink">ShirtsCreatorName</a>: "CBCaption"</figcaption>
+	<img src="http://d.pr/i/11FTk+" alt="nameofshirt" title="'Blah' on Cotton Bureau">
+	<figcaption><a href="twitterlink" title="Designer's Twitter account">ShirtsCreatorName</a>: "CBCaption"</figcaption>
 </figure>

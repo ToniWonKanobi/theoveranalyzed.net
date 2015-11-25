@@ -1,14 +1,14 @@
-@@ Title=Apple Home Page Tabs History — June 2015 Edition    
-@@ Date=2015-06-19 12:02  
-@@ Link=http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png  
-@@ Description=Former Apple software engineer James Dempsey shared an image showcasing the various apple.com navigation tabs over the years. 
-@@ Tags=Apple, history, design, James Dempsey  
-@@ Image=http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png  
+Title: Apple Home Page Tabs History (June 2015 Edition)  
+Date: 2015-06-19 12:02  
+Link: http://jamesdempsey.net/2015/06/19/apple-home-page-tabs-history-june-2015-edition/  
+Description: Former Apple software engineer James Dempsey shared an image showcasing the various apple.com navigation tabs over the years. 
+Tags: Apple  
+Image: http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png  
 
 James Dempsey, former software engineer at Apple, shared a picture showing the various top navigation bars apple.com has featured over the years. It's interesting to look at how much the navigation bar has changed, and, at the same time, how much it has stayed the same. 
 
 <figure>
-	<img class="screenshot" src="http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png" alt="Apple home page navigation tabs">
+	<img class="screenshot" src="http://jamesdempsey.net/wp-content/uploads/2015/06/AppleTabHistory-Jun15.png" alt="Apple home page navigation tabs" title="Apple home page navigation tabs">
 	<figcaption>15 years of apple.com home page navigation bars</figcaption>
 </figure>
 
@@ -30,4 +30,4 @@ Now, however, it appears Apple is arranging them all by size, which, for OCD typ
 
 [Hat tip to [John Gruber][twitter]]
 
-[twitter]: https://twitter.com/jamesdempsey/status/611946629386518528
+[twitter]: https://twitter.com/jamesdempsey/status/611946629386518528 "James Dempsey's tweet sharing his blog post"

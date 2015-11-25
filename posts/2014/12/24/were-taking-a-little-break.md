@@ -1,7 +1,8 @@
-@@ Title="We're Taking A Little Break"  
-@@ Date=2014-12-24 19:44  
-@@ Description=It's nice to see that on Christmas Eve, not *every* company in the world is concerned with the bottom line.  
-@@ Tags=culture, holidays, business, Cotton Bureau, Toms, Patagonia  
+Title: We're Taking A Little Break  
+Date: 2014-12-24 19:44  
+Description: It's nice to see that on Christmas Eve, not *every* company in the world is concerned with the bottom line.  
+Tags: Culture  
+Image: http://d.pr/i/HrLu+  
 
 So it was Christmas Day earlier today, and [like any good American consumer][redandblack], I faithfully opened up Safari tabs for [Toms][toms], [Cotton Bureau][cottonbureau], and [Patagonia][patagonia] during a moment of boredom post-present opening.
 
@@ -10,7 +11,7 @@ I love all three of the three aforementioned brands. Toms' charity has been [wel
 Upon opening all three websites, I noticed something about the Cotton Bureau one that induced some warm-fuzzy feelings: 
 
 <figure>
-	<img src="http://d.pr/i/HrLu+" alt="Precious 🎄">
+	<img src="http://d.pr/i/HrLu+" alt="Precious 🎄" title="Precious 🎄">
 	<figcaption>Precious 🎄</figcaption>
 </figure>
 
@@ -29,7 +30,7 @@ After all my hyperbole, you can, therefore, imagine my delight upon navigating t
 This was Patagonia's website when I navigated there today: 
 
 <figure>
-	<img src="http://d.pr/i/twiq+" alt="They aren't closed for the holidays, but they are still legit. See story below.">
+	<img src="http://d.pr/i/twiq+" alt="They aren't closed for the holidays, but they are still legit." title="They aren't closed for the holidays, but they are still legit.">
 	<figcaption>They aren't closed for the holidays, but they are still legit. See story below.</figcaption>
 </figure>
 
@@ -42,7 +43,7 @@ Wow. How refreshing.
 And how about Toms?
 
 <figure>
-	<img src="http://d.pr/i/jVnS+" alt="Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight.">
+	<img src="http://d.pr/i/jVnS+" alt="Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight." title="Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight.">
 	<figcaption>Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight.</figcaption>
 </figure>
 
@@ -54,18 +55,18 @@ Maybe for that story it will be 2/3 instead of 1/3 ?
 
 ❄️
 
-[about]: http://atheism.about.com/od/christmasholidayseason/p/AtheistsIgnore.htm
-[appleinsider]: http://appleinsider.com/articles/14/12/22/rumor-apples-12-macbook-air-with-retina-display-to-enter-production-in-q1-2015
-[cafepress]: http://www.cafepress.com/?aid=79835261
-[cottonbureau]: http://cottonbureau.com/
-[cottonbureau 2]: https://cottonbureau.com/products/still-kickin
-[cottonbureau 3]: https://cottonbureau.com/products/tapbots
-[mnn]: http://www.mnn.com/money/green-workplace/stories/patagonia-and-the-environment
-[pacificdentalservices]: http://pacificdentalservices.com/
-[patagonia]: http://patagonia.com/
-[patagonia 2]: http://www.patagonia.com/us/product/mens-nano-puff-hoody?p=84221-0
-[redandblack]: http://www.redandblack.com/views/christmas-and-consumerism-thanksgiving-left-in-the-shadows-of-holiday/article_50ed4494-69ee-11e4-b4b0-abf4e230ddee.html
-[theguardian]: http://www.theguardian.com/commentisfree/2013/dec/20/war-on-christmas-material-culture
-[timeanddate]: http://www.timeanddate.com/holidays/us/christmas-day
-[toms]: http://toms.com/
-[wsj]: http://www.wsj.com/articles/SB10001424052702304252704575155903198032336
+[about]: http://atheism.about.com/od/christmasholidayseason/p/AtheistsIgnore.htm "How atheists deal with Christmas"
+[appleinsider]: http://appleinsider.com/articles/14/12/22/rumor-apples-12-macbook-air-with-retina-display-to-enter-production-in-q1-2015 "Apple Insider on the rumored Retina MacBook Air"
+[cafepress]: http://www.cafepress.com/?aid=79835261 "CafePress"
+[cottonbureau]: http://cottonbureau.com/ "Cotton Bureau"
+[cottonbureau 2]: https://cottonbureau.com/products/still-kickin "'Still Kickin' on Cotton Bureau"
+[cottonbureau 3]: https://cottonbureau.com/products/tapbots "'Tapbots' on Cotton Bureau"
+[mnn]: http://www.mnn.com/money/green-workplace/stories/patagonia-and-the-environment "'Patagonia and the environment'"
+[pacificdentalservices]: http://pacificdentalservices.com/ "Pacific Dental Services (PDS)"
+[patagonia]: http://patagonia.com/ "Patagonia"
+[patagonia 2]: http://www.patagonia.com/us/product/mens-nano-puff-hoody?p=84221-0 "Jacket I have from Patagonia"
+[redandblack]: http://www.redandblack.com/views/christmas-and-consumerism-thanksgiving-left-in-the-shadows-of-holiday/article_50ed4494-69ee-11e4-b4b0-abf4e230ddee.html "Consumerism and the Holidays"
+[theguardian]: http://www.theguardian.com/commentisfree/2013/dec/20/war-on-christmas-material-culture "War on Christmas Material Culture"
+[timeanddate]: http://www.timeanddate.com/holidays/us/christmas-day "Christmas Day in the United States"
+[toms]: http://toms.com/ "Toms"
+[wsj]: http://www.wsj.com/articles/SB10001424052702304252704575155903198032336 "WSJ: 'Toms Gives Shoe Brand Extra Shine'"

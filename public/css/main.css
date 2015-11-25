@@ -5,9 +5,8 @@
 http://practicaltypography.com/point-size.html */
 body {
 	color: #555;
-	font-size: 13pt;
-	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B',
-		-apple-system, sans-serif;
+	font-size: 14pt;
+	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', -apple-system, sans-serif;
 	font-weight: 300;
 	line-height: 1.6;
 	margin: 0;
@@ -41,6 +40,29 @@ a {
 	transition: all 0.2s ease-in-out;
 }
 
+a[href*="amazon."]:after {
+    content: ' (Amazon)';
+}
+
+a[href*="itunes.apple."]:after {
+	content: ' (iTunes Store)';
+}
+
+a[href*="itunes.apple.com/us/book"]:after {
+	content: ' (iBooks Store)';
+}
+
+a[href*="itunes.apple.com/us/app"]:after,
+a[href*="itunes.apple.com/app"]:after {
+	content: ' (App Store)';
+}
+
+a[href*="overcast.fm/+"]:after,
+a[href*="overcast.fm/itunes"]:after,
+a[href*="overcast.fm/podcasts"]:after {
+    content: " (Overcast)";
+}
+
 .entry a {
 	border-bottom: 2px solid #eee;
 	padding-bottom: 1px;
@@ -62,22 +84,40 @@ a.nohover:hover {
 /* Site Header
 ======================================== */
 
-#topHeader,
-#topHeader a {
+#topHeader {
+	background-color: #3f70a2;
 	color: #fff;
-	height: 160px;
+	height: auto;
 	text-align: center;
 }
 
-#topBanner {
-	background-color: #3f70a2;
-	height: 160px;
-	margin-bottom: -160px;
+#topHeader a {
+	color: #fff;
+}
+
+#siteTitleAndLogo {
+	margin: 0;
+	padding-top: 0.75em;
+}
+
+#logo {
+	display: inline-block;
+}
+
+#logo img {
+	vertical-align: baseline;
+	width: 1.5em;
 }
 
 #siteTitle {
-	margin: 2em auto -1.5em auto;
-	width: 520px;
+	font-size: 3em;
+	font-weight: 800;
+	margin: 0 auto;
+}
+
+#siteByline {
+	margin-top: -0.5em;
+	padding-bottom: 1.25em;
 }
 
 /* Main
@@ -85,14 +125,23 @@ a.nohover:hover {
 
 main {
 	margin: 3em auto 6em auto;
-	min-height: calc(100vh - 605px); /* Sets minimum page height */
 	width: 650px;
 }
 
 header.postHeader h1,
+header.pageHeader h1,
 header.postHeaderLinked h2 {
 	font-weight: 700;
-	line-height: 1.5;
+	line-height: 1.35;
+}
+
+header.postHeader h1,
+header.pageHeader h1 {
+	font-size: 1.75em;
+}
+
+header.postHeaderLinked h2 {
+	font-size: 1.5em;
 }
 
 a.postTitle {
@@ -131,137 +180,106 @@ a.postTitleLinked:hover span.linkArrow {
 }
 
 ul.postSubtitleItems {
-	margin: 0.5em auto 0.25em auto;
+	margin: 0.75em auto 0.25em auto;
 	padding: 0;
 }
 
 ul.postSubtitleItems li {
 	display: inline;
-	margin-right: 1em;
 	padding: 0;
 }
 
-.postSubtitle details.postTags {
-	list-style: none;
+span.bull {
+	color: #999;
+	margin: auto 0.25em auto 0.5em;
 }
 
-.postSubtitle details.postTags summary {
-	transition: all 0.2s ease-in-out;
+li.Tags ul {
+	display: inline;
+	padding: 0;
 }
 
-.postSubtitle details.postTags summary:hover {
-	color: #3f70a2;
+li.Tags ul li:first-child:after {
+	content: ', ';
 }
 
-.postSubtitle details.postTags summary:focus {
-	outline: none;
+li.Tags ul li:nth-child(2):after {
+	content: ', and';
 }
 
-.postSubtitle details.postTags summary::-webkit-details-marker {
-	display: none;
+li.Tags ul li:only-child:after {
+	content: '';
 }
 
-.postSubtitle details.postTags ul,
-.postSubtitle details.postTags ul li {
-	list-style: none;
-	margin: 0.5em auto;
-	padding-left: 0;
-	transition: all 0.2s ease-in-out;
+li.Tags ul li:last-child:before,
+li.Tags ul li:last-child:after {
+	content: '';
 }
-
-.postSubtitle details.postTags li:hover {
-	color: #3f70a2;
-}
-
-/* Font Awesome:
-http://fontawesome.io */
-	.postSubtitle i.fa.fa-clock-o.fa-fw {
-		font-size: 0.9em;
-		margin-left: -0.2em;
-		vertical-align: 4%;
-	}
-
-	.postSubtitle i.fa.fa-tag.fa-fw {
-		font-size: 0.7em;
-		vertical-align: 12%;
-	}
-
-	.postSubtitle i.fa.fa-tags.fa-fw {
-		font-size: 0.75em;
-		margin-right: 0.3em;
-		vertical-align: 12%;
-	}
-
 
 /* Post Content
 ======================================== */
 
-.topstory {
-	font-style: italic;
-}
-
-.topstory code {
+em.topStory code {
 	font-style: normal;
 }
 
+figure {
+	margin: 1em auto;
+	text-align: center;
+	width: 100%;
+}
+
+figure.wide {
+	margin: 1.5em auto auto calc( (100vw - 650px) / -2);
+	width: 100vw;
+}
+
 img {
-	max-width: 100%;
+	margin: auto;
 	vertical-align: middle;
+	width: 100%;
 }
 
 img.screenshot {
 	box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
 }
 
-figure {
-	margin: 1em auto;
-	text-align: center;
-}
-
-figure.inlinetwo img {
-	margin-left: 0.25em;
-	margin-right: 0.25em;
-	width: 47%;
-}
-
-figure.inlinethree img {
-	margin-left: 0.25em;
-	margin-right: 0.25em;
-	width: 30%;
-}
-
-figure.figleft,
-figure.figright {
+img.iphone,
+img.applewatch {
+	display: block;
 	width: 50%;
 }
 
-figure.figleft {
-	float: left;
-	margin: 0.5em 2em 1em 0.5em;
-}
-
-figure.figright {
-	float: right;
-	margin: 0.5em 0.5em 1em 2em;
-}
-
-figure.iphone,
-figure.applewatch {
-	width: 50%;
-}
-
-figure.wide {
-	margin: 2em auto auto -25%;
+img.wide {
+	margin-left: -25%;
 	width: 150%;
+}
+
+img.inlineTwo {
+	margin: auto 0.5em 0.5em auto;
+	width: 45%;
+}
+
+img.inlineThree {
+	margin: auto 0.5em 0.5em auto;
+	width: 29%;
+}
+
+img.inlineFour {
+	width: 23%;
 }
 
 figcaption {
 	color: #999;
 	font-size: 0.8em;
 	font-style: italic;
-	margin: 1em auto auto 25%;
+	margin: 0.5em auto auto 20%;
 	text-align: left;
-	width: 50%;
+	width: 60%;
+}
+
+figcaption code {
+	font-style: normal;
 }
 
 audio,
@@ -270,7 +288,7 @@ video {
 }
 
 video.wide {
-	margin-left: -25%;
+	margin: 1em auto 1.5em -25%;
 	width: 150%;
 }
 
@@ -284,10 +302,6 @@ blockquote {
 	color: #999;
 	margin: auto;
 	padding-left: 1em;
-}
-
-blockquote ul li:hover {
-	list-style: inherit;
 }
 
 pre {
@@ -306,6 +320,10 @@ code {
 	padding: 0.3em 0.3em 0.2em 0.3em;
 }
 
+a code {
+	padding-bottom: 1px
+}
+
 pre code {
 	border: none;
 	font-size: 0.9em;
@@ -313,40 +331,8 @@ pre code {
 	word-break: break-word
 }
 
-/* Header Anchors:
-https://github.com/valeriangalliat/markdown-it-anchor */
-a.header-anchor {
-	color: #999;
-	font-size: 0.8em;
-	opacity: 0;
-	transition: all 0.2s ease-in-out;
-	vertical-align: 8%;
-}
-
-a.header-anchor,
-a.header-anchor:hover,
-a.title a {
-	background: none;
-	border-radius: none;
-	color: #3f70a2;
-	text-decoration: none;
-}
-
-h1:hover .header-anchor,
-h2:hover .header-anchor,
-h3:hover .header-anchor,
-h4:hover .header-anchor {
-	opacity: 1;
-}
-
-a.header-anchor,
-a.header-anchor:hover {
-	background: none;
-	border-bottom: none;
-}
-
 /* Fixes `markdown-it`
-`.homepage` fenced code block funkiness */
+homepage fenced code block funkiness */
 .homepage pre code {
 	white-space: pre-line;
 }
@@ -355,46 +341,32 @@ ul, ol, dl {
 	padding-left: 1.75em;
 }
 
-ul {
-	list-style: circle;
-}
-
-ul li:hover {
-	list-style: disc;
-}
-
 li {
 	margin: 1em auto 1em auto;
 	padding-left: 0.25em;
 }
 
-li a:only-child,
-li a:only-child:hover {
-	background: none;
-	border-bottom: none;
-}
-
 /* Cribbed from Byword's Marked CSS:
 http://bywordapp.com/extras/index.html */
-	table {
-		border-bottom: 2px solid #ddd;
-		border-right: 2px solid #ddd;
-		border-collapse: collapse;
-		margin: auto;
-	}
+table {
+	border-bottom: 2px solid #ddd;
+	border-right: 2px solid #ddd;
+	border-collapse: collapse;
+	margin: auto;
+}
 
-	table th {
-		background-color: #eee;
-		border-top: 2px solid #ddd;
-		border-left: 2px solid #ddd;
-		padding: 0.3em 1em;
-	}
+table th {
+	background-color: #eee;
+	border-top: 2px solid #ddd;
+	border-left: 2px solid #ddd;
+	padding: 0.3em 1em;
+}
 
-	table td {
-		border-top: 2px solid #ddd;
-		border-left: 2px solid #ddd;
-		padding: 0.3em 1em;
-	}
+table td {
+	border-top: 2px solid #ddd;
+	border-left: 2px solid #ddd;
+	padding: 0.3em 1em;
+}
 
 table th code {
 	border: 1px solid #ddd;
@@ -409,49 +381,16 @@ table.sortable thead {
 	overflow: auto;
 }
 
-.takehome {
-	border-top: 2px solid #eee;
-	border-bottom: 2px solid #eee;
+em.takeHome {
+	border-top: 4px solid #eee;
+	border-bottom: 4px solid #eee;
 	color: #3f70a2;
+	display: block;
 	font-size: 1.2em;
-	font-style: italic;
 	font-weight: 600;
 	line-height: 1.5;
+	padding: 0.5em 0 0.5em 0.1em;
 	text-transform: uppercase;
-}
-
-.takehomeRight {
-	border-top: 2px solid #eee;
-	border-bottom: 2px solid #eee;
-	color: #3f70a2;
-	float: right;
-	font-size: 1.2em;
-	font-style: italic;
-	font-weight: 600;
-	line-height: 1.5;
-	margin: 0.5em 0.5em 1em 2em;
-	text-transform: uppercase;
-	width: 30%;
-}
-
-.takehomeLeft {
-	border-top: 2px solid #ddd;
-	border-bottom: 2px solid #ddd;
-	color: #3f70a2;
-	float: left;
-	font-weight: 600;
-	font-size: 1.2em;
-	font-style: italic;
-	line-height: 1.5;
-	margin: 0.5em 2em 1em 0.5em;
-	text-transform: uppercase;
-	width: 30%;
-}
-
-.takehome p,
-.takehomeRight p,
-.takehomeLeft p {
-	margin: 0.5em auto 0.5em auto;
 }
 
 .update {
@@ -470,6 +409,7 @@ table.sortable thead {
 .update a {
 	border-bottom: 2px solid #ddd;
 	padding-bottom: 1px;
+	word-break: break-word;
 }
 
 .update a:hover {
@@ -510,7 +450,7 @@ hr:after {
 
 hr.long {
 	border-radius: 0.2em;
-	border: 1.5px solid #ddd;
+	border: 1px solid #ddd;
 	margin: 1.5em auto 1.5em auto;
 	width: 100%;
 }
@@ -540,6 +480,10 @@ sup.footnote-ref a {
 	transition: all 0.2s ease-in-out;
 }
 
+.homepage sup.footnote-ref a {
+	display: none;
+}
+
 hr.footnotes-sep {
 	border: 1px solid #ddd;
 	margin: 5em auto 1.5em 0;
@@ -554,6 +498,10 @@ section.footnotes {
 	margin-top: 5em;
 	padding-top: 1em;
 	padding-left: 1em;
+}
+
+.homepage section.footnotes {
+	display: none;
 }
 
 a.footnote-backref {
@@ -577,23 +525,25 @@ a.footnote-backref:hover {
 .paginationFooter {
 	font-size: 1.1em;
 	font-weight: 400;
-	padding: 3em 0 0 0;
+	border-bottom: 2px solid #eee;
+	border-top: 2px solid #eee;
+	height: 1.75em; /* Have to do this because floats are stupid */
+	margin: 4em auto 5em auto;
+	padding: 1em 0;
 }
 
-.paginationFooter a {
-	color: #999;
+.paginationFooter p {
+	margin: 0;
 }
+
+.paginationFooter a {color: #999;}
 
 .paginationFooter a:hover {
 	color: #3f70a2;
 }
 
-.previousPage {
+.paginationFooter .previousPage {
 	float: right;
-}
-
-.nextPage {
-	float: left;
 }
 
 
@@ -601,58 +551,76 @@ a.footnote-backref:hover {
 ======================================== */
 
 footer {
-	background: #3f70a2;
-	color: #fff;
+	color: #999;
 	text-align: center;
 }
 
 #bottomAd {
-	background: #fff;
-	border-top: 2px solid #ddd;
-	height: 100px;
+	border-top: 2px solid #eee;
 }
 
-#bottomAd figure {
-	margin: 1em auto;
+#bottomAd figure img {
 	width: 100px;
 }
 
 #bottomAd figure figcaption {
-	font-size: 0.8em;
-	margin: auto;
+	font-size: 0.75em;
+	margin-top: 0;
 	text-align: center;
-	width: 100%;
 }
 
 nav {
-	font-size: 1.1em;
-	font-weight: 400;
+	border-top: 2px solid #eee;
 }
 
 nav a {
-	color: #fff;
+	color: #999;
 }
 
 nav a:hover {
-	color: #8abef4;
+	color: #3f70a2;
 }
 
 nav ul {
-	margin: auto;
 	padding: 1em 0;
 }
 
 nav li,
 nav li:hover {
+	display: inline;
+	font-size: 1.1em;
 	list-style: none;
 	margin: auto;
 	padding: 0;
 }
 
+<!-- Search box cribbed from Hardik Pandya
+http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ -->
+
+form#search {
+	padding: 1em 0 1em 0;
+}
+
+form#search input {
+	background-color: #f8f8f8;
+	border: 2px solid #ddd;
+	border-radius: 0.4em;
+	color: #999;
+	max-width: 200px;
+	padding: 0.5em;
+	transition: all 0.2s ease-in-out;
+	width: 50%;
+}
+
+form#search input:focus {
+	box-shadow: 0 4px 8px -4px rgba(0, 0, 0, 0.2);
+	outline: none;
+}
+
 #copyright {
-	font-size: 0.8em;
+	font-size: 0.7em;
 	margin: 0;
-	padding-bottom: 0.5em;
+	padding: 2em 0 2em 0;
 }
 
 /* @media Queries
@@ -662,23 +630,19 @@ nav li:hover {
 @media (max-width: 1100px) {
 
 	main {
-		min-height: calc(100vh - 600px);
 		width: 80vw;
 	}
 
-	figure.wide {
-		margin-left: -10vw;
-		width: 100vw;
-	}
-
+	figure.wide,
+	img.wide,
 	video.wide {
-		margin-left: -10vw;
+		margin: 1em auto auto -10vw;
 		width: 100vw;
 	}
 
 	hr.articleSeparater {
 		border-radius: 0;
-		margin: 3em auto 3em calc( (100vw - 100%) / -2);
+		margin: 2em auto 2em calc( (100vw - 100%) / -2);
 		width: 100vw;
 	}
 
@@ -687,40 +651,47 @@ nav li:hover {
 /* Medium Displays */
 @media (max-width: 736px) {
 
-	#topHeader {
-		height: 120px;
+	#siteTitleAndLogo {
+		padding-top: 1em;
 	}
 
-	#topBanner {
-		height: 120px;
-		margin-bottom: -120px;
+	#logo {
+		margin: 0 0.5em 0 0;
+	}
+
+	#logo img {
+		max-height: 1em;
 	}
 
 	#siteTitle {
-		margin: 1.6em auto -1.25em auto;
-		max-width: 400px;
-		width: 80vw;
+		font-size: 1.75em;
 	}
 
 	main {
-		min-height: calc(100vh - 550px);
 		margin-top: 1.5em;
 	}
 
-	:not(.table) > figure,
-	figure.wide,
-	figure.figleft,
-	figure.figright {
-		float: none;
-		margin: 1em auto auto -10vw;
+	img.inlineFour {
+		margin: 1em auto;
+		width: 40%;
+	}
+
+	img:not(.applewatch, .iphone, .inlineTwo, .inlineThree, .inlineFour),
+	video,
+	audio {
+		margin: auto -10vw;
 		width: 100vw;
 	}
 
-	.takehomeRight,
-	.takehomeLeft {
-		float: none;
+	.update img:not(.applewatch, .iphone, .inlineTwo, .inlineThree, inlineFour),
+	li img:not(.applewatch, .iphone, .inlineTwo, .inlineThree, inlineFour),
+	li video {
 		margin: auto;
 		width: 100%;
+	}
+
+	.paginationFooter {
+		margin: 3em auto 4em auto;
 	}
 
 }
@@ -729,20 +700,48 @@ nav li:hover {
 @media (max-width: 320px) {
 
 	body {
-		font-size: 0.9em
+		font-size: 0.85em;
 	}
 
-	#topHeader {
-		height: 100px;
+	#siteTitle {
+		font-size: 2em;
 	}
 
-	#topBanner {
-		height: 100px;
-		margin-bottom: -100px;
-	}
+}
 
-	main {
-		min-height: calc(100vh - 480px);
-	}
+/* Animations
+======================================== */
 
+/* Cribbed from Hardik Pandya (http://hardik.org/css/base.css) */
+
+.fadeInDown {
+	animation: fadeInDown 0.3s;
+}
+
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fadeInUp {
+	animation: fadeInUp 0.3s;
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }

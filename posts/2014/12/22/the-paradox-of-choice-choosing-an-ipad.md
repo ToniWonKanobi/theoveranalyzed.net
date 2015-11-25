@@ -1,10 +1,12 @@
-@@ Title=The Paradox of Choice & Choosing an iPad  
-@@ Date=2014-12-22 16:48  
-@@ Description=Sometimes too many choices makes thins difficult. Case in point: choosing a new iPad.  
-@@ Tags=iPad, reviews, Anthony, Barry Schwartz, TED Talk  
+Title: The Paradox of Choice & Choosing an iPad  
+Date: 2014-12-22 16:48  
+Description: Sometimes too many choices makes thins difficult. Case in point: choosing a new iPad.  
+Tags: Reviews, iPad  
+Image: http://d.pr/i/lgPU+  
 
 Barry Schwartz, via [TED Talk][ted]:
->With so many options to choose from, people find it very difficult to choose at all.
+
+> With so many options to choose from, people find it very difficult to choose at all.
 
 # Choice, In General
 
@@ -37,19 +39,21 @@ Getting back to my hypothetical Apple hardware scenario, what if all we had in t
 
 * Want to sit at a desk with a big ol' screen and type? Easy, get an iMac.
 * Want to sit on the couch and type things? Easy, get a MacBook.
+
 Obviously the reality of the situ is that there are [many][d 2] iMacs (and Mac Pros), and there are [many][d 3] MacBooks. The decision on what Apple hardware product to buy could never be made as simple as my aforementioned postulates. That said, up until Fall 2014, the choice for an iPad was just about as simplistic as my hypothetical suggestions above. 
 
 This is where we are now:
 
 * Want to take a screen to work that is bigger than an iPhone? Easy, get an iPad.
 * Want to decide what iPad to get? **Easy, you're screwed.** [Do not pass go, and do not collect $200][wikipedia 3]. 
+
 After October 16, 2014 there were now many iPads (and relatively [many][d 4] iPhones as of last month) to choose from.
 
 # How I Decided
 
 ## Firstly
 
-The mini sized iPad is just a gem of a device. I ruled out the Air-sized models fairly early on in the decision making process, much as I had done this time last year. I have had all three iterations of the mini iPad: [the original][wikipedia 4]), [the Retina-ized version][wikipedia 5], and [the current Touch ID enabled version][wikipedia 6]. Without telling the end from the beginning, suffice it to say that the smaller form factor just works really well for me. It is small enough to one hand very comfortably, and its size differential makes it a lot easier to hold in portrait / reading mode two handed vs the Air models. Yes, it has a slightly more washed out color palette than its bigger brothers as well. But text is *still* supremely amazing compared to the original iPad mini, and reading articles via [Instapaper][apple 2] and [Reeder][apple 3] is a completely enjoyable experience on the mini-sized device with its higher-than-the-Air's pixel density of 326 PPI.
+The mini sized iPad is just a gem of a device. I ruled out the Air-sized models fairly early on in the decision making process, much as I had done this time last year. I have had all three iterations of the mini iPad: [the original][wikipedia 4], [the Retina-ized version][wikipedia 5], and [the current Touch ID enabled version][wikipedia 6]. Without telling the end from the beginning, suffice it to say that the smaller form factor just works really well for me. It is small enough to one hand very comfortably, and its size differential makes it a lot easier to hold in portrait / reading mode two handed vs the Air models. Yes, it has a slightly more washed out color palette than its bigger brothers as well. But text is *still* supremely amazing compared to the original iPad mini, and reading articles via [Instapaper][apple 2] and [Reeder][apple 3] is a completely enjoyable experience on the mini-sized device with its higher-than-the-Air's pixel density of 326 PPI.
 
 ## Secondly
 
@@ -61,7 +65,7 @@ This year, the capacity choices were a little convoluted. [Much has been said][d
 
 ## Finally
 
-After having an iPhone 5S and subsequently the 6 / 6 Plus, not having the Touch ID sensor on my iPad seemed like a step backwards. Versus swiping and passcoding like a heathen, it is just so much easier to thumb that precious sapphire-adorned sensor to unlock my phone. Why would I want any different for my tablet?
+After having an iPhone 5S and subsequently the 6 / 6 Plus, not having the Touch ID sensor on my iPad seemed like a step backwards. Versus swiping and passcode'ing like a heathen, it is just so much easier to thumb that precious sapphire-adorned sensor to unlock my phone. Why would I want any different for my tablet?
 
 ***
 
@@ -70,35 +74,35 @@ I chose the the iPad mini 3 (Wi-Fi/Cellular) 64 GB ([iPad4,8][everymac]). Am I c
 
 [That's all I have to say about that.][youtube 2]
 
-[9to5mac]: http://9to5mac.com/2014/10/08/its-been-way-too-long-apple-sends-out-invites-for-thursday-october-16th-ipad-mac-event/
-[anandtech]: http://www.anandtech.com/show/7519/apple-ipad-mini-with-retina-display-reviewed/3
-[apple]: https://itunes.apple.com/us/book/the-paradox-of-choice/id360603357?mt=11&at=1l3vx9s
-[apple 2]: https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&at=1l3vx9s
-[apple 3]: https://itunes.apple.com/us/app/id697846300?at=1l3vx9s
-[apple 4]: https://itunes.apple.com/us/app/real-racing-3/id556164008?at=1l3vx9s
-[apple 5]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8&at=1l3vx9s
-[apple 6]: https://itunes.apple.com/us/podcast/melton/id928565652?at=1l3vx9s
-[apple 7]: https://itunes.apple.com/us/tv-season/star-wars-rebels-vol.-1/id920938545?at=1l3vx9s
-[d]: http://d.pr/i/NkVV+
-[d 2]: http://d.pr/i/1cAIe+
-[d 3]: http://d.pr/i/18S6o+
-[d 4]: http://d.pr/i/18aMe+
-[daringfireball]: http://daringfireball.net/2013/11/the_retina_ipad_mini
-[daringfireball 2]: http://daringfireball.net/2014/10/ipad_air_2
-[engadget]: http://www.engadget.com/2013/11/15/ipad-mini-retina-display-review/
-[everymac]: http://www.everymac.com/systems/apple/ipad/specs/apple-ipad-mini-3-a1600-wi-fi-cellular-lte-specs.html
-[macrumors]: http://www.macrumors.com/2014/01/09/7-years-ago-jobs-iphone/
-[macstories]: http://www.macstories.net/stories/ipads-for-work/
-[missionworkshop]: http://missionworkshop.com/products/bags/messenger/roll_top/small_monty.php
-[sixcolors]: http://sixcolors.com/2014/12/my-favorite-things-hardware/
-[staticworld]: http://core0.staticworld.net/images/article/2014/10/apple-product-line-up-100525358-orig.jpg
-[ted]: http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice
-[twitter]: https://twitter.com/johnmyankee
-[wikipedia]: https://en.wikipedia.org/wiki/The_Paradox_of_Choice
-[wikipedia 2]: https://en.wikipedia.org/wiki/Dentistry
-[wikipedia 3]: http://en.wikipedia.org/wiki/Do_not_pass_Go._Do_not_collect_$200.
-[wikipedia 4]: https://en.wikipedia.org/wiki/IPad_Mini_(1st_generation
-[wikipedia 5]: https://en.wikipedia.org/wiki/IPad_Mini_2
-[wikipedia 6]: https://en.wikipedia.org/wiki/IPad_Mini_3
-[youtube]: http://www.youtube.com/watch?v=WflkuBweSYo&amp;t=1m15s
-[youtube 2]: https://www.youtube.com/watch?v=Otm4RusESNU
+[9to5mac]: http://9to5mac.com/2014/10/08/its-been-way-too-long-apple-sends-out-invites-for-thursday-october-16th-ipad-mac-event/ "Apple invites everyone to its October 16th iPad/Mac event"
+[anandtech]: http://www.anandtech.com/show/7519/apple-ipad-mini-with-retina-display-reviewed/3 "AnandTech reviews the iPad mini with Retina Display"
+[apple]: https://itunes.apple.com/us/book/the-paradox-of-choice/id360603357?mt=11&at=1l3vx9s "The Paradox of Choice on iBooks Store"
+[apple 2]: https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&at=1l3vx9s "Instapaper on the App Store"
+[apple 3]: https://itunes.apple.com/us/app/id697846300?at=1l3vx9s "Reeder 2 on the App Store"
+[apple 4]: https://itunes.apple.com/us/app/real-racing-3/id556164008?at=1l3vx9s "Real Racing 3 on the App Store"
+[apple 5]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8&at=1l3vx9s "Overcast on the App Store"
+[apple 6]: https://itunes.apple.com/us/podcast/melton/id928565652?at=1l3vx9s "'Melton' podcast"
+[apple 7]: https://itunes.apple.com/us/tv-season/star-wars-rebels-vol.-1/id920938545?at=1l3vx9s "Star Wars Rebels, Vol. 1 on the iTunes Store"
+[d]: http://d.pr/i/NkVV+ "iPad choices"
+[d 2]: http://d.pr/i/1cAIe+ "Desktop Mac choices"
+[d 3]: http://d.pr/i/18S6o+ "Mac laptop choices"
+[d 4]: http://d.pr/i/18aMe+ "iPhone choices"
+[daringfireball]: http://daringfireball.net/2013/11/the_retina_ipad_mini "John Gruber reviews the Retina iPad mini"
+[daringfireball 2]: http://daringfireball.net/2014/10/ipad_air_2 "John Gruber reviews the iPad Air 2"
+[engadget]: http://www.engadget.com/2013/11/15/ipad-mini-retina-display-review/ "Engadget reviews the Retina iPad mini"
+[everymac]: http://www.everymac.com/systems/apple/ipad/specs/apple-ipad-mini-3-a1600-wi-fi-cellular-lte-specs.html "Specs for iPad mini with Retina display"
+[macrumors]: http://www.macrumors.com/2014/01/09/7-years-ago-jobs-iphone/ "iPhone, seven years later"
+[macstories]: http://www.macstories.net/stories/ipads-for-work/ "Federico Viticci on using an iPad for work"
+[missionworkshop]: http://missionworkshop.com/products/bags/messenger/roll_top/small_monty.php "Mission Workshop bag (should have gotten the gray color)"
+[sixcolors]: http://sixcolors.com/2014/12/my-favorite-things-hardware/ "Jason Snell's favorite things for the holiday season 2014"
+[staticworld]: http://core0.staticworld.net/images/article/2014/10/apple-product-line-up-100525358-orig.jpg "Apple product lineup"
+[ted]: http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice "Barry Schwartz: 'Paradox of Choice'"
+[twitter]: https://twitter.com/johnmyankee "John Yankee on Twitter"
+[wikipedia]: https://en.wikipedia.org/wiki/The_Paradox_of_Choice "Wikipedia: 'The Paradox of Choice'"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Dentistry "Wikipedia: Dentistry"
+[wikipedia 3]: http://en.wikipedia.org/wiki/Do_not_pass_Go._Do_not_collect_$200. "Wikipedia: 'Do not pass go, do not collect $200'"
+[wikipedia 4]: https://en.wikipedia.org/wiki/IPad_Mini_(1st_generation) "Wikipedia: iPad mini (1st generation)"
+[wikipedia 5]: https://en.wikipedia.org/wiki/IPad_Mini_2 "Wikipedia: iPad mini 2"
+[wikipedia 6]: https://en.wikipedia.org/wiki/IPad_Mini_3 "Wikipedia: iPad mini 3"
+[youtube]: http://www.youtube.com/watch?v=WflkuBweSYo&amp;t=1m15s "Kenny Loggins & Michael McDonald-This is it"
+[youtube 2]: https://www.youtube.com/watch?v=Otm4RusESNU "YouTube: That's All I Have To Say About That- Forrest Gump Quote"

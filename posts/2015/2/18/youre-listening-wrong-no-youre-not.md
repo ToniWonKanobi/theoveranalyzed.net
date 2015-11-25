@@ -1,10 +1,14 @@
-@@ Title=You're Listening Wrong (No You're Not)   
-@@ Date=2015-02-18 12:00  
-@@ Description=Apparently listening to podcasts at higher than 1x and or with silence-removing features is heresy.  
-@@ Tags=podcasts, culture, apps, Marco Arment, Overcast  
+Title: You're Listening Wrong (No You're Not)  
+Date: 2015-02-18 12:00  
+Description: Apparently listening to podcasts at higher than 1x and or with silence-removing features is heresy.  
+Tags: Podcasts, Apps  
+Image: http://d.pr/i/1eQHn+ 
+
+![Overcast turned up to 'Crazy'][ovc]
 
 In a [piece][theverge] for The Verge yesterday, John Lagomarsino made the claim that listening to podcasts at greater than 1x speeds is doing a huge disservice to both the podcast's author(s), as well as the listener themselves:
->I love audio. And I want you to love audio, too. But I’m not sure you can, because of this habit you’ve got. I know you’re busy, and you have a lot on your plate, and there are so many shows to keep up with, but you need to stop listening to podcasts sped up to 1.5x. You need to open yourself up to love.
+
+> I love audio. And I want you to love audio, too. But I’m not sure you can, because of this habit you’ve got. I know you’re busy, and you have a lot on your plate, and there are so many shows to keep up with, but you need to stop listening to podcasts sped up to 1.5x. You need to open yourself up to love.
 
 Notably, he lamented the state of affairs in which a [new podcast app][overcast] introduced [speed-saving features][marco] because it had to. He argues that podcasts are not meant to be sped up, and when they are, a certain amount of gravitas is lost on the listener.
 
@@ -20,7 +24,7 @@ So, sure, it's probably best for you to listen to artfully crafted podcasts at m
 
 # For The Rest Of Us
 
-I don't currently have any audiophile gear, but when I did, I was up there with the best of them in the 'prosumer-student-on-a-budget' category. My [HD650][amazon]'s sounded great when powered by my [Duet 2][amazon 2]. I listened to music in lossless [ALAC][wikipedia] format, and I listened to [whole albums at a time][cnet].[^kta] I was downloading all my music from [great sources][what], and if someone told me about a new album to check out, or if I heard something on the radio, I was getting it in lossless and listening to it like a purist.
+I don't currently have any audiophile gear, but when I did, I was up there with the best of them in the 'prosumer-student-on-a-budget' category. My [Sennheiser HD 650][amazon] sounded great when powered by my [Duet 2][amazon 2]. I listened to music in lossless [ALAC][wikipedia] format, and I listened to [whole albums at a time][cnet].[^kta] I was downloading all my music from [great sources][what], and if someone told me about a new album to check out, or if I heard something on the radio, I was getting it in lossless and listening to it like a purist.
 
 Things have changed a bit for me since then. I sold all that audiophile stuffs, probably to fund whatever was to be my next gear acquisition quest. And now, my willingness to buy stuff on the iTunes Store has been amplified by my sorta-recent life change from a student to a professional. In other words, I have the money to buy something if I want. *And boy does it feel good to buy something and know that it supports whomever produced the effort.*[^te]
 
@@ -43,26 +47,30 @@ Lagomarsino makes it seem like it's all or nothing. You're a podcast purist or a
 I'm not the lone dissenter either.
 
 Stephen Hackett of 512 Pixels had [this][512pixels] to say:
->As a host and producer of podcasts, I view things like Smart Speed as a net positive on the industry. I’ve saved 33 hours in Overcast personally, as a matter of fact.
 
->Yes, Smart Speed and features like it change our shows; listening above 1x can cause little issues with things like music and pauses, but in reality, **it doesn’t greatly impact what we create each week** [emphasis added].
+> As a host and producer of podcasts, I view things like Smart Speed as a net positive on the industry. I’ve saved 33 hours in Overcast personally, as a matter of fact.
 
->The truth is, for shows like ours, it doesn’t matter anyways. The ebbs and flows of conversation are still present when sped up a touch. What the listener hears and what we produce doesn’t have to be 1:1 to be good.
+> Yes, Smart Speed and features like it change our shows; listening above 1x can cause little issues with things like music and pauses, but in reality, **it doesn’t greatly impact what we create each week** [emphasis added].
 
->I’d rather people listen a little faster and consume more of our content than hear every single beat, as it comes out of Logic.
+> The truth is, for shows like ours, it doesn’t matter anyways. The ebbs and flows of conversation are still present when sped up a touch. What the listener hears and what we produce doesn’t have to be 1:1 to be good.
+
+> I’d rather people listen a little faster and consume more of our content than hear every single beat, as it comes out of Logic.
 
 And the developer of Overcast himself, Marco Arment, [weighed in][marco 2] as well:
->Anyone dictating how people can or should consume media only ensures their own rapid irrelevance.
+
+> Anyone dictating how people can or should consume media only ensures their own rapid irrelevance.
 
 Besides the above gem, Marco had added this:
->Speeding up the [...] pauses is like skimming an article — you’re missing some of the detail and experience that the author intended. But a lot of articles aren’t interesting enough to be read slowly and completely, and most people don’t have time for that. People naturally skim and vary their reading speed as needed for the situation they’re in, how much they care, and how much attention they think the content deserves, and many people are simply faster readers than others.
+
+> Speeding up the [...] pauses is like skimming an article — you’re missing some of the detail and experience that the author intended. But a lot of articles aren’t interesting enough to be read slowly and completely, and most people don’t have time for that. People naturally skim and vary their reading speed as needed for the situation they’re in, how much they care, and how much attention they think the content deserves, and many people are simply faster readers than others.
 
 And finally:
->The biggest reason people cite for not listening to more podcasts is that they don’t have the time. My goal with Smart Speed was to directly address that: to make more time for people. And it has: since Smart Speed time-saved totals are synced to Overcast’s servers, I can happily report that Smart Speed has cumulatively saved 55 years of listening time so far. I bet that the vast majority of that time saved was subsequently filled with… more podcasts.
 
->And it doesn’t hurt anyone. I don’t want sugar in my coffee, but it won’t impact my enjoyment of my coffee if you put sugar in yours. I can enjoy the crap out of listening to live Phish shows with my HE-6 regardless of whether you listen to pop music with Beats. And your enjoyment of podcasts at 1× isn’t affected at all by me listening at 1.125× plus Smart Speed. There’s no downside to giving people these options.
+> The biggest reason people cite for not listening to more podcasts is that they don’t have the time. My goal with Smart Speed was to directly address that: to make more time for people. And it has: since Smart Speed time-saved totals are synced to Overcast’s servers, I can happily report that Smart Speed has cumulatively saved 55 years of listening time so far. I bet that the vast majority of that time saved was subsequently filled with… more podcasts.
 
->If the option to speed up podcasts lets people listen to more podcasts, everyone wins.
+> And it doesn’t hurt anyone. I don’t want sugar in my coffee, but it won’t impact my enjoyment of my coffee if you put sugar in yours. I can enjoy the crap out of listening to live Phish shows with my HE-6 regardless of whether you listen to pop music with Beats. And your enjoyment of podcasts at 1× isn’t affected at all by me listening at 1.125× plus Smart Speed. There’s no downside to giving people these options.
+
+> If the option to speed up podcasts lets people listen to more podcasts, everyone wins.
 
 [I do what I want.][youtube] You should too. 
 
@@ -70,32 +78,33 @@ And finally:
 [^kta]: Crazy, right?
 [^te]: Lots of arguments to be made here. Suffice it to say that what's right is right: if it's easy, [most people will do the right thing][pcmag] and pay for digital content. It just hasn't been (and still isn't) the easiest thing in the world.
 
-[512pixels]: http://www.512pixels.net/blog/2015/2/another-week-another-debate-about-podcasts
-[amazon]: http://www.amazon.com/Sennheiser-HD-650-Headphones/dp/B00018MSNI
-[amazon 2]: http://www.amazon.com/Apogee-Duet-Audio-Interface-iPad/dp/B00BB2QBLI/ref=sr_1_1?tag=theov0c-20
-[apple]: http://support.apple.com/en-us/HT201616
-[atp]: http://atp.fm
-[bravewave]: http://www.bravewave.net
-[cnet]: http://www.cnet.com/news/will-the-single-kill-the-album/
-[d]: http://d.pr/i/aV1m+
-[d 2]: http://d.pr/i/1bahR+
-[engadget]: http://www.engadget.com/2012/09/18/apple-earpods-review/
-[extras]: http://www.extras.relay.fm/blog/2015/2/18/inquisitive-behind-the-app
-[howstuffworks]: http://computer.howstuffworks.com/internet/basics/podcasting2.htm
-[howstuffworks 2]: http://www.howstuffworks.com/
-[macstories]: http://www.macstories.net
-[marco]: http://www.marco.org/2014/07/16/overcast
-[marco 2]: http://www.marco.org/2015/02/17/listen-to-podcasts-at-whatever-speed-you-want
-[npr]: http://www.npr.org/2009/12/31/122114058/the-loudness-wars-why-music-sounds-worse
-[overcast]: http://overcast.fm
-[pcmag]: http://www.pcmag.com/article2/0,2817,2396424,00.asp
-[relay]: http://www.relay.fm/inquisitive/27
-[rollingstone]: http://www.rollingstone.com/culture/features/sarah-koenig-on-serial-20141024
-[serialpodcast]: http://serialpodcast.org/
-[theverge]: http://www.theverge.com/2015/2/17/8043077/stop-listening-to-podcasts-fast-speed
-[thisamericanlife]: http://www.thisamericanlife.org/podcast
-[thisamericanlife 2]: http://www.thisamericanlife.org/about/serial
-[twitter]: https://twitter.com/BraveWaveMusic
-[what]: http://what.cd
-[wikipedia]: https://en.wikipedia.org/wiki/Apple_Lossless
-[youtube]: http://www.youtube.com/watch?v=YeiM3PpZ01Y
+[512pixels]: http://www.512pixels.net/blog/2015/2/another-week-another-debate-about-podcasts "Stephen Hackett's response to The Verge article"
+[amazon]: http://www.amazon.com/Sennheiser-HD-650-Headphones/dp/B00018MSNI?tag=theov0c-20 "My previous headphone pick, the Sennheiser HD 650, on Amazon"
+[amazon 2]: http://www.amazon.com/Apogee-Duet-Audio-Interface-iPad/dp/B00BB2QBLI/ref=sr_1_1?tag=theov0c-20 "The Apogee Duet audio interface, on Amazon"
+[apple]: http://support.apple.com/en-us/HT201616 "Apple Support page entitled 'About iTunes Plus'"
+[atp]: http://atp.fm "Accidental Tech Podcast"
+[bravewave]: http://www.bravewave.net "The folks who did the music for Myke Hurley's 'Behind the App' series"
+[cnet]: http://www.cnet.com/news/will-the-single-kill-the-album/ "Cnet piece on the rise of songs versus albums"
+[d]: http://d.pr/i/aV1m+ "Normal listening speed in Overcast"
+[d 2]: http://d.pr/i/1bahR+ "Slowed-down speed for particular podcasts, like the 'Behind the App' series of Inquisitive"
+[engadget]: http://www.engadget.com/2012/09/18/apple-earpods-review/ "Engadget reviews Apple's EarPods"
+[extras]: http://www.extras.relay.fm/blog/2015/2/18/inquisitive-behind-the-app "'Behind the App' series of Inquisitive"
+[howstuffworks]: http://computer.howstuffworks.com/internet/basics/podcasting2.htm "Podcasting explained on 'How Stuff Works'"
+[howstuffworks 2]: http://www.howstuffworks.com/ "How Stuff Works"
+[macstories]: http://www.macstories.net "Federico Viticci's blog, MacStories"
+[marco]: http://www.marco.org/2014/07/16/overcast "Marco Arment's post introducing Overcast"
+[marco 2]: http://www.marco.org/2015/02/17/listen-to-podcasts-at-whatever-speed-you-want "Marco Arment defending how people want to listen to podcasts"
+[npr]: http://www.npr.org/2009/12/31/122114058/the-loudness-wars-why-music-sounds-worse "NPR explains 'The Loudness War'"
+[ovc]: http://d.pr/i/1eQHn+ "Overcast turned up to 'Crazy'"
+[overcast]: http://overcast.fm "Overcast webapp"
+[pcmag]: http://www.pcmag.com/article2/0,2817,2396424,00.asp "PC Magazine: iTunes Match Ends Piracy As We Know It"
+[relay]: http://www.relay.fm/inquisitive/27 "Inquisitive podcast, episode 27"
+[rollingstone]: http://www.rollingstone.com/culture/features/sarah-koenig-on-serial-20141024 "Rolling Stone interviews Sarah Koenig of Serial"
+[serialpodcast]: http://serialpodcast.org/ "'Serial' podcast"
+[theverge]: http://www.theverge.com/2015/2/17/8043077/stop-listening-to-podcasts-fast-speed "Piece that inspired this post"
+[thisamericanlife]: http://www.thisamericanlife.org/podcast "'This American Life' podcast"
+[thisamericanlife 2]: http://www.thisamericanlife.org/about/serial "'Serial' podcast"
+[twitter]: https://twitter.com/BraveWaveMusic "Folks behind the music in Myke Hurley's 'Behind the App' series"
+[what]: http://what.cd "Best place for hard-to-find audio"
+[wikipedia]: https://en.wikipedia.org/wiki/Apple_Lossless "Apple's proprietary lossless audio codec"
+[youtube]: http://www.youtube.com/watch?v=YeiM3PpZ01Y "Cartman doing what he wants"

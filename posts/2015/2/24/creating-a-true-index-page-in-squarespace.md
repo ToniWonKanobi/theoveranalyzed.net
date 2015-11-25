@@ -1,15 +1,12 @@
-@@ Title=Creating a True Index Page in Squarespace  
-@@ Date=2015-02-24 23:26   
-@@ Description=Here's how I hacked Squarespace to have a true Index page    
-@@ Tags=Squarespace, blogging, TheOverAnalyzed  
+Title: Creating a True Index Page in Squarespace  
+Date: 2015-02-24 23:26  
+Description: Here's how I hacked Squarespace to have a true Index page.  
+Tags: Squarespace  
+Image: http://d.pr/i/1iXJC+  
 
 ## Forward
 
 I thought I should do a quick post outlining how I crafted my Index page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content. True, `/archive` contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an `/index` page and `Command + F` to query a string of words that might fit the title.
-
-<h2>Contents</h2>
-
-[[TOC]]
 
 # Dealing With Content Management Systems
 
@@ -37,7 +34,7 @@ In a nutshell, implementing this Index page involves the following:
 3. Replace the `CollectionID` Sid populated in his script with the one you found in step 1
 4. Enjoy
 
-## 1. Get The CollectionID For The Blog You Want To Index
+## 1. Get the `CollectionID` for the blog you want to index
 
 Pre-Squarespace 7, the `CollectionID`[^ci] was  much easier to find. But in their newest version of Layout Engine, finding the `CollectionID` is harder than it has to be. 
 
@@ -45,13 +42,16 @@ In order to do this, I navigated to my blog page and [viewed the source][appleto
 
 I then searched the source for `"collectionid"`. I found several entries. The one I wanted was the one that contained this bit of text:
  
- `{"title":"Archive","id":"52eda1d5e4b0d08405a037de","fullUrl":"/"}`[^bt]
+ ```
+ {"title":"Archive","id":"52eda1d5e4b0d08405a037de","fullUrl":"/"}`
+ ```
+ [^bt]
  
-## 2. Create a Code Block And Load The Script
+## 2. Create a Code block and load the script
 
 Here is the content of the `Code block` I used to make the Index:[^ind]
 
-``` html
+```
 <h1>Index</h1>
 
 <p>This page contains permalinks to all my Posts and every Link I have shared.</p>
@@ -133,7 +133,7 @@ $('#allarchive').append('<p>');
 # Ahh.
 
 <figure>
-	<img src="http://d.pr/i/1iXJC+" alt="Finished">
+	<img src="http://d.pr/i/1iXJC+" alt="Finished" title="Finished">
 	<figcaption>Finished.</figcaption>
 </figure>
  
@@ -143,15 +143,15 @@ $('#allarchive').append('<p>');
 [^bt]: "Archive" is the name of my blog page. Your string should have whatever you  chose for the name of your blog in place of "Archive".
 [^ind]: I tweaked Sid's code slightly to better suit my needs
 
-[appletoolbox]: http://appletoolbox.com/2013/04/how-to-view-html-source-code-in-safari/
-[caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced
-[crateofpenguins]: http://crateofpenguins.com/
-[crateofpenguins 2]: http://crateofpenguins.com/blog/2013-9-squarespace-post-index-non-hacky-version
-[crateofpenguins 3]: http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites
-[daringfireball]: http://daringfireball.net/linked/
-[marco]: http://www.marco.org/secondcrack
-[sidoneill]: http://sidoneill.com
-[squarespace]: http://help.squarespace.com/guides/using-the-index-page
-[squarespace 2]: http://answers.squarespace.com/questions/30592/summary-block
-[squarespace 3]: http://help.squarespace.com/guides/linking-a-post-title-to-external-content
-[wikipedia]: https://en.wikipedia.org/wiki/CamelCase
+[appletoolbox]: http://appletoolbox.com/2013/04/how-to-view-html-source-code-in-safari/ "How to view HTML source in Safari"
+[caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced "Casey Liss open-sourcing Camel"
+[crateofpenguins]: http://crateofpenguins.com/ "Blog that helped me with some Squarespace problems"
+[crateofpenguins 2]: http://crateofpenguins.com/blog/2013-9-squarespace-post-index-non-hacky-version "Where I cribbed the text for my post index"
+[crateofpenguins 3]: http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites "This helped me add Bigfoot footnotes to Squarespace"
+[daringfireball]: http://daringfireball.net/linked/ "John Gruber's 'Linked List'"
+[marco]: http://www.marco.org/secondcrack "Marco Arment's static blogging engine, 'SecondCrack'"
+[sidoneill]: http://sidoneill.com "More help with Squarespace problems"
+[squarespace]: http://help.squarespace.com/guides/using-the-index-page "Squarespace help topic for using the Index page"
+[squarespace 2]: http://answers.squarespace.com/questions/30592/summary-block "Squarespace Answers forum on using the Summary block"
+[squarespace 3]: http://help.squarespace.com/guides/linking-a-post-title-to-external-content "Squarespace help topic for linked posts support"
+[wikipedia]: https://en.wikipedia.org/wiki/CamelCase "Wikipedia: CamelCase"

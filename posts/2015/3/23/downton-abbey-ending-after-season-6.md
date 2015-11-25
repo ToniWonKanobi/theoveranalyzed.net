@@ -1,11 +1,15 @@
-@@ Title=Downton Abbey Ending After Season 6  
-@@ Date=2015-03-23 07:40  
-@@ Link=http://www.slashfilm.com/downton-abbey-ending/  
-@@ Description=We only have one more season with our favorite Yorkshire aristocrats.  
-@@ Tags=Downton Abbey, TV  
+Title: Downton Abbey Ending After Season 6  
+Date: 2015-03-23 07:40  
+Link: http://www.slashfilm.com/downton-abbey-ending/  
+Description: We only have one more season with our favorite Yorkshire aristocrats.  
+Tags: Downton Abbey  
+Image: http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/Downton-Abbey-700x300.jpg?resize=700%2C300  
+
+![Downton Abbey cast][wp]
 
 Germain Lussier, for /Film:
->Word has come down that season six, which will air later this year in the United Kingdom before airing on PBS in the States in January 2016, will be the final season of Downton Abbey.
+
+> Word has come down that season six, which will air later this year in the United Kingdom before airing on PBS in the States in January 2016, will be the final season of Downton Abbey.
 
 I started watching Downton Abbey in early 2013, when the first season was 'live' in the US. Amidst other [popular shows][wikipedia] of the time, Downton Abbey succeeded in reminding TV fans that gore and sex aren't the *only* ways to our hearts---a great story can do just as much to captivate. 
 
@@ -15,9 +19,10 @@ Having followed a few TV series from inception to finale,[^ja] it is comical to 
 
 [^ja]: [JAG][wikipedia 2], and [Gilmore Girls][wikipedia 3] (with Allison of course)
 
-[celebuzz]: http://www.celebuzz.com/2014-01-09/dan-stevens-apologizes-to-downton-downton-abbey-fans-for-leaving-show/
-[nowmagazine]: http://www.nowmagazine.co.uk/celebrity-news/551530/george-clooney-i-love-downton-abbey
-[telegraph]: http://www.telegraph.co.uk/culture/tvandradio/downton-abbey/9765334/Dan-Stevens-Why-I-left-Downton-Abbey.html
-[wikipedia]: https://en.wikipedia.org/wiki/Game_of_Thrones_(season_3)
-[wikipedia 2]: https://en.wikipedia.org/wiki/JAG_%28TV_series%29
-[wikipedia 3]: https://en.wikipedia.org/wiki/Gilmore_Girls
+[celebuzz]: http://www.celebuzz.com/2014-01-09/dan-stevens-apologizes-to-downton-downton-abbey-fans-for-leaving-show/ "Dan Steves apologizes to fans for leaving"
+[nowmagazine]: http://www.nowmagazine.co.uk/celebrity-news/551530/george-clooney-i-love-downton-abbey "George Clooney to be in Downton Abbey"
+[telegraph]: http://www.telegraph.co.uk/culture/tvandradio/downton-abbey/9765334/Dan-Stevens-Why-I-left-Downton-Abbey.html "Downton Abbey's Dan Stevens on why he left the show"
+[wikipedia]: https://en.wikipedia.org/wiki/Game_of_Thrones_(season_3) "Wikipedia: Gilmore Girls, Season 3"
+[wikipedia 2]: https://en.wikipedia.org/wiki/JAG_%28TV_series%29 "Wikipedia: JAG"
+[wikipedia 3]: https://en.wikipedia.org/wiki/Gilmore_Girls "Wikipedia: Gilmore Girls"
+[wp]: http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/Downton-Abbey-700x300.jpg?resize=700%2C300 "Downton Abbey cast"

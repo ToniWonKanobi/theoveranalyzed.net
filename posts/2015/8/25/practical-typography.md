@@ -1,11 +1,11 @@
-@@ Title=How Practical Typography Helped Me Be a Better Writer  
-@@ Date=2015-08-25 10:35  
-@@ Description=How did I *just* discover Matthew Butterick's Practical Typography? It's helped me become a better writer, which should totally benefit you all.  
-@@ Tags=fonts, typefaces, typography, web design, blogging, Matthew Butterick, Practical Typography  
-@@ Image=http://practicaltypography.com/images/index-a.svg  
+Title: How Practical Typography Helped Me Be a Better Writer  
+Date: 2015-08-25 10:35  
+Description: How did I *just* discover Matthew Butterick's Practical Typography? It's helped me become a better writer, which should totally benefit you all.  
+Tags: Typography, Blogging  
+Image: http://practicaltypography.com/images/index-a.svg  
 
 <figure>
-	<img src="http://d.pr/i/17dhF+" alt="Practical Photography: Semicolons and colons">
+	<img src="http://d.pr/i/17dhF+" alt="Practical Photography: Semicolons and colons" title="Practical Photography: Semicolons and colons">
 	<figcaption>No one ever gets <a href="http://practicaltypography.com/semicolons-and-colons.html">these</a> right.</figcaption>
 </figure>
 
@@ -63,7 +63,6 @@ Both dashes have different uses.[^int] As stated previously, em dashes are for s
 En dashes are appropriate to signify a range of values, such has the year range 2015--2016:
 
 <div class="table" id="endashes">
-
 <figure>
 
 | Sample Text | `markdown-it` ([CommonMark][cm]) Parse |    
@@ -71,7 +70,6 @@ En dashes are appropriate to signify a range of values, such has the year range 
 | `2015-2016` |                2015-2016               |
 	
 <figcaption>Table 1.1 &ndash; Incorrect use of Hyphens</figcaption>
-
 </figure>
 
 <figure>
@@ -81,9 +79,7 @@ En dashes are appropriate to signify a range of values, such has the year range 
 | `2015-2016` |             2015&ndash;2016            |
 
 <figcaption>Table 1.2 &ndash; Correct use of en dash</figcaption>
-
 </figure>
-
 </div>
 
 According to Butterick, this nasty habit of writers using double-hyphens in place of actual em dashes was born from the [typewriter days][practicaltypography 4]. After a simple Finder search,[^ma] I spent about an hour or so going through ~50 or so Markdown documents, quickly changing all the instances of inappropriate double hyphens ` -- ` and  changing them instead to the correct em dashes <span><code>&mdash;</code></span>.
@@ -95,7 +91,6 @@ Butterick also had good advice as far as header (`<h1>`, `<h2>`, etc.) font size
 Not only were `.entry`-level headings made too big compared to the regular font size, but post titles (`.postHeader` and `.postHeaderLinked`) were even *bigger*. For example, for `.postHeader` (non-linked posts) titles, the font size was 200% body text for the homepage (`.homepage`), and 220% on the permalink page (`.post`). 
 
 <div class="table" id="previousfontsizes">
-
 <figure>
 
 | Sample Text                                | Text Type              |   HTML & CSS Classes   |  
@@ -106,15 +101,12 @@ Not only were `.entry`-level headings made too big compared to the regular font 
 | <span style="font-size:2.2em">Blah</span>  | "Permalink" post title |   `.post .postTitle`   |
 
 <figcaption>Table 2.1 &ndash; Previous Font Sizes</figcaption>
-
 </figure>
-
 </div>
 
 Note that in Table 2.1 above, I left the font weight unchanged. The differences in font size are even more exaggerated if my previous `font-weight`'s are applied:[^std]
 
 <div class="table" id="previousfontweightapplied">
-
 <figure>
 
 | Sample Text                                                | Text Type              |   HTML & CSS Classes   | `font-weight` | 
@@ -125,9 +117,7 @@ Note that in Table 2.1 above, I left the font weight unchanged. The differences 
 | <span style="font-size:2.2em;font-weight:800">Blah</span>  | "Permalink" post title |   `.post .postTitle`   |      800      |  
 
 <figcaption>Table 2.2 &ndash; Previous Font Sizes with <code>font-weight</code> Applied</figcaption>
-
 </figure>
-
 </div>
 
 According to Butterick, such extreme variations in heading sizes aren't necessary to differentiate headings from body text. The fact that the headings are bolded and placed their own line is typically enough to visually separate headings and body text. 
@@ -138,21 +128,23 @@ I spent some time scaling-down the inflated heading sizes, and while doing so, e
 
 I'm bound to spend more time with Butterick's Practical Typography. There's just so much to digest. What is reassuring to me is that I had already been practicing a lot of his suggestions. That said, I'm sure this will prove a valuable resource for me in the future.
 
+<aside>
 <div class="update">
 
 ## Update: The Mistakes/Styles of Other Writers
 
-After publishing this post, I stumbled upon an old [review][mw] from Jason Snell, former *editorial director* for Macworld:
+After publishing this post, I stumbled upon an old [article][macworld 2] from Jason Snell, former *editorial director* for Macworld:
 
-<img class="screenshot" src="http://d.pr/i/7mEj+" alt="Jason Snell em dash misuse">
+![Jason Snell em dash misuse][d]
 
 And check out the [latest][vox] from Ezra Klein---*editor-in-chief* for Vox:
 
-<img class="screenshot" src="http://d.pr/i/12BRl+" alt="Ezra Klein em dash misuse">
+![Ezra Klein em dash misuse][d 2]
 
-Looks like I wasn't alone in my incorrect usage of en/em dashes.
+Now, admittedly, it could be argued that how a writer uses en/em dashes (e.g., with or without spaces on either side) is completely subjective. But according to Butterick, Snell and Klein have it all wrong! Looks like I wasn't alone in my incorrect usage of en/em dashes.
 
 </div>
+</aside>
 
 [^but]: But still not perfect. Keep reading.
 [^int]: Butterick: "The em dash (---) is typ­i­cally about as wide as a cap­i­tal H. The en dash (--) is about half as wide."
@@ -163,24 +155,26 @@ Looks like I wasn't alone in my incorrect usage of en/em dashes.
 [^std]: The standard font-weight I've set for Ideal Sans is 300 (`font-weight: 300`). (This is the default for the webfont.)
 [^yes]: Yes, I actually hyperlinked every single one of those last few entries, because why not?
 
-[cm]: http://commonmark.org
-[macsparky]: http://macsparky.com/blog/practicaltypography
-[macworld]: http://www.macworld.com/article/2059208/pages-5-0-for-mac-review-apple-writes-a-new-chapter-for-its-word-processing-app.html
-[mw]: http://www.macworld.com/article/1026829/powermacg5nextgeneration.html
-[npmjs]: https://www.npmjs.com/package/markdown-it
-[practicaltypography]: http://practicaltypography.com
-[practicaltypography 2]: http://practicaltypography.com/equity.html
-[practicaltypography 3]: http://practicaltypography.com/hyphens-and-dashes.html
-[practicaltypography 4]: http://practicaltypography.com/typewriter-habits.html
-[practicaltypography 5]: http://practicaltypography.com/research-papers.html
-[practicaltypography 6]: http://practicaltypography.com/semicolons-and-colons.html
-[wikipedia]: https://en.wikipedia.org/wiki/Matthew_Butterick
-[wikipedia 2]: https://en.wikipedia.org/wiki/Formatted_text
-[wikipedia 3]: https://en.wikipedia.org/wiki/Pages_(word_processor)
-[wikipedia 4]: https://en.wikipedia.org/wiki/Plain_text
-[wikipedia 5]: https://en.wikipedia.org/wiki/Markdown
-[wikipedia 6]: https://en.wikipedia.org/wiki/HTML
-[wikipedia 7]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
-[wikipedia 8]: https://en.wikipedia.org/wiki/JavaScript
-[wikipedia 9]: https://en.wikipedia.org/wiki/IWork#Versions
-[vox]: http://www.vox.com/2015/8/25/9205801/hillary-clinton-joe-biden
+[cm]: http://commonmark.org "'Standard Markdown' Project"
+[d]: http://d.pr/i/7mEj+ "Jason Snell em dash misuse"
+[d 2]: http://d.pr/i/12BRl+ "Ezra Klein em dash misuse"
+[macsparky]: http://macsparky.com/blog/practicaltypography "David Sparks on 'Practical Typography'"
+[macworld]: http://www.macworld.com/article/2059208/pages-5-0-for-mac-review-apple-writes-a-new-chapter-for-its-word-processing-app.html "Macworld on Pages 5.0"
+[macworld 2]: http://www.macworld.com/article/1026829/powermacg5nextgeneration.html "Jason Snell's Macworld piece"
+[npmjs]: https://www.npmjs.com/package/markdown-it "The markdown processor that runs on TheOverAnalyzed"
+[practicaltypography]: http://practicaltypography.com "'Practical Typography,' by Matthew Butterick"
+[practicaltypography 2]: http://practicaltypography.com/equity.html "Practical Typography: Equity"
+[practicaltypography 3]: http://practicaltypography.com/hyphens-and-dashes.html "Practical Typography: Hyphens and Dashes"
+[practicaltypography 4]: http://practicaltypography.com/typewriter-habits.html "Practical Typography: Typewriter Habits"
+[practicaltypography 5]: http://practicaltypography.com/research-papers.html "Practical Typography: Research Papers"
+[practicaltypography 6]: http://practicaltypography.com/semicolons-and-colons.html "Practical Typography: Semicolons and colons"
+[vox]: http://www.vox.com/2015/8/25/9205801/hillary-clinton-joe-biden "Ezra Klein's piece on Vox"
+[wikipedia]: https://en.wikipedia.org/wiki/Matthew_Butterick "Wikipedia: Matthew Butterick"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Formatted_text "Wikipedia: Formatted text"
+[wikipedia 3]: https://en.wikipedia.org/wiki/Pages_(word_processor) "Wikipedia: Pages"
+[wikipedia 4]: https://en.wikipedia.org/wiki/Plain_text "Wikipedia: Plain text"
+[wikipedia 5]: https://en.wikipedia.org/wiki/Markdown "Wikipedia: Markdown"
+[wikipedia 6]: https://en.wikipedia.org/wiki/HTML "Wikipedia: HTML"
+[wikipedia 7]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Wikipedia: CSS"
+[wikipedia 8]: https://en.wikipedia.org/wiki/JavaScript "Wikipedia: JavaScript"
+[wikipedia 9]: https://en.wikipedia.org/wiki/IWork#Versions "Wikipedia: iWork Versions"

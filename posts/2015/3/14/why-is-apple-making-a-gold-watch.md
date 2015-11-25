@@ -1,13 +1,15 @@
-@@ Title=Why Is Apple Making a Gold Watch? 
-@@ Date=2015-03-14 08:00  
-@@ Link=http://ben-evans.com/benedictevans/2015/3/12/why-is-apple-making-a-gold-watch  
-@@ Description=Benedict Evans posits on exactly why Apple is making a gold watch.    
-@@ Tags=Apple, Apple Watch, Benedict Evans    
+Title: Why Is Apple Making a Gold Watch?  
+Date: 2015-03-14 08:00  
+Link: http://ben-evans.com/benedictevans/2015/3/12/why-is-apple-making-a-gold-watch  
+Description: Benedict Evans posits on exactly why Apple is making a gold watch.  
+Tags: Apple Watch  
+Image: http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/55013e36e4b0d50640223095/1426144823329/?format=750w  
 
 Benedict Evans recently wrote about why Apple might have the audacity to make a gold watch:
->Ultimately, though, how many people buy the gold one is probably immaterial. 
 
->So (and this is the question that actually matters) why bother? One could argue that it’s a vanity project, or that Apple’s doing this just because it can, or that a few hundred million dollars still matters at Apple (as indeed it does). But I think it’s more interesting to compare it with Apple retail. Despite its prominence, this is only about 10% of Apple’s revenue. It’s much more important as marketing. And it’s great marketing. 
+> Ultimately, though, how many people buy the gold one is probably immaterial. 
+
+> So (and this is the question that actually matters) why bother? One could argue that it’s a vanity project, or that Apple’s doing this just because it can, or that a few hundred million dollars still matters at Apple (as indeed it does). But I think it’s more interesting to compare it with Apple retail. Despite its prominence, this is only about 10% of Apple’s revenue. It’s much more important as marketing. And it’s great marketing. 
 
 Good point. Apple isn't selling a gold watch 'just because.'[^al] While Apple Retail may not be the most profitable branch of Apple's revenue stream, it is most definitely part of their brand cache. 
 

@@ -1,15 +1,12 @@
-@@ Title=Designing TheOverAnalyzed 2.0  
-@@ Date=2015-02-25 08:00 
-@@ Description=I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
-@@ Tags=Squarespace, Sketch, TheOverAnalyzed, Pixelmator, design, web design, HTML, CSS, JavaScript  
+Title: Designing TheOverAnalyzed 2.0  
+Date: 2015-02-25 08:00  
+Description: I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
+Tags: Meta  
+Image: http://d.pr/i/EfZ+  
 
 ## Forward
 
 When I launched TheOverAnalyzed last year, I knew nothing about HTML, CSS, JavaScript, or web design in general. Now, a year later, I still know nothing relatively nothing about the aforementioned topics. But, I know a whole lot more than I did.
-
-<h2>Contents</h2>
-
-[[TOC]]
 
 # History
 
@@ -22,7 +19,7 @@ I started with the [Native][squarespace] template, which was, like most template
 Here's the Native demo page:
 
 <figure>
-	<img src="http://d.pr/i/15dfx+" alt="Native">
+	<img src="http://d.pr/i/15dfx+" alt="'Native' template on Squarespace" title="'Native' template on Squarespace">
 	<figcaption>The stock Native template</figcaption>
 </figure>
 
@@ -31,14 +28,14 @@ Eventually, I noticed that the way Native implemented [blockquotes][d] was kind 
 Here's the Avenue demo page: 
 
 <figure>
-	<img src="http://d.pr/i/rxBP+" alt="Avenue">
+	<img src="http://d.pr/i/rxBP+" alt="'Avenue' template on Squarespace" title="'Avenue' template on Squarespace">
 	<figcaption>The stock Avenue template</figcaption>
 </figure>
 
 And here's a screenshot[^v] of my site from just a couple of weeks ago, before the first big design change:
 
 <figure>
-	<img src="http://d.pr/i/1cvPC+" alt="TOA couple weeks ago">
+	<img src="http://d.pr/i/1cvPC+" alt="TheOverAnalyzed a couple weeks ago" title="TheOverAnalyzed a couple weeks ago">
 	<figcaption>TheOverAnalyzed with the Avenue template (Version 1)</figcaption>
 </figure>
 
@@ -48,7 +45,7 @@ I had been wanting to make a few changes to the way my posts behaved. For instan
 
 Huh. I had heard on a podcast[^hp] that Squarespace had a [Developer Platform][squarespace 3]. Interesting. I wondered what that was all about, so I visited the developer landing page. It seemed pretty straightforward? 
 
-That is, until I got to the [part][squarespace 4] that mentioned [Git][wikipedia]) and [SFTP][wikipedia 2]. 
+That is, until I got to the [part][squarespace 4] that mentioned [Git][wikipedia] and [SFTP][wikipedia 2]. 
 
 Uh, no thanks. 
 
@@ -83,7 +80,7 @@ I quickly familiarized myself with `blog.list` and `blog.item` and was able to m
 Here's a screenshot of Permalinks Version 1.0:[^pl]
 
 <figure>
-	<img src="http://d.pr/i/1lSZU+" alt="Permalinks Version 1">
+	<img src="http://d.pr/i/1lSZU+" alt="Permalinks Version 1" title="Permalinks Version 1">
 	<figcaption>Permalinks Version 1.0</figcaption>
 </figure>
 
@@ -108,12 +105,12 @@ I noticed [Above Avalon][aboveavalon] a few weeks ago, and loved the non-scrolli
 Here is Niel Cybart's Stratechery-esche Above Avalon:
 
 <figure>
-	<img src="http://d.pr/i/11RRa+" alt="aboveavalon">
+	<img src="http://d.pr/i/11RRa+" alt="Above Avalon" title="Above Avalon">
 	<figcaption>Above Avalon's homepage</figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/19QPN+" alt="Scroll">
+	<img src="http://d.pr/i/19QPN+" alt="Scrolling Above Avalon" title="Scrolling Above Avalon">
 	<figcaption>Look at that <code>.main-content</code> scroll</figcaption>
 </figure>
 
@@ -124,12 +121,12 @@ I looked around the templates and discovered that Cybart had implemented a relat
 Here is the Wells demo:
 
 <figure>
-	<img src="http://d.pr/i/12IAy+" alt="Wells">
+	<img src="http://d.pr/i/12IAy+" alt="'Wells' template on Squarespace" title="'Wells' template on Squarespace">
 	<figcaption>Wells template</figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/Q7z1+" alt="TOA w/Wells">
+	<img src="http://d.pr/i/Q7z1+" alt="TheOverAnalyzed with 'Wells' template" title="TheOverAnalyzed with 'Wells' template">
 	<figcaption>And here is TheOverAnalyezd with Wells (Version 1.0 of the site)</figcaption>
 </figure>
 
@@ -138,14 +135,14 @@ Note that the content was pushed all the way to the left of the window. This was
 After consulting with the [Squarespace Answers Forum](answers.squarespace.com), I was able to move the content over to the center, more or less:
 
 <figure>
-	<img src="http://d.pr/i/EfZ+" alt="Sorta">
+	<img src="http://d.pr/i/EfZ+" alt="Sorta-centered" ttile="Sorta-centered">
 	<figcaption>Sorta-centered</figcaption>
 </figure>
 
 But this led to a terrible design on mobile:
 
-<figure class="iphone">
-	<img class="screenshot" src="http://d.pr/i/1l1L9+" alt="Mobile">
+<figure>
+	<img class="screenshot iphone" src="http://d.pr/i/1l1L9+" alt="Mobile" title="Mobile">
 	<figcaption>Mobile, pre-<code>custom.less</code></figcaption>
 </figure>
 
@@ -195,7 +192,7 @@ Squarespace had *just* rolled out their [logo designer tool][squarespace 6].[^ld
 I think it was actually a pretty nice logo considering it took me about 5 minutes to put together:
 
 <figure>
-	<img src="http://d.pr/i/1b8Ss+" alt="Logo1">
+	<img src="http://d.pr/i/1b8Ss+" alt="Logo, v1" title="Logo, v1">
 	<figcaption>Logo Version 1.0</figcaption>
 </figure>
 
@@ -215,7 +212,7 @@ But as I quickly found out, Pixelmator's (Vectormator's) vector graphic support 
 
 Alas, no: 
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> Vector file formats? No, they are not supported.</p>&mdash; Pixelmator Team (@pixelmator) <a href="https://twitter.com/pixelmator/status/565187997940064256">February 10, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> Vector file formats? No, they are not supported.</p>&mdash; Pixelmator Team (@pixelmator) <a href="https://twitter.com/pixelmator/status/565187997940064256" title="Pixelmator's response">February 10, 2015</a></blockquote>
 
 There was no way to properly export an SVG from Pixelmator. Instead of being an all-out graphic design fork from Pixelmator, Vectormator merely enhanced photos for Pixelmator. 
 
@@ -230,49 +227,49 @@ Sketch is on its [third major version][bohemiancoding] now, and while its true p
 I started with a photo of Smokey:
 
 <figure>
-	<img src="http://d.pr/i/19uo2+" alt="original">
+	<img src="http://d.pr/i/19uo2+" alt="Original picture of Smokey" title="Original picture of Smokey">
 	<figcaption>Original picture of Smokey</figcaption>
 </figure>
 
 Then I reduced the opacity to 50%, to make vectorizing the image easier:
 
 <figure>
-	<img src="http://d.pr/i/19gqG+" alt="Opacity reduced">
+	<img src="http://d.pr/i/19gqG+" alt="Opacity reduced" title="Opacity reduced">
 	<figcaption>Opacity reduced</figcaption>
 </figure>
 
 And here's the vector, minus some smoothing:
 
 <figure>
-	<img src="http://d.pr/i/9MUF+" alt="Original vector">
+	<img src="http://d.pr/i/9MUF+" alt="Original vector" title="Original vector">
 	<figcaption>Original vector</figcaption>
 </figure>
 
 And here's the circle logo:
 
 <figure>
-	<img src="http://d.pr/i/dOCb+" alt="Circle logo">
+	<img src="http://d.pr/i/dOCb+" alt="Circle logo" title="Circle logo">
 	<figcaption>Circle logo</figcaption>
 </figure>
 
 Next, the logo with text. I chose Futura Condensed ExtraBold. I like the weight, and I especially like Futura because of its versatility. It's not as trendy or readable as Proxima Nova (`body-font-font-family`), sure. But it conveys a certain amount of gravitas, without seeming too formal. It's almost comical, but only slightly so. I think that suits the site well:
 
 <figure>
-	<img src="http://d.pr/i/19wtr+" alt="Logo with text">
+	<img src="http://d.pr/i/19wtr+" alt="Logo with text" title="Logo with text">
 	<figcaption>Logo with text</figcaption>
 </figure>
 
 Finally, the full logo with the subtitle. I included the subtitle because I originally had trouble aligning the subtitle text on the different target displays. Making it part of the logo made things easier for me:
 
 <figure>
-	<img src="http://d.pr/i/qW89+" alt="Finished logo with subtitle">
+	<img src="http://d.pr/i/qW89+" alt="Finished logo with subtitle" title="Finished logo with subtitle">
 	<figcaption>Finished logo with subtitle</figcaption>
 </figure>
 
 I also used the Circle Logo to make the browser favicon:
 
 <figure>
-	<img src="http://d.pr/i/13py7+" alt="Favicon">
+	<img src="http://d.pr/i/13py7+" alt="Favicon" title="Favicon">
 	<figcaption>Favicon</figcaption>
 </figure>
 
@@ -280,8 +277,8 @@ I also used the Circle Logo to make the browser favicon:
 
 I spent a fair amount of time trying to use my (`Logo.svg`) in place of the static image Squarespace uses for the logo. This was important to me because I wanted everything about my site to look good on Retina displays. And, even though most humans wouldn't zoom in to this level:
 
-<figure class="iphone">
-	<img src="http://d.pr/i/1hJo2+" alt="Site broken on mobile">
+<figure>
+	<img class="screenshot iphone" src="http://d.pr/i/1hJo2+" alt="Site broken on mobile" title="Site broken on mobile">
 	<figcaption>Broken on mobile</figcaption>
 </figure>
 
@@ -296,28 +293,28 @@ Finally. [It was finished][biblehub]. I was able to get things looking how I wan
 Desktop:
 
 <figure>
-	<img src="http://d.pr/i/1bVv2+" alt="Sidebar on desktop version of website">
+	<img src="http://d.pr/i/1bVv2+" alt="Sidebar on desktop version of website" title="Sidebar on desktop version of website">
 	<figcaption>Sidebar. Desktop. Yes.</figcaption>
 </figure>
 
 iPad (Portrait):
 
 <figure class="iphone">
-	<img class="screenshot" src="http://d.pr/i/OgsK+" alt="iPad, portrait">
+	<img class="screenshot" src="http://d.pr/i/OgsK+" alt="iPad, portrait" title="iPad, portrait">
 	<figcaption>iPad, portrait</figcaption>
 </figure>
 
 iPad (Landscape):
 
-<figure class="iphone">
-	<img class="screenshot" src="http://d.pr/i/pAIQ+" alt="iPad, landscape">
+<figure>
+	<img class="screenshot iphone" src="http://d.pr/i/pAIQ+" alt="iPad, landscape" title="iPad, landscape">
 	<figcaption>iPad, landscape</figcaption>
 </figure>
 
 iPhone:
 
-<figure class="iphone">
-	<img class="screenshot" src="http://d.pr/i/1fcI8+" alt="iPhone, portrait">
+<figure>
+	<img class="screenshot iphone" src="http://d.pr/i/1fcI8+" alt="iPhone, portrait" title="iPhone, portrait">
 	<figcaption>iPhone, portrait</figcaption>
 </figure>
 
@@ -349,49 +346,49 @@ Until then, maybe I can get back to writing.
 [^mlgl]: For all the flack I give Squarespace via email and twitter, these guys really have done a decent job of designing how developers can manipulate things. I wish they did more, like allow customization of RSS, as well as some default URL slug stupidness, but maybe that will come with time. 
  [^iw]: There are a few things I would like to change, but I think for the sake of my sanity, I will leave well enough alone for now. 
 
-[5by5]: http://5by5.tv/buildanalyze/18
-[5by6]: http://5by5.tv/buildanalyze
-[aboveavalon]: http://aboveavalon.com
-[arc]: https://archive.org
-[archive]: https://web.archive.org/web/19980509035420/http://www.apple.com/
-[bendodson]: http://bendodson.com/code/itunes-artwork-finder/index.html
-[biblehub]: http://biblehub.com/john/19-30.htm
-[bohemiancoding]: http://bohemiancoding.com/sketch/whats-new/
-[caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced
-[d]: http://d.pr/i/1cxvQ+
-[d 2]: http://d.pr/i/1lKIz+
-[d 3]: http://d.pr/i/1cvPC+
-[d 4]: http://d.pr/i/14BaR+
-[d 5]: http://d.pr/i/1h4fZ+
-[d 6]: http://d.pr/i/1kNyI+
-[d 7]: http://d.pr/i/1hVrx+
-[df]: http://www.daringfireball.net
-[decknetwork]: http://decknetwork.net/
-[fastcodesign]: http://www.fastcodesign.com/3025363/is-squarespaces-new-logo-generator-a-design-crime
-[forbes]: http://www.forbes.com/sites/stevedenning/2012/04/23/in-praise-of-stretch-goals/
-[github]: https://github.com/andreaslarsen/habesha/issues?q=is%3Aissue+is%3Aclosed
-[github 2]: https://github.com/andreaslarsen/habesha
-[github 3]: https://github.com/marcoarment/secondcrack
-[hypercritical]: http://hypercritical.co
-[lp]: http://www.loopinsight.com
-[ma]: http://www.marco.org
-[more]: /2015/1/31/bigfoot-footnotes-in-squarespace
-[pixelmator]: http://www.pixelmator.com/
-[pixelmator 2]: http://www.pixelmator.com/blog/2013/05/14/introducing-vectormator/
-[pli]: /2015/2/1/permalinks-in-squarespace
-[sc]: http://www.sixcolors.com
-[squarespace]: http://native-demo.squarespace.com/
-[squarespace 2]: http://avenue-demo.squarespace.com
-[squarespace 3]: http://developers.squarespace.com
-[squarespace 4]: http://developers.squarespace.com/initial-setup/
-[squarespace 5]: http://wells-demo.squarespace.com/
-[squarespace 6]: http://squarespace.com/logo
-[sqs]: http://squarespace.com
-[twitter]: https://twitter.com/pixelmator/status/565182862128082946
-[twitter 2]: https://twitter.com/ismh/status/564079479992360961
-[webfactional]: http://duner.webfactional.com/blog/squarespace-permalinks
-[wikipedia]: https://en.wikipedia.org/wiki/Git_(software
-[wikipedia 2]: https://en.wikipedia.org/wiki/SFTP
-[wikipedia 3]: https://en.wikipedia.org/wiki/Mac_OS_9
-[wikipedia 4]: https://en.wikipedia.org/wiki/File_Transfer_Protocol
-[youtube]: https://www.youtube.com/watch?v=HzravxTgTe4
+[5by5]: http://5by5.tv/buildanalyze/18 "Build and Analyze, episode 18"
+[5by6]: http://5by5.tv/buildanalyze "Build and Analyze"
+[aboveavalon]: http://aboveavalon.com "Above Avalon"
+[arc]: https://archive.org "Internet Archive"
+[archive]: https://web.archive.org/web/19980509035420/http://www.apple.com/ "Apple's website in 1998"
+[bendodson]: http://bendodson.com/code/itunes-artwork-finder/index.html "iTunes Artwork Finder by Ben Dodson"
+[biblehub]: http://biblehub.com/john/19-30.htm "'It is finished' quote"
+[bohemiancoding]: http://bohemiancoding.com/sketch/whats-new/ "What's new in the newest version of Sketch"
+[caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced "Casey Liss's blog post about open-sourcing 'Camel'"
+[d]: http://d.pr/i/1cxvQ+ "Lack of blockquotes like I want"
+[d 2]: http://d.pr/i/1lKIz+ "These are the types of blockquotes I wanted"
+[d 3]: http://d.pr/i/1cvPC+ "Getting closer"
+[d 4]: http://d.pr/i/14BaR+ "This is the centering I was going for"
+[d 5]: http://d.pr/i/1h4fZ+ "Picture of Smokey"
+[d 6]: http://d.pr/i/1kNyI+ "Modifying the `.less` files quite a bit"
+[d 7]: http://d.pr/i/1hVrx+ "Figured out how to place the permalink anchor to the right of hte date (out of the title)"
+[df]: http://www.daringfireball.net "John Gruber's blog, Daring Fireball"
+[decknetwork]: http://decknetwork.net/ "Jim Coudal's ad network, The DECK"
+[fastcodesign]: http://www.fastcodesign.com/3025363/is-squarespaces-new-logo-generator-a-design-crime "Fast Company on Squarespace's 'design your own logo' platform"
+[forbes]: http://www.forbes.com/sites/stevedenning/2012/04/23/in-praise-of-stretch-goals/ "Forbes: 'In Praise Of Stretch Goals'"
+[github]: https://github.com/andreaslarsen/habesha/issues?q=is%3Aissue+is%3Aclosed "Issue on Habesha GitHub project page"
+[github 2]: https://github.com/andreaslarsen/habesha "Habesha project page on GitHub"
+[github 3]: https://github.com/marcoarment/secondcrack "Marco's static blogging engine"
+[hypercritical]: http://hypercritical.co "John Siracusa's blog, Hypercritical.co"
+[lp]: http://www.loopinsight.com "Jim Dalrymple's blog, The Loop"
+[ma]: http://www.marco.org "Marco Arment's blog, Marco.org"
+[more]: /2015/1/31/bigfoot-footnotes-in-squarespace "My post about incorporating Bigfoot footnotes into Squarespace"
+[pixelmator]: http://www.pixelmator.com/ "Pixelmator's website"
+[pixelmator 2]: http://www.pixelmator.com/blog/2013/05/14/introducing-vectormator/ "Pixelmator's blog post introducing 'Vectormator'"
+[pli]: /2015/2/1/permalinks-in-squarespace "My post outlining how I added permalinks to my linked posts"
+[sc]: http://www.sixcolors.com "Jason Snell's blog, Six Colors"
+[squarespace]: http://native-demo.squarespace.com/ "'Native' template on Squarespace"
+[squarespace 2]: http://avenue-demo.squarespace.com "'Avenue' template on Squarespace"
+[squarespace 3]: http://developers.squarespace.com "Squarespace Developer Platform"
+[squarespace 4]: http://developers.squarespace.com/initial-setup/ "How to setup Squarespace Developer Platform"
+[squarespace 5]: http://wells-demo.squarespace.com/ "'Wells' template on Squarespace"
+[squarespace 6]: http://squarespace.com/logo "Squrespace's logo-creation page"
+[sqs]: http://squarespace.com "Squarespace"
+[twitter]: https://twitter.com/pixelmator/status/565182862128082946 "Pixelmator suggesting Sketch"
+[twitter 2]: https://twitter.com/ismh/status/564079479992360961 "Asking Stephen Hackett if he's tried the Squarespace Developer Platform"
+[webfactional]: http://duner.webfactional.com/blog/squarespace-permalinks "Webpage that helped me figure out permalinks in Squarespace"
+[wikipedia]: https://en.wikipedia.org/wiki/Git_(software) "Wikipedia: Git"
+[wikipedia 2]: https://en.wikipedia.org/wiki/SFTP "Wikipedia: SFTP"
+[wikipedia 3]: https://en.wikipedia.org/wiki/Mac_OS_9 "Wikipedia: Mac OS 9"
+[wikipedia 4]: https://en.wikipedia.org/wiki/File_Transfer_Protocol "Wikipedia: FTP"
+[youtube]: https://www.youtube.com/watch?v=HzravxTgTe4 "YouTube: Setting Up Squarespace 7 (Squarespace 6) Developer Platform with Espresso2 and LiveReload"

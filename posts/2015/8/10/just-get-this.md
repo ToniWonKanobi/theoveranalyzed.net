@@ -1,8 +1,8 @@
-@@ Title=Just Get This  
-@@ Date=2015-08-10 19:41  
-@@ Description=Do you have anyone in your life who is *super* particular about what is purchased for them? Odds are that they're a nightmare to shop for. I know how it is, because I am that person.  
-@@ Tags=Anthony, ATP, shopping  
-@@ Image=http://m.memegen.com/c2brh8.jpg  
+Title: Just Get This  
+Date: 2015-08-10 19:41  
+Description: Do you have anyone in your life who is *super* particular about what is purchased for them? Odds are that they're a nightmare to shop for. I know how it is, because I am that person.  
+Tags: Podcasts  
+Image: http://m.memegen.com/c2brh8.jpg  
 
 I am impossible to shop for.
 
@@ -16,11 +16,7 @@ The first theory is that I have just become more picky as I get older. This is t
 
 Fast-forward: if you were to examine every corner of my life as it is today, you would fine that almost all of the decisions I have made---be it which movie to buy, or what t-shirt to get---those were all very intentional decisions. My [Precision bass][wikipedia] isn't [Faded Sonic Blue][fender] because I liked the color.[^al] No, that color was chosen because I knew I would eventually have an [Olympic White][fender 2] [Jazz bass][wikipedia 2] in the stable, and I didn't want them to be the exact same color.
 
-<div class="takehomeRight">
-
-It's the thought that counts
-
-</div>
+<p><em class="takeHome">It's the thought that counts</em></p>
 
 The better theory is that I have simply been repressing my dissatisfaction with past gifts, instead masking them with fake excitement. This is by far the more upsetting theory, because it would seem to suggest that *all* of the past gifts I had received were bad ones. I can picture my friends and family reading this thinking, "Did he like that gift I gave him, or did he hate it?" Fret not: this has not been the story my life. Have there been some duds? Surely.[^su] 
 
@@ -30,13 +26,11 @@ But the subject of gifting does occasionally come up, and what is often said is 
 
 That's why this past week's episode of the [Accidental Tech Podcast][atp] was so fitting:
 
-<audio controls>
-		<source src="http://traffic.libsyn.com/atpfm/atp129.mp3#t=1125" type="audio/mpeg"/>
-	</audio>
+<audio controls><source src="http://traffic.libsyn.com/atpfm/atp129.mp3#t=1125" type="audio/mpeg"/ title="ATP episode talking about gifting"></audio>
 	
 John Siracusa's hypothetical scenario of someone wanting to buy Marco coffee was fitting. Marco is a [coffee snob][duckduckgo] in the truest sense of the term. Consider this: upon hearing about his love for coffee, his 80-year-old aunt decides to go into Target to get him "[coffee][target]." In the ballpark (sort-of), but not *quite* in the vicinity, right?
 
-<div class="takehomeLeft"><p>Let me just tell you exactly what to get. Just get this.</p></div>
+<p><em class="takeHome">Let me just tell you exactly what to get. Just get this.</em></p>
 
 I can't count the times that someone has wanted to buy something for me, and even after being hyper-specific about the intricacies of that thing, what I eventually received was not *precisely* what I had asked for.[^wahh] Now, sometimes the surprise is actually better than what I had asked for! I remember when I was first married, I accidentally sent my iPod Touch through the washing machine. I asked my mom for another iPod Touch for Christmas. I even specified that 8GB was enough.[^th] "In other words mom, 'Don't get the big 32GB model.'" Save mom some bucks, yeah? Well, when Christmas finally rolled around that year, mom did the unthinkable. She got me the 32GB model. Pleasant surprise. 
 
@@ -55,21 +49,21 @@ The point of all this banter isn't to discourage future spontaneous and unsolici
 	iOS 9 is a [different story][bgr 2], thankfully.
 [^ju]: Just not for our friends and family, I guess.
 
-[atp]: http://atp.fm/episodes/129
-[bgr]: http://www.bgr.in/news/ios-8-requires-over-5gb-of-free-space-to-install-heres-what-iphone-5c-8gb-users-should-do/
-[bgr 2]: http://bgr.com/2015/06/24/16gb-iphone-6s-ios-9-storage-fixes/
-[caseyliss]: http://caseyliss.com
-[cvs]: http://www.cvs.com/content/longs
-[duckduckgo]: https://duckduckgo.com/?q=site%3Amarco.org+coffee
-[fender]: http://www.fender.com/basses/precision-bass/american-vintage-63-precision-bass/0191010872.html#start=1
-[fender 2]: http://www.fender.com/basses/jazz-bass/american-vintage-64-jazz-bass/0191020800.html#start=1
-[hellolumio]: http://www.hellolumio.com/
-[hypercritical]: http://hypercritical.co
-[marco]: http://marco.org
-[target]: http://www.target.com/p/starbucks-house-blend-coffee-k-cup-16-ct/-/A-14013860
-[theoveranalyzed]: /2015/2/26/heres-what-youd-get-if-michael-bay-made-a-gritty-power-rangers-movie
-[twitter]: http://twitter.com/venusuautumn
-[urbandictionary]: http://www.urbandictionary.com/define.php?term=to+a+T&defid=2892905
-[wikipedia]: https://en.wikipedia.org/wiki/Fender_Precision_Bass
-[wikipedia 2]: https://en.wikipedia.org/wiki/Fender_Jazz_Bass
-[wikipedia 3]: https://en.wikipedia.org/wiki/Power_Rangers
+[atp]: http://atp.fm/episodes/129 "Accidental Tech Podcast, episode 129"
+[bgr]: http://www.bgr.in/news/ios-8-requires-over-5gb-of-free-space-to-install-heres-what-iphone-5c-8gb-users-should-do/ "Boy Genius Report on how iOS 8 requires so much free space for software updates"
+[bgr 2]: http://bgr.com/2015/06/24/16gb-iphone-6s-ios-9-storage-fixes/ "Boy Genius Report on proposed fixes for aforementioned iOS 8 problem"
+[caseyliss]: http://caseyliss.com "Personal blog of ATP co-host, Casey Liss"
+[cvs]: http://www.cvs.com/content/longs "Long's Drugs"
+[duckduckgo]: https://duckduckgo.com/?q=site%3Amarco.org+coffee "Marco Arment and coffee"
+[fender]: http://www.fender.com/basses/precision-bass/american-vintage-63-precision-bass/0191010872.html#start=1 "Fender American Vintage ' 63 Precision Bass"
+[fender 2]: http://www.fender.com/basses/jazz-bass/american-vintage-64-jazz-bass/0191020800.html#start=1 "Fender American Vintage ' 64 Jazz Bass"
+[hellolumio]: http://www.hellolumio.com/ "Lumio book light"
+[hypercritical]: http://hypercritical.co "Personal blog of ATP co-host, John Siracusa"
+[marco]: http://marco.org "Personal blog of ATP co-host, Marco Arment"
+[target]: http://www.target.com/p/starbucks-house-blend-coffee-k-cup-16-ct/-/A-14013860 "Starbucks coffee at Target"
+[theoveranalyzed]: /2015/2/26/heres-what-youd-get-if-michael-bay-made-a-gritty-power-rangers-movie "Me on the new YouTube Power Rangers 'future'"
+[twitter]: http://twitter.com/venusuautumn "Allison on Twitter"
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=to+a+T&defid=2892905 "Urban Dictionary for the phrase 'to a t'"
+[wikipedia]: https://en.wikipedia.org/wiki/Fender_Precision_Bass "Wikipedia: Fender Precision Bass"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Fender_Jazz_Bass "Wikipedia: Fender Jazz Bass"
+[wikipedia 3]: https://en.wikipedia.org/wiki/Power_Rangers "Wikipedia: Power Rangers"

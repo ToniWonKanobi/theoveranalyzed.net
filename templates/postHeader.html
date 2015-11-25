@@ -1,26 +1,20 @@
 	{{#if Link}}
 <!-- Linked Post-->
 	<header class="postHeaderLinked">
-		<h2><a class="postTitleLinked" href="{{Link}}" target="_blank" title="Go to External Content">{{Title}}&nbsp;<span class="linkArrow">&#8594;</span></a></h2>
+		<h2><a class="postTitleLinked" href="{{Link}}" title="Go to External Content">{{Title}}&nbsp;<span class="linkArrow">&#8594;</span></a></h2>
 		<div class="postSubtitle">
 			<ul class="postSubtitleItems">
-				<li class="postDate">
-					<a href="http://www.historynet.com/today-in-history/{{formatCalendarDate Date}}" title="Link to 'Today in History' Page">
-						<time class="linkedTime" dateTime="{{formatIsoDate Date}}" pubDate><i class="fa fa-clock-o fa-fw"></i>&nbsp;{{formatPostDate Date}}</time>
-					</a>
+				<li class="Date">
+					<a href="{{permalink}}" title="Permalink to post"><time dateTime="{{formatIsoDate Date}}" pubDate>{{formatPostDate Date}}</time></a><span class="bull">&bull;</span>
 				</li>
-				<li class="postPermalink">
-					<a class="postPermalink" href="{{permalink}}" title="Permalink to post">¶&nbsp;<span style="margin-left: 0.1em">Permalink</span></a>
+				<li class="Tags">
+					<ul>
+						{{#each tags}}
+						<li title="Similar posts">{{{this}}}</li>
+						{{/each}}
+					</ul>
 				</li>
 			</ul>
-			<details class="postTags">
-				<summary title="Tags for this Post"><i class="fa fa-tags fa-fw"></i>Tags</summary>
-				<ul>
-					{{#each tags}}
-					<li><i class="fa fa-tag fa-fw"></i>&nbsp;{{{this}}}</li>
-					{{/each}}
-				</ul>
-			</details>
 		</div>
 	</header>
 	{{else}}
@@ -29,18 +23,17 @@
 		<h1><a class="postTitle" href="{{relativeLink}}" title="Permalink to this Post">{{Title}}</a></h1>
 		<div class="postSubtitle">
 			<ul class="postSubtitleItems">
-				<li class="postDate">
-					<a href="http://www.historynet.com/today-in-history/{{formatCalendarDate Date}}" title="Link to 'Today in History' Page"><time class="linkedTime" dateTime="{{formatIsoDate Date}}" pubDate><i class="fa fa-clock-o fa-fw"></i>&nbsp;{{formatPostDate Date}}</time></a>
+				<li class="Date">
+					<time dateTime="{{formatIsoDate Date}}" pubDate>{{formatPostDate Date}}</time><span class="bull">&bull;</span>
+				</li>
+				<li class="Tags">
+					<ul>
+						{{#each tags}}
+						<li title="Similar posts">{{{this}}}</li>
+						{{/each}}
+					</ul>
 				</li>
 			</ul>
-			<details class="postTags">
-				<summary title="Tags for this Post"><i class="fa fa-tags fa-fw"></i>Tags</summary>
-				<ul>
-					{{#each tags}}
-					<li><i class="fa fa-tag fa-fw"></i>&nbsp;{{{this}}}</li>
-					{{/each}}
-				</ul>
-			</details>
 		</div>
 	</header>
 	{{/if}}

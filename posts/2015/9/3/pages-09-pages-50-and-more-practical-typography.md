@@ -1,25 +1,15 @@
-@@ Title=Pages '09, Pages 5.0, and More Practical Typography  
-@@ Date=2015-09-03 13:24  
-@@ Description=I've had a few more days to spend with Practical Typography. Here are my thoughts on it, and how it effects my word processor usage on the Mac.  
-@@ Tags=Practical Typography, Matthew Butterick, fonts, typefaces, webfonts, design, web design, blogging, Pages, reviews  
-@@ Image=http://d.pr/i/1fZQU+  
-
-<!-- LazyLoad -->
-<!-- http://www.appelsiini.net/projects/lazyload -->
-<script src="/js/lazyload.js"></script>
-<script type="text/javascript" charset="utf-8">
-	$(function() {
-		$("img.lazy").show().lazyload({
-			effect: "fadeIn"
-		});
-	});
-</script>
+Title: Pages '09, Pages 5.0, and More Practical Typography  
+Date: 2015-09-03 13:24  
+Description: I've had a few more days to spend with Practical Typography. Here are my thoughts on it, and how it effects my word processor usage on the Mac.  
+Tags: Apps, Typography  
+Image: http://d.pr/i/1fZQU+  
 
 A few days ago, I wrote about [Practical Typography][theoveranalyzed] and how it caused me to change a few [style][theoveranalyzed 2] [issues][theoveranalyzed 3] on TheOverAnalyzed.[^lol] After spending more time with Matthew Butterick's masterpiece,[^atleast] I stumbled upon his [page][practicaltypography] explaining [OpenType][wikipedia] features. In it, Butterick shows how to implement OpenType features on the web via CSS.[^otfeatures]
 
 What caught my attention was Butterick's blurb on OpenType implementation across the various word processors.
 
 In particular:
+
 > Pages ’09 on the Mac is the word proces­sor with the best Open­Type fea­ture sup­port. **(The 2013 up­date of Pages, how­ever, sup­ports no Open­Type fea­tures at all.)** [emphasis added]
 
 That last part troubled me. It's common knowledge that new versions of software can sometimes *remove* features instead of adding them. This is especially true in the first-party Apple app ecosystem.[^fcpx] But could an update to *Pages.app* really have removed crucial features?
@@ -33,13 +23,13 @@ After a bit of searching, I found a working `.dmg` for "iWork '09 Trial." Great.
 And so, there I was with two versions of Pages in my `/Applications` folder. 
 
 <figure>
-	<img src="http://d.pr/i/1fNTT+" alt="Pages '09 (4.3)" width="70%">
+	<img src="http://d.pr/i/1fNTT+" alt="Pages '09 (4.3)" title="Pages '09 (4.3)" style="margin: auto; width: 50%">
 	<figcaption>Just look at that icon 👌🏾</figcaption>
 </figure>
 
 Boy did I feel like a real [rabble-rouser][urbandictionary]. I had a vintage pirated copy of an application that a [typography master][twitter] said was better than every other [schmuck][urbandictionary 2]'s copy of the current version.[^poorfools]
 
-I existed in this state of congnitive bliss for several days, until a thought occurred to me: perhaps Butterick was wrong?
+I existed in this state of cognitive bliss for several days, until a thought occurred to me: perhaps Butterick was wrong?
 
 After all, Practical Typography *was* released [mid-2013][daringfireball]. Maybe subsequent versions of Pages.app fixed the lack of OpenType features present in the initial 5.0 release?
 
@@ -49,15 +39,9 @@ As best as I can tell, while the newer version of Pages *does* have proper ligat
 
 Ideal Sans comes with several alternate versions of characters, but as you can see from the screenshots below, the special "G" character (without the horizontal crossbar) does not seem to be available in the newer version of Pages. 
 
-<figure class="inlinetwo">
-	<a class="nohover" href="http://d.pr/i/17YoZ+">
-		<img class="screenshot lazy" data-original="http://d.pr/i/17YoZ+" alt="Pages 4.4.3 without OpenType">
-			<noscript><img class="screenshot" src="http://d.pr/i/17YoZ+" alt="Pages 4.4.3 without OpenType"></noscript>
-	</a>
-	<a class="nohover" href="http://d.pr/i/14Yiy+">
-		<img class="screenshot lazy" data-original="http://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType">
-			<noscript><img class="screenshot" src="http://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType"></noscript>
-	</a>
+<figure>
+	<img class="screenshot inlineTwo" src="http://d.pr/i/17YoZ+" alt="Pages 4.4.3 without OpenType" title="Pages 4.4.3 without OpenType">
+	<img class="screenshot inlineTwo" src="http://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType" title="Pages 5.5.3 OpenType">
 	<figcaption>Pages 4.4.3 with OpenType support and Pages 5.5.3 without much OpenType support at all</figcaption>
 </figure>
 
@@ -66,13 +50,13 @@ So Butterick was right. Still, even without full support of OpenType features, t
 Indeed, even the Pages.app application icon has now incorporated the Yosemite and El Capitan design ethos:
 
 <figure>
-	<img src="http://d.pr/i/16ee0+" width="70%">
+	<img src="http://d.pr/i/16ee0+" alt="Pages 5.0+ app icon" title="Pages 5.0+ app icon" style="margin: auto; width: 50%">
 	<figcaption>The "flat" application icon for Pages.app 5.0+</figcaption>
 </figure>
 	
 Louie Mantia agrees:
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> sure but this one suits Yosemite better.</p>&mdash; Louie (@mantia) <a href="https://twitter.com/mantia/status/638444776191209472">August 31, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> sure but this one suits Yosemite better.</p>&mdash; Louie (@mantia) <a href="https://twitter.com/mantia/status/638444776191209472" title="Louie responding to me on Twitter">August 31, 2015</a></blockquote>
 
 It seems like Pages was never sure whether it wanted to be a layout/design application, or *just* a word processor. Version 5.0 of Pages solidified its place in the latter camp. And there's nothing particularly heinous about that, unless you're one of those prosumers not savvy enough for Illustrator, but too smart for Word. If you're one of those people, the new Pages is not what it used to be. I feel sorry for you, because I *am* one of you.
 
@@ -83,18 +67,18 @@ It seems like Pages was never sure whether it wanted to be a layout/design appli
 [^otfeatures]: [`font-fea­ture-set­tings`][mozilla]
 [^poorfools]: Poor, poor fools. 
 
-[daringfireball]: http://daringfireball.net/linked/2013/08/19/buttericks-practical-typography
-[mozilla]: https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings
-[practicaltypography]: http://practicaltypography.com/opentype-features.html
-[practicaltypography 2]: http://practicaltypography.com/why-typography-matters.html
-[theoveranalyzed]: /2015/8/25/practical-typography
-[theoveranalyzed 2]: /2015/8/25/practical-typography#dashes
-[theoveranalyzed 3]: /2015/8/25/practical-typography#font-sizes
-[twitter]: https://twitter.com/mbutterick
-[twitter 2]: https://twitter.com/ToniWonKanobi/status/638744688581718016
-[urbandictionary]: http://www.urbandictionary.com/define.php?term=rabble+rouser&defid=1122945
-[urbandictionary 2]: http://www.urbandictionary.com/define.php?term=schmuck&defid=4802506
-[wikipedia]: https://en.wikipedia.org/wiki/OpenType
-[wikipedia 2]: https://en.wikipedia.org/wiki/Pages_(word_processor)#Version_history
-[wikipedia 3]: https://en.wikipedia.org/wiki/IWork#Web_services
-[wikipedia 4]: https://en.wikipedia.org/wiki/Final_Cut_Pro_X#Reception
+[daringfireball]: http://daringfireball.net/linked/2013/08/19/buttericks-practical-typography "John Gruber linking to Practical Typography"
+[mozilla]: https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings "`font-feature` CSS stuff"
+[practicaltypography]: http://practicaltypography.com/opentype-features.html "Butterick on OpenType"
+[practicaltypography 2]: http://practicaltypography.com/why-typography-matters.html "Butterick on the purpose of Practical Typography"
+[theoveranalyzed]: /2015/8/25/practical-typography "Me on Practical Typography"
+[theoveranalyzed 2]: /2015/8/25/practical-typography#dashes "Me on Practical Typography, dashes"
+[theoveranalyzed 3]: /2015/8/25/practical-typography#font-sizes "Me on Practical Typography, font sizes"
+[twitter]: https://twitter.com/mbutterick "Matthew Butterick on Twitter"
+[twitter 2]: https://twitter.com/ToniWonKanobi/status/638744688581718016 "Tweeting at Butterick"
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=rabble+rouser&defid=1122945 "Urban Dictionary: rabble rouser"
+[urbandictionary 2]: http://www.urbandictionary.com/define.php?term=schmuck&defid=4802506 "Urban Dictionary: schmuck"
+[wikipedia]: https://en.wikipedia.org/wiki/OpenType "Wikipedia: OpenType"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Pages_(word_processor)#Version_history "Wikipedia: Pages version history"
+[wikipedia 3]: https://en.wikipedia.org/wiki/IWork#Web_services "Wikipedia: iWork web services"
+[wikipedia 4]: https://en.wikipedia.org/wiki/Final_Cut_Pro_X#Reception "Wikipedia: Final Cut Pro X"

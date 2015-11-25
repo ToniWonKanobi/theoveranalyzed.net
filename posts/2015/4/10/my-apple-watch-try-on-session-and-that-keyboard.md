@@ -1,28 +1,10 @@
-@@ Title=My Apple Watch Try-On Session, and That Keyboard  
-@@ Date=2015-04-10 22:57  
-@@ Description=I tried on some Apple Watches today, and I also checked out the new MacBook.  
-@@ Tags=Apple, Apple Watch, MacBook, previews  
+Title: My Apple Watch Try-On Session, and That Keyboard  
+Date: 2015-04-10 22:57  
+Description: I tried on some Apple Watches today, and I also checked out the new MacBook.  
+Tags: Reviews, Apple Watch  
+Image: http://d.pr/i/120bA+  
 
-<!-- LazyLoad -->
-<!-- http://www.appelsiini.net/projects/lazyload -->
-<script src="/js/lazyload.js"></script>
-<script type="text/javascript" charset="utf-8">
-	$(function() {
-		$("img.lazy").show().lazyload({
-			effect: "fadeIn"
-		});
-	});
-</script>
-
-<div class="topstory">
-
-By now, on Friday night of the 'embargo week,' you have no doubt read and watched *plenty* in regards to Apple Watch and the new MacBook. I was one of the silly folk who stayed up <s>last night</s> this morning to preorder both. I was also one of the souls who scheduled a try-on appointment this evening.
-
-</div>
-
-<h2>Contents</h2>
-
-[[TOC]]
+<p><em class="topStory">By now, on Friday night of the 'embargo week,' you have no doubt read and watched *plenty* in regards to Apple Watch and the new MacBook. I was one of the silly folk who stayed up <s>last night</s> this morning to preorder both. I was also one of the souls who scheduled a try-on appointment this evening.</em></p>
 
 # Ordering The Things
 
@@ -42,12 +24,12 @@ It seems like supply was severely constrained for both items. Was it orchestrate
 
 Around 12:40 last night, I made my try-on appointment for the Apple Watch.
 
-<figure class="iphone">
-	<img class="screenshot" src="http://d.pr/i/ZBFa+" alt="Three tries">
+<figure>
+	<img class="screenshot iphone" src="http://d.pr/i/ZBFa+" alt="Three tries" title="Three tries">
 	<figcaption>And it only took me three tries!</figcaption>
 </figure>
 
-Why did I do this? Especially after having already pre-ordered the Watch? I wanted to be sure I made the right choice. I'll echo what Tapbots developer [Paul Haddad][twitter] said earlier today: June is a long way away, plenty of time for me to change my mind about a few things. 
+Why did I do this? Especially after having already pre-ordered the Watch? I wanted to be sure I made the right choice. I'll echo what Tapbots developer Paul Haddad said earlier today: June is a long way away, plenty of time for me to change my mind about a few things. 
 
 Another thing is that this was probably going to be the *only* opportunity I would have to play with the Watch and the new MacBook until they get to me weeks from now. 
 
@@ -58,12 +40,12 @@ They somehow lost my reservation, but the 'front of the store' minion got me set
 Interesting.
 
 <figure>
-	<img src="http://d.pr/i/16cN2+" alt="This area">
+	<img src="http://d.pr/i/16cN2+" alt="This used to be the area of the store where the forgotten things went: Mac mini, Thunderbolt Display, MacBook Pro (non-Retina), etc." title="This used to be the area of the store where the forgotten things went: Mac mini, Thunderbolt Display, MacBook Pro (non-Retina), etc.">
 	<figcaption>This used to be the area of the store where the forgotten things went: Mac mini, Thunderbolt Display, MacBook Pro (non-Retina), etc.</figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/13362+" alt="Tadaaa">
+	<img src="http://d.pr/i/13362+" alt="Tadaaa" title="Tadaaa">
 	<figcaption>Tadaaa</figcaption>
 </figure>
 
@@ -74,7 +56,7 @@ Luckily for me, I got to try on the Apple Watch specimens that I was most intere
 The Apple Watch Sport is just as awesome and wonderful as it appears to be in Apple's product imagery. It is the perfect gadget watch, and I have no doubt a lot of my friends will have this model because of its easy livability and it's dashing good looks. 
 
 <figure>
-	<img src="http://d.pr/i/gyyE+" alt="Hello, I must be going">
+	<img src="http://d.pr/i/gyyE+" alt="Hello, I must be going" title="Hello, I must be going">
 	<figcaption>Hello, I must be going.</figcaption>
 </figure>
 
@@ -82,19 +64,10 @@ The "rubber" band is far from *just* rubber---it is easily the biggest surprise 
 
 Oh, another thing about the fluoroelastomer band: it is a real pain to get on and off. The lady spent the most time with that watch taking it on/off.
 
-<figure class="inlinethree">
-	<a href="http://d.pr/i/1hgPn+">
-		<img class="screenshot lazy" data-original="http://d.pr/i/1hgPn+" alt="Step 1">
-			<noscript><img class="screenshot" src="http://d.pr/i/1hgPn+" alt="Step 1"></noscript>
-	</a>
-	<a href="http://d.pr/i/1eArk+">
-		<img class="screenshot lazy" data-original="http://d.pr/i/1eArk+" alt="Step 2">
-			<noscript><img class="screenshot" src="http://d.pr/i/1eArk+" alt="Step 2"></noscript>
-	</a>
-	<a href="http://d.pr/i/1hExt+">
-		<img class="screenshot lazy" data-original="http://d.pr/i/1hExt+" alt="http://d.pr/i/1hExt+">
-			<noscript><img class="screenshot" src="http://d.pr/i/1hExt+" alt="Step 3"></noscript>
-	</a>
+<figure>
+	<img class="screenshot inlineThree" src="http://d.pr/i/1hgPn+" alt="Step 1" title="Step 1">
+	<img class="screenshot inlineThree" src="http://d.pr/i/1eArk+" alt="Step 2" title="Step 2">
+	<img class="screenshot inlineThree" src="http://d.pr/i/1hExt+" alt="Step 3" title="Step 3">
 	<figcaption>Steps 1, 2, and 3 for getting the Sport band on</figcaption>
 </figure>
 
@@ -103,7 +76,7 @@ Oh, another thing about the fluoroelastomer band: it is a real pain to get on an
 This was the model I was most interested in trying on, once I found out that the stainless black was not available (there was a model on display in the center aisle display case, but that's it). I was worried it might seem grandpa-ish, based on what [Marco][atp] had to say about it. He couldn't have been more wrong. The satin-y finish of the bracelet nicely complements the polished appearance of the Watch case. And really, the stainless black color scheme evokes a rather modern vibe by default. 
 
 <figure>
-	<img src="http://d.pr/i/19DK5+" alt="Yup">
+	<img src="http://d.pr/i/19DK5+" alt="Yup" title=""Yup"">
 	<figcaption>Ahhh yeah.</figcaption>
 </figure>
 
@@ -112,10 +85,11 @@ This was the model I was most interested in trying on, once I found out that the
 This band was by far the biggest disappointment. The mesh is very, *very* small---much smaller than the promotional materials suggest. Because of that, it's really a lot less 'flowy' than I thought it would be. And, for better or for worse, the perceived shrinking of the loops really made this feel cheap to me. 
 
 Marco Arment had this to say about it:
->The Milanese Loop, my preorder, is decent, but not quite what I expected. The mesh is much smaller in real life than it looks in the photos, so it ends up looking and feeling more like silver fabric than woven metal. It’s easier to attach and adjust than the Leather Loop because it doesn’t have discrete segments, but it still took me a few adjustments each time to get the right fit.
+
+> The Milanese Loop, my preorder, is decent, but not quite what I expected. The mesh is much smaller in real life than it looks in the photos, so it ends up looking and feeling more like silver fabric than woven metal. It’s easier to attach and adjust than the Leather Loop because it doesn’t have discrete segments, but it still took me a few adjustments each time to get the right fit.
 
 <figure>
-	<img src="http://d.pr/i/iovZ+" alt="Meh">
+	<img src="http://d.pr/i/iovZ+" alt="Meh" title="Meh">
 	<figcaption>Meh.</figcaption>
 </figure>
 
@@ -131,18 +105,18 @@ The display is absolutely gorgeous. I had no reason to doubt the reports saying 
 
 I've played with the trackpad on the 13" MacBook Pro with Retina display, and this felt the same.
 
-What I was most looking forward to was typing on this thing. Jason Snell has bemoaned it endlessly in his reviews for [Macworld][macworld], [Six Colors][sixcolors], and his podcast [Upgrade](relay.fm/upgrade). I assume keyboard purists like him weren't really the target market, since,  for them, clicky keyboards will always the best. I assumed that it would feel just the same as typing on my MacBook Pros and Air's of the past.
+What I was most looking forward to was typing on this thing. Jason Snell has bemoaned it endlessly in his reviews for [Macworld][macworld], [Six Colors][sixcolors], and his podcast [Upgrade][up]. I assume keyboard purists like him weren't really the target market, since,  for them, clicky keyboards will always the best. I assumed that it would feel just the same as typing on my MacBook Pros and Air's of the past.
 
 Boy was I wrong. It really, truly does feel just *slightly* more feedback-y than typing on an iPad screen. The latter is certainly the worst typing experience of all, but the former isn't that far ahead. Yes, the keys feel very sturdy. Typing on the keyboard evokes all those things I remember Jony Ive talking about in the promotional videos. Don't get me wrong: this keyboard is an excellent hardware milestone. I just think it will take some getting used to. If you preordered one, be ready. It's not going to feel like typing on anything you've typed on before. 
 
 <figure>
-	<img src="http://d.pr/i/120bA+" alt="Closing picture">
+	<img src="http://d.pr/i/120bA+" alt="Leaving you with this" title="Leaving you with this">
 	<figcaption>I'll leave you with this: the display case for try-on's. So clean.</figcaption>
 </figure>
 
-[atp]: http://atp.fm/108
-[businessinsider]: http://www.businessinsider.com/angela-ahrendts-says-a-significant-change-in-mindset-to-launching-apple-watch-online-2015-4?op=1
-[daringfireball]: http://daringfireball.net/2015/04/the_apple_watch
-[macworld]: http://www.macworld.com/article/2908115/review-the-new-12-inch-macbook-is-a-laptop-without-an-ecosystem.html
-[sixcolors]: http://sixcolors.com/post/2015/04/the-new-macbook-a-reviewers-notebook/
-[twitter]: https://twitter.com/tapbot_paul/status/586570252672077824
+[atp]: http://atp.fm/108 "Accidental Tech Podcast episode 108"
+[businessinsider]: http://www.businessinsider.com/angela-ahrendts-says-a-significant-change-in-mindset-to-launching-apple-watch-online-2015-4?op=1 "Business Insider on Angela Ahrendts's changing mindset in marketing the Apple Watch"
+[daringfireball]: http://daringfireball.net/2015/04/the_apple_watch "John Gruber's review of Apple Watch"
+[macworld]: http://www.macworld.com/article/2908115/review-the-new-12-inch-macbook-is-a-laptop-without-an-ecosystem.html "Jason Snell reviews the 2015 MacBook"
+[sixcolors]: http://sixcolors.com/post/2015/04/the-new-macbook-a-reviewers-notebook/ "Jason Snell reviewed the 2015 MacBook for Six Colors, too"
+[up]: http://relay.fm/upgrade "Relay FM's podcast 'Upgrade'"

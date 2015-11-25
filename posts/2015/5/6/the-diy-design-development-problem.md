@@ -1,23 +1,28 @@
-@@ Title=The DIY Design/Development Problem  
-@@ Date=2015-05-06 16:34  
-@@ Description=I'm guilty of it: designing without being a designer. Is it all bad?  
-@@ Tags=design, culture, web design, apps, iOS, OS X, web, developers, development, Apple, industry, Marco Arment, Eli Schiff, Louis Mantia   
+Title: The DIY Design/Development Problem  
+Date: 2015-05-06 16:34  
+Description: I'm guilty of it: designing without being a designer. Is it all bad?  
+Tags: Best Of, Web Design & Development  
+Image: http://d.pr/i/12C5s+  
+
+![DIY Design/Development][d]
 
 [NSConference][nsconference] recently posted videos of all their speakers for this year's conference, and Marco Arment was one of the [keynote speakers][vimeo]. Interestingly enough, his topic was app marketing, something often mocked on his [podcast][atp]. Still, perhaps unsurprisingly, he did a great job explaining what works in the App Store. And overall, his talk is a great watch for [Overcast][overcast] fans, as he recounts the app from conception, all the way to launch.[^ln]
 
 Let me preface what I am about to say with this: I have nothing but the highest regard for Marco Arment. His [work][wikipedia] with Tumblr helped jumpstart the [one-man-blog][duckduckgo]. His mobile applications have become huge contributions to the App Store ecosystem. Before [Instapaper][apple], there was no great read-it-later service. And before [Overcast][apple 2], podcasters who wanted to listen at greater than 1.0x speeds were stuck with crappy audio. He is nothing but an inspiration for wannabe indie developers, [bloggers][marco], and [podcasters][atp]. 
 
 That said, his thoughts regarding the design/develop conundrum currently plaguing the App Store saddens me:
->iOS 7 made good design a lot easier for developers who aren't necessarily designers by training or by skill
 
->I've learned the basics of typography and spacing and layout, and I had [Louis Mantia][louie] [link added] pick a good color for me, and that's basically all you need in iOS 7 and above. This new visual language is very accessible to developers. You still need some design help if you can get it, but it's a lot easier to stand out and be good because there is a lot less cost involved in doing that
+> iOS 7 made good design a lot easier for developers who aren't necessarily designers by training or by skill
+
+> I've learned the basics of typography and spacing and layout, and I had [Louis Mantia][louie] [link added] pick a good color for me, and that's basically all you need in iOS 7 and above. This new visual language is very accessible to developers. You still need some design help if you can get it, but it's a lot easier to stand out and be good because there is a lot less cost involved in doing that
 
 I've [read a few][theoveranalyzed] of Eli Schiff's pieces, mostly because Marco [linked][marco 2] to one in particular (with disdain). Ignoring the disagreement between the two, Schiff makes some spot-on arguments about the recent trend of developers doing more and more self-design work in their apps.
 
-Here he is from his piece entitled [Fall of the Designer Part II: Pixel Pushers][elischiff]:---
->More and more, we are seeing a convergence toward a universalized front-end developer role in design, with the ostensible visual designer becoming an abstract coder, thus renouncing any ties to the graphical nature of interface design
+Here he is from his piece entitled [Fall of the Designer Part II: Pixel Pushers][elischiff]:
 
->[This is] illustrative of a larger movement that expects interface design to come a distant second to development.
+> More and more, we are seeing a convergence toward a universalized front-end developer role in design, with the ostensible visual designer becoming an abstract coder, thus renouncing any ties to the graphical nature of interface design
+
+> [This is] illustrative of a larger movement that expects interface design to come a distant second to development.
 
 I am tempted to include more quotes from his piece, but really, you should just read the whole thing. 
 
@@ -41,38 +46,35 @@ Still, I'm in agreement with Schiff. The thesis of his argument is that design s
 
 What will it take for old-school design to return to the level of importance it previously held? An unflattening reversion to the skeumorphic designs of old? History has a tendency to [repeat itself][elitedaily]. Only time will tell if 'design-first' will come back into the fold. I just hope good designers are still around if/when that time comes.
 
-[^ln]: If you podcast, check out John Gruber's The Talk Show [episode][daringfireball 2] with Marco Arment from last year, right around the time Overcast launched. (Overcast [link][overcast 2].) 
-
-	And, if you can't get enough, check out the [part 2 of Gruber's interview with Marco][daringfireball 3]. (Overcast version [here][overcast 3].)
+[^ln]: If you podcast, check out John Gruber's The Talk Show [episode][overcast 2] with Marco Arment from last year, right around the time Overcast launched. And, if you can't get enough, check out the [part 2 of Gruber's interview with Marco][overcast 3].
 [^ju]: Just take a look at his [headphone mega-review][marco 4]. No web design nerd can view his source and *not* know he loves well-designed [JavaScript-y stuff][twitter 2] as much as the rest of us
 
-[apple]: https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&at=1l3vx9s
-[apple 2]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8&at=1l3vx9s
-[apple 3]: https://itunes.apple.com/us/app/sketch-3/id852320343?mt=12&at=1l3vx9s
-[atp]: http://atp.fm
-[daringfireball]: http://daringfireball.net/2013/01/the_trend_against_skeuomorphism
-[daringfireball 2]: http://daringfireball.net/thetalkshow/2014/07/19/ep-088
-[daringfireball 3]: http://daringfireball.net/thetalkshow/2014/07/19/ep-089
-[dribbble]: https://dribbble.com/shots
-[duckduckgo]: https://duckduckgo.com/?q=one+man+blog
-[elischiff]: http://www.elischiff.com/blog/2015/4/14/fall-of-the-designer-part-ii-pixel-pushers
-[elitedaily]: http://elitedaily.com/life/tbt-five-90s-fashion-trends-that-are-totally-back-in-style/
-[imore]: http://www.imore.com/marc-edwards-app-design-workflow
-[louie]: http://louie.land/
-[marco]: http://marco.org
-[marco 2]: http://www.marco.org/2015/03/25/censoring-myself-for-apple
-[marco 3]: http://www.marco.org/2014/07/16/overcast
-[marco 4]: http://www.marco.org/headphones-closed-portable
-[nsconference]: http://nsconference.com/
-[overcast]: http://overcast.fm
-[overcast 2]: https://overcast.fm/+BtuxswjuQ
-[overcast 3]: https://overcast.fm/+BtuxpJ6IA
-[theoveranalyzed]: /2015/4/8/fall-of-the-designer-part-i-fashionable-nonsense
-[theoveranalyzed 2]: /2015/2/5/designing-theoveranalyzed#thelogo
-[theoveranalyzed 3]: /2015/2/6/one-year-later
-[theoveranalyzed 4]: /tags/hacking-squarespace
-[twitter]: https://twitter.com/smokeythedingo
-[twitter 2]: https://twitter.com/marcoarment/status/574591922372808704
-[vimeo]: https://vimeo.com/124349705
-[wikipedia]: https://en.wikipedia.org/wiki/Tumblr#History
-[wikipedia 2]: https://en.wikipedia.org/wiki/SVG
+[apple]: https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&at=1l3vx9s "Instapaper on the App Store"
+[apple 2]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8&at=1l3vx9s "Overcast on the App Store"
+[apple 3]: https://itunes.apple.com/us/app/sketch-3/id852320343?mt=12&at=1l3vx9s "Sketch on the Mac App Store"
+[atp]: http://atp.fm "The Accidental Tech Podcast"
+[d]: http://d.pr/i/Kc3o+ "DIY Design/Development"
+[daringfireball]: http://daringfireball.net/2013/01/the_trend_against_skeuomorphism "John Gruber on the design trend away from skeuomorphism"
+[dribbble]: https://dribbble.com/ "Dribbble"
+[duckduckgo]: https://duckduckgo.com/?q=one+man+blog "'One man blog'"
+[elischiff]: http://www.elischiff.com/blog/2015/4/14/fall-of-the-designer-part-ii-pixel-pushers "'Fall of The Designer Part II: Pixel Pushers'"
+[elitedaily]: http://elitedaily.com/life/tbt-five-90s-fashion-trends-that-are-totally-back-in-style/ "90's fashion trends back in style"
+[imore]: http://www.imore.com/marc-edwards-app-design-workflow "Marc Edwards on designing apps"
+[louie]: http://louie.land/ "Louie Mantia's website"
+[marco]: http://marco.org "Marco Arment's personal blog, Marco.org"
+[marco 2]: http://www.marco.org/2015/03/25/censoring-myself-for-apple "Marco scoffing at the idea of censoring himself for Apple"
+[marco 3]: http://www.marco.org/2014/07/16/overcast "Marco releasing Overcast"
+[marco 4]: http://www.marco.org/headphones-closed-portable "Marco's big headphones review"
+[nsconference]: http://nsconference.com/ "NSConference"
+[overcast]: http://overcast.fm "Overcast's webapp"
+[overcast 2]: https://overcast.fm/+BtuxswjuQ "The Talk Show Episode 88: ‘Cat Pictures’, With Marco Arment (Side 1)"
+[overcast 3]: https://overcast.fm/+BtuxpJ6IA "The Talk Show Episode 89: ‘Cat Pictures’, With Marco Arment (Side 2)"
+[theoveranalyzed]: /2015/4/8/fall-of-the-designer-part-i-fashionable-nonsense "My post sharing Eli Schiff's series 'Fall of The Designer'"
+[theoveranalyzed 2]: /2015/2/5/designing-theoveranalyzed#thelogo "My post about designing TheOverAnalyzed 2.0"
+[theoveranalyzed 3]: /2015/2/6/one-year-later "Retrospective post after TheOverAnalyzed turned 1"
+[theoveranalyzed 4]: /tags/Squarespace "Posts tagged 'Squarespace'"
+[twitter]: https://twitter.com/smokeythedingo "My beloved dog, Smokey, on Twitter"
+[twitter 2]: https://twitter.com/marcoarment/status/574591922372808704 "Marco responding to my comment about his crazy headphone review page"
+[vimeo]: https://vimeo.com/124349705 "NSConference: iOS App Marketing For Small Developers - Marco Arment"
+[wikipedia]: https://en.wikipedia.org/wiki/Tumblr#History "Wikipedia: History of tumblr"
+[wikipedia 2]: https://en.wikipedia.org/wiki/SVG "Wikipedia: SVG"

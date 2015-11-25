@@ -1,5 +1,5 @@
-@@ Title=Broken Links  
-@@ Description=This is the page I've dedicated to broken links that I just cannot seem to redirect.  
+Title: Broken Links  
+Description: This is the page I've dedicated to broken links that I just cannot seem to redirect.  
 
 Despite my best efforts, several of my posts since TheOverAnalyzed was on Squarespace were simply not redirectable.[^tr] 
 
@@ -15,11 +15,11 @@ Here are permalinks to those posts:
 
 [^tr]: Trust me, I tried. [A bunch][d]. 
 
-[chr]: /2015/2/19/christians-not-acting-like-christ
-[d]: http://d.pr/i/1fnxi+
-[theoveranalyzed]: /2014/10/27/why-i-couldnt-handle-the-iphone-6-plus
-[theoveranalyzed 2]: /2014/10/7/the-last-american-who-knew-what-the-f-he-was-doing
-[theoveranalyzed 3]: /2014/2/12/zoos
-[theoveranalyzed 4]: /2014/2/3/how-to-clean-up-your-twitter-feed
-[theoveranalyzed 5]: /2014/2/2/fantastical-2
-[theoveranalyzed 6]: /2014/2/2/first-post-ever
+[chr]: /2015/2/19/christians-not-acting-like-christ "Mildly political debate"
+[d]: http://d.pr/i/1fnxi+ "Searching through Google for broken links to fix"
+[theoveranalyzed]: /2014/10/27/why-i-couldnt-handle-the-iphone-6-plus "Why the iPhone 6 Plus was too big for me"
+[theoveranalyzed 2]: /2014/10/7/the-last-american-who-knew-what-the-f-he-was-doing "Steve Jobs"
+[theoveranalyzed 3]: /2014/2/12/zoos "Zoos are terrible"
+[theoveranalyzed 4]: /2014/2/3/how-to-clean-up-your-twitter-feed "There's a reason no one uses Twitter"
+[theoveranalyzed 5]: /2014/2/2/fantastical-2 "Review of Fantastical 2 for iPhone"
+[theoveranalyzed 6]: /2014/2/2/first-post-ever "My first post ever ❤️"

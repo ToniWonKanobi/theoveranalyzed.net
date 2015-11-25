@@ -1,8 +1,8 @@
-@@ Title=URL Preview  
-@@ Date=2015-06-05 22:21  
-@@ Link=http://brettterpstra.com/projects/url-preview/  
-@@ Description=Brett Terpstra just released a nifty URL previewer for all your plain-texters out there.  
-@@ Tags=Brett Terpstra, Markdown, blogging  
+Title: URL Preview  
+Date: 2015-06-05 22:21  
+Link: http://brettterpstra.com/projects/url-preview/  
+Description: Brett Terpstra just released a nifty URL previewer for all your plain-texters out there.  
+Tags: Power User, Apps, Blogging    
 
 Brett Terpstra just released a nifty utility called [URL Preview][0402-0001], which works in conjunction with his other Markdown services.
 
@@ -11,17 +11,17 @@ Since moving to [Camel][camel], I have been using [Byword][0402-0003] for all my
 I recently started using another utility from Brett called [SearchLink][0402-0002]. Using that in conjunction with URL Preview makes writing significantly easier and less stressful, because it allows me to *just* write in Markdown, and worry about all the hyperlinks once I'm finished writing. 
 
 <figure>
-	<img src="http://d.pr/i/1glDj+" alt="sl and url preview">
+	<img src="http://d.pr/i/1glDj+" alt="SearchLink and URL Preview" title="SearchLink and URL Preview">
 	<figcaption>SearchLink and URL Preview were made for each other.</figcaption>
 </figure>
 
 While both are free utilities, I'm sure Brett wouldn't mind a few bucks tossed his way for the trouble. Head over to his site for lengthy how-to's for both SearchLink and URL Preview.
 
-[0402-0001]: http://brettterpstra.com/projects/url-preview/
-[0402-0002]: http://brettterpstra.com/projects/searchlink/
-[0402-0003]: http://bywordapp.com/
-[0402-0004]: http://multimarkdown.com/
-[0402-0005]: http://fletcherpenney.net/multimarkdown/
-[0402-0006]: https://www.npmjs.com/package/markdown-it
-[again]: /2015/3/4/byword-multimarkdown-composer-and-more
-[camel]: /2015/6/1/introducing-theoveranalyzed-30
+[0402-0001]: http://brettterpstra.com/projects/url-preview/ "Brett's project page for URL Preview"
+[0402-0002]: http://brettterpstra.com/projects/searchlink/ "Brett's project page for SearchLink"
+[0402-0003]: https://itunes.apple.com/us/app/byword/id420212497?mt=12&at=1l3vx9s "Byword on the App Store"
+[0402-0004]: http://multimarkdown.com/ "Project page for MultiMarkdown"
+[0402-0005]: http://fletcherpenney.net/multimarkdown/ "Fletcher Penney's site about MultiMarkdown"
+[0402-0006]: https://www.npmjs.com/package/markdown-it "npmjs page for `markdown-it`"
+[again]: /2015/3/4/byword-multimarkdown-composer-and-more "My thoughts on using Byword and MultiMarkdown Composer"
+[camel]: /2015/6/1/introducing-theoveranalyzed-30 "My post introducing TheOverAnalyzed 3.0"

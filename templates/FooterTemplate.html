@@ -1,8 +1,10 @@
 <div class="paginationFooter">
-	{{#if nextPage}}
+	<p>
+		{{#if nextPage}}
 		<a href="/page/{{nextPage}}" class="nextPage"><span style="vertical-align: -4%" title="Older Posts">&#8592;</span>&nbsp;Older</a>
-	{{/if}}
-	{{#if prevPage}}
+		{{/if}}
+		{{#if prevPage}}
 		<a href="/page/{{prevPage}}" class="previousPage" title="Newer Posts">Newer&nbsp;<span style="vertical-align: -4%">&#8594;</span></a>
-	{{/if}}
+		{{/if}}
+	</p>
 </div>

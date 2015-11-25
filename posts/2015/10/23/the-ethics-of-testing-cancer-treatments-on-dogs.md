@@ -1,14 +1,12 @@
-@@ Title=The Ethics of Testing Cancer Treatments on Dogs  
-@@ Date=2015-10-23 07:00  
-@@ Description=What if scientists could 3D-print DNA that helps fight cancer?  
-@@ Tags=animals, medicine, cancer, dogs  
-@@ Image=http://d.pr/i/12WGA+  
-@@ Video=https://www.youtube.com/watch?v=frL5PSUftPI  
+Title: The Ethics of Testing Cancer Treatments on Dogs  
+Date: 2015-10-23 07:00  
+Description: What if scientists could 3D-print DNA that helps fight cancer?  
+Tags: Advocacy, Medicine  
+Image: http://d.pr/i/12WGA+  
+Video: https://www.youtube.com/watch?v=frL5PSUftPI  
 
 <figure>
-	<a class="nohover" href="https://www.youtube.com/watch?v=frL5PSUftPI">
-		<img src="http://d.pr/i/12WGA+" alt="Dogs">
-	</a>
+	<img src="http://d.pr/i/12WGA+" alt="The Ethics of Testing Cancer Treatments on Dogs" title="The Ethics of Testing Cancer Treatments on Dogs">
 	<figcaption>"Dogs get cancer at the same rate as people," says Dr. Bruce Smith</figcaption>
 </figure>
 
@@ -21,10 +19,12 @@ Yesterday, I stumbled onto a video featured by [Digg][digg], in which [Daisy Ros
 The main players? Dogs. 
 
 Here's [Bruce F Smith, VMD, PhD][avma], the Director of Auburn University Research Initiative in Cancer:
->The survival [rate] [...] with [the] current standard of care---amputation and chemotherapy---is less than 10% dogs live past a year
+
+> The survival [rate] [...] with [the] current standard of care---amputation and chemotherapy---is less than 10% dogs live past a year
 
 Dr. Smith has been using [oncolytic viruses][wikipedia] to attack the cancer cells in dogs for some time:
->In our trial, we're getting closer to 25% survival beyond a year. And one of those dogs lived 26 months---well over 2 years.
+
+> In our trial, we're getting closer to 25% survival beyond a year. And one of those dogs lived 26 months---well over 2 years.
 
 25% is a substantial differential. Not bad. But according to Rosario, it's "not good enough for humans." (Yet.)
 
@@ -51,7 +51,8 @@ Logical sure, but it's also *particularly* [Vulcan][wikipedia 4]---and not in a 
 Put plainly: what gives humans the right to grow animals [solely for the purpose of testing][wikipedia 5] against intended-for-human innovations? Create life, only to predestine  that being to a life of glorified [science-sanctioned] torture? 
 
 I'm not an often Bible-quoter, but I do occasionally like to throw this one out there in refutation of many conservatives' assertion that it was bestowed upon humanity some god-like *dominion* over the Earth:
->Then the LORD God took the man and put him in the garden of Eden to **tend** [**dress**, KJV] [emphasis added] and keep it (Genesis 2:15)
+
+> Then the LORD God took the man and put him in the garden of Eden to **tend** [**dress**, KJV] [emphasis added] and keep it (Genesis 2:15)
 
 Again, if you're into Judeo-Christian religiosity, "Dress and keep it," sure sounds an awful like "take care of." 
 
@@ -67,21 +68,21 @@ To be clear: what Dr. Smith and Hessel are doing---using experimental human trea
 
 I look forward to the day when humans forego all of our inclinations toward animal cruelty---animal testing included. As depressing as the situation is for animal advocates, I am encouraged by our progress. Everyday, humanity take [small steps][humanesociety 2] toward [true stewardship][peta] of the planet. Bible-belief or not, *that's* the way it should be.
 
-[autodeskresearch]: http://autodeskresearch.com/people/andrewhessel
-[avma]: https://www.avma.org/KB/Resources/Reference/BiomedicalResearch/highlight/Pages/Smith.aspx
-[digg]: http://digg.com/video/dogs-cancer-cure
-[farmsanctuary]: http://www.farmsanctuary.org/learn/factory-farming/
-[humanesociety]: http://www.humanesociety.org/issues/cosmetic_testing/qa/questions_answers.html
-[humanesociety 2]: http://www.humanesociety.org/about/departments/animals_research.html?credit=web_id93480558
-[mic]: http://mic.com
-[peta]: http://www.peta.org/action/stop-animals-being-killed-by-military/
-[theoveranalyzed]: http://www.theoveranalyzed.net/tags/animals
-[theoveranalyzed 2]: http://www.theoveranalyzed.net/2015/3/3/testing-allergy-remedies-on-animals-still
-[twitter]: http://twitter.com/itsdmr
-[urbandictionary]: http://www.urbandictionary.com/define.php?term=Man%27s+Best+Friend&defid=4026604
-[wikipedia]: https://en.wikipedia.org/wiki/Oncolytic_virus
-[wikipedia 2]: https://en.wikipedia.org/wiki/3D_printing
-[wikipedia 3]: https://en.wikipedia.org/wiki/Consequentialism
-[wikipedia 4]: https://en.wikipedia.org/wiki/Vulcan_(Star_Trek#Emotion)
-[wikipedia 5]: https://en.wikipedia.org/wiki/Laboratory_mouse
-[youtube]: https://www.youtube.com/watch?v=fHAOWLhrxhQ
+[autodeskresearch]: http://autodeskresearch.com/people/andrewhessel "Andrew Hessel's profile"
+[avma]: https://www.avma.org/KB/Resources/Reference/BiomedicalResearch/highlight/Pages/Smith.aspx "Dr. Smith's profile"
+[digg]: http://digg.com/video/dogs-cancer-cure "Digg piece on testing cancer treatments on dogs"
+[farmsanctuary]: http://www.farmsanctuary.org/learn/factory-farming/ "Farm Sanctuary: Factory Farming"
+[humanesociety]: http://www.humanesociety.org/issues/cosmetic_testing/qa/questions_answers.html "Human Society of the United States: Cosmetic Testing on Animals"
+[humanesociety 2]: http://www.humanesociety.org/about/departments/animals_research.html?credit=web_id93480558 "Human Society of the United States: Animals Research"
+[mic]: http://mic.com "Mic"
+[peta]: http://www.peta.org/action/stop-animals-being-killed-by-military/ "PETA petition to keep animals from being killed needlessly"
+[theoveranalyzed]: /tags/Animals "Posts tagged 'Animals'"
+[theoveranalyzed 2]: /2015/3/3/testing-allergy-remedies-on-animals-still "'Testing Allergy Remedies on Animals Still'"
+[twitter]: http://twitter.com/itsdmr "Daisy Rosario's Twitter account"
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=Man%27s+Best+Friend&defid=4026604 "Urban Dictionary: 'Man's Best Friend'"
+[wikipedia]: https://en.wikipedia.org/wiki/Oncolytic_virus "Wikipedia: Oncolytic Virus"
+[wikipedia 2]: https://en.wikipedia.org/wiki/3D_printing "Wikipedia: 3D Printing"
+[wikipedia 3]: https://en.wikipedia.org/wiki/Consequentialism "Wikipedia: Consequentialism"
+[wikipedia 4]: https://en.wikipedia.org/wiki/Vulcan_(Star_Trek#Emotion) "Wikipedia: Vulcan Emotions"
+[wikipedia 5]: https://en.wikipedia.org/wiki/Laboratory_mouse "Wikipedia: Laboratory mice"
+[youtube]: https://www.youtube.com/watch?v=fHAOWLhrxhQ  "YouTube: Spock's Death - Star Trek II: The Wrath Of Khan"

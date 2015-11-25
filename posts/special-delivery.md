@@ -1,11 +1,10 @@
-@@ Title=Special Delivery  
-@@ Date=2015-02-14 08:00  
-@@ Description=Happy Valentine's Day Allison.  
-@@ Tags=Anthony, Allison  
-@@ HideHeader=true  
-@@ BodyClass=specialDelivery
-
-<link rel="stylesheet" type="text/css" href="/css/special-delivery.css">
+Title: Special Delivery  
+Date: 2015-02-14 08:00  
+Description: Happy Valentine's Day Allison.  
+Tags: Allison  
+HideHeader: true  
+BodyClass: specialDelivery  
+CSS: special-delivery.css  
 
 <div class="specialDelivery">
 
@@ -55,11 +54,11 @@ I love you Allison
 
 </div>
 
-[d]: http://d.pr/i/1h9Gt+
-[d 2]: http://d.pr/i/17c8+
-[d 3]: http://d.pr/i/1cA8c+
-[d 4]: http://d.pr/i/12lD8+
-[d 5]: http://d.pr/i/1aaa8+
-[d 6]: http://d.pr/i/1l05R+
-[d 7]: http://d.pr/i/133Ap+
-[d 8]: http://d.pr/i/1jbcu+
+[d]: http://d.pr/i/1h9Gt+ "Our first date"
+[d 2]: http://d.pr/i/17c8+ "Allison reading at Putah Creek Cafe"
+[d 3]: http://d.pr/i/1cA8c+ "Allison at Caffe Italia"
+[d 4]: http://d.pr/i/12lD8+ "Us in San Francisco"
+[d 5]: http://d.pr/i/1aaa8+ "Us in Truckee, CA"
+[d 6]: http://d.pr/i/1l05R+ "Allison in Davis, CA"
+[d 7]: http://d.pr/i/133Ap+ "Us in Lake Arrowhead, CA, after my graduation from dental school"
+[d 8]: http://d.pr/i/1jbcu+ "Smokey outside of our cabin in Jackson, WY"

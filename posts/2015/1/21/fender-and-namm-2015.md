@@ -1,9 +1,13 @@
-@@ Title=Fender and NAMM 2015  
-@@ Date=2015-01-25 11:24  
-@@ Description=The annual National Association of Music Merchants (NAMM) isn't what it used to be.  
-@@ Tags=music, business, industry, Fender, Jim Dalrymple, NAMM  
+Title: Fender and NAMM 2015  
+Date: 2015-01-25 11:24  
+Description: The annual National Association of Music Merchants (NAMM) isn't what it used to be.  
+Tags: Industry, Music  
+Image: https://scontent-lax3-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10914638_1046851482007288_940964910_n.jpg  
+
+![Fender and NAMM 2015][fender]
 
 [NAMM][namm] 2015 starts tomorrow, and Fender might be in for a bit of trouble with its dealers. Here's [Jim Dalrymple's][loopinsight] take on the issue:
+
 > Guitars are one of those items that you really need to touch and feel to appreciate. I don’t think ordering online really works for buying a high-end guitar like a Strat or Tele. Fender is doing some damage here.
 
 Jim has a point. The idea of buying a musical instrument was (is) an insanely personal one. And in that quest to find the right instrument, many questions are likely to spring up:
@@ -55,16 +59,17 @@ I am going to NAMM 2015 this weekend. I have gone almost every year for the past
 
 Fender will have to convince its dealers that they are still important. If they can't do that, it makes me think: what's the point of NAMM anymore?
 
-[basssandiego]: http://basssandiego.com
-[dingwallguitars]: http://www.dingwallguitars.com/
-[elderly]: http://elderly.com
-[fodera]: http://www.fodera.com/
-[glguitars]: http://www.glguitars.com/
-[guitarcenter]: http://www.guitarcenter.com/Ibanez-GSR200-4-String-Bass-100463976-i1150632.gc
-[loopinsight]: http://www.loopinsight.com/2015/01/20/fender-guitars-in-for-a-tough-week-at-namm/
-[marcusmiller]: http://www.marcusmiller.com/
-[namm]: http://www.namm.org
-[sadowsky]: http://www.sadowsky.com
-[talkbass]: http://www.talkbass.com/members/ac3320.118334/
-[victorwooten]: http://www.victorwooten.com/
-[wikipedia]: https://en.wikipedia.org/wiki/Leland_Sklar
+[basssandiego]: http://basssandiego.com "Bass San Diego"
+[dingwallguitars]: http://www.dingwallguitars.com/ "Dingwall Guitars"
+[elderly]: http://elderly.com "Elderly Instruments"
+[fender]: https://scontent-lax3-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10914638_1046851482007288_940964910_n.jpg "Fender and Namm 2015"
+[fodera]: http://www.fodera.com/ "Fodera Guitars"
+[glguitars]: http://www.glguitars.com/ "G&L Guitars"
+[guitarcenter]: http://www.guitarcenter.com/Ibanez-GSR200-4-String-Bass-100463976-i1150632.gc "My first bass guitar"
+[loopinsight]: http://www.loopinsight.com/2015/01/20/fender-guitars-in-for-a-tough-week-at-namm/ "Jim Dalrymple on NAMM 2015"
+[marcusmiller]: http://www.marcusmiller.com/ "Marcus Miller's website"
+[namm]: http://www.namm.org "NAMM"
+[sadowsky]: http://www.sadowsky.com "Sadowskly Guitars"
+[talkbass]: http://www.talkbass.com/members/ac3320.118334/ "My profile page on TalkBass"
+[victorwooten]: http://www.victorwooten.com/ "Victor Wooten's website"
+[wikipedia]: https://en.wikipedia.org/wiki/Leland_Sklar "Wikipedia: Leland Sklar"

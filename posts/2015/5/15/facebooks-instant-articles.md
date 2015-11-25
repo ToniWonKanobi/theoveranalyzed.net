@@ -1,11 +1,10 @@
-@@ Title=Facebook's Instant Articles  
-@@ Date=2015-05-15 08:00  
-@@ Description=Disliking Facebook doesn't make it any less pervasive to the masses. What will Instant Articles mean for publishers (big and small)?  
-@@ Tags=social media, Facebook, Instant Articles, TheOverAnalyzed, Ben Thompson, Marco Arment, John Gruber, MG Siegler, Om Malik  
+Title: Facebook's Instant Articles  
+Date: 2015-05-15 08:00  
+Description: Disliking Facebook doesn't make it any less pervasive to the masses. What will Instant Articles mean for publishers (big and small)?  
+Tags: Facebook  
+Image: http://d.pr/i/1krH2+
 
-<h2>Contents</h2>
-
-[[TOC]]
+![Facebook Instant Articles][d]
 
 # Instant Articles
 
@@ -19,19 +18,21 @@ I don't want Facebook to live on.
 
 I want it to die.
 
-But you know what? I don't think it will, at least not anytime soon. While it has [long been dead][techcrunch] to technophiles and teenieboppers alike, the simple truth is that social media is an absolute necessity for publishers to survive. Why is that?
+But you know what? I don't think it will, at least not anytime soon. While it has [long been dead][techcrunch] to technophiles and teenyboppers alike, the simple truth is that social media is an absolute necessity for publishers to survive. Why is that?
 
 # No One Visits Websites Anymore
 
 As Marco Arment [said][overcast] on the latest episode of his Accidental Tech Podcast:
->The web as viewed in web browsers [...] is losing relevance
 
->Not the internet, but the *web* [emphasis added]
+> The web as viewed in web browsers [...] is losing relevance
+
+> Not the internet, but the *web* [emphasis added]
 
 Marco is spot-on here. And because less and less normal people use web browsers to read website content, publishers are in trouble. 
 
 Here's [John Gruber][daringfireball]'s short take:
->HTML/CSS/JavaScript rendered in a web browser — that part of the web has peaked.
+
+> HTML/CSS/JavaScript rendered in a web browser — that part of the web has peaked.
 
 Without those little Facebook/Twitter/Pinterest/Whatever share icons below articles, publishers' content would never see the light of day (relatively speaking). Their articles *have* to have a social presence to gain popularity. In these troubled times of the web, publishers *have* to embrace Facebook if they want to remain relevant. 
 
@@ -46,15 +47,16 @@ Presumably, Facebook is doing something similar to what [Google does with search
 If Facebook is doing this, bravo. While not an entirely innovative concept, it is somewhat surprising other platforms[^lo] haven't done something similar. Imagine if Twitter Cards contained pre-loaded versions of the linked content, less than a second away from entertaining the user. That would certainly cut down on my tendency to just auto-save everything to Instapaper.[^as]
 
 [MG Siegler][500ish] agrees:
->With Instant Articles, Facebook has not only done a 180 from what Mark Zuckerberg has called the company’s biggest mistake, they’ve now done another lap just to prove a point. Not only is the web not fast enough for apps, it’s not fast enough for text either.
->
->And you know what, they’re right.
 
->Yes, native apps have spoiled us. But such spoilage is natural. In the end, all that matters is user experience. Native apps provide a better user experience on mobile than a web browser. That was true five years ago, that’s true today. And I suspect it will still be true five years from now.
+> With Instant Articles, Facebook has not only done a 180 from what Mark Zuckerberg has called the company’s biggest mistake, they’ve now done another lap just to prove a point. Not only is the web not fast enough for apps, it’s not fast enough for text either.
+>
+> And you know what, they’re right.
+
+> Yes, native apps have spoiled us. But such spoilage is natural. In the end, all that matters is user experience. Native apps provide a better user experience on mobile than a web browser. That was true five years ago, that’s true today. And I suspect it will still be true five years from now.
 
 In a way, it's the publishers' own fault that Instant Articles are even a threat in the first place. If publishers would quit with all the bloat-inducing 'me-too' JavaScript and complex CSS, pages would likely load closer to 0.8 seconds instead of 8 seconds---a Facebook statistic noted by [OM Malik][om]. Indeed:
 
->Facebook is right: Most of these pages take way too long to load.
+> Facebook is right: Most of these pages take way too long to load.
 
 # Instant Articles: The Bad
 
@@ -91,7 +93,7 @@ Today I reactivated my long dormant [Facebook][toni] profile so that I could cre
 Interestingly, Facebook kindly sent their rejection:[^noo]
 
 <figure>
-	<img src="http://d.pr/i/1ctm4+" alt="Whatever, Facebook.">
+	<img src="http://d.pr/i/1ctm4+" alt="Whatever, Facebook." title="Whatever, Facebook.">
 	<figcaption>Whatever Facebook.</figcaption>
 </figure>
 
@@ -100,40 +102,35 @@ So, I patiently await my opportunity to climb aboard the train I wish had never 
 [^foo]: [Fools][youtube]
 [^lo]: Looking in your direction, [broken bird social network][twit]
 [^as]: Betaworks, the guys who [bought Instapaper][theverge 3] from Marco Arment, just updated the app to have true background updating. So if I'm in a so-so cellular connection area, and I don't want to wait for Tweetbot's third-party browser to load the page, I'll just save to Instapaper and let the app do its thing in the background.
-[^sd]: Lots of fixed-content sidebars---and sidebars in general---were gone. More and more, all content was shifted to a single centered column on the webpage. This, even when the average desktop display had *plenty* of horizontal space to render sidebars nicely. 
-
-	The reason? Sidebars don't often translate well to mobile devices. It made more sense for web designers to keep a single, centered column design for both desktop *and* mobile device views. Less code to maintain, etc.
-[^ra]: Truth be told, I have been forced to reactivate my profile from time to time: 
-
-	When jailbreaking iOS devices a few years ago, my Cydia account was tied to my Facebook account. I had to login in order to authenticate my previous Cydia purchases. When the jailbreak for iOS 7 launched, I instead opted to connect my Google account to Cydia for authentication. I know, I know: Google is no better than Facebook. But, at least it seemed like a more long term account than Facebook ever did.  
-	
-	And when I tried Spotify around a year ago, I had to connect to Facebook to see what my friends were listening to. This was probably the best use of a Facebook-linked auth possible. 
+[^sd]: Lots of fixed-content sidebars---and sidebars in general---were gone. More and more, all content was shifted to a single centered column on the webpage. This, even when the average desktop display had *plenty* of horizontal space to render sidebars nicely. The reason? Sidebars don't often translate well to mobile devices. It made more sense for web designers to keep a single, centered column design for both desktop *and* mobile device views. Less code to maintain, etc.
+[^ra]: Truth be told, I have been forced to reactivate my profile from time to time: When jailbreaking iOS devices a few years ago, my Cydia account was tied to my Facebook account. I had to login in order to authenticate my previous Cydia purchases. When the jailbreak for iOS 7 launched, I instead opted to connect my Google account to Cydia for authentication. I know, I know: Google is no better than Facebook. But, at least it seemed like a more long term account than Facebook ever did. And when I tried Spotify around a year ago, I had to connect to Facebook to see what my friends were listening to. This was probably the best use of a Facebook-linked auth possible. 
 [^noo]: I'm [not the only][scripting] one-man blogger denied early access
 
-[500ish]: https://500ish.com/facebook-instant-karma-4a4bd4f3eca
-[aol]: /2015/1/5/facebook-is-the-new-aol
-[arstechnica]: http://arstechnica.com/gadgets/2015/05/developer-puts-web-browser-on-apple-watch-a-cool-hack-but-useless-for-now/
-[bs]: http://inessential.com
-[daringfireball]: http://daringfireball.net/linked/2015/05/14/facebook-instant-karma
-[daringfireball 2]: http://daringfireball.net/linked/2015/05/14/apple-watch-passcode
-[facebook]: https://www.facebook.com/ToniWonKanobi/posts/443890448981220
-[facebook 2]: https://www.facebook.com/theoveranalyzed/posts/357558501107031
-[kk]: http://kk.org/thetechnium/2008/03/1000-true-fans/
-[om]: http://om.co/2015/05/14/on-the-mobile-web-slow-speeds-kill/
-[nn]: /2015/2/3/my-take-on-net-neutrality
-[overcast]: https://overcast.fm/+CdTTAD2o/1:19:44
-[pcmag]: http://www.pcmag.com/article2/0,2817,2399994,00.asp
-[saurik]: http://cydia.saurik.com/
-[scripting]: http://scripting.com/2015/05/13/facebooksInstantArticles.html#aIHAFA
-[stratechery]: https://stratechery.com/2015/verizon-aol-facebook-instant-articles-and-the-future-of-digital-advertising/
-[techcrunch]: http://techcrunch.com/2014/01/15/even-president-obama-thinks-that-facebook-isnt-cool-anymore/
-[theverge]: http://www.theverge.com/2015/5/13/8595263/facebooks-instant-articles-arrive-to-speed-up-the-news-feed
-[theverge 2]: http://www.theverge.com/2012/4/9/2936375/facebook-buys-instagram
-[theverge 3]: http://www.theverge.com/2013/4/25/4266980/instapaper-acquired-by-betaworks-owner-of-digg
-[toa]: http://www.facebook.com/theoveranalyzed
-[toni]: http://www.facebook.com/toniwonkanobi
-[twit]: http://www.twitter.com
-[urbandictionary]: http://www.urbandictionary.com/define.php?term=poop+or+get+off+the+pot&defid=7766046
-[wikipedia]: https://en.wikipedia.org/wiki/Responsive_web_design#Mobile_first.2C_unobtrusive_JavaScript.2C_and_progressive_enhancement
-[wikipedia 2]: https://en.wikipedia.org/wiki/Responsive_web_design
-[youtube]: https://www.youtube.com/watch?v=5cZ4ABUo6TU&feature=youtu.be
+[500ish]: https://500ish.com/facebook-instant-karma-4a4bd4f3eca "M.G. Siegler on Facebook Instant Articles"
+[aol]: /2015/1/5/facebook-is-the-new-aol "My post about how Facebook is for moms"
+[arstechnica]: http://arstechnica.com/gadgets/2015/05/developer-puts-web-browser-on-apple-watch-a-cool-hack-but-useless-for-now/ "Ars Technica reporting on a developer who put a web browser on their Apple Watch"
+[bs]: http://inessential.com "Brent Simmons blog, inessential.com"
+[d]: http://d.pr/i/1krH2+ "Facebook Instant Articles"
+[daringfireball]: http://daringfireball.net/linked/2015/05/14/facebook-instant-karma "John Gruber's link to a piece by M.G. Siegler on Facebook Instant Articles"
+[daringfireball 2]: http://daringfireball.net/linked/2015/05/14/apple-watch-passcode "John Gruber reporting 'Apple Watch Can Be Reset Without Passcode'"
+[facebook]: https://www.facebook.com/ToniWonKanobi/posts/443890448981220 "My appeal to my friends to leave Facebook for App.net"
+[facebook 2]: https://www.facebook.com/theoveranalyzed/posts/357558501107031 "My Facebook post about re-joining after launching TheOverAnalyzed 3.0"
+[kk]: http://kk.org/thetechnium/2008/03/1000-true-fans/ "Kevin Kelly's post on '1,000 True Fans'"
+[om]: http://om.co/2015/05/14/on-the-mobile-web-slow-speeds-kill/ "Om Malik on how the mobile web is slow"
+[nn]: /2015/2/3/my-take-on-net-neutrality "My take on net neutrality"
+[overcast]: https://overcast.fm/+CdTTAD2o/1:19:44 "The ATP guys talking about how the web is losing relevance in the age of mobile/apps/native stuff"
+[pcmag]: http://www.pcmag.com/article2/0,2817,2399994,00.asp "New Stable Chrome 17 Preloads Autocomplete Sites"
+[saurik]: http://cydia.saurik.com/ "Cydia"
+[scripting]: http://scripting.com/2015/05/13/facebooksInstantArticles.html#aIHAFA "Scripting News on Facebook Instant Articles"
+[stratechery]: https://stratechery.com/2015/verizon-aol-facebook-instant-articles-and-the-future-of-digital-advertising/ "Ben Thompson on Facebook Instant Articles"
+[techcrunch]: http://techcrunch.com/2014/01/15/even-president-obama-thinks-that-facebook-isnt-cool-anymore/ "TechCruch making fun of Facebook"
+[theverge]: http://www.theverge.com/2015/5/13/8595263/facebooks-instant-articles-arrive-to-speed-up-the-news-feed "The Verge reporting on Facebook Instant Articles"
+[theverge 2]: http://www.theverge.com/2012/4/9/2936375/facebook-buys-instagram "The Verge reporting on Facebook purchasing Instagram"
+[theverge 3]: http://www.theverge.com/2013/4/25/4266980/instapaper-acquired-by-betaworks-owner-of-digg "The Verge reporting on Digg acquiring Instapaper"
+[toa]: http://www.facebook.com/theoveranalyzed "TheOverAnalyzed on Facebook"
+[toni]: http://www.facebook.com/toniwonkanobi "Me on Facebook"
+[twit]: http://www.twitter.com "Twitter"
+[urbandictionary]: http://www.urbandictionary.com/define.php?term=poop+or+get+off+the+pot&defid=7766046 "Urban Dictionary: 'Poop or get off the pot'"
+[wikipedia]: https://en.wikipedia.org/wiki/Responsive_web_design#Mobile_first.2C_unobtrusive_JavaScript.2C_and_progressive_enhancement "Wikipedia: Mobile first"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Responsive_web_design "Responsive web design"
+[youtube]: https://youtu.be/5cZ4ABUo6TU "Fool of a Took"

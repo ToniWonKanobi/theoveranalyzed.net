@@ -1,15 +1,20 @@
-@@ Title=This Is the Best Version of Star Wars, and Watching It Is a Crime
-@@ Date=2015-05-14 20:33  
-@@ Link=http://www.vox.com/2015/1/30/7952859/despecialized-edition-download  
-@@ Description=Harmy's "Despecialized" version of the original trilogy may be *the* version to get, but that doesn't make it legal. Is that a problem?  
-@@ Tags=Star Wars, piracy, copyright, culture, movies 
+Title: This Is the Best Version of Star Wars, and Watching It Is a Crime  
+Date: 2015-05-14 20:33  
+Link: http://www.vox.com/2015/1/30/7952859/despecialized-edition-download  
+Description: Harmy's "Despecialized" version of the original trilogy may be *the* version to get, but that doesn't make it legal. Is that a problem?  
+Tags: Star Wars, Culture  
+Image: http://d.pr/i/17G8k+  
+Video: https://www.youtube.com/watch?v=QXifjbxZDAM  
+
+![Harmy's Despecialized Edition][d]
 
 Matthew Yglesias of Vox on an issue near and dear to my heart, the supreme lack of an un-fuddled, high definition version of George Lucas' science-fiction masterpiece[s]:
->He's gone so far as refusing to allow the Library of Congress's National Film Registry to get its hands on a copy. Nor has he released a high-quality version for home viewing. A few people may have their hands on obsolete VHS or Laserdisc sets, of course, but that doesn't help. Back in 2006, Lucas released a DVD set that contained the original cut of Star Wars, but it's a low-quality transfer made back in 1993 for the Laserdisc, not a proper DVD release — to say nothing of a Blu-ray.
->
->Enter a hero named Petr Harmy, who painstakingly created the cut I watched and calls it the "Despecialized Edition."
 
->But [...] watching it is a crime.
+> He's gone so far as refusing to allow the Library of Congress's National Film Registry to get its hands on a copy. Nor has he released a high-quality version for home viewing. A few people may have their hands on obsolete VHS or Laserdisc sets, of course, but that doesn't help. Back in 2006, Lucas released a DVD set that contained the original cut of Star Wars, but it's a low-quality transfer made back in 1993 for the Laserdisc, not a proper DVD release — to say nothing of a Blu-ray.
+>
+> Enter a hero named Petr Harmy, who painstakingly created the cut I watched and calls it the "Despecialized Edition."
+
+> But [...] watching it is a crime.
 
 Yglesias, in typical ultra-liberal Vox fashion, then advocates for a complete dismantling of the copyright situation in the United States motion picture industry. According to his theory, doing so would make it possible for Harmy to distribute his version of the Star Wars trilogy, and moreover, profit from doing so.
 
@@ -26,8 +31,9 @@ I suppose it all depends on your [point of view][youtube].
 In case you were wondering:
 
 <figure>
-	<img src="http://d.pr/i/NHJO+">
+	<img src="http://d.pr/i/NHJO+" alt="To do." title="To do.">
 	<figcaption><a href="https://github.com/donmelton/video-transcoding-scripts">Don Melton</a>-ing these has been on my list of things to do for way too long</figcaption>
 </figure>
 
+[d]: http://d.pr/i/17G8k+ "Harmy's Despecialized Edition"
 [youtube]: https://www.youtube.com/watch?v=MFz8W7fYMy4&feature=youtu.be&t=65

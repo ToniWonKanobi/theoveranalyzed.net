@@ -1,8 +1,9 @@
-@@ Title=Kodak and Hollywood Finalize Deals to Save Movie Film 
-@@ Date=2015-02-04 18:00  
-@@ Link=http://www.theverge.com/2015/2/4/7982243/kodak-secures-film-supply-agreements-with-movie-studios  
-@@ Description=I hope film will live on. Kodak agrees.  
-@@ Tags=culture, photography, industry, movies, history, Kodak, Porsche, 911, 964, 993      
+Title: Kodak and Hollywood Finalize Deals to Save Movie Film  
+Date: 2015-02-04 18:00  
+Link: http://www.theverge.com/2015/2/4/7982243/kodak-secures-film-supply-agreements-with-movie-studios  
+Description: I hope film will live on. Kodak agrees.  
+Tags: Photography, Industry  
+Image: https://cdn2.vox-cdn.com/thumbor/LVd5-po0yq5wZeJSPF_ikjqYcgQ=/0x0:1895x1263/800x536/cdn0.vox-cdn.com/uploads/chorus_image/image/45629122/167811117.0.jpg  
 
 Although digital imaging has swept the industry with its convenience, ease of use, and cost-effective nature, several directors still prefer to use film for its inherent qualities. Recent movies like Boyhood, Interstellar, and The Imitation Game were all shot on film, and upcoming blockbusters including Star Wars Episode VII: The Force Awakens, Jurassic World, and Batman v. Superman: Dawn of Justice will be filmed using Kodak products.
  
@@ -16,5 +17,5 @@ Long live the past.
 
 [^g]: Read: "Less death inducing suspension geometry."
 
-[wikipedia]: https://en.wikipedia.org/wiki/Porsche_964
-[wikipedia 2]: https://en.wikipedia.org/wiki/Porsche_993
+[wikipedia]: https://en.wikipedia.org/wiki/Porsche_964 "Wikipedia: Porsche 964"
+[wikipedia 2]: https://en.wikipedia.org/wiki/Porsche_993 "Wikipedia: Porsche 993"

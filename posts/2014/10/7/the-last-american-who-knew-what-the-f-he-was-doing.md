@@ -1,11 +1,10 @@
-@@ Title="The Last American Who Knew What the F*** He Was Doing"  
-@@ Date=2014-10-07 12:00  
-@@ Description: Two days past the three-year anniversary of his death, I explain what Steve Jobs meant to me as an Apple fan.  
-@@ Tags=Apple, Steve Jobs, pop culture, history  
+Title: The Last American Who Knew What the F*** He Was Doing  
+Date: 2014-10-07 12:00 
+Description: Two days past the three-year anniversary of his death, I explain what Steve Jobs meant to me as an Apple fan.  
+Tags: Steve Jobs  
+Image: http://i.onionstatic.com/onion/1611/3/16x9/1600.jpg  
 
-This post's title came from The Onion's [piece][pie] immediately following Steve Jobs' passing on October 5, 2011. How appropriate.
-
-***
+This post's title came from The Onion's [piece][pie] immediately following Steve Jobs' passing on October 5, 2011. How appropos.
 
 This weekend marked the third anniversary of Steve Jobs death. I am too young to remember JFK's assassination (though, I do remember where I was when I heard of JFK Jr's death). Likewise, I am also too young to remember the assassination of MLK Jr. I remember 9/11 quite vividly, and I remember where I was when I heard that Michael Jackson died (racing go-karts in Northern California). 
 
@@ -27,31 +26,31 @@ I have been wanting to write something this for a while. If for no other reason,
 
 This blog entry isn't a tribute to Steve as much as it is to the people whose opinions and stories I value so greatly. I am writing this post via Squarespace on, you guessed it, a product from Steve's company. Tomorrow I will go to work and on the commute to and from, I will listen to people talk about technology and other topics I love on, you guessed it, another product from Steve's company. When I go home tomorrow night I might turn on a device that allows me to watch things I purchased on my phone on my TV. That product, you guessed it, came from Steve's company as well. My wife will do the same. And so will almost everyone I know. 
 
-Thanks Steve <i class="fa fa-apple"></i> 
+Thanks Steve 
 
-[2nd]: https://en.wikipedia.org/wiki/IPod_Nano#2nd_generation
-[5by5]: http://5by5.tv/talkshow/56
-[5by6]: http://5by5.tv/buildanalyze/46
-[5by7]: http://5by5.tv/hypercritical/37-a-story-of-triumph
-[alphabeatic]: http://alphabeatic.com/iphone-devices/
-[app]: https://app.net/
-[arstechnica]: http://arstechnica.com/staff/2011/10/steve-jobs-a-personal-remembrance/
-[atp]: http://atp.fm/
-[bh]: http://www.macprices.net/z_reviews_17macbookpro_early2006.shtml
-[d]: http://d.pr/f/EOGP+
-[daringfireball]: http://daringfireball.net/
-[daringfireball 2]: http://daringfireball.net/2011/10/universe_dented_grass_underfoot
-[facebook]: https://www.facebook.com/ToniWonKanobi/posts/443890448981220
-[hds]: http://www.lg.com/us/cell-phones/lg-VX9100-Black-black-env2
-[instagram]: http://instagram.com/p/Zy5uxGQz8f/
-[int]: https://en.wikipedia.org/wiki/Apple–Intel_transition
-[marco]: http://marco.org/
-[marco 2]: http://www.marco.org/2011/10/05/steve-jobs-dies
-[mbp]: http://www.everymac.com/systems/apple/macbook_pro/specs/macbook_pro_2.16_17.html
-[overcast]: http://overcast.fm/
-[pie]: http://techcrunch.com/2011/10/07/steve-jobs-the-crazy-one/
-[reederapp]: http://reederapp.com/
-[supertop]: http://supertop.co/
-[theverge]: http://theverge.com/
-[twitter]: http://twitter.com/johnmyankee
-[twitter 2]: https://twitter.com/danbenjamin
+[2nd]: https://en.wikipedia.org/wiki/IPod_Nano#2nd_generation "Wikipedia: iPad nano (2nd generation)"
+[5by5]: http://5by5.tv/talkshow/56 "The Talk Show, episode 56"
+[5by6]: http://5by5.tv/buildanalyze/46 "Build and Analyzed, episode 46"
+[5by7]: http://5by5.tv/hypercritical/37-a-story-of-triumph "Hypercritical, episode 37"
+[alphabeatic]: http://alphabeatic.com/iphone-devices/ "'The iPhone as a gadget gateway drug'"
+[app]: https://app.net/ "App.net"
+[arstechnica]: http://arstechnica.com/staff/2011/10/steve-jobs-a-personal-remembrance/ "John Siracusa on Steve Jobs"
+[atp]: http://atp.fm/ "The Accidental Tech Podcast"
+[bh]: http://www.macprices.net/z_reviews_17macbookpro_early2006.shtml "17-inch MacBook Pro review"
+[d]: http://d.pr/f/EOGP+ "My podcast (Overcast) subscriptions"
+[daringfireball]: http://daringfireball.net/ "John Gruber's blog, Daring Fireball"
+[daringfireball 2]: http://daringfireball.net/2011/10/universe_dented_grass_underfoot "John Gruber after Steve Job's passing"
+[facebook]: https://www.facebook.com/ToniWonKanobi/posts/443890448981220 "Pleading with my friends to join App.net"
+[hds]: http://www.lg.com/us/cell-phones/lg-VX9100-Black-black-env2 "My pre-iPhone cellphone"
+[instagram]: http://instagram.com/p/Zy5uxGQz8f/ "Graduating from dental school"
+[int]: https://en.wikipedia.org/wiki/Apple–Intel_transition "Wikipedia: Apple's Intel transition"
+[marco]: http://marco.org/ "Marco Arment's blog, Marco.org"
+[marco 2]: http://www.marco.org/2011/10/05/steve-jobs-dies "Marco Arment on the death of Steve Jobs"
+[mbp]: http://www.everymac.com/systems/apple/macbook_pro/specs/macbook_pro_2.16_17.html "My 17-inch MacBook Pro specs"
+[overcast]: http://overcast.fm/ "Overcast"
+[pie]: http://www.theonion.com/article/last-american-who-knew-what-the-fuck-he-was-doing--26268 "The Onion on Steve Jobs's death"
+[reederapp]: https://itunes.apple.com/us/app/reeder-2/id697846300?mt=8&at=1l3vx9s "Reeder 2 on the App Store"
+[supertop]: http://supertop.co/ "Creators of Castro"
+[theverge]: http://theverge.com/ "The Verge"
+[twitter]: http://twitter.com/johnmyankee "John Yankee on Twitter"
+[twitter 2]: https://twitter.com/danbenjamin "Dan Benjamin on Twitter"
