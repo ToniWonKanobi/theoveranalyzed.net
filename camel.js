@@ -1135,7 +1135,7 @@ app.get('/tags/:tag', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-		retVal += '<header><h1>' + 'Posts tagged ' + '<i>' + thetag + '</i>' + '</h1></header>';
+		retVal += '<header><h1>' + 'Posts tagged ' + '<b><i>' + thetag + '</i></b>' + '</h1></header>';
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );
 		retVal += '<ul>';
 
