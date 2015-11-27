@@ -199,22 +199,19 @@ li.Tags ul {
 	padding: 0;
 }
 
-li.Tags ul li:first-child:after {
-	content: ', ';
+li.Tags ul li:nth-child(2):before {
+	content: 'and ';
 }
 
-li.Tags ul li:nth-child(2):after {
-	content: ', and';
+li.Tags ul li:last-child:before {
+	content: 'and ';
 }
 
-li.Tags ul li:only-child:after {
+li.Tags ul li:only-child:after,
+li.Tags ul li:only-child:before {
 	content: '';
 }
 
-li.Tags ul li:last-child:before,
-li.Tags ul li:last-child:after {
-	content: '';
-}
 
 /* Post Content
 ======================================== */
@@ -525,8 +522,8 @@ a.footnote-backref:hover {
 .paginationFooter {
 	font-size: 1.1em;
 	font-weight: 400;
-	border-bottom: 2px solid #eee;
-	border-top: 2px solid #eee;
+	border-bottom: 0.2em solid #eee;
+	border-top: 0.2em solid #eee;
 	height: 1.75em; /* Have to do this because floats are stupid */
 	margin: 4em auto 5em auto;
 	padding: 1em 0;
@@ -556,7 +553,7 @@ footer {
 }
 
 #bottomAd {
-	border-top: 2px solid #eee;
+	border-top: 0.2em solid #eee;
 }
 
 #bottomAd figure img {
@@ -570,7 +567,7 @@ footer {
 }
 
 nav {
-	border-top: 2px solid #eee;
+	border-top: 0.2em solid #eee;
 }
 
 nav a {
@@ -720,13 +717,13 @@ form#search input:focus {
 /* Cribbed from Hardik Pandya (http://hardik.org/css/base.css) */
 
 .fadeInDown {
-	animation: fadeInDown 0.3s;
+	animation: fadeInDown 0.4s;
 }
 
 @keyframes fadeInDown {
   0% {
     opacity: 0;
-    transform: translateY(-20px);
+    transform: translateY(-30px);
   }
 
   100% {
@@ -736,13 +733,13 @@ form#search input:focus {
 }
 
 .fadeInUp {
-	animation: fadeInUp 0.3s;
+	animation: fadeInUp 0.4s;
 }
 
 @keyframes fadeInUp {
   0% {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateY(30px);
   }
 
   100% {

@@ -20,7 +20,7 @@ While both are free utilities, I'm sure Brett wouldn't mind a few bucks tossed h
 [0402-0001]: http://brettterpstra.com/projects/url-preview/ "Brett's project page for URL Preview"
 [0402-0002]: http://brettterpstra.com/projects/searchlink/ "Brett's project page for SearchLink"
 [0402-0003]: https://itunes.apple.com/us/app/byword/id420212497?mt=12&at=1l3vx9s "Byword on the App Store"
-[0402-0004]: http://multimarkdown.com/ "Project page for MultiMarkdown"
+[0402-0004]: https://itunes.apple.com/us/app/multimarkdown-composer-2/id593294811?mt=12&at=1l3vx9s "MultiMarkdown Composer 2 on the Mac App Store"
 [0402-0005]: http://fletcherpenney.net/multimarkdown/ "Fletcher Penney's site about MultiMarkdown"
 [0402-0006]: https://www.npmjs.com/package/markdown-it "npmjs page for `markdown-it`"
 [again]: /2015/3/4/byword-multimarkdown-composer-and-more "My thoughts on using Byword and MultiMarkdown Composer"

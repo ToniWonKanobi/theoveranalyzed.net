@@ -8,7 +8,7 @@ Image: https://cottonbureau.com/img/tee-pattern.png
 	<a class="nohover" href="https://cottonbureau.com/products/tweetbot" title="'Tweetbot' on Cotton Bureau">
 		<img class="inlineFour" src="https://cottonbureau.com/img/products/7801_Nz5C_1600.jpg" alt="'Tweetbot' on Cotton Bureau">
 	</a>
-	<a class="nohover" href="https://cottonbureau.com/products/doctype-love" title="&lsaquo;!doctype love&rsaquo;">
+	<a class="nohover" href="https://cottonbureau.com/products/doctype-love" title="'&lsaquo;!doctype love&rsaquo;' on Cotton Bureau">
 		<img class="inlineFour" src="https://cottonbureau.com/img/products/214_0gQc_1600.jpg" alt="'&lsaquo;!doctype love&rsaquo;' on Cotton Bureau">
 	</a>
 	<a class="nohover" href="https://cottonbureau.com/products/star-destroyer" title="'Star Destroyer' on Cotton Bureau">

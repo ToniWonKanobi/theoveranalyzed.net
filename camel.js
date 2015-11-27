@@ -706,7 +706,7 @@ function sendYearListing(request, response) {
 	var retVal = '';
 	retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
 //	retVal += '<header><h2>Posts for ' + year + '</h2></header>';
-	retVal += '<header><h1>' + year + '</h1></header>';
+	retVal += '<header><h1>Posts from ' + year + '</h1></header>';
 
 	var currentMonth = null;
 	var anyFound = false;
@@ -730,11 +730,11 @@ function sendYearListing(request, response) {
 					anyFound = true;
 
 					currentMonth = thisDay.getMonth();
-					retVal += '<h2><a href="/' + year + '/' + leadingZero((currentMonth + 1)) + '/">' + thisDay.format('{Month}') + '</a></h2><ul>';
+					retVal += '<h2><a href="/' + year + '/' + leadingZero((currentMonth + 1)) + '/"' + 'title="Posts from ' + thisDay.format('{Month}') + '">' + thisDay.format('{Month}') + '</a></h2><ul>';
 				}
 
 				day['articles'].each(function (article) {
-					retVal += '<li><a href="' + externalFilenameForFile(article.file) + '">' + article.metadata.Title + '</a></li>';
+					retVal += '<li><a href="' + externalFilenameForFile(article.file) + '" title="' + article.metadata.Title + '">' + article.metadata.Title + '</a></li>';
 				});
 			}
 		});
@@ -747,7 +747,7 @@ function sendYearListing(request, response) {
 		retVal += performMetadataReplacements([], singleFooterTemplate([]) );
 
 		var replacements = {};
-		replacements.Title = 'Posts for ' + request.params.slug;
+		replacements.Title = 'Posts from ' + request.params.slug;
 		replacements.canonicalLink = config.Site.Url + '/' + request.params.slug;
 		replacements.ogtype = 'website';
 		replacements.Image = config.Site.DefaultImage;
@@ -1112,7 +1112,7 @@ app.get('/tags', function (request, response) {
 		retVal += performMetadataReplacements([], singleFooterTemplate([]) );
 
 		var replacements = {};
-		replacements.Title = 'Posts by Tags';
+		replacements.Title = 'Posts by Tag';
 		replacements.canonicalLink = config.Site.Url + '/tags/';
 		replacements.ogtype = 'website';
 		replacements.Image = config.Site.DefaultImage;
@@ -1135,7 +1135,7 @@ app.get('/tags/:tag', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-		retVal += '<header><h1>' + 'Posts tagged ' + '<b><i>' + thetag + '</i></b>' + '</h1></header>';
+		retVal += '<header><h1>' + 'Posts tagged ' + '"' + thetag + '"' + '</h1></header>';
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );
 		retVal += '<ul>';
 
@@ -1180,7 +1180,7 @@ app.get('/tags/:tag', function (request, response) {
 		retVal += performMetadataReplacements([], singleFooterTemplate([]) );
 
 		var replacements = {};
-		replacements.Title = thetag.capitalize() + ' Archives';
+		replacements.Title = 'Posts tagged ' + '"' + thetag + '"';
 		replacements.canonicalLink = config.Site.Url + '/tags/' + thetag;
 		replacements.ogtype = 'website';
 		replacements.Image = config.Site.DefaultImage;
@@ -1189,7 +1189,7 @@ app.get('/tags/:tag', function (request, response) {
 		var header = performMetadataReplacements(replacements, headerSource);
 		header = header.replace(
 			metadataMarker + 'Title' + metadataMarker,
-			thetag.capitalize() + ' Archives'
+			thetag
 		);
 		response.status(200).send(header + retVal + footerSource);
 	});
@@ -1202,7 +1202,7 @@ app.get('/:year/:month', function (request, response) {
 
 		var html = '';
 		html += performMetadataReplacements([], singleHeaderTemplate([]) );
-		html += '<header><h1>' + seekingDay.format('{Month} {yyyy}') + "</h1></header>";
+		html += '<header><h1>Posts from ' + seekingDay.format('{Month} {yyyy}') + "</h1></header>";
 		html += performMetadataReplacements([], postBodyStartTemplate([]) );
 
 		var anyFound = false;
@@ -1211,10 +1211,10 @@ app.get('/:year/:month', function (request, response) {
 			if (thisDay.is(seekingDay.format('{Month} {yyyy}'))) {
 				anyFound = true;
 
-				html += "<h2>" + thisDay.format('{Weekday}, {Month} {d}') + "</h2>";
+				html += '<h2><a href=' + thisDay.format('{Weekday}, {Month} {d}') + '</a></h2>';
 				html += "<ul>";
 				day.articles.each(function (article) {
-					html += '<li><a href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
+					html += '<li><a href="' + article.metadata.relativeLink + '" title="' + article.metadata.Title + '">' + article.metadata.Title + '</a></li>';
 				});
 				html += '</ul>';
 			}
@@ -1228,7 +1228,7 @@ app.get('/:year/:month', function (request, response) {
 		html += performMetadataReplacements([], singleFooterTemplate([]) );
 
 		var replacements = {};
-		replacements.Title = seekingDay.format('{Month} {yyyy}');
+		replacements.Title = 'Posts from ' + seekingDay.format('{Month} {yyyy}');
 		replacements.canonicalLink = config.Site.Url + '/' + request.params.year + '/' + request.params.month;
 		replacements.ogtype = 'website';
 		replacements.Image = config.Site.DefaultImage;
@@ -1254,13 +1254,13 @@ app.get('/:year/:month/:day', function (request, response) {
 
 				var html = '';
 				html += performMetadataReplacements([], singleHeaderTemplate([]) );
-//				html += "<header><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
-            html += "<header><h1>" + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h1></header>";
+				// html += "<header><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
+	            html += "<header><h1>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h1></header>";
 				html += "<ul>";
 				var anyFound = false;
 				day.articles.each(function (article) {
 					anyFound = true;
-					html += '<li><a class="yearMonthDay" href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
+					html += '<li><a href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
 				});
 				html += "</ul>";
 
@@ -1273,7 +1273,7 @@ app.get('/:year/:month/:day', function (request, response) {
 
 
 				var replacements = {};
-				replacements.Title = seekingDay.format('{Weekday}, {Month} {d}, {Year}');
+				replacements.Title = 'Posts from ' + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}');
 				replacements.canonicalLink = config.Site.Url + '/' + request.params.year + '/' + request.params.month + '/' + request.params.day;
 				replacements.ogtype = 'website';
 				replacements.Image = config.Site.DefaultImage;
@@ -1282,7 +1282,7 @@ app.get('/:year/:month/:day', function (request, response) {
 				var header = performMetadataReplacements(replacements, headerSource);
 				header = header.replace(
 					metadataMarker + 'Title' + metadataMarker,
-					seekingDay.format('{Weekday}, {Month} {d}, {Year}')
+					seekingDay.format('{Weekday}, {Month} {d}, {yyyy}')
 				);
 				response.status(200).send(header + html + footerSource);
 			}
