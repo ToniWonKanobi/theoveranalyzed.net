@@ -5,7 +5,7 @@
 http://practicaltypography.com/point-size.html */
 body {
 	color: #555;
-	font-size: 14pt;
+	font-size: 15pt;
 	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', -apple-system, sans-serif;
 	font-weight: 300;
 	line-height: 1.6;
@@ -14,7 +14,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 600;
+	font-weight: 700;
 	margin: 1.25em auto -0.25em auto;
 }
 
@@ -117,7 +117,7 @@ a.nohover:hover {
 
 #siteByline {
 	margin-top: -1em;
-	padding-bottom: 1.5em;
+	padding-bottom: 2em;
 }
 
 /* Main
@@ -125,7 +125,7 @@ a.nohover:hover {
 
 main {
 	margin: 3em auto 6em auto;
-	width: 650px;
+	width: 700px;
 }
 
 header.postHeader h1,
@@ -189,9 +189,8 @@ ul.postSubtitleItems li {
 	padding: 0;
 }
 
-span.bull {
-	color: #999;
-	margin: auto 0.25em auto 0.5em;
+li.Date:after {
+	content: '•';
 }
 
 li.Tags ul {
@@ -227,7 +226,7 @@ figure {
 }
 
 figure.wide {
-	margin: 1.5em auto auto calc( (100vw - 650px) / -2);
+	margin: 1.5em auto auto calc( (100vw - 700px) / -2);
 	width: 100vw;
 }
 
@@ -384,7 +383,7 @@ em.takeHome {
 	color: #3f70a2;
 	display: block;
 	font-size: 1.2em;
-	font-weight: 600;
+	font-weight: 700;
 	line-height: 1.5;
 	padding: 0.5em 0 0.5em 0.1em;
 	text-transform: uppercase;
@@ -525,7 +524,7 @@ a.footnote-backref:hover {
 	border-bottom: 0.2em solid #eee;
 	border-top: 0.2em solid #eee;
 	height: 1.75em; /* Have to do this because floats are stupid */
-	margin: 4em auto 5em auto;
+	margin: 4em auto 4em auto;
 	padding: 1em 0;
 }
 
@@ -579,7 +578,9 @@ nav a:hover {
 }
 
 nav ul {
+	margin: auto;
 	padding: 1em 0;
+	width: 200px;
 }
 
 nav li,
@@ -589,6 +590,10 @@ nav li:hover {
 	list-style: none;
 	margin: auto;
 	padding: 0;
+}
+
+nav li:nth-child(odd):after {
+	content: ' •';
 }
 
 <!-- Search box cribbed from Hardik Pandya
@@ -666,7 +671,7 @@ form#search input:focus {
 
 	#siteByline {
 		margin-top: -0.5em;
-		padding-bottom: 1em;
+		padding-bottom: 1.5em;
 	}
 
 	main {
@@ -711,6 +716,10 @@ form#search input:focus {
 
 	#siteTitle {
 		font-size: 2em;
+	}
+
+	nav ul {
+		width: 150px;
 	}
 
 }

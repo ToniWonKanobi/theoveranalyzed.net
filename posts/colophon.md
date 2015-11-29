@@ -63,7 +63,7 @@ I am also a member of an affiliate program for [V-Dog][shareasale], a vegan dog 
 [marco]: http://www.marco.org/headphones-closed-portable#h6_Sound "Marco Arment reviewing the H6"
 [marco 2]: http://www.marco.org/headphones-closed-portable#beatspro_Sound "Marco's take on the Beats Studio"
 [metaclassy]: http://metaclassy.com/ "Developers of Byword"
-[multimarkdown]: http://multimarkdown.com "MultiMarkdown Composer's project page"
+[multimarkdown]: https://itunes.apple.com/us/app/multimarkdown-composer-2/id593294811?mt=12&at=1l3vx9s "MultiMarkdown Composer 2 on the Mac App Store"
 [nasdaq]: http://www.nasdaq.com/symbol/aapl/real-time "$AAPL"
 [panic]: https://www.panic.com/coda/ "Coda 2 for Mac"
 [reddit]: https://www.reddit.com/r/apple/comments/2jfudp/wheres_the_apple_5k_retina_display_standalone/ "Reddit thread full of people sharing my dreams of a Retina 'Thunderbolt Display'"
