@@ -4,7 +4,7 @@ module.exports = {
 		Title: "TheOverAnalyzed",
 		About: "TheOverAnalyzed is a website about technology, design, and pop culture.",
 		Author: "Anthony Craig",
-		DefaultImage: "http://www.theoveranalyzed.net/images/favicon.png"
+		DefaultImage: "http://www.theoveranalyzed.net/images/favicon-square.png"
 	},
 
 	DraftInfo: {
