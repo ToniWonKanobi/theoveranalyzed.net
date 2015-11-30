@@ -579,7 +579,7 @@ nav a:hover {
 
 nav ul {
 	margin: auto;
-	padding: 1em 0;
+	padding: 1.75em 0;
 	width: 200px;
 }
 
@@ -622,7 +622,7 @@ form#search input:focus {
 #copyright {
 	font-size: 0.7em;
 	margin: 0;
-	padding: 2em 0 2em 0;
+	padding: 1.5em 0 1.5em 0;
 }
 
 /* @media Queries
@@ -653,29 +653,29 @@ form#search input:focus {
 /* Medium Displays */
 @media (max-width: 736px) {
 
-	#siteTitleAndLogo {
-		padding-top: 1em;
+	body {
+		font-size: 0.95em;
 	}
 
 	#logo {
-		margin: 0 0.5em 0 0;
+		margin: 0 0.5em 0 0.5em;
 	}
 
 	#logo img {
-		max-height: 1em;
+		max-height: 1.3em;
 	}
 
 	#siteTitle {
-		font-size: 1.75em;
+		font-size: 2.2em;
 	}
 
 	#siteByline {
-		margin-top: -0.5em;
+		margin-top: -0.75em;
 		padding-bottom: 1.5em;
 	}
 
 	main {
-		margin-top: 1.5em;
+		margin-top: auto;
 	}
 
 	img.inlineFour {
@@ -701,6 +701,10 @@ form#search input:focus {
 		margin: 3em auto 4em auto;
 	}
 
+	nav ul {
+		width: 150px;
+	}
+
 }
 
 /* Small Displays */
@@ -711,15 +715,11 @@ form#search input:focus {
 	}
 
 	#logo img {
-		max-height: 1.25em;
+		max-height: 1.2em;
 	}
 
 	#siteTitle {
 		font-size: 2em;
-	}
-
-	nav ul {
-		width: 150px;
 	}
 
 }
