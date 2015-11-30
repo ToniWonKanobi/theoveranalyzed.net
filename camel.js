@@ -461,16 +461,6 @@ function tweetLatestPost() {
 
 			        // Figure out how many characters we have to play with.
 			        twitterClient.get('help/configuration', function (error, configuration, response) {
-			            var prefix = prefixMarker;
-						// Adds the arrow or dog (wolf) emoji before the title, like in the RSS feed
-			            if (latestPost.metadata.Link !== 'undefined') {
-			                // Adds the arrow to linked posts
-			                prefixMarker = '→ ';
-			            } else {
-							// Adds the dog (wolf) to non-linked posts
-			                prefixMarker = '🐺 ';
-			            }
-
 			            var suffix = ' ';
 			            var maxSize = 140 - configuration.short_url_length_https - suffix.length;
 
