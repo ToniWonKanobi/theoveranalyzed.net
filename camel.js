@@ -467,19 +467,6 @@ function tweetLatestPost() {
 						// Shorten the title if need be.
 						var title = latestPost.metadata.Title;
 
-							if (latestPost.metadata.Link !== 'undefined') {
-								// Adds the arrow to linked posts
-								title = '→ ' + latestPost.metadata.Title;
-								return title; 
-							} else {
-								title = '🐺 ' + latestPost.metadata.Title;
-								return title;
-							}
-
-							if (title.length > maxSize) {
-								title = title.substring(0, maxSize - 3) + '...';
-						}
-
 						var params = {
 							status: title + suffix + link
 						};
