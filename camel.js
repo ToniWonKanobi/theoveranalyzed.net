@@ -461,13 +461,23 @@ function tweetLatestPost() {
 
 					// Figure out how many characters we have to play with.
 					twitterClient.get('help/configuration', function (error, configuration, response) {
-						var suffix = " \n\n";
+						var suffix = " ";
 						var maxSize = 140 - configuration.short_url_length_https - suffix.length;
 
 						// Shorten the title if need be.
 						var title = latestPost.metadata.Title;
-						if (title.length > maxSize) {
-							title = title.substring(0, maxSize - 3) + '...';
+
+							if (latestPost.metadata.Link !== 'undefined') {
+								// Adds the arrow to linked posts
+								title = '→ ' + latestPost.metadata.Title;
+								return title; 
+							} else {
+								title = '🐺 ' + latestPost.metadata.Title;
+								return title;
+							}
+
+							if (title.length > maxSize) {
+								title = title.substring(0, maxSize - 3) + '...';
 						}
 
 						var params = {
@@ -526,7 +536,7 @@ function emptyCache() {
 
 function init() {
 	loadHeaderFooter('header.html', function (data) {
-		headerSource = performMetadataReplacements(siteMetadata, data);
+		headerSource = performMetadataReplacements(siteMetadata, data);ma
 	});
 
 	loadHeaderFooter('footer.html', function (data) {
