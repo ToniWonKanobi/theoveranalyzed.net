@@ -14,7 +14,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 700;
+	font-weight: 600;
 	margin: 1.25em auto -0.25em auto;
 }
 
@@ -32,6 +32,10 @@ h3 {
 
 h4, h5, h6 {
 	font-size: 0.9em;
+}
+
+b, strong {
+	font-weigth: 600;
 }
 
 a {
@@ -596,8 +600,8 @@ nav li:nth-child(odd):after {
 	content: ' •';
 }
 
-<!-- Search box cribbed from Hardik Pandya
-http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/ -->
+/* Search box cribbed from Hardik Pandya
+(http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/) */
 
 form#search {
 	padding: 1em 0 1em 0;
@@ -719,7 +723,8 @@ form#search input:focus {
 /* Animations
 ======================================== */
 
-/* Cribbed from Hardik Pandya (http://hardik.org/css/base.css) */
+/* Cribbed from Hardik Pandya
+(http://hardik.org/css/base.css) */
 
 .fadeInDown {
 	animation: fadeInDown 0.4s;
