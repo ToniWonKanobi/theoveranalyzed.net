@@ -471,7 +471,7 @@ function tweetLatestPost() {
 			            }
 
 			            var params = {
-			                status: prefix + title + suffix + link
+			                status: title + suffix + link
 			            };
 			            twitterClient.post('statuses/update', params, function (error, tweet, response) {
 			                    if (error) {
