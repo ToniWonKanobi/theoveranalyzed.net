@@ -1,4 +1,4 @@
-Title: This Week on Cotton Bureau: The "It's Been a While" Edition  
+Title: This Week on Cotton Bureau: The 'It's Been a While' Edition  
 Date: 2015-11-25 07:30  
 Description: I've been busy tweaking the site over the past few weeks. Here are some Cotton Bureau picks.  
 Tags: Cotton Bureau  
