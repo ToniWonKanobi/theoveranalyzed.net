@@ -461,11 +461,14 @@ function tweetLatestPost() {
 
 					// Figure out how many characters we have to play with.
 					twitterClient.get('help/configuration', function (error, configuration, response) {
-						var suffix = " ";
+						var suffix = " \n";
 						var maxSize = 140 - configuration.short_url_length_https - suffix.length;
 
 						// Shorten the title if need be.
 						var title = latestPost.metadata.Title;
+						if (title.length > maxSize) {
+							title = title.substring(0, maxSize - 3) + '...';
+						}
 
 						var params = {
 							status: title + suffix + link
