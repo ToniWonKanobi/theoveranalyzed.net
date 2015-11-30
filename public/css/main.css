@@ -653,25 +653,21 @@ form#search input:focus {
 /* Medium Displays */
 @media (max-width: 736px) {
 
-	body {
-		font-size: 0.95em;
-	}
-
 	#logo {
 		margin: 0 0.5em 0 0.5em;
 	}
 
 	#logo img {
-		max-height: 1.3em;
+		max-height: 1em;
 	}
 
 	#siteTitle {
-		font-size: 2.2em;
+		font-size: 1.65em;
 	}
 
 	#siteByline {
-		margin-top: -0.75em;
-		padding-bottom: 1.5em;
+		margin-top: -0.5em;
+		padding-bottom: 1.3em;
 	}
 
 	main {
@@ -702,7 +698,7 @@ form#search input:focus {
 	}
 
 	nav ul {
-		width: 150px;
+		width: 200px;
 	}
 
 }
@@ -711,15 +707,11 @@ form#search input:focus {
 @media (max-width: 320px) {
 
 	body {
-		font-size: 0.85em;
+		font-size: 1em;
 	}
 
-	#logo img {
-		max-height: 1.2em;
-	}
-
-	#siteTitle {
-		font-size: 2em;
+	nav ul {
+		width: 175px;
 	}
 
 }
