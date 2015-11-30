@@ -461,7 +461,7 @@ function tweetLatestPost() {
 
 					// Figure out how many characters we have to play with.
 					twitterClient.get('help/configuration', function (error, configuration, response) {
-						var suffix = " \n\n";
+						var suffix = " ";
 						var maxSize = 140 - configuration.short_url_length_https - suffix.length;
 
 						// Shorten the title if need be.
