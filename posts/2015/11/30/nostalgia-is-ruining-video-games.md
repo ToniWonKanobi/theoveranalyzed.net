@@ -1,5 +1,5 @@
 Title: Nostalgia Is Ruining Video Games  
-Date: 2015-11-30 13:167  
+Date: 2015-11-30 13:20  
 Link: http://www.theatlantic.com/entertainment/archive/2015/11/nostalgia-video-games/416751/  
 Description: Will we ever get over Mario?  
 Tags: Video Games  
