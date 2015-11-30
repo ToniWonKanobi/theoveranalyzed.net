@@ -453,35 +453,44 @@ function tweetLatestPost() {
 			}
 
 			allPostsSortedAndGrouped(function (postsByDay) {
-				var latestPost = postsByDay[0].articles[0];
-				var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink;
+			    var latestPost = postsByDay[0].articles[0];
+			    var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink;
 
-				if (lastUrl !== link) {
-					console.log('Tweeting new link: ' + link);
+			    if (lastUrl !== link) {
+			        console.log('Tweeting new link: ' + link);
 
-					// Figure out how many characters we have to play with.
-					twitterClient.get('help/configuration', function (error, configuration, response) {
-						var suffix = " ";
-						var maxSize = 140 - configuration.short_url_length_https - suffix.length;
+			        // Figure out how many characters we have to play with.
+			        twitterClient.get('help/configuration', function (error, configuration, response) {
+			            var prefix = 'prefixMarker ';
+						// Adds the arrow or dog (wolf) emoji before the title, like in the RSS feed
+			            if (latestPost.metadata.Link !== 'undefined') {
+			                // Adds the arrow to linked posts
+			                prefixMarker = '→';
+			            } else {
+							// Adds the dog (wolf) to non-linked posts
+			                prefixMarker = '🐺';
+			            }
+			            var suffix = ' ';
+			            var maxSize = 140 - configuration.short_url_length_https - suffix.length;
 
-						// Shorten the title if need be.
-						var title = latestPost.metadata.Title;
-						if (title.length > maxSize) {
-							title = title.substring(0, maxSize - 3) + '...';
-						}
+			            // Shorten the title if need be.
+			            var title = latestPost.metadata.Title;
+			            if (title.length > maxSize) {
+			                title = title.substring(0, maxSize - 3) + '...';
+			            }
 
-						var params = {
-							status: title + suffix + link
-						};
-						twitterClient.post('statuses/update', params, function (error, tweet, response) {
-								if (error) {
-									console.log(JSON.stringify(error, undefined, 2));
-								}
-						});
-					});
-				} else {
-					console.log('Twitter is up to date.');
-				}
+			            var params = {
+			                status: prefix + title + suffix + link
+			            };
+			            twitterClient.post('statuses/update', params, function (error, tweet, response) {
+			                    if (error) {
+			                        console.log(JSON.stringify(error, undefined, 2));
+			                    }
+			            });
+			        });
+			    } else {
+			        console.log('Twitter is up to date.');
+			    }
 			});
 		});
 	} else {
