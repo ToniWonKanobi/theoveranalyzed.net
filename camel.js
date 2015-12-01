@@ -461,6 +461,15 @@ function tweetLatestPost() {
 
 			        // Figure out how many characters we have to play with.
 			        twitterClient.get('help/configuration', function (error, configuration, response) {
+						var prefix = prefixMarker;
+						if (latestPost.metadata.Link !== 'undefined') {
+						    // Adds the arrow to linked posts
+						    var prefixMarker = '→ ';
+						} else {
+							// Adds the dog to non-linked posts
+						    var prefixMarker = '🐺 ';
+						}
+
 			            var suffix = ' ';
 			            var maxSize = 140 - configuration.short_url_length_https - suffix.length;
 
@@ -471,7 +480,7 @@ function tweetLatestPost() {
 			            }
 
 			            var params = {
-			                status: title + suffix + link
+			                status: prefix + title + suffix + link
 			            };
 			            twitterClient.post('statuses/update', params, function (error, tweet, response) {
 			                    if (error) {
