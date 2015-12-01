@@ -461,13 +461,13 @@ function tweetLatestPost() {
 
 			        // Figure out how many characters we have to play with.
 			        twitterClient.get('help/configuration', function (error, configuration, response) {
-						var prefix = prefixMarker;
+						var prefix = prefixMarker + ' ';
 						if (latestPost.metadata.Link !== 'undefined') {
 						    // Adds the arrow to linked posts
-						    prefixMarker = '→ ';
+						    prefixMarker = →;
 						} else {
 							// Adds the dog to non-linked posts
-						    prefixMarker = '🐺 ';
+						    prefixMarker = 🐺;
 						}
 
 			            var suffix = '\n';
