@@ -469,7 +469,7 @@ function tweetLatestPost() {
 						    var prefix = '🐺 ';
 						}
 
-			            var suffix = '\n';
+			            var suffix = ' ';
 			            var maxSize = 140 - configuration.short_url_length_https - suffix.length;
 
 			            // Shorten the title if need be.
