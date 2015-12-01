@@ -464,10 +464,10 @@ function tweetLatestPost() {
 						var prefix = prefixMarker;
 						if (latestPost.metadata.Link !== 'undefined') {
 						    // Adds the arrow to linked posts
-						    var prefixMarker = '→ ';
+						    prefixMarker = '→ ';
 						} else {
 							// Adds the dog to non-linked posts
-						    var prefixMarker = '🐺 ';
+						    prefixMarker = '🐺 ';
 						}
 
 			            var suffix = '\n';
