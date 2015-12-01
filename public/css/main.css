@@ -195,6 +195,7 @@ ul.postSubtitleItems li {
 
 li.Date:after {
 	content: '•';
+	margin: 0.25em;
 }
 
 li.Tags ul {
@@ -584,7 +585,7 @@ nav a:hover {
 nav ul {
 	margin: auto;
 	padding: 1.75em 0;
-	width: 200px;
+	width: 250px;
 }
 
 nav li,
@@ -597,15 +598,12 @@ nav li:hover {
 }
 
 nav li:nth-child(odd):after {
-	content: ' •';
+	content: '•';
+	margin: auto 0.25em auto 0.5em;
 }
 
 /* Search box cribbed from Hardik Pandya
 (http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/) */
-
-form#search {
-	padding: 1em 0 1em 0;
-}
 
 form#search input {
 	background-color: #f8f8f8;
@@ -701,10 +699,6 @@ form#search input:focus {
 		margin: 3em auto 4em auto;
 	}
 
-	nav ul {
-		width: 200px;
-	}
-
 }
 
 /* Small Displays */
@@ -715,7 +709,7 @@ form#search input:focus {
 	}
 
 	nav ul {
-		width: 175px;
+		width: 200px;
 	}
 
 }
