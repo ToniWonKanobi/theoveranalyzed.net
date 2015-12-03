@@ -305,11 +305,11 @@ code {
 	border-radius: 0.2em;
 	font-family: Menlo, monospace;
 	font-size: 0.7em;
-	padding: 0.3em 0.3em 0.2em 0.3em;
+	padding: 0.35em 0.3em 0.2em 0.35em;
 }
 
 a code {
-	padding-bottom: 1px
+	padding: 0.5em 0.4em 0.5em 0.4em;
 }
 
 pre code {
