@@ -4,7 +4,7 @@ Description: Zoos are terrible. Read to find out why.
 Tags: Advocacy  
 Image: https://assets.rbl.ms/145038/1216x700.jpg  
 
-<p><img clas="wide" src="https://assets.rbl.ms/145038/1216x700.jpg" alt="Marius" title="Marius"></p>
+<p><img class="wide" src="https://assets.rbl.ms/145038/1216x700.jpg" alt="Marius" title="Marius"></p>
 
 Melissa Cronin for The Dodo, [reporting][thedodo] on the euthanasia of a giraffe in Denmark:
 

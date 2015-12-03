@@ -24,21 +24,20 @@ When I finished school[^yes] and started working, I toned down all of my movie p
 
 [From [/Film][sf]]
 
-<aside>
-<div class="update" style="overflow:scroll">
+<aside class="update" style="overflow:scroll">
 
-## Update: New Trailer
+### Update: New Trailer
 <p class="updateTime"><time datetime="2015-08-27">August 27, 2015</time></p>
 
 Today, Yahoo! Movies shared the [new trailer][ym] for Warner Brothers's upcoming *The Iron Giant: Signature Edition*.
 
 [From [/Film][sf2]]
 
-</div>
+</aside>
 
-<div class="update">
+<aside class="update">
 
-## Update: Sequel in the Works?
+### Update: Sequel in the Works?
 <p class="updateTime"><time datetime="2015-08-30">August 30, 2015</time></p>
 
 Ethan Anderton of [/Film][vd]:
@@ -52,20 +51,19 @@ Ethan Anderton of [/Film][vd]:
 
 If you've seen the first movie, you'll know that the ending left plenty of room for a sequel. Still, as Anderton notes, this could just be wishful thinking for Diesel. Who knows---16 years might just be the necessary time required to inspire a sequel out of Brad Bird.
 
-</div>
+</aside>
 
-<div class="update">
+<aside class="update">
 
-## Update: iTunes Version Automatically Includes Signature Edition
+### Update: iTunes Version Automatically Includes Signature Edition
 <p class="updateTime"><time datetime="2015-10-12">October 12, 2015</time></p>
 
 [Todd Vaziri][tv] of Industrial Light & Magic fame tweeted some good news this morning. It looks like iTunes automatically includes the Signature Edition of the movie now.
 
-<blockquote lang="en"><p lang="en" dir="ltr">If you previously purchased THE IRON GIANT from iTunes, you’ve been automatically ‘upgraded’ for free. <a href="https://twitter.com/tvaziri/status/653593764611538945/photo/1" title="Todd Vaziri's tweet"">pic.twitter.com/h9oCu7Dj0M</a></p>&mdash; Todd Vaziri (@tvaziri) <a href="https://twitter.com/tvaziri/status/653593764611538945" title="More from Vaziri">October 12, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr">If you previously purchased THE IRON GIANT from iTunes, you’ve been automatically ‘upgraded’ for free. <a href="https://twitter.com/tvaziri/status/653593764611538945/photo/1" title="Todd Vaziri's tweet">pic.twitter.com/h9oCu7Dj0M</a></p>&mdash; Todd Vaziri (@tvaziri) <a href="https://twitter.com/tvaziri/status/653593764611538945" title="More from Vaziri">October 12, 2015</a></blockquote>
 
 I noticed a few weeks back that the [iTunes artwork][ita] for the movie changed, but I didn't even think to check if iTunes included the new version.
 
-</div>
 </aside>
 
 [^yes]: 🎉

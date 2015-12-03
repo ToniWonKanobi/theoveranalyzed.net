@@ -8,9 +8,9 @@ Image: http://d.pr/i/1gDp2+
 
 ![Song Exploder Episode 53: The Martian][d]
 
-# Song Exploder 
+### Song Exploder 
 
-## Episode 53: Harry Gregson-Williams "The Martian"
+#### Episode 53: Harry Gregson-Williams "The Martian"
 
 In the Song Exploder podcast, [Hrishikesh Hirway's][twitter] picks mostly well-known songs and talks with said song's creators, producers, and musicians about how the song came to be. I've talked about Song Exploder [before][theoveranalyzed 2]. Unsurprisingly, the quality of the podcast hasn't changed since then---it's still a weekly favorite of mine and [others][theguardian].
 
@@ -24,11 +24,11 @@ Song Exploder is always a good listen for musicians, but this episode in particu
 
 ![Planet Money Episodes 386 and 652](http://d.pr/i/1k87U+ "Planet Money Episodes 386 and 652")
 
-# NPR's Planet Money
+### NPR's Planet Money
 
 I've chosen *two* Planet Money episodes. Overall, the whole Planet Money series is great. But these two are special to me because each one reminds me of my grandparents in one way or another.
 
-## Episode 386: The Power of Free
+#### Episode 386: The Power of Free
 
 This episode of [Planet Money][overcast 2] originally aired in [July 2012][npr]. However, back then I wasn't into podcasts.[^heck]
 
@@ -42,7 +42,7 @@ My grandpa served in the U.S. Navy in the 1950's. Over the years, I've heard a l
 
 [Listen][overcast 2] to find out why.
 
-## Episode 652: The Hydrox Resurrection
+#### Episode 652: The Hydrox Resurrection
 
 The [second pick][overcast 3] from the Planet Money podcast concerns the [Hydrox][wikipedia] snack cookie. Most people probably haven't even heard of the Hydrox cookie. I had, and I've tasted one too. But because it was so long ago, I cannot remember how it compares to it's biggest competitor, the [Oreo][wikipedia 2].
 

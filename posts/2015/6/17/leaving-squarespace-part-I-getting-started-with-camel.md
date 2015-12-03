@@ -1,12 +1,12 @@
 Title: Leaving Squarespace Part I: Getting Started With Camel  
 Date: 2015-06-17 17:02  
 Description: Getting Camel setup required some command-line hackery, as well as lots of help from Casey Liss and Roger Stringer.  
-Tags: Meta, Camel  
+Tags: Meta, Camel, Leaving Squarespace  
 Image: http://d.pr/i/1go0O+  
 
-<p><em class="topStory">This is Part I of my series entitled <b>Leaving Squarespace</b>. Note that much of this post (and future posts) was made possible due to <a href="https://twitter.com/freekrai" title="Roger Stringer on Twitter">Roger Stringer</a>. Check out his Camel installation guide found <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/" title="Roger Stringer's post on SitePoint about Camel">here</a>. Because I wasn't a master at the command line before Camel&mdash;I'm still not&mdash;and because you may not be a command line master yourself, I thought it would be useful to detail a step-by-step procedure on how I got Camel working on my local machine. Note that this post will not discuss the actual deployment of the site to Heroku. That comes later.</em></p>
+<p><em class="topStory">This is Part I of my series entitled <a href="tags/Leaving%20Squarespace" title="Posts tagged 'Leaving Squarespace'">Leaving Squarespace</a>. After reading this piece, you can read the <a href="/2015/6/26/leaving-squarespace-part-ii-modifying-files-to-play-nice-with-camelnext" rel="next" title="Link to Part II of the 'Leaving Squarespace' series">next</a> post in the series. Note that much of this post (and future posts) was made possible due to <a href="https://twitter.com/freekrai" title="Roger Stringer on Twitter">Roger Stringer</a>. Check out his Camel installation guide found <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/" title="Roger Stringer's post on SitePoint about Camel">here</a>. Because I wasn't a master at the command line before Camel&mdash;I'm still not&mdash;and because you may not be a command line master yourself, I thought it would be useful to detail a step-by-step procedure on how I got Camel working on my local machine. Note that this post will not discuss the actual deployment of the site to Heroku. That comes later.</em></p>
 
-## Following The Leader
+#### Following The Leader
 
 If you take a look at the Camel's [GitHub page][github], it would seem, at first glance, that everything is straightforward enough. However, [Casey Liss][twitter] is an *actual* developer. And although he fashions himself as merely a 'GitHub novice,' even an unexperienced GitHub-er might unintentionally omit the absolute *basics* of how the command line works.[^it]
 
@@ -21,13 +21,13 @@ I was lost at step 1.
 
 Allow me to take you through each of his steps, [like you're two year old][youtube].
 
-# Step 1: Installing Node & npm
+### Step 1: Installing Node & npm
 
 Here's the thing: I tried visiting the Node and npm pages for help with Casey's instructions. According to the documentation on the npm site, npm is installed whenever Node is. If that's the case, why did Casey write "Install Node & npm"? Why not just "Install Node [which installs Node as well]"? 
 
 Turns out, all I had to do was install Node via this [package][nodejs 2].[^os] Once Node (and npm) were installed, I could use `node` and `npm` commands in the command line. I was ready for step 2.
 
-# Step 2: Cloning The Repository
+### Step 2: Cloning The Repository
 
 The next step involves copying Camel's website framework to you local machine. This is called 'cloning the repository.' Before the actual cloning process, you should decide where you want Camel to live on the local machine. I chose `~/Desktop/camel` (for purposes of this tutorial), but you could choose whatever destination you like. Once you've decided where you want the repository to reside, you're ready to begin. 
 
@@ -43,7 +43,7 @@ You're now ready to clone the repository. Note that if you've never tried the [`
 Anthonys-MacBook:camel Anthony$ git clone https://github.com/cliss/camel.git
 ```
 
-# Step 3: Get The Dependencies
+### Step 3: Get The Dependencies
 
 Once the Camel repository has been 'copied' to your local machine, you'll need to install Camel's dependencies as well. Casey designed Camel to use several open-source libraries to power Camel. Because they are other developers' work, he didn't crib everything and copy it into `camel.js`. Instead, he references them in his script, as well as the [`package.json`][d]. You need to install those dependencies in your Camel folder, so that `camel.js` knows where to find them when it needs them.[^he]
 
@@ -139,7 +139,7 @@ handlebars@2.0.0 node_modules/handlebars
 Anthonys-MacBook:camel Anthony$
 ```
 
-# Step 4: Initializing Camel
+### Step 4: Initializing Camel
 
 If you're confident `npm install` did its thing, run the following command to initialize Camel:[^be]
 
@@ -158,7 +158,7 @@ You're almost done. To test that Camel is indeed up and running, query `localhos
 
 ![Sample site launched!][ssl]
 
-# Step V: Enable Manual Cache Tossing (Optional)
+### Step V: Enable Manual Cache Tossing (Optional)
 
 The default setting for cache tossing is every 30 minutes. This is fine once your site is up and running. However, while you are tweaking things (especially CSS), it would be a lot easier to be able to instantly preview your changes.
 

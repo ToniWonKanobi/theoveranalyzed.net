@@ -13,15 +13,13 @@ In case anyone wondered why this site has no social media presence on Facebook, 
 
 [From [John Gruber][daringfireball]]
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Facebook, After All
+### Update: Facebook, After All
 <p class="updateTime"><time datetime="2015-06-01">June 1, 2015</time></p>
 
 Since the end of May of 2015, [TheOverAnalyzed is on Facebook][facebook]. It's basically an automated account. But if Ben Thompson thinks it's worth it, I should too.
 
-</div>
 </aside>
 
 [daringfireball]: http://daringfireball.net/linked/2015/01/09/priceonomics "Source link on Daring Fireball"

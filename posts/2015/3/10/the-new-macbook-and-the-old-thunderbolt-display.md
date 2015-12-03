@@ -6,7 +6,7 @@ Image: https://www.twelvesouth.com/uploads/images/pages/twelvesouth_wallpaperc1_
 
 ![Twelve South knows what looks good][photo]
 
-# Bye, Bye Thunderbolt
+### Bye, Bye Thunderbolt
 
 Glenn Fleishman, writing for [Macworld][macworld]:
 
@@ -22,20 +22,20 @@ He wasn't the only one who thought as much:
 
 So, the tentative plan is to sell my recently-acquired Thunderbolt display, and choose a suitable replacement (one that will be compatible with the new MacBook).
 
-# Choices For A New Display
+### Choices For A New Display
 
 ## 1. [Apple 27-inch LED Cinema Display][apple 2][^cd]		
 
 **$500 - 600** Believe it or not, this 5-year old monitor is the most viable option for me. It is essentially the Thunderbolt Display, but without the Thunderbolt requirement. With the new 12-inch MacBook, I would lose out on the USB 2.0 ports and MagSafe would be useless to me. But that's not really the point, is it? 
 
-### Pros
+##### Pros
 				
 * Same form factor as my current display, so I can continue to use the [BackPack][twelvesouth] from Twelve South.
 * Apple's 'it just works' assurance. Instead of pouring over spec sheets and reviews of the other two displays, I can just assume that the Apple display will be perfect for my needs.
 
 	This isn't just blind fanboy-ism either. Apple displays have been historically very [well-regarded][cnet]. 
 
-### Cons
+##### Cons
 
 * Any specimen I find on eBay will likely be old. We're talking more than 3 years old. Finding one in mint or near-mint condition will be difficult.
 
@@ -47,13 +47,13 @@ So, the tentative plan is to sell my recently-acquired Thunderbolt display, and 
 
 **$1,000 - $1,200** This would be my choice if I stepped out of the Apple display sphere. Mark Jardine of Tapbots fame [loves his][twitter].
 
-### Pros
+##### Pros
 
 * Much more screen real estate. I took out a ruler, and added the extra 7 inches to my current display and: wow. I could have a movie playing on the display in every Space, as well as all my other apps. I would love that. 
 
 * Display offers a USB 3.0 'hub' of sorts, as well as audio line in/out. In other words, this could act as a display for any number of sources, not just computers.
 
-### Cons
+##### Cons
 
 * Cost. It's nearly double the price of my first choice, and nearly three times the price of my third choice.
 
@@ -63,12 +63,12 @@ So, the tentative plan is to sell my recently-acquired Thunderbolt display, and 
 
 **$585** This was [The Wirecutter][thewirecutter]'s top pic for a great 27-inch monitor. Everything about this display is, on paper, great. 
 			
-### Pros
+##### Pros
 			
 * It has basically the same quality display panel as the Apple option (and what I have now).
 * It is *so* cheap. 
 
-### Cons
+##### Cons
 
 * It's a Dell[^md]
 
@@ -82,10 +82,9 @@ It will be interesting to see what, if anything, Apple does in the display space
 
 Apple <s>Thunderbolt</s> <s>USB</s> USB-C Dongle Display for 2015? I can only hope. 
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: No 4K for MacBook
+### Update: No 4K for MacBook
 <p class="updateTime"><time datetime="2015-04-11">April 11, 2015</time></p>
 
 Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page][applep].
@@ -106,7 +105,6 @@ I'm not sure when that info was added, but the page was last updated yesterday.
 
 **So, no 4K @ 60 Hz for the new MacBook it seems.**
 
-</div>
 </aside>
 
 [^tbd]: [AnandTech][youtube] review

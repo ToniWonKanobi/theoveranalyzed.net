@@ -10,15 +10,13 @@ AppleInsider:
 
 Yeah, I bet Wal-Mart et al. are [feeling pretty stupid right now][techcrunch].
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: CurrentC
+### Update: CurrentC
 <p class="updateTime"><time datetime="2015-08-11">August 11, 2015</time></p>
 
 CurrentC [died today][dt].
 
-</div>
 </aside>
 
 [dt]: http://9to5mac.com/2015/08/11/rite-aid-apple-pay-currentc-blockade-over/

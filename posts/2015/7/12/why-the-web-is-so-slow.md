@@ -1,13 +1,13 @@
 Title: Why the Web Is So Slow  
 Date: 2015-07-12 14:00  
 Description: I've struggled with keeping TheOverAnalyzed's page load times to less than 2 seconds. I'm not alone: everyone wants a faster web. But not everyone is experiencing it. And it's mostly publishers' faults.  
-Tags: Web Design & Development, Ditching Webfonts  
+Tags: Web Design, Ditching Webfonts  
 Image: http://d.pr/i/1iLFm+  
 Video: http://d.pr/v/9TLn+  
 
-<p><em class="topStory">Unknowingly, this was the first in a <a href ="/tags/Ditching%20Webfonts" title="Posts tagged 'Ditching Webfonts">mini-series</a> of posts regarding webfonts. You should check out the <a href="/2015/7/15/ditching-webfonts" title="My post about leaving webfonts behind">second</a> and <a href="/2015/7/19/ditching-webfonts-part-ii-hoefler-webfonts-are-prettier-but-slower" title="My post about turning off webfonts, and how I eventually turned them back on">third</a>.</em></p>
+<p><em class="topStory">Unknowingly, this was the first in a <a href ="/tags/Ditching%20Webfonts" title="Posts tagged 'Ditching Webfonts">series</a> of posts regarding webfonts. You should check out the <a href="/2015/7/15/ditching-webfonts" title="My post about leaving webfonts behind" rel="next">second</a> and <a href="/2015/7/19/ditching-webfonts-part-ii-hoefler-webfonts-are-prettier-but-slower" title="My post about turning off webfonts, and how I eventually turned them back on">third</a>.</em></p>
 
-## Forward
+#### Forward
 
 This past week, several prominent Apple bloggers took to their sites (and Twitter) to confront the reality that most websites suck at loading quickly.
 
@@ -25,7 +25,7 @@ Yes, that's right: in what can only be described as completely un-Apple, the fab
 
 How did things ever get this bad?
 
-# History
+### History
 
 Let's face it: the web is [slower than we'd like][d 2]. In a time when cellular data connections and home WiFi are getting faster, the web continues to move forward at a snail's pace. No one wanted this. And as much as Internet Explorer is [maligned for causing the slow adoption of CSS][wikipedia], this much is true: before CSS and JavaScript, the web was simpler. Page loading was limited to both server-side and client-side hardware specifications. Today, that's not the case. Servers have never been more robust, and the average mobile client is faster than the average desktop computer 10 years ago. And yet, page loads aren't any faster. What gives?
 
@@ -41,7 +41,7 @@ When iPhone [launched in 2007][wikipedia 4] with a version of the venerable Safa
 	<figcaption><a href="http://theverge.com/">The Verge</a> and <a href="http://imore.com/">iMore</a></figcaption>
 </figure>
 
-# iMore
+### iMore
 
 Because Gruber picked on iMore, I'll do the same. As seen above---on the [biggest phone-sized display Apple offers][wikipedia 5], mind you---I can barely make out two articles' titles. The rest of the iMore page is obscured with ads. Horrible, ugly, stupid ads. And do you know what powers those ads? [JavaScript][wikipedia 6]. Tons of nasty JavaScript extensions to enable the ads' targeting and tracking algorithms. 
 
@@ -52,7 +52,7 @@ Because Gruber picked on iMore, I'll do the same. As seen above---on the [bigges
 
 And not all of those JavaScrips are lightweight. Even if they were, it still takes time for the browser to compile the scripts before rendering the page. On mobile especially, several seconds could be the difference between a reader enjoying *your* article or someone else's.
 
-# What Next
+### What Next
 
 iMore is a great example of what happened to the web. Like every other [Apple] news site out there,[^lo] iMore became beholden to the ad revenue stream. Just because Gruber makes a fuss about iMore's crappy website doesn't suddenly make it easy for Rene Ritchie and the rest of Mobile Nations to change their ways. Those fugly ads splattered all over iMore pay for people like Ritchie to write the stories that he so frequently does. Ad after ad after ad led to this vicious state of ad-dependency iMore and others finds themselves in. As Gruber was quick to point out, iMore has some of the best Apple-focused content out there. But I would rather read about Apple on a competitor's site if the ads aren't so terrible. Imagine how bad iMore feels about that?
 
@@ -66,7 +66,7 @@ In his original piece, Gruber included a link to Dean Murphy's [blog post][murph
 
 11 seconds to 2 seconds is a big difference.
 
-# TheOverAnalyzed
+### TheOverAnalyzed
 
 Websites should be fast. But can I put my money where my mouth is? It's easy to criticize iMore and all the other slowpoke webpages---how does TheOverAnalyzed compare?
 

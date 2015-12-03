@@ -6,8 +6,8 @@ Tags: Honda
 Image: http://i.kinja-img.com/gawker-media/image/upload/s--hBI2wth_--/c_scale,fl_progressive,q_80,w_800/1423033440059352391.jpg  
 
 <figure>
-	<img src="http://i.kinja-img.com/gawker-media/image/upload/s--hBI2wth_--/c_scale,fl_progressive,q_80,w_800/1423033440059352391.jpg" alt="Honda 2&4" title="Honda 2&4">
-	<figcaption>The Honda 2&4</figcaption>
+	<img src="http://i.kinja-img.com/gawker-media/image/upload/s--hBI2wth_--/c_scale,fl_progressive,q_80,w_800/1423033440059352391.jpg" alt="Honda 2&amp;4" title="Honda 2&amp;4">
+	<figcaption>The Honda 2&amp;4</figcaption>
 </figure>
 
 I heard about Honda's newest motorsport endeavor sometime last week. Somehow I missed the fact that it sports a 1-liter beast of a motor, presumably enabling the 2&4 to go toe-to-toe with the [Ariel Atom][wikipedia]. Somehow I missed that.
@@ -38,7 +38,7 @@ Okay, *there's* the [Honda of today][honda] rearing it's ugly mug.
 
 <figure>
 	<img  class="inlineTwo" src="http://i.kinja-img.com/gawker-media/image/upload/s--jmKpCVw2--/c_scale,fl_progressive,q_80,w_800/1423033440558095431.jpg" alt="Butt shot" title="Butt shot">
-	<img  class="inlineTwo" src="http://i.kinja-img.com/gawker-media/image/upload/s--g0ERLVVQ--/c_scale,fl_progressive,q_80,w_800/1423033440720894279.jpg" alt="Side profile" title=alt="Side profile">
+	<img  class="inlineTwo" src="http://i.kinja-img.com/gawker-media/image/upload/s--g0ERLVVQ--/c_scale,fl_progressive,q_80,w_800/1423033440720894279.jpg" alt="Side profile" title="Side profile">
 	<figcaption>It's too awesome to ever be for sale.</figcaption>
 </figure>
 

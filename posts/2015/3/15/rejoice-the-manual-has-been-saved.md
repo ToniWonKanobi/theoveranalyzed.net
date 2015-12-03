@@ -25,9 +25,9 @@ Maybe the GT4 will usher in a new era in which the manual box will be available,
 
 Sounds about as worth it as [The Apple Tax™][gizmodo].
 
-<div class="update">
+<aside class="update">
 
-## Update: GT4 Clubsport Edition Will Be PDK Only
+### Update: GT4 Clubsport Edition Will Be PDK Only
 <p class="updateTime"><time datetime="2015-10-06">October 6, 2015</time></p>
 
 <del>He</del>Porsche giveth, and Porsche taketh away, apparently.
@@ -38,7 +38,7 @@ And yet, as Josh Barnett of Total 911 [notes][cs]:
 
 Perhaps the manual will be back for the GT4 RS---presumably the pinnacle of the GT4 lineup?
 
-</div>
+</aside>
 
 [cs]: http://www.total911.com/porsche-to-release-cayman-gt4-clubsport-racer-in-la/ "Total 911 on the GT4"
 [gizmodo]: http://gizmodo.com/5065133/the-truth-about-the-apple-tax "The 'Apple Tax' according to Gizmodo"

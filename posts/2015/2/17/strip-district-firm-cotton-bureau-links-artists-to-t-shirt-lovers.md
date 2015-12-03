@@ -29,14 +29,12 @@ Try having that same experience at your local Wal-Mart. Oh you forgot your recei
 
 Check them out today! Use the coupon code **CBANTHONYC10** for a discount on your order.
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Promotion Over
+### Update: Promotion Over
 
 The promotion mentioned above is currently over.
 
-</div>
 </aside>
 
 [cottonbureau]: http://www.cottonbureau.com "Cotton Bureau"

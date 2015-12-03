@@ -4,23 +4,23 @@ Description: Federico Viticci's most recent piece about his cancer experience in
 Tags: Health  
 Image: https://i.embed.ly/1/display/resize?key=1e6a1a1efdb011df84894040444cdc60&url=http%3A%2F%2Fpbs.twimg.com%2Fmedia%2FB_M8j5jXEAALWti.jpg  
   
-# History
+### History
 
 I started using [Aleksander Vacic][aplus]'s [Go Couch to 5k][radianttap] a few months ago. I got to about the 6th week, which was a great place to be, as most of the runs consisted of at least 15-20 mins of solid "jog time," in contrast to the previous weeks' level of jogging.[^ty]
 
 Sadly, I stopped exercising completely in the wake of all my website stuffs.[^in]
 
-# Next
+### Next
 
 I read Federico Viticci's inspiring [story][macstories] about sickness, and decided I should get back into fitness myself.[^no]
 
-# The Story
+### The Story
 
 I created a [Storify][storify] to summarize Federico's experience:
 
-<div class="storify"><iframe src="//storify.com/ToniWonKanobi/viticci-federico-cancer-aarrow-therapy-fitness/embed?border=false&template=slideshow" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/ToniWonKanobi/viticci-federico-cancer-aarrow-therapy-fitness.js?border=false&template=slideshow"></script><noscript>[<a href="//storify.com/ToniWonKanobi/viticci-federico-cancer-aarrow-therapy-fitness" target="_blank">View the story "Federico Viticci: Cancer, Therapy, and Fitness" on Storify</a>]</noscript></div>
+<div class="storify"><iframe src="//storify.com/ToniWonKanobi/viticci-federico-cancer-aarrow-therapy-fitness/embed?border=false&amp;template=slideshow"></iframe><script src="//storify.com/ToniWonKanobi/viticci-federico-cancer-aarrow-therapy-fitness.js?border=false&amp;template=slideshow"></script><noscript>[<a href="//storify.com/ToniWonKanobi/viticci-federico-cancer-aarrow-therapy-fitness" target="_blank">View the story "Federico Viticci: Cancer, Therapy, and Fitness" on Storify</a>]</noscript></div>
 
-# Now
+### Now
 
 My small little blog is very important to me, but I would be terribly remiss if I passed away in ten years because I chose to not take care of myself now. Whatever story or link I want to share, or whatever small design change I just can't want to get out---that stuff can wait. 
 
@@ -30,7 +30,7 @@ Why not spend more time with my wife?
 
 I am vegetarian, and mostly vegan when I can be, so it's not like I'm the *most* unhealthy eater on the planet. Still, exercise is just as important as diet, and it is never too late to be in the best shape I can be.
 
-# What I Might Use to Help Me
+### What I Might Use to Help Me
 
 Here are a few standout apps mentioned by Federico, ones I would like to incorporate into my routines: 
 
@@ -50,7 +50,7 @@ Finally, I will continue to use the running app I started with:
 
 The developer recently teased this [video][run], detailing how Apple Watch will fit into things.[^su]
 
-# Too Cliche?
+### Too Cliche?
 
 Federico's story isn't just about being fit. What I take from his experience is this: 
 

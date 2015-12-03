@@ -1,7 +1,7 @@
 Title: Colophon  
 Description: This page contains somewhat technical details about the author and the site.  
 
-# The Writing
+### The Writing
 
 When I write for this site, it's usually on my Mac, a [2015 13-inch MacBook Pro with Retina display][d]. If I'm at home, said Mac is typically plugged into a [Thunderbolt Display][wikipedia].[^yes] I use a [Magic Keyboard][wikipedia 2], a [Magic Mouse][wikipedia 3], and a [Magic Trackpad 2][apple] (frequently all at the same time). If I'm at [work][twitter], or otherwise not at home, I'm happy typing away on my MacBook Pro.[^int]
 
@@ -9,11 +9,11 @@ I try to listen to music while I'm writing. As long as it's something I've heard
 
 My writing app of choice is [Byword][apple 3]. I've tried several other applications such as [Desk.pm][apple 4], [MultiMarkdown Composer][multimarkdown], and [Ulysses][apple 5], but I [always come back][theoveranalyzed] to Byword. Admittedly, the guys at [Metaclassy][metaclassy] probably should update the app and adopt some of MultiMarkdown's [newer features][d 2]. That said, Byword is simply the best way to write everything but really longform pieces on a Mac.
 
-# The Developing
+### The Developing
 
 [Camel][github], the static blogging engine powering this site, uses plain [Markdown][daringfireball] `.md` and `.html` files to piece together the site, depending on the endpoint. To develop all the markup and code, [Atom][atom] is my plain-text editor of choice. I've used [Espresso][theoveranalyzed 2], [Visual Studio Code][visualstudio], and [BBEdit][barebones]. They all have their strongpoints, but Atom is the best for me right now. I'd like to try out [Coda][panic], but because of the way TheOverAnalyzed is hosted, that would involve Dropbox and [WebDAV funkiness][dropdav] that just doesn't seem worth it.
 
-# The Serving
+### The Serving
 
 This site is hosted on [Heroku][heroku]. I took Casey Liss's [advice][caseyliss] and haven't regretted it once. Truthfully, I'm no backend web developer. Because of that, it could very well be the case that my site would be more performant with a traditional [Apache][wikipedia 4] backend, or regular, ol' [S3][wikipedia 5].
 
@@ -23,11 +23,11 @@ I have a [Droplr Pro][droplr] account as a backend for media---$9.99/month.[^dro
 
 ~$22/month. Not bad.
 
-# The Standards
+### The Standards
 
 To my knowledge, this site should conform to [HTML5][wikipedia 6] web standards, and its CSS should validate as well. If you find that an area of the site does not perform as expected, please contact me. Just to be safe, try to use a [non-crappy][duckduckgo] web browser---that helps tremendously. 
 
-# The Disclosures
+### The Disclosures
 
 I own exactly four shares of [Apple stock][nasdaq], purchased sometime last year. I thought it would be funny to see how much I would gain/lose over the next decade. As far as I can tell, that does not affect my writing on Apple.
 

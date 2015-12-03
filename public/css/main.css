@@ -19,29 +19,34 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-size: 1.5em;
+	font-size: 3em;
 }
 
 h2 {
-	font-size: 1.25em;
+	font-size: 2em;
 }
 
 h3 {
+	font-size: 1.5em;
+}
+
+h4 {
+	font-size: 1.3em;
+}
+
+h5 {
+	font-size: 1.1em;
+}
+
+h6 {
 	font-size: 1em;
-}
-
-h4, h5, h6 {
-	font-size: 0.9em;
-}
-
-b, strong {
-	font-weigth: 600;
 }
 
 a {
 	color: #3f70a2;
 	text-decoration: none;
 	transition: all 0.2s ease-in-out;
+	word-break: break-word;
 }
 
 a[href*="amazon."]:after {
@@ -67,13 +72,13 @@ a[href*="overcast.fm/podcasts"]:after {
     content: " (Overcast)";
 }
 
-.entry a {
+div.entry a {
 	border-bottom: 2px solid #eee;
 	padding-bottom: 1px;
 	transition: background 0.2s ease-in-out;
 }
 
-.entry a:hover {
+div.entry a:hover {
 	background: #eee;
 	border-bottom: none;
 	border-radius: 2px;
@@ -88,136 +93,122 @@ a.nohover:hover {
 /* Site Header
 ======================================== */
 
-#topHeader {
+header#siteHeader {
 	background-color: #3f70a2;
 	color: #fff;
-	height: auto;
 	text-align: center;
 }
 
-#topHeader a {
+header#siteHeader a {
 	color: #fff;
 }
 
-#siteTitleAndLogo {
-	margin: 0;
-	padding-top: 1em;
-}
-
-#logo {
-	display: inline-block;
-}
-
-#logo img {
+img#siteLogo {
+	margin: 0 0.1em 0 0.1em;
 	vertical-align: baseline;
-	width: 1.75em;
+	width: 0.6em;
 }
 
-#siteTitle {
-	font-size: 3em;
+h1#siteTitle {
 	font-weight: 800;
-	margin: 0 auto;
+	margin: 0;
+	padding-top: 0.25em;
 }
 
-#siteByline {
+p#siteByline {
 	margin-top: -1em;
-	padding-bottom: 2em;
+	padding-bottom: 1.75em;
 }
 
 /* Main
 ======================================== */
 
 main {
-	margin: 3em auto 6em auto;
+	margin: 2em auto 6em auto;
 	width: 700px;
 }
 
-header.postHeader h1,
-header.pageHeader h1,
-header.postHeaderLinked h2 {
+/* Page/Post Headers
+======================================== */
+
+section.day > h2 {
+	display: none;
+}
+
+header > h2 {
 	font-weight: 700;
 	line-height: 1.35;
+	margin: auto;
 }
 
-header.postHeader h1,
-header.pageHeader h1 {
-	font-size: 1.75em;
-}
-
-header.postHeaderLinked h2 {
-	font-size: 1.5em;
-}
-
-a.postTitle {
+header.postHeader h2 a {
 	color: #555;
 }
 
-a.postTitle:hover {
+header.postHeader h2 {
+	font-size: 2.25em;
+}
+
+header.postHeaderLinked h2 {
+	font-size: 1.75em;
+}
+
+header.postHeader a:hover,
+header.postHeaderLinked a:hover,
+header.postHeaderLinked a:hover span.linkArrow {
 	color: #3f70a2;
 }
 
-span.linkArrow {
+header.postHeaderLinked span.linkArrow {
 	color: #999;
 	transition: all 0.2s ease-in-out;
 	vertical-align: -4%;
 }
 
-a.postTitleLinked:hover span.linkArrow {
-	color: #3f70a2;
-}
-
-
 /* Post Subtitle
 ======================================== */
 
-.postSubtitle {
+ul.postSubtitle {
 	color: #999;
+	display: inline;
 	font-size: 0.9em;
+	list-style: none;
+	padding: 0;
 }
 
-.postSubtitle a {
+ul.postSubtitle a {
 	color: #999;
 }
 
-.postSubtitle a:hover {
+ul.postSubtitle a:hover {
 	color: #3f70a2;
 }
 
-ul.postSubtitleItems {
-	margin: 0.75em auto 0.25em auto;
-	padding: 0;
+ul.postSubtitle label {
+	display: none;
 }
 
-ul.postSubtitleItems li {
+ul.postSubtitle li {
 	display: inline;
 	padding: 0;
 }
 
-li.Date:after {
+ul.postSubtitle li.date:after {
 	content: '•';
-	margin: 0.25em;
+	margin: 0 0.25em 0 0.5em;
 }
 
-li.Tags ul {
+ul.postSubtitle li.tags ul {
 	display: inline;
 	padding: 0;
 }
 
-li.Tags ul li:nth-child(2):before {
+ul.postSubtitle li.tags ul li:nth-child(2):before,
+ul.postSubtitle li.tags ul li:nth-child(3):before {
 	content: 'and ';
 }
 
-li.Tags ul li:last-child:before {
-	content: 'and ';
-}
-
-li.Tags ul li:only-child:after,
-li.Tags ul li:only-child:before {
-	content: '';
-}
-
-
-/* Post Content
+/* Page/Post Content
 ======================================== */
 
 em.topStory code {
@@ -231,7 +222,7 @@ figure {
 }
 
 figure.wide {
-	margin: 1.5em auto auto calc( (100vw - 700px) / -2);
+	margin: 1.5em auto auto calc( (100vw - 100%) / -2);
 	width: 100vw;
 }
 
@@ -294,14 +285,14 @@ video.wide {
 }
 
 /* Fixes iframe margin weirdness with FitVids.js */
-.fluid-width-video-wrapper {
+div.fluid-width-video-wrapper {
 	margin-top: 1em;
 }
 
 blockquote {
-	border-left: 3px solid #eee;
-	color: #999;
-	margin: auto;
+	border-left: 3px solid #ddd;
+	color: #888;
+	margin: 1em;
 	padding-left: 1em;
 }
 
@@ -334,7 +325,7 @@ pre code {
 
 /* Fixes `markdown-it`
 homepage fenced code block funkiness */
-.homepage pre code {
+body.homepage pre code {
 	white-space: pre-line;
 }
 
@@ -378,13 +369,13 @@ table.sortable thead {
 	cursor: default;
 }
 
-.table {
+div.table {
 	overflow: auto;
 }
 
 em.takeHome {
-	border-top: 4px solid #eee;
-	border-bottom: 4px solid #eee;
+	border-top: 4px solid #ddd;
+	border-bottom: 4px solid #ddd;
 	color: #3f70a2;
 	display: block;
 	font-size: 1.2em;
@@ -394,44 +385,48 @@ em.takeHome {
 	text-transform: uppercase;
 }
 
-.update {
+aside.update {
 	background-color: rgba(63, 112, 162, 0.13);
 	border-radius: 0.4em;
 	margin-top: 2em;
 	padding: 0.5em 2em 2em 2em;
 }
 
-.updateTime {
+aside.update h2 {
+	margin-top: 1em;
+}
+
+p.updateTime {
 	color: #999;
 	font-size: 0.9em;
 	margin-top: 0.5em;
 }
 
-.update a {
+aside.update a {
 	border-bottom: 2px solid #ddd;
 	padding-bottom: 1px;
 	word-break: break-word;
 }
 
-.update a:hover {
+aside.update a:hover {
 	background: #ddd;
 }
 
-.update blockquote {
-	border-left-color: #ccc;
+aside.update blockquote {
+	border-left-color: #ddd;
 }
 
-.update pre {
+aside.update pre {
 	border: 2px solid #ddd;
 	border-radius: 0.2em;
 }
 
-.update code {
+aside.update code {
 	border: 1px solid #ddd;
 	border-radius: 0.2em;
 }
 
-.update pre code {
+aside.update pre code {
 	border: none;
 }
 
@@ -456,22 +451,21 @@ hr.long {
 	width: 100%;
 }
 
-hr.articleSeparater {
-	background-color: #eee;
+hr.articleSeparator {
+	background-color: #ddd;
 	border-radius: 0.2em;
 	height: 0.3em;
-	margin: 4em auto 4em -30%;
+	margin: 3em auto 3em -30%;
 	width: 160%;
 }
 
-/* Removes the "* * *" on regular `<hr>` */
 hr.long:after,
-hr.articleSeparater:after{
+hr.articleSeparator:after{
 	content: normal;
 }
 
-/* Removes the last hr.articleSeparater on homepage */
-section.day:last-of-type hr.articleSeparater:last-of-type {
+/* HFS was this ever a PITA */
+section.day:nth-last-of-type(2) hr.articleSeparator:last-of-type {
 	display: none;
 }
 
@@ -481,7 +475,11 @@ sup.footnote-ref a {
 	transition: all 0.2s ease-in-out;
 }
 
-.homepage sup.footnote-ref a {
+body.homepage sup.footnote-ref a {
+	display: none;
+}
+
+body.homepage section.footnotes {
 	display: none;
 }
 
@@ -493,16 +491,12 @@ hr.footnotes-sep {
 }
 
 section.footnotes {
-	border-top: 2px solid #eee; /* Sorta-mimics `hr.footnotes-sep` */
+	border-top: 2px solid #ddd; /* Sorta-mimics `hr.footnotes-sep` */
 	color: #999;
 	font-size: 0.8em;
 	margin-top: 5em;
 	padding-top: 1em;
 	padding-left: 1em;
-}
-
-.homepage section.footnotes {
-	display: none;
 }
 
 a.footnote-backref {
@@ -519,59 +513,66 @@ a.footnote-backref:hover {
 	color: #3f70a2;
 }
 
-
-/* Homepage Pagination
+/* Footer
 ======================================== */
 
-.paginationFooter {
+section#pagination {
 	font-size: 1.1em;
 	font-weight: 400;
-	border-bottom: 0.2em solid #eee;
-	border-top: 0.2em solid #eee;
+	border-bottom: 0.2em solid #ddd;
+	border-top: 0.2em solid #ddd;
 	height: 1.75em; /* Have to do this because floats are stupid */
 	margin: 4em auto 4em auto;
 	padding: 1em 0;
 }
 
-.paginationFooter p {
+section#pagination > h2 {
+	display: none;
+}
+
+section#pagination p {
 	margin: 0;
 }
 
-.paginationFooter a {color: #999;}
+section#pagination a {color: #999;}
 
-.paginationFooter a:hover {
+section#paginationr a:hover {
 	color: #3f70a2;
 }
 
-.paginationFooter .previousPage {
+section#pagination .previousPage {
 	float: right;
 }
-
-
-/* Footer
-======================================== */
 
 footer {
 	color: #999;
 	text-align: center;
 }
 
-#bottomAd {
-	border-top: 0.15em solid #eee;
+div#bottomAd {
+	border-top: 0.1em solid #ddd;
 }
 
-#bottomAd figure img {
-	width: 100px;
+div#bottomAd > h2 {
+	display: none;
 }
 
-#bottomAd figure figcaption {
+div#bottomAd figure img {
+	width: 125px;
+}
+
+div#bottomAd figure figcaption {
 	font-size: 0.75em;
 	margin-top: 0;
 	text-align: center;
 }
 
 nav {
-	border-top: 0.15em solid #eee;
+	border-top: 0.1em solid #ddd;
+}
+
+nav > h2 {
+	display: none;
 }
 
 nav a {
@@ -585,7 +586,7 @@ nav a:hover {
 nav ul {
 	margin: auto;
 	padding: 1.75em 0;
-	width: 250px;
+	width: 200px;
 }
 
 nav li,
@@ -602,7 +603,7 @@ nav li:nth-child(odd):after {
 	margin: auto 0.25em auto 0.5em;
 }
 
-/* Search box cribbed from Hardik Pandya
+/* Cribbed from Hardik Pandya
 (http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/) */
 
 form#search input {
@@ -621,7 +622,7 @@ form#search input:focus {
 	outline: none;
 }
 
-#copyright {
+p#copyright {
 	font-size: 0.7em;
 	margin: 0;
 	padding: 1.5em 0 1.5em 0;
@@ -644,7 +645,7 @@ form#search input:focus {
 		width: 100vw;
 	}
 
-	hr.articleSeparater {
+	hr.articleSeparator {
 		border-radius: 0;
 		margin: 2em auto 2em calc( (100vw - 100%) / -2);
 		width: 100vw;
@@ -655,25 +656,18 @@ form#search input:focus {
 /* Medium Displays */
 @media (max-width: 736px) {
 
-	#logo {
-		margin: 0 0.5em 0 0.5em;
+	h1#siteTitle {
+		font-size: 1.8em;
+		padding-top: 0.4em;
 	}
 
-	#logo img {
-		max-height: 1em;
-	}
-
-	#siteTitle {
-		font-size: 1.65em;
-	}
-
-	#siteByline {
+	p#siteByline {
 		margin-top: -0.5em;
-		padding-bottom: 1.3em;
+		padding-bottom: 1em;
 	}
 
 	main {
-		margin-top: auto;
+		margin-top: 1em;
 	}
 
 	img.inlineFour {
@@ -695,21 +689,25 @@ form#search input:focus {
 		width: 100%;
 	}
 
-	.paginationFooter {
-		margin: 3em auto 4em auto;
+	section#pagination {
+		margin: 3em auto 3em auto;
 	}
 
 }
 
-/* Small Displays */
+/* Really Small Displays */
 @media (max-width: 320px) {
 
 	body {
 		font-size: 1em;
 	}
 
+	blockquote {
+		margin: 0.25em;
+	}
+
 	nav ul {
-		width: 200px;
+		width: 175px;
 	}
 
 }

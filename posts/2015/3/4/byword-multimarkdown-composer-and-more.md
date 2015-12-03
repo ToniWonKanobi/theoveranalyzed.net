@@ -4,7 +4,7 @@ Description: Here's my workflow for blogging in Squarespace.
 Tags: Blogging, Apps  
 Image: http://d.pr/i/1fsbq+  
   
-## Forward
+#### Forward
 
 Some time ago, I wrote a rather [lengthy and exclamatory piece][theoveranalyzed] recounting how I implemented [Bigfoot footnotes][bigfootjs]. I will refrain from rehashing the entire post, but would like to discuss footnotes in general for a bit. Footnotes, and my recent change from [Byword][bywordapp] to [MultiMarkdown Composer][multimarkdown].
 
@@ -14,13 +14,13 @@ I had been wanting to incorporate footnotes into my writing, but didn't know how
 
 Once I figured that out, I started nitpicking the *way* I was footnoting.
 
-# The Problem
+### The Problem
 
 One big problem with my previous footnoting was a lack of knowledge regarding **multi-paragraph** footnotes. Up until yesterday, I didn't know how to do a footnote like [this][marco]. 
 
 Yesterday, I fixed that. How did I fix that?  TL;DR: I switched from Byword to MultiMarkdown Composer. 
 
-# Example
+### Example
 
 Consider the following. This is the type of reference-style footnote I might have tried to write in Byword:
 
@@ -66,7 +66,7 @@ But instead, Byword's HTML parse results in the following:
 
 Notice how only the `Chyeah` footnote got parsed into HTML (and not the `Boom` one)? Not ideal.
 
-## Making Sure
+#### Making Sure
 
 I consulted with the MultiMarkdown syntax guide just to make sure I was formatting my referenced multi-paragraph footnotes correctly.
 
@@ -74,7 +74,7 @@ I [was][github].
 
 So what to do? 
 
-# The Solution
+### The Solution
 
 My solution was to switch from Byword to MultiMarkdown Composer. This was not an easy decision. And honestly, a part of me feels like I just said goodbye to an old friend.[^bw]
 
@@ -95,7 +95,7 @@ And so, after writing a similar snippet and parsing to HTML using MultiMarkdown 
 
 This is how MultiMarkdown Composer parses MultiMarkdown, and this is how the resulting HTML *should* get parsed. 
 
-# Byword Versus MultiMarkdown Composer
+### Byword Versus MultiMarkdown Composer
 
 First, let me say this: I love, *love* Byword. The guys at [Metaclassy][metaclassy] have built an incredibly easy to use and beautiful app. 
 
@@ -118,13 +118,13 @@ Contrast this with MultiMarkdown Composer, in which the hotkey is buried in the 
 	<figcaption>MultiMarkdown's window has more content, but isn't *that* much more busy than Byword</figcaption>
 </figure>
 
-## What's So Wrong With Byword?
+#### What's So Wrong With Byword?
 
 The problem with Byword is that while the app *does* support [the most important aspects][bywordapp 2] of MultiMarkdown, it does *not* support every MultiMarkdown feature under the sun.[^us] For me, one of their more important MultiMarkdown omissions was lack of support for multi-paragraph footnotes and inline footnotes. And that was enough for me to try MultiMarkdown Composer.
 
-## And What's So Great About MultiMarkdown Composer?
+#### And What's So Great About MultiMarkdown Composer?
 
-### Inline Footnotes
+##### Inline Footnotes
 
 Probably the biggest unexpected benefit of using MultiMarkdown Composer were the **inline footnotes.**[^inf]
 
@@ -135,7 +135,7 @@ Probably the biggest unexpected benefit of using MultiMarkdown Composer were the
 
 While MultiMarkdown Composer's inline footnotes implementation precludes me  from having multiple paragraphs or lists,[^ww] it is still *such* a time-saver to just keep tying all the way through the footnote content, without having to go all the way to the bottom of the document to place the footnote content, and then find my way back to where I was before I started writing the footnote.[^ff]
 
-### Table of Contents Made Easy
+##### Table of Contents Made Easy
 
 Another gem that will find its way into MultiMarkdown Composer version 3 (currently in beta) is the `{{TOC}}`.
 
@@ -163,7 +163,7 @@ With MultiMarkdown Composer, I just place a `{{TOC}}` at the top of my document,
 	<figcaption><em>So</em> much easier than doing it by hand</figcaption>
 </figure>
 
-### Smart Pairs, Autocompleting Labels, and More
+##### Smart Pairs, Autocompleting Labels, and More
 
 Basically, this whole list:
 
@@ -172,21 +172,19 @@ Basically, this whole list:
 	<figcaption>With nifty tricks like this, I spend more time writing than worrying about syntax</figcaption>
 </figure>
 
-# Conclusion
+### Conclusion
 
 Ultimately, my nostalgic attachment to Byword was quickly forgotten. For all its beauty and simplicity, Byword just doesn't offer nearly the amount of features that MultiMarkdown Composer does.
 
 And you know what? That's [okay][d].
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Back to Byword
+### Update: Back to Byword
 <p class="updateTime"><time datetime="2015-06-01">June 1, 2015</time></p>
 
 Since writing this post originally, I moved to a [custom blogging engine][toa], one that is based on the actual Markdown files `.md`. And because of that, many MultiMarkdown features provided by MultiMarkdown Composer are no longer necessary, as `node.js` has plenty of `markdown-it` plugins that take the universal 'standard' Markdown documents and parse nifty stuff anyways. So I have actually reverted back to using Byword as my plain-text editor of choice. When I re-formatted this document to work with my new blogging engine, I kept the content the same, for both posterity's sake, and to help anyone out there who uses Squarespace.
 
-</div>
 </aside>
 
 [^bw]: It was with Byword, after all, that I shared my great [aha moment][reference] in which 'appropriately formatted Markdown → HTML with footnotes'

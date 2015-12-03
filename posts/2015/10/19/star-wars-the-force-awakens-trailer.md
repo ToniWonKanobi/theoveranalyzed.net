@@ -8,16 +8,14 @@ Video: https://youtu.be/sGbxmsDFVnE
 
 Here's the official trailer for Star Wars: The Force Awakens.
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Music-Only Trailer
+### Update: Music-Only Trailer
 
 <p class="updateTime"><time datetime="2015-10-21">October 21, 2015</time></p>
 
 Here's a [music-only version][youtube] of the trailer, "revised by [Tim Gonzales][timgonzales] to take away to drops in music during the dialogue bits," as Peter Sciretta of [/Film][slashfilm] notes.
 
-</div>
 </aside>
 
 [slashfilm]: http://www.slashfilm.com/star-wars-the-force-awakens-trailer-music/ "/Film: The Force Awakens Trailer Music"

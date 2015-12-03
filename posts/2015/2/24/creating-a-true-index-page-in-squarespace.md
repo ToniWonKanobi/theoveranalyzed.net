@@ -4,11 +4,11 @@ Description: Here's how I hacked Squarespace to have a true Index page.
 Tags: Squarespace  
 Image: http://d.pr/i/1iXJC+  
 
-## Forward
+#### Preamble
 
 I thought I should do a quick post outlining how I crafted my Index page. My main motivation for doing this was to have an easy-to-type URL slug that contained permalinks to all of my content. True, `/archive` contains the same information as an index page. But when I am looking for a permalink to my content, it is much faster to navigate to an `/index` page and `Command + F` to query a string of words that might fit the title.
 
-# Dealing With Content Management Systems
+### Dealing With Content Management Systems
 
 As you may or may not know, Squarespace does *not* offer a truly unlimited-length index page. Some templates do include an [Index page,][squarespace][^in] which is sort of like the [Summary block][squarespace 2], but neither of those act as true indices. 
 
@@ -22,7 +22,7 @@ Squarespace's lack of a true index page, as well as its so-so support of Linked 
 
 But until then, I will make do.
 
-# How I Made A True Index Page
+### How I Made A True Index Page
 
 First, I should give tremendous credit where credit's due: [Sid O'Neill][sidoneill] from [Crate of Penguins][crateofpenguins] posted the how-to over [a year ago][crateofpenguins 2]. I stumbled upon his Index [how-to][crateofpenguins 2] while looking for help with Bigfoot footnotes in Squarespace, a topic which he also [covered][crateofpenguins 3].[^bfs] 
 
@@ -34,7 +34,7 @@ In a nutshell, implementing this Index page involves the following:
 3. Replace the `CollectionID` Sid populated in his script with the one you found in step 1
 4. Enjoy
 
-## 1. Get the `CollectionID` for the blog you want to index
+#### 1. Get the `CollectionID` for the blog you want to index
 
 Pre-Squarespace 7, the `CollectionID`[^ci] was  much easier to find. But in their newest version of Layout Engine, finding the `CollectionID` is harder than it has to be. 
 
@@ -47,7 +47,7 @@ I then searched the source for `"collectionid"`. I found several entries. The on
  ```
  [^bt]
  
-## 2. Create a Code block and load the script
+#### 2. Create a Code block and load the script
 
 Here is the content of the `Code block` I used to make the Index:[^ind]
 
@@ -110,7 +110,7 @@ $('#allarchive').append('<p>');
 				}
 				else
 				{
-					$('#allarchive').append('<div class="archivelinktitle" style="text-transform: uppercase; font-family: 'futura-pt'; line-height: 1.3em; letter-spacing: -.2px; font-weight: 800; font-style: normal; margin: 1.5em 0 .5em 0;â€><a href="'
+					$('#allarchive').append('<div class="archivelinktitle" style="text-transform: uppercase; font-family: 'futura-pt'; line-height: 1.3em; letter-spacing: -.2px; font-weight: 800; font-style: normal; margin: 1.5em 0 .5em 0;"><a href="'
 						+ this.fullUrl
 						+ '">'
 			            + this.title
@@ -130,7 +130,7 @@ $('#allarchive').append('<p>');
 <div id="allarchive"></div>
 ```
 
-# Ahh.
+### Ahh.
 
 <figure>
 	<img src="http://d.pr/i/1iXJC+" alt="Finished" title="Finished">

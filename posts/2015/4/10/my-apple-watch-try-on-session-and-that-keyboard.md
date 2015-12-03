@@ -6,21 +6,21 @@ Image: http://d.pr/i/120bA+
 
 <p><em class="topStory">By now, on Friday night of the 'embargo week,' you have no doubt read and watched *plenty* in regards to Apple Watch and the new MacBook. I was one of the silly folk who stayed up <s>last night</s> this morning to preorder both. I was also one of the souls who scheduled a try-on appointment this evening.</em></p>
 
-# Ordering The Things
+### Ordering The Things
 
-## The Watch
+#### The Watch
 
 I decided on the stainless black Apple Watch in 42 mm. That was my first pick. Unfortunately, supplies were apparently extremely constrained, because my estimated ship date---as of 12:01 this morning---was already 4-6 weeks initially. Wow. I tried for about two minutes to see if I could maybe get another model more quickly, but in those few precious minutes full of second thoughts and looking around, the ship time for the stainless black slipped to June. *June.* Double wow. So I put in my order and that was that. 
 
-## The MacBook
+#### The MacBook
 
 Since this was going to be my primary computer, I opted for the 1.3 GHz BTO option. That pushed my ship date back to May 6. My friend ordered the base model, and he should have it by the end of this month. I assumed the MacBook would have been in great supply, so much so that I was banking on going to the Apple Store tonight to pick it up! Sadly, that wasn't the case. I spoke with the try-on lady and she said they didn't get *any* MacBook stock for launch day. Oh [Angela Ahrendts][businessinsider]. 
 
-## Impressions
+#### Impressions
 
 It seems like supply was severely constrained for both items. Was it orchestrated to be thus? Hard to say. Part of me thinks yes. What better way to keep the Apple Bears at bay than have a smashing weekend where people couldn't get enough? Tis better to 'sell out' than to not sell enough, yes? Or, maybe they just couldn't make enough. Who knows.
 
-# Visiting the Store
+### Visiting the Store
 
 Around 12:40 last night, I made my try-on appointment for the Apple Watch.
 
@@ -33,7 +33,7 @@ Why did I do this? Especially after having already pre-ordered the Watch? I want
 
 Another thing is that this was probably going to be the *only* opportunity I would have to play with the Watch and the new MacBook until they get to me weeks from now. 
 
-## Trying on the Watch(es)
+#### Trying on the Watch(es)
 
 They somehow lost my reservation, but the 'front of the store' minion got me setup as a walk-in. "Will that delay my try-on a lot? Are there tons of people wanting to have try-ons?" I asked. The dude said no. When I asked whether their experience today was like the typical iPhone launch day, he said it was far from it. 
 
@@ -51,7 +51,7 @@ Interesting.
 
 Luckily for me, I got to try on the Apple Watch specimens that I was most interested in (more or less).
 
-### Apple Watch Sport (Space Gray, Black Fluoroelastomer Band)
+##### Apple Watch Sport (Space Gray, Black Fluoroelastomer Band)
 
 The Apple Watch Sport is just as awesome and wonderful as it appears to be in Apple's product imagery. It is the perfect gadget watch, and I have no doubt a lot of my friends will have this model because of its easy livability and it's dashing good looks. 
 
@@ -71,16 +71,16 @@ Oh, another thing about the fluoroelastomer band: it is a real pain to get on an
 	<figcaption>Steps 1, 2, and 3 for getting the Sport band on</figcaption>
 </figure>
 
-### Apple Watch (Stainless Steel, Link Bracelet)
+##### Apple Watch (Stainless Steel, Link Bracelet)
 
 This was the model I was most interested in trying on, once I found out that the stainless black was not available (there was a model on display in the center aisle display case, but that's it). I was worried it might seem grandpa-ish, based on what [Marco][atp] had to say about it. He couldn't have been more wrong. The satin-y finish of the bracelet nicely complements the polished appearance of the Watch case. And really, the stainless black color scheme evokes a rather modern vibe by default. 
 
 <figure>
-	<img src="http://d.pr/i/19DK5+" alt="Yup" title=""Yup"">
+	<img src="http://d.pr/i/19DK5+" alt="Yup" title="Yup">
 	<figcaption>Ahhh yeah.</figcaption>
 </figure>
 
-### Apple Watch (Stainless Steel, Milanese Loop)
+##### Apple Watch (Stainless Steel, Milanese Loop)
 
 This band was by far the biggest disappointment. The mesh is very, *very* small---much smaller than the promotional materials suggest. Because of that, it's really a lot less 'flowy' than I thought it would be. And, for better or for worse, the perceived shrinking of the loops really made this feel cheap to me. 
 
@@ -93,11 +93,11 @@ Marco Arment had this to say about it:
 	<figcaption>Meh.</figcaption>
 </figure>
 
-### Impressions
+##### Impressions
 
 I made the right choice. It is totally worth waiting until June for the stainless black model. A close second would have to be the Watch with the black band. Yes, that's right, I would still chose another Watch over that Space Gray Watch Sport. I just can't help but imagine being somewhere, amongst nerdfolk like myself, all of us having the same exact model on our wrist. I guess that's not the end of the world. How many guys like have the Space Gray iPhone 6? It's hard to be different these days, but if there were ever a chance to do that, it is Apple Watch. That's my plan and I'm sticking to it.
 
-## Testing Out the New MacBook
+#### Testing Out the New MacBook
 
 The case is really, really, light. It is also quite small---the form factor is very reminiscent of the 11" MacBook Air. 
 

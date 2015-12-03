@@ -7,7 +7,7 @@ Image: http://i.kinja-img.com/gawker-media/image/upload/s--glI764tq--/c_scale,fl
 
 <figure>
 	<img src="http://i.kinja-img.com/gawker-media/image/upload/s--glI764tq--/c_scale,fl_progressive,q_80,w_800/1414556606644345009.jpg" alt="That rear fender flare though." title="That rear fender flare though.">
-	<figcaption><a href="http://www.urbandictionary.com/define.php?term=dat&defid=253641" title="Urban Dictionary: 'dat'">Dat</a> rear fender flare <a href="http://www.urbandictionary.com/define.php?term=Doe&defid=5720705" title="Urban Dictionary: 'doe'">doe</a></figcaption>
+	<figcaption><a href="http://www.urbandictionary.com/define.php?term=dat&amp;defid=253641" title="Urban Dictionary: 'dat'">Dat</a> rear fender flare <a href="http://www.urbandictionary.com/define.php?term=Doe&amp;defid=5720705" title="Urban Dictionary: 'doe'">doe</a></figcaption>
 </figure>
 
 Michael Ballaban of Jalopnik got his hands on Singer's newest reimagined 911, the "Manchester" car:

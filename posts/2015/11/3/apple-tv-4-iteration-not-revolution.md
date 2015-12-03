@@ -6,15 +6,15 @@ Image: http://d.pr/i/19jXS+
 
 <p><em class="topStory"><a href="http://twitter.com/smokeythedingo" title="Smokey on Twitter">Smokey</a> was barking at the front door. That could only mean one thing: OnTrac must've just dropped off a package. What was that package? It was the new Apple TV&nbsp;4!</em></p>
 
-# Previously, on Apple TV
+### Previously, on Apple TV
 
-## A Hobby
+#### A Hobby
 
 Both Steve Jobs and Tim Cook called Apple TV a "[hobby][mashable]." And although I doubt either chief executive meant that pejoratively, it certainly came off that way for Apple fans (myself included). For many years, Apple TV has been largely ignored by Apple. Up until a few days ago, the current Apple TV (Apple TV 3) sported 3-year-old SOC architecture. And as far as software goes: yes, Apple TV *did* receive a [visual refresh][arstechnica] following iOS 8's introduction in 2014. But beyond that, the backbone of Apple TV's UI hasn't been re-thought since the [2nd generation][wikipedia] was released in 2010. Generally speaking, Apple TV has consistently been an afterthought for Apple.
 
 A "hobby," indeed.
 
-## Adopting iOS
+#### Adopting iOS
 
 The [1st generation][wikipedia 2] Apple TV was essentially a pared-down Mac. In it's silver and white guise, it was based on a variant of Mac OS X 10.4 "Tiger." That Apple TV required a computer running an iTunes to stream content. There was no Netflix, no Hulu Plus, and no HBO <s>Go</s> Now. Apple TV was essentially a glorified conversion box that helped your HDTV stream content from Apple's iTunes CDN.
 
@@ -29,7 +29,7 @@ And that brings us to today.
 	<figcaption>Source: Apple</figcaption>
 </figure>
 
-# The Hope for Better TV
+### The Hope for Better TV
 
 At this year's [September event][theoveranalyzed], Tim Cook said that the "future of TV was apps." 
 
@@ -39,13 +39,13 @@ Up until that point, there was really nothing Cook could have said to appease Wa
 
 Though Apple TV has been stagnating over the past couple of years, that hasn't stopped Apple from dropping *numerous* hints that they planned to disrupt the TV market soon.
 
-## A Television Set?
+#### A Television Set?
 
 Some of those hints suggested that Apple was planning its own [television set][businessinsider].[^tv] Instead of a set-top box, Apple was going to create an all-in-one device that incorporated Apple TV's features into an actual television. Over the years, we all watched [Gene Munster][appleinsider]'s downward spiral from an initial place of hope and optimism, to an eventual state of dreary embarrassment, as he [finally capitulated][appleinsider 2] that Apple wasn't going to make an actual TV (they really were going to, though!).
 
 If not an Apple-branded television, what then?
 
-## A Streaming Content Service?
+#### A Streaming Content Service?
 
 Other hints suggested Apple's big foray into TV disruption was going to be a streaming content service. Not unlike the current state of "cable" television, this proposed "Apple TV" venture would help cut the heartache associated with cable TV service. 
 
@@ -59,7 +59,7 @@ Apple could leverage its already having our credit card information, and offer a
 
 [Cord-cutting][wikipedia 3] has been steadily increasing amongst TV viewers---[especially in the millennial generation][time]. Apple would be wise to take advantage of the situation. The cable TV market has been ripe for disruption for as long as ESPN has been subsidizing all the other channels that no one cares about.
 
-# Hope Realized
+### Hope Realized
 
 Here's the deal: Apple TV 4 is not a revolutionary television set, nor is it a new-fangled streaming content service. It is, said plainly: more of the same.
 
@@ -78,13 +78,13 @@ Iteration, not revolution.
 	<figcaption>Side by side: the old remote vs Siri Remote</figcaption>
 </figure>
 
-# The Hardware
+### The Hardware
 
 The new box looks almost exactly like the old one, except it's about twice as tall. I got the 32 GB version, because I haven't read a compelling reason to buy the bigger version.[^tts] I've always thought the shiny black plastic on the periphery of the device was rather gaudy. I wish they would have used the matte finish currently adorning the top and bottom of the box everywhere. Sadly, this new generation is visually the same as the previous ones: shiny plastic on the outside surfaces, except for the top and bottom, which are matte like the older versions. It's not ugly, and it could be argued that the shiny outer trim compliments the new remote.
 
 Let's talk about the remote.
 
-## Siri Remote
+#### Siri Remote
 
 The biggest visual change for Apple TV hardware is the new Siri Remote. It's basically the same size as the last one, except it's 30% deeper. bigger in most dimensions compared to the previous two generations' remotes. I was concerned that the trackpad would feel awkward. I was also concerned that the button layout was unintuitive.
 
@@ -98,7 +98,7 @@ spent about an hour with the device), so far, it seems fine.
 
 Likely the best feature of the new Siri Remote is television integration. [John Siracusa had me worried][atp] that my TV wouldn't automatically respond to Siri Remote's commands. But, lo and behold: It Just Works&trade;. The volume up down, as well as the TV "on/off" button---both features worked right out of the box. No doubt the engineers on the Apple TV 4 project spent *countless* hours testing and debugging this feature.[^imagine]
 
-# The Software
+### The Software
 
 Software-wise, Apple TV 4 has made a giant leap over its predecessors. Don't get me wrong---the hardware is great. But the *real* win for Apple TV 4 is it's new operating system: tvOS.
 
@@ -120,7 +120,7 @@ Using the UI differentials of iOS 7 → iOS 8 and iOS 8 → iOS 9 as a barometer
 
 Iteration, not revolution.
 
-## Setup
+#### Setup
 
 I heard talk about the ridiculously easy setup for Apple TV: how I could simply hold my iPhone near the Apple TV to transfer Wi-Fi credentials. For whatever reason, I assumed this wouldn't work for me.
 
@@ -145,7 +145,7 @@ I can only assume Apple is planning a dot release to address this seemingly crit
 
 But once I got past that drudgery, it was time for delight.
 
-## Delight
+#### Delight
 
 Good software should delight.
 
@@ -161,11 +161,11 @@ That was a mistake. While I still prefer the older design, iOS 6 was seriously l
 
 With tvOS, I believe that balance has swung back toward the delightful UI of older versions of Apple operating systems. And that's a good thing.
 
-### Parallax
+##### Parallax
 
 Speaking of delight, the [parallax][macworld] UI first featured in iOS 7 is in full force in tvOS. On the Home Screen, hover over an app icon and rock your thumb slightly from side to side. The app icon dances around, following the curve of your thumb. Flat is great, but flat without a sense of context is just confusing. This is the best example I've seen of Apple using a "flat" UI to convey a sense of place.
 
-### The Sounds
+##### The Sounds
 
 The sounds have been thoroughly redone, as well. I liked the old ones quite a bit, but these new ones go better with the new visual UI. Swipe or tap the trackpad to bounce to a nearby app icon, and a more graceful, playful ding ensues.
 
@@ -178,7 +178,7 @@ Tap the menu button on the Siri Remote to go back one level. Gone is the sharp t
 	<figcaption>Source: Apple</figcaption>
 </figure>
 
-### Screensavers
+##### Screensavers
 
 I haven't been excited about a screen saver since, well ...no---I've never been excited about a screensaver. That is, until I heard that the new tvOS screensavers were *amazing*.
 
@@ -194,11 +194,11 @@ Like many annoying hippie environmentalists, I had previously set my Apple TV to
 
 Having screensavers this nice makes me want to set the sleep timer to 1 hour, just so I can walk by the TV and see these awesome Aerial screensavers.
 
-## The Need for Speed
+#### The Need for Speed
 
 Navigating through the menus and the overall hierarchy of the UI seems roughly 50% faster than the previous generations. I don't chalk this up to hardware alone; it seems like tvOS itself plays a part. For instance, I've noticed there is a slight delay between when I select something, and the content presenting itself onscreen. In this situation, it's almost as if tvOS is compensating for the slight delay between selections: instead of just going black, the background blurs, calling out the centered, non-blurred text stating the UI destination. The background blur only lasts for a half second or so, but for whatever reason, transitioning in this manner instead of via **black** screen seems faster.
 
-## Video Seek
+#### Video Seek
 
 The video seeking demonstrations at Apple's September event were not exaggerated. Seeking on the new Apple TV 4 is vastly different from the previous generations.
 
@@ -216,7 +216,7 @@ For the older platform, seeking at 2x or 3x was unusable. The old Apple TVs woul
 
 Gone are those days. It takes a little getting used-to, but seeking forward or backward on the Apple TV 4 is *much* easier than before. Seeking is actually a usable feature now, whereas before it was hit-or-miss at best.
 
-## Games
+#### Games
 
 I'm not a big gamer. I had a PlayStation 2 in high school, and I occasionally watch YouTube play-throughs of [Metal Gear Solid 2][mgs2] when feeling nostalgic. But that's about it.
 
@@ -252,7 +252,7 @@ Here's Ben Thompson of Stratechery, adding some perspective on [Apple TV gaming 
 	<figcaption>I'll be using this a lot more than the old one.</figcaption>
 </figure>
 
-# Final Thoughts
+### Final Thoughts
 
 I didn't plan to do a "review"[^review] of the Apple TV 4. In fact, I wasn't even that excited for it to arrive yesterday. I figured I'd spend a few minutes setting it up, then not think about it again until the next time Allison and I want to watch TV at dinner.
 

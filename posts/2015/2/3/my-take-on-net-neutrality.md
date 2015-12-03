@@ -6,17 +6,17 @@ Image: http://2303ad6b2d9098b39a9c-d707f5436983e390b4cf6d08f6997555.r81.cf1.rack
 
 ![Net Neutrality][nn]
 
-## Forward
+#### Forward
 
 The team at BackBlaze posted a short [piece][backblaze] regarding the FCC's recent [re-defining][gigaom] of broadband internet access in America. In their article they quoted [Gizmodo][gizmodo], saying that "The redefinition of broadband should increase competition between ISPs and cable companies as well as encourage the development of better infrastructure." That would be a step in the right direction, that's for sure.
 
-# Backstory
+### Backstory
 
 When I have conversations with people regarding anything technology related, there is a small fear in my mind that my zeal and fervor might be a tad bit off-putting.[^of] Accordingly, I typically hold back, unless I can discern that the person with whom I am conversing is well versed in technology.[^t] 
 
 I approach many conversations---not just ones about technology---in this manner. I learned early on in life that when discussing a topic with someone, the worst thing I could do is disagree with them. Yes, it started early on for me, perhaps on the playground.[^p] I can see myself there, potentially discussing [Power Rangers][wikipedia]. I thought the [Red Ranger was more important than the Green Ranger][youtube], which, at that time, was *so* counter-culture. I would have been very reluctant to share that with anyone, for fear that because my opinion was contrary to most everyone else's, I might be ostracized for it.[^o]
 
-# Present-Day
+### Present-Day
 
 Eventually I grew up, and with that my willingness to offer sometimes contrary opinions increased as well. But, for the most part, I remain a [maker of waves not][meme].
 
@@ -24,7 +24,7 @@ Because of that, you can imagine how much I hate talking about politics. There i
 
 Some of that stems from the fact that I dislike confrontation, and find it disturbing to know that somebody might be made upset with me, because of something I might say. Moreover, if I offer a contrary opinion and someone disagrees, I might be forced to endure the awkwardness of silence, or the stress trying to quickly decide upon a new topic[^to]. 
 
-# Some Things Inspire
+### Some Things Inspire
 
 There are, however, notable exceptions for my humble Just Listen, Don't Disagree™[^dd] worldview:
 
@@ -35,7 +35,7 @@ If someone wants to have a conversation about either of the above two topics, I 
 
 It is that second of the two topics that I would like to focus on for now.
 
-# I Cringe Even Typing This (Because I Might Lose Some of You)
+### I Cringe Even Typing This (Because I Might Lose Some of You)
 
 For the majority of my post-secondary and graduate training, I considered myself pretty conservative/libertarian when it came to fiscal issues.[^iss] I have softened considerably since then, but I still believe that **less government intervention is generally a good thing, and that the free market can self-regulate, under the right circumstances.**
 
@@ -53,9 +53,9 @@ This can hurt consumers because it actually decreases competition, which is, in 
 
 I'm no economist, but there are likely plenty of other, perhaps more significant stories about the pitfalls of increased government regulation that a [DuckDuckGo search][duckduckgo] would outline. 
 
-# That Being Said
+### That Being Said
 
-The elephant in the room here is actually the [elephants][wikipedia 3]) themselves. Conservatives have unsurprisingly been preaching examples (some more nebulous than others) of "Big Government intervention stifling technology and competition." One very recent topic of contention between conservatives and liberals concerns [Network Neutrality][wikipedia 4]. 
+The elephant in the room here is actually the [elephants][wikipedia 3]) themselves. Conservatives have unsurprisingly been preaching examples (some more nebulous than others) of "Big Government intervention stifling technology and competition." One very recent topic of contention between conservatives and liberals is [Net Neutrality][wikipedia 4].
 
 "Net Neutrality" is a term loosely defining a set of principles that govern how people connect to and use the internet:
 
@@ -65,7 +65,7 @@ The elephant in the room here is actually the [elephants][wikipedia 3]) themselv
 
 The concept of net neutrality is simple. It's the *implementation* of it that has everyone so fired up. Should the "government" (FCC) intercede by reclassifying broadband? Should the FCC *do* anything at all? While I will refrain from delving too deeply into all the arguments [for][theverge] and [against][theverge 2] net neutrality, I will provide a few debate-worthy concepts.
 
-# The Case For And/Or Against Net Neutrality
+### The Case For And/Or Against Net Neutrality
 
 Conservatives argue that if the FCC meddles with ISPs (big businesses), it disincentives ISPs to innovate, thereby harming consumers.[^hc] The ISPs are saying, "Hey, if we can't charge content companies like Netflix more to take advantage of our nifty new fiber optic network, what's in it for us?" Exactly. Why would the ISPs want to invest in making things better for their customers, when their investments may not pay off? 
 
@@ -79,7 +79,7 @@ As long as those ISPs own all the pipe in an area, they have no reason to innova
 
 Without strong regulations, the ISPs will continue to drag customers through the mud. Net neutrality advocates want the FCC to step in and make sure ISPs don't make things worse. The lack of competition has allowed them to flourish under the current regime of well-funded lobbying efforts keeping Washington from making a fuss. The ISPs have a demonstrated track record of being the worst type of big business, and if conservatives have their way, things will only get worse.
 
-# A Completely Realistic Example
+### A Completely Realistic Example
 
 Pretend that you really like watching The Bachelor. [That crazy Chris][go]. And as amazing as that show is to you, imagine that there were another show out there, maybe with a similar premise, *but better.* Except that this one is not produced by ABC, and is instead produced by a small company called CBA, which is a small internet startup out of Austin, like all startups. Their show is called "The Dogelor," starring Doggy, who is a dog. Doggy has to try and choose a mate out of a bunch of eligible female dogs. 
 
@@ -95,7 +95,7 @@ You see where I'm going with this crazy story, don't you? CBA is just a startup.
 
 Without strong Net Neutrality regulation, there might never be another Google, Facebook, Twitter, etc. Startups have to start from somewhere. And if anti-network neutrality folks had their way, only the biggest companies would continue to stay on top, because they would have a greater share of the 'faster' portion of the internet. The smaller, lesser-known companies would have an even *harder* time than they have now in making it big. 
 
-# It Always Comes Back To Apple
+### It Always Comes Back To Apple
 
 Apple makes amazing consumer products. Don't think for a second that if Apple were the only company making such products, those products would be the best they could be forever. The products would probably be *awesome-enough* forever, but they might not improve year-to-year at the pace we have come to expect. Apple inadvertently relies on its competitors to spur its own innovation. This is not to sell Apple short. No other company has amassed such a large following, and broken so many trends as Apple. All the while, they are amassing something else: a huge stockpile of cash. Still, without competition, Apple might never have made a big screen iPhone, or adopted a notification center or multitasking or copy/pasting in iOS if Android didn't offer such things first. iOS is made better when Android is made better, and vice versa.[^vv]
 
@@ -107,7 +107,7 @@ T.C. Sottek with [The Verge][theverge 5]:
 
 > After years of dithering, manipulative scheming from mega telcos, bad proposals begetting bad proposals, months of F-bombs and death threats, and partisan warfare in Congress, it appears this will be the week we’ve all been waiting for: the week we find out exactly how the FCC will propose to regulate the internet like a utility.
 
-# The Next Battle
+### The Next Battle
 
 *Advocating for the FCC to dumb wireless spectrum into the same classification as wired broadband*
 
@@ -117,10 +117,9 @@ Sottek, on the prospects of the FCC reclassifying wireless as well (same article
 
 [Good luck][meme 2] getting that to happen with this Congress.
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Victory
+### Update: Victory
 <p class="updateTime"><time datetime="2015-02-04">February 4, 2015</time></p>
 
 Sottek, in a [later piece][verg] for The Verge:
@@ -129,11 +128,11 @@ Sottek, in a [later piece][verg] for The Verge:
 
 Finally 🐺
 
-</div>
+</aside>
 
-<div class="update">
+<aside class="update">
 
-## Another Update, Ten Minutes After The Previous One: Victory Part II
+### Another Update, Ten Minutes After The Previous One: Victory Part II
 <p class="updateTime"><time datetime="2015-02-04">February 4, 2015</time></p>
 
 And Jacob Kastrenakes, also for [The Verge][vergee]:
@@ -142,7 +141,6 @@ And Jacob Kastrenakes, also for [The Verge][vergee]:
 
 This is just crazy. It's like a dream come true for net neutrality advocates. 
 
-</div>
 </aside>
 
 [^att]: Yeah, [that could really happen][usatoday]

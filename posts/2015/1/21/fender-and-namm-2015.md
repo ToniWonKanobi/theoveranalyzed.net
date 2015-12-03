@@ -23,7 +23,7 @@ Previously, the only way to answer any of the above questions involved actually 
 
 These days, I just don't think that matters any more. I have several theories as to why this is the case.
 
-# Backstory
+### Backstory
 
 I started playing electric bass around 2008. I was around 20 at the time, rather late-in-the-game for picking up a new instrument. Like Jim suggests, I rightly bought my first guitar, a Korean-made [Ibanez GSR200][guitarcenter] from my local Guitar Center. Looking back, it wasn't anything to write home about, but it was my first bass, so whatever. 
 
@@ -33,15 +33,15 @@ So anecdotally, my gear acquisition experiences have been very internet-driven.
 
 Three key factors have led to a perfect storm for the shift toward internet purchases of musical instruments:
 
-# The Internet Is to Blame
+### The Internet Is to Blame
 
 The internet has made it so that almost every aspect of an instrument can be measured and well-documented, effectively eliminating much of the 'unknown' when it comes to buying an instrument online. Consider any number of the big-box retailers like Guitar Center, Musician's Friend, or Music123 (all the same company by the way). Or, to show my support for the 'little guys,' take [Elderly Instruments][elderly]. They have a detailed history of all their instruments, as well as hi-res pictures, and the weight of each instrument. Barring some aberration in the wood, or some other unforeseen malady, there are very few problems to be had when the purchase is made under such transparency. 
 
-# Quality Control At FMIC Higher Now Than Ever Before
+### Quality Control At FMIC Higher Now Than Ever Before
 
 This has made it, in most circumstances, unnecessary to physically inspect the instrument in question for imperfections. Even the lowly American Vintage line, once the black sheep of the Fender lineup has finally gotten the respect it deserves both in fit/finish, and in historical accuracy. Why get out of my computer chair and trounce down to Guitar Center when I can have it UPS'd (UPS sucks) to me from GC/MF/etc.? Exactly. 
 
-# Brick and Mortar Guitar Shops Suck
+### Brick and Mortar Guitar Shops Suck
 
 Let us consider the big stores again. I dare you to walk into Guitar Center, make eye contact with one of the bearded, overweight, glasses-wearing Caucasian 'men' and not feel disgusted when they ask you if you need help. They aren't asking you for help. They are asking you if you wouldn't mind buying this piece of shat hanging on the wall. This jacked-up formerly nice piece of wood, but now relegated to booger and nasty-hand hades. Guitar Center is like Wal-Mart. 
 

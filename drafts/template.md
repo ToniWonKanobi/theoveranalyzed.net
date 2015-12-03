@@ -37,7 +37,7 @@ CSS: blah
 	<figcaption>caption</figcaption>
 </figure>
 
-<figure class="inlineThree">
+<figure>
 	<a class="nohover" href="src" title="title">
 		<img class="screenshot inlineThree" src="src" alt="title">
 	</a>
@@ -46,6 +46,22 @@ CSS: blah
 	</a>
 	<a class="nohover" href="src" title="title">
 		<img class="screenshot inlineThree" src="src" alt="title">
+	</a>
+	<figcaption>caption</figcaption>
+</figure>
+
+<figure class="inlineFour">
+	<a class="nohover" href="src" title="title">
+		<img class="screenshot inlineFour" src="src" alt="title">
+	</a>
+	<a class="nohover" href="src" title="title">
+		<img class="screenshot inlineFour" src="src" alt="title">
+	</a>
+	<a class="nohover" href="src" title="title">
+		<img class="screenshot inlineFour" src="src" alt="title">
+	</a>
+	<a class="nohover" href="src" title="title">
+		<img class="screenshot inlineFour" src="src" alt="title">
 	</a>
 	<figcaption>caption</figcaption>
 </figure>
@@ -64,14 +80,12 @@ CSS: blah
 </div>
 
 
-<aside>
-<div class="update">
+<aside class="update">
  
- ## Update: Blah
+ ### Update: Blah
 <p class="updateTime"><time datetime="2015-01-01">January 1, 2015</time></p>
 
 Markdown
 
-</div>
 </aside>
 ```

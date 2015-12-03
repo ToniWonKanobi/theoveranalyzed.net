@@ -4,13 +4,13 @@ Description: So I tried the iPhone 6 Plus, and it was too much for me.
 Tags: Reviews, iPhone  
 Image: https://313e5987718b346aaf83-f5e825270f29a84f7881423410384342.ssl.cf1.rackcdn.com/1410293876-iPhone6_PF_SpGry_iPhone6_PB_SpGry_iPhone6_PSL_SpGry_Homescreen-PRINT.jpg  
 
-# That Night
+### That Night
 
 It was 12:43 AM on Friday, September 12, 2014. After 43 minutes of horror, I was one of the lucky [few][cnet] who successfully preordered an iPhone 6 Plus that night (morning). I was so excited. Finally, an iPhone with a bigger-than-4-inches screen. I imagined all the YouTubing and Netflixing I would be doing during my lunches at work, and I imagined actually using that silly com.apple.videos app (on my phone!). Conversely, I also imagined having 'not the best' iPhone (which was something I had done before during my brief stent with a 5C last year). That experience was one I did not want to repeat. (Don't get me wrong, I loved the everything about the 5C---how it felt in my hand, the warmth it conveyed vs the coldness of the 5/5s, but I missed the A7 and the camera sensor).
 
 Some thought went into my decision.
 
-# In Favor of Plus over Regular
+### In Favor of Plus over Regular
 
 1. A bigger screen meant [not having to carry around an iPad][gottabemobile], because I could watch things on my big ol' phone.
 2. A bigger case meant the iPhone could house a [bigger battery][bgr], so I wouldn't have to feel guilty for not charging my phone in the car during lunch.
@@ -18,7 +18,7 @@ Some thought went into my decision.
 4. A design better in every way than the [previous iPhones][sonnydickson] (except for the [original iPhone][wikipedia]. That thing was a [beaut][archive].)
 Adventure
 
-# In Favor of Regular over Plus
+### In Favor of Regular over Plus
 
 1. A bigger screen and a bigger case meant ... a bigger lump of metal in my [pocket][gottabemobile 2].
 2. A bigger lump in my pocket also meant that I would have a bigger lump in my workout shorts. A bigger lump in my workout shorts means my phone could more easily fall out. Could I deal with that?
@@ -38,7 +38,7 @@ A week or so later, I began to self-reflect. Why was I wearing a case around the
 
 Next, I did what any self-respecting nerdophile would do in these situations: I re-consulted with Gruber, Marco, Jason Snell, Myke Hurley, and a multitude of other technology personalities. Only, I didn't actually consult with them. Instead, I listened to them rant on their respective podcasts (see: [The Talk Show][daringfireball], [ATP][atp], and [Upgrade][relay]).
 
-# Their Collective Voice Was Clear
+### Their Collective Voice Was Clear
 
 *The iPhone 6 Plus was too big.*
 

@@ -1,17 +1,17 @@
 Title: Ditching Webfonts  
 Date: 2015-07-15 11:41  
 Description: Over the past few years, I've become increasingly interested in design and specifically, typography. Ideal Sans was *it* for me. But maybe Hoefler's webfont is just too much of a drag right now?  
-Tags: Typography, Web Design & Development, Ditching Webfonts  
+Tags: Typography, Web Design, Ditching Webfonts  
 Image: http://d.pr/i/138Zv+  
 
-<p><em class="topStory">This piece is largely a self-response to an earlier post I wrote on the subject called <a href=" /2015/7/12/why-the-web-is-so-slow" title="My piece on The Verge piece about the slow web">Why The Web Is So Slow</a>. You should read that before reading this.</em></p>
+<p><em class="topStory">This is the second post in a series called <a href="tags/Ditching%20Webfonts" rel="tag" title="Posts tagged 'Ditching Webfonts'">Ditching Webfonts</a>. If you haven't already done so, you should read the <a href="/2015/7/12/why-the-web-is-so-slow" rel="previous" title="My piece on The Verge piece about the slow web">first</a> post in this series. You can also read the <a href="/2015/7/19/ditching-webfonts-part-ii-hoefler-webfonts-are-prettier-but-slower" rel="next" title="The final post in the series 'Ditching Webfonts'">final</a> post in the series.</em></p>
 
 <figure>
 	<img src="http://d.pr/i/138Zv+" alt="Waiting." title="Waiting.">
-	<figcaption>That's 457.1 ms too long for me.</figcaption>
+	<figcaption>That's exactly 457.1 ms too long for me.</figcaption>
 </figure>
 
-# Becoming Ideal
+### Becoming Ideal
 
 Ever since I became more interested in typefaces and web design, [Ideal Sans][typography] had been my unicorn. When I initially became interested in using that font on my website, I knew very little about HTML and CSS, or webfonts in general. Because of that, I wasn't sure how to add it to my website. All I knew was that I liked it. Marco used it for his [blog][marco] and [app][fontsinuse], and Q Branch [used it][vesperapp] for [Vesper][vesperapp 2]. It's also available in the [Feedbin][feedbin] webapp (along with other Hoefler originals like [Whitney][typography 2]).
 
@@ -19,7 +19,7 @@ When I moved from Squarespace to Camel [last month][theoveranalyzed], one of the
 
 I had done it. I made my own website. And I made it look *good*.
 
-# Settling On Ideal
+### Settling On Ideal
 
 Over the course of the next few weeks, I was constantly tweaking this and that in CSS.[^no] Up until a few days ago, page load times were a rather trivial matter for me. From the beginning, I knew there would be no way to match John Gruber's lightning-quick [Daring Fireball][daringfireball], which loads in approximately [1 second][d] on desktop *and* mobile. 
 
@@ -31,7 +31,7 @@ Still, ever the tinkerer, I <s>was</s> am always tweaking this or that, testing 
 
 Right?
 
-# The Slow Web
+### The Slow Web
 
 My priorities changed somewhat last week. Gruber [wrote a short piece][daringfireball 2] on the crummy state of modern web browsing, focusing primarily on how *slowly* most webpages load these days. According to Gruber, the culprit was all those JavaScript extensions powering those annoying web advertisements. He picked on iMore in particular. [I did the same][theoveranalyzed 4]. 
 
@@ -45,7 +45,7 @@ How is it possible that a plugin designed to speed page loading could actually m
 
 Less than an hour after that deploy, I had re-edited my posts to remove the Lazy Load image classes and attributes, and I had completely removed the plugin from TheOverAnalyzed. So then: back to square one.
 
-# Trying Stuff
+### Trying Stuff
 
 Yesterday, I experimented more with disabling JavaScript. Without JavaScript enabled, page load times were only marginally faster. [And as I said previously][theoveranalyzed 5], gaining less than a quarter second in page loading times didn't warrant losing Bigfoot footnotes. But while I was experimenting in Safari's `View Page Source` window, I noticed something. In general, TheOverAnalyzed initializes rather quickly, somewhere in the range of 100ms. However, immediately thereafter---before loading the next resource---there was latency of around 800ms. That next resource I speak of is the Ideal Sans webfont, served up via Hoefler & Co's [Cloud.typography][typography 3] backend. 
 
@@ -53,21 +53,21 @@ Yesterday, I experimented more with disabling JavaScript. Without JavaScript ena
 
 Could I fix this?
 
-# Considering The Inconsiderable
+### Considering The Inconsiderable
 
 Interestingly, while I was examining TheOverAnalyzed's page source and realizing that the Hoefler webfont was killing my page loading, an important conversation was happening on Twitter. 
 
 <blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/benthompson" title="Ben Thompson on Twitter">@benthompson</a> No one should ever do anything that makes a website slow.</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/620966969953636353" title="John Gruber suggesting that anything done to a website that makes it slower is bad">July 14, 2015</a></blockquote>
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/marcoarment" "Marco Arment on Twitter">@marcoarment</a> <a href="https://twitter.com/benthompson" "Ben Thompson on Twitter">@benthompson</a> That’s one reason I’ve procrastinated on switching to webfonts at DF. (Bigger reason: inertia.)</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/621074509676826624" title="Gruber talking about switching to webfonts for Daring Fireball">July 14, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/marcoarment" title="Marco Arment on Twitter">@marcoarment</a> <a href="https://twitter.com/benthompson" title="Ben Thompson on Twitter">@benthompson</a> That’s one reason I’ve procrastinated on switching to webfonts at DF. (Bigger reason: inertia.)</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/621074509676826624" title="Gruber talking about switching to webfonts for Daring Fireball">July 14, 2015</a></blockquote>
 
 Moreover, it seems Craig Hockenberry has experienced (or at least has knowledge of) webfont latency for himself:
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jimray" title="Twitter user @jimray">@jimray</a> <a href="https://twitter.com/gruber" title="John Gruber on Twitter">@gruber</a> <a href="https://twitter.com/marcoarment" title="Marco Arment on Twitter">@marcoarment</a> <a href="https://twitter.com/benthompson" "Ben Thompson on Twitter">@benthompson</a> They can have high latency depending on where they’re hosted.</p>&mdash; Craig Hockenberry (@chockenberry) <a href="https://twitter.com/chockenberry/status/621119545227345924" title="Craig Hockenberry on webfont latency">July 15, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jimray" title="Twitter user @jimray">@jimray</a> <a href="https://twitter.com/gruber" title="John Gruber on Twitter">@gruber</a> <a href="https://twitter.com/marcoarment" title="Marco Arment on Twitter">@marcoarment</a> <a href="https://twitter.com/benthompson" title="Ben Thompson on Twitter">@benthompson</a> They can have high latency depending on where they’re hosted.</p>&mdash; Craig Hockenberry (@chockenberry) <a href="https://twitter.com/chockenberry/status/621119545227345924" title="Craig Hockenberry on webfont latency">July 15, 2015</a></blockquote>
 
 If Ideal Sans was the problem, I wondered how fast TheOverAnalyzed would load without it? 
 
-# Gaining A Second
+### Gaining A Second
 
 To test the site without the webfont, I modified `main.css`, so that there would be a fallback font. In this case, [Avenir][wikipedia], which is like [Helvetica][wikipedia 2] but less cliche.[^sf]
 
@@ -92,7 +92,7 @@ Once that was done, the results were noticeable.
 
 Yes, *still* not [Daring Fireball][d 2], but significantly quicker page loading without the Cloud.typography latency. 
 
-# Slow Is Death
+### Slow Is Death
 
 Ben Thompson of Stratechery recently [wrote][stratechery] on the subject of web advertisements from the perspective of both the publishers and the readers. Always the pragmatist, he had this to say:
 
@@ -108,7 +108,7 @@ He also puts the slow web conversation into perspective with regard to [Facebook
 
 Ben Thompson is coming at slow loading webpages from a different perspective than my own. The point of his post was to explain how iMore's job of making a [Gruber-approved webpage][daringfireball 3] is easier said than done. Because the average web reader is not willing to pay for content, ads *must* be served to keep the publisher publishing. And, as Thompson asserts, users can't have free without ads. For both the publisher and the reader, Facebook Instant Articles (and [Apple News][instagram]) might not be that bad after all, on an infinite time scale.[^atp]
 
-# Now What
+### Now What
 
 My webpage wasn't slow because of horrible JavaScript-powered advertisements like what plagues iMore. TheOverAnalyzed was slow because of a webfont. But the difference isn't what's important. The end result is. Slow-loading pages are problematic for both publishers and readers. I'm sure publishers wished their websites were better, just as I'm sure readers wish websites were better. For myself and TheOverAnalyzed: as long as webfonts are slow, I can't imagine I'll be coming back.
 

@@ -7,7 +7,7 @@ Hi. I'm [Anthony][ant].
 
 TheOverAnalyzed is a website about technology, design, and pop culture.
 
-## How This Came to Be
+### How This Came to Be
 
 After months of hearing on my favorite [podcast][atp] various advertisements for [Squarespace][ss], I took the plunge and started my own blog in [early 2014][ear]: TheOverAnalyzed. I had no formal web development or design background, but I am a quick learner and a pretty well-rounded nerd. Blogging seemed like an outlet as well as a way to learn some new things.
 

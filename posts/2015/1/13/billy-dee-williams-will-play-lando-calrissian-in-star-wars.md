@@ -5,8 +5,9 @@ Description: Could this show get any better?
 Tags: Star Wars  
 Video: https://youtu.be/FiVxmWQsu-8  
 
-Kwame Opam for [The Verge][tv]: 
->Billy Dee Williams himself will reprise his role as the classy conman Lando Calrissian in Disney's Star Wars Rebels. And he's as cool as ever in the part.
+Kwame Opam for [The Verge][tv]:
+
+> Billy Dee Williams himself will reprise his role as the classy conman Lando Calrissian in Disney's Star Wars Rebels. And he's as cool as ever in the part.
 
 I can't say enough about this [show][m]. They got freaking [Lando][m 2]. And last week they had Yoda. I liked [The Clone Wars][m 3] (and even the [original][m 4] series as much as the next Star Wars guy. Rebels is just leaps and bounds better. Sure, the plots are targeted at an audience much younger than myself. But there is something about the story in between [Sith][wikipedia] and [A New Hope][wikipedia 2] that's still so unknown and exciting. That's what Rebels is all about. 
 

@@ -6,11 +6,11 @@ Image: http://d.pr/i/1krH2+
 
 ![Facebook Instant Articles][d]
 
-# Instant Articles
+### Instant Articles
 
 Facebook recently announced [Instant Articles][theverge], a method by which Facebook users in the iPhone app can view published articles without the typical waiting time associated with page loading. Want to read something in the app? Easy. Tap the article and it loads instantly. This is in contrast to the typical behavior of most apps with a third-party browser, in which tapping on the article launches the browser, and then the user has to wait for the browsers to load the article.
 
-# Facebook In General
+### Facebook In General
 
 I hate Facebook. I really do. I was the guy who was [too cool for Facebook][facebook] in 2012, right around the time when most of my friends thought it was still a legitimate way to connect with other people.[^foo] I cringed when Facebook [bought Instagram][theverge 2]. I get anxious every time I hear Ben Thompson talk about Facebook's astonishing [continued pervasiveness and relevance][stratechery]. 
 
@@ -20,7 +20,7 @@ I want it to die.
 
 But you know what? I don't think it will, at least not anytime soon. While it has [long been dead][techcrunch] to technophiles and teenyboppers alike, the simple truth is that social media is an absolute necessity for publishers to survive. Why is that?
 
-# No One Visits Websites Anymore
+### No One Visits Websites Anymore
 
 As Marco Arment [said][overcast] on the latest episode of his Accidental Tech Podcast:
 
@@ -38,7 +38,7 @@ Without those little Facebook/Twitter/Pinterest/Whatever share icons below artic
 
 And with Instant Articles, Facebook just might have pushed publishers to a decision. "[Poop or get off the pot][urbandictionary]," the saying goes. Adapt or give up.
 
-# Instant Articles: The Good
+### Instant Articles: The Good
 
 Perhaps I have doomsday'd the situation prematurely. I haven't delineated the actual *good* that Instant Articles can provide to content consumers. And there *is* some legitimate cause for celebration.
 
@@ -58,11 +58,11 @@ In a way, it's the publishers' own fault that Instant Articles are even a threat
 
 > Facebook is right: Most of these pages take way too long to load.
 
-# Instant Articles: The Bad
+### Instant Articles: The Bad
 
 As Instant Articles takes off due to increased adoption by publishers, those publishers not on board might feel backed into a corner. Compete or be forgotten. Worse yet, Facebook might become the *only* platform onto which publishers can push content that actually gets consumed.
 
-## Facebook First
+#### Facebook First
 
 Remember "[Mobile first][wikipedia]," *the* internet buzzword a few years ago? One aspect of Mobile first was an initiative for publishers to restructure their websites to look and function better on mobile devices. This "[Responsive Design][wikipedia 2]" dropped many of the heavy-handed, desktop-focused content arrangements of old, and in their place, simpler designs were featured instead.[^sd] Traditionally, developers and designers would make their website pretty and optimize it for desktop, and then make the necessary device-specific style changes to mobile applications. Mobile first literally meant that publishers and developers should consider their work on mobile devices *first*, and then apply specific 'web-browser' design to desktop versions of their projects (this is where `@media` queries came from).
 
@@ -72,7 +72,7 @@ Publishers not on-board with Instant Articles might be forgotten along with the 
 
 If Instant Articles takes off, its genuine technical utility will be dwarfed by it's tendency to prioritize the bigger publishing companies over the small-timers. That's not good.  
 
-## The Times, They Are A-Changin'
+#### The Times, They Are A-Changin'
 
 The aforementioned Facebook first dystopia can be *just* as bad as a [world without net neutrality][nn]. I cannot overemphasize this point. 
 
@@ -84,7 +84,7 @@ But with Instant Articles, Ars might have to rethink their publishing scheme. An
 
 Although somewhat silly to think so, I consider myself a de facto web publisher. And thus, I include myself in the group of publishers that might have to make a change. Does this mean TheOverAnalyzed will start to feature '10 Best' type articles, or buzz worthy headlines like ["How To Steal An Apple Watch"][daringfireball 2]? No. 
 
-# TheOverAnalyzed and Instant Articles
+### TheOverAnalyzed and Instant Articles
 
 However, I will do *something*. 
 

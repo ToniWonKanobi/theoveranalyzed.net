@@ -14,7 +14,7 @@ Notably, he lamented the state of affairs in which a [new podcast app][overcast]
 
 He does have a point. Lagomarsino provided several examples of note-worthy podcasts, namely [This American Life][thisamericanlife], in which the Smart Speed's truncating of pauses caused the *spirit* of the moment to be ruined. That's true. When [Serial][serialpodcast] was going on, I turned down my normal slider from [1.83x][d] to around 1.17x, *so that I could appreciate the production values of the show.* Sarah Koenig's team spent [a ton of time][rollingstone] producing their series. That makes sense because Serial was a [spinoff][thisamericanlife 2] of the aforementioned This American Life. 
 
-# Of Course™ Serial Was Going To Have Great Production Values
+### Of Course™ Serial Was Going To Have Great Production Values
 
 And if there ever was a case to slow things down, it would be for shows like this, or for shows like Myke Hurley's latest series for [Inquisitive][relay], [Behind The App][extras].
 
@@ -22,7 +22,7 @@ I was driving to work this morning, and when I heard the background music, I *ha
 
 So, sure, it's probably best for you to listen to artfully crafted podcasts at more normal speeds.
 
-# For The Rest Of Us
+### For The Rest Of Us
 
 I don't currently have any audiophile gear, but when I did, I was up there with the best of them in the 'prosumer-student-on-a-budget' category. My [Sennheiser HD 650][amazon] sounded great when powered by my [Duet 2][amazon 2]. I listened to music in lossless [ALAC][wikipedia] format, and I listened to [whole albums at a time][cnet].[^kta] I was downloading all my music from [great sources][what], and if someone told me about a new album to check out, or if I heard something on the radio, I was getting it in lossless and listening to it like a purist.
 
@@ -32,7 +32,7 @@ But my point here is that I was that guy who would look down on someone and thin
 
 So I have been where Lagomarsino currently seems to be; I know where he is coming from. 
 
-# You Should Listen How You Want
+### You Should Listen How You Want
 
 Do you want to listen to podcasts at ~2x like me? Go for it. Does [ATP][atp] 'slowed down' to 1.17x sound like turtles talking? If that's the case, by all means, speed it like I do. Turn on Smart Speed. 
 
@@ -40,7 +40,7 @@ A lot of people (myself included) [consume podcasts while commuting][howstuffwor
 
 Just because I listen to [How Stuff Works][howstuffworks 2] at crazy speeds doesn't mean I can't [enjoy other podcasts at 1x][d 2]. And listening to things sped up certainly doesn't make worthless the rest of my podcast experience.
 
-# It's Okay To Pick And Choose
+### It's Okay To Pick And Choose
 
 Lagomarsino makes it seem like it's all or nothing. You're a podcast purist or a podcast idiot. 
 

@@ -1,7 +1,7 @@
 Title: Support  
 Description: This page contains information on supporting TheOverAnalyzed  
 
-# Sponsorship
+### Sponsorship
 
 Week-long RSS feed sponsorships are available.
 
@@ -12,11 +12,11 @@ Week-long RSS feed sponsorships are available.
 
 [Contact][contact] me for more information.
 
-# Patreon
+### Patreon
 
 You can crowdfund via [Patreon][patreon]
 
-# Cash 
+### Cash 
 
 You can also send cash to [$theoveranalyzed][cash]
 

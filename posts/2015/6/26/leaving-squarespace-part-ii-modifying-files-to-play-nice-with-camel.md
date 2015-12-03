@@ -1,18 +1,18 @@
 Title: Leaving Squarespace Part II: Modifying Files to Play Nice With Camel  
 Date: 2015-06-26 11:00  
 Description: Almost all of my old posts were based on local Markdown files. I had to modify them slightly in order to work with Camel.  
-Tags: Meta, Camel  
+Tags: Meta, Camel, Leaving Squarespace  
 Image: http://d.pr/i/1em7V+  
 
-<p><em class="topStory">This is Part II of the series entitled <b>Leaving Squarespace</b>, in which I outline how I left a traditional CMS and dived deep into <a href="http://twitter.com/caseyliss" title="Casey Liss on Twitter">Casey Liss</a>'s static blogging engine, <a href="https://github.com/cliss/camel" title="Camel on GitHub">Camel</a>.</em></p>
+<p><em class="topStory">This is Part II of the series entitled <a href="tags/Leaving%20Squarespace" title="Posts tagged 'Leaving Squarespace'">Leaving Squarespace</a>, in which I outline how I left a traditional CMS and dived deep into <a href="http://twitter.com/caseyliss" title="Casey Liss on Twitter">Casey Liss</a>'s static blogging engine, <a href="https://github.com/cliss/camel" title="Camel on GitHub">Camel</a>. If you haven't already done so, you should read the <a href="/2015/6/17/leaving-squarespace-part-I-getting-started-with-camel" rel="previous" title="Link to Part I of the series 'Leaving Squarespace'">first</a> post in the series. And when you're done with this post, you can read the <a href="/2015/7/6/leaving-squarespace-part-iii-making-camel-my-own" rel="next" title="The final post in the series 'Leaving Squarespace'">next</a> one as well.</em></p>
 
-# Introduction
+### Introduction
 
 A goal of mine from the beginning was to port over the ~250 posts I had accrued while using Squarespace. Not only would redirects have to get sorted out, I also needed to make sure that the old posts looked correct in the new platform. Modifying my plain text files for use with Camel wasn't particularly difficult. It was, however, extremely time-consuming. In preparation for the move, I made tweaks to metadata, images, and footnotes.
 
-# Metadata
+### Metadata
 
-## Previously On TheOverAnalyzed
+#### Previously On TheOverAnalyzed
 
 Before transitioning to Camel, I adopted a hybrid metadata system inspired by both [Byword's][bywordapp] [MultiMarkdown guide][bywordapp 2], and, perhaps fortuitously, [Camel][github] itself. All of my posts since [TheOverAnalyzed 2.0][theoveranalyzed] had `Title:`, `Date:`, and `Link:` metadata. Byword is smart enough to know that properly-formatted text placed at the top of the document denotes metadata. Byword would then omit that when parsed to HTML.
 
@@ -24,7 +24,7 @@ Before transitioning to Camel, I adopted a hybrid metadata system inspired by bo
 
 Byword's metadata support is everything I would want in a plain text filing system. The metadata's there when viewing the Markdown source, but disappears when parsed to HTML. I wish Camel supported metadata in the format that Byword supports, but it doesn't out of the box.[^ma]
 
-## Metadata In Camel
+#### Metadata In Camel
 
 Unlike Squarespace, in Camel, having metadata within the actual Markdown files is absolutely *necessary*. Casey designed his blogging engine such such that `camel.js` generates all the posts and the rest of the website using these template files. These template files specify page attributes such as page headers, page footers, etc. The template files are based on Handlebars `{{strings}}`. Camel uses metadata strings to piece together the parts of the posts, such as the post header, the post footer, etc. And because of the way the Handlebars script works in conjunction with Camel, metadata *must* be called out in a particular way. In the default configuration of Camel, that's via a `@@` prefix.
 
@@ -33,9 +33,9 @@ Unlike Squarespace, in Camel, having metadata within the actual Markdown files i
 	<figcaption>Camel looks at the top of documents for <code>@@</code> prefixes, which denote metadata.</figcaption>
 </figure>
 
-# Images
+### Images
 
-## Previously On TheOverAnalyzed
+#### Previously On TheOverAnalyzed
 
 In the months leading up to [TheOverAnalyzed 3.0][theoveranalyzed 3], I transitioned from Byword to [MultiMarkdown Composer][multimarkdown]. Fletcher Penney's app offered MultiMarkdown 3 features that were crucial to my workflow, such as `{{TOC}}` for auto-table-of-contents, and most importantly, lots of nifty image syntax.
 
@@ -58,11 +58,11 @@ And this is the resultant HTML:
 
 Byword, for whatever reason, doesn't offer easy image-captioning. MultiMarkdown Composer was the only way to achieve easy image captions, so I started using it instead of Byword. 
 
-## I Can't Get No
+#### I Can't Get No
 
 While MultiMarkdown Composer surely got the job done, it never quite felt like *home.* Yes, I realize how weird it may seem for me to describe a plain-text editor as homey. But it's true: Byword's UI/UX is just *better* than MultiMarkdown Composer's. [Metaclassy][metaclassy] did a [great job][gj] with gradients and shadow effects, as well as other pleasing design touches. Still, I was stuck with the latter due to my dependence on the full MultiMarkdown 3 spec for easy image captions. Moving to Camel was an opportunity to re-examine my writing workflow. Within Camel, perhaps Byword could find a new purpose?
 
-## Images In Camel
+#### Images In Camel
 
 Camel uses an [npm][npm] package called [`markdown-it`][mdi], which is what actually takes the Markdown files and parses them to HTML. `markdown-it`, even with plugins, does not support *any* of the nifty image syntax offered by MultiMarkdown 3 and MultiMarkdown Composer. So the easy image syntax I used in the example above would not work using `markdown-it` and Camel. This nullified my reliance on MultiMarkdown Composer and made it so that I could [go back to using Byword][d]. 
 
@@ -96,9 +96,9 @@ Here's what I decided to do:
 
 Having the `<figure>` syntax pre-populated makes embedding images easier because it eliminates much of the time associated with writing pure HTML[^ik] Once I wrapped my brain around that, I began the long and tedious process of opening my old posts and switching all the MultiMarkdown 3 image syntax to regular HTML. 
 
-# Footnotes
+### Footnotes
 
-## Previously On TheOverAnalyzed
+#### Previously On TheOverAnalyzed
 
 My previous usage of MultiMarkdown Composer would also cause me trouble with footnotes in Camel. Previously, I wrote all inline footnotes in the following format:
 
@@ -125,7 +125,7 @@ This would then get parsed to this:
 
 Because I was using the parsed HTML as the content for my posts in Squarespace, it didn't matter that Byword couldn't understand inline or multi-paragraph footnotes.
 
-## Footnotes In Camel
+#### Footnotes In Camel
 
 Out of the box, Camel includes the `markdown-it` plugin [`markdown-it-footnote`][mif], which allows for MultiMarkdown 3-style inline and multi-paragraph footnotes. 
 

@@ -14,12 +14,10 @@ Image: https://cottonbureau.com/img/products/3422_8cnL_1600.jpg
 
 Be sure to use my coupon code **CBANTHONYC10** at checkout for 10% off.
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Promotion Has Ended
+### Update: Promotion Has Ended
 
 The trial promotion has now ended, in case you were wondering why my coupon code no longer works.
 
-</div>
 </aside>

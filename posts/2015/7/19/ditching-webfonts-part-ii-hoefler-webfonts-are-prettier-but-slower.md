@@ -1,16 +1,16 @@
 Title: Ditching Webfonts Part II: Hoefler Webfonts Are Prettier, but Slower  
 Date: 2015-07-19 11:14  
 Description: It's been a few days since I stopped using webfonts on my website. I did some super scientific and empirical testing in determining that Cloud.typography (Hoefler) webfonts are slower than everyone else's.  
-Tags: Typography, Web Design & Development, Ditching Webfonts  
+Tags: Typography, Web Design, Ditching Webfonts  
 Image: http://www.typography.com/images/overviewPageImages/whitney_cell_07.png  
 
-<p><em class="topStory">What started out as a simple rant about the slowness of the web morphed into a <a href="/tags/Ditching%20Webfonts title="My mini-series entitled 'Ditching Webfonts'">mini-series</a> about webfonts. Be sure to check out the <a href="/2015/7/12/why-the-web-is-so-slow" title="My piece on why the web is slow">first</a> and <a href="/2015/7/15/ditching-webfonts" title="First of a two-part series on ditching webfonts">second</a> posts on the subject.</em></p>
+<p><em class="topStory">What started out as a simple rant about the slowness of the web morphed into a <a href="/tags/Ditching%20Webfonts" title="My mini-series entitled 'Ditching Webfonts'">series</a> of posts about webfonts. Be sure to check out the <a href="/2015/7/12/why-the-web-is-so-slow" title="My piece on why the web is slow">first</a> and <a href="/2015/7/15/ditching-webfonts" rel="previous" title="First of a two-part series on ditching webfonts">second</a> posts on the subject.</em></p>
 
-## Just Not The Same
+#### Just Not The Same
 
 [Avenir Next][an] is the typeface currently adorning TheOverAnalyzed, at least on Apple displays. It's not meant to be permanent. It's a stopgap. Until my favorite webfont comes without the burden of latency, that isn't likely to change. 
 
-# A Good Point
+### A Good Point
 
 A few days ago I found myself commanding the attention of none other than Ben Thompson, who had this to say about my hasty[^has] decision to ditch webfonts:
 
@@ -40,7 +40,7 @@ For [Liss Is More][lm], Casey Liss uses [Lato][lato], another TypeKit font:
 	<figcaption><a href="http://caseyliss.com" title="Casey Liss's personal blog, Liss Is More">Liss Is More</a>, with relatively no latency as well</figcaption>
 </figure>
 
-# Further Experimentation, Lazy Style
+### Further Experimentation, Lazy Style
 
 Yesterday afternoon, I thought some more about my alternatives to Cloud.typography. I decided to do a preliminary search on 'Hoefler's webfonts versus Adobe's'. The very *first* [DuckDuckGo][ddg] result was a [post][cb] by Chris Bowler, who had this to say about Hoefler's [then] newbie webfont foundry:
 
@@ -71,7 +71,7 @@ Pay close attention to the timeline view. Look [familiar][toa]? Yes, that's *lat
 
 Compared to TypeKit, things weren't looking good for Cloud.typography.
 
-# A Chance Meeting
+### A Chance Meeting
 
 A couple of days ago, a patient of mine[^hippa] ended up being one of those typical web design . developer / entrapaneur types. We started talking non-dental things like iOS and OS X, and after the conversation included the typical Apple blogosphere heavyweights like [Gruber][daringfireball] and [Marco][marco], we talked a bit about webfonts.[^hy] 
 
@@ -83,7 +83,7 @@ A pretty clear endorsement from a professional, wouldn't you say?
 
 TypeKit and Google Fonts---it seems both are less latent than Cloud.typography fonts.
 
-# Results
+### Results
 
 So what does this tell me? Well, for starters, it tells me that I'm not crazy. I'm not just imagining that my site was slower than everyone else's. Also, this tells me that I'm not completely incompetent. Apparently I haven't done anything extremely idiotic with my website design, because other websites ([ones built by way smarter people than me][ss]) are equally slow to load Hoefler webfonts.
 
@@ -95,7 +95,7 @@ And that's too bad, because Hoefler fonts really are the *best* fonts. Typograph
 
 I can't imagine Hoefler wants his font foundry losing out to TypeKit or Google Fonts when it comes to expediency.
 
-# Hoefler & Co.
+### Hoefler & Co.
 
 Over the past three decades, Hoefler & Co ([prev. Hoefler & Frere-Jones][hfj]) has been a prolific font foundry. They have acquired a rather variegated clientele, from everyone's favorite [fruit company][ht] to presidential candidates (see below). Font nerds: do yourself a solid and check out their [website][typo]. 
 
@@ -118,7 +118,7 @@ Here are some of my favorites:[^acc]
 
 These are just a [few][typography] of the [great][typography 2] [fonts][typography 3] [available][typography 4] from [Hoefler][typography 5]. And unfortunately, I can't use any of them.
 
-# Final Thoughts
+### Final Thoughts
 
 If it isn't immediately obvious, I am a big fan of the Hoefler font foundry. I wrote this post because I care about using great fonts like theirs. If by some strange miracle I am able to get Hoefler's attention, perhaps they could work on making their webfont faster? 
 
@@ -126,14 +126,14 @@ Since finishing TheOverAnalyzed 3.0 [last month][theoveranalyzed], I probably vi
 
 I hope Cloud.typography webfonts can become less latent. As soon as they are, I'll be back. You can count on that. In the meantime, Avenir Next will have to do.
 
-<div class="update">
+<aside class="update">
 
-## Update: Ideal Sans is Back
+### Update: Ideal Sans is Back
 <p class="updateTime"><time datetime="2015-08-11">August 11, 2015</time></p>
 
 You may have noticed that I've re-enabled my Cloud.typography webfont, Ideal Sans. Avenir Next is a great sans serif font, but it can't hold a candle to Hoefler. Yeah, the site loads slightly slower than before, but TheOverAnalyzed isn't really TheOverAnalyzed without Ideal Sans.
 
-</div>
+</aside>
 
 [^acc]: This just became an Accidental <s>Tech</s> Font <s>Podcast</s> Post. If you want to skip ahead to my final thoughts about Hoefler webfonts, click [here][theoveranalyzed 2].
 [^has]: But correct

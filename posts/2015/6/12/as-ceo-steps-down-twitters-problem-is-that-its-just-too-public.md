@@ -23,5 +23,5 @@ As Popper and many others have suggested, maybe [Google][theguardian] is the ans
 [^go]: Seriously.
 
 [bt]: https://stratechery.com/2015/twitter-needs-new-leadership/ "Ben Thompson on Twitter needing new leadership"
-[iceo]: http://www.youtube.com/watch?v=SjlLG1EzJ2k "Macworld 2000: Steve Jobs drops the "i" in iCEO"
-[theguardian]: http://www.theguardian.com/technology/2015/apr/08/twitter-stock-price-rises-google-buyout-rumours-not-first-time "Twitter’s stock price rises after Google buyout rumours not for the first time"
+[iceo]: http://www.youtube.com/watch?v=SjlLG1EzJ2k "Macworld 2000: Steve Jobs drops the 'i' in iCEO"
+[theguardian]: http://www.theguardian.com/technology/2015/apr/08/twitter-stock-price-rises-google-buyout-rumours-not-first-time "'Twitter’s stock price rises after Google buyout rumuors not for the first time'"

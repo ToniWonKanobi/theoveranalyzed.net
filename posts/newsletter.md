@@ -1,17 +1,17 @@
 Title: The Newsletter  
 Description: This page talks about how to subscribe to TheOverAnalyzed Newsletter  
 
-# Why a Newsletter?
+### Why a Newsletter?
 
 While nerdy folk follow the site via [Twitter][twitter] or via [RSS][rss], most of my family and friends are not that nerdy. To accommodate their non-nerdy tendencies, I created a [MailChimp][mailchimp] newsletter powered by the site's RSS feed. 
 
-# How It Works
+### How It Works
 
 Every day, the MailChimp servers detect whether I've posted anything new since the previous day. If so, MailChimp generates a new email to subscribers containing all of the posts published since the last newsletter went out.
 
 ***
 
-# Signup for The Newsletter
+### Signup
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">

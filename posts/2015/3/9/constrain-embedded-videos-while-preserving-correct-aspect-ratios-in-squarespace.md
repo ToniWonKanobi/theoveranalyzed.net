@@ -1,7 +1,7 @@
 Title: Constrain Embedded Videos While Preserving Correct Aspect Ratios in Squarespace  
 Date: 2015-03-09 08:00  
 Description: Here's how I get YouTube videos to behave responsively in my webpages.  
-Tags: Web Design & Development, Squarespace  
+Tags: Web Design, Squarespace  
 
 <!-- FitVids -->
 <!-- http://fitvidsjs.com -->
@@ -12,11 +12,11 @@ Tags: Web Design & Development, Squarespace
 	});
 </script>
 			
-## TL;DR
+#### TL;DR
 
 I just can't leave well enough alone. In between patients yesterday, I figured out how to ensure that my embedded YouTube and Vimeo videos stretched to accommodate window size, while at the same time, constraining the proportions.
 
-# The Problem
+### The Problem
 
 Consider this YouTube [video][youtube].[^foo]
 
@@ -44,7 +44,7 @@ Notice that while the width of the `<iframe>` is correct, the height is complete
 
 `<iframe>` unfortunately doesn't intelligently adjust the height of a video based on the width. This would be nice, but it doesn't work that way.[^ifi]
 
-# Previously on TheOverAnalyzed
+### Previously on TheOverAnalyzed
 
 Here's how I chose to get around the funky looking `width="100%"` 'fix:'
 
@@ -69,13 +69,13 @@ That solution was okay for desktop, but broke on the mobile displays I cared abo
 
 So what to do?
 
-# The New Fix
+### The New Fix
 
 Good ol' [CSS-Tricks][css-tricks]. Chris Coyier comes through again. I looked around for help and found a pretty decent [article][css-tricks 2] on the subject. This pointed me to the *coup de grâce* by Coyier and [Dave Rupert][daverupert], called [FitVids.js][fitvidsjs].
 
 It's a nifty jQuery plugin that basically does everything I was trying to do previously with inline HTML/CSS.
 
-## The Process
+#### The Process
 
 It was easy enough:
 
@@ -85,11 +85,11 @@ It was easy enough:
 2. Call the script (as well as jQuery) and target the videos container
 3. *Happiness*
 
-## The Hard Part
+#### The Hard Part
 
 Copier says to "Target your .container, .wrapper, .post, etc." The problem was that I didn't know what that was, at least in the Squarespace ecosystem.
 
-## Thank You, Safari "View Source"
+#### Thank You, Safari "View Source"
 
 To figure out what container to target using Safari, first make sure you have turned on "Show Develop menu in menu bar" (Chrome users can do something similar).
 
@@ -110,7 +110,7 @@ For my site, I visited the `/archive/` page, which is the URL slug for my main b
 After viewing the source, make sure that "Source Code" is selected and then click "Inspect Element". This will allow you to hover over the main content area of the blog post to try and figure out what that area is called. Whatever that main area is called---*that's* what you're looking to target with the script.
 
 <figure>
-	<img src="http://d.pr/i/10stf+" alt="Looking for important stuff title="Looking for important stuff">
+	<img src="http://d.pr/i/10stf+" alt="Looking for important stuff" title="Looking for important stuff">
 	<figcaption>Looking for the important stuff</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ What we are looking for (at least in my template): `.main-content`
 
 Once I recognized the `.container` that Squarespace uses for main post content (`.main-content`), I went about copy and pasting that into the `<script>` that calls the `fitvids.js` to work.
 
-# Putting It All Together
+### Putting It All Together
 
 Paste the following code into either the site-wide [`Code injection`][squarespace] area,[^co] or the `Page Header Code Injection` area:[^con]
 
@@ -143,9 +143,9 @@ Finally, we are ready to test the YouTube video again. After copying the embed c
 
 So, with that, your videos should look like this:
 
-<iframe src="https://www.youtube.com/embed/kOh6iATnEnw" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/kOh6iATnEnw" allowfullscreen></iframe>
 
-# Conclusion
+### Conclusion
 
 The FitVids.js solution works on all `<iframe>` elements found on `.main-content` So, any post that contains that, such as Storify, will also have the wonderful FitVids effect applied.
 

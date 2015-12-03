@@ -4,15 +4,15 @@ Description: I walk through my process of tweaking Squarespace to achieve my des
 Tags: Meta  
 Image: http://d.pr/i/EfZ+  
 
-## Forward
+#### Forward
 
 When I launched TheOverAnalyzed last year, I knew nothing about HTML, CSS, JavaScript, or web design in general. Now, a year later, I still know nothing relatively nothing about the aforementioned topics. But, I know a whole lot more than I did.
 
-# History
+### History
 
 [Squarespace][sqs] <s>is the all-in-one</s>[^ss] made building a website insanely easy. Everything everyone has said about it has been pretty accurate in my experience. Typically, the biggest barrier to creating something is the lack of knowledge surrounding the framework upon which you might build. For making websites, that translates to the biggest barrier being a lack of knowledge regarding HTML, CSS, JavaScript, and Web Design.[^wd] Squarespace takes care of all that. With all of that out the way, I was able to focus on content, which, at the end of the day, is all that matters. 
 
-## From The Beginning, I Was A Tinkerer
+#### From The Beginning, I Was A Tinkerer
 
 I started with the [Native][squarespace] template, which was, like most templates, insanely sparse and clean-looking. It had a centered main content format, and by default, the top navigation was placed underneath the logo image, which was so much more pleasing than on the top right, which was the format of some of the other templates.
 
@@ -39,7 +39,7 @@ And here's a screenshot[^v] of my site from just a couple of weeks ago, before t
 	<figcaption>TheOverAnalyzed with the Avenue template (Version 1)</figcaption>
 </figure>
 
-## Things Got Hairy
+#### Things Got Hairy
 
 I had been wanting to make a few changes to the way my posts behaved. For instance, I wanted an arrow `→` to follow the title on Linked posts, and I also wanted a permalink `∞` to follow the the Linked post's date. There didn't seem to be a way to do that from within the Configuration section. I looked around for some ideas, and found a [post][webfactional] discussing the `{.passthrough}` string. That post offered a great solution, but the author noted that the string was only exposed to Squarespace users with the Developer Platform turned on.
 
@@ -57,11 +57,11 @@ So what did I do?
 
 I forgot about it, and just settled on not having Linked posts behave like I wanted.
 
-## Are You Kidding Me? Of Course I Didn't Settle
+#### Are You Kidding Me? Of Course I Didn't Settle
 
 I did what have always done when it comes to nerdery: I took the plunge. I turned on the Developer Platform. 
 
-## Now What Do I Do?
+#### Now What Do I Do?
 
 I wasn't sure whether Git or SFTP was the way to go, so I started with Git (due to my previous experience with GitHub). Turns Out™ that using Git involved using Terminal to push changes to the server, which seemed a little too [John Siracusa][hypercritical] [Mac OS 9][wikipedia 3] for me. 
 
@@ -71,7 +71,7 @@ Interestingly, I wasn't sure how to use SFTP (or [FTP][wikipedia 4]) either. So 
 
 How cool.
 
-## Trying Some Things
+#### Trying Some Things
 
 The first changes I made, like most 'first times,' were disastrous. I completely broke the site. I accidentally made changes to `global.less` without realizing what I had done. Unsure how to fix things, I turned off Developer mode in Squarespace, which reverted the site back to how it was before turning Developer mode on. Whew. Everything was fixed. Then I turned Developer mode back on, and tried again. 
 
@@ -84,7 +84,7 @@ Here's a screenshot of Permalinks Version 1.0:[^pl]
 	<figcaption>Permalinks Version 1.0</figcaption>
 </figure>
 
-## Another Template Change
+#### Another Template Change
 
 Things were looking [how I wanted][d 3]. Still, I wasn't quite satisfied. 
 
@@ -114,7 +114,7 @@ Here is Niel Cybart's Stratechery-esche Above Avalon:
 	<figcaption>Look at that <code>.main-content</code> scroll</figcaption>
 </figure>
 
-## Sidebar Time
+#### Sidebar Time
 
 I looked around the templates and discovered that Cybart had implemented a relatively unchanged version of [Wells][squarespace 5]. Wells is a great template for photographers or graphic designers, as it really makes content like pictures or graphics or videos the star of the web view. 
 
@@ -135,7 +135,7 @@ Note that the content was pushed all the way to the left of the window. This was
 After consulting with the [Squarespace Answers Forum](answers.squarespace.com), I was able to move the content over to the center, more or less:
 
 <figure>
-	<img src="http://d.pr/i/EfZ+" alt="Sorta-centered" ttile="Sorta-centered">
+	<img src="http://d.pr/i/EfZ+" alt="Sorta-centered" title="Sorta-centered">
 	<figcaption>Sorta-centered</figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ But this led to a terrible design on mobile:
 	<figcaption>Mobile, pre-<code>custom.less</code></figcaption>
 </figure>
 
-## So That's What This Does
+#### So That's What This Does
 
 In trying to fix the padding of the site on Desktop, I was making changes to `global.less`, which is a stylesheet that makes changes to *all* implementations of the site---desktop/tablet/phone.
 
@@ -156,11 +156,11 @@ Now, any sane person would have probably just traced back every change made to `
 
 But I'm not sane. I'm figuring things out as I go. So what did I do?
 
-## Starting Over
+#### Starting Over
 
 Yeah, I started over. I turned off Developer mode, and then turned it back on. This reverted my site to the default Wells configuration.
 
-# Doing It The Right Way
+### Doing It The Right Way
 
 Here is how I decided to re-style the site, using `.less` slash `.css` stuffs:
 
@@ -181,7 +181,7 @@ Here is how I decided to re-style the site, using `.less` slash `.css` stuffs:
 	* Here is the `@media` query I used to target iPads in landscape orientation:
 		<script src="https://gist.github.com/ToniWonKanobi/50bc973ad2dde32fbb81.js"></script>
 
-## One More Thing
+#### One More Thing
 
 The final piece left in the puzzle was the logo. 
 
@@ -200,9 +200,9 @@ But from the beginning, the plan was always to someday create my own.
 
 And that takes us to the present, conveniently serving to book-end this post.
 
-# The Logo
+### The Logo
 
-## Pixelmator
+#### Pixelmator
 
 I started with [Pixelmator][pixelmator]. Hands-down, the team at Pixelmator have designed an amazing Photoshop alternative for Cocoa / OS X lovers like myself. I'm no photographer, but from what I gather, Pixelmator features about 90% of what Photoshop or Lightroom offer. That was more than enough to win me over.
 
@@ -216,11 +216,11 @@ Alas, no:
 
 There was no way to properly export an SVG from Pixelmator. Instead of being an all-out graphic design fork from Pixelmator, Vectormator merely enhanced photos for Pixelmator. 
 
-## If At First You Don't Succeed
+#### If At First You Don't Succeed
 
 I needed a program that was easy to use like Pixelmator, but allowed easy exportation of a vector file. Interestingly enough, through my previous contact with the Pixelmator team, [Sketch was suggested to me][twitter].
 
-## Sketch
+#### Sketch
 
 Sketch is on its [third major version][bohemiancoding] now, and while its true power lies in its excellent suite of mobile design utilities, the app is great for just run-of-the-mill website stuff, like logos. 
 
@@ -286,7 +286,7 @@ I spent a fair amount of time trying to use my (`Logo.svg`) in place of the stat
 
 I ended up having to edit the `site.region` file that Squarespace uses as the site template, more or less. 
 
-# Finally
+### Finally
 
 Finally. [It was finished][biblehub]. I was able to get things looking how I want.[^iw]
 
@@ -320,7 +320,7 @@ iPhone:
 
 ***
 
-# Conclusion
+### Conclusion
 
 As far as I can tell, I have reached the limits of what one man can do for a given Squarespace template. I recently listened to an old [episode][5by5] of [Build and Analyze][5by6], in which Marco talked about [Second Crack][github 3]. I then scoured over Casey Liss's blog to find this [post][caseyliss] discussing Camel, his blogging engine similar to Second Crack.
 

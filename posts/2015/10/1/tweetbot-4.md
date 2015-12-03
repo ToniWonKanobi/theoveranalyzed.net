@@ -6,21 +6,21 @@ Image: http://d.pr/i/nwJY+
 
 ![Tweetbot 4 and Tweetbot 3][d]
 
-## Preamble
+#### Preamble
 
 Tweetbot, the beloved 3rd party Twitter client for iOS, has been updated to version 4, and is [now available for purchase][apple]. I have been beta-testing Tweetbot 4 for a few the past few weeks, and wanted to share my thoughts on the new version and how it compares to Tweetbot 3.
 
 Note: all of the screenshots I've embedded of both Tweetbot 4 and Tweetbot 3 might look a little different from what you see on your screen. I have [Reduce Transparency][imore] enabled on all my iOS devices, because I think it looks better than the "[neon-vibrancy][twitter]" esthetic that Jony Ive evidently adores. I highly recommend this general iOS setting, by the way.
 
-# iPad
+### iPad
 
 It should come as no surprise to you that the most compelling reason to update to Tweetbot 4 will be for a proper iPad experience. iPad users have been largely forgotten by the once-two-but-now three-man team at [Tapbots][tapbots]. When [iOS 7 was unveiled at WWDC 2013][forbes], Tapbots iOS developer Paul Haddad knew that the [focus needed to be iPhone][imore 2]. So when Tweetbot's version 3 launched shortly after iOS 7 officially made its way to the masses, only iPhone got a new UI---iPad was stuck with the older iOS 6 design esthetic. The iOS 7+ revamp for Tweetbot on iPad has been a long time coming, and it's now finally here. 
 
 I can't comment on the new features for Tweetbot 4 on iPad because I don't have an iPad currently. From what I've seen, though, it's everything you'd expect Tweetbot to be on an iPad.
 
-# New Features
+### New Features
 
-## Safari View Controller
+#### Safari View Controller
 
 This isn't so much a Tweetbot 4 feature as it is an iOS 9 feature. Still, props to Haddad for incorporating it into this newest version of his app. 
 
@@ -40,7 +40,7 @@ Now, with Tweetbot 4, I don't mind previewing links in the app. Because the Safa
 
 Having Safari View Controller in Tweetbot frees me to preview a lot more links than I would have previously. And it allows me to curb my auto-Instapaper-ing of links before previewing them, cutting down on my queue at the of the day. Good stuff. 
 
-## Activity Tab
+#### Activity Tab
 
 As far as I can tell, this is the *only* new addition to Tweetbot 4. There's certainly nothing wrong with that, either. In fact, that Haddad found little more to include utility-wise in this version of Tweetbot speaks to his continual willingness to update the app in-between big Tweetbot releases---especially when [Twitter exposes a useful API][macstories].
 
@@ -56,11 +56,11 @@ Stats contains a section at the top of the viewport called Today's Activity. Thi
 	<figcaption>Tweetbot 4's Activity tab, showing the Stats and Activity section. Both views contain essentially the same information, just presented in a slightly different manner</figcaption>
 </figure>
 
-# UI Changes
+### UI Changes
 
 Mark Jardine, Tapbots' designer for both iOS and Mac applications, didn't break the Tweetbot 3 mold when it came to designing a new version. Think of version 4 as what El Capitan is to Yosemite: user interface changes where they make sense, but not a complete overhall.
 
-## Tweet Dropdown
+#### Tweet Dropdown
 
 Tweetbot 4 adds splashes of color in the Timeline where gray existed before. Pictured above, the "tweet dropdown" view. In Tweetbot 4, the dropdown has the Tapbots' characteristic blue background, whereas the previous version 3 had the darker (and more subdued) gray background. I can't say I prefer the new look over the old one, but it certinaly doesn't detract. Perhaps Jardine wanted to implement a way to help the user visualize that the dropdown view was active?
 
@@ -70,7 +70,7 @@ Tweetbot 4 adds splashes of color in the Timeline where gray existed before. Pic
 	<figcaption>Tweetbot 4 and Tweetbot 3 Timeline tab</figcaption>
 </figure>
 
-## Tweet Composer
+#### Tweet Composer
 
 Just as with the tweet dropdown views described above the tweet composer view got a slight tweaking. In version 4, the top right and top left borders of the composer are now radiused. In fact, the entire defined-height "composer box" from version 3 is gone. Previously, the composer height in Tweetbot 3 would resize dynamically until the length of the tweet started to encroach on the keyboard, and after which, the composition area would simply scroll. Now, the composer text field completely blends into the viewport (except for the aforementioned radiused top borders).
 
@@ -83,7 +83,7 @@ Just as with the tweet dropdown views described above the tweet composer view go
 
 Generally, I think I prefer the old look over the new.
 
-## Profile Tab
+#### Profile Tab
 
 I spend a decent amount of time in my profile tab, though not for [the reason you might suspect][theatlantic]. There are times when I need to copy a link to a plain tweet or an @mention tweet. If that tweet is over 10 minutes old, it would be difficult to find in my Timeline. So I go to the profile tab and then sift through my tweets to find the one I'm looking for.[^ts]
 
@@ -95,7 +95,7 @@ Besides the larger profile image, the most striking change to the profile tab in
 	<figcaption>The profile tab in Tweetbot 4 enlarges the users background (banner) image, and prioritizes Recent Tweets, rather than Recent Photos as seen in Tweetbot 3</figcaption>
 </figure>
 
-## Miscellaneous
+#### Miscellaneous
 
 Generally speaking, Jardine has seen fit to increase the padding around almost all of the text elements within the app. Recall that before last year, the largest iPhone display was 4 inches. That doesn't leave a lot of room for white space flourishes and the ideal margin and padding spacing. Overall, this is a change I greatly welcome. It makes everything feel a bit more spacious than before. And since it seems logical that most of the potential Tweetbot 4 users already have bigger iPhones, this is probably a good design decision on Jardine's part.
 
@@ -105,9 +105,9 @@ Generally speaking, Jardine has seen fit to increase the padding around almost a
 	<figcaption>In the Search tab, the increased padding around the query options is immediately apparent in Tweetbot 4. This is in contrast to the condensed text elements in Tweetbot 3.</figcaption>
 </figure>
 
-# Gripes
+### Gripes
 
-## Typography
+#### Typography
 
 Tweetbot has never been the [twitter client for typography lovers][twitterrific]. Indeed, Tweetbot 3 featured only two fonts: [Helvetica][wikipedia 2] (the system default for every iOS release besides iOS 9), and [Avenir][wikipedia 3]. I was hoping Tweetbot 4 would add at least *one* more typeface option but alas, no.
 
@@ -119,7 +119,7 @@ Tweetbot has never been the [twitter client for typography lovers][twitterrific]
 
 [San Francisco][wikipedia 4] and Avenir aren't *bad* typefaces, per se. The former is the actual system font in iOS 9, and it is markedly more legible on small screens compared to Helvetica. The latter is basically the "new Helvetica," of sorts. Don't get me wrong---Avenir is a pretty typeface. When I experimented with [disabling webfonts][theoveranalyzed 2], Avenir was my first choice.[^wasnt] Still, when Tweetbot's [biggest competitor][apple 3] has *eight* different fonts to choose from, it makes me wonder why Tapbots hasn't seen fit to offer at least a couple more. Maybe that's coming? Only Tapbots knows.
 
-# Final Thoughts
+### Final Thoughts
 
 Tweetbot 4 is a worthy successor to Tweetbot 3. I wasn't able to outline all the iPad changes, but the fact that you can now use Tweetbot 4 on your iPad and enjoy an iOS 7+ UI makes this a great update. Admittedly, this took Tapbots way too long. In their defense, there's only one iOS developer on the team. I think the wait was well worth it for Tweetbot users with iPads. 
 

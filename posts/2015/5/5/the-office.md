@@ -13,9 +13,9 @@ Video: https://www.youtube.com/watch?v=Vmb1tqYqyII
 	});
 </script>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vmb1tqYqyII" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vmb1tqYqyII" allowfullscreen></iframe>
 
-## Preamble
+#### Preamble
 
 I don't watch a whole lot of "TV" these days. I put TV in quotes because when I think of *TV*, I think of a cable box sitting on top of a CRT, along with a $50+/month subscription service. I don't watch anything like *that*.
 
@@ -23,7 +23,7 @@ What little TV (in the broader sense of the word) I *do* watch is via a streamin
 
 This post is about my most recent 'old' TV show experience: *The Office.* But before I get [there](#TheOffice), I have to give some backstory, because *The Office* wasn't the first 'old' TV show I experienced. 
 
-# JAG
+### JAG
 
 During our first year of marriage, Allison and I got up and left for work/school at the same time everyday. For whatever reason, one morning I turned on the TV while we were eating breakfast and stumbled upon this show featuring Navy lawyers. Our first 'old' TV show was called [JAG][wikipedia 2], short for "Judge Advocate General". *JAG* was a military drama produced by [Donald Bellisario][wikipedia 3]. The show had a novel concept: [A Few Good Men][wikipedia 4] meets [Top Gun][wikipedia 5]. I had always been attracted to the military, so this show was immediately compelling for me. I was hooked. Allison tagged along initially, but ended up liking the show as much as me.
 
@@ -36,7 +36,7 @@ We watched what little we could on [USA][usanetwork], until we decided we wanted
 
 Allison and I watched *JAG* during special lunches at home together,[^hr]but most often at night while eating dinner. This routine of watching 'old' TV shows at dinner time has become an integral part of my life experience. Sometimes, when I am having a bad day, or when work sucks, my only consolation is that I get to come home and watch TV with Allison.
 
-# Gilmore Girls
+### Gilmore Girls
 
 It took us the better part of 6 months to get through *JAG*. After that, the next 'old' TV show we watched was [Gilmore Girls][wikipedia 6]. Allison followed a bit of this show when she was a teenager. I was hesitant at first. I hadn't heard much about the show, except that it was ostensibly a girl show, about girls, and for girls. She worked on me for a while before I gave in. Eventually I watched my first episode with her, and it was actually quite clever. In fact, I am convinced that [Amy Sherman-Palladino][wikipedia 7]'s writing for *Gilmore Girls* is some of the best 'pop-culture-reference' TV out there.
 
@@ -49,7 +49,7 @@ For most TV shows, the last few seasons are usually the worst. *JAG* and *Gilmor
 
 And for *Gilmore Girls*, [Sherman-Palladino's exit][wikipedia 10] in the last season made for some truly terrible writing. [Lorelei][wikipedia 11] and [Luke's][wikipedia 12] romance was left without a satisfying ending, and the same could be said for [Rory][wikipedia 13]. 
 
-# The Office
+### The Office
 
 Sometime late last year, we started watching our most recent 'old' TV show, [The Office][wikipedia 14]). The show that jump-started [Steve Carell][wikipedia 15]'s career has become, without a doubt, one of my favorite TV shows ever. When we started watching it, I was going through a hectic job transition. I left my job with a [big corporate dental company][pacificdentalservices] in [December][instagram], and was [struggling][theoveranalyzed] to find a something better. I scrounged around, temping here and there, and went on more interviews than any person should have to go through. Things eventually worked out,[^dn] but at the time, I wasn't so sure. Watching this [new-to-me] 'old' TV show seemingly about nothing helped get my mind off of work stress. *The Office* was a happy capstone to my sometimes depressing days.
 

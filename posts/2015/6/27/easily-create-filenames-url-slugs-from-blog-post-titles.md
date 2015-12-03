@@ -4,7 +4,7 @@ Description: I wanted a quick and easy way to select the text in the title of a 
 Tags: Power User, Blogging  
 Image: http://d.pr/i/155iQ+  
 
-# The Problem
+### The Problem
 
 My workflow for naming files has never been anything to write home about. Squarespace had a nifty 'auto-create-a-URL-slug' feature that I sorely missed after transitioning to Camel. For the past month, I had been doing it by hand. And frankly, it was just long and tedious as you can imagine.
 
@@ -29,7 +29,7 @@ It isn't the longest I've ever dreamt up, but it certainly isn't the shortest, e
 
 There had to be a better way.
 
-# The Solution
+### The Solution
 
 I tried a few browser searches, but nothing came up. I decided it would be a good idea to ask the king of scripting (at least amongst my Twitter follow's):
 
@@ -207,7 +207,7 @@ And here's a screenshot of the workflow (it's actually a Service):
 	<figcaption><code>Slugify.workflow</code></figcaption>
 </figure>
 
-# Explanation
+### Explanation
 
 Essentially, what `Slugify.workflow` does is take selected text and automate the changes I was making to the title text previously. It makes uppercase letters lowercase, and it removes spaces and funky characters and replaces them with hyphens.
 
@@ -226,19 +226,17 @@ This couldn't get any easier.
 	<figcaption style="font-style: normal;">😑 &#10142; 😄</figcaption>
 </figure>
 
-# Download
+### Download
 
 You can download `Slugify.workflow` <a href="http://d.pr/f/ra62" title="Download my `Slugify.workflow`">here</a>.
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Fixed Some Errors in Slugify
+### Update: Fixed Some Errors in Slugify
 <p class="updateTime"><time datetime="2015-11-21">November 21, 2015</time></p>
 
 Found some errors in my script, such as not removing commas. So, I fixed that. (For posterity's sake, I left the code above alone.)
 
-</div>
 </aside>
 
 [d]: http://d.pr/i/MDC4+ "Highlighting the post title"

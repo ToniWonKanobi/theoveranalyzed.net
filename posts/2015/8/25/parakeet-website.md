@@ -2,7 +2,7 @@ Title: Parakeet Website
 Date: 2015-08-25 07:11  
 Link: https://dribbble.com/shots/2201459-Parakeet-Website  
 Description: Background-changing navigation elements without JavaScript? Yes, Patrick Gibson is that nifty.  
-Tags: Web Design & Development  
+Tags: Web Design  
 Image: http://d.pr/i/E3zx+  
 
 <figure>

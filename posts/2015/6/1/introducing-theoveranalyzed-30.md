@@ -4,7 +4,7 @@ Description: I spent the past month preparing for my exit from Squarespace, and 
 Tags: Meta, Camel  
 Image: http://d.pr/i/1lvGR+  
 
-Over the course of the next few days (weeks?), I am going to explain how exactly I left Squarespace and transitioned to Casey Liss's static blogging engine, [Camel][github]. I am aptly calling this series **Leaving Squarespace**.
+Over the course of the next few days (weeks?), I am going to explain how exactly I left Squarespace and transitioned to Casey Liss's static blogging engine, [Camel][github]. I am aptly calling this series *Leaving Squarespace*.
 
 I said "weeks" because it might actually take that long to finish the series. I haven't even begun to write the posts. Moreover, moving TheOverAnalyzed to Camel has taken up almost all of my free time over the past two weeks. Because of that, I'm sure I have several links saved to my "Blog Content" folder in Instapaper---links I'm sure I'll want to share in-between these long-winded design pieces. My intent for this series to be part how-to[^for] and part web design philosophy in general.[^ph]
 
@@ -12,15 +12,15 @@ In addition to the loads of Tweet-learning passed to me from both [Casey Liss][t
 
 The tentative outline:
 
-# [Part I: Getting Started With Camel][theoveranalyzed]
+### [Part I: Getting Started With Camel][theoveranalyzed]
 
 In order to start fiddling with Camel, I had to learn some command line tools.
 
-# [Part II: Modifying Files To Play Nice With Camel][theoveranalyzed 2]
+### [Part II: Modifying Files To Play Nice With Camel][theoveranalyzed 2]
 
 Making all my old Markdown files play nice with Camel was easy, but extremely time-consuming.
 
-# [Part III: Making Camel My Own][theoveranalyzed 3]
+### [Part III: Making Camel My Own][theoveranalyzed 3]
 
 Camel came with several nifty Markdown plugins, but I wanted more. 
 

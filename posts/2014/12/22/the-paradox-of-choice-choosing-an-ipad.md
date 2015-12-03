@@ -8,7 +8,7 @@ Barry Schwartz, via [TED Talk][ted]:
 
 > With so many options to choose from, people find it very difficult to choose at all.
 
-# Choice, In General
+### Choice, In General
 
 Ask any libertarian. Scratch that. Ask anyone who values the freedom of choice: Is choice better for us? I had always thought, and continue to think, yes. Of course choice is good. It has been the basis for much of the progression our free American society has undergone. 
 
@@ -22,18 +22,18 @@ So the natural conclusion that follows, then, would be for me to get an iPad. Si
 
 Which takes me to my connundrom:
 
-# Which iPad?
+### Which iPad?
 
 There is not just one iPad. There is a whole *[slew][d]*. Like, over 50 different combinations apparently. And the choice was made more difficult this year (compared to [last year][engadget]), because last year the only real decision to be made was whether one wanted a 7.9" display or a 9.7" display. Besides a slightly less than spectacular [color gamut][anandtech] befalling the iPad mini with Retina display ("iPad mini 2" as of 10/16/14), the [two iPads were almost completely identical][daringfireball]. 
 
 This was going to be harder than I thought. Now I had to decide whether Touch ID was really worth the $100 differential between the iPad mini 2 and 3. It seems most bloggers I trusted agreed it was definitely [not][sixcolors] worth it. Also, would I continue to be happy with the 'below iPad Air 1/2 quality' display if I chose the mini 2 or 3? 
 
-# Less Choice In General?
+### Less Choice In General?
 
 Before I muddle through my final decision-making process, ponder on this:
 Imagine if there were only one Mac desktop to choose from. Or one Mac notebook to choose from? Sure, it would seem terrible because there would be no option to separate power users from casual ones, as there would not be customizable processor upgrades, RAM upgrades, etc. But I postulate this instead: imagine the lack of stress that goes along with that. This is exactly what Barry Schwartz talks about in his [book][apple] (and in his TED Talk liked in this article's title).
 
-# Back To Reality
+### Back To Reality
 
 Getting back to my hypothetical Apple hardware scenario, what if all we had in the decision making process was this simplistic flowchart I devised in two seconds: 
 
@@ -49,21 +49,21 @@ This is where we are now:
 
 After October 16, 2014 there were now many iPads (and relatively [many][d 4] iPhones as of last month) to choose from.
 
-# How I Decided
+### How I Decided
 
-## Firstly
+#### Firstly
 
 The mini sized iPad is just a gem of a device. I ruled out the Air-sized models fairly early on in the decision making process, much as I had done this time last year. I have had all three iterations of the mini iPad: [the original][wikipedia 4], [the Retina-ized version][wikipedia 5], and [the current Touch ID enabled version][wikipedia 6]. Without telling the end from the beginning, suffice it to say that the smaller form factor just works really well for me. It is small enough to one hand very comfortably, and its size differential makes it a lot easier to hold in portrait / reading mode two handed vs the Air models. Yes, it has a slightly more washed out color palette than its bigger brothers as well. But text is *still* supremely amazing compared to the original iPad mini, and reading articles via [Instapaper][apple 2] and [Reeder][apple 3] is a completely enjoyable experience on the mini-sized device with its higher-than-the-Air's pixel density of 326 PPI.
 
-## Secondly
+#### Secondly
 
 I had to decide between the cellular and Wi-Fi only models. I liked the ease of use that the cellular models provide: just unlock the device and I am connected. I can always connect to Wi-Fi if I will be consuming a lot of data, etc. No matter where I am---Wi-Fi or no Wi-Fi---I can use my iPad as [an iPod, as a phone, and as an internet communicator][macrumors]. That said, the cellular models command a $130 premium. That's not necessarily chump change. Moreover, they are also slightly heavier, due to the cellular radios involved. 
 
-## Thirdly
+#### Thirdly
 
 This year, the capacity choices were a little convoluted. [Much has been said][daringfireball 2] about Apple's [seemingly] purely operationally-motivated choice to double up only the second and third tiers of storage, leaving the bottom of the lineup with a measly 16 GB. I had gone back and forth on whether 16 GB was personally viable for me any longer when deciding which iPhone 6 to get. Here's the thing: iOS 8, all by itself, takes up around ~4GB. So, right out of the box, users are left with *maybe* 11-12 GB of actual storage to use. Throw in a couple of big [games][apple 4], a [podwrangling app][apple 5] full of the [best podcasts out there][apple 6], and those 11-12 GB get used up real quickly. Forget about bringing any episodes of your [favorite TV show][apple 7] on the go with only that much storage space. No, 16 GB just would no longer cut it (even with everything in the cloud these days). Therefore, the next step up would have to suffice. In the case of all the Apple mobile stuffs this year, the next jump up from 16 GB is 64 GB. Oh. neat. 
 
-## Finally
+#### Finally
 
 After having an iPhone 5S and subsequently the 6 / 6 Plus, not having the Touch ID sensor on my iPad seemed like a step backwards. Versus swiping and passcode'ing like a heathen, it is just so much easier to thumb that precious sapphire-adorned sensor to unlock my phone. Why would I want any different for my tablet?
 

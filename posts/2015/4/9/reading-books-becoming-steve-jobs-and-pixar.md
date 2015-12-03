@@ -6,7 +6,7 @@ Image: http://d.pr/i/561i+
 
 [Devour][devour] recently featured a [supercut][urbandictionary] of [Pixar][wikipedia] films called "[The Best of Pixar][youtube]." Watching this reminded me of a passage in a book I have been reading recently. But before I talk about that, I should give some backstory.
 
-# Reading Books
+### Reading Books
 
 I'm ashamed to admit that I don't often read books. I blame that on not being forced to read as a kid. I read the bare minimum, just what was necessary to get through elementary school. But that was it. I liked TV and movies more, I suppose. Truthfully, I never really enjoyed reading until high school. I'm thankful I had teacher, Ralph Christie, who exposed us to humanities through the lens of many great literary works. I owe much of my understanding of the world to books I read in high school. And so at that time, reading wasn't the absolute worse thing I had to do. Still, it wasn't a hobby, reading was what I did for school.  
 
@@ -31,7 +31,7 @@ Historically, when I've gone through my whole [Instapaper][instapaper] queue, I 
 	<figcaption>Games are a wonderful time waster.</figcaption>
 </figure>
 
-# Becoming Steve Jobs
+### Becoming Steve Jobs
 
 Not until Becoming Steve Jobs have I considered reading a book in my downtime. Despite my initial protestations and apprehensions regarding reading such a 'big' book, I find it quite relaxing. This is especially true because reading a book doesn't carry with it the emotional baggage of a [completionist][wordnik].
 
@@ -47,7 +47,7 @@ Also, in their attempt to paint Jobs as not *just* an a**hole, the authors seem 
 
 I wasn't privy to all the history and happenings of Apple during the 80's and 90's. Because of that, a lot of what I have read in this book has been taken at face value. I don't have all the backstory that Snell and Siracusa have. So take that with a grain of salt. As far as I can see, much of Schlender's story seems to coincide with what I already knew about the history of Apple between Macintosh and Jobs' second coming. There are other Apple slash Steve Jobs books in my Amazon Wish List. As I go through those, I'll be able to compare and contrast their story with the one that Schlender and Tetzeli have told.
 
-# Pixar
+### Pixar
 
 Now we come back to Pixar. In the chapter "A Side Bet," the authors discuss the time in Jobs life in which NeXT was failing, and he was looking for the next big thing. Luckily for Jobs, the ex-Lucasfilm lot that he financed would eventually revolutionize animated feature films. Pixar's eventual success solidified Jobs' perception that he was doing a decent job as CEO of NeXT[^ne] This, according to the authors, helped galvanize Jobs into what would eventually be the Steve Jobs that brought Apple out of the dark times, and catapulted them to where they are today.
 

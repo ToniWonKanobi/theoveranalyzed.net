@@ -714,7 +714,7 @@ function sendYearListing(request, response) {
 	var retVal = '';
 	retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
 //	retVal += '<header><h2>Posts for ' + year + '</h2></header>';
-	retVal += '<header><h1>Posts from ' + year + '</h1></header>';
+	retVal += '<header><h2>Posts from ' + year + '</h2></header>';
 
 	var currentMonth = null;
 	var anyFound = false;
@@ -738,7 +738,7 @@ function sendYearListing(request, response) {
 					anyFound = true;
 
 					currentMonth = thisDay.getMonth();
-					retVal += '<h2><a href="/' + year + '/' + leadingZero((currentMonth + 1)) + '/"' + 'title="Posts from ' + thisDay.format('{Month}') + '">' + thisDay.format('{Month}') + '</a></h2><ul>';
+					retVal += '<h3><a href="/' + year + '/' + leadingZero((currentMonth + 1)) + '/"' + 'title="Posts from ' + thisDay.format('{Month}') + '">' + thisDay.format('{Month}') + '</a></h3><ul>';
 				}
 
 				day['articles'].each(function (article) {
@@ -1075,7 +1075,7 @@ app.get('/tags', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-		retVal += "<header><h1>Tags</h1></header>";
+		retVal += "<header><h2>Tags</h2></header>";
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );
 		postsByDay.each(function (day) {
 			day['articles'].each(function (article) {
@@ -1104,7 +1104,7 @@ app.get('/tags', function (request, response) {
 		_.each(orderedKeys, function (key) {
 			// Remove spaces from HTML
 			var keyReplace = key.replace(/\s/g,'%20');
-			retVal += '<h2><a href="/tags/' + keyReplace + '">' + key + '</a></h2>';
+			retVal += '<h3><a href="/tags/' + keyReplace + '">' + key + '</a></h3>';
 			retVal += '<ul>';
 			_.each(postsByTag[key], function (post) {
 				retVal += '<li><a href="' + post.url + '">' + post.title  + '</a></li>';
@@ -1143,7 +1143,7 @@ app.get('/tags/:tag', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-		retVal += '<header><h1>' + 'Posts tagged ' + '"' + thetag + '"' + '</h1></header>';
+		retVal += '<header><h2>' + 'Posts tagged ' + '"' + thetag + '"' + '</h3></header>';
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );
 		retVal += '<ul>';
 
@@ -1210,7 +1210,7 @@ app.get('/:year/:month', function (request, response) {
 
 		var html = '';
 		html += performMetadataReplacements([], singleHeaderTemplate([]) );
-		html += '<header><h1>Posts from ' + seekingDay.format('{Month} {yyyy}') + "</h1></header>";
+		html += '<header><h2>Posts from ' + seekingDay.format('{Month} {yyyy}') + "</h2></header>";
 		html += performMetadataReplacements([], postBodyStartTemplate([]) );
 
 		var anyFound = false;
@@ -1219,7 +1219,7 @@ app.get('/:year/:month', function (request, response) {
 			if (thisDay.is(seekingDay.format('{Month} {yyyy}'))) {
 				anyFound = true;
 
-				html += '<h2><a href=' + thisDay.format('{Weekday}, {Month} {d}') + '</a></h2>';
+				html += '<h3><a href=' + thisDay.format('{Weekday}, {Month} {d}') + '</a></h3>';
 				html += "<ul>";
 				day.articles.each(function (article) {
 					html += '<li><a href="' + article.metadata.relativeLink + '" title="' + article.metadata.Title + '">' + article.metadata.Title + '</a></li>';
@@ -1263,7 +1263,7 @@ app.get('/:year/:month/:day', function (request, response) {
 				var html = '';
 				html += performMetadataReplacements([], singleHeaderTemplate([]) );
 				// html += "<header><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
-	            html += "<header><h1>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h1></header>";
+	            html += "<header><h3>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h3></header>";
 				html += "<ul>";
 				var anyFound = false;
 				day.articles.each(function (article) {

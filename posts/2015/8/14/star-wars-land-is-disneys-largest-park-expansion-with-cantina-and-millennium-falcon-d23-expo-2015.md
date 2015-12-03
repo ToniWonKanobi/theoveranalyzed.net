@@ -15,14 +15,12 @@ No word yet as to when the expansion should be finished.
 
 <figure>
 	<img class="wide" src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/star-wars-land-concept-art-2.jpg" alt="Concept image for Star Wars Land" title="Concept image for Star Wars Land">
-	</a>
 	<figcaption><a href="http://www.imsdb.com/scripts/Star-Wars-A-New-Hope.html">"What a piece of junk."</a></figcaption>
 </figure>
 
-<aside>
-<div class="update" id="date-of-completion">
+<aside class="update" id="date-of-completion">
 
-## Update: Date of Completion?
+### Update: Date of Completion?
 <p class="updateTime"><time datetime="2015-08-17">August 17, 2015</time></p>
 
 On the topic of *when*, it seems that there's still no official word. [Peter Sciretta][slashfilm] today wrote further on the matter, offering his speculation as to the park's eventual opening:
@@ -31,7 +29,6 @@ On the topic of *when*, it seems that there's still no official word. [Peter Sci
 >
 > Seven years is a long time to wait, but it seems like Star Wars Land will be rather neat.
 
-</div>
 </aside>
 
 [slashfilm]: http://www.slashfilm.com/star-wars-land-questions/ "More from Peter Scrietta"

@@ -7,7 +7,7 @@ Image: http://d.pr/i/1aSNB+
 
 <figure>
 	<img src="http://d.pr/i/1aSNB+" alt="Han being Han in Empire" title="Han being Han in Empire">
-	<figcaption>Such a <a href="http://www.urbandictionary.com/define.php?term=G&defid=67183" title="Urban Dictionary: 'g'">g</a>.</figcaption>
+	<figcaption>Such a <a href="http://www.urbandictionary.com/define.php?term=G&amp;defid=67183" title="Urban Dictionary: 'g'">g</a>.</figcaption>
 </figure>
 
 Jason Concepcion for Grantland:

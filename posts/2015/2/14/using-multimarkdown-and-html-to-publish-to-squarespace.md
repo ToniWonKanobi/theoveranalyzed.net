@@ -4,7 +4,7 @@ Description: Here's my workflow for blogging using the Squarespace platform.
 Tags: Blogging, Squarespace  
 Video: http://d.pr/v/13oR1+  
 
-## Forward
+#### Forward
 
 I wrote a [piece][theoveranalyzed] a few weeks back regarding all the 'back-end' things one should do in order to implement Bigfoot style footnotes. Briefly, here was that workflow:
 
@@ -16,9 +16,9 @@ What had never occurred to me was that people might find the 'back-end' tasks ea
 
 I have had a few people contact me regarding implementing Bigfoot footnotes into their writing. Rather than continue to answer each of those inquiries on an individual basis, I thought I would write a post that talks about the 'front-end' aspects of my writing. Note that this post will deal with my writing workflow as is, which means it will reference many Squarespace-specific aspects of my workflow. That said, I'm sure most everything I write will be applicable to the other content management services (CMS's) out there.
 
-# The Process
+### The Process
 
-## Step 1: Have an Idea
+#### Step 1: Have an Idea
 
 Everything I write usually starts with an idea. This post I am writing *right now* started with an idea. This sounds like obvious advice, but it really isn't. You have to have a good idea, otherwise you're just writing to write. There's nothing wrong with that, but it certainly won't help to endear yourself to potential readers, unless you are incredibly witty. 
 
@@ -36,7 +36,7 @@ Nobody wants to read brainless content, even if it was produced brainlessly, and
 
 So, have an idea, a *raison d'être* of sorts. 
 
-## Step 2: Decide on a Language
+#### Step 2: Decide on a Language
 
 No, i'm not talking about what spoken/written language you plan on using. I'm talking about deciding how you will type out your thoughts, and how you will then collect them into your blogging platform.
 
@@ -46,27 +46,27 @@ No, i'm not talking about what spoken/written language you plan on using. I'm ta
 
 How you answer the above questions will change how easy it is for you to publish your work.
 
-### A Word Processor
+##### A Word Processor
 
 Most of the great journalists of our time do not use anything beyond a normal word processor in writing all those Pulitzer Prize winning pieces. That is the case because most everyone has at least *some* experience using a word processor like Word, and less so, like Apple Pages. And familiarity breeds content. 
 
 If you want to write using those apps, go for it. *It is by far the easiest way to get your content on the internet.* With Squarespace, you would just do what I suggest above: Type it in your word processor, and then copy and paste that into a Text Block in the New Post window in Squarespace.
 
-### Markdown
+##### Markdown
 
 [Markdown][daringfireball] was developed by John Gruber over ten years ago as an alternative to writing in pure HTML. Somewhat controversially, it has had many [non-standard][ycombinator] re-iterations. But pure, regular ol' Markdown is a great way to write with a more-or-less regular syntax, while having the power to easily convert that to HTML if need-be.[^nb]
 
 Squarespace offers [Markdown Blocks][squarespace], and if you so desire, you can set it so that your default text editor is Markdown instead of the default Rich Text. I used that workflow for a while myself.
 
-### MultiMarkdown → HTML
+##### MultiMarkdown → HTML
 
 I don't think even Gruber himself could have predicted the future popularity of his text parsing engine. Over the years, many---*many*---non-standard iterations of Markdown have been devised (too many to even mention). [MultiMarkdown][fletcherpenney] is about as close as one could get to retaining Gruber's 'standard' Markdown's simplicity, without getting all crazy like some of the other Markdown flavors have done. 
 
 The beauty of MultiMarkdown is that it is parsed to HTML just as easily as standard Markdown. Because of this, **I use MultiMarkdown almost anytime I write.** If you want to do the same, continue reading.
 
-## Step 3: Find an App That Supports Your Writing Style
+#### Step 3: Find an App That Supports Your Writing Style
 
-### Choices
+##### Choices
 
 A few years ago, [third-party alternatives to the standard iOS app were becoming very popular][gizmodo]. When the App Store launched in 2008, developers clamored to create apps better than Apple's stock ones. First it was [email][sparrowmailapp], then later on it was [podcast apps][shiftyjelly]. Before that, though, it was notes apps. 
 
@@ -78,15 +78,15 @@ I bought several different apps, and both OS X, iPad, and iPhone versions if the
 * [Simplenote][simplenote]
 * [Vesper][vesperapp]
 
-### Backstory
+##### Backstory
 
 When I started writing more heavily late last year, I was writing everything from within the Squarespace editor, using their Text Blocks (Rich text). The problem with that is the posting window is beholden to a sufficient and constant internet connection, and if that connection were to break, so would all of my progress since the last save.
 
-### Byword
+##### Byword
 
 I knew I needed a way to write without the constant worry of hoping Squarespace wouldn't drop the connection, and I knew I wanted to rid myself of constantly having to remember to save my work. So I went back to some of those notes apps I purchased a while ago and started with Byword. It seemed to work well enough for me. I would write in plain text, and then copy and paste that into a Text Block in Squarespace's post editor. 
 
-### Learning Markdown, MultiMarkdown
+##### Learning Markdown, MultiMarkdown
 
 Things really started heat up for me when I forced myself to use some Markdown syntax. The main motivator for using Markdown was that I wanted to start writing with footnotes. Before that, a lot of my writing included many [en-/em- dashes][wikipedia], and much of my writing was [parenthetical][steves-digicams]. There's nothing completely wrong about that, it just made everything I wrote even more long-winded than it already was.[^lw] I kept using Byword during this transition, typing in Markdown in that app, and then simply copy and pasting that into a Markdown Block in Squarespace. 
 
@@ -102,16 +102,16 @@ There it was: the explanation I was looking for.
 
 Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview things in HTML mode, and footnotes looked great, it was because Byword was able to parse that MultiMarkdown into the correct HTML in their own window. Squarespace, on the other hand, does *not* support MultiMarkdown, just standard Markdown. So when I would paste the [Multi]Markdown into the Squarespace editor, Squarespace just saw it as standard Markdown, and since standard Markdown doesn't support footnotes, they never worked.
 
-### The Solution
+##### The Solution
 
 1. Convert [Multi]Markdown written within Byword to HTML and copy it to the clipboard
 2. Create a Code Block within Squarespace's post editor
 3. Paste the previously copied HTML into the Code Block
 4. And that's it!
  
-# Example Workflow
+### Example Workflow
 
-## Text-Based How-To
+#### Text-Based How-To
 
 1. Here is the *text* for which I would like to add a footnote:  
 	
@@ -152,7 +152,7 @@ Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview
 
 5. Finally, paste that HTML into Code Block from the Squarespace post editor
 
-## Video-Based How-To
+#### Video-Based How-To
 
 1. Here is the *text* for which I would like to add a footnote:
 
@@ -168,29 +168,27 @@ Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview
 	
 3. Typing with MultiMarkdown Syntax in Byword
 
-	<video id="Byword MMD" src="http://d.pr/v/18FFK+" controls></video>
+	<video id="byword-mmd" src="http://d.pr/v/18FFK+" title="Byword MMD" controls></video>
 	
 4. Using Byword to Convert The Text to HTML
 
-	<video id="Byword to Convert to HTML" src="http://d.pr/v/13oR1+" controls></video>
+	<video id="byword-mmd-to-html" src="http://d.pr/v/13oR1+" title="Byword to Convert to HTML" controls></video>
 	
 5. Pasting the Previously Copied HTML into a Code Block in Squarespace
 
-	<video id="Taking HTML to Code Block" src="http://d.pr/v/SSVK+" controls></video>
+	<video id="to-code-block" src="http://d.pr/v/SSVK+"  title="Taking HTML to Code Block" controls></video>
 
-# Conclusion
+### Conclusion
 
 As you can see, my workflow is not that complicated. Byword makes things incredibly easier than typing in straight HTML. Imagine how much time John Siracusa puts into his [OS X reviews][arstechnica]?[^sir]
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Back to Byword
+### Update: Back to Byword
 <p class="updateTime"><time datetime="2015-03-04">March 4, 2015</time></p>
 
 Since writing this post, I [have switched from Byword to MultiMarkdown Composer][swit] for my text editor.  I also no longer use `Code blocks` for my content---I am using `Markdown blocks` instead. I just paste the raw HTML parsed from MultiMarkdown Composer into a `Markdown block`, just like I was doing previously with `Code blocks`. Because editing content in `Code blocks` required a desktop browser, I was stuck waiting until I could get to my MacBook before fixing a typo I noticed after publishing. Using the `Markdown blocks` allows me to edit posts on the go from the Squarespace iOS [Blog][apple] app. See my [post][swit] for details. 
 
-</div>
 </aside>
 
 [^ci]: These steps are arguably the hardest part of implementing Bigfoot footnotes. Most early bloggers are like myself---they don't know *any* HTML. They don't know any JavaScript, either.

@@ -9,9 +9,9 @@ Russ Fischer of /Film on the Star Wars: The Force Awakens panel at Comic Con 201
 
 > [Director] J.J. Abrams and Lucasfilm president Kathleen Kennedy did not arrive empty-handed. In addition to a roster of cast and crew, the two brought a behind the scenes reel that ran a few minutes.
 
-The offical Star Wars twitter shared as much last night:
+The official Star Wars twitter shared as much last night:
 
-<blockquote lang="en"><p lang="en" dir="ltr">We&#39;re going in! A video just revealed at <a href="https://twitter.com/Comic_Con" title="Comic Con on Twitter">@Comic_Con</a> takes you behind the scenes of <a href="https://twitter.com/hashtag/StarWars?src=hash" "Tweets with hashtag 'StarWars'">#StarWars</a>: TheForceAwakens. <a href="https://twitter.com/hashtag/SDCC?src=hash" "Tweets with hashtag 'SDCC'">#SDCC</a>&#10;<a href="https://t.co/ASq8xrIKrF" title="Star Wars: The Force Awakens Comic Con 2015 trailer">https://t.co/ASq8xrIKrF</a></p>&mdash; Star Wars (@starwars) <a href="https://twitter.com/starwars/status/619684902762516480" title="Official Star Wars account tweet">July 11, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr">We&#39;re going in! A video just revealed at <a href="https://twitter.com/Comic_Con" title="Comic Con on Twitter">@Comic_Con</a> takes you behind the scenes of <a href="https://twitter.com/hashtag/StarWars?src=hash" title="Tweets with hashtag 'StarWars'">#StarWars</a>: TheForceAwakens. <a href="https://twitter.com/hashtag/SDCC?src=hash" title="Tweets with hashtag 'SDCC'">#SDCC</a>&#10;<a href="https://t.co/ASq8xrIKrF" title="Star Wars: The Force Awakens Comic Con 2015 trailer">https://t.co/ASq8xrIKrF</a></p>&mdash; Star Wars (@starwars) <a href="https://twitter.com/starwars/status/619684902762516480" title="Official Star Wars account tweet">July 11, 2015</a></blockquote>
 
 Via voiceover, Mark Hamill:
 

@@ -9,15 +9,15 @@ Image: http://practicaltypography.com/images/index-a.svg
 	<figcaption>No one ever gets <a href="http://practicaltypography.com/semicolons-and-colons.html">these</a> right.</figcaption>
 </figure>
 
-## Forward
+#### Forward
 
 When [Matthew Butterick][wikipedia] launched [Practical Typography][practicaltypography] in 2013, my concept of the ideal desktop writing experience was [rich text][wikipedia 2] (via [Pages.app][wikipedia 3]).[^pages] Back then, I hadn't even started blogging. I knew nothing about [plain text][wikipedia 4], [Markdown][wikipedia 5], [HTML][wikipedia 6], [CSS][wikipedia 7], or [JavaScript][wikipedia 8].[^yes] Things are a little different now. 
 
 Practical Typography is an absolute gold-mine of a writing resource. I'm not alone in that [assessment][macsparky]. Butterick's ideas on simple and clear writing is presented in a pseudo-online book format, unsurprisingly set in [wonderful typography][practicaltypography 2]. I want to share some of the things I learned from his tutorial, as well as encourage you to check it out for yourself.[^im]
 
-# Fixing Bad Habits
+### Fixing Bad Habits
 
-## Dashes
+#### Dashes
 
 It took me all of about ten minutes to dive into the section on [hyphens and dashes][practicaltypography 3]---a subject I was convinced I had mastered previously. Turns Out&trade; I was wrong.
 
@@ -56,7 +56,7 @@ There were a couple things wrong with my previous usage of hyphens instead of da
 	<!-- I could have used `<mark>` here, but I was too lazy -->
 	<pre>Prose&mdash;aside&mdash;back to prose.</pre>
 
-### What's the difference between *en* and *em* dashes?
+##### What's the difference between *en* and *em* dashes?
 
 Both dashes have different uses.[^int] As stated previously, em dashes are for separating the main text and an aside. It's sort of like a baby-version of a semicolon.[^sc] 
 
@@ -84,7 +84,7 @@ En dashes are appropriate to signify a range of values, such has the year range 
 
 According to Butterick, this nasty habit of writers using double-hyphens in place of actual em dashes was born from the [typewriter days][practicaltypography 4]. After a simple Finder search,[^ma] I spent about an hour or so going through ~50 or so Markdown documents, quickly changing all the instances of inappropriate double hyphens ` -- ` and  changing them instead to the correct em dashes <span><code>&mdash;</code></span>.
 
-## Font Sizes
+#### Font Sizes
 
 Butterick also had good advice as far as header (`<h1>`, `<h2>`, etc.) font sizes. Previously, for `.entry` ("body text") `<h1>`'s, I was using a font size 175% (`font-size: 1.75em`) of the normal body text, and 150% for `<h2>`'s (`font-size: 1.5em`). This was simply too big. 
 
@@ -128,10 +128,9 @@ I spent some time scaling-down the inflated heading sizes, and while doing so, e
 
 I'm bound to spend more time with Butterick's Practical Typography. There's just so much to digest. What is reassuring to me is that I had already been practicing a lot of his suggestions. That said, I'm sure this will prove a valuable resource for me in the future.
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: The Mistakes/Styles of Other Writers
+### Update: The Mistakes/Styles of Other Writers
 
 After publishing this post, I stumbled upon an old [article][macworld 2] from Jason Snell, former *editorial director* for Macworld:
 
@@ -143,7 +142,6 @@ And check out the [latest][vox] from Ezra Klein---*editor-in-chief* for Vox:
 
 Now, admittedly, it could be argued that how a writer uses en/em dashes (e.g., with or without spaces on either side) is completely subjective. But according to Butterick, Snell and Klein have it all wrong! Looks like I wasn't alone in my incorrect usage of en/em dashes.
 
-</div>
 </aside>
 
 [^but]: But still not perfect. Keep reading.

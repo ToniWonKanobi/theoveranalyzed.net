@@ -1,16 +1,16 @@
 Title: Connect  
 Description: Use this page to connect with TheOverAnalyzed on social media, etc.  
 
-## Twitter
+### Twitter
 
 The author [@toniwonkanobi][twitter]  
 The site [@TheOverAnalyzed][twitter 2]
 
-## Email
+### Email
 
 If you have questions, concerns, or any other feedback, you can send me an email at <anthony@theoveranalyzed.net>
   
-## RSS
+### RSS
 
 You can subscribe to the full-text RSS feed: <http://www.theoveranalyzed.net/rss>
 

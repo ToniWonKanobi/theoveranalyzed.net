@@ -3,9 +3,9 @@ Date: 2015-02-25 16:00
 Description: Apple Watch is going to be important. But is it *that* important? Here are my thoughts.  
 Tags: Apple Watch  
 
-# Thoughts on Price
+### Thoughts on Price
 
-## John Gruber's Opinion
+#### John Gruber's Opinion
 
 My primary source for price information comes from John Gruber, whose [initial price projections][daringfireball] have been widely accepted amongst the Apple developer/nerd community:
 
@@ -21,7 +21,7 @@ Since his initial [post][daringfireball 2], he has modified his estimates somewh
 
 Wow.
 
-## My Opinion *Then*
+#### My Opinion *Then*
 
 I was previously of the camp that Gruber had overshot things.
 
@@ -31,7 +31,7 @@ Here's how I thought prices may end up:
 * Apple Watch: $499
 * Apple Watch Edition: $2,000
 
-## My Opinion *Now*
+#### My Opinion *Now*
 
 More and more, and with every passing day full of Apple Watch rumors, the writing on the wall sure seems to be this: *Gruber was much closer to the truth than I previously thought.*
 
@@ -41,13 +41,13 @@ What we don't know beyond that is ...a lot.
 
 Besides the starting price, everything else is up in the air. 
 
-# Questions Regarding the Collections
+### Questions Regarding the Collections
 
-## Who Is the Sport Model For?
+#### Who Is the Sport Model For?
 
 It is for people who either don't have a lot of money to spend, or do not want to spend a lot of money on a new platform, even one from our favorite fruit company. Gruber and John Moltz both seem set on getting the Sport model for this very reason.[^jm] They aren't sold on the viability of an Apple Watch yet, and thus, do not want to spend a lot of money on the 1.0 product. I have [friends][twitter] who feel the same way. 
 
-## Who Is the Standard Model For?
+#### Who Is the Standard Model For?
 
 The regular model for the people like me. It is for people who buy new iPhones every year, [^ey] and likely buy new iPads and/or Macs every year as well. Thanks to the generally low depreciation of Apple hardware, I am usually able to upgrade to new equipment at a rather trivial cost. 
 
@@ -59,7 +59,7 @@ Still. $1,000?
 
 Hear me out. It makes sense for Apple to keep the price of the stainless mid-tier model *somewhat* affordable. $1,000 is *just* at the border past which even fans like me might go for the Sport model. $500 would be even better. And Apple might even do that. They could have a $700 price point for the standard model with the Sport band, and maybe $1,300 for the standard model with the link bracelet. Who knows. And at an average selling price (ASP) of ~$1,000, they are in solid upper-end quartz territory. In the decent-ish quartz watch market, $1,000 isn't chump change, but it's also quite far from Rolex territory. Around this price point, it doesn't seem *completely* outrageous to spend this kind of money on ...a watch.[^aw]
 
-## Who Is the Edition Model For?
+#### Who Is the Edition Model For?
 
 This is what I really wanted to talk about.
 
@@ -77,13 +77,13 @@ Almost all of my questions I get go something like this:
 
 Let's focus on those last few questions.
 
-### 1. How can they expect people to spend that much money?
+##### 1. How can they expect people to spend that much money?
 
 That's easy. They're Apple. They have [never shied away from asking consumers to pay more than what they might have expected to pay][lowendmac]. There have been exceptions,[^be] but Apple is not afraid of high margins. They have built their entire business on high margins. You need low production costs *and* high ASPs to achieve such margins.[^sm]
 
 The people who might by the Edition model are the same people who bought the [Lisa][wikipedia]. They are the same people who bought into [NeXT][wikipedia 2]. Simply put, they could care less about astronomical costs: they just want the best.
 
-### 2. Will it be gold plated or solid gold?
+##### 2. Will it be gold plated or solid gold?
 
 Again, this doesn't matter when you're filthy rich. Whether or not the Apple Watch Edition was made form solid or plated gold is inconsequential. Whether it is made from palladium or platinum or [adamantium][wikipedia 3] also doesn't bear on the conversation. 
 
@@ -97,7 +97,7 @@ Most of us aren't in that super rich category. We are in the aforementioned idio
 
 Edition isn't for us, it's for them. 
 
-### 3. Will it be upgradable?
+##### 3. Will it be upgradable?
 
 This is probably the most compelling argument for *not* getting the Edition, even if you are super rich. 
 
@@ -107,7 +107,7 @@ $20,000 sounds crazy at that point.
 
 But, that assumes you are like most of us. The rich people who are going to buy the Edition aren't us. They are rich people who could care less about dropping *another* $20,000 on Version 2.0 if need-be. Edition It is for people who do not have to justify their outrageous purchases. Edition is for the [0.01%][bloombergview]. Edition It is for people who buy Swiss mechanical watches [costing more than the latest 911][therichest]. Edition is for people who have both the F40 *and* the F50[^ff] in their garage. Simply put, the Edition model is for people who are rich.
 
-# Further Discussion
+### Further Discussion
 
 Much of the discussion about Edition---and Apple Watch as whole for that matter---makes more sense when viewed from a *fashion/luxury*-oriented point of view, rather than a purely technology-centric point of view.
 

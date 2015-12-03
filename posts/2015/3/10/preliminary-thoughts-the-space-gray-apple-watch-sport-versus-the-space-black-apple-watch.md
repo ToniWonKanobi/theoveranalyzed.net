@@ -3,27 +3,27 @@ Date: 2015-03-10 15:00
 Description: I'm still deciding between Watch Sport and the Watch collection.  
 Tags: Reviews, Apple Watch  
 
-# Introduction
+### Introduction
 
 Ever since the keynote yesterday morning, I have been trying to make two important decisions as they relate to Apple Watch:
 
 1. What size to get: [38mm or 42mm][theoveranalyzed]?
 2. From which collection I should choose: Apple Watch Sport or Apple Watch?
 
-# Size
+### Size
 
 I just measured my wrist and, unsurprisingly, my 168 mm circumference lands right in the not-so-sweet spot of 'too big for 38 mm' and 'too small for 42 mm.' I suppose I just need to decide how gaudy I want this new wrist-borne screen to look on me.[^wh][^up]
 
 It's the second question I have more trouble with. 
 
-## Watch or Watch Sport?
+#### Watch or Watch Sport?
 
 <figure>
 	<img class="screenshot" src="http://d.pr/i/1jzlL+" alt="Apple Watch Space Black" title="Apple Watch Space Black">
 	<figcaption>For the longest time, it was going to be this.</figcaption>
 </figure>
 
-## Apple Watch
+#### Apple Watch
 
 Let's face it: The "[Space Black Stainless][apple]" is the one to get. It's mysterious, it's handsome, and most importantly, it's black. 
 
@@ -36,7 +36,7 @@ As an aside, I don't remember Apple Watch in Space Black Stainless being so dang
 	<figcaption>This looks really nice too, though.</figcaption>
 </figure>
 
-## Apple Watch Sport
+#### Apple Watch Sport
 
 Truthfully, try as I might, I can't help but fee like Apple Watch's Space Black has at least *twice* the visceral appeal of Apple Watch Sport. 
 
@@ -44,7 +44,7 @@ Still, the Apple Watch Sport in "Space Gray" is no laughing matter. It is quite 
 
 Another benefit to choosing Apple Watch Sport is that the fluoroelastomer band[^rub] is somewhat size-adaptive. This is in contrast to the link bracelet of the Apple Watch collection, which is apparently *just* '[one-size-fits-all][d].'[^sou] How can a single-sized link bracelet work for both the small-wristed and the large-wristed person? Does one have to take into consideration the band size when deciding between the 38 mm and 42 mm cases? What if the face of the 42 mm works best on the face of things, but the band size of the 38 mm is best for the wrist circumference? Now, obviously, I could buy the Apple Watch in Space Black Stainless and just get a black fluoroelastomer band for running. In fact, this is what I had planned to do all along. But if the link bracelet---the *defining* band of the Space Black Stainless model---is loosey-goosey on my wrist, what's the point of getting the link bracelet at all?
 
-# Decisions, Decisions
+### Decisions, Decisions
 
 I'll leave you with this, a conversation with a friend who knows me all too well. We were talking about which case size to get, but really, I could apply his advise to almost every Apple hardware decision I have ever made:
 
@@ -53,10 +53,9 @@ I'll leave you with this, a conversation with a friend who knows me all too well
 	<figcaption>Touche.</figcaption>
 </figure>
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Link to Useful Mockups
+### Update: Link to Useful Mockups
 <p class="updateTime"><time datetime="2015-03-12">March 12, 2015</time></p>
 
 Casey Liss [linked][caseyliss] to this [post][exactfitnessapps] by fitness company Exact Fitness, in which you can print out a mockup, cut it out, and 'try on' an Apple Watch in whatever size/band choice you are considering.
@@ -64,15 +63,15 @@ Casey Liss [linked][caseyliss] to this [post][exactfitnessapps] by fitness compa
 I used something similar last September when there were [suddenly][thenextweb] *two* iPhone sizes to choose from.
 
 <figure>
-	<img class="screenshot" src="http://d.pr/i/10oi3+" alt="Mockups" title="Mockups" width="80%">
+	<img class="screenshot" src="http://d.pr/i/10oi3+" alt="Mockups" title="Mockups" style="width: 80%;">
 	<figcaption>Mockups</figcaption>
 </figure>
 
-</div>
+</aside>
 
-<div class="update">
+<aside class="update">
 
-## Update: Links Are Removable
+### Update: Links Are Removable
 <p class="updateTime"><time datetime="2015-03-12">March 12, 2015</time></p>
 
 I found this little nugget of knowledge regarding the Apple Watch link bracelet:
@@ -82,7 +81,6 @@ I found this little nugget of knowledge regarding the Apple Watch link bracelet:
 	<figcaption>From <a href="http://howtospendit.ft.com/articles/77791-the-man-behind-the-apple-watch">this</a> interview with Jony Ive by Nick Foulkes</figcaption>
 </figure>
 
-</div>
 </aside>
 
 [^wh]: Where `gaudiness` and `case diameter` are directly proportional `∝`

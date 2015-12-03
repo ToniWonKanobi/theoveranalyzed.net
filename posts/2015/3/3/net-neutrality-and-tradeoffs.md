@@ -40,17 +40,15 @@ While paying more per month is never an ideal situation, I think privacy and net
 
 Here's Nilay Patel and Chris Plant discussing Net Neutrality's big development last week:
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/193999672&color=ff5500"></iframe>
+<iframe height="166" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/193999672&amp;color=ff5500"></iframe>
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Netflix is a Hypocrite
+### Update: Netflix is a Hypocrite
 <p class="updateTime"><time datetime="2015-03-04">March 4, 2015</time></p>
 
 <blockquote><p>So everyone has discovered that Netflix is a net neutrality hypocrite: <a href="http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl" title="The Verge commenting on Netflix and net neutrality">http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl</a>&#10;&#10;Told you so a year ago <a href="https://stratechery.com/2014/netflix-net-neutrality/" title="Ben Thompson on net neutrality">https://stratechery.com/2014/netflix-net-neutrality/</a></p>&mdash; Ben Thompson (@monkbent) <a href="https://twitter.com/monkbent/status/573141062073520128" title="Ben Thompson telling us he was right about this a year ago">March 4, 2015</a></blockquote>
 
-</div>
 </aside>
 
 [^nna]: The one made [here][theoveranalyzed]

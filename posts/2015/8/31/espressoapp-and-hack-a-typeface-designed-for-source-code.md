@@ -1,7 +1,7 @@
 Title: Espresso Web Editor and Hack, a Typeface Designed for Source Code  
 Date: 2015-08-31 08:39  
 Description: Tired of Monaco or Menlo fonts for your monospace code blocks? Hack is for you.  
-Tags: Typography, Apps, Web Design & Development  
+Tags: Typography, Apps, Web Design  
 Image: http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png  
 
 <figure>
@@ -9,7 +9,7 @@ Image: http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08
 	<figcaption><a href="http://macrabbit.com/espresso/" title="Link to the developers of Espresso">Espresso</a> has a permanent place on my Dock because it's awesome.</figcaption>
 </figure>
 
-# Espresso, the "Web Editor" for Mac
+### Espresso, the "Web Editor" for Mac
 
 My code editor of choice has been with me since my [Squarespace][theoveranalyzed] days. The Squarespace [Developer Platform][squarespace] allowed either [Git][wikipedia] or [SFTP][wikipedia 2] methods for making changes to Developer Platform sites. Because I was---and in a lot of ways still am---a Git newbie, I chose SFTP instead. At the time, I wasn't sure what that even meant, so I went to YouTube for clues. I stumbled upon this [video][youtube], in which the author explained how to use the Developer Platform via SFTP using [Espresso][macrabbit], a Mac application by [MacRabbit][macrabbit 2]. 
 
@@ -29,7 +29,7 @@ And what is especially nice about Espresso is their default custom font, Espress
 	<figcaption>Espresso Mono: the number <code>0</code> versus the letter <code>O</code></figcaption>
 </figure>
 
-# In the Spirit of Espresso Mono Comes Hack
+### In the Spirit of Espresso Mono Comes Hack
 
 Why am I writing about an infrequently-updated "web-editor?" Because of its aforementioned typeface, Espresso Mono. I wish Espresso Mono was available as a webfont. Web designers have [plenty][typography] of [font foundries][fontbureau] to go to for great webfonts. But this isn't the case for monospace fonts---fonts most web designers use for source code.
 

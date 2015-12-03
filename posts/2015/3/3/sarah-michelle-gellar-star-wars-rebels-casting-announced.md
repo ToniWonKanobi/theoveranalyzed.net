@@ -11,10 +11,9 @@ Peter Sciretta, for /Film:
 
 Star Wars Rebels, the [critically acclaimed][slashfilm] new series, concluded its first season last night, and boy was it great. I'm excited to see what the writers do with whomever Gellar will portray.[^g] I won't spoil it for you. [See it for yourself][apple]. 
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Gellar to Play Leia?
+### Update: Gellar to Play Leia?
 <p class="updateTime"><time datetime="2015-09-27">September 27, 2015</time></p>
 
 Maybe Gellar won't be playing Kanan's love interest, [after all][wikipedia]?
@@ -27,11 +26,11 @@ From an Instagram photo, here's Sarah Michelle Gellar:
 
 [From [Rebels Report][rebelsreport]]
 
-</div>
+</aside>
 
-<div class="update">
+<aside class="update">
 
-## Update: Nope, She's Not Playing Leia
+### Update: Nope, She's Not Playing Leia
 <p class="updateTime"><time datetime="2015-10-02">October 2, 2015</time></p>
 
 Keely Flaherty, for [BuzzFeed][buzzfeed]:
@@ -42,7 +41,6 @@ So there you go. My hypothesis was completely incorrect, after all.
 
 [From [/Film][slashfilm2]]
 
-</div>
 </aside>
 
 [^g]: I'm going to go on record right now and suggest that Gellar will play a love interest for [Kanan][wikia]. After all, it would only [make sense][huffingtonpost].

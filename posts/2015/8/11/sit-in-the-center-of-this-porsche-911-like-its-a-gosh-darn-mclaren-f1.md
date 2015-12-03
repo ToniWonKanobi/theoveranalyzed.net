@@ -16,7 +16,7 @@ In 2012, the Porsche Club of America featured the first-ever [Centro 911][wired]
 
 <figure>
 	<img src="https://d2vuc6owleku2s.cloudfront.net/auctions/ca0815/ca0815-219883/images/ca0815-219883_5.jpg" alt="Moving everything to the right" title="Moving everything to the right">
-	<figcaption>Not a hack job by any means. But not exactly <a href="http://www.urbandictionary.com/define.php?term=oem&defid=1905259" title="Urban Dictionary: OEM">OEM</a>, either.</figcaption>
+	<figcaption>Not a hack job by any means. But not exactly <a href="http://www.urbandictionary.com/define.php?term=oem&amp;defid=1905259" title="Urban Dictionary: OEM">OEM</a>, either.</figcaption>
 </figure>
 
 From the auction's description:

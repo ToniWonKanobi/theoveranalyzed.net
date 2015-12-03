@@ -15,16 +15,15 @@ Video: https://g-design.storage.googleapis.com/production/v5/assets/g-header.mp4
 
 I was going to spend my time bemoaning Google's overtly geometric sans-serif font choice, but then I watched this:
 
-<video src="https://g-design.storage.googleapis.com/production/v5/assets/g-voice-flow.mp4" alt="Voice Search Flow" poster="http://d.pr/i/1fu8s+" preload="metadata" controls title="Google's explanation for their new logo"></video>
+<video src="https://g-design.storage.googleapis.com/production/v5/assets/g-voice-flow.mp4" poster="http://d.pr/i/1fu8s+" preload="metadata" controls title="Google's explanation for their new logo"></video>
 
 Wow---the logotype looks *much* better in the full [Material Design][google] setting. Bravo, Google.[^still]
 
 [From [Stefan Constantine][twitter]]
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Everyone Hates It
+### Update: Everyone Hates It
 
 Apparently I didn't hate it as much as [some][kottke] [people][twitter 2].
 	
@@ -32,7 +31,6 @@ Apparently I didn't hate it as much as [some][kottke] [people][twitter 2].
 
 > According to [Fast Company][fastcodesign] the new font is Google's own creation, called "Product Sans."
 
-</div>
 </aside>
 
 [^still]: I still wish they would have chosen a less "perfect" sans-serif, but I'm partial to [~serif fonts hiding beneath the "sans-serif" banner][typography]. 

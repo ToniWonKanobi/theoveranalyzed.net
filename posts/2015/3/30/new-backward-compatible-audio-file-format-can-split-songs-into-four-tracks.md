@@ -11,12 +11,12 @@ Chris Ziegler, reporting for The Verge:
 
 Two use-cases: 
 
-### 1. Learning How To Play A Song
+#### 1. Learning How To Play A Song
 
 I am often tasked with learning how to play a new song. Ideally, I would prefer to hear the bass track all by itself, and use that in conjunction with looping the difficult phrases of the *complete* song in order get it down pat. Unfortunately, that's easier said than done. Isolating individual instruments in a track has always been cumbersome. There *have* been some rather [novel attempts][supermegaultragroovy] at cracking this long-standing problem. Still, when it comes to
 learning how to play a particular instrument's part in a song, there is simply no replacement for doing so with said instrument isolated. Stem makes that possible. 
 
-### 2. Listening While Working
+#### 2. Listening While Working
 
 On the [latest Upgrade][overcast], Jason Snell and Myke Hurley discussed listening to audio content while working. They felt there were certain types of audio content that lent itself better to getting things done. 
 

@@ -4,7 +4,7 @@ Description: Although I haven't been posting regularly for the past year, it fee
 Tags: Meta  
 Image: https://scontent-lax3-1.cdninstagram.com/hphotos-xtf1/t51.2885-15/e15/1598915_892793347438828_559123465_n.jpg  
 
-# First, Thanks.
+### First, Thanks.
 
 I started this site [around a year ago][theoveranalyzed] as an outlet to both collect and share my thoughts on technology and the ensuing pop culture. Because it is an anniversary of sorts, I wanted to share some of the statistics available to me:
 
@@ -18,7 +18,7 @@ This site was a big checkmark off of my bucket list. I remember listening to the
 
 So, yay.
 
-# Next
+### Next
 
 Another bucket list item I have is hosting my own **podcast**. In these times of the [second/third podcast renaissance][theoveranalyzed 2], podcasting is easier than ever. Squarespace [practically does it for you][squarespace]. At some point I will to do that.
 
@@ -29,13 +29,13 @@ Ever since getting really into Apple around ten years ago, I have always wanted 
 
 So how could I go about learning a programming language? 
 
-# Experts Say
+### Experts Say
 
 It seems there is no silver bullet to learning a programming language. Everyone learns things differently. However,  [Casey Liss][caseyliss] and the rest of the ATP guys have some [thoughts on this topic][atp 2]. 
 
 Their take on the best way to learn a language? 
 
-# Try to Solve a Problem
+### Try to Solve a Problem
 
 Instead of aimlessly writing code for the sake or writing code, why not write code for a purpose? For example, create a website. Or make an application?
 
@@ -45,7 +45,7 @@ For the longest time, I struggled with this. I didn't have any problems I though
 
 All that's left is to make it. 
 
-# The End
+### The End
 
 So forcing myself to sit down and write an app will accomplish my goal of learning a language, but in a backwards sort of way. That's okay. Sometimes I wonder if I am destined to do everything the hard way. Learning Objective-C and/or [Swift][wikipedia 2] certainly wouldn't garner upon myself that venerable moniker of "programmer" I mentioned earlier, but it will go a long way. 
 

@@ -1,16 +1,7 @@
-			<!-- start day loop -->
 			<section class="day">
-			<!-- for screen readers -->
-			<h1 class="day" hidden>Day</h1>
-				<section class="articles">
-				<!-- for screen readers -->
-				<h1 class="articles" hidden>Articles</h1>
-					{{#each articles}}
-						{{> article}}
-
-						<hr class="articleSeparater">
-
-					{{/each}}
-				</section>
+			<h2>Posts for This Day</h2>
+				{{#each articles}}
+					{{> article}}
+					<hr class="articleSeparator">
+				{{/each}}
 			</section>
-			<!-- end day loop -->

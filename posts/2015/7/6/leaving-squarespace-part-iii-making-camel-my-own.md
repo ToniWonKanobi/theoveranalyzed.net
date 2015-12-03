@@ -1,12 +1,12 @@
 Title: Leaving Squarespace Part III: Making Camel My Own  
 Date: 2015-07-06 10:27  
 Description: Casey Liss's Camel made for excellent starting point for this blog. I added some extra things to make it my own.  
-Tags: Meta, Camel  
+Tags: Meta, Camel, Leaving Squarespace  
 Image: http://d.pr/i/1d63D+  
 
-<p><em class="topStory">When I started trying to figure out Camel, all I knew was that it was going to be both more open and easier to tweak than Squarespace. Little did I know that I would discover several additional 'extras' that would make my version of Camel the perfect blogging platform for me. As always, check Roger Stringer's thorough post <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/" title="Roger Stringer's post on how to set Camel up">here</a> for more in-depth information, such as how to install <code>npm</code> and <code>node</code>.</em></p>
+<p><em class="topStory">This is the final post in the series entitled <a href="tags/Leaving%20Squarespace" title="Posts tagged 'Leaving Squarespace'">Leaving Squarespace</a>. If you haven't already done so, you should read the <a href="/2015/6/17/leaving-squarespace-part-I-getting-started-with-camel" title="Link to Part I of 'Leaving Squarespace'">first</a> and <a href="/2015/6/26/leaving-squarespace-part-ii-modifying-files-to-play-nice-with-camel" rel="previous" title="Link to the second post in the series 'Leaving Squarespace'">second</a> posts in the series before reading this post. When I started trying to figure out Camel, all I knew was that it was going to be both more open and easier to tweak than Squarespace. Little did I know that I would discover several additional 'extras' that would make my version of Camel the perfect blogging platform for me. As always, check Roger Stringer's thorough post <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/" title="Roger Stringer's post on how to setup Camel">here</a> for more in-depth information, such as how to install <code>npm</code> and <code>node</code>.</em></p>
 
-# Updating Camel's Default Dependencies
+### Updating Camel's Default Dependencies
 
 Before starting with the rest of the post, you should update Camel's version of `markdown-it` to the latest version available on [npmjs][npmjs]. This is crucial because several plugins discussed in this post require a newer version than what Camel comes with [by default][github]. 
 
@@ -27,7 +27,7 @@ Here's how to do that:
 	
 You can now proceed with installing these additional `markdown-it` plugins.
 
-# Header Anchors
+### Header Anchors
 
 [`markdown-it-anchor`][npmjs 2] is a `markdown-it` plugin that creates headers-based permalinks in the parsed HTML. This is similar to what [GitHub has all over its site][d 2]. Essentially, `markdown-it-anchor` looks through the Markdown document for header markers (`#`) and then creates permalinks to those headers, displaying them only on `a:hover` (at least in my CSS). 
 
@@ -103,7 +103,7 @@ Note the `#header-test` appended to the hyperlink (check the status bar on the b
 	<figcaption>Success.</figcaption>
 </figure>
 
-# Table of Contents
+### Table of Contents
 
 I also installed an additional `markdown-it` plugin called `markdown-it-table-of-contents`, which inserts a headers-based table of contents wherever a `[[TOC]]` is placed in the document (conventionally towards the top of the document).
 
@@ -147,11 +147,10 @@ We can test that the plugin worked correctly by modifying a sample post. After l
 
 <figure>
 	<img src="http://d.pr/i/1d63D+" alt="TOC working">
-	</a>
 	<figcaption>More success.</figcaption>
 </figure>
 
-# Code Highlighting
+### Code Highlighting
 
 When I was still using Squarespace, I tried installing a server-side script called [highlight.js][highlightjs]. Highlight.js applies color schemes to `<code>` blocks according to the type of code in the block, be it JavaScript, HTML, CSS, Perl, etc.
 
@@ -210,26 +209,24 @@ You can test that the plugin is working by editing a sample post and launching a
 
 There are other aspects of TheOverAnalyzed that took some tweaking. I might detail those changes someday. But the bulk of the changes I made to underlying structure Camel are detailed in this post. 
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: No More Highights
+### Update: No More Highights
 <p class="updateTime"><time datetime="2015-08-11">August 11, 2015</time></p>
 
 Since writing this post, I have since disabled `markdown-it-highlightjs`. It wasn't a burdensome plugin or anything---I just decided it was unnecessary visual cruft.
 
-</div>
+</aside>
 
-<div class="update">
+<aside class="update">
 
-## Update: No More Table of Contents or [Exposed] Header Anchors
+### Update: No More Table of Contents or [Exposed] Header Anchors
 <p class="updateTime"><time datetime="2015-11-20">November 20, 2015</time></p>
 
 During the first few weeks of November, I spent some time refactoring my website---making changes here and there. In doing so, I culled a bunch of stuff. On the chopping block were both `markdown-it-table-of-contents` and `markdown-it-anchor`. The Table of Contents are something I'd like to see adopted by CommonMark itself. But that will be a while. Until then, I'll do without Table of Contents (they're incredibly time-consuming to do, even in Markdown.)
 
 And while `markdown-it-anchor` is still a dependency on this project, I've tweaked `camel.js` such that permalinks don't pop up anymore on hover (since they header anchors are written to the DOM, they showed up in the RSS feeds, and just looked stupid there).
 
-</div>
 </aside>
 
 [^la]: I'll talk more my CSS philosophy/changes in a future post. 

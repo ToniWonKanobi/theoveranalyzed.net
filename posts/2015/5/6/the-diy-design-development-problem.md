@@ -1,7 +1,7 @@
 Title: The DIY Design/Development Problem  
 Date: 2015-05-06 16:34  
 Description: I'm guilty of it: designing without being a designer. Is it all bad?  
-Tags: Best Of, Web Design & Development  
+Tags: Best Of, Web Design  
 Image: http://d.pr/i/12C5s+  
 
 ![DIY Design/Development][d]

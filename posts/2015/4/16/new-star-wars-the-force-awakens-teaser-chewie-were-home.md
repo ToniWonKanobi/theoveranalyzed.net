@@ -14,23 +14,21 @@ Video: https://youtu.be/ngElkyQ6Rhs
 	});
 </script>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ngElkyQ6Rhs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ngElkyQ6Rhs"  allowfullscreen></iframe>
 
 [Goose bumps][wikipedia], much? 
 
 [From [/Film][slashfilm]]
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Alternate Version of Trailer
+### Update: Alternate Version of Trailer
 <p class="updateTime"><time datetime="2015-08-10">August 10, 2015</time></p>
 
 From Star Wars Korea, here's an [alternate version][alt] of the trailer, which includes a few extra bits not found in the North American version.
 
 [From [Devour][dev]]
 
-</div>
 </aside>
 
 [alt]: https://www.youtube.com/watch?v=M-VTdsCKLgg "Star Wars Korea version of the trailer (possibly not viewable outside of Korea)"

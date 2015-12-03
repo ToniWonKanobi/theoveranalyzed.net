@@ -6,6 +6,6 @@ Tags: Cotton Bureau, Mac
 Image: https://cottonbureau.com/img/products/5300_Y5LE_2400.jpg  
 
 <figure>
-	<img src="http://d.pr/i/Ltvf+" alt="Mac Classic" title="'Mac Classic' on Cotton Bureau">
-	<figcaption><a href="http://twitter.com/sprsmpl" title="Designer on Twitter'>Todd Resudek</a>: "Do you ever have a hankerin' for the good old days? Well, here is a reminder of what life was like when clock speeds were measured in megahertz, and mice had just one big button."</figcaption>
+	<img src="http://d.pr/i/Ltvf+" alt="'Mac Classic' on Cotton Bureau" title="'Mac Classic' on Cotton Bureau">
+	<figcaption><a href="http://twitter.com/sprsmpl" title="Designer on Twitter">Todd Resudek</a>: "Do you ever have a hankerin' for the good old days? Well, here is a reminder of what life was like when clock speeds were measured in megahertz, and mice had just one big button."</figcaption>
 </figure>

@@ -6,14 +6,14 @@ Image: http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_F
 
 <figure>
 	<img src="http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg" alt="The Iconfactory's redesign for Fantastical 2 is so precious." title="The Iconfactory's redesign for Fantastical 2 is so precious.">
-	<figcaption>The Iconfactory's <a href="http://design.iconfactory.com/fantastical-2-for-ios-7/" />redesign</a> for Fantastical 2 is so nice.</figcaption>
+	<figcaption>The Iconfactory's <a href="http://design.iconfactory.com/fantastical-2-for-ios-7/" title="Iconfactory's blog post for Fantastical 2's app icon">redesign</a> for Fantastical 2 is so nice.</figcaption>
 </figure>
   
-## So Here We Are at App Slot Number Two
+#### So Here We Are at App Slot Number Two
 
 I had written quite a lengthy post devoted to all the ins and outs of this app. But then my domain crashed and I lost everything. In light of these events, I will instead go for the 'less is more' approach. While there are so many aspects of the app I could touch on, I will focus on only the most important aspects in which Fantastical 2 sets itself apart from the stock Calendar app and [Sunrise][sunrise], and [Calendars 5][readdle], and etc.
 
-# Claim to Fame
+### Claim to Fame
 
 When Flexibits [introduced Fantastical in 2012][macworld], it was a favorite among many nerds like me. Despite its reliance on the stock Calendar app for "Push" notifications (there were no real push notifications), its natural language parsers was (is) the [bee's knees][macstories]. 
 
@@ -33,7 +33,7 @@ It's as simple as this:
 	<figcaption>Easy-peasy.</figcaption>
 </figure>
 
-# Functionality
+### Functionality
 
 For version 2, Flexibits also included a fourth row of keys, accessible without having to press the "123" button on the lower left portion of the keyboard. Nice.
 
@@ -51,7 +51,7 @@ A big feature update for Fantastical 2 was the integration of the stock Reminder
 	<figcaption>Reminders in Fantastical&mdash;such a nice feature</figcaption>
 </figure>
 
-# Design
+### Design
 
 At first glance, not a whole lot has changed since the iOS 6 version of Fantastical. The reddish top bar remains, albeit with a much brighter and iOS 7-like hue. There is also a new Light theme, which, again, is pretty iOS 7 feeling. I like it and have been using it for a bit. 
 
@@ -64,9 +64,9 @@ I'm the first to admit that when it comes to a lot of the visual and otherwise U
 	<figcaption>Fantastical for iOS 6, and Fantastical 2 for iOS 7 only, Dark theme and Light theme</figcaption>
 </figure>
 
-# The Competition
+### The Competition
 
-## [Sunrise][sunrise]
+#### [Sunrise][sunrise]
 
 Sunrise [tries to be][idb] a 'Fantastical+,' but ultimately eschews parsing prowess for social. 
 
@@ -78,7 +78,7 @@ Sunrise [tries to be][idb] a 'Fantastical+,' but ultimately eschews parsing prow
 
 Overall, Sunrise is quite pretty. It has more white space, and doesn't feel as task-y as Fantastical. But, if you haven't guessed it already, I am the type of person who wants to get as much information as possible on the screen (within reason). Sunrise isn't that. 
 
-## [Calendars 5][readdle]
+#### [Calendars 5][readdle]
 
 This is kind of an [oddball][macstories 2]. It's biggest pro is the unique portrait Day view, which is like what Fantastical 2 does in Landscape, only in portrait. Its parser is closer to Fantastical than Sunrise, and its design is more spartan than Sunrise, and to some extent, Fantastical.
 
@@ -88,19 +88,19 @@ This is kind of an [oddball][macstories 2]. It's biggest pro is the unique portr
 	<figcaption>Meh.</figcaption>
 </figure>
 
-# Summary
+### Summary
 
 When I am at work, I often only have a few of minutes between patients. And when it does come time to add an event or make a reminder, my goto apps are Fantastical and [Drafts][agiletortoise] (more on that later). I want to be able to add an event quickly, lock my phone, put it in my pocket, and go on with my day. Fantastical is the bomb for this. 
 
 Fantastical 2 is only [$1.99][apple]---a small price to pay for the expediency and utility it provides. I have quite a few thoughts on the current state of paid apps on the App Store (more on that later), but suffice it to say that I am more than willing to spend money on apps that make my iOS experience better. Fantastical is one of those apps.
 
-## The Pros
+#### The Pros
 
 * Brilliant natural language parser saves tons of time
 * One-stop shopping for events and reminders
 * Push notifications (finally)
 
-## The Cons
+#### The Cons
 
 * Minimal white (dark) space in the Ticker view
 

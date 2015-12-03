@@ -4,15 +4,15 @@ Description: I figured out how to enable permalinks in posts (with the help of s
 Tags: Blogging, Squarespace  
 Image: http://d.pr/i/1lSZU+  
 
-## Forward
+#### Preamble
 
 Squarespace is a great CMS. "[The Apple of content management services][ss]," it has been said. And I would generally agree. With just a minimal amount of effort from the user, it would be *very* difficult to make a website with Squarespace that wasn't halfway decent. That said, there are some caveats to be told. Just like my experiences with everyone's favorite fruit company, whenever I have strayed just a bit from the Squarespace Beaten Path™, things got hairy. One of those areas was [footnotes][fn]. I figured that out with the help of the internet. Next on the list: permalinks.
 
-# Backstory
+### History
 
 If all I wrote on this site consisted of completely original thoughts and content, Squarespace would be doing pretty right by me. However, I am a big Daring Fireball fan. One of my favorite parts of following Daring Fireball is the "[Linked List][daringfireball]" posts. While I enjoy John Gruber's longform content, his Linked List entires are much more frequent, and thus offer up a greater understanding of who John Gruber is as a person and a writer. That's interesting stuff. And so naturally, I wanted to do the same thing on my site. 
 
-# What's Right Is Right
+### What's Right Is Right
 
 It would be considered customary and courteous[^cc] to use the title of *my* post as a `link` to the original content that inspired my short post with commentary. That way, if someone stumbles upon my post using a search engine, or on Twitter, they would have an easy way to follow that link once they reached my website. Now, that by itself is a little bit of an imposed barrier, in that for a reader to actually get to the content I am linking to, they have an extra tap/click in there. And like most things in our lives, less is more. People are lazy. I know I am. I don't want to click anything.
 
@@ -24,11 +24,11 @@ Well, because we are lazy, early pioneers of the Linked List style of posts impl
 
 Yay. That's a good thing, because not only are the linkers providing attribution to the original content's author, the linkers are also supporting a system with one less barrier between the reader and the original content.
 
-# The Problem
+### The Problem
 
 This 'system' of linking-through can be problematic in some RSS feed readers. Sometimes readers of the site want to actually see what the Linked List author (me) has to say about the Linked List entry. I know that's how I feel. Sometimes I don't even follow/read the original link shared by Gruber et al. and instead only read his commentary.[^hc]  And so in own personal reading experience, I always try to find the permalink in the RSS entry to read[^rss] and therefore not lose the commentary by the author I am actually following.[^af]  In an ideal situation, the RSS item title would have both a link to the external content and a permalink to my site where my post lives. *As far as I can see, this is not a feature implemented by really simple syndication, which is sad.*
 
-# The Solution
+### The Solution
 
 Up until a few days ago, I had been using my own laborious system of permalinking.[^pl] Turns out, I wasn't alone.[^wa] I wanted something better than this. 
 
@@ -60,14 +60,13 @@ So my line of HTML code looks like this:
 <p><a href="{permalink}">∞ Permalink</a></p>
 ```
 
-# The Results
+### The Results
 
 By placing the permalink in the Post Blog Item Code Injection section, I no longer have to manually create permalinks for Linked List posts. The downside to this newer method is that the a permalink shows up on *every* post, even the Article-style posts. A small price to pay methinks.
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Permalink Fix
+### Update: Permalink Fix
 <p class="updateTime"><time datetime="2015-02-09">February 9, 2015</time></p>
 
 Since initially writing this post, I have since turned on the [Developer Platform][squarespacee] for Squarespace. This has opened up both a bunch of possibilities, and a bunch of frustrations.
@@ -100,7 +99,6 @@ Now, whenever I post a "Linked List" item, as long as the "External link" checkb
 	<figcaption>Boom</figcaption>
 </figure>
 
-</div>
 </aside>
 
 [^cc]: And just good 'internet form'
@@ -117,7 +115,7 @@ Now, whenever I post a "Linked List" item, as long as the "External link" checkb
 [loopinsight]: http://loopinsight.com "Jim Dalyrmple's blog, The Loop"
 [macsparky]: http://macsparky.com/blog/permalinkingss "How David Sparks did permalinks in his Squarespace-powered blog"
 [marco]: http://www.marco.org "Marco Arment's blog, Marco.org"
-[real]: http:///http://smithjw.me/blog/permalinking-with-squarespace "Another post that helped me figure out permalinks"
+[real]: http://http://smithjw.me/blog/permalinking-with-squarespace "Another post that helped me figure out permalinks"
 [sixcolors]: http://www.sixcolors.com "Jason Snell's blog, Six Colors"
 [smilesoftware]: http://smilesoftware.com/TextExpander/index.html "TextExpander's webpage"
 [squarespace]: http://help.squarespace.com/guides/using-code-injection "Squarespace help page for using code injection"

@@ -8,7 +8,7 @@
 		<link rel="index" href="/" title="TheOverAnalyzed">
 		<link rel="canonical" href="@@canonicalLink@@"  title="Permalink to this Page">
 		<link rel="alternate" type="application/rss+xml" href="/rss" title="RSS for @@SiteTitle@@">
-		<link rel="alternate" type="application/rss+xml"  href="@@SiteRoot@@/rss-alternate" title="RSS for @@SiteTitle@@ with linked entries pointing back to @@SiteTitle@@ instead of their targets">
+		<link rel="alternate" type="application/rss+xml"  href="/rss-alternate" title="RSS for @@SiteTitle@@ with linked entries pointing back to @@SiteTitle@@ instead of their targets">
 		<link rel="shortcut icon" href="/images/favicon.png">
 		<link rel="mask-icon" href="/images/safari-pinned-tabs.svg" color="#3F70A2" title="Safari Pinned Tabs Icon">
 		<link rel="apple-touch-icon-precomposed" href="/images/favicon-square.png" title="Site Favicon">
@@ -62,19 +62,8 @@
 		</script>
 	</head>
 	<body class="@@BodyClass@@">
-		<header id="topHeader" class="fadeInDown">
-			<!-- for screen readers -->
-			<h1 class="header" hidden>Header</h1>
-			<p id="siteTitleAndLogo">
-				<a rel="index" href="/" title="TheOverAnalyzed Homepage">
-					<span id="logo">
-						<img rel="icon" src="/images/logo.svg" alt="TheOverAnalyzed Logo" title="TheOverAnalyzed Logo">
-					</span>
-					<span id="siteTitle">TheOverAnalyzed</span>
-				</a>
-			</p>
+		<header id="siteHeader" class="fadeInDown">
+			<h1 id="siteTitle"><a rel="index" href="/" title="TheOverAnalyzed Homepage"><img id="siteLogo" rel="icon" src="/images/logo.svg" alt="Site Logo" title="Site Logo">TheOverAnalyzed</a></h1>
 			<p id="siteByline">By <a rel="author" href="http://twitter.com/toniwonkanobi" title="Anthony Craig on Twitter">Anthony Craig</a></p>
 		</header>
-		<main role="main" class="fadeInUp">
-			<!-- for screen readers -->
-			<h1 class="main" hidden>Main Content</h1>
+		<main class="fadeInUp">

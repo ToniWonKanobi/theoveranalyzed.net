@@ -21,11 +21,11 @@ I made an offer, and going against every eBay policy ever, decided on a shady ba
 
 I have had the watch for about a day and half. While that's not a whole lot of time to fully experience everything it has to offer, it is a sufficient amount of time for first impressions. 
 
-# Packaging
+### Packaging
 
 This box was heavy. For all the poo-pooing I saw on Twitter regarding the disparity in packaging between the Apple Watch Sport and Apple Watch collections, I was pleasantly surprised with how substantial the thing felt. The Tweetosphere wasn't wrong about one thing though: there are about 14 layers of plastic/paper/plastic between that precious piece of glass and the environment. Ultimately, the packaging shouldn't matter. But, less anyone think Apple has cut corners with packing on the Apple Watch Sport collection, I thought it was important to share.
 
-# Hardware
+### Hardware
 
 I [spent some time][theoveranalyzed 2] with the Watches in April, but no amount of Apple Retail Store employee fumbling with my wrist is a replacement for actually wearing it for a while. The Space Gray Watch is very, very sleek. At my try-on session, I think I was so enamored by the Watch collection to give due attention to its 'lesser' siblings.[^re]
 
@@ -40,13 +40,13 @@ Color inconsistencies notwithstanding, everything about the watch is what I expe
 
 The Watch is just as enjoyable to handle as any of Apple's other hardware offerings. No surprises here.
 
-# Display
+### Display
 
 Based on Gruber's recommendation, I immediately switched to "Bold" mode. The San Francisco typeface seems easier on the eyes in this heavier font. And from normal viewing distances, the display is what you'd expect on a modern Retina-equipped Apple device. It won't win any pixel-pushing wars, sure. But it does the job well. Riding out in the sun wasn't a total disaster, either. I was able to discern most everything happening on the Watch face.
 
 The OLED display technology shows. Instead of having to light up every pixel, the Watch can keep most pixels turned off (unless viewing a photo or something). I also turned off transparency in the Accessibility section, and that coupled with the OLED's naturally black background, made for an extremely black presentation.
 
-# Software
+### Software
 
 This has to be the most frustrating part of the whole package. Much has been said about the sluggishness of third-party apps on Watch OS.[^os] I expected that, and to be honest, it wasn't even that disappointing. With the exception of a few must-have apps like Overcast and Dark Sky, I rarely delve deeply into the current crop of third-party Watch apps. They're just not responsive enough. This is true even for Overcast. After accessing the app from the Glance or from the Home Screen, and after selecting the podcast, I immediately switch to the Now Playing Glance. I've found that the Glance does a significantly better job depicting my the time intervals on my customized skip buttons. Moreover, the Glance is just that much faster at pausing and re-playing the content. 
 
@@ -54,7 +54,7 @@ Apple has crippled the third-party app experience on the Watch, likely because t
 
 My biggest complaint with Watch OS deals specifically with Messages on the Watch. For whatever reason, Messages notifications are not relayed to the Watch at the same rate as they are received by the iPhone itself. This could be related to some unknown Handoff bug. I can't be sure. Still, nothing is more infuriating than attempting to send a message, only to witness that annoying message send failure notification on the Watch. Or, somewhat less infuriating, receiving a new message notification on the Watch for a message that had long been read in the Messages app on my iPhone. Is it a big deal? No. But it is still puzzling why such a straightforward interaction between the Watch and the iPhone is being executed so poorly.
 
-## Watch Face
+#### Watch Face
 
 My current watch face of choice is Modular. I tried the analog Utility mode, but I find the digital readout works better for me. I might switch it up at some point, but right now I am pretty happy with Modular's balance of complications and ease of time-telling (it *is* still a watch, after all).
 
@@ -63,15 +63,15 @@ My current watch face of choice is Modular. I tried the analog Utility mode, but
 	<figcaption>Utility (Left) and Modular (Right)</figcaption>
 </figure>
 
-## Fitness
+#### Fitness
 
 This is my favorite feature of the Watch. I went to the gym earlier today, and the gratification I received from monitoring my heart rate during the workout session made the shady Saturday afternoon parking lot deal worth it. If every other feature of the Watch was stripped away---time-keeping functionality included---but the fitness tracking remained, I would still think it a great purchase. 
 
-### Activity
+##### Activity
 
 Activity is [gamification][wikipedia] at its best. The tasks for the day are simple: burn the amount of calories defined in the personal activity goal, accumulate at least 30 minutes of physical activity at or above a brisk walk, and stand at least one minute during an hour for at least 12 hours out of the day. Yes, I wish the activity and stand metrics were user-adjustable. I would choose an activity amount higher than 30 minutes, and I would choose to stand more than 1 minute for every hour (at least 10 minutes). Yes, it is possible for me to do those things without Apple Watch nagging me. Still, if the purpose of the Activity app is to motivate us to exercise, why not give us the ability to set more difficult-to-hit goals? Maybe this is planned for the gen 2 version?
 
-### Workout
+##### Workout
 
 Today I biked to and from the gym, about 4 miles round trip. I used the Workout app in "Open" mode, for which the Watch will not prompt me to meet a calorie, distance, or time goal. Since the trip to the gym is relatively static, I'm less concerned with the distance and time measurements, and more concerned instead with keeping my heart rate above 160 bpm. My biggest gripe with the Workout app is that there is no Glance. My friend dutifully pointed out that while working out, the Workout app is probably what I'd be looking at anyways. In other words, no Glance should be necessary. And I can see the logic with that argument.. 
 
@@ -85,7 +85,7 @@ However, the scenario of using the Workout app via the Home Screen → Workout A
 
 This isn't exactly a convenient way to change songs (or select a different podcast). Here's hoping it gets better.
 
-# Battery
+### Battery
 
 I didn't even bother including the battery complication on my watch face. I used it for the better part of Sunday: waking up at 7 AM and going to bed around 10 PM. And after all that time, I stillI had ~10% battery life.
 
@@ -96,7 +96,7 @@ I think Apple way-overshot their battery conservation measures. It feels like th
 	<figcaption>Ignoring the prompts to enable Power Reserve</figcaption>
 </figure>
 
-# Overall
+### Overall
 
 This was a great purchase. If for no other reason, I am engaged in working out ([again][theoveranalyzed 3]). And beyond that, notifications and iPhone media controls on my wrist are an added benefit. Is it perfect? No, not by a long shot. 
 

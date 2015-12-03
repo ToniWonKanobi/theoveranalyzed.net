@@ -29,14 +29,12 @@ That's pretty much it. I have spent more money here than my wife would like, so 
 
 **Use discount code CBANTHONYC10 to get 10% off your purchase.**
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Promotion Over
+### Update: Promotion Over
 
 Their referral program has ended, in case you were wondering why the discount no longer worked.
 
-</div>
 </aside>
 
 [cottonbureau]: http://www.cottonbureau.com "Cotton Bureau"

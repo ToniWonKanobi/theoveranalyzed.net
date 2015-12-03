@@ -13,7 +13,7 @@ Image: http://www.frerejones.com/assets/Futura-O-anim.gif
 I've been [following][theoveranalyzed] Frere-Jones' blog since it was [linked][df] on Daring Fireball some time ago. While I don't consider myself a font expert (not by a long shot), I do find the art and science behind this centuries-old craft very interesting. 
 
 <figure>
-	<img src="http://www.frerejones.com/assets/Horiz&Vert01.gif" alt="Font Weights" title="Font Weights">
+	<img src="http://www.frerejones.com/assets/Horiz&amp;Vert01.gif" alt="Font Weights" title="Font Weights">
 	<figcaption>Frere-Jones: "Weights, mathematically equal and optically equal"</figcaption>
 </figure>
 

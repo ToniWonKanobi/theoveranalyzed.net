@@ -14,13 +14,13 @@ I shared one extension [back in March][localhost:5000] of this year: the Minimal
 
 I have two new extensions to share.
 
-### 1. [DirectLinks][canisbos]
+#### 1. [DirectLinks][canisbos]
 
 This was on Daring Fireball's Linked List back in [September][daringfireball]. Here's John Gruber's explanation:
 
 > If you’ve ever tried dragging-and-dropping a URL from Google search results and getting a Google redirection URL instead of the actual URL you wanted (and Google’s JavaScript will show the actual URL in the status field if you hover over the link, so it’s impossible to tell that’s what’s going to happen), this extension is for you. There are obvious privacy benefits as well.
 
-### 2. [NoMoreiTunes Safari Extension][einserver]
+#### 2. [NoMoreiTunes Safari Extension][einserver]
 
 This came through the pipeline today, from [The Sweet Setup][thesweetsetup]. Here's their explanation of NoMoreiTunes Safari Extension:
 

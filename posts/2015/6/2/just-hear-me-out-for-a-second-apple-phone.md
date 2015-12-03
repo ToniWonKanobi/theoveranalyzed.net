@@ -19,10 +19,9 @@ Apple has indeed been moving away from it's "i" prefix, [established][everysteve
 
 [From [512 Pixels][512pixels]]
 
-<aside>
-<div class="update">
+<aside class="update">
 
-## Update: Jason Snell's Commentary
+### Update: Jason Snell's Commentary
 
 Jason Snell offered his own [commentary on the subject][sc]:
 
@@ -30,7 +29,6 @@ Jason Snell offered his own [commentary on the subject][sc]:
 
 Unless I'm misinterpreting Snell, he is using the iPad and iMac as examples as to why dropping the "i" would be a *bad* idea, not a good one. However, I couldn't disagree more. Yes, "Apple Pad" sounds tremendously similar to [something][some] you might find on aisle 11 of your local grocery store. But "Apple Mac,"or---dare I be so bold---*just* "Macintosh" ([again][again]). That sounds glorious.
 
-</div>
 </aside>
 
 [512pixels]: http://www.512pixels.net/blog/2015/6/apple-phone "Stephen Hackett's post on 'Apple Phone'"
