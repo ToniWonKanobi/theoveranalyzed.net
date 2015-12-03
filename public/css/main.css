@@ -657,8 +657,8 @@ p#copyright {
 @media (max-width: 736px) {
 
 	h1#siteTitle {
-		font-size: 1.8em;
-		padding-top: 0.4em;
+		font-size: 1.6em;
+		padding-top: 0.6em;
 	}
 
 	p#siteByline {
@@ -668,6 +668,14 @@ p#copyright {
 
 	main {
 		margin-top: 1em;
+	}
+
+	header.postHeader h2 {
+		font-size: 2em;
+	}
+
+	header.postHeaderLinked h2 {
+		font-size: 1.5em;
 	}
 
 	img.inlineFour {
