@@ -19,14 +19,4 @@ div.specialDelivery {
 	margin: 5em auto;
 	padding: 2em;
 	text-align: center;
-	width: 60vw;
-}
-
-@media (min-width: 1400px) {
-
-	div.specialDelivery {
-		margin-top: 8em;
-		width: 30vw;
-	}
-
 }

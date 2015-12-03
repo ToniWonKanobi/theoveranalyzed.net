@@ -14,8 +14,7 @@ Every day, the MailChimp servers detect whether I've posted anything new since t
 ### Signup
 
 <!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
+<style rel="stylesheet" type="text/css" href="//cdn-images.mailchimp.com/embedcode/classic-081711.css">
 	#mc_embed_signup {
 		background:#fff; 
 		clear:left; 
@@ -34,13 +33,13 @@ Every day, the MailChimp servers detect whether I've posted anything new since t
 <div class="mc-field-group">
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email address">
 </div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_d327abe5985ea63318762e77c_f04f3c4ed7" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
+<div id="mce-responses" class="clear">
+	<div class="response" id="mce-error-response" style="display:none"></div>
+	<div class="response" id="mce-success-response" style="display:none"></div>
+</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;"><input type="text" name="b_d327abe5985ea63318762e77c_f04f3c4ed7" tabindex="-1" value=""></div>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</div>
 </form>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
