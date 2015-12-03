@@ -3,7 +3,7 @@ Date: 2015-12-02 20:38
 Link: http://www.slashfilm.com/star-wars-rebels-season-3-announced/  
 Description: Star Wars Rebels gets a Season 3.  
 Tags: Star Wars  
-Image: http://i1.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/REB_IA_12509-700x394.jpg?zoom=2&resize=700%2C394  
+Image: http://d.pr/i/1aavO+  
 
 ![Star Wars Rebels][wp]
 
@@ -29,4 +29,4 @@ Despite it being a TV series aimed at children and young adults, I've enjoyed St
 [wikipedia]: https://en.wikipedia.org/wiki/Star_Wars_(film) "Wikipedia: Star Wars (film)"
 [wikipedia 2]: https://en.wikipedia.org/wiki/Dave_Filoni "Wikipedia: 'Star Wars: The Clone Wars (2008)' and 'Star Wars Rebels' creator"
 [wikipedia 3]: https://en.wikipedia.org/wiki/Star_Wars_Episode_I%3A_The_Phantom_Menace#Reception "Wikipedia: 'Star Wars Episode I: The Phantom Menace'"
-[wp]: http://i1.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/REB_IA_12509-700x394.jpg?zoom=2&resize=700%2C394 "Star Wars Rebels"
+[wp]: http://d.pr/i/1aavO+ "Star Wars Rebels"
