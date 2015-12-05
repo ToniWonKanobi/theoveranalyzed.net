@@ -84,8 +84,8 @@ div.entry a:hover {
 	border-radius: 2px;
 }
 
-a.nohover,
-a.nohover:hover {
+div.entry a.nohover,
+div.entry a.nohover:hover {
 	background: none;
 	border: none;
 }
@@ -104,6 +104,7 @@ header#siteHeader a {
 }
 
 img#siteLogo {
+	display: initial;
 	margin: 0 0.1em 0 0.1em;
 	vertical-align: baseline;
 	width: 0.6em;
@@ -213,8 +214,6 @@ em.topStory code {
 
 figure {
 	margin: 1em auto;
-	text-align: center;
-	width: 100%;
 }
 
 figure.wide {
@@ -223,9 +222,10 @@ figure.wide {
 }
 
 img {
+	display: block;
 	margin: auto;
 	vertical-align: middle;
-	width: 100%;
+	max-width: 100%;
 }
 
 img.screenshot {
@@ -234,35 +234,38 @@ img.screenshot {
 
 img.iphone,
 img.applewatch {
-	display: block;
 	width: 50%;
 }
 
 img.wide {
 	margin-left: -25%;
+	max-width: initial;
 	width: 150%;
 }
 
 img.inlineTwo {
-	margin: auto 0.5em 0.5em auto;
-	width: 45%;
+	display: initial;
+	margin: auto 0.5em;
+	width: 43%;
 }
 
 img.inlineThree {
-	margin: auto 0.5em 0.5em auto;
-	width: 29%;
+	display: initial;
+	margin: auto 0.5em;
+	width: 26%;
 }
 
 img.inlineFour {
-	width: 23%;
+	display: initial;
+	margin: auto 0.5em;
+	width: 22%;
 }
 
 figcaption {
 	color: #999;
 	font-size: 0.8em;
 	font-style: italic;
-	margin: 0.5em auto auto 20%;
-	text-align: left;
+	margin: 1em auto auto 20%;
 	width: 60%;
 }
 
@@ -272,11 +275,12 @@ figcaption code {
 
 audio,
 video {
-	width: 100%;
+	max-width: 100%;
 }
 
 video.wide {
 	margin: 1em auto 1.5em -25%;
+	max-width: initial;
 	width: 150%;
 }
 
@@ -554,6 +558,7 @@ div#bottomAd > h2 {
 }
 
 div#bottomAd figure img {
+	margin: auto;
 	width: 125px;
 }
 
@@ -634,7 +639,6 @@ p#copyright {
 		width: 80vw;
 	}
 
-	figure.wide,
 	img.wide,
 	video.wide {
 		margin: 1em auto auto -10vw;
@@ -643,7 +647,7 @@ p#copyright {
 
 	hr.articleSeparator {
 		border-radius: 0;
-		margin: 2em auto 2em calc( (100vw - 100%) / -2);
+		margin: 2em auto 2em -10vw;
 		width: 100vw;
 	}
 
@@ -667,7 +671,7 @@ p#copyright {
 	}
 
 	header.postHeader h2 {
-		font-size: 2em;
+		font-size: 1.6em;
 	}
 
 	header.postHeaderLinked h2 {
@@ -676,13 +680,14 @@ p#copyright {
 
 	img.inlineFour {
 		margin: 1em auto;
-		width: 40%;
+		width: 48%;
 	}
 
 	img:not(.applewatch, .iphone, .inlineTwo, .inlineThree, .inlineFour),
 	video,
 	audio {
-		margin: auto -10vw;
+		margin: auto auto auto -10vw;
+		max-width: initial;
 		width: 100vw;
 	}
 

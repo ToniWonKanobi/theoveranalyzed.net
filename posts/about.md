@@ -1,7 +1,7 @@
 Title: About  
 Description: Info about me and TheOverAnalyzed  
 
-![Allison and I][d]
+<p><img src="http://d.pr/i/1d53F+" alt="Allison and I" title="Allison and I" style="display: initial; float: right; margin: auto auto 1em 2em; width: 40%;"></p>
 
 Hi. I'm [Anthony][ant].
 
@@ -23,7 +23,6 @@ Thanks for stopping by.
 [atp]: http://atp.fm "The Accidental Tech Podcast---the best podcast ever"
 [caseyliss]: http://www.caseyliss.com/2014/5/2/camel-open-sourced "Casey Liss on making Camel open-sourced"
 [colophon]: /colophon "Information about the site"
-[d]: http://d.pr/i/1d53F+ "Allison and I"
 [ear]: https://twitter.com/TheOverAnalyzed/status/430233457029947392 "First post ever ❤️"
 [hacks]: /tags/Squarespace "Posts tagged 'Squarespace'"
 [instagram]: https://instagram.com/p/2oFqCowLyD/?taken-by=theoveranalyzed "Instagram picture of my site in a transition period before finalizing Camel"

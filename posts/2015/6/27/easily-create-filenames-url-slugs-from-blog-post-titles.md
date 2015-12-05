@@ -228,7 +228,7 @@ This couldn't get any easier.
 
 ### Download
 
-You can download `Slugify.workflow` <a href="http://d.pr/f/ra62" title="Download my `Slugify.workflow`">here</a>.
+You can download `Slugify.workflow` <a href="http://d.pr/f/139sO" title="Download my `Slugify.workflow`">here</a>.
 
 <aside class="update">
 
