@@ -148,9 +148,12 @@ body.homepage section:first-of-type article div:nth-of-type(3) {
 ======================================== */
 
 main {
-	margin: auto;
-	padding: 1em 0;
+	margin: 2em auto 6em auto;
 	width: 700px;
+}
+
+body.homepage main {
+	margin-bottom: 5em;
 }
 
 /* Page/Post Headers
@@ -688,10 +691,6 @@ p#copyright {
 		padding-bottom: 1.2em;
 	}
 
-	main {
-		margin-top: 1em;
-	}
-
 	header.postHeader h2 {
 		font-size: 1.6em;
 	}
@@ -718,10 +717,6 @@ p#copyright {
 	li video {
 		margin: auto;
 		width: 100%;
-	}
-
-	section#pagination {
-		margin: 3em auto 3em auto;
 	}
 
 }
