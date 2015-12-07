@@ -7,7 +7,11 @@ Image: https://dropboxmailboxblog.files.wordpress.com/2015/12/mb-sunset.png?w=65
 
 ![Goodbye, Mailbox][files]
 
-Surprise, surprise.
+From the Mailbox blog:
+
+> [As] we deepened our focus on collaboration, we realized there’s only so much an email app can do to fundamentally fix email. We’ve come to believe that the best way for us to improve people’s productivity going forward is to streamline the workflows that generate so much email in the first place.
+
+Surprise, surprise?
 
 [Another][archive] [great][wikipedia] email app goes the way of the dodo.
 
