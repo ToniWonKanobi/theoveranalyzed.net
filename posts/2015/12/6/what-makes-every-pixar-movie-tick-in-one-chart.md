@@ -16,4 +16,4 @@ Interesting chart.
 (And while I didn't hate [Cars][wikipedia] as much as everyone else, I can understand the sentiment.)
 
 [d]: http://d.pr/i/1hali+ "Pixar Themes Chart"
-[wikipedia]: https://en.wikipedia.org/wiki/Cars_(film) "Wikipedia: Cars (film)"
+[wikipedia]: https://en.wikipedia.org/wiki/Cars_(film)#Reception "Wikipedia: Cars (film)"
