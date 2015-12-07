@@ -121,11 +121,35 @@ p#siteByline {
 	padding-bottom: 1.75em;
 }
 
+/* Homepage
+======================================== */
+
+/* Removes post content on homepage */
+body.homepage div.entry {
+	display: none;
+}
+
+/* Re-adds post content for first post on homepage */
+body.homepage section:first-of-type div.entry {
+	display: initial;
+}
+
+/* Removes the description on the first post */
+body.homepage section:first-of-type article div:nth-of-type(1) {
+	display: none;
+}
+
+/* Removes the Read More link on the first post */
+body.homepage section:first-of-type article div:nth-of-type(3) {
+	display: none;
+}
+
 /* Main
 ======================================== */
 
 main {
-	margin: 2em auto 6em auto;
+	margin: auto;
+	padding: 1em 0;
 	width: 700px;
 }
 
@@ -455,18 +479,13 @@ hr.articleSeparator {
 	background-color: #ddd;
 	border-radius: 0.2em;
 	height: 0.3em;
-	margin: 3em auto 3em -30%;
-	width: 160%;
+	margin: 2.5em auto 2.5em -10%;
+	width: 120%;
 }
 
 hr.long:after,
 hr.articleSeparator:after{
 	content: normal;
-}
-
-/* HFS was this ever a PITA */
-section.day:nth-last-of-type(2) hr.articleSeparator:last-of-type {
-	display: none;
 }
 
 sup.footnote-ref a {
@@ -521,7 +540,8 @@ section#pagination {
 	font-weight: 400;
 	border-bottom: 0.2em solid #ddd;
 	border-top: 0.2em solid #ddd;
-	height: 1.75em; /* Have to do this because floats are stupid */
+	height: 1.75em;
+	/* Have to do this because floats are stupid */
 	margin: 4em auto 4em auto;
 	padding: 1em 0;
 }
@@ -534,9 +554,11 @@ section#pagination p {
 	margin: 0;
 }
 
-section#pagination a {color: #999;}
+section#pagination a {
+	color: #999;
+}
 
-section#paginationr a:hover {
+section#pagination a:hover {
 	color: #3f70a2;
 }
 
@@ -663,7 +685,7 @@ p#copyright {
 
 	p#siteByline {
 		margin-top: -0.5em;
-		padding-bottom: 1em;
+		padding-bottom: 1.2em;
 	}
 
 	main {
@@ -709,6 +731,10 @@ p#copyright {
 
 	body {
 		font-size: 1em;
+	}
+
+	p#siteByline {
+		padding-bottom: 1.4em;
 	}
 
 	blockquote {

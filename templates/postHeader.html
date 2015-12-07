@@ -1,33 +1,31 @@
-	{{#if Link}}
-<!-- Linked Post-->
-	<header class="postHeaderLinked">
-		<h2><a href="{{Link}}" title="Go to External Content">{{Title}}&nbsp;<span class="linkArrow">&#8594;</span></a></h2>
-		<ul class="postSubtitle">
-			<li class="date">
-				<a href="{{permalink}}" title="Permalink to post"><time dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time></a></li>
-			<li class="tags"><label>Tags: </label>
-				<ul>
-					{{#each tags}}
-					<li>{{{this}}}</li>
-					{{/each}}
-				</ul>
-			</li>
-		</ul>
+{{#if Link}}
+<header class="postHeaderLinked">
+	<h2><a href="{{Link}}" title="Go to External Content">{{Title}}&nbsp;<span class="linkArrow">&#8594;</span></a></h2>
+	<ul class="postSubtitle">
+		<li class="date">
+			<time dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time></li>
+		<li class="tags"><label>Tags: </label>
+			<ul>
+				{{#each tags}}
+				<li>{{{this}}}</li>
+				{{/each}}
+			</ul>
+		</li>
+	</ul>
+</header>
+{{else}}
+<header class="postHeader">
+	<h2><a href="{{relativeLink}}" title="Permalink to this Post">{{Title}}</a></h2>
+	<ul class="postSubtitle">
+		<li class="date">
+			<time dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time></li>
+		<li class="tags"><label>Tags: </label>
+			<ul>
+				{{#each tags}}
+				<li>{{{this}}}</li>
+				{{/each}}
+			</ul>
+		</li>
+	</ul>
 	</header>
-	{{else}}
-<!-- Non-linked Post -->
-	<header class="postHeader">
-		<h2><a href="{{relativeLink}}" title="Permalink to this Post">{{Title}}</a></h2>
-		<ul class="postSubtitle">
-			<li class="date">
-				<time dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time></li>
-			<li class="tags"><label>Tags: </label>
-				<ul>
-					{{#each tags}}
-					<li>{{{this}}}</li>
-					{{/each}}
-				</ul>
-			</li>
-		</ul>
-	</header>
-	{{/if}}
+{{/if}}
