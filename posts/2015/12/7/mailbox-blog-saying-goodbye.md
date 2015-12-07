@@ -34,7 +34,7 @@ Here's hoping.
  ### Update: Brent Simmons on Mailbox's Shuttering
 <p class="updateTime"><time datetime="2015-12-07">December 12, 2015</time></p>
 
-Brent Simmons shared his thoughts on the matter:
+Brent Simmons shared his [thoughts on the matter][inessential]:
 
 > You can’t go by size of company, because big companies like Google or Apple will retire apps, and small companies will fail — or switch their attention to the app that makes them money but isn’t the one you use.
 
@@ -53,4 +53,5 @@ My contention is that for third-party iOS email clients specifically---that has 
 [dropbox]: https://blogs.dropbox.com/mailbox/2013/01/reserve-your-mailbox-today/ "Mailbox's first blog post"
 [dropbox 2]: https://blogs.dropbox.com/dropbox/2015/12/saying-goodbye-to-carousel-and-mailbox/ "Dropbox linking to Mailbox blog post"
 [files]: https://dropboxmailboxblog.files.wordpress.com/2015/12/mb-sunset.png?w=650&h=335 "Goodbye, Mailbox"
+[inessential]: http://inessential.com/2015/12/07/on_apps_that_get_acquired "Brent Simmons reacting to Mailbox's closure"
 [wikipedia]: https://en.wikipedia.org/wiki/Sparrow_(email_client) "Wikipedia: Sparrow (email client)"
