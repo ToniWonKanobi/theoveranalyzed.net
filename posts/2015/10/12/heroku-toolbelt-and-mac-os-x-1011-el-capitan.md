@@ -1,6 +1,6 @@
 Title: Heroku Toolbelt and Mac OS X 10.11 "El Capitan"  
 Date: 2015-10-12 22:37  
-Description: El Capitan broke the Heroku Toolbelt. So, if you use that, here's how to fix it.  
+Description: El Capitan broke the Heroku Toolbelt. Here's how to fix it.  
 Tags: Power User, Camel  
 Image: http://d.pr/i/1bik6+  
 

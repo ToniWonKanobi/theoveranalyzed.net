@@ -9,7 +9,3 @@ Image: https://cottonbureau.com/img/products/6708_OUO1_2400.jpg
 	<img src="http://d.pr/i/1hHP8+" alt="Nuthin But Love for Ya..." title="'Nuthin But Love for Ya...' on Cotton Bureau">
 	<figcaption><a href="http://twitter.com/acsteger" title="The designer on Twitter">Andrew Steger</a>: "Rolling into my heart."</figcaption>
 </figure>
-
-Everyone loves them some [BB-8][wikia]. 
-
-[wikia]: http://starwars.wikia.com/wiki/BB-8 "Who is BB-8, you ask?"

@@ -1,7 +1,7 @@
 Title: Apple TV 4 Coming in October for Under $200, Apple TV 3 Stays & Gets New Streaming Service  
 Date: 2015-08-30 11:41  
 Link: http://9to5mac.com/2015/08/30/apple-tv-4-200-october/  
-Description: Mark Gurman says the Apple TV 4 will bring with it some nifty upgrades over Apple TV 3.  
+Description: New tricks for the next Apple TV?  
 Tags: Apple TV  
 Image: https://9to5mac.files.wordpress.com/2015/08/appletvstaggered.png  
 

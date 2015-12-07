@@ -9,8 +9,6 @@ Peter Sciretta, writing for /Film:
 
 > Star Wars Land will be a wholly in-character experience, with alien servers and workers at all parts of the attraction, including a Cantina. Guests will have the opportunity to enjoy two signature attractions, including one that puts fans inside the cockpit of the Millennium Falcon. Bob Iger said, “these new lands at Disneyland and Walt Disney World will transport guests to a whole new Star Wars planet, including an epic Star Wars adventure that puts you in the middle of a climactic battle between the First Order and the Resistance.”
 
-Looks like I'll actually have a reason to go to Disneyland. 
-
 No word yet as to when the expansion should be finished.
 
 <figure>

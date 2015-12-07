@@ -5,6 +5,8 @@ Tags: Web Design, Ditching Webfonts
 Image: http://d.pr/i/1iLFm+  
 Video: http://d.pr/v/9TLn+  
 
+<p><video controls autoplay><source src="http://d.pr/v/9TLn+"></video></p>
+
 <p><em class="topStory">Unknowingly, this was the first in a <a href ="/tags/Ditching%20Webfonts" title="Posts tagged 'Ditching Webfonts">series</a> of posts regarding webfonts. You should check out the <a href="/2015/7/15/ditching-webfonts" title="My post about leaving webfonts behind" rel="next">second</a> and <a href="/2015/7/19/ditching-webfonts-part-ii-hoefler-webfonts-are-prettier-but-slower" title="My post about turning off webfonts, and how I eventually turned them back on">third</a>.</em></p>
 
 #### Forward

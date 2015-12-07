@@ -1,7 +1,7 @@
 Title: The Iron Giant Rerelease Planned for 2015  
 Date: 2015-07-09 10:09  
 Link: http://www.ew.com/article/2015/07/08/iron-giant-rerelease  
-Description: The cult classic that helped springboard Brad Bird's career is getting an update this fall.  
+Description: 🤖  
 Tags: The Iron Giant  
 Image: https://pbs.twimg.com/media/CJaFt2SUsAAqIv_.jpg  
 

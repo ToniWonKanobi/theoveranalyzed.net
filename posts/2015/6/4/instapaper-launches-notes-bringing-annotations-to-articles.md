@@ -1,8 +1,11 @@
 Title: Instapaper Launches Notes, Bringing Annotations to Articles  
 Date: 2015-06-04 13:29  
 Link: http://www.macstories.net/ios/instapaper-launches-notes-bringing-annotations-to-articles/  
-Description: Federico Viticci did a short write-up about my favorite Read-it-later service, Instapaper.  
-Tags: Apps   
+Description: The best read-it-later service gets better. 
+Tags: Apps  
+Image: https://48ce6c28e7bf5f42a1b7-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com/2015-06-04-173732.jpeg  
+
+![Vittici's Instapaper Review][ssl]
 
 Federico Viticci of MacStories did a short write-up about today's Instapaper update:
 
@@ -15,4 +18,5 @@ If you're not an Instapaper user, now is the perfect time to [check it out][appl
 [^in]: Not to mention, it has my [favorite font][typography]. 
 
 [apple]: https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&at=1l3vx9s "Instapaper on the App Store"
+[ssl]: https://48ce6c28e7bf5f42a1b7-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com/2015-06-04-173732.jpeg "Vittici's Instapaper Review"
 [typography]: http://www.typography.com/fonts/ideal-sans/overview/ "Ideal Sans"

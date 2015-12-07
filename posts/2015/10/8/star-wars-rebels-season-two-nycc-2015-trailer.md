@@ -6,7 +6,7 @@ Tags: Star Wars
 Image: http://d.pr/i/10CKN+  
 Vide: https://youtu.be/YfeWNZqVYsE  
 
-Star Wars Rebels Season 2 airs October 14 at 9:30 PM on Disney XD. 
+Be ready.
 
 [From [/Film][slashfilm]]
 

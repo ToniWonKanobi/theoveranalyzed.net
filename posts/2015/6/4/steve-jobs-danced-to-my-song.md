@@ -1,7 +1,7 @@
 Title: Steve Jobs Danced to My Song  
 Date: 2015-06-04 13:07  
 Link: https://youtu.be/xFyXoPi9FNs  
-Description: The guy who sings the ATP theme song has an interesting story about Steve Jobs.  
+Description: 🎶  
 Tags: Steve Jobs  
 Image: http://d.pr/i/148Od+  
 Video: https://youtu.be/xFyXoPi9FNs  

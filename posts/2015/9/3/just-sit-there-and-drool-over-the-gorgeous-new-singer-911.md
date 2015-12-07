@@ -1,7 +1,7 @@
 Title: Just Sit There and Drool Over the Gorgeous New Singer 911  
 Date: 2015-09-03 14:23  
 Link: http://jalopnik.com/just-sit-there-and-drool-over-the-gorgeous-new-singer-9-1728563398  
-Description: Jalopnik drives Singer's newest 4.0L creation.  
+Description: Singer's got a new creation, and it's got 4 liters of displacement.  
 Tags: Porsche  
 Image: http://i.kinja-img.com/gawker-media/image/upload/s--glI764tq--/c_scale,fl_progressive,q_80,w_800/1414556606644345009.jpg  
 

@@ -1,6 +1,6 @@
 Title: How to Force Spotlight to Index Markdown Files in El Capitan  
 Date: 2015-12-03 13:53  
-Description: Sometime this past summer, Spotlight in El Capitan stopped indexing Markdown files. Here's how to fix that.  
+Description: This has been bothering me for months.  
 Tags: Power User, Spotlight  
 Image: http://d.pr/i/16cND+  
 

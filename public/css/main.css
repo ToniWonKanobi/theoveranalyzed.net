@@ -72,13 +72,15 @@ a[href*="overcast.fm/podcasts"]:after {
     content: " (Overcast)";
 }
 
-div.entry a {
+div.entry a,
+div.readMore a {
 	border-bottom: 2px solid #eee;
 	padding-bottom: 1px;
 	transition: background 0.2s ease-in-out;
 }
 
-div.entry a:hover {
+div.entry a:hover,
+div.readMore a:hover {
 	background: #eee;
 	border-bottom: none;
 	border-radius: 2px;
@@ -125,24 +127,24 @@ p#siteByline {
 ======================================== */
 
 /* Removes post content on homepage */
-body.homepage div.entry {
+/*body.homepage div.entry {
 	display: none;
-}
+}*/
 
 /* Re-adds post content for first post on homepage */
-body.homepage section:first-of-type div.entry {
+/*body.homepage section:first-of-type div.entry {
 	display: initial;
-}
+}*/
 
 /* Removes the description on the first post */
-body.homepage section:first-of-type article div:nth-of-type(1) {
+/*body.homepage section:first-of-type article div:nth-of-type(1) {
 	display: none;
-}
+}*/
 
 /* Removes the Read More link on the first post */
-body.homepage section:first-of-type article div:nth-of-type(3) {
+/*body.homepage section:first-of-type article div:nth-of-type(3) {
 	display: none;
-}
+}*/
 
 /* Main
 ======================================== */
@@ -273,7 +275,7 @@ img.wide {
 img.inlineTwo {
 	display: initial;
 	margin: auto 0.5em;
-	width: 43%;
+	width: 46%;
 }
 
 img.inlineThree {
@@ -302,7 +304,7 @@ figcaption code {
 
 audio,
 video {
-	max-width: 100%;
+	width: 100%;
 }
 
 video.wide {

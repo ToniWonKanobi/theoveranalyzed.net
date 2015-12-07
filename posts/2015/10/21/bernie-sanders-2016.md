@@ -1,7 +1,7 @@
 Title: Bernie Sanders 2016  
 Date: 2015-10-21 08:21  
 Link: http://fontsinuse.com/uses/10488/bernie-sanders-2016-3  
-Description: As election time draws nearer, Fonts in Use has democratic candidate Bernie Sanders on chopping block ...of font choice---not political leanings.  
+Description: As election time draws nearer, Fonts in Use has democratic presidential candidate Bernie Sanders on chopping block.  
 Tags: Typography, Fonts In Use  
 Image: http://d.pr/i/GdiG+  
 

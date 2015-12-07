@@ -1,7 +1,7 @@
 Title: This Week on Cotton Bureau: I Love Pie  
 Date: 2015-10-09 12:06  
 Link: https://cottonbureau.com/products/i-love-pie  
-Description: With pumpkin season upon us (just ask my wife), this shirt is more than appropriate.  
+Description: Fall-themed t-shirtery from Cotton Bureau.  
 Tags: Cotton Bureau    
 Image: https://cottonbureau.com/img/products/7061_OjvA_2400.jpg  
 

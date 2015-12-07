@@ -1,12 +1,12 @@
 Title: Star Wars: The Force Awakens Trailer  
 Date: 2015-10-19 19:52  
 Link: https://youtu.be/sGbxmsDFVnE  
-Description: "Nothing will stand in our way. I will finish what you started."  
+Description: Here's the official trailer for Star Wars: The Force Awakens.  
 Tags: Star Wars  
 Image: http://d.pr/i/17aoD+  
 Video: https://youtu.be/sGbxmsDFVnE  
 
-Here's the official trailer for Star Wars: The Force Awakens.
+> Nothing will stand in our way. I will finish what you started.
 
 <aside class="update">
 

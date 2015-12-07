@@ -1,11 +1,11 @@
 Title: Star Wars: The Force Awakens Trailer (International Addition)  
 Date: 2015-11-06 07:30  
 Link: https://youtu.be/t562L6n4Lu4  
-Description: Everything Japanese is better.  
+Description: Why is the Japanese version trailer better?  
 Tags: Star Wars  
 Image: http://d.pr/i/1fAqM+  
 
-[Everything][wikipedia] [Japanese][wikipedia 2] is [better][wikipedia 3].
+Because [everything][wikipedia] [Japanese][wikipedia 2] is [better][wikipedia 3].
 
 [From [Rene Ritchie][twitter]]
 

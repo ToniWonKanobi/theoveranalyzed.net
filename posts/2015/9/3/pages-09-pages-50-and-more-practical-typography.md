@@ -1,6 +1,6 @@
 Title: Pages '09, Pages 5.0, and More Practical Typography  
 Date: 2015-09-03 13:24  
-Description: I've had a few more days to spend with Practical Typography. Here are my thoughts on it, and how it effects my word processor usage on the Mac.  
+Description: I have some more thoughts on Practical Typography.  
 Tags: Apps, Typography  
 Image: http://d.pr/i/1fZQU+  
 

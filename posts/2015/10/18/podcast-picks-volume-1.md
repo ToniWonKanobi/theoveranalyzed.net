@@ -1,6 +1,6 @@
 Title: Podcast Picks, Volume 1  
 Date: 2015-10-18 10:21  
-Description: Here are some podcasts you should listen to.  
+Description: Podcasts are a great way to educate and entertain oneself. 
 Tags: Podcast Picks, Podcasts, Song Exploder  
 Image: http://d.pr/i/1gDp2+  
 

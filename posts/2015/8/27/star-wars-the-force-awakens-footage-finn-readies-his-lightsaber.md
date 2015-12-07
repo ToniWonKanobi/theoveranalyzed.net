@@ -5,8 +5,6 @@ Description: I should really start calling this blog StarWarsAnalyzed.
 Tags: Star Wars  
 Image: http://i1.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/finn-lightsaber-2.jpg  
 
-I'm beginning to think that I should change the name of this blog to StarWarsAnalyzed. 
-
 Check out the [latest post][insta] from the official Star Wars Instagram account.
 
 [From [/Film][sf]]

@@ -1,7 +1,7 @@
 Title: Emojipedia Blog  
 Date: 2015-06-19 10:07  
 Link: http://blog.emojipedia.org  
-Description: There's a whole blog about Emoji. Insta-subscribe.  
+Description: There's a whole blog about Emoji.  
 Tags: Emoji  
 Image: https://d27kszptu8mqwl.cloudfront.net/OInT6ZNxzkvWAbO98BcXxYOrYsYs_large.png  
 

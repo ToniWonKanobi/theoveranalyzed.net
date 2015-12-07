@@ -1,7 +1,7 @@
 Title: Typeface Mechanics: 002  
 Date: 2015-06-11 10:51  
 Link: http://www.frerejones.com/blog/typeface-mechanics-002/  
-Description: Tobias Frere-Jones' latest blog post examines "degrees of weight" in typefaces.  
+Description: Tobias Frere-Jones examines "degrees of weight" in typefaces.  
 Tags: Typography  
 Image: http://www.frerejones.com/assets/Futura-O-anim.gif  
 

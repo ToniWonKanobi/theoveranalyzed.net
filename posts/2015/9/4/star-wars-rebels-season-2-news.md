@@ -5,8 +5,6 @@ Description: Not sure how I missed this, but here's the second teaser trailer fo
 Tags: Star Wars  
 Image: http://d.pr/i/u6QI+  
 
-I'm not sure how I missed this from a few days ago, but here's the [teaser][teaser].
-
 And here's more Season 2 news from [Rebels Report][rr]:[^rr-rss]
 
 > Dave Filoni hosts a special Season 2 preview on the Star Wars Rebels Season One blu-ray set.

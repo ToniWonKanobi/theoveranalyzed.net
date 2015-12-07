@@ -1,8 +1,9 @@
 Title: How Well Can You Hear Audio Quality?  
 Date: 2015-06-03 10:33  
 Link: http://www.marco.org/2015/06/03/npr-audio-quality-test  
-Description: Marco Arment tackles audiophile snake oil (again).  
-Tags: Audio   
+Description: Not that well, apparently. 
+Tags: Audio  
+Image: 
 
 Marco Arment on audiophiles:
 

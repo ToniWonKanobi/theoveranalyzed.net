@@ -1,7 +1,7 @@
 Title: The Very First Episode of the Joy of Painting  
 Date: 2015-10-23 08:30  
 Link: https://youtu.be/oh5p5f5_-7A   
-Description: Bob Ross is the best  
+Description: Bob Ross is the best.  
 Tags: TV  
 Image: http://d.pr/i/1b3Us+  
 Video: https://youtu.be/oh5p5f5_-7A  

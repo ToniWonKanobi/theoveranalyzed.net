@@ -1,13 +1,11 @@
 Title: Amusing Ourselves to Death: Huxley vs. Orwell  
 Date: 2015-12-04 21:12  
 Link: http://www.highexistence.com/amusing-ourselves-to-death-huxley-vs-orwell/  
-Description: Makes you think.  
+Description: This really makes you think, doesn't it?  
 Tags: Culture  
 Image: http://d.pr/i/BuAm+  
 
 ![Huxley vs. Orwell][d]
-
-This really makes you think, doesn't it?
 
 While I've read [1984][amazon] a few times, I've read [Brave New World][amazon 2] only once---and that was in *high school*.
 

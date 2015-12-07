@@ -7,8 +7,6 @@ Image: http://d.pr/i/jEVz+
 
 ![Anais Nin Quote][d]
 
-Isn't that the truth?
-
 I've noticed that my life experiences have an inexplicable way of becoming *lenses* through which I view everyday events.
 
 On a personal level: "Oh, you're probably right: **I am the one who misunderstood**."

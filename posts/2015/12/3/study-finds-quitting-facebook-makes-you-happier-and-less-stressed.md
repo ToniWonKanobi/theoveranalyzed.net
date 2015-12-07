@@ -1,7 +1,7 @@
 Title: Study Finds Quitting Facebook Makes You Happier and Less Stressed  
 Date: 2015-12-03 14:40  
 Link: http://www.huhmagazine.co.uk/10779/study-finds-quitting-facebook-makes-you-happier-and-less-stressed  
-Description: You really should quit Facebook, so I can quit cross posting from Twitter.  
+Description: You really should quit Facebook, so I can quit cross-posting from Twitter.  
 Tags: Facebook  
 Image: http://www.huhmagazine.co.uk/images/uploaded/facebook_happier_00.jpg  
 

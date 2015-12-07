@@ -1,7 +1,7 @@
 Title: 2015 Goodwood Festival of Speed  
 Date: 2015-07-01 11:55  
 Link: http://www.total911.com/2015-goodwood-festival-of-speed-gallery-part-one/  
-Description: Total 911 has the scoop on this year's Goodwood.  
+Description: It's Porsche time at a certain racetrack in the UK.  
 Tags: Porsche  
 Image: http://www.total911.com/wp-content/uploads/2015/06/Goodwood-2.jpg  
 

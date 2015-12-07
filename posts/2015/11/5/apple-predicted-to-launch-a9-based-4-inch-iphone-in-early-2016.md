@@ -1,7 +1,7 @@
 Title: Apple Predicted to Launch A9-Based 4-Inch iPhone in Early 2016  
 Date: 2015-11-05 13:47  
 Link: http://www.macrumors.com/2015/11/03/kuo-4-inch-iphone-2016-iphone-7-ram/  
-Description: Ah, another 4-inch iPhone? Count me in.  
+Description: Ah. Another 4-inch iPhone in the works? Count me in.  
 Tags: iPhone  
 Image: http://cdn.macrumors.com/article-new/2014/12/iphone_screen_sizes.jpg  
 

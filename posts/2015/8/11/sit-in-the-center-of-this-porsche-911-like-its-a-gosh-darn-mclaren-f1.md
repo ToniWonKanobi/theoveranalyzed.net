@@ -1,7 +1,7 @@
 Title: Sit in the Center of This Porsche 911 Like It's a Gosh Darn McLaren F1  
 Date: 2015-08-11 08:00  
 Link: http://jalopnik.com/sit-in-the-center-of-this-porsche-911-like-its-a-gosh-d-1723208889  
-Description: A McLaren F1-inspired 997 C2S.  
+Description: A McLaren F1-inspired 997 C2S? Sure, why not?  
 Tags: Porsche  
 Image: http://i.kinja-img.com/gawker-media/image/upload/s--hVMhorJc--/c_fit,fl_progressive,q_80,w_636/1379922735071633187.jpg  
 

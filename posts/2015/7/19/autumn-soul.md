@@ -5,4 +5,4 @@ Description: My wonderful wife finally launched her website, featuring nifty pat
 Tags: Allison  
 Image: http://d.pr/i/1jiC3+  
 
-My wonderful wife finally launched her website, featuring nifty patterns and photography. Check it out!
+❤️

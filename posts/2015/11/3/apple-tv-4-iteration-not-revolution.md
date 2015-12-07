@@ -1,10 +1,8 @@
 Title: Apple TV 4: Iteration, Not Revolution  
 Date: 2015-11-03 14:47  
-Description: I received my Apple TV 4 today. And you know what's the best thing about that? tvOS, that's what.  
+Description: I received my Apple TV 4 today. And you know what's the best thing about that? tvOS, that's what. Here are my thoughts.  
 Tags: Reviews, Apple TV  
 Image: http://d.pr/i/19jXS+  
-
-<p><em class="topStory"><a href="http://twitter.com/smokeythedingo" title="Smokey on Twitter">Smokey</a> was barking at the front door. That could only mean one thing: OnTrac must've just dropped off a package. What was that package? It was the new Apple TV&nbsp;4!</em></p>
 
 ### Previously, on Apple TV
 

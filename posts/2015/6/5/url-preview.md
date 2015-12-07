@@ -1,8 +1,9 @@
 Title: URL Preview  
 Date: 2015-06-05 22:21  
 Link: http://brettterpstra.com/projects/url-preview/  
-Description: Brett Terpstra just released a nifty URL previewer for all your plain-texters out there.  
-Tags: Power User, Apps, Blogging    
+Description: How about a Markdown service that helps preview and validate links in-place?  
+Tags: Power User, Apps, Blogging  
+Image: http://d.pr/i/1glDj+  
 
 Brett Terpstra just released a nifty utility called [URL Preview][0402-0001], which works in conjunction with his other Markdown services.
 

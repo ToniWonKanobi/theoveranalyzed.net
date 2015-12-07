@@ -1,7 +1,7 @@
 Title: Apple Music Logo  
 Date: 2015-07-01T14:04  
 Link: http://fontsinuse.com/uses/9787/apple-music-logo  
-Description: Yesterday's launch of Apple Music ushered in an era of even more SF font usage.  
+Description: Wondering what font is Apple using for Apple Music?  
 Tags: Typography, Fonts In Use, Apple Music  
 Image: http://d.pr/i/1b7mC+  
 
