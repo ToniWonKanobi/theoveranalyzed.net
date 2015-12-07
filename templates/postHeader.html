@@ -3,7 +3,8 @@
 	<h2><a href="{{Link}}" title="Go to External Content">{{Title}}&nbsp;<span class="linkArrow">&#8594;</span></a></h2>
 	<ul class="postSubtitle">
 		<li class="date">
-			<time dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time></li>
+			<a href="{{formatArchiveDate Date}}" title="Posts from this day"><time dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time></a>
+		</li>
 		<li class="tags"><label>Tags: </label>
 			<ul>
 				{{#each tags}}
@@ -18,7 +19,8 @@
 	<h2><a href="{{relativeLink}}" title="Permalink to this Post">{{Title}}</a></h2>
 	<ul class="postSubtitle">
 		<li class="date">
-			<time dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time></li>
+			<a href="{{formatArchiveDate Date}}" title="Posts from this day"><time dateTime="{{formatIsoDate Date}}">{{formatPostDate Date}}</time></a>
+		</li>
 		<li class="tags"><label>Tags: </label>
 			<ul>
 				{{#each tags}}
