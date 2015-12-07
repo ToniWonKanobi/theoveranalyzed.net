@@ -1,10 +1,10 @@
 Title: Introducing TheOverAnalyzed 3.0  
 Date: 2015-06-01 13:30  
-Description: I spent the past month preparing for my exit from Squarespace, and transitioning to Casey Liss's node.js-powered static blogging engine, Camel.  
+Description: I spent the past month leaving Squarespace and moving to something better.  
 Tags: Meta, Camel  
 Image: http://d.pr/i/1lvGR+  
 
-Over the course of the next few days (weeks?), I am going to explain how exactly I left Squarespace and transitioned to Casey Liss's static blogging engine, [Camel][github]. I am aptly calling this series *Leaving Squarespace*.
+Over the course of the next few days (weeks?), I am going to explain how exactly I left my previous CMS and transitioned to Casey Liss's static blogging engine, [Camel][github]. I am aptly calling this series *Leaving Squarespace*.
 
 I said "weeks" because it might actually take that long to finish the series. I haven't even begun to write the posts. Moreover, moving TheOverAnalyzed to Camel has taken up almost all of my free time over the past two weeks. Because of that, I'm sure I have several links saved to my "Blog Content" folder in Instapaper---links I'm sure I'll want to share in-between these long-winded design pieces. My intent for this series to be part how-to[^for] and part web design philosophy in general.[^ph]
 
@@ -24,7 +24,7 @@ Making all my old Markdown files play nice with Camel was easy, but extremely ti
 
 Camel came with several nifty Markdown plugins, but I wanted more. 
 
-<hr class="long">
+***
 
 In the meantime, please explore the new site! I'm pretty proud of it. And as always, thanks for reading.
 

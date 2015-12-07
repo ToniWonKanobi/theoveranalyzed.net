@@ -3,7 +3,9 @@ Date: 2015-06-03 10:33
 Link: http://www.marco.org/2015/06/03/npr-audio-quality-test  
 Description: Not that well, apparently. 
 Tags: Audio  
-Image: 
+Image: http://d.pr/i/mE2T+  
+
+![Can we hear audio quality?][marco]
 
 Marco Arment on audiophiles:
 
@@ -12,4 +14,5 @@ Marco Arment on audiophiles:
 I've talked about this [before][theoveranalyzed], and my opinion hasn't changed much. If anything, it's still reassuring to know that I wasn't crazy when I couldn't hear the difference between iTunes Plus-quality encodes and their 24-bit/192kHz ALAC counterparts. I agree with him: good [headphones][amazon]/speakers are the most important, and the rest is just that 'last 5%' (if that much).
 
 [amazon]: http://www.amazon.com/dp/B00C4VFYRC/?tag=theov0c-20 "My (and Marco's) can of choice, the B&O PLAY H6's on Amazon"
+[marco]: http://d.pr/i/mE2T+ "Can we hear audio quality?"
 [theoveranalyzed]: /2015/2/3/ponoplayer-and-other-audiophile-snake-oil "My post on the PonoPlayer"

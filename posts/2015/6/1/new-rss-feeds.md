@@ -1,6 +1,6 @@
 Title: New RSS Feeds  
 Date: 2015-06-01 17:35  
-Description: New real simple syndication feeds for Version 3.0 of the site.  
+Description: New real simple syndication feeds for TheOverAnalyzed.  
 Tags: Meta, Camel  
 Image: https://www.instagram.com/p/3aYMO7QL7y/?taken-by=theoveranalyzed  
 

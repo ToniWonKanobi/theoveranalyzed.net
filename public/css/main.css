@@ -126,25 +126,21 @@ p#siteByline {
 /* Homepage
 ======================================== */
 
-/* Removes post content on homepage */
-body.homepage div.entry {
+/*body.homepage div.entry {
 	display: none;
 }
 
-/* Re-adds post content for first post on homepage */
 body.homepage section:first-of-type div.entry {
 	display: initial;
 }
 
-/* Removes the description on the first post */
 body.homepage section:first-of-type article div:nth-of-type(1) {
 	display: none;
 }
 
-/* Removes the Read More link on the first post */
 body.homepage section:first-of-type article div:nth-of-type(3) {
 	display: none;
-}
+}*/
 
 /* Main
 ======================================== */

@@ -3,7 +3,7 @@ Date: 2015-12-03 14:40
 Link: http://www.huhmagazine.co.uk/10779/study-finds-quitting-facebook-makes-you-happier-and-less-stressed  
 Description: You really should quit Facebook, so I can quit cross-posting from Twitter.  
 Tags: Facebook  
-Image: http://www.huhmagazine.co.uk/images/uploaded/facebook_happier_00.jpg  
+Image: http://d.pr/i/j6BY+  
 
 ![Quit Facebook already][huhmagazine]
 
@@ -18,4 +18,4 @@ Jack Lowe, for HUH:
 [via [Daring Fireball][daringfireball]]
 
 [daringfireball]: http://daringfireball.net/linked/2015/12/03/facebook-vs-happiness "Source post from John Gruber"
-[huhmagazine]: http://www.huhmagazine.co.uk/images/uploaded/facebook_happier_00.jpg "Quit Facebook already"
+[huhmagazine]: http://d.pr/i/j6BY+ "Quit Facebook already"
