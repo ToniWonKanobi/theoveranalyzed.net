@@ -1,7 +1,7 @@
 Title: Apple Hardware Bucket List  
 Date: 2015-01-26 11:35  
 Description: A guy can dream, can't he?  
-Tags: Apple Hardware Bucket List  
+Tags: Apple  
 Image: http://g.fastcompany.net/multisite_files/fastcompany/poster/2014/01/3025497-poster-p-1-next-cofounder-george-crow-reflects-on-engineering-the-first-macintosh.jpg  
 
 I have [previously eluded][elu] to my Apple Hardware Bucket List. However, I have yet to publicly define it.

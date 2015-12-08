@@ -1,6 +1,6 @@
 Title: The Paradox of Choice & Choosing an iPad  
 Date: 2014-12-22 16:48  
-Description: Sometimes too many choices makes thins difficult. Case in point: choosing a new iPad.  
+Description: Sometimes too many choices makes things difficult. Case in point: choosing a new iPad.  
 Tags: Reviews, iPad  
 Image: http://d.pr/i/12z5L+  
 
