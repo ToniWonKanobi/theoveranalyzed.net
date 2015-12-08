@@ -75,10 +75,10 @@ So, for completeness, this is what my `Header` in the `Code Injection` field loo
 [^bfs]: Money.
 [^bo]: No doubt they are. 
 [^csa]: No active Twitter for him, unfortunately.
-[^ld]: Defunct as well. His email *is* on [Git][github], however.
+[^ld]: Defunct as well. His email *is* on [GitHub][github], however.
 [^old]: This is an old slug from when I was still using Squarespace.
 [^pu]: I have been wanting to do this for longer than just 20 days ago, so this is like months of pent up 'wanting to footnote' feelings.
-[^sc]: Oh, authors can write, but put in all those 'asides,' without consciously distracting from the whole of the text? Nice.
+[^sc]: Oh, authors can inline textual "asides" without consciously distracting from the whole of the piece? Nice.
 [^te]: [Squarespace][ss] is a wonderful CMS, and makes things really easy for novice bloggers. But Squarespace also makes things incredibly difficult for bloggers who want to step outside of the 'normal' and typical way of doing things (e.g., footnotes). 
 [^tp]: I suppose I can't blame them. Me asking quite rudimentary questions about jQuery implementation in what is, to them, a random blog engine (Squarespace) is probably just as confounded as someone asking me which fingers they should use to fret a power cord. Still, it felt terrible to not have closure on this issue.
 
