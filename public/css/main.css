@@ -126,7 +126,7 @@ p#siteByline {
 /* Homepage
 ======================================== */
 
-/*body.homepage div.entry {
+body.homepage div.entry {
 	display: none;
 }
 
@@ -140,7 +140,7 @@ body.homepage section:first-of-type article div:nth-of-type(1) {
 
 body.homepage section:first-of-type article div:nth-of-type(3) {
 	display: none;
-}*/
+}
 
 /* Main
 ======================================== */
@@ -151,7 +151,7 @@ main {
 }
 
 body.homepage main {
-	margin-bottom: 5em;
+	margin-bottom: 3em;
 }
 
 /* Page/Post Headers
@@ -277,7 +277,7 @@ img.inlineTwo {
 img.inlineThree {
 	display: initial;
 	margin: auto 0.5em;
-	width: 26%;
+	width: 29%;
 }
 
 img.inlineFour {
@@ -307,6 +307,10 @@ video.wide {
 	margin: 1em auto 1.5em -25%;
 	max-width: initial;
 	width: 150%;
+}
+
+iframe {
+	border: none;
 }
 
 /* Fixes iframe margin weirdness with FitVids.js */
@@ -539,11 +543,7 @@ a.footnote-backref:hover {
 section#pagination {
 	font-size: 1.1em;
 	font-weight: 400;
-	border-bottom: 0.2em solid #ddd;
-	border-top: 0.2em solid #ddd;
 	height: 1.75em;
-	/* Have to do this because floats are stupid */
-	margin: 4em auto 4em auto;
 	padding: 1em 0;
 }
 

@@ -1,7 +1,7 @@
 Title: The Difference Between Apple and Samsung Industrial Design  
 Date: 2015-04-29 12:52  
 Link: http://www.imore.com/difference-apple-samsung-industrial-design  
-Description: Rene Ritchie takes apart Samsung design. It isn't pretty.  
+Description: Samsung's design isn't derivative at all. Nope. Not in the slightest.  
 Tags: Apple  
 Image: http://www.imore.com/sites/imore.com/files/styles/larger/public/field/image/2015/04/galaxy-s6-qualcomm-alignment.jpg?itok=UXcqpNTv  
 

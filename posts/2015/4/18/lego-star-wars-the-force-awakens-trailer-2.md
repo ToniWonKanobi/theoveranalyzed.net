@@ -7,6 +7,8 @@ Video: https://youtu.be/ZcuzkHkTnUY
 
 How could [this][theoveranalyzed] get any better, you ask?
 
+Watch this video. Then you'll know.
+
 [From [Devour][devour]]
 
 [devour]: http://devour.com/video/lego-star-wars-the-force-awakens-trailer-2/ "Source post on Devour"

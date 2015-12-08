@@ -5,7 +5,7 @@ Description: I quite fancy Pearl Jam. There's a lot of history between Eddie Ved
 Tags: Music  
 Video: https://youtu.be/OlZKFJueoIA  
 
-An oldie but goodie: Eddie Vedder surprises Letterman.
+An oldie but goodie.
 
 PS: [Will Lee][wikipedia] and the rest of [The CBS Orchestra][wikipedia 2] are pretty [BA][ba]. 
 

@@ -1,8 +1,10 @@
 Title: The Last American Who Knew What the F*** He Was Doing  
 Date: 2014-10-07 12:00 
-Description: Two days past the three-year anniversary of his death, I explain what Steve Jobs meant to me as an Apple fan.  
+Description:   
 Tags: Steve Jobs  
 Image: http://i.onionstatic.com/onion/1611/3/16x9/1600.jpg  
+
+![Steve Jobs][sj]
 
 This post's title came from The Onion's [piece][pie] immediately following Steve Jobs' passing on October 5, 2011. How appropos.
 
@@ -50,6 +52,7 @@ Thanks Steve 
 [overcast]: http://overcast.fm/ "Overcast"
 [pie]: http://www.theonion.com/article/last-american-who-knew-what-the-fuck-he-was-doing--26268 "The Onion on Steve Jobs's death"
 [reederapp]: https://itunes.apple.com/us/app/reeder-2/id697846300?mt=8&at=1l3vx9s "Reeder 2 on the App Store"
+[sj]: http://i.onionstatic.com/onion/1611/3/16x9/800.jpg "Steve Jobs"
 [supertop]: http://supertop.co/ "Creators of Castro"
 [theverge]: http://theverge.com/ "The Verge"
 [twitter]: http://twitter.com/johnmyankee "John Yankee on Twitter"

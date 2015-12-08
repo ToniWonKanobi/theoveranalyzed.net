@@ -1,6 +1,6 @@
 Title: Fender and NAMM 2015  
 Date: 2015-01-25 11:24  
-Description: The annual National Association of Music Merchants (NAMM) isn't what it used to be.  
+Description: I go for the long-bearded former Phil Collins bassists.  
 Tags: Industry, Music  
 Image: https://scontent-lax3-1.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10914638_1046851482007288_940964910_n.jpg  
 

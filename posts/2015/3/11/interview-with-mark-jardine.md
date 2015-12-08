@@ -1,7 +1,7 @@
 Title: Interview With Mark Jardine, Co-Founder of Tapbots  
 Date: 2015-03-11 10:00  
 Link: http://wayswework.io/interviews/interview-with-mark-jardine-co-founder-of-tapbots  
-Description: Mark Jardine sat down for an interview with Ways We Work.  
+Description: How do our favorite designer/developers do work?  
 Tags: Design, Apps, Tapbots  
 Image: http://wayswework.io/assets/img/headerphotos/me.jpg  
 

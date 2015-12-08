@@ -1,7 +1,7 @@
 Title: How Money Is (Not) Made in Auto Journalism  
 Date: 2015-01-19 12:00  
 Link: http://jalopnik.com/how-money-is-not-made-in-autojournlism-1679747807  
-Description: Chris Harris lays out some of the troubles plaguing automobile enthusiasts like himself.  
+Description: Blogging about cars isn't exactly the most lucrative venture on the planet.  
 Tags: Blogging, Cars  
 Image: http://i.kinja-img.com/gawker-media/image/upload/s--JTkokMfm--/c_scale,fl_progressive,q_80,w_800/zwez3fkhg2jony1ehi3l.jpg  
 

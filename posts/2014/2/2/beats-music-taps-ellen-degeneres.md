@@ -1,7 +1,7 @@
 Title: Beats Music Taps Ellen Degeneres  
 Date: 2014-02-02 22:52  
 Link: http://www.theverge.com/2014/2/2/5372226/beats-music-taps-ellen-degeneres-and-bears-for-super-bowl-spot  
-Description: Music  
+Description: Apple knows how to do celebrity endorsements.  
 Tags: Apps  
 Image: https://cdn2.vox-cdn.com/thumbor/OdBO0UeBElpoBsbsp2mIdxL9oS0=/202x0:897x463/2050x1367/cdn0.vox-cdn.com/assets/3948389/ellen-beats.png  
 

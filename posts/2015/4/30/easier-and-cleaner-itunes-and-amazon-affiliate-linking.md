@@ -40,5 +40,5 @@ Most of my writing for TheOverAnalyzed happens on my Mac.[^btw] Using a combinat
 [macstories 3]: http://www.macstories.net/linked/stretchlink-unshortens-and-cleans-urls-from-your-menu-bar/ "Federico Viticci reviews StretchLink for Mac"
 [sixcolors]: http://sixcolors.com/post/2015/04/the-new-macbook-a-reviewers-notebook/ "Jason Snell reviews the 2015 MacBook"
 [squibner]: http://squibner.com/blink "Developer of Blink for iOS"
-[stretchlinkapp]: http://stretchlinkapp.com/ "Project page for StretchLink'
+[stretchlinkapp]: http://stretchlinkapp.com/ "Project page for StretchLink"
 [twitter]: https://twitter.com/johnvoorhees/status/578559560564146176 "John Voorhees suggesting Affiliate to me"

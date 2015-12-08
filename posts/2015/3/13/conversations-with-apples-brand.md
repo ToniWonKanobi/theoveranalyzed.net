@@ -1,7 +1,7 @@
 Title: Conversations With Apple's Brand  
 Date: 2015-03-13 15:00  
 Link: http://www.asymco.com/2015/03/11/conversations-with-apples-brand/  
-Description: Horace Dediu gives a quick tour of Apple's brand through the decades.  
+Description: Apple through the decades.  
 Tags: Apple  
 Image: http://d.pr/i/Npp2+  
 

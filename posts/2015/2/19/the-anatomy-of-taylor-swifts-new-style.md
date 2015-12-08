@@ -1,11 +1,11 @@
 Title: The Anatomy of Taylor Swift's New "Style"  
 Date: 2015-02-19 10:05  
 Link: http://www.vox.com/2015/2/19/8068789/taylor-swift-style-annotated  
-Description: Vox breaks down Taylor Swift's latest single.  
+Description: "Midnight, you come and pick me up, no headlights."  
 Tags: Taylor Swift  
 Video: https://youtu.be/l_b86duruvs  
 
-Kelsey McKinney for Vox, on Taylor Swift's latest video for Style:
+Kelsey McKinney for Vox, on Taylor Swift's latest, <i>Style</i>:
 
 > All of the songs on this album are 100% pop. You know, some of them tell stories. They aren't stories like she was telling on [Fearless][wikipedia] or [Speak Now][wikipedia 2]. 
 

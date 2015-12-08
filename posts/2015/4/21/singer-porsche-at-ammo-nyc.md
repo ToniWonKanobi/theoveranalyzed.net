@@ -1,7 +1,7 @@
 Title: Singer Porsche at AMMO NYC  
 Date: 2015-04-21 19:13  
 Link: https://youtu.be/MZg4--QZHko  
-Description: Larry Kosilla takes on the Singer 911.  
+Description: Larry Kosilla has a rough life.  
 Tags: Porsche   
 Video: https://youtu.be/MZg4--QZHko  
 

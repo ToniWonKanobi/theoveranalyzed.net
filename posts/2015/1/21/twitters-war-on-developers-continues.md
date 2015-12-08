@@ -1,7 +1,7 @@
 Title: Twitter’s War on Developers Continues  
 Date: 2015-01-21 17:10  
 Link: http://9to5mac.com/2015/01/25/tweetbot-mac-twitters-war-on-developers/  
-Description: Twitter really knows how to treat its third party developer ecosystem.  
+Description: Twitter really knows how to treat third party developers.  
 Tags: Twitter  
 Image: https://9to5mac.files.wordpress.com/2015/01/screen-shot-2015-01-25-at-2-31-02-am.png?w=2500&h=794  
 

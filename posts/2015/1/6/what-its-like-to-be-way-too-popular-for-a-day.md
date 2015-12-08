@@ -1,6 +1,6 @@
 Title: What It's Like to Be Way Too Popular for a Day  
 Date: 2015-01-06 10:00  
-Description: Marco Arment recently got more attention than he wanted for writing a blog post criticizing Apple.  
+Description: Apple apologist, he is not.  
 Tags: Blogging  
 Image: http://d.pr/i/dacj+  
 

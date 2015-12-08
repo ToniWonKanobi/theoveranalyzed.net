@@ -1,7 +1,7 @@
 Title: The Man Behind the Apple Watch  
 Date: 2015-03-13 14:00  
 Link: http://howtospendit.ft.com/articles/77791-the-man-behind-the-apple-watch  
-Description: Jony Ive's profile in The New Yorker looks to be an excellent read. Nick Foulkes also wrote on Ive.  
+Description: Jony Ive's current role at Apple is nothing but even more significant than during Steve Jobs's reign.  
 Tags: Apple Watch  
 Image: http://assets2.howtospendit.ft-static.com/images/41/c5/b6/41c5b648-f409-4be0-9ec5-d1c5ac006e58_seven_hundred.jpg  
 

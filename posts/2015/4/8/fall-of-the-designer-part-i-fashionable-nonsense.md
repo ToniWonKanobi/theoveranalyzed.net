@@ -1,7 +1,7 @@
 Title: Fall of the Designer Part I: Fashionable Nonsense  
 Date: 2015-04-08 08:00  
 Link: http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense  
-Description: Eli Schiff recently criticized Marco Arment and his speaking out against Apple.  
+Description: Eli Schiff isn't exactly making friends with Marco Arment.  
 Tags: Design, Apple  
 Image: http://d.pr/i/1jQtU+  
 

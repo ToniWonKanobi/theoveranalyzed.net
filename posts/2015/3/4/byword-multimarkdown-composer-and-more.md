@@ -159,7 +159,7 @@ And then I would have to go back through my document and copy that format for re
 With MultiMarkdown Composer, I just place a `{{TOC}}` at the top of my document, and then I get something wonderful like this:
 
 <figure>
-	<img class="screenshot" src="http://d.pr/i/1azBA+" alt="So much easier than doing it by hand" title="So much easier than doing it by hand">
+	<img class="screenshot" src="http://d.pr/i/1azBA+" alt="So much easier than doing it by hand" title="So much easier than doing it by hand" style="margin: auto; max-width: 75%">
 	<figcaption><em>So</em> much easier than doing it by hand</figcaption>
 </figure>
 

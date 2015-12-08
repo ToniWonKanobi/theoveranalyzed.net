@@ -1,7 +1,7 @@
 Title: Freehand Famous Logos  
 Date: 2015-04-02 08:00  
 Link: https://youtu.be/byQy0w5vr-A  
-Description: Seb Lester shows how great his freehand is.  
+Description: There's drawing, and then there's _drawing_.  
 Tags: Design  
 Video: https://youtu.be/byQy0w5vr-A  
 

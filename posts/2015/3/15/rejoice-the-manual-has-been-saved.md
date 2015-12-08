@@ -1,7 +1,7 @@
 Title: Rejoice, the Manual Has Been Saved!  
 Date: 2015-03-15 14:00  
 Link: http://jalopnik.com/rejoice-the-manual-has-been-saved-1688464485  
-Description: Chris Harris takes the new Cayman GT4.  
+Description: The new Cayman GT4 deserves a good toss 'round the track.  
 Tags: Porsche  
 Image: http://i.kinja-img.com/gawker-media/image/upload/s--dxVuFigc--/c_scale,fl_progressive,q_80,w_800/vusxvxyertc6tiih5js7.jpg  
 

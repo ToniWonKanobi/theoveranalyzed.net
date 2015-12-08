@@ -1,11 +1,9 @@
 Title: Last Week Tonight With John Oliver: Marketing to Doctors  
 Date: 2015-02-12 09:00  
 Link: https://youtu.be/YQZ2UeOTO3I  
-Description: John Oliver sticking it to the pharmaceutical industry.  
+Description: This is a great example of John Oliver doing his thing.  
 Tags: Medicine, John Oliver  
 Video: https://youtu.be/YQZ2UeOTO3I  
-
-A good example of John Oliver doing his thing. 
 
 For the most part, the dental industry[^di] has been spared from this level of marketing. Sure, there are probably about a trillion different flowable composite resins to choose from, and there are probably representatives from [GC][gcamerica], [Kerr][kerrdental], and [Kuraray][kuraraydental] that want to come to your office and sell you their version. They might even buy you lunch. 
 

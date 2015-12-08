@@ -1,6 +1,6 @@
 Title: The Honda NSX  
 Date: 2015-02-13 09:00  
-Description: I talk about one of my favorite cars of all time.  
+Description: There for a while, Japan had some serious sports cars.  
 Tags: Honda  
 Image: http://d.pr/i/1hDP1+  
 

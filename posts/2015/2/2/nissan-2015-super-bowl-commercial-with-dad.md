@@ -1,7 +1,7 @@
 Title: Nissan 2015 Super Bowl Commercial "With Dad"  
 Date: 2015-02-02 20:30  
 Link: https://youtu.be/Bd1qCi5nSKw  
-Description: This is *so* much better than the Budweiser one.  
+Description: 🏎  
 Tags: TV, Animals  
 Video: https://youtu.be/Bd1qCi5nSKw  
 

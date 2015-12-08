@@ -1,11 +1,11 @@
 Title: Usher - "Pumped Up Kicks" (Foster The People Cover)  
 Date: 2015-02-25 08:52  
 Link: https://youtu.be/zMEuA7HbiiY   
-Description: Usher plays bass guitar for this Foster The People cover.  
+Description: Isn't it so cool to find out popular artists actually know something about music?  
 Tags: Music, Bass Guitar  
 Video: https://youtu.be/zMEuA7HbiiY  
 
-Aside: Isn't it so cool to find out popular artists actually know something about music? Usher plays[^us] [some] bass. Good to know.
+Usher plays[^us] [some] bass. Good to know.
 
 By the way, while this song is totes uplifting musically speaking, it is a [complete downer lyrically][wikipedia].
 

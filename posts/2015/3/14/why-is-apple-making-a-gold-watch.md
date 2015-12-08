@@ -1,7 +1,7 @@
 Title: Why Is Apple Making a Gold Watch?  
 Date: 2015-03-14 08:00  
 Link: http://ben-evans.com/benedictevans/2015/3/12/why-is-apple-making-a-gold-watch  
-Description: Benedict Evans posits on exactly why Apple is making a gold watch.  
+Description: Because all that glitters is not gold, right?  
 Tags: Apple Watch  
 Image: http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/55013e36e4b0d50640223095/1426144823329/?format=750w  
 

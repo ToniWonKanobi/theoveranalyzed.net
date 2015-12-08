@@ -1,11 +1,9 @@
 Title: Christina on Britney  
 Date: 2015-02-24 16:50  
 Link: https://youtu.be/uD2nOjV3AaI  
-Description: Christina Aguilera nails some celebrity impressions.  
+Description: And not just Britney!  
 Tags: Music, TV  
 Video: https://youtu.be/uD2nOjV3AaI  
-
-And not just Britney!
 
 Christina nailed her impressions, no doubt about that.
 

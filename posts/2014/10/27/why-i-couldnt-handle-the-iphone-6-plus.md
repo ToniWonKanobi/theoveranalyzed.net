@@ -2,7 +2,9 @@ Title: Why I Couldn't Handle the iPhone 6 Plus
 Date: 2014-10-27 12:00  
 Description: So I tried the iPhone 6 Plus, and it was too much for me.  
 Tags: Reviews, iPhone  
-Image: https://313e5987718b346aaf83-f5e825270f29a84f7881423410384342.ssl.cf1.rackcdn.com/1410293876-iPhone6_PF_SpGry_iPhone6_PB_SpGry_iPhone6_PSL_SpGry_Homescreen-PRINT.jpg  
+Image: http://d.pr/i/1jeq8+  
+
+![iPhone 6 Plus][iphone]
 
 ### That Night
 
@@ -65,6 +67,7 @@ Different strokes for different folks I guess.
 [francemovil]: http://www.francemovil.do/media/motorola8000x.jpg "'Smartphone' (?)"
 [gottabemobile]: http://www.gottabemobile.com/2014/10/04/can-iphone-6-plus-replace-your-ipad-mini-with-retina/ "iPhone 6 Plus as replacement for iPad mini?"
 [gottabemobile 2]: http://www.gottabemobile.com/2014/09/15/iphone-6-iphone-6-plus-pocket-test-video/ "iPhone 6 and 6 Plus pocket test"
+[iphone]: http://d.pr/i/1jeq8+ "iPhone 6 Plus"
 [relay]: http://relay.fm/upgrade/1 "Upgrade podcast, episode 1"
 [sonnydickson]: http://sonnydickson.com/2014/05/22/a-visual-look-at-apples-iphone-6-vs-previous-iphones/ "Visual look at iPhone 6 vs previous iPhones"
 [spibelt]: http://www.spibelt.com/products/spibelt/large-pocket-spibelt "Fanny pack that I bought because my friend has it"

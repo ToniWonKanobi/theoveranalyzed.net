@@ -1,7 +1,7 @@
 Title: The Future of the Dumbwatch  
 Date: 2015-03-20 15:04  
 Link: http://www.marco.org/2015/03/20/dumbwatch-future  
-Description: Marco Arment shares some thoughts on the future of dumbwatches (non-Apple Watch watches).  
+Description: Handmade vs. fruit-made.  
 Tags: Apple Watch  
 Image: http://d.pr/i/10KlC+  
 

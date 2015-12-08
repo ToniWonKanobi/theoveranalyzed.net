@@ -1,7 +1,7 @@
 Title: Talking Watches With Tony Fadell  
 Date: 2015-05-06 18:30  
 Link: http://www.hodinkee.com/blog/talking-watches-with-tony-fadell  
-Description: Tony Fadell sits down with the Hodinkee guy and talks watches (including Apple's latest).  
+Description: Even an ex-Apple executive is having a hard time getting behind the Watch.  
 Tags: Watches, Apple Watch  
 Image: http://d.pr/i/13OjM+  
 

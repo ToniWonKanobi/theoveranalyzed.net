@@ -1,6 +1,6 @@
 Title: "This Would Have Never Happened if Steve Jobs Was Still Alive"  
 Date: 2015-04-17 08:00  
-Description: Apple has completely overhauled it's public image since Steve Jobs died---and that's a good thing.  
+Description: Apple has completely overhauled it's public image since Steve Jobs died (and that's a good thing.)  
 Tags: Apple  
 Image: https://cdn-images-1.medium.com/max/2000/1*JVzEOkbojZeAIhXErOpUGQ.jpeg  
 

@@ -1,7 +1,10 @@
 Title: Bigfoot Footnotes in Squarespace  
 Date: 2015-01-31 08:00  
-Description: A big milestone in my blogging development: footnotes are live on TheOverAnalyzed!  
+Description: A big milestone in my blogging development: Bigfoot footnotes are live on TheOverAnalyzed!  
 Tags: Best Of, Squarespace  
+Image: http://d.pr/i/S2A4+  
+
+![Bigfoot Footnotes][bf]
 
 #### TL;DR
 
@@ -79,6 +82,7 @@ So, for completeness, this is what my `Header` in the `Code Injection` field loo
 [^te]: [Squarespace][ss] is a wonderful CMS, and makes things really easy for novice bloggers. But Squarespace also makes things incredibly difficult for bloggers who want to step outside of the 'normal' and typical way of doing things (e.g., footnotes). 
 [^tp]: I suppose I can't blame them. Me asking quite rudimentary questions about jQuery implementation in what is, to them, a random blog engine (Squarespace) is probably just as confounded as someone asking me which fingers they should use to fret a power cord. Still, it felt terrible to not have closure on this issue.
 
+[bf]: http://d.pr/i/S2A4+ "Bigfoot Footnotes"
 [bigfootjs]: http://www.bigfootjs.com "Bigfoot footnotes"
 [crateofpenguins]: http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites "This page helped me figure out Bigfoot footnotes"
 [daringfireball]: http://www.daringfireball.net "John Gruber's blog, Daring Fireball"

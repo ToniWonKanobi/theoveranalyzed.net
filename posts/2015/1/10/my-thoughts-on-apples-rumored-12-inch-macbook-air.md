@@ -2,7 +2,9 @@ Title: My Thoughts on Apple's Rumored 12" MacBook Air
 Date: 2015-01-10 11:17  
 Description: I can't wait for the new MacBook Air. Even if it does only have one port.  
 Tags: Mac  
-Image: http://photos2.appleinsidercdn.com/gallery/8910-318-140409-Roadmap-l.png  
+Image: https://9to5mac.files.wordpress.com/2015/01/profilel-r-copy1.png  
+
+![The New MacBook Air?][mba]
 
 Daniel Eran Dilger of [AppleInsider][appleinsider] on why the [proposed][9to5mac] move to the USB 3.1 Type-C connector is a necessary change:
 
@@ -60,6 +62,7 @@ As painful as it is, we would be remiss without Apple continually pushing the bo
 [fortune]: http://fortune.com/2009/03/12/iphone-sales-grew-245-in-2008-gartner/ "iPhone sales grew like crazy in 2008"
 [loopinsight]: http://www.loopinsight.com/2012/09/14/why-does-the-iphone-5-have-lightning-instead-of-micro-usb/ "The Loop on why the iPhone 5 has Lightning instead of micro USB"
 [mashable]: http://mashable.com/2012/10/29/apple-lightning-micro-usb/ "Mashable on Apple's Lightning connector"
+[mba]: https://9to5mac.files.wordpress.com/2015/01/profilel-r-copy1.png "The New MacBook Air?"
 [nest]: http://www.nest.com "Nest"
 [pinterest]: http://pinterest.com/pin/204280533067248191/ "Those were the droids we were looking for"
 [sourcesofinsight]: http://sourcesofinsight.com/why-people-resist-change/ "Why people resist change"

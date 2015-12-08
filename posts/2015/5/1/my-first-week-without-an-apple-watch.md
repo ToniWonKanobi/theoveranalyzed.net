@@ -1,7 +1,7 @@
 Title: My First Week Without an Apple Watch  
 Date: 2015-05-01 08:00  
 Link: http://mrgan.tumblr.com/post/117864539382/my-first-week-without-an-apple-watch  
-Description: Looks like Neven Mrgan doesn't have his Apple Watch yet either.  
+Description: Looks like I'm not the only one waiting for their Apple Watch.  
 Tags: Apple Watch  
 Image: http://41.media.tumblr.com/a84fc9967e8109dc9db2e3f01159da2c/tumblr_inline_nnoegxSRHO1qz50x3_500.png  
 

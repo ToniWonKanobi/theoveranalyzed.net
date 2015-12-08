@@ -1,7 +1,7 @@
 Title: Sadowsky Guitars  
 Date: 2015-05-04 14:24  
 Link: https://vimeo.com/116084569  
-Description: Roger Sadowsky telling his famous story.  
+Description: New York is home to one of my favorite boutique bass shops.  
 Tags: Bass Guitar  
 Video: https://vimeo.com/116084569  
 

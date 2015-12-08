@@ -1,7 +1,7 @@
 Title: Soft Remix: A WinterBoard Theme for iOS 7  
 Date: 2014-02-02 22:52  
-Description: I reviewed a WinterBoard theme for jailbroken iOS 7 devices.  
-Tags: Power User, iPhone  
+Description: Jailbreaking = themes.  
+Tags: Reviews  
 Image: http://d.pr/i/1dizS+  
 
 <figure>
@@ -14,7 +14,7 @@ One of the most wonderful things about jailbreaking an iOS device is [WinterBoar
 When the evasi0n team brought out the jailbreak for 2012, one of the first themes I installed was [FlatIcons][flaticonsios]. An update to that theme was just recently submitted to its repository, and should be live on Cydia soon. To tide me over until them, a few weeks ago I installed a theme borne of a similar design esthetic: I call it 'flat, but not ugly' (as opposed to some hideous stock [iOS 7 app icons][cultofmac])
 
 <figure>
-	<img src="http://d.pr/i/179Co+" alt="Soft Remix is one of the earliest available WinterBoard themes for iOS 7"  title="Soft Remix is one of the earliest available WinterBoard themes for iOS 7" style="width: 70%;">
+	<img src="http://d.pr/i/179Co+" alt="Soft Remix is one of the earliest available WinterBoard themes for iOS 7"  title="Soft Remix is one of the earliest available WinterBoard themes for iOS 7" style="margin: auto; max-width: 75%;">
 	<figcaption>I cannot recall where I found this meme.</figcaption>
 </figure>
 

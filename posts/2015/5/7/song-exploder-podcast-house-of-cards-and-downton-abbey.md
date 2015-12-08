@@ -1,6 +1,6 @@
 Title: Song Exploder Podcast: House of Cards and Downton Abbey  
 Date: 2015-05-07 15:59  
-Description: The Song Exploder podcast breaks down theme music in popular TV shows/movies.  
+Description: A podcast that takes apart popular songs? Count me in.  
 Tags: Podcast Picks, Song Exploder, Downton Abbey  
 Image: http://is5.mzstatic.com/image/thumb/Music7/v4/d6/d5/c9/d6d5c9d9-c0ed-c486-11f8-a2abc917630b/source/10000x10000bb.jpg  
 

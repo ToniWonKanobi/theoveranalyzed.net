@@ -1,7 +1,7 @@
 Title: The Secret to Apple’s Success Remains a Secret  
 Date: 2015-03-15 12:00  
 Link: https://techpinions.com/the-secret-to-apples-success-remains-a-secret/38566  
-Description: John Kirk versus James Stewart: is Apple a fluke?  
+Description: John Kirk vs. James Stewart: is Apple a fluke?  
 Tags: Apple  
 Image: http://d.pr/i/1dIKM+  
 

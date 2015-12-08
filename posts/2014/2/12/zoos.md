@@ -1,6 +1,6 @@
 Title: Zoos  
 Date: 2014-02-12 22:45  
-Description: Zoos are terrible. Read to find out why.  
+Description: Zoos are terrible.  
 Tags: Advocacy  
 Image: https://assets.rbl.ms/145038/1216x700.jpg  
 

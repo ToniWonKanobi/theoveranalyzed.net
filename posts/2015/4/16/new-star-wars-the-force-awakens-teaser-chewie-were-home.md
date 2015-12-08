@@ -1,7 +1,7 @@
 Title: New ‘Star Wars: The Force Awakens’ Teaser: Chewie, We’re Home  
 Date: 2015-04-16 11:33  
 Link: https://youtu.be/ngElkyQ6Rhs  
-Description: Star Wars  
+Description: This is it.  
 Tags: Star Wars  
 Video: https://youtu.be/ngElkyQ6Rhs  
 

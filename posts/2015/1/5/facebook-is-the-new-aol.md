@@ -1,6 +1,6 @@
 Title: Facebook Is the New AOL  
 Date: 2015-01-05 10:00  
-Description: I discuss how Facebook is irrelevant, as well as recount some of my earliest experiences with computers.  
+Description: If not AOL, at least Myspace.  
 Tags: Facebook, Culture  
 Image: https://cdn1.vox-cdn.com/thumbor/AJTVH3mD2RQgGveTg9YU6J4vzL0=/0x165:3968x2810/2050x1367/cdn0.vox-cdn.com/uploads/chorus_image/image/45147628/AOL_promotional_CDs_in_Canada.0.0.jpg  
 

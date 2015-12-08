@@ -1,7 +1,7 @@
 Title: Kanye West Tells Oxford Students, "If I Can Remove My Ego, 'There's Hope for Everyone'"  
 Date: 2015-03-03 15:30  
 Link: http://www.justjared.com/2015/03/03/kanye-west-tells-oxford-students-if-i-can-remove-my-ego-theres-hope-for-everyone/  
-Description: Jim Dalrymple lays into 'Ye.  
+Description: Oh 'Ye. Sigh.  
 Tags: Culture  
 Image: http://cdn02.cdn.justjared.com/wp-content/uploads/headlines/2015/03/kanye-west-oxford-speech-talks-about-ego.jpg  
 

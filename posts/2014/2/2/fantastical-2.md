@@ -1,6 +1,6 @@
 Title: Fantastical 2  
 Date: 2014-02-02 22:54  
-Dexcription: A short review of Flexibits's calendar app, Fantastical 2, as well comparisons to several popular competitors.  
+Description: A review of Flexibits's calendar app, Fantastical 2.  
 Tags: Reviews, Apps  
 Image: http://design.iconfactory.com/wp-content/uploads/2013/10/App-Icon-iOS-7_Fantastical2.jpg  
 

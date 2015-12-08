@@ -1,7 +1,7 @@
 Title: Car UI  
 Date: 2015-04-06 12:00  
 Link: http://leancrew.com/all-this/2015/04/car-ui/  
-Description: Dr. Drang shares some insightful thoughts regarding the poor, poor user interface of cars these days.  
+Description: When can we have CarPlay without CarPlay?  
 Tags: Cars, Apple  
 Image: http://d.pr/i/AwNp+  
 

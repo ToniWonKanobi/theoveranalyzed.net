@@ -1,9 +1,12 @@
 Title: The New Yorker vs. The Audubon, and The Verge  
 Date: 2015-04-06 10:00  
-Description: The Verge recently ran a piece detailing a recent battle between The Audubon Society and The New Yorker.  
+Description: The Audubon Society vs. The New Yorker.  
 Tags: Advocacy, Animals  
+Image: http://d.pr/i/fOQM+  
 
-It struck me as odd when The Verge, one of the more prominent 'modern' online *tech* publications, ran an [oped][theverge] by Elizabeth Lopatto, outlining an apparent battle of sorts between a [freelancer][wikipedia] for [The New Yorker][newyorker] and the [Audubon Society][audubon]. The topic? Animal advocacy and climate change---neither one directly related to technology.
+![The Audubon Society vs. The New Yorker][pic]
+
+It struck me as odd when The Verge, one of the more prominent 'modern' online *tech* publications, ran an [op-ed][theverge] by Elizabeth Lopatto, outlining an apparent battle of sorts between a [freelancer][wikipedia] for [The New Yorker][newyorker] and the [Audubon Society][audubon]. The topic? Animal advocacy and climate change---neither one directly related to technology.
 
 ***
 
@@ -49,6 +52,7 @@ Whichever the reason, here's my take:
 [d]: http://d.pr/f/tAD3 "My RSS subscriptions, as of April 6, 2015"
 [mashable]: http://mashable.com/2011/03/12/joshua-topolsky-leaves-engadget/ "Mashable on Joshua Topolsky leaving Engadget"
 [newyorker]: http://www.newyorker.com/magazine/2015/04/06/carbon-capture "Jonathan Franzen's piece, which Audubon didn't like so much"
+[pic]: http://d.pr/i/fOQM+ "The Audubon Society vs. The New Yorker"
 [theverge]: http://www.theverge.com/2015/4/3/8339763/i-want-to-attend-the-audubon-societys-school-for-sick-burns "The Verge piece that inspired this post by me"
 [theverge 2]: http://www.theverge.com/2011/11/1/2528367/welcome-to-the-verge "Welcome post from 'The Verge'"
 [theverge 3]: http://www.theverge.com/about-the-verge "The Verge's 'about' page"

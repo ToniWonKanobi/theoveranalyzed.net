@@ -1,7 +1,7 @@
 Title: Apple's Next Major Mac Revealed: The Radically New 12-Inch MacBook Air  
 Date: 2015-01-06 10:50  
 Link: http://9to5mac.com/2015/01/06/macbook-air-12-inch-redesign/  
-Description: Mark Gurman of 9to5Mac has the scoop on Apple's next-gen MacBook Air.
+Description: We can't be sure, but we're pretty sure.  
 Tags: Mac  
 Image: https://9to5mac.files.wordpress.com/2015/01/silvergray-copy.png?w=2500&h=0  
 

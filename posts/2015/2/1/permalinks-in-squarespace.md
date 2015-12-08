@@ -1,8 +1,10 @@
 Title: Permalinks in Squarespace  
 Date: 2015-02-01 10:00  
-Description: I figured out how to enable permalinks in posts (with the help of someone smarter than me).  
+Description: I figured out how to enable permalinks in posts.  
 Tags: Blogging, Squarespace  
-Image: http://d.pr/i/1lSZU+  
+Image: http://d.pr/i/118J1+  
+
+![Permalink Symbols][perm]
 
 #### Preamble
 
@@ -115,6 +117,7 @@ Now, whenever I post a "Linked List" item, as long as the "External link" checkb
 [loopinsight]: http://loopinsight.com "Jim Dalyrmple's blog, The Loop"
 [macsparky]: http://macsparky.com/blog/permalinkingss "How David Sparks did permalinks in his Squarespace-powered blog"
 [marco]: http://www.marco.org "Marco Arment's blog, Marco.org"
+[perm]: http://d.pr/i/118J1+ "Permalink Symbols"
 [real]: http://http://smithjw.me/blog/permalinking-with-squarespace "Another post that helped me figure out permalinks"
 [sixcolors]: http://www.sixcolors.com "Jason Snell's blog, Six Colors"
 [smilesoftware]: http://smilesoftware.com/TextExpander/index.html "TextExpander's webpage"

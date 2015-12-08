@@ -1,6 +1,6 @@
 Title: Apple Hardware Bucket List  
 Date: 2015-01-26 11:35  
-Description: I've collected all my favorite Apple hardwares into a post, so that I have something to reference once I start my collection.  
+Description: A guy can dream, can't he?  
 Tags: Apple Hardware Bucket List  
 Image: http://g.fastcompany.net/multisite_files/fastcompany/poster/2014/01/3025497-poster-p-1-next-cofounder-george-crow-reflects-on-engineering-the-first-macintosh.jpg  
 

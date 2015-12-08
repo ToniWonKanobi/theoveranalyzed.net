@@ -1,6 +1,6 @@
 Title: Serial  
 Date: 2014-12-23 12:00  
-Description: I talk about how Serial is one of the driving forces behind the most recent podcast renaissance.  
+Description: 📱🎧  
 Tags: Reviews, Podcasts  
 Image: http://is5.mzstatic.com/image/thumb/Music3/v4/6a/50/cc/6a50cc45-8075-48f5-8371-bddcb2cad314/source/10000x10000bb.jpg  
 

@@ -1,7 +1,7 @@
 Title: Google and Blogs "S***"  
 Date: 2015-02-18 08:42  
 Link: http://www.marco.org/2015/02/16/google-and-blogs-shit  
-Description: Marco Arment talks about the state of blogging in 2015.  
+Description: Is blogging dead (again)?  
 Tags: Blogging  
 Image: http://d.pr/i/Rpj+  
 

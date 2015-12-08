@@ -2,7 +2,9 @@ Title: The Paradox of Choice & Choosing an iPad
 Date: 2014-12-22 16:48  
 Description: Sometimes too many choices makes thins difficult. Case in point: choosing a new iPad.  
 Tags: Reviews, iPad  
-Image: http://d.pr/i/lgPU+  
+Image: http://d.pr/i/12z5L+  
+
+![Too many choices.][too]
 
 Barry Schwartz, via [TED Talk][ted]:
 
@@ -97,6 +99,7 @@ I chose the the iPad mini 3 (Wi-Fi/Cellular) 64 GB ([iPad4,8][everymac]). Am I c
 [sixcolors]: http://sixcolors.com/2014/12/my-favorite-things-hardware/ "Jason Snell's favorite things for the holiday season 2014"
 [staticworld]: http://core0.staticworld.net/images/article/2014/10/apple-product-line-up-100525358-orig.jpg "Apple product lineup"
 [ted]: http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice "Barry Schwartz: 'Paradox of Choice'"
+[too]: http://d.pr/i/12z5L+ "Too many choices." 
 [twitter]: https://twitter.com/johnmyankee "John Yankee on Twitter"
 [wikipedia]: https://en.wikipedia.org/wiki/The_Paradox_of_Choice "Wikipedia: 'The Paradox of Choice'"
 [wikipedia 2]: https://en.wikipedia.org/wiki/Dentistry "Wikipedia: Dentistry"

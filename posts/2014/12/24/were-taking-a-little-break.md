@@ -1,6 +1,6 @@
 Title: We're Taking A Little Break  
 Date: 2014-12-24 19:44  
-Description: It's nice to see that on Christmas Eve, not *every* company in the world is concerned with the bottom line.  
+Description: 🎅🏿  
 Tags: Culture  
 Image: http://d.pr/i/HrLu+  
 

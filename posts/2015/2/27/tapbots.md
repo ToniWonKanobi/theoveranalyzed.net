@@ -1,7 +1,10 @@
-Title: Tapbots's New Website  
+Title: Tapbots  
 Date: 2015-02-27 13:40  
-Description: The team behind arguably the best Twitter client for iPhone and the Macintosh is has a new website. Check it out!  
-Tags: Web Design, Tapbots  
+Description: Twitter is main line of communication with the outside world. It wasn't always that way. Tweetbot was a big part of that.  
+Tags: Apps, Tapbots  
+Image: http://d.pr/i/1iag1+  
+
+![Tapbots's New Website][website]
 
 It wasn't long after I got my iPhone 5 that I started feeling like Facebook wasn't for me anymore. 
 
@@ -50,3 +53,4 @@ You can check out their new site, as well as all of their wonderful apps [here][
 [twitter]: https://twitter.com/ToniWonKanobi/statuses/242981123301453827 "Pleading with my friends to remove their Facebook email addresses"
 [twitter 2]: http://www.twitter.com/markjardine "Mark Jardine on Twitter"
 [twitter 3]: https://twitter.com/ToniWonKanobi/statuses/113085950388748289 "My first tweet ever"
+[website]: http://d.pr/i/1iag1+ "Tapbots's New Website"

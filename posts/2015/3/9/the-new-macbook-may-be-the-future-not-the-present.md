@@ -1,7 +1,7 @@
 Title: The New MacBook May Be the Future, Not the Present  
 Date: 2015-03-09 14:04  
 Link: http://www.theverge.com/2015/3/9/8176305/apple-macbook-new-early-adopter-buy-or-wait  
-Description: Is the new MacBook what we have been waiting for? Or is Version 2 a safer bet?  
+Description: Is the new MacBook what we have been waiting for? Or is Version 2.0 a safer bet?  
 Tags: Mac  
 Video: https://www.youtube.com/watch?v=gnqYiHCS3Sc  
 

@@ -7,8 +7,6 @@ Image: http://d.pr/i/1lATM+
 
 ![Clocks][cssa]
 
-This is so cool.
-
 [From [The Loop][loopinsight]]
 
 [cssa]: http://d.pr/i/1lATM+ "Clocks"

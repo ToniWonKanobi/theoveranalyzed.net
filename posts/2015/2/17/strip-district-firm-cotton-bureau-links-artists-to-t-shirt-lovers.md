@@ -1,7 +1,7 @@
 Title: Strip District Firm Cotton Bureau Links Artists to T-Shirt Lovers  
 Date: 2015-02-17 09:44  
 Link: http://triblive.com/business/headlines/7748459-74/cotton-shirts-bureau  
-Description: I've been a Cotton Bureau customer for the better part of a year. Here's a story about them in their local Pittsburg newspaper featuring your's truly.  
+Description: I'm always down to represent a good cause.  
 Tags: Cotton Bureau  
 Image: http://triblive.com/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=bQg_Z5NWwgpNCcAAhZkxJc$daE2N3K4ZzOUsqbU5sYtXlEEH8k6kxCEHc3q5Oh4FWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&amp;CONTENTTYPE=image/jpeg  
 

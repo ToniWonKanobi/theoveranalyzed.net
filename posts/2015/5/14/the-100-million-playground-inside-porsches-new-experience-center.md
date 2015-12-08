@@ -1,7 +1,7 @@
 Title: The $100 Million Playground: Inside Porsche's New Experience Center  
 Date: 2015-05-14 10:30  
 Link: http://www.theverge.com/2015/5/13/8597711/inside-porsche-experience-center-atlanta  
-Description: The Verge got an early peak at Porsche's new place.  
+Description: Porsche has a new playground in America.  
 Tags: Porsche  
 Image: https://cdn2.vox-cdn.com/thumbor/4r83iEN9PHju9i_xxaZz8N0c0eQ=/1020x0/cdn0.vox-cdn.com/uploads/chorus_asset/file/3692698/porsche-experience-center-011-2040.0.jpg  
 

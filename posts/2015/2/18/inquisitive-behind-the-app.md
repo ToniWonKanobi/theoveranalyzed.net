@@ -1,7 +1,7 @@
 Title: Inquisitive: Behind the App  
 Date: 2015-02-18 07:45  
 Link: http://www.relay.fm/inquisitive/27  
-Description: Myke Hurley is taking his podcast Inquisitive in a new direction, and it's great so far.  
+Description: Another podcast, this one all about how the beginning of the App? Yes, please.  
 Tags: Podcasts, Apps  
 Image: http://is5.mzstatic.com/image/thumb/Music5/v4/13/39/06/133906f7-762b-f4ea-4976-3b62f6343f4e/source/10000x10000bb.jpg  
 

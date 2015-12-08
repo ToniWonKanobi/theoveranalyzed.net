@@ -1,7 +1,12 @@
 Title: First Post Ever  
 Date: 2014-02-02 10:04  
-Description: My first post ever.  
+Description: This is my first post ever.  
 Tags: Meta  
+Image: http://d.pr/i/1jcin+  
+
+![Driveways vs. Parkways][park]
+
+[park]: http://d.pr/i/1jcin+ "Driveways vs. Parkways"
 
 So I'll make it something good. I'll leave you with one of those questions you have probably always thought about, but never found an adequate answer.
 

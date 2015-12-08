@@ -1,11 +1,11 @@
 Title: Kenny G and Warren G Perform Regulate  
 Date: 2015-02-24 07:35  
 Link: https://youtu.be/L4E4MWLzKrg  
-Description: Kenny G and Warren G, both G's, perform on Kimmel.  
+Description: Two G's perform on Kimmel.  
 Tags: Music, Bass Guitar  
 Video: https://youtu.be/L4E4MWLzKrg  
 
-Thanks Jimmy Kimmel.
+Thanks Jimmy.
 
 1. Kenny G. Playing his soprano.
 

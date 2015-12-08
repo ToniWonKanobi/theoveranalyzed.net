@@ -1,7 +1,7 @@
 Title: This Week on Cotton Bureau: MTR  
 Date: 2015-02-03 16:00  
 Link: https://cottonbureau.com/products/mtr  
-Description: I'll be featuring Cotton Bureau t-shirts here and there. This one seemed pretty neat.  
+Description: Do you have a favorite t-shirt company?  
 Tags: Cotton Bureau  
 Image: https://cottonbureau.com/img/products/3422_8cnL_1600.jpg  
 

@@ -1,8 +1,10 @@
 Title: Designing TheOverAnalyzed 2.0  
 Date: 2015-02-25 08:00  
 Description: I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
-Tags: Meta  
+Tags: Meta, Squarespace  
 Image: http://d.pr/i/EfZ+  
+
+![TheOverAnalyzed 2.0][theo]
 
 #### Forward
 
@@ -299,15 +301,15 @@ Desktop:
 
 iPad (Portrait):
 
-<figure class="iphone">
-	<img class="screenshot" src="http://d.pr/i/OgsK+" alt="iPad, portrait" title="iPad, portrait">
+<figure>
+	<img class="screenshot" src="http://d.pr/i/OgsK+" alt="iPad, portrait" title="iPad, portrait" style="margin: auto; max-width: 75%">
 	<figcaption>iPad, portrait</figcaption>
 </figure>
 
 iPad (Landscape):
 
 <figure>
-	<img class="screenshot iphone" src="http://d.pr/i/pAIQ+" alt="iPad, landscape" title="iPad, landscape">
+	<img class="screenshot" src="http://d.pr/i/pAIQ+" alt="iPad, landscape" title="iPad, landscape" style="margin: auto; max-width: 75%">
 	<figcaption>iPad, landscape</figcaption>
 </figure>
 
@@ -384,6 +386,7 @@ Until then, maybe I can get back to writing.
 [squarespace 5]: http://wells-demo.squarespace.com/ "'Wells' template on Squarespace"
 [squarespace 6]: http://squarespace.com/logo "Squrespace's logo-creation page"
 [sqs]: http://squarespace.com "Squarespace"
+[theo]: http://d.pr/i/159ix+ "TheOverAnalyzed 2.0"
 [twitter]: https://twitter.com/pixelmator/status/565182862128082946 "Pixelmator suggesting Sketch"
 [twitter 2]: https://twitter.com/ismh/status/564079479992360961 "Asking Stephen Hackett if he's tried the Squarespace Developer Platform"
 [webfactional]: http://duner.webfactional.com/blog/squarespace-permalinks "Webpage that helped me figure out permalinks in Squarespace"

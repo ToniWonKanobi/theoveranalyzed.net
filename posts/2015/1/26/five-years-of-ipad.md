@@ -1,7 +1,7 @@
 Title: Five Years of iPad  
 Date: 2015-01-26 12:00  
 Link: http://www.512pixels.net/blog/2015/1/five-years-of-ipad  
-Description: Stephen Hackett at 512 Pixels put together a tribute to the iPad, five years old today.  
+Description: That's kindergarten age.  
 Tags: iPad  
 Image: http://static1.squarespace.com/static/52d73d05e4b008d128aa3ad6/t/54c42c2ce4b02be743a45cda/1422142515895/?format=1500w  
 

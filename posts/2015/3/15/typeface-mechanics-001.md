@@ -1,7 +1,7 @@
 Title: Typeface Mechanics: 001  
 Date: 2015-03-15 10:00  
 Link: http://www.frerejones.com/blog/typeface-mechanics-001/  
-Description: Frere-Jones gives a primer on fonts.  
+Description: Nothing like a good primer on typefaces from a typeface legend.  
 Tags: Typography  
 Image: http://www.frerejones.com/assets/square-round-06.gif  
 

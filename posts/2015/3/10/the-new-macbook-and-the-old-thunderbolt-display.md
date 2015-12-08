@@ -1,6 +1,6 @@
 Title: The New MacBook and the Old Thunderbolt Display  
 Date: 2015-03-10 09:00  
-Description: What are the external display options for prospective owners of the new MacBook? Not many.  
+Description: What are the external display options for prospective owners of the new MacBook? Sadly, there aren't that many.  
 Tags: Mac  
 Image: https://www.twelvesouth.com/uploads/images/pages/twelvesouth_wallpaperc1_image3.jpg  
 
@@ -24,7 +24,7 @@ So, the tentative plan is to sell my recently-acquired Thunderbolt display, and 
 
 ### Choices For A New Display
 
-## 1. [Apple 27-inch LED Cinema Display][apple 2][^cd]		
+#### 1. [Apple 27-inch LED Cinema Display][apple 2][^cd]		
 
 **$500 - 600** Believe it or not, this 5-year old monitor is the most viable option for me. It is essentially the Thunderbolt Display, but without the Thunderbolt requirement. With the new 12-inch MacBook, I would lose out on the USB 2.0 ports and MagSafe would be useless to me. But that's not really the point, is it? 
 
@@ -43,7 +43,7 @@ So, the tentative plan is to sell my recently-acquired Thunderbolt display, and 
 
 	My other option, the LG display, offers *much* more in terms of experience and utility than the Apple one. Maybe my money is better spent on an upgrade rather than a lateral move?
 			
-## 2. [LG 34UC97-S][lg][^lg]
+#### 2. [LG 34UC97-S][lg][^lg]
 
 **$1,000 - $1,200** This would be my choice if I stepped out of the Apple display sphere. Mark Jardine of Tapbots fame [loves his][twitter].
 
@@ -59,7 +59,7 @@ So, the tentative plan is to sell my recently-acquired Thunderbolt display, and 
 
 * It's big. Like, really big. I could *maybe* fit small speakers on the very peripheries of my desk, but it might look stupid.
 			
-## 3. [Dell UltraSharp U2713HM][dell][^us]
+#### 3. [Dell UltraSharp U2713HM][dell][^us]
 
 **$585** This was [The Wirecutter][thewirecutter]'s top pic for a great 27-inch monitor. Everything about this display is, on paper, great. 
 			

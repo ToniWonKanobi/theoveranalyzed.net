@@ -1,7 +1,7 @@
 Title: I Like My Pebble, but I'm Not Kickstarting Pebble Time  
 Date: 2015-03-04 09:18  
 Link: http://www.macworld.com/article/2892448/i-like-my-pebble-but-im-not-kickstarting-pebble-time  
-Description: Jason Snell takes apart Pebble Time, Pebble's latest Kickstarter effort. Is it suitable for Apple-ites?  
+Description: Anxious for Apple Watch? There's Pebble. (Or is there?)  
 Tags: Apple Watch  
 Image: http://core4.staticworld.net/images/article/2015/03/pebble-time-100571430-large.png  
 

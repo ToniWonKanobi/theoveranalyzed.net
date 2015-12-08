@@ -12,7 +12,7 @@ Nathan Ingraham writing for The Verge:
 Here is a screenshot of the placeholder emojis Ingraham refers to:
 
 <figure>
-	<img src="http://d.pr/i/1fbKg+" alt="Emoji placeholders" title="Emoji placeholders" style="max-width: 300px;">
+	<img src="http://d.pr/i/1fbKg+" alt="Emoji placeholders" title="Emoji placeholders" style="margin:auto; max-width: 300px;">
 	<figcaption>Placeholder emojis</figcaption>
 </figure>
 

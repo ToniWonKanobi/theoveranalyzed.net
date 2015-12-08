@@ -1,7 +1,7 @@
 Title: Overcast’s 2014 Sales Numbers  
 Date: 2015-01-15 09:44  
 Link: http://www.marco.org/2015/01/15/overcast-sales-numbers  
-Description: Marco Arment shares some his App Store financials.  
+Description: What's an app worth?  
 Tags: Apps  
 Image: http://d.pr/i/1lBQq+  
 
