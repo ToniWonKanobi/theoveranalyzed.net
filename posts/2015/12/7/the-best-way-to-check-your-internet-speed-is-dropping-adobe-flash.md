@@ -3,7 +3,7 @@ Date: 2015-12-07 21:56
 Link: http://www.theverge.com/2015/12/7/9867034/ookla-speedtest-dropping-adobe-flash-internet-html5  
 Description: Finally.  
 Tags: Apps  
-Image: https://cdn3.vox-cdn.com/thumbor/L8EN5e8xzfz1YdK34e45oxecvp0=/15x0:888x582/2050x1367/cdn0.vox-cdn.com/uploads/chorus_image/image/47823111/Ookla_Speedtest_HTML5.0.0.png  
+Image: http://d.pr/i/1268c+  
 
 Nick Statt, for The Verge:
 
