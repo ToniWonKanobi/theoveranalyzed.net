@@ -475,7 +475,7 @@ function init() {
 			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
 		});
 		Handlebars.registerHelper('formatArchiveDate', function (date) {
-			return new Handlebars.SafeString(new Date(date).format('{yyyy}' + '/' + '{M}' + '/' + '{d}'));
+			return new Handlebars.SafeString(new Date(date).format('/' + '{yyyy}' + '/' + '{M}' + '/' + '{d}'));
 		});
 		Handlebars.registerHelper('formatIsoDate', function (date) {
 			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
@@ -493,7 +493,7 @@ function init() {
 			return new Handlebars.SafeString(new Date(date).format('{mm}-{dd}-{yyyy}'));
 		});
 		Handlebars.registerHelper('formatArchiveDate', function (date) {
-			return new Handlebars.SafeString(new Date(date).format('{yyyy}' + '/' + '{M}' + '/' + '{d}'));
+			return new Handlebars.SafeString(new Date(date).format('/' + '{yyyy}' + '/' + '{M}' + '/' + '{d}'));
 		});
 		Handlebars.registerHelper('formatIsoDate', function (date) {
 			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
@@ -505,7 +505,7 @@ function init() {
 			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
 		});
 		Handlebars.registerHelper('formatArchiveDate', function (date) {
-			return new Handlebars.SafeString(new Date(date).format('{yyyy}' + '/' + '{M}' + '/' + '{d}'));
+			return new Handlebars.SafeString(new Date(date).format('/' + '{yyyy}' + '/' + '{M}' + '/' + '{d}'));
 		});
 		Handlebars.registerHelper('formatIsoDate', function (date) {
 			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
@@ -517,7 +517,7 @@ function init() {
 			return new Handlebars.SafeString(new Date(date).format('{Month} {d}, {yyyy}'));
 		});
 		Handlebars.registerHelper('formatArchiveDate', function (date) {
-			return new Handlebars.SafeString(new Date(date).format('{yyyy}' + '/' + '{M}' + '/' + '{d}'));
+			return new Handlebars.SafeString(new Date(date).format('/' + '{yyyy}' + '/' + '{M}' + '/' + '{d}'));
 		});
 		Handlebars.registerHelper('formatIsoDate', function (date) {
 			return new Handlebars.SafeString(date !== undefined ? new Date(date).iso() : '');
