@@ -294,7 +294,8 @@ figcaption {
 	width: 60%;
 }
 
-figcaption code {
+figcaption.source,
+figcaption code  {
 	font-style: normal;
 }
 
