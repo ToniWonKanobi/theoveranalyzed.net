@@ -525,7 +525,7 @@ section#pagination {
 	font-size: 1.1em;
 	font-weight: 400;
 	height: 1.75em;
-	padding: 1em 0;
+	padding: 1em 0 0 0;
 }
 
 section#pagination > h2 {
@@ -533,7 +533,7 @@ section#pagination > h2 {
 }
 
 section#pagination p {
-	margin: 0;
+	margin: auto;
 }
 
 section#pagination a {
