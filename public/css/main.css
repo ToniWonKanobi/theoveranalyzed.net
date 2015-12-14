@@ -703,6 +703,10 @@ p#copyright {
 		width: 100%;
 	}
 
+	nav ul {
+		width: 200px;
+	}
+
 }
 
 /* Really Small Displays */
@@ -718,10 +722,6 @@ p#copyright {
 
 	blockquote {
 		margin: 0.25em;
-	}
-
-	nav ul {
-		width: 175px;
 	}
 
 }
