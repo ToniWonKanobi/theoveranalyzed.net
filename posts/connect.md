@@ -3,8 +3,8 @@ Description: Use this page to connect with TheOverAnalyzed on social media, etc.
 
 ### Twitter
 
-The author [@toniwonkanobi][twitter]  
-The site [@TheOverAnalyzed][twitter 2]
+The author [@toniwonkanobi][1]  
+The site [@TheOverAnalyzed][2]")
 
 ### Email
 
@@ -18,5 +18,5 @@ There is also an alternate RSS feed, for which linked posts point back to TheOve
 
 You can find that feed here: <http://www.theoveranalyzed.net/rss-alternate>
 
-[twitter]: http://www.twitter.com/toniwonkanobi "Me on Twitter"
-[twitter 2]: http://www.twitter.com/theoveranalyzed "Twitter account for TheOverAnalyzed (occasional site updates, in addition to auto-postings)"
+[1]: http://www.twitter.com/toniwonkanobi "Me on Twitter"
+[2]: http://www.twitter.com/theoveranalyzed "Twitter account for TheOverAnalyzed (occasional site updates, in addition to auto-postings

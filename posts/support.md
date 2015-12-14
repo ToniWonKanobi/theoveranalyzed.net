@@ -10,16 +10,16 @@ Week-long RSS feed sponsorships are available.
 * Initial post thanking the sponsor will go out on the first day
 * Final post goes out on the last day, thanking the sponsor again
 
-[Contact][contact] me for more information.
+[Contact][1] me for more information.
 
 ### Patreon
 
-You can crowdfund via [Patreon][patreon]
+You can crowdfund via [Patreon][2]
 
 ### Cash 
 
-You can also send cash to [$theoveranalyzed][cash]
+You can also send cash to [$theoveranalyzed][3]
 
-[cash]: https://cash.me/$theoveranalyzed "Donate to TheOverAnalyzed directly"
-[contact]: mailto:anthony@theoveranalyzed.net "Email me"
-[patreon]: https://www.patreon.com/toniwonkanobi "Help crowdfund via Patreon"
+[1]: mailto:anthony@theoveranalyzed.net "Email me"
+[2]: https://www.patreon.com/toniwonkanobi "Help crowdfund via Patreon"
+[3]: https://cash.me/$theoveranalyzed "Donate to TheOverAnalyzed directly"

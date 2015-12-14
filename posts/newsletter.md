@@ -3,7 +3,7 @@ Description: This page talks about how to subscribe to TheOverAnalyzed Newslette
 
 ### Why a Newsletter?
 
-While nerdy folk follow the site via [Twitter][twitter] or via [RSS][rss], most of my family and friends are not that nerdy. To accommodate their non-nerdy tendencies, I created a [MailChimp][mailchimp] newsletter powered by the site's RSS feed. 
+While nerdy folk follow the site via [Twitter][1] or via [RSS][2], most of my family and friends are not that nerdy. To accommodate their non-nerdy tendencies, I created a [MailChimp][3] newsletter powered by the site's RSS feed. 
 
 ### How It Works
 
@@ -45,6 +45,6 @@ Every day, the MailChimp servers detect whether I've posted anything new since t
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-[mailchimp]: http://mailchimp.com "MailChimp powers TheOverAnalyzed Newsletter"
-[rss]: /rss "The RSS feed for TheOverAnalyzed"
-[twitter]: http://www.twitter.com/theoveranalyzed "Twitter account for TheOverAnalyzed"
+[1]: http://www.twitter.com/theoveranalyzed "Twitter account for TheOverAnalyzed"
+[2]: /rss "The RSS feed for TheOverAnalyzed"
+[3]: http://mailchimp.com "MailChimp powers TheOverAnalyzed Newsletter"
