@@ -3,7 +3,7 @@ Date: 2015-12-14 07:55
 Link: http://www.slashfilm.com/han-solo-shooting-greedo-first-would-be-legally-justified/  
 Description: Glad we could clear this up.  
 Tags: Star Wars  
-Image: http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/greedo-han-gunpoint-700x328.jpg?resize=700%2C328  
+Image: http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/greedo-han-gunpoint-700x328.jpg  
 
 Ethan Anderton, for /Film:
 
