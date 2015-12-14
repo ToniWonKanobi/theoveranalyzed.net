@@ -660,8 +660,12 @@ p#copyright {
 /* Medium Displays */
 @media (max-width: 736px) {
 
+	body {
+		font-size: 1.1em;
+	}
+
 	h1#siteTitle {
-		font-size: 1.6em;
+		font-size: 1.8em;
 		padding-top: 0.6em;
 	}
 
@@ -704,16 +708,12 @@ p#copyright {
 /* Really Small Displays */
 @media (max-width: 320px) {
 
-	body {
-		font-size: 1em;
-	}
-
 	h1#siteTitle {
-		font-size: 1.8em;
+		font-size: 1.6em;
 	}
 
 	p#siteByline {
-		padding-bottom: 1.4em;
+		padding-bottom: 1.2em;
 	}
 
 	blockquote {
