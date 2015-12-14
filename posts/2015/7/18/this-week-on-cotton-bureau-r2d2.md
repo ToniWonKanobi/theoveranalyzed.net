@@ -10,6 +10,6 @@ Image: https://cottonbureau.com/img/products/5753_HykZ_2400.jpg
 	<figcaption><a href="http://nicholasburroughs.com" title="The designer on Twitter">Nicholas Burroughs</a>: "This is the droid you're looking for."</figcaption>
 </figure>
 
-[Ahh][youtube].
+[Ahh][1].
 
-[youtube]: https://www.youtube.com/watch?v=56_S0WeTkzs "'These aren't the droids you're looking for,' in LEGO"
+[1]: https://www.youtube.com/watch?v=56_S0WeTkzs "'These aren't the droids you're looking for,' in LEGO"

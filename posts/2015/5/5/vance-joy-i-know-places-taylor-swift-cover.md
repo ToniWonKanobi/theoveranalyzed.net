@@ -6,6 +6,6 @@ Tags: Taylor Swift
 Image: http://d.pr/i/17HAm+  
 Video: https://youtu.be/w-39b_MiZn8  
 
-I guess Vance Joy and Taylor Swift don't mind trading [covers][youtube], eh?
+I guess Vance Joy and Taylor Swift don't mind trading [covers][2], eh?
 
-[youtube]: https://youtu.be/w-39b_MiZn8 "Vance Joy - 'I Know Places' [Taylor Swift Cover]"
+[2]: https://youtu.be/w-39b_MiZn8 "Vance Joy - 'I Know Places' [Taylor Swift Cover]"

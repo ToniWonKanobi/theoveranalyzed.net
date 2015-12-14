@@ -5,7 +5,7 @@ Description: What's an app worth?
 Tags: Apps  
 Image: http://d.pr/i/1lBQq+  
 
-![Overcast’s 2014 Sales Numbers][oc]
+![Overcast’s 2014 Sales Numbers][1]
 
 Marco Arment on Overcast's financials:
 
@@ -19,4 +19,4 @@ It just so happens Marco's own version of living the dream involves building app
 
 He's his own boss. A self-employed super nerd. 🏡 = 🏢 = 👊 = 😎
 
-[oc]: http://d.pr/i/1lBQq+ "Overcast’s 2014 Sales Numbers"
+[1]: http://d.pr/i/1lBQq+ "Overcast’s 2014 Sales Numbers"

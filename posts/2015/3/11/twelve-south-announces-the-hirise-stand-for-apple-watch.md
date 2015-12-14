@@ -5,9 +5,9 @@ Description: Twelve South's latest creation is a beautiful stand/charging statio
 Tags: Apple Watch  
 Image: http://static1.squarespace.com/static/54c95d06e4b04d8d26f97dde/t/550073d5e4b0f6facdf7db31/1426093018069/?format=1000w  
 
-![Twelve South stands][squarespace]
+![Twelve South stands][1]
 
-These guys have [the best][twelvesouth] stuff.
+These guys have [the best][2] stuff.
 
-[squarespace]: http://static1.squarespace.com/static/54c95d06e4b04d8d26f97dde/t/550073d5e4b0f6facdf7db31/1426093018069/?format=1000w "Twelve South stands"
-[twelvesouth]: https://www.twelvesouth.com/product/backpack-for-imac
+[1]: http://static1.squarespace.com/static/54c95d06e4b04d8d26f97dde/t/550073d5e4b0f6facdf7db31/1426093018069/?format=1000w "Twelve South stands"
+[2]: https://www.twelvesouth.com/product/backpack-for-imac

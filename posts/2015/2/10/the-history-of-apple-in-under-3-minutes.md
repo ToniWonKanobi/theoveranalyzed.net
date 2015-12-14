@@ -7,6 +7,6 @@ Video: http://www.fastcompany.com/embed/2a7ba751b474d?rel=1&src=embed&veggiemode
 
 Here's a quick and dirty refresher on the history of Apple.
 
-[From [The Loop][loopinsight]]
+(From [The Loop][1])
 
-[loopinsight]: http://www.loopinsight.com/2015/02/10/the-history-of-apple-in-under-3-minutes/ "The Loop's post source link"
+[1]: http://www.loopinsight.com/2015/02/10/the-history-of-apple-in-under-3-minutes/ "The Loop's post source link"

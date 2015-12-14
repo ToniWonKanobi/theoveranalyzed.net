@@ -5,9 +5,9 @@ Description: Who else can't wait for the next set of mini adventures starring th
 Tags: TV  
 Video: https://youtu.be/sU9QTLXYCCc  
 
-It's [back][wikipedia].
+It's [back][1].
 
-[From [The Verge][theverge]]
+(From [The Verge][2])
 
-[theverge]: http://www.theverge.com/2015/1/11/7529931/watch-the-house-of-cards-season-3-trailer "Source post from The Verge"
-[wikipedia]: https://en.wikipedia.org/wiki/House_of_Cards_(U.S._TV_series)
+[1]: https://en.wikipedia.org/wiki/House_of_Cards_(U.S._TV_series)
+[2]: http://www.theverge.com/2015/1/11/7529931/watch-the-house-of-cards-season-3-trailer "Source post from The Verge"

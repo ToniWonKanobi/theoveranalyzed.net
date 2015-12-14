@@ -7,7 +7,7 @@ Image: http://d.pr/i/1fwaF+
 
 <p><img class="screenshot" src="http://d.pr/i/1fwaF+" alt="Screenshot of Paul Graham's website" title="Screenshot of Paul Graham's website"></p>
 
-Paul Graham, of [Yahoo! Store][wikipedia] and [Y Combinator][wikipedia 2] fame, with some advice for <s>pen</s> writers:
+Paul Graham, of [Yahoo! Store][1] and [Y Combinator][2] fame, with some advice for <s>pen</s> writers:
 
 > Something comes over most people when they start writing. They write in a different language than they'd use if they were talking to a friend. The sentence structure and even the words are different. No one uses "pen" as a verb in spoken English. You'd feel like an idiot using "pen" instead of "write" in a conversation with a friend.
 
@@ -17,5 +17,5 @@ Paul Graham, of [Yahoo! Store][wikipedia] and [Y Combinator][wikipedia 2] fame, 
 
 I'm happy to report that I often write like an imbecile, so I'm already following Graham's advise, more or less.
 
-[wikipedia]: https://en.wikipedia.org/wiki/Viaweb "Wikipedia: Yahoo! Store Origins"
-[wikipedia 2]: https://en.wikipedia.org/wiki/Y_Combinator_(company) "Wikipedia: Y-Combinator"
+[1]: https://en.wikipedia.org/wiki/Viaweb "Wikipedia: Yahoo! Store Origins"
+[2]: https://en.wikipedia.org/wiki/Y_Combinator_(company) "Wikipedia: Y-Combinator"

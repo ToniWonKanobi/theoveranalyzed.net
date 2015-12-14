@@ -11,8 +11,8 @@ Kayne West:
 
 I can say with 100% certainty that in this situation, Kayne literally does not know what he is talking about.
 
-Jim Dalrymple had the [scoop][loopinsight], and I'll quote his response here:
+Jim Dalrymple had the [scoop][1], and I'll quote his response here:
 
 > What a moron.
 
-[loopinsight]: http://www.loopinsight.com/2015/03/03/fuck-off-kayne/ "Jim Dalrymple hating on Kayne"
+[1]: http://www.loopinsight.com/2015/03/03/fuck-off-kayne/ "Jim Dalrymple hating on Kayne"

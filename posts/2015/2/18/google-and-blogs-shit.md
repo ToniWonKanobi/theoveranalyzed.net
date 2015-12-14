@@ -1,11 +1,11 @@
-Title: Google and Blogs "S***"  
+Title: Google and Blogs "Shit."  
 Date: 2015-02-18 08:42  
 Link: http://www.marco.org/2015/02/16/google-and-blogs-shit  
 Description: Is blogging dead (again)?  
 Tags: Blogging  
 Image: http://d.pr/i/Rpj+  
 
-![Google and Blogs][d]
+![Google and Blogs][1]
 
 Marco Arment, on the state of blogging in 2015:
 
@@ -21,12 +21,12 @@ And yet, I completely understand where Marco is coming from. Big corporate news 
 
 Marco's thoughts seem to align with what Ben Thompson recently had to say on the issue.
 
-Here he is [defending the concept of a one-man blog as a business][stratechery]:
+Here he is [defending the concept of a one-man blog as a business][2]:
 
 > The honest truth is [that] my fervent belief in the individual blog not only as a product but also as a business is what led to my founding this site, not the other way around. And, after this past weekend’s “blogging-is-dead” overdose, I almost feel compelled to note that my conclusion – and experience – is the exact opposite of Klein’s and all the others': I believe that Sullivan’s The Daily Dish will in the long run be remembered not as the last of a dying breed but as the pioneer of a new, sustainable journalism that strikes an essential balance to the corporate-backed advertising-based “scale” businesses that Klein (and the afore-linked Smith) is pursuing.
 
-My biggest question for Marco: what exactly does he think is [next][d 2] for blogs?
+My biggest question for Marco: what exactly does he think is [next][3] for blogs?
 
-[d]: http://d.pr/i/Rpj+ "Google and Blogs"
-[d 2]: http://d.pr/i/1heyD+ "My question to Marco"
-[stratechery]: http://stratechery.com/2015/bloggings-bright-future/ "Ben Thompson on the future of blogs"
+[1]: http://d.pr/i/Rpj+ "Google and Blogs"
+[2]: http://stratechery.com/2015/bloggings-bright-future/ "Ben Thompson on the future of blogs"
+[3]: http://d.pr/i/1heyD+ "My question to Marco"

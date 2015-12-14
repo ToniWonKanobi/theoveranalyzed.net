@@ -12,8 +12,12 @@ var _ = require('underscore');
 var markdownit = require('markdown-it')({
 	html: true,
 	typographer: true
-}).use(require('markdown-it-footnote'))
-.use(require('markdown-it-anchor'));
+})
+.use(require('markdown-it-footnote'))
+.use(require('markdown-it-anchor'))
+.use(require('markdown-it-highlightjs'), ({
+	code: false
+}));
 var Rss = require('rss');
 var Handlebars = require('handlebars');
 

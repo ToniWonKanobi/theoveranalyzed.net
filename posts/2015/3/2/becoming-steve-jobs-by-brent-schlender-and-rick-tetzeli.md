@@ -5,9 +5,9 @@ Description: Let's see if this one is better than Isaacson's.
 Tags: Steve Jobs  
 Image: http://becomingstevejobs.com/wp-content/uploads/2015/02/catmullslide.updated.jpg  
 
-Insta-[preorder][amazon].
+Insta-[preorder][1].
 
-[From [Daring Fireball][daringfireball]]
+(From [Daring Fireball][2])
 
-[amazon]: http://www.amazon.com/Becoming-Steve-Jobs-Evolution-Visionary/dp/0385347405/ref=sr_1_1?tag=theov0c-20 "'Becoming Steve Jobs' on Amazon"
-[daringfireball]: http://daringfireball.net/linked/2015/03/02/becoming-steve-jobs "John Gruber sharing a link to 'Becoming Steve Jobs'"
+[1]: http://www.amazon.com/Becoming-Steve-Jobs-Evolution-Visionary/dp/0385347405/ref=sr_1_1?tag=theov0c-20 "'Becoming Steve Jobs' on Amazon"
+[2]: http://daringfireball.net/linked/2015/03/02/becoming-steve-jobs "John Gruber sharing a link to 'Becoming Steve Jobs'"

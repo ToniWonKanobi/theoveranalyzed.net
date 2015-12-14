@@ -16,10 +16,10 @@ Fan service isn't a new concept in movie-making. Oftentimes, sequels, prequels, 
 	<figcaption>Didn't seeing this make you so happy on the inside?</figcaption>
 </figure>
 
-But, like Anderson notes, going overboard on references can be detrimental to the movie. Here's a Vanity Fair (via [The Playlist][indiewire]) quote from Abrams on the subject:
+But, like Anderson notes, going overboard on references can be detrimental to the movie. Here's a Vanity Fair (via [The Playlist][1]) quote from Abrams on the subject:
 
 > [There] are, of course, references to things, and some are very oblique so that hopefully the audience can infer what the characters are referring to. We used to have more references to things that we pulled out because they almost felt like they were trying too hard to allude to something. I think that the key is—and whether we’ve accomplished that or not is, of course, up to the audience—but the key is that references be essential so that you don’t reference a lot of things that feel like, oh, we’re laying pipe for, you know, an animated series or further movies. It should feel like things are being referenced for a reason.”
 
 We will just have to wait and see to what references Abrams refers.
 
-[indiewire]: http://blogs.indiewire.com/theplaylist/jj-abrams-says-he-had-to-pull-back-on-references-to-the-earlier-films-in-star-wars-the-force-awakens-20150505 "'Star Wars: The Force Awakens' director telling how he had to cull references to the old movies"
+[1]: http://blogs.indiewire.com/theplaylist/jj-abrams-says-he-had-to-pull-back-on-references-to-the-earlier-films-in-star-wars-the-force-awakens-20150505 "'Star Wars: The Force Awakens' director telling how he had to cull references to the old movies"

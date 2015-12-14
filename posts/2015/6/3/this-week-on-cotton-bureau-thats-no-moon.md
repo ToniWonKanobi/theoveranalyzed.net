@@ -5,7 +5,7 @@ Description: At least a couple times per month, I'll try to remember to share mo
 Tags: Cotton Bureau, Star Wars  
 Image: https://cottonbureau.com/img/products/5037_cPUA_2400.jpg  
 
-I'm starting [this][theoveranalyzed] back up (been a while). I haven't been buying as many t-shirts as I used to, but some of these Star Wars ones are hard to say no to. Image captions have links to their pages on Cotton Bureau. 
+I'm starting [this][1] back up (been a while). I haven't been buying as many t-shirts as I used to, but some of these Star Wars ones are hard to say no to. Image captions have links to their pages on Cotton Bureau. 
 
 <figure>
 	<img src="http://d.pr/i/1hUxR+" alt="'That's No Moon' on Cotton Bureau" title="'That's No Moon' on Cotton Bureau">
@@ -32,4 +32,4 @@ And here are two other nifty picks for this week:
 	</figcaption>
 </figure>
 
-[theoveranalyzed]: /2015/2/3/new-from-cotton-bureau
+[1]: /2015/2/3/new-from-cotton-bureau

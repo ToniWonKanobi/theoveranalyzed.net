@@ -13,8 +13,8 @@ I hadn't seen this clip when it originally aired over 10 years ago. I watched Jo
 
 This clip just about sums up everything that is great about Stewart. His crushing satire on Fox News and the rest of the conservative media is typically spot on. That said, his funnies on CNN are *just* as good. While he leans toward progressivism a great deal, he is quite the equal opportunity comic. 
 
-He will be missed.[^m]
+He will be missed.[^1]
 
-[^m]: And on the bright side, this might open up even more of an audience for [John Oliver][hbo 2], who is just plain awesome.
+[^1]: And on the bright side, this might open up even more of an audience for [John Oliver][a], who is just plain awesome.
 
-[hbo 2]: http://www.hbo.com/last-week-tonight-with-john-oliver "John Oliver on HBO"
+[a]: http://www.hbo.com/last-week-tonight-with-john-oliver "John Oliver on HBO"

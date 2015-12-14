@@ -5,9 +5,9 @@ Description: Are the Swiss taking on Apple Watch?
 Tags: Watches, Apple Watch  
 Image: http://d.pr/i/5ryX+  
 
-![IWC Fitness Tracker][d]
+![IWC Fitness Tracker][1]
 
-Wonder what John Mayer would have to [say][hodinkee] about *this*? 
+Wonder what John Mayer would have to [say][2] about *this*? 
 
-[d]: http://d.pr/i/5ryX+ "IWC Fitness Tracker"
-[hodinkee]: http://www.hodinkee.com/blog/an-open-letter-to-iwc-from-john-mayer "IWC's response to John Mayer's letter"
+[1]: http://d.pr/i/5ryX+ "IWC Fitness Tracker"
+[2]: http://www.hodinkee.com/blog/an-open-letter-to-iwc-from-john-mayer "IWC's response to John Mayer's letter"

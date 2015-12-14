@@ -9,9 +9,10 @@ Mark Gurman for 9to5Mac:
 
 > The custom-designed safes will be outfitted with Apple Watch MagSafe chargers in order to keep the demo units charged up and ready to go for the next day of business. Apple has already begun installing the safes in some stores ahead of the Apple Watch’s expected release April…
 
-At this point, I will be very surprised if Gruber's [theorized price point][daringfireball] for Edition isn't correct.[^ed]
+At this point, I will be very surprised if Gruber's [theorized price point][1] for Edition isn't correct.[^1]
 
-[^ed]: He was, after all, more or less correct about [iPhone 6 resolutions][daringfireball 2], among many other things in Apple's past.
+[^1]: He was, after all, more or less correct about [iPhone 6 resolutions][a], among many other things in Apple's past.
 
-[daringfireball]: http://daringfireball.net/2014/09/apple_watch "John Gruber's initial thoughts on Apple Watch"
-[daringfireball 2]: http://daringfireball.net/2014/08/larger_iphone_display_conjecture "John Gruber speculating on the displays of the then upcoming iPhone 6"
+[a]: http://daringfireball.net/2014/08/larger_iphone_display_conjecture "John Gruber speculating on the displays of the then upcoming iPhone 6"
+
+[1]: http://daringfireball.net/2014/09/apple_watch "John Gruber's initial thoughts on Apple Watch"

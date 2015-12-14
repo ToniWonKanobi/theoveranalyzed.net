@@ -9,9 +9,9 @@ Image: http://d.pr/i/1fSZv+
 	<figcaption>I'm never on Twitter when stuff like this goes down&mdash;Marco <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good" title="Marco's post on pulling Peace">pulled Peace</a> from the App Store less than 48 hours after is entrance</figcaption>
 </figure>
 
-If you're at all plugged in to the Apple blogosphere, you will have heard by now that the internet-famous [Instapaper][marco] creator, Marco Arment, abruptly pulled his latest effort from the App Store, a content blocker called [Peace][marco 2].
+If you're at all plugged in to the Apple blogosphere, you will have heard by now that the internet-famous [Instapaper][1] creator, Marco Arment, abruptly pulled his latest effort from the App Store, a content blocker called [Peace][2].
 
-Arment stated that he felt it not right to afford users the ability to block advertisements when doing so could potentially---and in no small way---negatively impact the fiscal situation of smaller publishers:[^assume]
+Arment stated that he felt it not right to afford users the ability to block advertisements when doing so could potentially---and in no small way---negatively impact the fiscal situation of smaller publishers:[^1]
 
 > Achieving this much success with Peace just doesn’t feel good, which I didn’t anticipate, but probably should have. Ad blockers come with an important asterisk: while they do benefit a ton of people in major ways, they also hurt some, including many who don’t deserve the hit.
 >
@@ -19,14 +19,14 @@ Arment stated that he felt it not right to afford users the ability to block adv
 
 After finally getting around to reading his post and some of the other link-to posts, this is the best I could do to summarize what happened regarding Peace:
 
-* Marco originally made a content blocker because [why not][marco 2], and because [most ads suck][marco 3]
-* Marco's content blocker was [a hit][techcrunch], and made him a decent chunk of money in the first 24 hours in the Store
-* Marco began to feel like he had to [justify some 1.0 decisions][marco 4]
+* Marco originally made a content blocker because [why not][3], and because [most ads suck][4]
+* Marco's content blocker was [a hit][5], and made him a decent chunk of money in the first 24 hours in the Store
+* Marco began to feel like he had to [justify some 1.0 decisions][6]
 * Marco thought more about it, and decided that the "all or nothing" approach to content blocking just wasn't "granular enough"
-* So Marco [pulled Peace][bgr] from the App Store
-* And [everyone][twitter] [on][twitter] [Twitter][twitter 2] [threw][twitter 3] [a][twitter 4] [fit][twitter 5]
+* So Marco [pulled Peace][7] from the App Store
+* And [everyone][8] [on][9] [Twitter][10] [threw][11] [a][12] [fit][13]
 
-I suppose the next episode of [ATP][atp] will be a chance for Marco to elaborate further? 
+I suppose the next episode of [ATP][14] will be a chance for Marco to elaborate further? 
 
 What should we make of all this?
 
@@ -41,13 +41,13 @@ Again, at the time of Peace's removal, it was at the top of the Paid App Store c
 
 Despite which side of the content blocking argument you find yourself, it is undeniable that the issue is not a simple matter of black and white.
 
-Ghostery posted just as much in a [blog post][ghostery] following Peace's removal:
+Ghostery posted just as much in a [blog post][15] following Peace's removal:
 
 > We and Marco arrived at the decision at the same time.  From the Ghostery side, this was an eye opening experiment.  Both we and Marco feel that the way Peace was being used compromised the neutrality that Ghostery is built on.
  
 > Specifically, the black and white, all on/all off approach to content blocking in Peace ran counter to our core belief that these aren't black and white decisions.  With the currently limited flexibility of the user experience, we both felt it best not to continue to sell or support the app.  Ghostery is based on giving the consumer the choice as to what they block and when. Ghostery doesn’t block ads or any other content by default. That’s too subjective a call.  If there are objective measures for what types of tracking should be blocked, then that’s an option we’ll pursue. Right now, however, we didn’t feel that we had the mix right in Peace. Marco agreed.
 
-Matthew Butterick, whose [Practical Typography][practicaltypography] resource/website I have [written about][theoveranalyzed] [previously][theoveranalyzed 2], also had some things to say on the subject. He believes that simply enabling content blockers is the *wrong* approach, because it will only lead to *more* ads and/or an overall worse browsing experience:
+Matthew Butterick, whose [Practical Typography][16] resource/website I have [written about][17] [previously][18], also had some things to say on the subject. He believes that simply enabling content blockers is the *wrong* approach, because it will only lead to *more* ads and/or an overall worse browsing experience:
 
 > I agree that web ads are getting more intrusive—but are ad blockers the solution, or the cause? This arms race has been going on for years already.
 
@@ -59,7 +59,7 @@ Matthew Butterick, whose [Practical Typography][practicaltypography] resource/we
 
 > Am I saying you should refrain from using an ad blocker? No. But consider offsetting your act of disobedience with an act of affirmative support. Vote with your wallet. Put some money behind the writing you like—whether it’s a website or a magazine or a newspaper. “But such-and-such website won’t let me pay for it.” Then discover something new. As a reader, what’s important is not where you put your money, but rather that you remain an economic participant in the publishing industry. Because otherwise you’re a freeloader. And when the writing you like is gone, you’ll have nothing to complain about.
 
-I'm all for this. Pay the sites you frequent directly. If you value their content, [why not pay for it][theoveranalyzed 3]? We value the content of a meal when we go out to eat. And guess what? We pay for that. Why should digital content be any different?
+I'm all for this. Pay the sites you frequent directly. If you value their content, [why not pay for it][19]? We value the content of a meal when we go out to eat. And guess what? We pay for that. Why should digital content be any different?
 
 The problem with that strategy is that many sites simply do not provide a way to contribute directly. This may seem like an excuse, but spend 10 minutes on the web and tell me how many sites you land on have a `/donate` or `/contribute` slug? I'd venture not many. 
 
@@ -67,7 +67,7 @@ It's not your fault---publishers big and small are not set up for that type of b
 
 <p><em class="takeHome">I really think it's as simple as that.</em></p>
 
-In the [latest episode of Exponent][exponent], Ben Thompson and James Allworth discussed the history of ad networks, from pre-digital all the to the current heavy-hitters like [BuzzFeed][stratechery]. I would link to a particular timestamp, but you should just listen to the whole thing:
+In the [latest episode of Exponent][20], Ben Thompson and James Allworth discussed the history of ad networks, from pre-digital all the to the current heavy-hitters like [BuzzFeed][21]. I would link to a particular timestamp, but you should just listen to the whole thing:
 
 <audio controls>
 	<source type="audio/mpeg" src="http://media.blubrry.com/exponent/p/content.blubrry.com/exponent/exponent52.mp3">
@@ -83,36 +83,40 @@ Thanks to the intricacies of the App Store, I was fortunate to purchase Peace be
 	<figcaption>Of course when I tried to demonstrate the difference Peace makes, The Verge's current ad is a relatively skinny one <span style="font-style:normal">😐</span></figcaption>
 </figure>
 
-Previously, almost ~40% of the entire [viewport][mozilla] was obscured with an ad. And more than a couple times in the past few months, the ads have adorned the homepage atop pieces by Nilay Patel and the like on how [Apple is killing publishers with content blockers][theverge]. [Oh, the irony][theverge].
+Previously, almost ~40% of the entire [viewport][22] was obscured with an ad. And more than a couple times in the past few months, the ads have adorned the homepage atop pieces by Nilay Patel and the like on how [Apple is killing publishers with content blockers][23]. [Oh, the irony][24].
 
-As long as sites like The Verge feature *terrible* ads, I won't feel sorry for blocking them. And as long as ad networks like [The DECK][decknetwork] and [Carbon][carbonads] feature unobtrusive---and frankly, relevant---ads, I'll whitelist their publisher sites. Still, I look forward to a day when I can banish ads *and* contribute directly to the sites I follow. 
+As long as sites like The Verge feature *terrible* ads, I won't feel sorry for blocking them. And as long as ad networks like [The DECK][25] and [Carbon][26] feature unobtrusive---and frankly, relevant---ads, I'll whitelist their publisher sites. Still, I look forward to a day when I can banish ads *and* contribute directly to the sites I follow.
 
-[^assume]: I assume he was talking about "smaller" sites that rely on largely tasteful ads, like [Six Colors][sixcolors], [Daring Fireball][daringfireball], [Inessential.com][inessential] (and, somewhat ironically, Marco's [own][marco 5] site).
+[^1]: I assume he was talking about "smaller" sites that rely on largely tasteful ads, like [Six Colors][a], [Daring Fireball][b], [Inessential.com][c] (and, somewhat ironically, Marco's [own][d] site).
 
-[atp]: http://atp.fm "The Accidental Tech Podcast"
-[bgr]: http://www.bgr.in/news/peace-ad-blocker-app-pulled-from-the-app-store-as-developer-doesnt-feel-its-the-right-thing-to-do/ "Boy Genius Report on Marco pulling Peace"
-[carbonads]: http://carbonads.net "Carbon ad network"
-[daringfireball]: http://daringfireball.net "John Gruber's blog, Daring Fireball"
-[decknetwork]: http://decknetwork.net "The DECK ad network"
-[exponent]: http://exponent.fm/episode-051-all-about-ads/ "Exponent podcast episode 51"
-[ghostery]: https://www.ghostery.com/en/articles/the-peace-app-experiment/ "Ghostery on Marco pulling Peace"
-[inessential]: http://inessential.com "Brent Simmons blog, Inessential"
-[marco]: http://www.marco.org/2008/01/28/instapaper "Marco unveiling Instapaper"
-[marco 2]: http://www.marco.org/2015/09/16/peace-content-blocker "Marco unveiling Peace"
-[marco 3]: http://www.marco.org/2015/08/11/ad-blocking-ethics "Marco on ad-blocking"
-[marco 4]: http://www.marco.org/2015/09/17/why-peace-blocks-deck-ads "Marco on why Peace blocks The DECK"
-[marco 5]: http://marco.org "Marco Arment's blog, Marco.org"
-[mozilla]: https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag?redirectlocale=en-US&redirectslug=Mobile%2FViewport_meta_tag "viewport tag"
-[practicaltypography]: http://practicaltypography.com "Matthew Butterick's Practical Typography"
-[sixcolors]: http://sixcolors.com "Jason Snell's blog, Six Colors"
-[stratechery]: https://stratechery.com/2015/popping-the-publishing-bubble/ "Ben Thompson on the publishing bubble"
-[techcrunch]: http://techcrunch.com/2015/09/17/a-day-after-ios-9s-launch-ad-blockers-top-the-app-store/ "TechCrunch on Marco pulling Peace"
-[theoveranalyzed]: /2015/8/25/practical-typography "Me on Practical Typography"
-[theoveranalyzed 2]: /2015/9/3/pages-09-pages-50-and-more-practical-typography "My take on various apps, with Practical Typography in mind"
-[theoveranalyzed 3]: /connect#supporting-theoveranalyzed "Supporting TheOverAnalyzed"
-[theverge]: http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks "Nilay Patel on the wrong side of the 'terrible web ads' argument"
-[twitter]: https://twitter.com/netgarden/status/645314698305376256 "@netgarden asking why Marco pulled Peace"
-[twitter 2]: https://twitter.com/JonInWinder/status/645580168350822400 "This guy clearly hates Marco"
-[twitter 3]: https://twitter.com/jmahorney/status/645635549525602305 "Another person how hates Marco"
-[twitter 4]: https://twitter.com/NateUT/status/645644418259791872 "This guy wants a refund"
-[twitter 5]: https://twitter.com/Macaficionados/status/645671324250177539 "Last butthurt link"
+[a]: http://sixcolors.com "Jason Snell's blog, Six Colors"
+[b]: http://daringfireball.net "John Gruber's blog, Daring Fireball"
+[c]: http://inessential.com "Brent Simmons blog, Inessential"
+[d]: http://marco.org "Marco Arment's blog, Marco.org"
+
+[1]: http://www.marco.org/2008/01/28/instapaper "Marco unveiling Instapaper"
+[2]: http://www.marco.org/2015/09/16/peace-content-blocker "Marco unveiling Peace"
+[3]: http://www.marco.org/2015/09/16/peace-content-blocker "Marco unveiling Peace"
+[4]: http://www.marco.org/2015/08/11/ad-blocking-ethics "Marco on ad-blocking"
+[5]: http://techcrunch.com/2015/09/17/a-day-after-ios-9s-launch-ad-blockers-top-the-app-store/ "TechCrunch on Marco pulling Peace"
+[6]: http://www.marco.org/2015/09/17/why-peace-blocks-deck-ads "Marco on why Peace blocks The DECK"
+[7]: http://www.bgr.in/news/peace-ad-blocker-app-pulled-from-the-app-store-as-developer-doesnt-feel-its-the-right-thing-to-do/ "Boy Genius Report on Marco pulling Peace"
+[8]: https://twitter.com/netgarden/status/645314698305376256 "@netgarden asking why Marco pulled Peace"
+[9]: https://twitter.com/netgarden/status/645314698305376256 "@netgarden asking why Marco pulled Peace"
+[10]: https://twitter.com/JonInWinder/status/645580168350822400 "This guy clearly hates Marco"
+[11]: https://twitter.com/jmahorney/status/645635549525602305 "Another person how hates Marco"
+[12]: https://twitter.com/NateUT/status/645644418259791872 "This guy wants a refund"
+[13]: https://twitter.com/Macaficionados/status/645671324250177539 "Last butthurt link"
+[14]: http://atp.fm "The Accidental Tech Podcast"
+[15]: https://www.ghostery.com/en/articles/the-peace-app-experiment/ "Ghostery on Marco pulling Peace"
+[16]: http://practicaltypography.com "Matthew Butterick's Practical Typography"
+[17]: /2015/8/25/practical-typography "Me on Practical Typography"
+[18]: /2015/9/3/pages-09-pages-50-and-more-practical-typography "My take on various apps, with Practical Typography in mind"
+[19]: /support "Supporting TheOverAnalyzed"
+[20]: http://exponent.fm/episode-051-all-about-ads/ "Exponent, episode 51"
+[21]: https://stratechery.com/2015/popping-the-publishing-bubble/ "Ben Thompson on the publishing bubble"
+[22]: https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag?redirectlocale=en-US&redirectslug=Mobile%2FViewport_meta_tag "viewport tag"
+[23]: http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks "Nilay Patel on the wrong side of the 'terrible web ads' argument"
+[24]: http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks "Nilay Patel on the wrong side of the 'terrible web ads' argument"
+[25]: http://decknetwork.net "The DECK ad network"
+[26]: http://carbonads.net "Carbon ad network"

@@ -7,9 +7,9 @@ Video: https://youtu.be/ITKqIMgSsdU
 
 Gatorade---now 50 years old.
 
-What better way to celebrate their anniversary than with a montage of ads with [MJ][wikipedia]?
+What better way to celebrate their anniversary than with a montage of ads with [MJ][1]?
 
-[From [Devour][dev]]
+(From [Devour][2])
 
-[dev]: http://devour.com/video/groove-like-mike/ "Devour source post"
-[wikipedia]: https://en.wikipedia.org/wiki/Michael_Jordan "Wikipedia: Michael Jordan"
+[1]: https://en.wikipedia.org/wiki/Michael_Jordan "Wikipedia: Michael Jordan"
+[2]: http://devour.com/video/groove-like-mike/ "Devour source post"

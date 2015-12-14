@@ -11,6 +11,6 @@ Greg Kumparak from TechCrunch:
  
 No biggie. 
 
-[From [The Loop][loopinsight]]
+(From [The Loop][1])
 
-[loopinsight]: http://www.loopinsight.com/2015/01/27/apple-just-had-the-most-profitable-quarter-of-any-company-ever/ "Source post on The Loop"
+[1]: http://www.loopinsight.com/2015/01/27/apple-just-had-the-most-profitable-quarter-of-any-company-ever/ "Source post on The Loop"

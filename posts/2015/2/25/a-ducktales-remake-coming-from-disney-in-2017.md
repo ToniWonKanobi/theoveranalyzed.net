@@ -5,6 +5,6 @@ Description: 🎶 DuckTales, A-Whoo-Ooh! 🎶
 Tags: TV, Disney  
 Image: http://i0.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/Ducktails.jpg?resize=700%2C300  
 
-Did you watch this growing up? If you didn't, I am so, *so* very sorry for you. Thanks to Disney XD, you'll have a second chance. 2017 couldn't come soon enough 🐦[^duck]
+Did you watch this growing up? If you didn't, I am so, *so* very sorry for you. Thanks to Disney XD, you'll have a second chance. 2017 couldn't come soon enough 🐦[^1]
 
-[^duck]: Sadly, there is no duck emoji.
+[^1]: Sadly, there is no duck emoji.

@@ -6,9 +6,9 @@ Image: http://d.pr/i/1bFEz+
 
 <p><img class="wide" src="http://d.pr/i/1bFEz+" alt="Cotton Bureau" title="Cotton Bureau"></p>
 
-I recently became an ambassador of sorts for my favorite online T-shirt company, [Cotton Bureau][cottonbureau]. The concept of the site is a lot like [Kickstarter][kickstarter] or [Indiegogo][indiegogo], in that the business model is basically crowdfunding.
+I recently became an ambassador of sorts for my favorite online T-shirt company, [Cotton Bureau][1]. The concept of the site is a lot like [Kickstarter][2] or [Indiegogo][3], in that the business model is basically crowdfunding.
 
-The following is from Cotton Bureau's [FAQ][cottonbureau 2] section.
+The following is from Cotton Bureau's [FAQ][4] section.
 
 How the design gets on a t-shirt and how the designer makes money:
 
@@ -27,7 +27,7 @@ How long after pledging to buy a shirt does it take before the shirt is shipped:
 
 That's pretty much it. I have spent more money here than my wife would like, so I can tell you just how easy it is to get a great design. At some point I will collect a page on this site showing all the shirt designs I have purchased. 
 
-**Use discount code CBANTHONYC10 to get 10% off your purchase.**
+Use discount code <b>CBANTHONYC10</b> to get 10% off your purchase!
 
 <aside class="update">
 
@@ -37,7 +37,7 @@ Their referral program has ended, in case you were wondering why the discount no
 
 </aside>
 
-[cottonbureau]: http://www.cottonbureau.com "Cotton Bureau"
-[cottonbureau 2]: https://cottonbureau.com/faq "Cotton Bureau FAQ"
-[indiegogo]: http://www.indiegogo.com "IndieGoGo"
-[kickstarter]: http://www.kickstarter.com "Kickstater"
+[1]: http://www.cottonbureau.com "Cotton Bureau"
+[2]: http://www.kickstarter.com "Kickstater"
+[3]: http://www.indiegogo.com "IndieGoGo"
+[4]: https://cottonbureau.com/faq "Cotton Bureau FAQ"

@@ -11,9 +11,9 @@ Mike Beasley, for 9to5Mac:
 
 > The disappearance of the application from the store indicates that this may not be a mere glitch on Twitter’s end.
 
-And so the [fun][imore] continues. 
+And so the [fun][1] continues. 
 
-In other news: [screw you Twitter][twitter].
+In other news: [screw you Twitter][2].
 
-[imore]: http://www.imore.com/why-twitters-new-token-limits-causes-tapbots-remove-twitter-mac-alpha-download-link "iMore on Twitter's token limits and how it effected Tapbots"
-[twitter]: https://blog.twitter.com/2010/evolving-ecosystem "Twitter's passive-aggressive blog post about third-party developers"
+[1]: http://www.imore.com/why-twitters-new-token-limits-causes-tapbots-remove-twitter-mac-alpha-download-link "iMore on Twitter's token limits and how it effected Tapbots"
+[2]: https://blog.twitter.com/2010/evolving-ecosystem "Twitter's passive-aggressive blog post about third-party developers"

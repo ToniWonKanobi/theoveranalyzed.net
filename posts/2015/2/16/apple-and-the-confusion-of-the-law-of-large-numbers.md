@@ -5,7 +5,7 @@ Description: "The Law of Large Numbers" can mean different things for different 
 Tags: Industry  
 Image: http://d.pr/i/1bs0x+  
 
-I am no [Ben Thompson][twitter], so this intrigued me. 
+I am no [Ben Thompson][1], so this intrigued me. 
 
 Here is Investopedia's result for the query "law of large numbers":
 
@@ -13,7 +13,7 @@ Here is Investopedia's result for the query "law of large numbers":
 
 Ah. This made more sense to me, especially in light of the criticism leveled against Apple for its software efforts of late. 
 
-[From [The Loop][loopinsight]
+(From [The Loop][2])
 
-[loopinsight]: http://www.loopinsight.com/2015/02/13/apple-and-the-confusion-of-the-law-of-large-numbers/ "Source post from The Loop"
-[twitter]: http://www.twitter.com/benthompson "Ben Thompson on Twitter"
+[1]: http://www.twitter.com/benthompson "Ben Thompson on Twitter"
+[2]: http://www.loopinsight.com/2015/02/13/apple-and-the-confusion-of-the-law-of-large-numbers/ "Source post from The Loop"

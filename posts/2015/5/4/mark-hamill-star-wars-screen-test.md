@@ -6,9 +6,9 @@ Tags: Star Wars
 Image: http://d.pr/i/qANn+  
 Video: https://youtu.be/co3DBlZbySo  
 
-You didn't think I would let today pass without including a [May The Fourth][wikipedia] post, did you?
+You didn't think I would let today pass without including a [May The Fourth][1] post, did you?
 
-[From [Devour][devour]]
+(From [Devour][2])
 
-[devour]: http://devour.com/video/mark-hamill-star-wars-screen-test/ "Source post on Devour"
-[wikipedia]: https://en.wikipedia.org/wiki/Star_Wars_Day "Wikipedia: 'Star Wars Day'"
+[1]: https://en.wikipedia.org/wiki/Star_Wars_Day "Wikipedia: 'Star Wars Day'"
+[2]: http://devour.com/video/mark-hamill-star-wars-screen-test/ "Source post on Devour"

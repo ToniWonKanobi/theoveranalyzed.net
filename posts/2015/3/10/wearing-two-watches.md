@@ -6,7 +6,7 @@ Image: http://d.pr/i/uan2+
 
 <p><img class="screenshot" src="http://d.pr/i/uan2+" alt="Benjamin Clymer's piece on The Verge" title="Benjamin Clymer's piece on The Verge"></p>
 
-Benjamin Clymer, founder of [HODINKEE][hodinkee], for [The Verge][tv]:
+Benjamin Clymer, founder of [HODINKEE][1], for [The Verge][2]:
 
 > The Apple Watch has minimal human value, and that is the biggest difference between it and its mechanical counterparts.
 
@@ -16,19 +16,19 @@ For the longest time, I had a plan for Apple Watch: I was going to wear my Apple
 
 ***
 
-I know what you're thinking. You're thinking "How dumb is that?" Admittedly, it is somewhat dumb. Still, the notion of wearing double time-pieces isn't nearly as idiotic as some of the other things we do in the fashion/utility apparel world we live in. Allison, ever the purveyor of frugality, has several belts that are, at half an inch thick, not nearly suitable for keeping her pants up. No, instead, she wears them on the outside of her shirt. Is it fashionable and visually appealing? Of course.[^h] Is it useful? Of course *not.*
+I know what you're thinking. You're thinking, "How dumb is that?" Admittedly, it is somewhat dumb. Still, the notion of wearing double time-pieces isn't nearly as idiotic as some of the other things we do in the fashion/utility apparel world we live in. Allison, ever the purveyor of frugality, has several belts that are, at half an inch thick, not nearly suitable for keeping her pants up. No, instead, she wears them on the outside of her shirt. Is it fashionable and visually appealing? Of course.[^1] Is it useful? Of course *not.*
 
-And what about skinny jeans? Do skinny jeans serve a purpose beyond an esthetic one? I suppose skinny jeans would lend themselves better to walking through a dense forrest, where baggier jeans might get caught on in the thick brush? 
+And what about skinny jeans? Do skinny jeans serve a purpose beyond an esthetic one? I suppose skinny jeans would lend themselves better to walking through a dense forrest, where baggier jeans might get caught on in the thick brush?
 
 We humans adorn ourselves with lots of 'things' that don't really serve any purpose. We do it because it makes us feel good.
 
-There's nothing wrong with that.
+There's nothing wrong with that, right?
 
 ***
 
-That's where my initial thinking about wearing two watches came from. I love old things. Old cars, old movies, old jeans---these are just better with age. And despite all the added technical benefit and increased utilitarianism of having an iPhone on my wrist, no amount of technology prowess will ever make Apple Watch better than a [fine mechanical timepiece][rolex]. 
+That's where my initial thinking about wearing two watches came from. I love old things. Old cars, old movies, old jeans---these are just better with age. And despite all the added technical benefit and increased utilitarianism of having an iPhone on my wrist, no amount of technology prowess will ever make Apple Watch better than a [fine mechanical timepiece][3]. 
 
-Now, though, I feel differently. Do I think Apple Watch could ever be more important to me than my normal wrist watch? Maybe. And what if my normal wrist watch was [this][patek]? Would Apple Watch surpass that too, as far as importance and wrist-time? Maybe. 
+Now, though, I feel differently. Do I think Apple Watch could ever be more important to me than my normal wrist watch? Maybe. And what if my normal wrist watch was [this][4]? Would Apple Watch surpass that too, as far as importance and wrist-time? Maybe. 
 
 Do I think that Apple Watch could ever *really* be more precious to me than a wonderfully complex Swiss watch? 
 
@@ -36,9 +36,9 @@ Do I think that Apple Watch could ever *really* be more precious to me than a wo
 
 And you know what? That's okay. I am probably going to get the Apple Watch. I need to try it. If for no other reason so that I can talk about it here. But that doesn't mean it has to be my number one watch. It doesn't have to replace another watch. And most importantly, it doesn't have to be so important that I wear two watches all the time.
 
-[^h]: ❤️
+[^1]: ❤️
 
-[hodinkee]: http://www.hodinkee.com/ "HODINKEE"
-[patek]: http://www.patek.com/en/mens-watches/aquanaut/5167A-001 "Patek Aquanaut 5167A-001"
-[rolex]: http://www.rolex.com/watches/sea-dweller-4000/m116600-0003/magazine.html "Rolex Sea-Dweller 4000"
-[tv]: http://www.theverge.com/2015/3/9/8176049/apple-watch-edition-vs-rolex-benjamin-clymer-interview "Benjamin Clymer's post on The Verge"
+[1]: http://www.hodinkee.com/ "HODINKEE"
+[2]: http://www.theverge.com/2015/3/9/8176049/apple-watch-edition-vs-rolex-benjamin-clymer-interview "Benjamin Clymer's post on The Verge"
+[3]: http://www.rolex.com/watches/sea-dweller-4000/m116600-0003/magazine.html "Rolex Sea-Dweller 4000"
+[4]: http://www.patek.com/en/mens-watches/aquanaut/5167A-001 "Patek Aquanaut 5167A-001"

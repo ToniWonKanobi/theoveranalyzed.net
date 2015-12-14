@@ -8,16 +8,16 @@ AppleInsider:
 
 > Apple's entry into mobile payments is a shot in the arm for the industry and has stoked accelerated competition from rival systems, including the Walmart and BestBuy-backed MCX.
 
-Yeah, I bet Wal-Mart et al. are [feeling pretty stupid right now][techcrunch].
+Yeah, I bet Wal-Mart et al. are [feeling pretty stupid right now][1].
 
 <aside class="update">
 
 ### Update: CurrentC
 <p class="updateTime"><time datetime="2015-08-11">August 11, 2015</time></p>
 
-CurrentC [died today][dt].
+CurrentC [died today][2].
 
 </aside>
 
-[dt]: http://9to5mac.com/2015/08/11/rite-aid-apple-pay-currentc-blockade-over/
-[techcrunch]: http://techcrunch.com/2014/10/25/currentc/
+[1]: http://techcrunch.com/2014/10/25/currentc/
+[2]: http://9to5mac.com/2015/08/11/rite-aid-apple-pay-currentc-blockade-over/

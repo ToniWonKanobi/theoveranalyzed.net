@@ -7,6 +7,6 @@ Video: https://vimeo.com/122416858
 
 Talk about living the dream. 
 
-[From [Devour][devour]]
+(From [Devour][1])
 
-[devour]: http://devour.com/video/portrait-of-a-dog-walker/ "Devour source post"
+[1]: http://devour.com/video/portrait-of-a-dog-walker/ "Devour source post"

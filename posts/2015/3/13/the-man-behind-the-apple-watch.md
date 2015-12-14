@@ -5,9 +5,9 @@ Description: Jony Ive's current role at Apple is nothing but even more significa
 Tags: Apple Watch  
 Image: http://assets2.howtospendit.ft-static.com/images/41/c5/b6/41c5b648-f409-4be0-9ec5-d1c5ac006e58_seven_hundred.jpg  
 
-![Jony Ive][ji]
+![Jony Ive][1]
 
-I still haven't read The New Yorker's Jony Ive [piece,][newyorker] but this one by Nick Foulkes was a nice intro. 
+I still haven't read The New Yorker's Jony Ive [piece,][2] but this one by Nick Foulkes was a nice intro. 
 
 There were also some neat little tidbits about Apple Watch:
 
@@ -29,5 +29,5 @@ And on a more practical level, Foulkes had this to say about the strap options:
 
 So let that put to bed my fear that the link bracelet's 'one size fits all' did not really mean that the bracelet was non-adjustable.
 
-[ji]: http://assets2.howtospendit.ft-static.com/images/41/c5/b6/41c5b648-f409-4be0-9ec5-d1c5ac006e58_seven_hundred.jpg "Jony Ive"
-[newyorker]: http://www.newyorker.com/magazine/2015/02/23/shape-things-come "Big piece about Jony Ive and his role at Apple"
+[1]: http://assets2.howtospendit.ft-static.com/images/41/c5/b6/41c5b648-f409-4be0-9ec5-d1c5ac006e58_seven_hundred.jpg "Jony Ive"
+[2]: http://www.newyorker.com/magazine/2015/02/23/shape-things-come "Big piece about Jony Ive and his role at Apple"

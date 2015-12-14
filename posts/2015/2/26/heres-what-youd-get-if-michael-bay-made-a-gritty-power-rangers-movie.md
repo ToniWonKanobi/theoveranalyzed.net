@@ -11,8 +11,8 @@ As a former Power Rangers diehard, I wanted to know what this guy envisioned for
 
 It's obviously a low-production indie piece, and it is rather dark.
 
-But it does have that [Dawson's Creek][wikipedia] guy.
+But it does have that [Dawson's Creek][1] guy.
 
 Worth 15 minutes? Absolutely.
 
-[wikipedia]: https://en.wikipedia.org/wiki/James_Van_Der_Beek "Wikipedia: James Van Der Beek"
+[1]: https://en.wikipedia.org/wiki/James_Van_Der_Beek "Wikipedia: James Van Der Beek"

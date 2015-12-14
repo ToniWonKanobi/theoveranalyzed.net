@@ -11,8 +11,8 @@ Michael Ballaban, writing for Jalopnik, on the Model S's new "Ludicrous Mode":
 
 > The way it works, Elon says, is that the system basically works the way it would in the previous craziness, Insane Mode, up until 30 miles per hour. After that, it steps up the game to Ludicrous Mode. It can’t really do Ludicrous all the way from zero miles per hour, simply because there’s no way to surmount the laws of physics and traction.
 
-And most wonderfully, Ballaban reported Musk saying that a new [Tesla Roadster][wikipedia] is in the works. Although the first Roadster wasn't very popular, it was a technological precursor to the monstrously fast models Tesla current sells.
+And most wonderfully, Ballaban reported Musk saying that a new [Tesla Roadster][1] is in the works. Although the first Roadster wasn't very popular, it was a technological precursor to the monstrously fast models Tesla current sells.
 
 The next decade is going to be an important one for the automotive industry. 
 
-[wikipedia]: https://en.wikipedia.org/wiki/Tesla_Roadster "Wikipedia: Tesla Roadster"
+[1]: https://en.wikipedia.org/wiki/Tesla_Roadster "Wikipedia: Tesla Roadster"

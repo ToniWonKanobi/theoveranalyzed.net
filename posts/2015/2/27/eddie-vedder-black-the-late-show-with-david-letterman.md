@@ -7,8 +7,8 @@ Video: https://youtu.be/OlZKFJueoIA
 
 An oldie but goodie.
 
-PS: [Will Lee][wikipedia] and the rest of [The CBS Orchestra][wikipedia 2] are pretty [BA][ba]. 
+PS: [Will Lee][1] and the rest of [The CBS Orchestra][2] are pretty [BA][3]. 
 
-[ba]: http://www.urbandictionary.com/define.php?term=BA&defid=1081389 "Urban Dictionary: 'BA'"
-[wikipedia]: https://en.wikipedia.org/wiki/Will_Lee_(bassist) "Wikipedia: Will Lee"
-[wikipedia 2]: https://en.wikipedia.org/wiki/CBS_Orchestra "Wikipedia: the CBS orchestra"
+[1]: https://en.wikipedia.org/wiki/Will_Lee_(bassist) "Wikipedia: Will Lee"
+[2]: https://en.wikipedia.org/wiki/CBS_Orchestra "Wikipedia: the CBS orchestra"
+[3]: http://www.urbandictionary.com/define.php?term=BA&defid=1081389 "Urban Dictionary: 'BA'"

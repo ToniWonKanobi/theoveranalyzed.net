@@ -5,7 +5,7 @@ Description: Apple has a special table for Apple Watch Edition.
 Tags: Apple Watch  
 Image: https://cdn0.vox-cdn.com/thumbor/EU5Rm8VIc5I3215FsggZydr1pYY=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3486440/Screen_Shot_2015-03-09_at_2.53.56_PM.0.png  
 
-![Apple Watch in the Retail Stores][aw]
+![Apple Watch in the Retail Stores][1]
 
 Ever the funnyman, Dan Siefert, for The Verge:
 
@@ -15,4 +15,4 @@ This part of the keynote was glossed-over rather quickly, almost as quickly as C
 
 There are still a lot of unanswered questions regarding the intricacies of the Apple Watch retail experience.
 
-[aw]: https://cdn0.vox-cdn.com/thumbor/EU5Rm8VIc5I3215FsggZydr1pYY=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3486440/Screen_Shot_2015-03-09_at_2.53.56_PM.0.png "Apple Watch in the Retail Stores"
+[1]: https://cdn0.vox-cdn.com/thumbor/EU5Rm8VIc5I3215FsggZydr1pYY=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3486440/Screen_Shot_2015-03-09_at_2.53.56_PM.0.png "Apple Watch in the Retail Stores"

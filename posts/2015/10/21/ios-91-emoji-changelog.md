@@ -5,12 +5,12 @@ Description: More Emoji! Yay.
 Tags: Emoji  
 Image: http://d.pr/i/kN34+  
 
-![New Emoji coming for iOS 9.1][d]
+![New Emoji coming for iOS 9.1][1]
 
-The public release of iOS 9.1 [dropped this morning][9to5mac], and it comes with a whole slew of new emoji.
+The public release of iOS 9.1 [dropped this morning][2], and it comes with a whole slew of new emoji.
 
-Head over to [Emojipedia][emojipedia] for the full list.
+Head over to [Emojipedia][3] for the full list.
 
-[9to5mac]: http://9to5mac.com/2015/10/21/ios-9-1-emoji-wallpapers/ "9to5Mac: New wallpapers for iOS 9.1"
-[d]: http://d.pr/i/kN34+ "New Emoji coming for iOS 9.1"
-[emojipedia]: http://blog.emojipedia.org/ios-9-1-emoji-changelog/ "Emojipedia: iOS 9.1 emoji changelog"
+[1]: http://d.pr/i/kN34+ "New Emoji coming for iOS 9.1"
+[2]: http://9to5mac.com/2015/10/21/ios-9-1-emoji-wallpapers/ "9to5Mac: New wallpapers for iOS 9.1"
+[3]: http://blog.emojipedia.org/ios-9-1-emoji-changelog/ "Emojipedia: iOS 9.1 emoji changelog"

@@ -7,6 +7,6 @@ Video: https://youtu.be/vxmFrLiOV7c
 
 Dogs make even the most yuppy of pastimes precious.
 
-[From [Digg][digg]]
+(From [Digg][1])
 
-[digg]: http://digg.com/video/the-dogs-who-hunt-for-truffles "The Dogs Who Hunt for Truffles"
+[1]: http://digg.com/video/the-dogs-who-hunt-for-truffles "The Dogs Who Hunt for Truffles"

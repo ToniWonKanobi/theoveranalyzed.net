@@ -10,7 +10,7 @@ Image: http://www.frerejones.com/assets/Futura-O-anim.gif
 	<figcaption>Frere-Jones: "Upright and sideways: Futura Medium by Paul Renner, Bauer 1927"</figcaption>
 </figure>
 
-I've been [following][theoveranalyzed] Frere-Jones' blog since it was [linked][df] on Daring Fireball some time ago. While I don't consider myself a font expert (not by a long shot), I do find the art and science behind this centuries-old craft very interesting. 
+I've been [following][1] Frere-Jones' blog since it was [linked][2] on Daring Fireball some time ago. While I don't consider myself a font expert (not by a long shot), I do find the art and science behind this centuries-old craft very interesting. 
 
 <figure>
 	<img src="http://www.frerejones.com/assets/Horiz&amp;Vert01.gif" alt="Font Weights" title="Font Weights">
@@ -21,5 +21,5 @@ His latest post deals with font weights and how designers must occasionally disr
 
 I've linked to Frere-Jones twice now, just in case anyone is keeping track.
 
-[df]: http://daringfireball.net/linked/2015/02/11/frere-jones "John Gruber's post on the HFJ breakup"
-[theoveranalyzed]: /2015/3/15/typeface-mechanics-001 "My first share of Frere-Jones new blog"
+[1]: /2015/3/15/typeface-mechanics-001 "My first share of Frere-Jones new blog"
+[2]: http://daringfireball.net/linked/2015/02/11/frere-jones "John Gruber's post on the HFJ breakup"

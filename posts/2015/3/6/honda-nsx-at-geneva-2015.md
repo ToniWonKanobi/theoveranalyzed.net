@@ -5,6 +5,6 @@ Description: Nothing ever stays the same.
 Tags: Honda  
 Video: https://youtu.be/c1EF4NSp_yM  
 
-Truly, I can't help but miss the [old one][wikipedia].
+Truly, I can't help but miss the [old one][1].
 
-[wikipedia]: https://en.wikipedia.org/wiki/Honda_NSX "Wikipedia: Honda NSX"
+[1]: https://en.wikipedia.org/wiki/Honda_NSX "Wikipedia: Honda NSX"

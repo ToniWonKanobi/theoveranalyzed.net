@@ -13,7 +13,7 @@ I wasn't sure what he was referring to, and when I looked at the @replies, I fou
 
 <blockquote lang="en"><p><a href="https://twitter.com/marcoarment" title="Marco Arment on Twitter">@marcoarment</a> <a href="http://t.co/NpzmrwQnPV" title="'Why Time Stands Still for Watchmakers'">http://t.co/NpzmrwQnPV</a></p>&mdash; Daniel Ernst (@danielhsqr) <a href="https://twitter.com/danielhsqr/status/570604129225199616" title="Daniel Ernst replying to Marco's tweet about 10:09">February 25, 2015</a></blockquote>
 
-That tweet linked to a 2008 New York Times [piece][nytimes] by Andrew Adam Newman.
+That tweet linked to a 2008 New York Times [piece][1] by Andrew Adam Newman.
 
 Newman's explanation is summarized here:
 
@@ -27,4 +27,4 @@ Newman also notes a few other marketing consistencies such as 'Monday the 28th'.
 
 ⌚️
 
-[nytimes]: http://www.nytimes.com/2008/11/28/business/media/28adco.html "NYT piece about why watches are always photographed at the same time"
+[1]: http://www.nytimes.com/2008/11/28/business/media/28adco.html "NYT piece about why watches are always photographed at the same time"

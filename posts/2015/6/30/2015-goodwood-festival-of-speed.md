@@ -5,7 +5,7 @@ Description: It's Porsche time at a certain racetrack in the UK.
 Tags: Porsche  
 Image: http://www.total911.com/wp-content/uploads/2015/06/Goodwood-2.jpg  
 
-Josh Barnett of Total 911 was at the 2015 [Goodwood Festival of Speed][goodwood]:
+Josh Barnett of Total 911 was at the 2015 [Goodwood Festival of Speed][1]:
 
 > From Singer’s UK debut to the new Porsche 911 GT3 RS, there was something to satisfy every neunelfer fan, as the first part of our gallery attests.
 
@@ -34,7 +34,7 @@ Josh Barnett of Total 911 was at the 2015 [Goodwood Festival of Speed][goodwood]
 	<figcaption><a href="https://en.wikipedia.org/wiki/Porsche_919_Hybrid" title="Wikipedia: Porsche 919">919</a></figcaption>
 </figure>
 
-Goodwood is home to some of my favorite [Chris Harris videos][goodwood 2]. It would be fun to visit someday 🇬🇧
+Goodwood is home to some of my favorite [Chris Harris videos][2]. It would be fun to visit someday 🇬🇧
 
-[goodwood]: https://grrc.goodwood.com/section/festival-of-speed/ "Goodwood Festival of Speed official site"
-[goodwood 2]: https://grrc.goodwood.com/road/drives-and-rides/chris-harris-porsche-911-gt3-rs "Goodwood reporting on Chris Harris and the GT3 RS"
+[1]: https://grrc.goodwood.com/section/festival-of-speed/ "Goodwood Festival of Speed official site"
+[2]: https://grrc.goodwood.com/road/drives-and-rides/chris-harris-porsche-911-gt3-rs "Goodwood reporting on Chris Harris and the GT3 RS"

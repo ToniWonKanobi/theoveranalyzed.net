@@ -5,7 +5,7 @@ Description: Handmade vs. fruit-made.
 Tags: Apple Watch  
 Image: http://d.pr/i/10KlC+  
 
-![Marco's Venn diagram][d]
+![Marco's Venn diagram][1]
 
 Marco Arment, on Apple Watch:
 
@@ -13,11 +13,11 @@ Marco Arment, on Apple Watch:
 
 > Once you’re accustomed to wearing one, going out for a night without your Apple Watch is going to feel like going out without your phone.
 
-Fans of older, mechanical timepieces will have much to dismay over in regards to Apple Watch. I posited a similar notion [in my piece][theoveranalyzed] on wearing Apple Watch *and* a traditional watch. 
+Fans of older, mechanical timepieces will have much to dismay over in regards to Apple Watch. I posited a similar notion [in my piece][2] on wearing Apple Watch *and* a traditional watch. 
 
 While I can hope my desire for a dumb watch will entitle it to be worn at least a couple times a week, the pragmatist in me says that might be wishful thinking. 
 
 Come May 1, I should have a better idea whether the dumbwatches of yore might still have a place on my wrist.
 
-[d]: http://d.pr/i/10KlC+ "Marco's Venn diagram"
-[theoveranalyzed]: /2015/3/10/wearing-two-watches "My post on the practicality of wearing two watches: Apple Watch, and an old, classic-style watch"
+[1]: http://d.pr/i/10KlC+ "Marco's Venn diagram"
+[2]: /2015/3/10/wearing-two-watches "My post on the practicality of wearing two watches: Apple Watch, and an old, classic-style watch"

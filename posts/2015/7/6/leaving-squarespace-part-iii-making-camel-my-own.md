@@ -8,7 +8,7 @@ Image: http://d.pr/i/1d63D+
 
 ### Updating Camel's Default Dependencies
 
-Before starting with the rest of the post, you should update Camel's version of `markdown-it` to the latest version available on [npmjs][npmjs]. This is crucial because several plugins discussed in this post require a newer version than what Camel comes with [by default][github]. 
+Before starting with the rest of the post, you should update Camel's version of `markdown-it` to the latest version available on [npmjs][1]. This is crucial because several plugins discussed in this post require a newer version than what Camel comes with [by default][2]. 
 
 Here's how to do that:
 
@@ -16,20 +16,20 @@ Here's how to do that:
 2. Locate the `package.json`
 3. Modify the line that lists Camel's dependency on `markdown-it` such that the `^` is replaced by the `>`. This makes it so that any subsequent updates to `markdown-it` will be okay with Camel:
 
-	```
+	```json
 	"markdown-it": "^3.1.0",
 	```
 	
 4. Further navigate to the `node_modules` directory (this is where all of Camel's modules live, such as `handlebars`, `express`, and `markdown-it`):
 5.  Run the command `npm update markdown-it` and confirm that `markdown-it` has been updated:
 
-	![npm update markdown-it][d]
+	![npm update markdown-it][3]
 	
 You can now proceed with installing these additional `markdown-it` plugins.
 
 ### Header Anchors
 
-[`markdown-it-anchor`][npmjs 2] is a `markdown-it` plugin that creates headers-based permalinks in the parsed HTML. This is similar to what [GitHub has all over its site][d 2]. Essentially, `markdown-it-anchor` looks through the Markdown document for header markers (`#`) and then creates permalinks to those headers, displaying them only on `a:hover` (at least in my CSS). 
+[`markdown-it-anchor`][4] is a `markdown-it` plugin that creates headers-based permalinks in the parsed HTML. This is similar to what [GitHub has all over its site][5]. Essentially, `markdown-it-anchor` looks through the Markdown document for header markers (`#`) and then creates permalinks to those headers, displaying them only on `a:hover` (at least in my CSS). 
 
 This is useful if you, like me, might want to direct readers to particular sections of a post. For instance, what if a reader wanted to know how I enabled header anchors on my site? After locating the section of the post that discusses header anchors ("Header Anchors" `# Header Anchors`) I would just copy the permalink glyph on `a:hover`. I could then send *that* link to the reader. 
 
@@ -37,21 +37,22 @@ Here's how to enable header anchors:
 
 1. Navigate to Camel's directory with `cd`	
 2. Further navigate to the `node_modules` directory (this is where all of Camel's modules live, such as `handlebars`, `express`, and `markdown-it`)
-3. Run the command `npm i markdown-it-anchor --save`[^sa]
-5. Test the installation by checking `package.json` for a new dependency
-	
-	![Adding `markdown-it-anchor` to package.json][d 3]
-	
-6. Open `camel.js` and add the following to the Initialization section
+3. Run the command `npm i markdown-it-anchor --save`[^1]
+4. Test the installation by checking `package.json` for a new dependency
 
-	```
+	![Adding `markdown-it-anchor` to package.json][6]
+	
+5. Open `camel.js` and add the following to the Initialization section
+
+	```js
 	.use(require('markdown-it-anchor'), {
 		permalink: true,
 	})
 	```
+	
 6. The 'markdownit' section should look like this now
 
-	```
+	```js
 	var markdownit = require('markdown-it')({
 		html: true,
 		xhtmlOut: true,
@@ -65,11 +66,11 @@ Here's how to enable header anchors:
 
 The trendy thing to do is to set the anchor as visible only on hover (`a:hover`). That's what the `permalink: true` is defining (default is no hyperlink visible). 
 
-We can test that the plugin worked correctly by modifying a sample post. But before commit to the local copy of Camel, you'll want to make some changes to `site.css` in order to actually visualize the header anchors.[^la]
+We can test that the plugin worked correctly by modifying a sample post. But before commit to the local copy of Camel, you'll want to make some changes to `site.css` in order to actually visualize the header anchors.[^2]
 
 The class you want to target is the one defined by the plugin, `.header-anchor`:
 
-```
+```css
 .header-anchor, .header-anchor:hover, .title a {
     text-decoration: none
 }
@@ -99,8 +100,7 @@ To test that everything worked as it should, `cd` to Camel's main directory and 
 Note the `#header-test` appended to the hyperlink (check the status bar on the bottom left of the window).
 
 <figure>
-	<img src="http://d.pr/i/1lpF3+" alt="Finished anchors" title="Finished anchors">
-	<figcaption>Success.</figcaption>
+	<img src="http://d.pr/i/1lpF3+" alt="Finished anchors" title="Finished anchors">	<figcaption>Success.</figcaption>
 </figure>
 
 ### Table of Contents
@@ -110,15 +110,15 @@ I also installed an additional `markdown-it` plugin called `markdown-it-table-of
 Installing the plugin wasn't difficult, but it took me a while to figure it out:
 
 1. Navigate to Camel's directory with `cd`
-2. Further navigate to the `node_modules` directory	
+2. Further navigate to the `node_modules` directory
 3. Run the command `npm i markdown-it-table-of-contents --save`
 4. Test the installation by checking `package.json` for a new dependency
-	
-	![Adding `markdown-it-table-of-contents` to package.json][d 4]
-	
-6. Open `camel.js` and add the following to the Initialization section
 
-	```
+	![Adding `markdown-it-table-of-contents` to package.json][7]
+	
+5. Open `camel.js` and add the following to the Initialization section
+
+	```js
 	.use(require("markdown-it-table-of-contents"), {
 	includeLevel: 1,
 	})
@@ -126,7 +126,7 @@ Installing the plugin wasn't difficult, but it took me a while to figure it out:
 	
 6. The 'markdownit' section should look like this now
 
-	```
+	```js
 	var markdownit = require('markdown-it')({
 		html: true,
 		xhtmlOut: true,
@@ -152,26 +152,26 @@ We can test that the plugin worked correctly by modifying a sample post. After l
 
 ### Code Highlighting
 
-When I was still using Squarespace, I tried installing a server-side script called [highlight.js][highlightjs]. Highlight.js applies color schemes to `<code>` blocks according to the type of code in the block, be it JavaScript, HTML, CSS, Perl, etc.
+When I was still using Squarespace, I tried installing a server-side script called [highlight.js][8]. Highlight.js applies color schemes to `<code>` blocks according to the type of code in the block, be it JavaScript, HTML, CSS, Perl, etc.
 
-For whatever reason, I was never able to get it to work with my Squarespace site. I forgot about it actually. But while I was browsing the `markdown-it` plugin database (for problems eventually solved by the two aforementioned plugins in this post), I stumbled upon a `markdown-it` plugin called [`markdown-it-highlightjs`][npmjs 3], which---you guessed it---sets `markdown-it` to use `highlight.js` by default.
+For whatever reason, I was never able to get it to work with my Squarespace site. I forgot about it actually. But while I was browsing the `markdown-it` plugin database (for problems eventually solved by the two aforementioned plugins in this post), I stumbled upon a `markdown-it` plugin called [`markdown-it-highlightjs`][9], which---you guessed it---sets `markdown-it` to use `highlight.js` by default.
 
 1. Navigate to Camel's directory with `cd`
 2. Further navigate to the `node_modules` directory
 3. Run the command `npm i markdown-it-highlightjs --save`
 4. Test the installation by checking `package.json` for a new dependency
 	
-	!["Adding `markdown-it-highlightjs` to package.json"][d 5]
+	!["Adding `markdown-it-highlightjs` to package.json"][10]
 	
-6. Open `camel.js` and add the following to the Initialization section:
+5. Open `camel.js` and add the following to the Initialization section:
 
-	```
+	```js
 	.use(require('markdown-it-highlightjs'))
 	```
 	
 6. The 'markdownit' section should look like this now
 
-	```
+	```js
 	var markdownit = require('markdown-it')({
 		html: true,
 		xhtmlOut: true,
@@ -189,21 +189,21 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 	
 7. Now that `markdown-it-highlightjs` is installed, you'll need to load a stylesheet. Navigate to Camel's directory, and from there:
 
-	```
+	```nohighlight
 	/node_modules/markdown-it-highlightjs/node_modules/highlight.js/styles
 	```
 	
 	Grab whichever stylesheet you prefer, place that in Camel's public directory where stylesheets go: `/public/css`
 
-9. Finally, you'll need to edit `header.html` to load whichever stylesheet you chose in the prior step
+8. Finally, you'll need to edit `header.html` to load whichever stylesheet you chose in the prior step
 
-	```
+	```html
 	<link rel="stylesheet" type="text/css" href="/css/default.css">
 	```
 	
 You can test that the plugin is working by editing a sample post and launching a local version of your site.
 
-![It works!][d 6]
+![It works!][11]
                                           
 ***
 
@@ -211,7 +211,7 @@ There are other aspects of TheOverAnalyzed that took some tweaking. I might deta
 
 <aside class="update">
 
-### Update: No More Highights
+### Update: No More Code Block Highights
 <p class="updateTime"><time datetime="2015-08-11">August 11, 2015</time></p>
 
 Since writing this post, I have since disabled `markdown-it-highlightjs`. It wasn't a burdensome plugin or anything---I just decided it was unnecessary visual cruft.
@@ -229,17 +229,28 @@ And while `markdown-it-anchor` is still a dependency on this project, I've tweak
 
 </aside>
 
-[^la]: I'll talk more my CSS philosophy/changes in a future post. 
-[^sa]: Appending `--save` marks the package as a dependency in Camel's `package.json`, which is important!
+<aside class="update">
 
-[d]: http://d.pr/i/10848+ "npm update markdown-it"
-[d 2]: http://d.pr/i/16frZ+ "GitHub header permalinks"
-[d 3]: http://d.pr/i/1kT9a+ "Adding `markdown-it-anchor` to package.json"
-[d 4]: http://d.pr/i/1lwKV+ "Adding `markdown-it-table-of-contents` to package.json"
-[d 5]: http://d.pr/i/Z46L+ "Adding `markdown-it-highlightjs` to package.json"
-[d 6]: http://d.pr/i/BuH9+ "It works!"
-[github]: https://github.com/cliss/camel/blob/master/package.json#L61 "Line of code in the package.json for Camel that calls for Express"
-[highlightjs]: https://highlightjs.org "Home of highlight.js on the internet"
-[npmjs]: https://www.npmjs.com/package/markdown-it "npmjs page for `markdown-it`"
-[npmjs 2]: https://www.npmjs.com/package/markdown-it-anchor "npmjs page for `markdown-it-anchor`"
-[npmjs 3]: https://www.npmjs.com/package/markdown-it-highlightjs/ "npmjs page for `markdown-it-highlightjs`"
+### Update: Code Block Highights Are Back
+<p class="updateTime"><time datetime="2015-12-10">December 10, 2015</time></p>
+
+I re-enabled `markdown-it-highlightjs` after I realized just how much `<code>` I post on the site. Just as I wouldn't want to live without highlighting in my code editor of choice, I don't think readers want to live without code highlighting in large blocks of code.
+
+Note that I did not enable highlighting on raw `<code>` blocks. I also removed the background color on regular `<code>` blocks. This way, quick snippets of code flow better with the text. And when I want to share a large block of text, it will stand out more.
+
+</aside>
+
+[^1]: Appending `--save` marks the package as a dependency in Camel's `package.json`, which is important!
+[^2]: I'll talk more my CSS philosophy/changes in a future post.
+
+[1]: https://www.npmjs.com/package/markdown-it "npmjs page for `markdown-it`"
+[2]: https://github.com/cliss/camel/blob/master/package.json#L61 "Line of code in the package.json for Camel that calls for Express"
+[3]: http://d.pr/i/10848+ "npm update markdown-it"
+[4]: https://www.npmjs.com/package/markdown-it-anchor "npmjs page for `markdown-it-anchor`"
+[5]: http://d.pr/i/16frZ+ "GitHub header permalinks"
+[6]: http://d.pr/i/1kT9a+ "Adding `markdown-it-anchor` to package.json"
+[7]: http://d.pr/i/1lwKV+ "Adding `markdown-it-table-of-contents` to package.json"
+[8]: https://highlightjs.org "Home of highlight.js on the internet"
+[9]: https://www.npmjs.com/package/markdown-it-highlightjs/ "npmjs page for `markdown-it-highlightjs`"
+[10]: http://d.pr/i/Z46L+ "Adding `markdown-it-highlightjs` to package.json"
+[11]: http://d.pr/i/BuH9+ "It works!"

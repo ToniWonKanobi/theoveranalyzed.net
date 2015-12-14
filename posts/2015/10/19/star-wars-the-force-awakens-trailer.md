@@ -14,10 +14,10 @@ Video: https://youtu.be/sGbxmsDFVnE
 
 <p class="updateTime"><time datetime="2015-10-21">October 21, 2015</time></p>
 
-Here's a [music-only version][youtube] of the trailer, "revised by [Tim Gonzales][timgonzales] to take away to drops in music during the dialogue bits," as Peter Sciretta of [/Film][slashfilm] notes.
+Here's a [music-only version][1] of the trailer, "revised by [Tim Gonzales][2] to take away to drops in music during the dialogue bits," as Peter Sciretta of [/Film][3] notes.
 
 </aside>
 
-[slashfilm]: http://www.slashfilm.com/star-wars-the-force-awakens-trailer-music/ "/Film: The Force Awakens Trailer Music"
-[timgonzales]: http://timgonzales.com "Tim Gonzales's website"
-[youtube]: https://www.youtube.com/watch?v=Ci0C8ggQWys "Music-only version of the trailer"
+[1]: https://www.youtube.com/watch?v=Ci0C8ggQWys "Music-only version of the trailer"
+[2]: http://timgonzales.com "Tim Gonzales's website"
+[3]: http://www.slashfilm.com/star-wars-the-force-awakens-trailer-music/ "/Film: The Force Awakens Trailer Music"

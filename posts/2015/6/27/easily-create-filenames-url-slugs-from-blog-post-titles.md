@@ -10,15 +10,15 @@ My workflow for naming files has never been anything to write home about. Square
 
 For instance, suppose I wanted to create the filename (and in Camel, the resultant URL slug) for this post:
 
-```
+```nohighlight
 Easily Create Filenames & URL Slugs From Blog Post Titles
 ```
 
 It isn't the longest I've ever dreamt up, but it certainly isn't the shortest, either. If I wanted to create a URL-friendly filename, it would take *several* steps. 
 
-1. First, I would select and copy the [title's text][d]
-2. Next, `Command-S` to invoke the [save dialog box][d 2]
-3. Then I paste the previously selected text into the [Save As field][d 3]:
+1. First, I would select and copy the [title's text][1]
+2. Next, `Command-S` to invoke the [save dialog box][2]
+3. Then I paste the previously selected text into the [Save As field][3]:
 4. After that, I start manually changing the uppercase letters to lowercase, removing spaces and replacing them with hyphens, and deleting URL-unfriendly characters like `&`:
 
 <figure>
@@ -35,17 +35,17 @@ I tried a few browser searches, but nothing came up. I decided it would be a goo
 
 <blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> I wrote a Python function that does that as part of a blog-posting script. You could build a script/service from it.</p>&mdash; Dr. Drang (@drdrang) <a href="https://twitter.com/drdrang/status/614814467923120129" title="Dr. Drang responding to my question">June 27, 2015</a></blockquote>
 
-The [good][leancrew] [doctor][twitter] was kind enough to send me an email with the contents of a Python script. 
+The [good][4] [doctor][5] was kind enough to send me an email with the contents of a Python script. 
 
-```
 > On June 27, 2015 at 8:34:20 AM, Dr. Drang (drdrang@gmail.com) wrote: 
 > 
 > This takes the title as standard input and returns the 
 > hyphen-separated 
 > slug on standard output. You'll need to install the unidecode library. 
 > 
-> --------------------- 
+> <hr class="long"> 
 > 
+> ```python
 > #!/usr/bin/env python 
 > # coding: utf8 
 > 
@@ -71,11 +71,11 @@ The [good][leancrew] [doctor][twitter] was kind enough to send me an email with 
 > 
 > slug = slugify(title.decode('utf8')) 
 > stdout.write(slug) 
+> ```
 > 
-> --------------------- 
-> Regards, 
-> Dr. Drang 
-```
+> <hr class="long"> 
+> Regards,  
+> Dr. Drang
 
 I tried getting it to work, but, alas, it was beyond my understanding. 
 
@@ -114,11 +114,9 @@ Anthonys-MacBook:Unidecode-0.04.18 Anthony$
 
 Brett Terpstra's suggestion ended up being the winner:
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328" title="Brett Terpstra's response to me">June 27, 2015</a></blockquote>
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328" title="Brett Terpstra's response to me">June 27, 2015</a></blockquote>Ah. [Slugify][6]. I went back and double-checked Dr. Drang's script. It was basically leveraging Slugify.
 
-Ah. [Slugify][github]. I went back and double-checked Dr. Drang's script. It was basically leveraging Slugify.
-
-After a bit more searching, I found this [page][superuser], in which Alex Plumb shared his [AppleScript][superuser 2], cribbed from [two][macosxautomation] other AppleScripts he found elsewhere online.
+After a bit more searching, I found this [page][7], in which Alex Plumb shared his [AppleScript][8], cribbed from [two][9] other AppleScripts he found elsewhere online.
 
 After some cribbing of my own, here is the contents of my version of Alex's script:
 
@@ -239,12 +237,12 @@ Found some errors in my script, such as not removing commas. So, I fixed that. (
 
 </aside>
 
-[d]: http://d.pr/i/MDC4+ "Highlighting the post title"
-[d 2]: http://d.pr/i/BPjq+ "Invoking the Save command"
-[d 3]: http://d.pr/i/14x3d+ "Pasting the text"
-[github]: https://github.com/cocur/slugify "Slugify's GitHub page"
-[leancrew]: http://www.leancrew.com/all-this/ "Dr. Drang's blog, And Now It's All This"
-[macosxautomation]: http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html "AppleScript tutorial"
-[superuser]: http://superuser.com/questions/635351/process-clipboard-content-on-mac-os "Superuser: Process clipboard content on Mac OS?"
-[superuser 2]: http://superuser.com/revisions/635370/2 "The basis for my version of Slugify"
-[twitter]: https://twitter.com/drdrang "Dr. Drang on Twitter"
+[1]: http://d.pr/i/MDC4+ "Highlighting the post title"
+[2]: http://d.pr/i/BPjq+ "Invoking the Save command"
+[3]: http://d.pr/i/14x3d+ "Pasting the text"
+[4]: http://www.leancrew.com/all-this/ "Dr. Drang's blog, And Now It's All This"
+[5]: https://twitter.com/drdrang "Dr. Drang on Twitter"
+[6]: https://github.com/cocur/slugify "Slugify's GitHub page"
+[7]: http://superuser.com/questions/635351/process-clipboard-content-on-mac-os "Superuser: Process clipboard content on Mac OS?"
+[8]: http://superuser.com/revisions/635370/2 "The basis for my version of Slugify"
+[9]: http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html "AppleScript tutorial"

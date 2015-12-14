@@ -5,6 +5,6 @@ Description: Apple Watch is Apple's first fashion effort. Looks like they want t
 Tags: Apple Watch  
 Image: https://9to5mac.files.wordpress.com/2015/03/applewatchsales-6.jpg?w=2500&h=0  
 
-[Another][9to5mac] great scoop from Mark Gurman.
+[Another][1] great scoop from Mark Gurman.
 
-[9to5mac]: http://9to5mac.com/2013/07/18/apple-stacks-iwatch-team-with-sensor-fitness-experts/ "Mark Gurman reporting on the Apple Watch two years before it was released"
+[1]: http://9to5mac.com/2013/07/18/apple-stacks-iwatch-team-with-sensor-fitness-experts/ "Mark Gurman reporting on the Apple Watch two years before it was released"

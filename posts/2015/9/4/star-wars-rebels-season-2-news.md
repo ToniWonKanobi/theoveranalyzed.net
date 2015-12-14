@@ -5,7 +5,12 @@ Description: Not sure how I missed this, but here's the second teaser trailer fo
 Tags: Star Wars  
 Image: http://d.pr/i/u6QI+  
 
-And here's more Season 2 news from [Rebels Report][rr]:[^rr-rss]
+<figure>
+	<img src="http://d.pr/i/XaQz+" alt="Darth Vader in Rebels" title="Darth Vader in Rebels">
+	<figcaption>Surely Darth Vader will play a more prominent role in Season 2</figcaption>
+</figure>
+
+And here's more Season 2 news from [Rebels Report][1]:[^1]
 
 > Dave Filoni hosts a special Season 2 preview on the Star Wars Rebels Season One blu-ray set.
 >
@@ -25,15 +30,10 @@ And here's more Season 2 news from [Rebels Report][rr]:[^rr-rss]
 
 Sounds like Season 2 will answer a lot of the questions posed at the end of Season 1.
 
-<figure>
-	<img src="http://d.pr/i/XaQz+" alt="Darth Vader in Rebels" title="Darth Vader in Rebels">
-	<figcaption>Surely Darth Vader will play a more prominent role in Season 2</figcaption>
-</figure>
-
 New episodes of Star Wars Rebels begin Wednesday, October 14 (9:30 p.m., ET/PT) on Disney XD.
 
-[^rr-rss]: RSS feed [here][rrrss]
+[^1]: RSS feed [here][a]
 
-[rr]: http://rebelsreport.com/2015/09/01/star-wars-rebels-season-2-a-look-ahead-new-images-and-info-from-dave-filoni/ "Star Wars Rebels Season 2 look ahead"
-[rrrss]: http://rebelsreport.com/feed "RSS feed for Rebels Report"
-[teaser]: https://www.youtube.com/watch?v=dAGvFBwG834 "Someone You Can Count On - The Lost Commanders Preview"
+[a]: http://rebelsreport.com/feed "RSS feed for Rebels Report"
+
+[1]: http://rebelsreport.com/2015/09/01/star-wars-rebels-season-2-a-look-ahead-new-images-and-info-from-dave-filoni/ "Star Wars Rebels Season 2 look ahead"

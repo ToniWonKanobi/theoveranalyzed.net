@@ -10,7 +10,7 @@ Image: http://i.kinja-img.com/gawker-media/image/upload/s--hBI2wth_--/c_scale,fl
 	<figcaption>The Honda 2&amp;4</figcaption>
 </figure>
 
-I heard about Honda's newest motorsport endeavor sometime last week. Somehow I missed the fact that it sports a 1-liter beast of a motor, presumably enabling the 2&4 to go toe-to-toe with the [Ariel Atom][wikipedia]. Somehow I missed that.
+I heard about Honda's newest motorsport endeavor sometime last week. Somehow I missed the fact that it sports a 1-liter beast of a motor, presumably enabling the 2&4 to go toe-to-toe with the [Ariel Atom][1]. Somehow I missed that.
 
 Here's Sean McDonald of Jalopnik:
 
@@ -18,13 +18,13 @@ Here's Sean McDonald of Jalopnik:
 
 Apparently, part superbike, part cart, and part awesome.
 
-The Honda I choose to remember is the Honda whose [racing pedigree of the 80's][wikipedia 2] is inextricably linked to the names [Lauda][wikipedia 3], [Prost][wikipedia 4], and [Senna][wikipedia 5]---all driving Formula 1 racers powered by Honda powerplants.
+The Honda I choose to remember is the Honda whose [racing pedigree of the 80's][2] is inextricably linked to the names [Lauda][3], [Prost][4], and [Senna][5]---all driving Formula 1 racers powered by Honda powerplants.
 
-Sadly, that Honda seems long gone.[^nsx]
+Sadly, that Honda seems long gone.[^1]
 
 Or is it?
 
-Honda's latest showpiece is straight out of the [first-generation Atom's][youtube] handbook:
+Honda's latest showpiece is straight out of the [first-generation Atom][6]'s handbook:
 
 * High-revving powerplant
 * Motorsport-spec suspension
@@ -34,7 +34,7 @@ Alas, I am compelled to share with you the astute observation provided by Jalopn
 
 > The complete and utter lack of any thought given to driver safety means this thing will never see customer hands, but it’s fun to dream for a few minutes before reality sets in.
 
-Okay, *there's* the [Honda of today][honda] rearing it's ugly mug.
+Okay, *there's* the [Honda of today][7] rearing it's ugly mug.
 
 <figure>
 	<img  class="inlineTwo" src="http://i.kinja-img.com/gawker-media/image/upload/s--jmKpCVw2--/c_scale,fl_progressive,q_80,w_800/1423033440558095431.jpg" alt="Butt shot" title="Butt shot">
@@ -42,13 +42,14 @@ Okay, *there's* the [Honda of today][honda] rearing it's ugly mug.
 	<figcaption>It's too awesome to ever be for sale.</figcaption>
 </figure>
 
-[^nsx]: One only has to look at the [new NSX][theoveranalyzed] to know this for sure. 
+[^1]: One only has to look at the [new NSX][a] to know this for sure.
 
-[honda]: http://automobiles.honda.com/civic-si-coupe/ "The Honda Civic Si"
-[theoveranalyzed]: /2015/3/6/honda-nsx-at-geneva-2015 "The new NSX"
-[wikipedia]: https://en.wikipedia.org/wiki/Ariel_Atom "Wikipedia: Ariel Atom"
-[wikipedia 2]: https://en.wikipedia.org/wiki/McLaren "Wikipedia: McLaren"
-[wikipedia 3]: https://en.wikipedia.org/wiki/Niki_Lauda "Wikipedia: Niki Lauda"
-[wikipedia 4]: https://en.wikipedia.org/wiki/Alain_Prost "Wikipedia: Alain Prost"
-[wikipedia 5]: https://en.wikipedia.org/wiki/Ayrton_Senna "Wikipedia: Ayrton Senna"
-[youtube]: https://www.youtube.com/watch?v=mbsYPXAJhxU "Top Gear reviewing the Ariel Atom"
+[a]: /2015/3/6/honda-nsx-at-geneva-2015 "The new NSX"
+
+[1]: https://en.wikipedia.org/wiki/Ariel_Atom "Wikipedia: Ariel Atom"
+[2]: https://en.wikipedia.org/wiki/McLaren "Wikipedia: McLaren"
+[3]: https://en.wikipedia.org/wiki/Niki_Lauda "Wikipedia: Niki Lauda"
+[4]: https://en.wikipedia.org/wiki/Alain_Prost "Wikipedia: Alain Prost"
+[5]: https://en.wikipedia.org/wiki/Ayrton_Senna "Wikipedia: Ayrton Senna"
+[6]: https://www.youtube.com/watch?v=mbsYPXAJhxU "Top Gear reviewing the Ariel Atom"
+[7]: http://automobiles.honda.com/civic-si-coupe/ "The Honda Civic Si"

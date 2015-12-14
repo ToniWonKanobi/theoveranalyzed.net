@@ -5,6 +5,6 @@ Description: Surprise, surprise.
 Tags: Industry  
 Image: https://cdn1.vox-cdn.com/thumbor/gn6cfuzcj49nHQfNh3Osnb76Q_c=/22x0:2980x1972/800x536/cdn0.vox-cdn.com/uploads/chorus_image/image/45787150/GettyImages_103157607.0.jpg  
 
-Oh, [oil industry][oil].
+Oh, [oil industry][1].
 
-[oil]: https://en.wikipedia.org/wiki/Petroleum_industry#Environmental_impact_and_future_shortages "Wikipedia: Petroleum Industry and the environment"
+[1]: https://en.wikipedia.org/wiki/Petroleum_industry#Environmental_impact_and_future_shortages "Wikipedia: Petroleum Industry and the environment"

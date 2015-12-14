@@ -5,6 +5,6 @@ Description: Comcast's remote looks eerily familiar.
 Tags: Apple  
 Image: https://cdn2.vox-cdn.com/thumbor/wG_wZC6j9eOku6GBB9jkOG4YHEw=/0x271:720x751/800x536/cdn0.vox-cdn.com/uploads/chorus_image/image/45709124/B-EItNsIMAAEuxb.0.0.jpg  
 
-Everyone's [favorite company][dailydot] is at it again.
+Everyone's [favorite company][1] is at it again.
 
-[dailydot]: http://www.dailydot.com/opinion/why-comcast-most-hated-company-america/ "Comcast is America's most hated company"
+[1]: http://www.dailydot.com/opinion/why-comcast-most-hated-company-america/ "Comcast is America's most hated company"

@@ -5,12 +5,12 @@ Description: As if we don't have enough JavaScript libraries in our life. This o
 Tags: Culture  
 Image: http://www.sansbullshitsans.com/img/sans-bullshit-sans-in-action.gif  
 
-![Sans Bullshit Sans][sansbullshitsans]
+![Sans Bullshit Sans][1]
 
-Do you subscribe to smart business / technology analysts? Do you frequently encounter buzzwords like "leverage," "agile," or "immersive"? Do you have your own website? Then you too can incorporate this clever ["font"][pixelambacht]. I love the internet.
+Do you subscribe to smart business / technology analysts? Do you frequently encounter buzzwords like "leverage," "agile," or "immersive"? Do you have your own website? Then you too can incorporate this clever ["font"][2]. I love the internet.
 
-[From [John Siracusa][twitter]]
+(via [John Siracusa][3])
 
-[pixelambacht]: http://pixelambacht.nl/2015/sans-bullshit-sans/ "Sans Bullshit Sans explained"
-[sansbullshitsans]: http://www.sansbullshitsans.com/img/sans-bullshit-sans-in-action.gif "Sans Bullshit Sans"
-[twitter]: https://twitter.com/siracusa/status/571302273575473153 "John Siracusa's tweet about Sans Bullshit Sans"
+[1]: http://www.sansbullshitsans.com/img/sans-bullshit-sans-in-action.gif "Sans Bullshit Sans"
+[2]: http://pixelambacht.nl/2015/sans-bullshit-sans/ "Sans Bullshit Sans explained"
+[3]: https://twitter.com/siracusa/status/571302273575473153 "John Siracusa's tweet about Sans Bullshit Sans"

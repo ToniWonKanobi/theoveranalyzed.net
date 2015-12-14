@@ -5,11 +5,11 @@ Description: Here's the Lego version of the second Star Wars: The Force Awakens 
 Tags: Star Wars, LEGO  
 Video: https://youtu.be/ZcuzkHkTnUY  
 
-How could [this][theoveranalyzed] get any better, you ask?
+How could [this][1] get any better, you ask?
 
 Watch this video. Then you'll know.
 
-[From [Devour][devour]]
+(From [Devour][2])
 
-[devour]: http://devour.com/video/lego-star-wars-the-force-awakens-trailer-2/ "Source post on Devour"
-[theoveranalyzed]: /2015/4/16/chewie-were-home "My link to the first official 'Star Wars: The Force Awakens' trailer"
+[1]: /2015/4/16/chewie-were-home "My link to the first official 'Star Wars: The Force Awakens' trailer"
+[2]: http://devour.com/video/lego-star-wars-the-force-awakens-trailer-2/ "Source post on Devour"

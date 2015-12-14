@@ -5,7 +5,7 @@ Description: The new Audi R8 is just as boring as ever.
 Tags: Cars  
 Image: https://cdn2.vox-cdn.com/uploads/chorus_asset/file/3449002/R8150092_large.0.jpg  
 
-![Yawn.][vox-cdn]
+![Yawn.][1]
 
 Chris Ziegler for The Verge:
 
@@ -15,4 +15,4 @@ Chris Ziegler for The Verge:
 
 AWD does not a legitimate sports car make.
 
-[vox-cdn]: https://cdn2.vox-cdn.com/uploads/chorus_asset/file/3449002/R8150092_large.0.jpg "Yawn."
+[1]: https://cdn2.vox-cdn.com/uploads/chorus_asset/file/3449002/R8150092_large.0.jpg "Yawn."

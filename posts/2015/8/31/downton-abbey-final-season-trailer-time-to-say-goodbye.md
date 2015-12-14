@@ -7,10 +7,10 @@ Image: http://desktopbackgrounds1.com/wp-content/uploads/2013/01/Downton-Abbey.j
 
 The other day, Allison asked me when the next season of Downton Abbey was coming out. I told her it would be sometime this fall. She then commented on how it wasn't likely to be very good.
 
-[I agree with her hypothesis][theoveranalyzed].
+[I agree with her hypothesis][1].
 
-We've faithfully watched every season of Downton Abbey, and we've watched the show [deteriorate season after season][rottentomatoes]. This seems like a great time to say goodbye to [Yorkshire's][wikipedia] finest.
+We've faithfully watched every season of Downton Abbey, and we've watched the show [deteriorate season after season][2]. This seems like a great time to say goodbye to [Yorkshire's][3] finest.
 
-[rottentomatoes]: http://www.rottentomatoes.com/tv/downton-abbey/s04/ "Downton Abbey on Rotten Tomatoes"
-[theoveranalyzed]: /2015/3/23/downton-abbey-ending-after-season-6 "My post about Downton ending after six seasons"
-[wikipedia]: https://en.wikipedia.org/wiki/Yorkshire "Wikipedia: Yorkshire"
+[1]: /2015/3/23/downton-abbey-ending-after-season-6 "My post about Downton ending after six seasons"
+[2]: http://www.rottentomatoes.com/tv/downton-abbey/s04/ "Downton Abbey on Rotten Tomatoes"
+[3]: https://en.wikipedia.org/wiki/Yorkshire "Wikipedia: Yorkshire"

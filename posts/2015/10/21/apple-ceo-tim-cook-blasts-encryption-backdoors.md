@@ -9,7 +9,7 @@ David Kravets, for Ars Technica:
 
 > "We said no backdoor is a must," Cook said at the Laguna Beach, California conference. "Do we want our nation to be secure? Of course. No one should have to decide between privacy or security. **We should be smart enough to do both** [emphasis added]. Both of these things are essentially part of the Constitution."
 
-Bravo, [Tim][theoveranalyzed].
+Bravo, [Tim][1].
 
 More from Kravets:
 
@@ -21,7 +21,7 @@ More from Kravets:
 >
 > Rogers said a cyberattack against critical infrastructure was "only a matter of time."
 
-What does this [remind you of][history]?
+What does this [remind you of][2]?
 
-[history]: http://www.history.com/this-day-in-history/eisenhower-warns-of-the-military-industrial-complex "The Military Industrial Complex, alive and well in 2015"
-[theoveranalyzed]: /2015/4/17/this-would-have-never-happened-if-steve-jobs-was-still-alive "My piece on 'What if Steve Jobs were still alive?'"
+[1]: /2015/4/17/this-would-have-never-happened-if-steve-jobs-was-still-alive "My piece on 'What if Steve Jobs were still alive?'"
+[2]: http://www.history.com/this-day-in-history/eisenhower-warns-of-the-military-industrial-complex "The Military Industrial Complex, alive and well in 2015"

@@ -5,11 +5,9 @@ Description: Star Wars, from a certain point of view.
 Tags: Star Wars  
 Image: http://d.pr/i/7RPQ+  
 
-Despite childhood notions of the contrary, neither the [Rebel Alliance][wikipedia] nor the [Galactic Empire][wikipedia 2] made militarily-sound decisions.
+Despite childhood notions of the contrary, neither the [Rebel Alliance][1] nor the [Galactic Empire][2] made militarily-sound decisions.
 
-Ultimately,[^spoiler] the Alliance overcame the Empire, and all was right with the universe.
-
-But that's not because of superiority of warfare---it was because of [Leia][wikipedia 3] and [R2][wikipedia 4].
+Ultimately,[^1] the Alliance overcame the Empire, and all was right with the universe.But that's not because of superiority of warfare---it was because of [Leia][3] and [R2][4].
 
 That is, at least according to a blogger known as the Angry Staff Officer.
 
@@ -23,17 +21,18 @@ And it wasn't just the Alliance that had fundamental leadership issues. The same
 
 > In a stratified military, strained from policing every edge of the Galaxy, the Empire was hamstrung from its Chief Propaganda Officer, Lord Vader. Vader’s Commisar-like mentality meant that little went unpunished. His propensity to micromanage his battlefield commanders, both ground and fleet, led to risk aversion, as did his lethal punishment of even minor infractions. Vader’s obsession with finding Luke dominated his thinking so much that it repeatedly put the entire Imperial fleet at risk, whether it was flying into an asteroid belt or allowing a Rebel strike group onto Endor. However, it did allow for greater upwards mobility for those commanders who acted without question, as multiple O-6 to O-7 commands were rendered “vacant by force choke.” Emperor Palpatine was also a severe micromanager, making battlefield decisions around Endor and ignoring his intelligence sections.
 
-There's a lot more. You should read it. And while you're at it, subscribe to his [RSS feed][angrystaffofficer] as well.[^twitter]
+There's a lot more. You should read it. And while you're at it, subscribe to his [RSS feed][5] as well.[^2]
 
-[via [Greg Koenig][twitter 2]]
+(via [Greg Koenig][6])
 
-[^spoiler]: Spoiler alert?
-[^twitter]: I would recommend you follow him on [Twitter][twitter] as well, but he tweets a little *too* frequently for my tastes. (I've been in a purging mood as of late, so I can't abide him on social media.)
+[^1]: Spoiler alert?
+[^2]: I would recommend you follow him on [Twitter][a] as well, but he tweets a little *too* frequently for my tastes. (I've been in a purging mood as of late, so I can't abide him on social media.)
 
-[angrystaffofficer]: http://angrystaffofficer.com/feed/ "Angry Staff Officer RSS feed"
-[twitter]: https://twitter.com/pptsapper "Angry Staff Officer on Twitter"
-[twitter 2]: https://twitter.com/gak_pdx/status/666090672605138944 "Greg Koenig's tweet that turned me on to the Angry Staff Officer"
-[wikipedia]: https://en.wikipedia.org/wiki/Rebel_Alliance "Wikipedia: Rebel Alliance"
-[wikipedia 2]: https://en.wikipedia.org/wiki/Galactic_Empire_(Star_Wars) "Wikipedia: Galactic Empire"
-[wikipedia 3]: https://en.wikipedia.org/wiki/Princess_Leia "Wikipedia: Princess Leia"
-[wikipedia 4]: https://en.wikipedia.org/wiki/R2-D2 "Wikipedia: R2-D2"
+[a]: https://twitter.com/pptsapper "Angry Staff Officer on Twitter"
+
+[1]: https://en.wikipedia.org/wiki/Rebel_Alliance "Wikipedia: Rebel Alliance"
+[2]: https://en.wikipedia.org/wiki/Galactic_Empire_(Star_Wars) "Wikipedia: Galactic Empire"
+[3]: https://en.wikipedia.org/wiki/Princess_Leia "Wikipedia: Princess Leia"
+[4]: https://en.wikipedia.org/wiki/R2-D2 "Wikipedia: R2-D2"
+[5]: http://angrystaffofficer.com/feed/ "Angry Staff Officer RSS feed"
+[6]: https://twitter.com/gak_pdx/status/666090672605138944 "Greg Koenig's tweet that turned me on to the Angry Staff Officer"

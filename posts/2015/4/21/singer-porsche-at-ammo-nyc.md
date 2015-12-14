@@ -5,7 +5,7 @@ Description: Larry Kosilla has a rough life.
 Tags: Porsche   
 Video: https://youtu.be/MZg4--QZHko  
 
-I never get tired of the [Singer 911][singervehicledesign]. And in case that's not enough, check out Chris Harris' [review][youtube] from last year.
+I never get tired of the [Singer 911][1]. And in case that's not enough, check out Chris Harris' [review][2] from last year.
 
-[singervehicledesign]: http://singervehicledesign.com/ "Singer Vehicle Design"
-[youtube]: http://www.youtube.com/watch?v=fJQ4hQSusjE "Chris Harris - The Singer 911: All You Ever Wanted to Know"
+[1]: http://singervehicledesign.com/ "Singer Vehicle Design"
+[2]: http://www.youtube.com/watch?v=fJQ4hQSusjE "Chris Harris - The Singer 911: All You Ever Wanted to Know"

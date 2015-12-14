@@ -13,17 +13,17 @@ There is still a lot we don’t know about the new MacBook and it’s USB-C port
 
 1. Will the new MacBook be able to drive a 4K display at 60 Hz? 
 	* I spoke with an Apple representative, and he was not able to give me a definitive answer
-		* The [specs][apple] page is no help
+		* The [specs][1] page is no help
 2. If so, will it 'reduce' the bandwidth of data transfers to ~USB 2.0 speeds, like Fingas alludes?
 
-[April 10][cnet] can't come soon enough.
+[April 10][2] can't come soon enough.
 
 <aside class="update">
 
 ### Update: No 4K for MacBook
 <p class="updateTime"><time datetime="2015-04-11">April 11, 2015</time></p>
 
-Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page][apples].
+Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page][3].
 
 I was checking into things this morning, and saw this:
 
@@ -43,6 +43,6 @@ I'm not sure when that info was added, but the page was last updated yesterday.
 
 </aside>
 
-[apple]: http://www.apple.com/macbook/specs/ "Specs page for the 2015 MacBook"
-[apples]: https://support.apple.com/en-us/HT202856 "Apple Support page entitled 'Use 4K displays and Ultra HD TVs with your Mac"
-[cnet]: http://www.cnet.com/products/apple-macbook-2015/ "Cnet reviews the 2015 MacBook"
+[1]: http://www.apple.com/macbook/specs/ "Specs page for the 2015 MacBook"
+[2]: http://www.cnet.com/products/apple-macbook-2015/ "Cnet reviews the 2015 MacBook"
+[3]: https://support.apple.com/en-us/HT202856 "Apple Support page entitled 'Use 4K displays and Ultra HD TVs with your Mac"

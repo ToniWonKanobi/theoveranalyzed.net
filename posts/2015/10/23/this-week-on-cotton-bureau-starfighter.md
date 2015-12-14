@@ -10,7 +10,7 @@ Image: http://d.pr/i/196H6+
 	<figcaption>From <a href="http://twitter.com/manandmouse" title="The designer's Twitter account">The Man and the Mouse</a>: "Enlist today, join the alliance! Design was inspired by vintage space shuttle patches and badges."</figcaption>
 </figure>
 
-Similar to a pick [a few weeks ago][theoveranalyzed], [Starfighter][cottonbureau] was also inspired by NASA mission patches of old (in addition to the obvious Star Wars reference).
+Similar to a pick [a few weeks ago][1], [Starfighter][2] was also inspired by NASA mission patches of old (in addition to the obvious Star Wars reference).
 
-[cottonbureau]: https://cottonbureau.com/products/starfighter "'Straighter' on Cotton Bureau"
-[theoveranalyzed]: /2015/9/30/this-week-on-cotton-bureau-millennium-falcon "My 'This Week on Cotton Bureau' entry for September 30, 2015"
+[1]: /2015/9/30/this-week-on-cotton-bureau-millennium-falcon "My 'This Week on Cotton Bureau' entry for September 30, 2015"
+[2]: https://cottonbureau.com/products/starfighter "'Straighter' on Cotton Bureau"

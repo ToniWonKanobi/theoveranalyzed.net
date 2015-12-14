@@ -5,7 +5,7 @@ Description: John Kirk vs. James Stewart: is Apple a fluke?
 Tags: Apple  
 Image: http://d.pr/i/1dIKM+  
 
-A few weeks ago, John Kirk of TechPinions took apart an [article][nytimes] by James B. Stewart of Common Sense. In that piece, Stewart attempted to delineate the reasons why Apple became the success that it has, from the perspective of Microsoft's decline. 
+A few weeks ago, John Kirk of TechPinions took apart an [article][1] by James B. Stewart of Common Sense. In that piece, Stewart attempted to delineate the reasons why Apple became the success that it has, from the perspective of Microsoft's decline. 
 
 Kirk had several rebuttals to Stewart's series of rather flawed comparisons, and I thought his comments boded well towards a more general take on Apple:
 
@@ -51,18 +51,18 @@ And finally, Kirk posits his great thesis in response to Stewart:
 
 ***
 
-John Gruber recently [retweeted][twitter] a video in which a guy tirades for nearly twenty minutes on 'everything that was wrong' with Apple's [Spring Forward][apple] event last week.
+John Gruber recently [retweeted][2] a video in which a guy tirades for nearly twenty minutes on 'everything that was wrong' with Apple's [Spring Forward][3] event last week.
 
 I got through about five minutes of it before switching off. Before I did, I had this epiphany: 
 
-Apple naysayers and Wall Street Apple bears alike can't be taken seriously because they continue to analyze Apple like they analyze every other company. Truthfully, at some point, Apple won't be Apple. All great things come to an end. I get it. But I feel pretty confident in saying this: barring some astronomical catastrophe in the upper echelon of Apple's executive team (leading to uncharacteristically bad management decisions), and barring a radical new way to experience the world around us (pioneered by an Apple competitor), that day---the end of the [good times][youtube] for Apple---is not going to be tomorrow, nor any time soon for that matter.
+Apple naysayers and Wall Street Apple bears alike can't be taken seriously because they continue to analyze Apple like they analyze every other company. Truthfully, at some point, Apple won't be Apple. All great things come to an end. I get it. But I feel pretty confident in saying this: barring some astronomical catastrophe in the upper echelon of Apple's executive team (leading to uncharacteristically bad management decisions), and barring a radical new way to experience the world around us (pioneered by an Apple competitor), that day---the end of the [good times][4] for Apple---is not going to be tomorrow, nor any time soon for that matter.
 
-And now, almost eight years after the iPhone was released, with [last quarter's earnings][apple 2] as high as they were, there has never been a greater time in which the naysayer's analysis of Apple could be more flawed. 
+And now, almost eight years after the iPhone was released, with [last quarter's earnings][5] as high as they were, there has never been a greater time in which the naysayer's analysis of Apple could be more flawed. 
 
 So,  you can add Stewart's take to the never-ending pile of 'well-meaning, but uninformed' analysis of Apple.
 
-[apple]: https://www.apple.com/live/ "Apple's page for live-streamed events"
-[apple 2]: https://www.apple.com/pr/library/2013/10/28Apple-Reports-Fourth-Quarter-Results.html "Apple's Press Release on it's record-setting 2015 Q3 financials"
-[nytimes]: http://www.nytimes.com/2015/01/30/business/how-and-why-apple-overtook-microsoft.html?_r=0 "NYT piece on Apple vs. Microsoft"
-[twitter]: https://twitter.com/bottledfries/status/576690254280810497 "Max Schumann tweeting a video with this crazy Apple bear"
-[youtube]: http://www.youtube.com/watch?v=rTusMLs9SJE "Good Times - Chic (1979)"
+[1]: http://www.nytimes.com/2015/01/30/business/how-and-why-apple-overtook-microsoft.html?_r=0 "NYT piece on Apple vs. Microsoft"
+[2]: https://twitter.com/bottledfries/status/576690254280810497 "Max Schumann tweeting a video with this crazy Apple bear"
+[3]: https://www.apple.com/live/ "Apple's page for live-streamed events"
+[4]: http://www.youtube.com/watch?v=rTusMLs9SJE "Good Times - Chic (1979)"
+[5]: https://www.apple.com/pr/library/2013/10/28Apple-Reports-Fourth-Quarter-Results.html "Apple's Press Release on it's record-setting 2015 Q3 financials"

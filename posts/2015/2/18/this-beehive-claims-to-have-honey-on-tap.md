@@ -5,9 +5,9 @@ Description: Honey. Easy access. Nice.
 Tags: Animals  
 Video: https://youtu.be/0_pj4cz2VJM  
 
-[Vaporware][wikipedia], or the best Kickstarter EVER?
+[Vaporware][1], or the best Kickstarter EVER?
 
-[From [Digg][digg]]
+(From [Digg][2])
 
-[digg]: http://digg.com/video/this-beehive-claims-to-have-honey-on-tap "Source link from Digg"
-[wikipedia]: https://en.wikipedia.org/wiki/Vaporware
+[1]: https://en.wikipedia.org/wiki/Vaporware "Wikipedia: Vaporware"
+[2]: http://digg.com/video/this-beehive-claims-to-have-honey-on-tap "Source link from Digg"

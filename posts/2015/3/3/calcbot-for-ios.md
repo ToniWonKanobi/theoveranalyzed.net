@@ -9,9 +9,9 @@ Image: http://toolsandtoys.net/wp-content/uploads/2015/02/devices.png
 
 >Let’s just say, it’s earned a place on my home screen.
 
-Mine too, guys, [mine too.][d]
+Mine too, guys, [mine too.][1]
 
-[Calcbot][apple] is available now.
+[Calcbot][2] is available now.
 
-[apple]: https://itunes.apple.com/us/app/calcbot-intelligent-calculator/id376694347?mt=8&at=1l3vx9s "Calcbot on the App Store"
-[d]: http://d.pr/i/12uWj+ "Screenshot of my current Home Screen setup"
+[1]: http://d.pr/i/12uWj+ "Screenshot of my current Home Screen setup"
+[2]: https://itunes.apple.com/us/app/calcbot-intelligent-calculator/id376694347?mt=8&at=1l3vx9s "Calcbot on the App Store"

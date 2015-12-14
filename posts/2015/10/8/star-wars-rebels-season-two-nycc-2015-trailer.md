@@ -8,6 +8,6 @@ Vide: https://youtu.be/YfeWNZqVYsE
 
 Be ready.
 
-[From [/Film][slashfilm]]
+(From [/Film][1])
 
-[slashfilm]: http://www.slashfilm.com/star-wars-rebels-season-2-trailer/ "/Film: Star Wars Rebels Season 2 Trailer"
+[1]: http://www.slashfilm.com/star-wars-rebels-season-2-trailer/ "/Film: Star Wars Rebels Season 2 Trailer"

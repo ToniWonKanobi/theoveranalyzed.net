@@ -7,6 +7,6 @@ Video: https://youtu.be/NK33GjwzNRI
 
 When can I preorder this?
 
-[From [Devour][devour]]
+(From [Devour][1])
 
-[devour]: http://devour.com/video/netflix-watch/ "Source post on Devour"
+[1]: http://devour.com/video/netflix-watch/ "Source post on Devour"

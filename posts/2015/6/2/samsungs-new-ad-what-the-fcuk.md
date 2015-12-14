@@ -10,6 +10,6 @@ Jim Dalrymple of The Loop:
 
 Tell us how you really feel, Jim.
 
-[From [John Gruber][twitter]]
+(via [John Gruber][1])
 
-[twitter]: https://twitter.com/gruber/status/605915951561768960 "Link to Gruber's tweet"
+[1]: https://twitter.com/gruber/status/605915951561768960 "Link to Gruber's tweet"

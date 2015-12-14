@@ -5,10 +5,11 @@ Description: Oh, Gene.
 Tags: Apple TV  
 Image: http://photos2.appleinsidercdn.com/gallery/11760-4924-overview_whatis_hero_2x-l.jpg  
 
-In a surprising turn of events, Piper Jaffray says Apple TV should be a big deal in 2015. This is completely different from [last year][macrumors] and the [year before][businessinsider], in which Gene Munster successfully predicted a new Apple TV. Oh wait. No. That never happened.[^gm]
+In a surprising turn of events, Piper Jaffray says Apple TV should be a big deal in 2015. This is completely different from [last year][1] and the [year before][2], in which Gene Munster successfully predicted a new Apple TV. Oh wait. No. That never happened.[^1]
 
-[^gm]: Munster has been talking about a new Apple TV [for years][businessinsider 2]
+[^1]: Munster has been talking about a new Apple TV [for years][a]
 
-[businessinsider]: http://www.businessinsider.com/no-apple-tv-until-november-2013-says-analyst-gene-munster-2012-11?op=1 "Business Insider: No Apple TV until November 2013"
-[businessinsider 2]: http://www.businessinsider.com/munster-why-an-apple-television-is-coming-in-2012-2011-6?op=1 "Business Insider: Apple television coming 2012"
-[macrumors]: http://www.macrumors.com/2014/12/17/munster-apple-tv-set-2016/ "MacRumors: 'Gene Munster Still Believes in the Apple Television Set, Thinks 2016 Launch Likely'"
+[a]: http://www.businessinsider.com/munster-why-an-apple-television-is-coming-in-2012-2011-6?op=1 "Business Insider: Apple television coming 2012"
+
+[1]: http://www.macrumors.com/2014/12/17/munster-apple-tv-set-2016/ "MacRumors: 'Gene Munster Still Believes in the Apple Television Set, Thinks 2016 Launch Likely'"
+[2]: http://www.businessinsider.com/no-apple-tv-until-november-2013-says-analyst-gene-munster-2012-11?op=1 "Business Insider: No Apple TV until November 2013"

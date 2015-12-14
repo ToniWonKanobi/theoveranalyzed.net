@@ -67,8 +67,8 @@ a[href*="itunes.apple.com/app"]:after {
 }
 
 a[href*="overcast.fm/+"]:after,
-a[href*="overcast.fm/itunes"]:after,
-a[href*="overcast.fm/podcasts"]:after {
+a[href*="https://overcast.fm/itunes"]:after,
+a[href*="https://overcast.fm/login"]:after {
     content: " (Overcast)";
 }
 
@@ -127,8 +127,8 @@ p#siteByline {
 ======================================== */
 
 body.homepage section.day article div.entry,
-body.homepage section:first-of-type article:first-of-type div:nth-of-type(1),
-body.homepage section:first-of-type article:first-of-type div:nth-of-type(3) {
+body.homepage section:first-of-type article:first-of-type div.description,
+body.homepage section:first-of-type article:first-of-type div.readMore {
 	display: none;
 }
 
@@ -211,7 +211,7 @@ ul.postSubtitle li {
 
 ul.postSubtitle li.date:after {
 	content: '•';
-	margin: 0 0.25em 0 0.5em;
+	margin: 0 0.25em 0 0.25em;
 }
 
 ul.postSubtitle li.tags ul {
@@ -247,6 +247,12 @@ img {
 	max-width: 100%;
 }
 
+ul img,
+ol img,
+blockquote img {
+	margin-left: initial;
+}
+
 img.screenshot {
 	box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
 }
@@ -265,13 +271,13 @@ img.wide {
 img.inlineTwo {
 	display: initial;
 	margin: auto 0.5em;
-	width: 46%;
+	width: 44%;
 }
 
 img.inlineThree {
 	display: initial;
 	margin: auto 0.5em;
-	width: 29%;
+	width: 27%;
 }
 
 img.inlineFour {
@@ -293,14 +299,16 @@ figcaption code  {
 	font-style: normal;
 }
 
-audio,
-video {
+audio {
 	width: 100%;
+}
+
+video {
+	max-width: 100%;
 }
 
 video.wide {
 	margin: 1em auto 1.5em -25%;
-	max-width: initial;
 	width: 150%;
 }
 
@@ -310,7 +318,7 @@ iframe {
 
 /* Fixes iframe margin weirdness with FitVids.js */
 div.fluid-width-video-wrapper {
-	margin-top: 1em;
+	margin: 1em auto;
 }
 
 blockquote {
@@ -323,21 +331,14 @@ blockquote {
 pre {
 	background-color: #eee;
 	border-radius: 0.2em;
-	font-family: Menlo, monospace;
+	font-family: 'Menlo', monospace;
 	font-size: 0.8em;
 	padding: 0.5em 0.75em 0.5em 0.75em;
 }
 
 code {
-	background-color: #eee;
-	border-radius: 0.2em;
-	font-family: Menlo, monospace;
-	font-size: 0.7em;
-	padding: 0.35em 0.3em 0.2em 0.35em;
-}
-
-a code {
-	padding: 0.5em 0.4em 0.5em 0.4em;
+	font-family: 'Menlo', monospace;
+	font-size: 0.8em;
 }
 
 pre code {
@@ -440,20 +441,6 @@ aside.update blockquote {
 	border-left-color: #ddd;
 }
 
-aside.update pre {
-	border: 2px solid #ddd;
-	border-radius: 0.2em;
-}
-
-aside.update code {
-	border: 1px solid #ddd;
-	border-radius: 0.2em;
-}
-
-aside.update pre code {
-	border: none;
-}
-
 hr {
 	border: none;
 	color: #555;
@@ -494,13 +481,13 @@ sup.footnote-ref a {
 	transition: all 0.2s ease-in-out;
 }
 
-body.homepage sup.footnote-ref a {
+/*body.homepage sup.footnote-ref a {
 	display: none;
 }
 
 body.homepage section.footnotes {
 	display: none;
-}
+}*/
 
 hr.footnotes-sep {
 	border: 1px solid #ddd;
@@ -520,8 +507,7 @@ section.footnotes {
 
 a.footnote-backref {
 	border-bottom: none;
-	color:  #999;
-	vertical-align: -0.2em;
+	color: #999;
 }
 
 sup.footnote-ref a:hover,
@@ -720,6 +706,10 @@ p#copyright {
 
 	body {
 		font-size: 1em;
+	}
+
+	h1#siteTitle {
+		font-size: 1.8em;
 	}
 
 	p#siteByline {

@@ -9,6 +9,6 @@ When Apple CEO Tim Cook was asked whether the Apple Watch had been delayed, he a
 
 > What we had been saying is ‘early 2015. [...] We sort of look at the year and think of ‘early’ as the first four months, ‘mid’ as the next four months, and ‘late’ is the final four months. And so to us, it’s within the range. It’s basically when we thought.”
 
-So, in other words: suck it [Wall Street][go]. 
+So, in other words: suck it [Wall Street][1]. 
 
-[go]: http://abcnews.go.com/Technology/video/apple-iwatch-release-date-delayed-26672853 "Apple Watch release delayed?"
+[1]: http://abcnews.go.com/Technology/video/apple-iwatch-release-date-delayed-26672853 "Apple Watch release delayed?"

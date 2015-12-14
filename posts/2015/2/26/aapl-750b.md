@@ -7,7 +7,7 @@ Image: https://cdn-images-1.medium.com/max/800/1*_hsHeGvDHy2AczsG504JBw.png
 
 John Lilly wrote recently on Apple's reaching $750B in market capitalization. And the most interesting part about it isn't so much how high Apple has soared, but instead, it is seeing how far them have come. 
 
-The post-Jobs days at Apple were [the dark times][wikipedia]. That Apple Computer, Inc. maintained enough of a following throughout those terrible years speaks *volumes* as to just how great the UI/UX must have been to garner such a loyal fanbase.
+The post-Jobs days at Apple were [the dark times][1]. That Apple Computer, Inc. maintained enough of a following throughout those terrible years speaks *volumes* as to just how great the UI/UX must have been to garner such a loyal fanbase.
 
 Things did get better, though. 
 
@@ -21,7 +21,7 @@ Here's Lilly on the beginning of the new Apple:
 
 > A story for the ages. Nothing like it.
 
-If given the opportunity, a lot of people in my hipster millennial generation might choose to live through the 60's, what with all the social change. My generation loves social change. Social change is super in right now. Or maybe the 70's, because they all like Neil Young?[^ny] 
+If given the opportunity, a lot of people in my hipster millennial generation might choose to live through the 60's, what with all the social change. My generation loves social change. Social change is super in right now. Or maybe the 70's, because they all like Neil Young?[^1] 
 
 But not me. 
 
@@ -31,6 +31,6 @@ I wouldn't live through any other decade---I would just relive the 90's. But thi
 
 Imagine that: instead of reading about Apple in the 90's like I do today---almost twenty years later---I could have lived it in real-time. 
 
-[^ny]: Neil Young was *never* good. And he is, right now, almost as washed up as Bon Jovi.
+[^1]: Neil Young was *never* good. And he is, right now, almost as washed up as Bon Jovi.
 
-[wikipedia]: https://en.wikipedia.org/wiki/Apple_Inc.#1990.E2.80.9399:_Decline.2C_restructuring.2C_acquisitions "Wikipedia: Apple's decline in the 1990's"
+[1]: https://en.wikipedia.org/wiki/Apple_Inc.#1990.E2.80.9399:_Decline.2C_restructuring.2C_acquisitions "Wikipedia: Apple's decline in the 1990's"

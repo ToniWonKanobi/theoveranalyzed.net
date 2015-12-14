@@ -5,6 +5,6 @@ Description: 9to5Mac says Apple will *not* be launching their rumored streaming 
 Tags: Apple  
 Image: https://9to5mac.files.wordpress.com/2014/10/iphone-6-beats-music.png?w=2500&h=0  
 
-This---ladies and gentlemen---is the classic example of a "[controlled leak][macobserver]."
+This---ladies and gentlemen---is the classic example of a "[controlled leak][1]."
 
-[macobserver]: http://www.macobserver.com/tmo/article/how_apple_does_controlled_leaks/ "Source for the 9to5Mac piece"
+[1]: http://www.macobserver.com/tmo/article/how_apple_does_controlled_leaks/ "Source for the 9to5Mac piece"

@@ -14,7 +14,7 @@ I decided on the stainless black Apple Watch in 42 mm. That was my first pick. U
 
 #### The MacBook
 
-Since this was going to be my primary computer, I opted for the 1.3 GHz BTO option. That pushed my ship date back to May 6. My friend ordered the base model, and he should have it by the end of this month. I assumed the MacBook would have been in great supply, so much so that I was banking on going to the Apple Store tonight to pick it up! Sadly, that wasn't the case. I spoke with the try-on lady and she said they didn't get *any* MacBook stock for launch day. Oh [Angela Ahrendts][businessinsider]. 
+Since this was going to be my primary computer, I opted for the 1.3 GHz BTO option. That pushed my ship date back to May 6. My friend ordered the base model, and he should have it by the end of this month. I assumed the MacBook would have been in great supply, so much so that I was banking on going to the Apple Store tonight to pick it up! Sadly, that wasn't the case. I spoke with the try-on lady and she said they didn't get *any* MacBook stock for launch day. Oh [Angela Ahrendts][1]. 
 
 #### Impressions
 
@@ -60,7 +60,7 @@ The Apple Watch Sport is just as awesome and wonderful as it appears to be in Ap
 	<figcaption>Hello, I must be going.</figcaption>
 </figure>
 
-The "rubber" band is far from *just* rubber---it is easily the biggest surprise out of all the models I got to touch. Gruber [agrees][daringfireball] with me. Leave it to Apple to make a rubber watch band feel so much more exclusive than, well, regular rubber watch bands from other companies. 
+The "rubber" band is far from *just* rubber---it is easily the biggest surprise out of all the models I got to touch. Gruber [agrees][2] with me. Leave it to Apple to make a rubber watch band feel so much more exclusive than, well, regular rubber watch bands from other companies. 
 
 Oh, another thing about the fluoroelastomer band: it is a real pain to get on and off. The lady spent the most time with that watch taking it on/off.
 
@@ -73,7 +73,7 @@ Oh, another thing about the fluoroelastomer band: it is a real pain to get on an
 
 ##### Apple Watch (Stainless Steel, Link Bracelet)
 
-This was the model I was most interested in trying on, once I found out that the stainless black was not available (there was a model on display in the center aisle display case, but that's it). I was worried it might seem grandpa-ish, based on what [Marco][atp] had to say about it. He couldn't have been more wrong. The satin-y finish of the bracelet nicely complements the polished appearance of the Watch case. And really, the stainless black color scheme evokes a rather modern vibe by default. 
+This was the model I was most interested in trying on, once I found out that the stainless black was not available (there was a model on display in the center aisle display case, but that's it). I was worried it might seem grandpa-ish, based on what [Marco][3] had to say about it. He couldn't have been more wrong. The satin-y finish of the bracelet nicely complements the polished appearance of the Watch case. And really, the stainless black color scheme evokes a rather modern vibe by default. 
 
 <figure>
 	<img src="http://d.pr/i/19DK5+" alt="Yup" title="Yup">
@@ -105,7 +105,7 @@ The display is absolutely gorgeous. I had no reason to doubt the reports saying 
 
 I've played with the trackpad on the 13" MacBook Pro with Retina display, and this felt the same.
 
-What I was most looking forward to was typing on this thing. Jason Snell has bemoaned it endlessly in his reviews for [Macworld][macworld], [Six Colors][sixcolors], and his podcast [Upgrade][up]. I assume keyboard purists like him weren't really the target market, since,  for them, clicky keyboards will always the best. I assumed that it would feel just the same as typing on my MacBook Pros and Air's of the past.
+What I was most looking forward to was typing on this thing. Jason Snell has bemoaned it endlessly in his reviews for [Macworld][4], [Six Colors][5], and his podcast [Upgrade][6]. I assume keyboard purists like him weren't really the target market, since,  for them, clicky keyboards will always the best. I assumed that it would feel just the same as typing on my MacBook Pros and Air's of the past.
 
 Boy was I wrong. It really, truly does feel just *slightly* more feedback-y than typing on an iPad screen. The latter is certainly the worst typing experience of all, but the former isn't that far ahead. Yes, the keys feel very sturdy. Typing on the keyboard evokes all those things I remember Jony Ive talking about in the promotional videos. Don't get me wrong: this keyboard is an excellent hardware milestone. I just think it will take some getting used to. If you preordered one, be ready. It's not going to feel like typing on anything you've typed on before. 
 
@@ -114,9 +114,9 @@ Boy was I wrong. It really, truly does feel just *slightly* more feedback-y than
 	<figcaption>I'll leave you with this: the display case for try-on's. So clean.</figcaption>
 </figure>
 
-[atp]: http://atp.fm/108 "Accidental Tech Podcast episode 108"
-[businessinsider]: http://www.businessinsider.com/angela-ahrendts-says-a-significant-change-in-mindset-to-launching-apple-watch-online-2015-4?op=1 "Business Insider on Angela Ahrendts's changing mindset in marketing the Apple Watch"
-[daringfireball]: http://daringfireball.net/2015/04/the_apple_watch "John Gruber's review of Apple Watch"
-[macworld]: http://www.macworld.com/article/2908115/review-the-new-12-inch-macbook-is-a-laptop-without-an-ecosystem.html "Jason Snell reviews the 2015 MacBook"
-[sixcolors]: http://sixcolors.com/post/2015/04/the-new-macbook-a-reviewers-notebook/ "Jason Snell reviewed the 2015 MacBook for Six Colors, too"
-[up]: http://relay.fm/upgrade "Relay FM's podcast 'Upgrade'"
+[1]: http://www.businessinsider.com/angela-ahrendts-says-a-significant-change-in-mindset-to-launching-apple-watch-online-2015-4?op=1 "Business Insider on Angela Ahrendts's changing mindset in marketing the Apple Watch"
+[2]: http://daringfireball.net/2015/04/the_apple_watch "John Gruber's review of Apple Watch"
+[3]: http://atp.fm/108 "Accidental Tech Podcast, episode 108"
+[4]: http://www.macworld.com/article/2908115/review-the-new-12-inch-macbook-is-a-laptop-without-an-ecosystem.html "Jason Snell reviews the 2015 MacBook"
+[5]: http://sixcolors.com/post/2015/04/the-new-macbook-a-reviewers-notebook/ "Jason Snell reviewed the 2015 MacBook for Six Colors, too"
+[6]: http://relay.fm/upgrade "Relay FM's podcast 'Upgrade'"

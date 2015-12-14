@@ -5,6 +5,6 @@ Description: Apple Watch as a fashion accessory is starting to become more and m
 Tags: Apple Watch  
 Image: http://photos2.appleinsidercdn.com/gallery/11873-5289-150218-SELF-l.jpg  
 
-And so it [begins][time].
+And so it [begins][1].
 
-[time]: http://time.com/3625118/apple-watch-store/ "Time: 'Apple Hiring Fashionistas Ahead of Apple Watch Launch'"
+[1]: http://time.com/3625118/apple-watch-store/ "Time: 'Apple Hiring Fashionistas Ahead of Apple Watch Launch'"

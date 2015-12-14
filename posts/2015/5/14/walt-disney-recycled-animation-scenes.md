@@ -6,8 +6,8 @@ Tags: Disney
 Image: http://d.pr/i/1iBmH+  
 Video: https://youtu.be/pbjVjZrrE3w  
 
-As the [Devour][devour] post states:
+As the [Devour][1] post states:
 
 > Considering every frame is hand-drawn animation, we'll give Disney a pass.
 
-[devour]: http://devour.com/video/disneys-recycled-animation/ "Source post on Devour"
+[1]: http://devour.com/video/disneys-recycled-animation/ "Source post on Devour"

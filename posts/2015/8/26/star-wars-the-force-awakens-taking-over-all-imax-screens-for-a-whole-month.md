@@ -5,7 +5,7 @@ Description: Looks like Episode VII will be getting an extended run of IMAX pres
 Tags: Star Wars  
 Image: http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg  
 
-![Star Wars: The Force Awakens poster][wp]
+![Star Wars: The Force Awakens poster][1]
 
 Ethan Anderton, of /Film:
 
@@ -13,7 +13,7 @@ Ethan Anderton, of /Film:
 >
 > Therefore, it’s somewhat surprising, though also not entirely unexpected, that Star Wars: The Force Awakens will be getting an extended stay in IMAX theaters when it opens on December 18th. Fans we’ll get their chance to see The Force Awakens IMAX screenings in theaters across the country for an entire month.
 
-[IMAX][wikipedia]! Yay.
+[IMAX][2]! Yay.
 
 However, Anderson's post brought with it a bit of bad news, I'm afraid:
 
@@ -27,15 +27,13 @@ I didn't know that this was the norm for IMAX releases, although I suppose it ma
 
 Still, sadface.
 
-And finally, Anderton notes that we may not be missing much if we miss the film in IMAX:
+And finally, Anderton notes that we may not be missing much if we miss the film in IMAX:> Plus, there’s only one sequence that was actually shot with IMAX cameras, so hopefully that will make it worth the higher ticket price.
 
-> Plus, there’s only one sequence that was actually shot with IMAX cameras, so hopefully that will make it worth the higher ticket price.
-
-Personally, I think 3D movies are nothing but headache-inducing. [I doubt I'm alone][lifehacker] in that assessment. [Even I][theoveranalyzed] would forgo Episode VII in IMAX if it mean't I'd have to see it in 3D as well.
+Personally, I think 3D movies are nothing but headache-inducing. [I doubt I'm alone][3] in that assessment. [Even I][4] would forgo Episode VII in IMAX if it mean't I'd have to see it in 3D as well.
 
 Star Wars: The Force Awakens opens in both IMAX 3D and non-IMAX 3D versions December 18.
 
-[lifehacker]: http://lifehacker.com/5430492/focus-on-the-action-to-avoid-headaches-during-3d-movies "How to avoid headaches in 3D movies (pointless)"
-[theoveranalyzed]: /tags/Star%20Wars  "Posts tagged 'Star Wars'"
-[wikipedia]: https://en.wikipedia.org/wiki/Imax "Wikipedia: IMAX"
-[wp]: http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg "Star Wars: The Force Awakens poster"
+[1]: http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg "'Star Wars: The Force Awakens' poster"
+[2]: https://en.wikipedia.org/wiki/Imax "Wikipedia: IMAX"
+[3]: http://lifehacker.com/5430492/focus-on-the-action-to-avoid-headaches-during-3d-movies "How to avoid headaches in 3D movies (pointless)"
+[4]: /tags/Star%20Wars  "Posts tagged 'Star Wars'"

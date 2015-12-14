@@ -12,12 +12,11 @@ Image: http://d.pr/i/198P5+
 	<figcaption class="source">Source: <a href="https://toplayusout.wordpress.com" title="'To Play Us Out blog'">To Play Us Out</a></figcaption>
 </figure>
 
+I've got [more][1] from the Angry Staff Officer for you.
 
-I've got [more][theoveranalyzed] from the Angry Staff Officer for you.
+What other pop culture phenomena---besides [Star Wars][2]---could he compare to military life?
 
-What other pop culture phenomena---besides [Star Wars][theoveranalyzed 2]---could he compare to military life?
-
-[The Office][theoveranalyzed 3], that's what.
+[The Office][3], that's what.
 
 This should come as no surprise:
 
@@ -35,11 +34,11 @@ I will share this bit, however:
 >
 > The standard bearer for the battalion’s noncommissioned officers (or as I heard one CSM call it, “standard barriers”). The commander’s bulldog. Enforcer of all policies, such as the wear of the reflective belt and the length of the grass within the battalion’s area of operations. They often antagonize people just to assert their perceived authority. If you’re thinking of Dwight Schrute right now, you’re entirely accurate.
 >
-> ![Dwight Schrute][files]
+> ![Dwight Schrute][4]
 
 You should go read the whole thing.
 
-[files]: https://angrystaffofficer.files.wordpress.com/2015/11/url.jpg "Dwight Schrute"
-[theoveranalyzed]: /2015/12/8/center-for-galactic-lessons-learned "My first post featuring the Angry Staff Officer"
-[theoveranalyzed 2]: /tags/Star%20Wars "Posts tagged 'Star Wars'"
-[theoveranalyzed 3]: /tags/The%20Office "Posts tagged 'TheOffice'"
+[1]: /2015/12/8/center-for-galactic-lessons-learned "My first post featuring the Angry Staff Officer"
+[2]: /tags/Star%20Wars "Posts tagged 'Star Wars'"
+[3]: /tags/The%20Office "Posts tagged 'The Office'"
+[4]: https://angrystaffofficer.files.wordpress.com/2015/11/url.jpg "Dwight Schrute"

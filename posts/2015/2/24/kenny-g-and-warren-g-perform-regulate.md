@@ -11,10 +11,10 @@ Thanks Jimmy.
 
 2. Warren G with his catchiest song ever.
 
-3. And I'm pretty sure that's [Andrew Gouche][twitter] playing his [MTD][musiciansfriend].
+3. And I'm pretty sure that's [Andrew Gouche][1] playing his [MTD][2].
 
-[From [Devour][devour]]
+(From [Devour][3])
 
-[devour]: http://devour.com/video/kenny-g-and-warren-g-perform-regulate/ "Source post on Devour"
-[musiciansfriend]: http://www.musiciansfriend.com/bass/mtd-kingston-andrew-gouche-signature-6-string-electric-bass "Andrew Gouche's MTD on Musician's Friend"
-[twitter]: https://twitter.com/andrewgouche "Andrew Gouche on Twitter"
+[1]: https://twitter.com/andrewgouche "Andrew Gouche on Twitter"
+[2]: http://www.musiciansfriend.com/bass/mtd-kingston-andrew-gouche-signature-6-string-electric-bass "Andrew Gouche's MTD on Musician's Friend"
+[3]: http://devour.com/video/kenny-g-and-warren-g-perform-regulate/ "Source post on Devour"

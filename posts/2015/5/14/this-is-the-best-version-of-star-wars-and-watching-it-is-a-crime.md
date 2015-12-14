@@ -6,7 +6,7 @@ Tags: Star Wars, Culture
 Image: http://d.pr/i/17G8k+  
 Video: https://www.youtube.com/watch?v=QXifjbxZDAM  
 
-![Harmy's Despecialized Edition][d]
+![Harmy's Despecialized Edition][1]
 
 Matthew Yglesias of Vox on an issue near and dear to my heart, the supreme lack of an un-fuddled, high definition version of George Lucas' science-fiction masterpiece[s]:
 
@@ -24,7 +24,7 @@ I don't think so.
 
 Is George Lucas truly stupid for refusing to give the people what they want? Is it truly stupid to safeguard your only source of income? 
 
-I suppose it all depends on your [point of view][youtube]. 
+I suppose it all depends on your [point of view][2]. 
 
 ***
 
@@ -35,5 +35,5 @@ In case you were wondering:
 	<figcaption><a href="https://github.com/donmelton/video-transcoding-scripts">Don Melton</a>-ing these has been on my list of things to do for way too long</figcaption>
 </figure>
 
-[d]: http://d.pr/i/17G8k+ "Harmy's Despecialized Edition"
-[youtube]: https://www.youtube.com/watch?v=MFz8W7fYMy4&feature=youtu.be&t=65
+[1]: http://d.pr/i/17G8k+ "Harmy's Despecialized Edition"
+[2]: https://www.youtube.com/watch?v=MFz8W7fYMy4&feature=youtu.be&t=65

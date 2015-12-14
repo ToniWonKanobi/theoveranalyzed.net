@@ -17,28 +17,27 @@ I was going to spend my time bemoaning Google's overtly geometric sans-serif fon
 
 <video src="https://g-design.storage.googleapis.com/production/v5/assets/g-voice-flow.mp4" poster="http://d.pr/i/1fu8s+" preload="metadata" controls title="Google's explanation for their new logo"></video>
 
-Wow---the logotype looks *much* better in the full [Material Design][google] setting. Bravo, Google.[^still]
+Wow---the logotype looks *much* better in the full [Material Design][1] setting. Bravo, Google.[^1]
 
-[From [Stefan Constantine][twitter]]
+(via [Stefan Constantine][2])
 
 <aside class="update">
 
 ### Update: Everyone Hates It
 
-Apparently I didn't hate it as much as [some][kottke] [people][twitter 2].
+Apparently I didn't hate it as much as [some][3] [people][4].
 	
-[Ars Technica][arstechnica]: 
-
-> According to [Fast Company][fastcodesign] the new font is Google's own creation, called "Product Sans."
+> According to [Fast Company][6] the new font is Google's own creation, called "Product Sans."
 
 </aside>
 
-[^still]: I still wish they would have chosen a less "perfect" sans-serif, but I'm partial to [~serif fonts hiding beneath the "sans-serif" banner][typography]. 
+[^1]: I still wish they would have chosen a less "perfect" sans-serif, but I'm partial to [~serif fonts hiding beneath the "sans-serif" banner][a].
 
-[arstechnica]: http://arstechnica.com/gadgets/2015/09/google-gets-a-new-logo/ "Ars's take"
-[fastcodesign]: http://www.fastcodesign.com/3050613/googles-new-logo-is-its-biggest-update-in-16-years "Fast Company's scoop on Product Sans"
-[google]: https://design.google.com/articles/expressing-brand-in-material/ "Google's blog post on their new brand"
-[kottke]: http://kottke.org/15/09/google-has-a-new-logo "Kottke on the logo"
-[twitter]: http://twitter.com/WhatTheBit/status/638742529228169217 "Tweet making fun of Google"
-[twitter 2]: https://twitter.com/CraftyDeano/status/638743576671834112 "Dean Murphy's take (the guy who made the shade iOS 9 ad blocker 'Crystal'"
-[typography]: http://www.typography.com/fonts/ideal-sans/overview/ "The font adorning TheOverAnalyzed, Ideal Sans"
+[a]: http://www.typography.com/fonts/ideal-sans/overview/ "The font adorning TheOverAnalyzed, Ideal Sans"
+
+[1]: https://design.google.com/articles/expressing-brand-in-material/ "Google's blog post on their new brand"
+[2]: http://twitter.com/WhatTheBit/status/638742529228169217 "Tweet making fun of Google"
+[3]: http://kottke.org/15/09/google-has-a-new-logo "Kottke on the logo"
+[4]: https://twitter.com/CraftyDeano/status/638743576671834112 "Dean Murphy's take (the guy who made the shade iOS 9 ad blocker 'Crystal'"
+[5]: http://arstechnica.com/gadgets/2015/09/google-gets-a-new-logo/ "Ars's take"
+[6]: http://www.fastcodesign.com/3050613/googles-new-logo-is-its-biggest-update-in-16-years "Fast Company's scoop on Product Sans"

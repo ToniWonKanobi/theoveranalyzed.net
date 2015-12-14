@@ -12,7 +12,7 @@ Image: https://cottonbureau.com/img/products/3422_8cnL_1600.jpg
 	<figcaption><a href="http://twitter.com/seanevd" title="Designer on Twitter">Sean Duncan</a>: "The significance of an acronym shouldn't mtr."</figcaption>
 </figure>
 
-Be sure to use my coupon code **CBANTHONYC10** at checkout for 10% off.
+Be sure to use my coupon code <b>CBANTHONYC10</b> at checkout for 10% off.
 
 <aside class="update">
 

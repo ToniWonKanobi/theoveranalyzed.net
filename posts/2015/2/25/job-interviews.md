@@ -4,9 +4,9 @@ Description: I've been on a few job interviews the past few weeks. It hasn't bee
 Tags: Dentistry  
 Image: http://d.pr/i/15qcR+  
 
-![Anthony Craig, DDS](http://d.pr/i/15qcR+ "Anthony Craig, DDS")
+![Anthony Craig, DDS][1]
 
-Luis Abreu wrote a [piece][lmjabreu] yesterday outlining his experience interviewing for a job at Apple:
+Luis Abreu wrote a [piece][2] yesterday outlining his experience interviewing for a job at Apple:
 
 > The [interview] seemed based on indirect questioning, [which] leaves too much room for bad judgements and assumptions
 
@@ -16,11 +16,11 @@ Everything except for the whole getting hired part, apparently.
 
 ***
 
-Over the past 2-3 months, I have been on a whirlwind experience looking for a new job. 
+Over the past 2-3 months, I have been on a whirlwind experience looking for a new job.
 
-I left my previous [job][pacificdentalservices] in a corporate dental office for various reasons.[^pds] 
+I left my previous [job][3] in a corporate dental office for various reasons.[^1]
 
-What I wish I would have known/realized[^kr] is that in the saturated region of Southern California in which I live, it is *hard* to find a decent dental office from which to hail. Don't get me wrong: I am happy to be free of the heavy corporate hand. I feel how Jason Snell probably felt after leaving [IDG][snellworld].[^idg] 
+What I wish I would have known/realized[^2] is that in the saturated region of Southern California in which I live, it is *hard* to find a decent dental office from which to hail. Don't get me wrong: I am happy to be free of the heavy corporate hand. I feel how Jason Snell probably felt after leaving [IDG][4].[^3] 
 
 But there is only so much interviewing one human can do in a given period of time. Some of the offices I have been to have been ...less than ideal. Let me put it this way: I wouldn't let some of these places perform irreversible surgical procedures on my teeth, that's for sure. Oh well. You never know from a Craigslist ad. 
 
@@ -38,11 +38,13 @@ Maybe it's because I have been on so many? Hard to say.
 
 What I take home from Abreu's story is solace---at least I'm not alone.
 
-[^pds]: Someday I'll talk more about this.
-[^idg]: Another interesting tidbit: just as his departure from IDG coincided with the launch of his personal blog, [Six Colors][sixcolors], my own departure from my job at PDS led to my spending *a lot* more time on my blog here. It's funny how big, planned life changes often lead to other equally big, *unplanned* life changes.
-[^kr]: The grass is always greener.
+[^1]: Someday I'll talk more about this.
+[^2]: The grass is always greener.
+[^3]: Another interesting tidbit: just as his departure from IDG coincided with the launch of his personal blog, [Six Colors][a], my own departure from my job at PDS led to my spending *a lot* more time on my blog here. It's funny how big, planned life changes often lead to other equally big, *unplanned* life changes.
 
-[lmjabreu]: https://lmjabreu.com/post/700-billion/ "Louie A interviewing Apple post it's $700B quarter"
-[pacificdentalservices]: http://pacificdentalservices.com "Pacific Dental Services (PDS)"
-[sixcolors]: http://www.sixcolors.com "Jason Snell's blog, Six Colors"
-[snellworld]: http://snellworld.com/a-personal-announcement.html "Jason Snell's introducing Six Colors"
+[a]: http://www.sixcolors.com "Jason Snell's blog, Six Colors"
+
+[1]: http://d.pr/i/15qcR+ "Anthony Craig, DDS"
+[2]: https://lmjabreu.com/post/700-billion/ "Louie A interviewing Apple post it's $700B quarter"
+[3]: http://pacificdentalservices.com "Pacific Dental Services (PDS)"
+[4]: http://snellworld.com/a-personal-announcement.html "Jason Snell's introducing Six Colors"

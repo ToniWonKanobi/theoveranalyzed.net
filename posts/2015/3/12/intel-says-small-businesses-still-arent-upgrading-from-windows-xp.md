@@ -9,6 +9,6 @@ When it comes time for me to buy/start my own practice in a few years, the bigge
 
 My fear is that I will be forced to use one of the many crappy Windows-based practice management office suites that every other dentist out there uses. 
 
-[From [Very Nice Website][verynicewebsite]]
+(From a [Very Nice Website][1])
 
-[verynicewebsite]: http://verynicewebsite.net/2015/03/thanks-for-nothing-dentists/ "Source post from John Motlz"
+[1]: http://verynicewebsite.net/2015/03/thanks-for-nothing-dentists/ "Source post from John Motlz"

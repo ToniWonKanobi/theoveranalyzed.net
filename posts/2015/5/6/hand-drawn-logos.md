@@ -5,9 +5,9 @@ Description: Logos, logos.
 Tags: Design  
 Video: https://vimeo.com/127032605  
 
-Some [more][theoveranalyzed] freehand design for you.
+Some [more][1] freehand design for you.
 
-[From [Devour][devour]]
+(From [Devour][2])
 
-[devour]: http://devour.com/video/hand-drawn-logos/ "Source post on Devour"
-[theoveranalyzed]: /2015/4/2/freehand-famous-logos "My first post featuring freehand logos"
+[1]: /2015/4/2/freehand-famous-logos "My first post featuring freehand logos"
+[2]: http://devour.com/video/hand-drawn-logos/ "Source post on Devour"

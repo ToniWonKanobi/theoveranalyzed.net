@@ -11,6 +11,6 @@ Vlad Savov for The Verge:
 
 > As promising as the new MacBook looks, though — and as undoubtedly sophisticated as its design may be — its first generation looks best-suited to early adopters and those who simply enjoy the idea of owning a "stunning gold" laptop. For the rest of us, the next MacBook will probably prove much more appealing than the brand new one today.
 
-A well-said take on the new MacBook.[^il]
+A well-said take on the new MacBook.[^1]
 
-[^il]: I love that Apple's dropping the "Air" nomenclature. Simplification of the product lineup is ideal. I'd give the current Air's maybe two more years, and then it will just be the MacBook's and the MacBook Pro's.
+[^1]: I love that Apple's dropping the "Air" nomenclature. Simplification of the product lineup is ideal. I'd give the current Air's maybe two more years, and then it will just be the MacBook's and the MacBook Pro's.

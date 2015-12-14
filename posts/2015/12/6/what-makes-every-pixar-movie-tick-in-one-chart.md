@@ -5,7 +5,7 @@ Description: "And then there's Cars"
 Tags: Movies  
 Image: http://d.pr/i/1hali+  
 
-![Pixar Themes Chart][d]
+![Pixar Themes Chart][1]
 
 Caroline Framke and Javier Zarracina of Vox:
 
@@ -13,7 +13,8 @@ Caroline Framke and Javier Zarracina of Vox:
 
 Interesting chart.
 
-(And while I didn't hate [Cars][wikipedia] as much as everyone else, I can understand the sentiment.)
+(And while I didn't hate [Cars][2] as much as everyone else, I can understand the sentiment.)
 
-[d]: http://d.pr/i/1hali+ "Pixar Themes Chart"
-[wikipedia]: https://en.wikipedia.org/wiki/Cars_(film)#Reception "Wikipedia: Cars (film)"
+
+[1]: http://d.pr/i/1hali+ "Pixar Themes Chart"
+[2]: https://en.wikipedia.org/wiki/Cars_(film)#Reception "Wikipedia: Cars (film)"

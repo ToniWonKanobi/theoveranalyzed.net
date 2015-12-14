@@ -9,25 +9,20 @@ Image: http://d.pr/i/1bik6+
 	<figcaption>El Cap&mdash;oh, how you frustrated me on this one.</figcaption>
 </figure>
 
-If you use the [Heroku CLI][heroku], and you tried to re-install the [Heroku Toolbelt][heroku 2] because you messed something up in your project directory,[^me] you might have noticed Terminal throwing `bash` errors:
+If you use the [Heroku CLI][1], and you tried to re-install the [Heroku Toolbelt][2] because you messed something up in your project directory,[^1] you might have noticed Terminal throwing `bash` errors:
 
-```
+```nohighlight
 -bash: brew: command not found
 ```
 
-Don't worry, you're not alone. I was with you, up until a few hours ago.
+Don't worry, you're not alone. I was with you, up until a few hours ago.For the past few months, I always thought it was just me---that I had done something catastrophic with my root directory. Due to a lack of knowledge, as well as sheer laziness, I planned on just riding the wave of never having to use the official `heroku` commands again.[^2]
 
-For the past few months, I always thought it was just me---that I had done something catastrophic with my root directory. Due to a lack of knowledge, as well as sheer laziness, I planned on just riding the wave of never having to use the official `heroku` commands again.[^gphm]
-
-My plan was thwarted when I realized today that a `git push` command wasn't going to execute due to large file wonkiness. 
-
-Rather than deal with the failure to `git push`, I did what any reasonably impatient, fake-it-till-you-make-it-static-blogger would do: I decided to give up and start over. I was going to just re-clone the latest instance of my project, copying over the most recently-changed files afterwards. This would have effectively given me a perfect copy of my project on both my local machine and Dropbox.
+My plan was thwarted when I realized today that a `git push` command wasn't going to execute due to large file wonkiness. Rather than deal with the failure to `git push`, I did what any reasonably impatient, fake-it-till-you-make-it-static-blogger would do: I decided to give up and start over. I was going to just re-clone the latest instance of my project, copying over the most recently-changed files afterwards. This would have effectively given me a perfect copy of my project on both my local machine and Dropbox.
 
 Having been a while since I last used a `heroku` command, I was caught off-guard when I got the error
 
-```
-$ heroku login
-$ -bash: heroku: command not found
+```nohighlight
+$ heroku login$ -bash: heroku: command not found
 ```
 
 Oh yeah, that `-bash` problem.
@@ -36,29 +31,29 @@ In a moment of desperation, I went to Twitter:
 
 <blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/caseyliss" title="Casey Liss on Twitter">@caseyliss</a> Have you noticed that the Heroku CLI is broken in El Capitan? I thought <a href="https://twitter.com/heroku" title="Heroku on Twitter">@heroku</a> would have fixed that by now… (Rootless thing?)</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/653741132627578880" title="Asking Casey about the Toolbelt">October 13, 2015</a></blockquote>
 
-And, in true newbie fashion, less than a minute after Tweeting my question, I stumbled onto Heroku's GitHub repository, where a [pull request][github] had been initiated by someone experiencing the same problem as me!
+And, in true newbie fashion, less than a minute after Tweeting my question, I stumbled onto Heroku's GitHub repository, where a [pull request][3] had been initiated by someone experiencing the same problem as me!
 
-Somewhat frustratingly, pull request originated in [early June][github 2], days after El Capitan betas started going out to developers. I'm not sure how I missed that pull request, but there it was nonetheless.
+Somewhat frustratingly, pull request originated in [early June][4], days after El Capitan betas started going out to developers. I'm not sure how I missed that pull request, but there it was nonetheless.
 
 I followed the advice in the pull request's thread: 
 
-1. First, I installed [Homebrew][brew]:
+1. First, I installed [Homebrew][5]:
 
-	```
-	$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/	install/master/install)"
+	```ruby
+	$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 	```
 
 2. After that, I was able to install Heroku without using the Toolbelt:
 
-	```
+	```nohighlight
 	$ brew install heroku
 	```
 
 3. Next, Terminal threw an error, saying that it couldn't install heroku:
 
-	```
+	```nohighlight
 	$ brew install heroku
-	==> Downloading https://s3.amazonaws.com/assets.heroku.com/heroku-	client/heroku-
+	==> Downloading https://s3.amazonaws.com/assets.heroku.com/heroku-client/heroku-
 	######################################################################## 100.0%
 	Error: The `brew link` step did not complete successfully
 	The formula built, but is not symlinked into /usr/local
@@ -82,7 +77,7 @@ I followed the advice in the pull request's thread:
 
 4. Reviewing the output, it was clear I needed to remove the old [likely corrupted] instance of Heroku on my root directory, and overwrite it with a fresh one:
 
-	```
+	```nohighlight
 	$ rm '/usr/local/bin/heroku'
 	$ brew link --overwrite heroku-toolbelt
 	Linking /usr/local/Cellar/heroku-toolbelt/3.42.17... 1 symlinks created
@@ -90,7 +85,7 @@ I followed the advice in the pull request's thread:
 
 5. Finally, I could re-establish a link to Heroku:
 
-	```
+	```nohighlight
 	$ heroku login
 	$ Enter your Heroku credentials.
 	```
@@ -105,11 +100,11 @@ Maybe he never used the Toolbelt to install Heroku (Casey is an actual developer
 
 Either way, I'm glad this is sorted. Hope this helps someone who's pulling their hair out over this weird Heroku Toolbelt issue in El Capitan.
 
-[^gphm]: `git push heroku master`, the final command I use to deploy changes to my project (blog), doesn't actually use the `heroku` command (Duh?)
-[^me]: 🙋🏾
+[^1]: 🙋🏾
+[^2]: `git push heroku master`, the final command I use to deploy changes to my project (blog), doesn't actually use the `heroku` command (Duh?)
 
-[brew]: http://brew.sh "Homebrew"
-[github]: https://github.com/heroku/heroku/pull/1615 "Toolbelt issues, part 1"
-[github 2]: https://github.com/heroku/heroku/pull/1615#issue-88082389 "Toolbelt issues, part 2"
-[heroku]: https://devcenter.heroku.com/articles/heroku-command "Heroku Command Line Tools"
-[heroku 2]: https://toolbelt.heroku.com/ "Heroku Toolbelt"
+[1]: https://devcenter.heroku.com/articles/heroku-command "Heroku Command Line Tools"
+[2]: https://toolbelt.heroku.com/ "Heroku Toolbelt"
+[3]: https://github.com/heroku/heroku/pull/1615 "Toolbelt issues, part 1"
+[4]: https://github.com/heroku/heroku/pull/1615#issue-88082389 "Toolbelt issues, part 2"
+[5]: http://brew.sh "Homebrew"

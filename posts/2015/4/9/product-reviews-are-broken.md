@@ -11,7 +11,7 @@ Neil Cybart of Above Avalon:
 
 > This is the primary reason why so many people thought the Apple Watch was panned by reviewers while in reality, most people enjoyed the product. Out of thousands of words written about Apple Watch, most will only remember a small fraction and even a smaller fraction will be included in these problematic "review summary" posts.
 
-With the exception of [Gruber][daringfireball]'s, I passed on the majority of the written reviews, and watched the embedded videos instead. Nilay Patel's for [The Verge][youtube] is good, and so is Joanna Sterns for the [WSJ][youtube 2].
+With the exception of [Gruber][1]'s, I passed on the majority of the written reviews, and watched the embedded videos instead. Nilay Patel's for [The Verge][2] is good, and so is Joanna Sterns for the [WSJ][3].
 
 Even Cybart agrees *this* is the area where more product reviewers could focus their energies:
 
@@ -19,8 +19,8 @@ Even Cybart agrees *this* is the area where more product reviewers could focus t
 >
 > Video is an effective medium for much of this to take place because it's 1) easily shareable 2) able to retain its message. One of the biggest's problems facing text reviews is the ease in simply taking a few words out of context. But a six-second Vine? It would be pretty hard to shrink that down any further.
 
-I suppose it was inevitable that there would be seemingly so-so reviews, after all, this is about as 'Version 1.0' an Apple product has ever been this close to release. Still, Cybart makes a great point: almost all of the praise for the device is buried in negative prose. 
+I suppose it was inevitable that there would be seemingly so-so reviews, after all, this is about as 'Version 1.0' an Apple product has ever been this close to release. Still, Cybart makes a great point: almost all of the praise for the device is buried in negative prose.
 
-[daringfireball]: http://daringfireball.net/2015/04/the_apple_watch "John Gruber's review of the Apple Watch"
-[youtube]: https://www.youtube.com/watch?v=noZAqbn92gM "The Verge's Apple Watch review"
-[youtube 2]: https://www.youtube.com/watch?v=SAXRJPbT-5M "WSJ: 'Apple Watch: What Living With It Is Really Like'"
+[1]: http://daringfireball.net/2015/04/the_apple_watch "John Gruber's review of the Apple Watch"
+[2]: https://www.youtube.com/watch?v=noZAqbn92gM "The Verge's Apple Watch review"
+[3]: https://www.youtube.com/watch?v=SAXRJPbT-5M "WSJ: 'Apple Watch: What Living With It Is Really Like'"

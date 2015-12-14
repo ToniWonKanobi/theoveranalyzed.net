@@ -5,7 +5,7 @@ Description: Wondering what font is Apple using for Apple Music?
 Tags: Typography, Fonts In Use, Apple Music  
 Image: http://d.pr/i/1b7mC+  
 
-Yesterday, Stephen Coles's Fonts In Use had a series of short posts coinciding with the launch of [Apple Music][sixcolors]. 
+Yesterday, Stephen Coles's Fonts In Use had a series of short posts coinciding with the launch of [Apple Music][1]. 
 
 The Apple Music logo boldly features SF Compact:
 
@@ -14,7 +14,7 @@ The Apple Music logo boldly features SF Compact:
 	<figcaption>The new Apple Music logo</figcaption>
 </figure>
 
-Coles also [noted][fontsinuse] the use of SF Compact in Apple Watch:
+Coles also [noted][2] the use of SF Compact in Apple Watch:
 
 > San Francisco Compact was designed specifically for the Apple Watch. In the same genre as Neue Helvetica, which has long been Apple’s choice for system fonts, this typeface has larger apertures, flatter sides, and looser spacing, making for a more legible experience overall, especially for the small, glanceable type on a watch display.
 
@@ -23,7 +23,7 @@ Coles also [noted][fontsinuse] the use of SF Compact in Apple Watch:
 	<figcaption>"San Francisco has a vertically-centered contextual alternate colon that appears when placed between numerals."</figcaption>
 </figure>
 
-And [here's][fontsinuse 2] Coles on Apple's [tumblr][tumblr] for Apple Music:
+And [here's][3] Coles on Apple's [tumblr][4] for Apple Music:
 
 > As far as I know, this is the first time Apple has used their new San Francisco family as webfonts. Apple Music is also SF’s first use outside the Watch app/OS/logo and 2015 MacBook keyboard. There are two subfamilies of San Francisco. This is Compact, the narrower version intended for the Watch display. I hope they’ll continue to use SF Compact for stuff like this because they own it — making it much more distinctive than Myriad. It’s also more interesting than the standard San Francisco family, which departs less from the Helvetica it replaces.
 
@@ -32,7 +32,7 @@ And [here's][fontsinuse 2] Coles on Apple's [tumblr][tumblr] for Apple Music:
 	<figcaption>Apple's tumblr</figcaption>
 </figure>
 
-[fontsinuse]: http://fontsinuse.com/uses/9788/apple-watch-os-watchos "Fonts In Use: watchOS"
-[fontsinuse 2]: http://fontsinuse.com/uses/9786/apple-music-tumblr-site "Fonts In Use: Apple Music tumblr"
-[sixcolors]: http://sixcolors.com/post/2015/06/apple-music-first-looks-trumpet-curation-over-algorithms/ "Six Colors on Apple Music's curation"
-[tumblr]: http://applemusic.tumblr.com/ "Apple Music on tumblr"
+[1]: http://sixcolors.com/post/2015/06/apple-music-first-looks-trumpet-curation-over-algorithms/ "Six Colors on Apple Music's curation"
+[2]: http://fontsinuse.com/uses/9788/apple-watch-os-watchos "Fonts In Use: watchOS"
+[3]: http://fontsinuse.com/uses/9786/apple-music-tumblr-site "Fonts In Use: Apple Music tumblr"
+[4]: http://applemusic.tumblr.com/ "Apple Music on tumblr"

@@ -5,6 +5,6 @@ Description: The Verge has a hands-on preview of the new MacBook announced today
 Tags: Mac  
 Video: https://youtu.be/E_U2X1iSN00  
 
-Such [want][theovernanalyzed].
+Such [want][1].
 
-[theovernanalyzed]: /2015/1/10/my-thoughts-on-apples-rumored-12-inch-macbook-air "My thoughts on Apple's then upcoming Retina MacBook Air"
+[1]: /2015/1/10/my-thoughts-on-apples-rumored-12-inch-macbook-air "My thoughts on Apple's then upcoming Retina MacBook Air"

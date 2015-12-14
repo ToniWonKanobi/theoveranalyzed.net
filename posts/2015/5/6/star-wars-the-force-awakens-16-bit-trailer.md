@@ -5,9 +5,9 @@ Description: The new Star Wars Trailer, with SNES graphics.
 Tags: Star Wars  
 Video: https://youtu.be/heVBYAbwUUg  
 
-Not [Legos][theoveranalyzed], but certainly just as awesome.
+Not [Legos][1], but certainly just as awesome.
 
-[From [Devour][devour]]
+(From [Devour][2])
 
-[devour]: http://devour.com/video/16-bit-star-wars-the-force-awakens-trailer/ "Source Devour post"
-[theoveranalyzed]: /2015/4/18/lego-star-wars-the-force-awakens-trailer-2 "My post on the second trailer for 'Star Wars: The Force Awakens'"
+[1]: /2015/4/18/lego-star-wars-the-force-awakens-trailer-2 "My post on the second trailer for 'Star Wars: The Force Awakens'"
+[2]: http://devour.com/video/16-bit-star-wars-the-force-awakens-trailer/ "Source Devour post"

@@ -7,6 +7,6 @@ Video: https://youtu.be/W5saoYQIlh8
 
 This is the best kind of 'before-and-after' video.
 
-[From [Justin Warnes][kinja]]
+(via [Justin Warnes][1])
 
-[kinja]: http://justinwarnes.kinja.com/chevy-350-small-block-time-lapse-1692146935 "Justin Warnes share on Kinja"
+[1]: http://justinwarnes.kinja.com/chevy-350-small-block-time-lapse-1692146935 "Justin Warnes share on Kinja"

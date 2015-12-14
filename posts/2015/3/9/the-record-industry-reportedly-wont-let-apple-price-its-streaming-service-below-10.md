@@ -9,12 +9,13 @@ Nathan Ingraham reporting for The Verge:
 
 > [A] report from Billboard indicates that the record companies are unsurprisingly unhappy with Apple's attempt to make streaming music even cheaper. As such, it sounds like Apple is no longer pushing that price point and will instead price its service at the now-standard $9.99 per month.
 
-This is the same kind of [BS][macrumors] that has held up Apple's cord-cutting endeavors.[^ut]
+This is the same kind of [BS][1] that has held up Apple's cord-cutting endeavors.[^1]
 
-I'm sure Apple will have cleaned up this mess by [September][wikipedia].
+I'm sure Apple will have cleaned up this mess by [September][2].
 
-[^ut]: Until [today][9to5mac], that is.
+[^1]: Until [today][a], that is.
 
-[9to5mac]: http://9to5mac.com/2015/03/09/hbo-now-launching-exclusively-on-apple-tv-next-month-for-14-99month/ "9to5Mac reporting on the launch of HBO Now"
-[macrumors]: http://www.macrumors.com/2014/07/30/apple-tv-launch-delayed/ "MacRumors reporting on the delayed Apple TV 4"
-[wikipedia]: https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference "Wikipedia: WWDC"
+[a]: http://9to5mac.com/2015/03/09/hbo-now-launching-exclusively-on-apple-tv-next-month-for-14-99month/ "9to5Mac reporting on the launch of HBO Now"
+
+[1]: http://www.macrumors.com/2014/07/30/apple-tv-launch-delayed/ "MacRumors reporting on the delayed Apple TV 4"
+[2]: https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference "Wikipedia: WWDC"

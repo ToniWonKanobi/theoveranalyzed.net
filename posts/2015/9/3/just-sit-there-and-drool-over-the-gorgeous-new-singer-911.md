@@ -14,7 +14,7 @@ Michael Ballaban of Jalopnik got his hands on Singer's newest reimagined 911, th
 
 > Singer’s famous resto-mod package comes with that fantastic pale green exterior (which the company calls “Wasabi”), a 4.0-liter 390 horsepower engine made by the hot rodders and engineers at Ed Pink Racing, mated to a six-speed transmission and limited-slip differential, and Ohlins-sourced adjustable suspension.
 
-Unless I'm mistaken, this marks the first car to feature Singer's [4.0 liter powerplant][total911]. 
+Unless I'm mistaken, this marks the first car to feature Singer's [4.0 liter powerplant][1]. 
 
 The rest of Ballaban's post is just pictures of the Wasabi masterpiece. Here are a couple pictures that stood out to me:
 
@@ -24,4 +24,4 @@ The rest of Ballaban's post is just pictures of the Wasabi masterpiece. Here are
 	<figcaption>A shot of the engine bay showcasing the four liters of displacement, and an interior shot with the Momo Prototipo steering wheel (round&mdash;<a href="http://www.audizine.com/forum/showthread.php/473463-Someone-explain-the-appeal-of-the-Flat-bottomed-Steering-Wheel">not flat</a>).</figcaption>
 </figure>
 
-[total911]: http://www.total911.com/singer-vehicle-designs-latest-engine-is-automotive-art/ "Singer's 4.0L motor"
+[1]: http://www.total911.com/singer-vehicle-designs-latest-engine-is-automotive-art/ "Singer's 4.0L motor"

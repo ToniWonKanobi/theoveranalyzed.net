@@ -5,11 +5,11 @@ Description: Whistle, makers of a popular pet activity monitor, have acquired a 
 Tags: Dogs, Apps  
 Image: http://d.pr/i/1d1Ey+  
 
-Somedays it is less hard than others, but every time I back out of the driveway to go to somewhere, and [Smokey][twitter] is not with me, I worry about him. I am not so worried about what might happen *in the house* while we are gone.
+Somedays it is less hard than others, but every time I back out of the driveway to go to somewhere, and [Smokey][1] is not with me, I worry about him. I am not so worried about what might happen *in the house* while we are gone.
 
 I am worried about what might happen to him *if he gets out*.
 
-A few months back, I bought a [Whistle Activity Monitor][whistle], in the hopes that I would be granted access to [Whistle GPS][archive].[^pr] Whistle had always envisioned being able to bring GPS tracking to pets. Apparently, the task was more than Whistle alone could handle, so they acquired [Tagg][pettracker], the foremost GPS-based pet tracking company. 
+A few months back, I bought a [Whistle Activity Monitor][2], in the hopes that I would be granted access to [Whistle GPS][3].[^1] Whistle had always envisioned being able to bring GPS tracking to pets. Apparently, the task was more than Whistle alone could handle, so they acquired [Tagg][4], the foremost GPS-based pet tracking company. 
 
 I recall catching wind of Tagg at this year's CES, and I had a rather opinionated take on their prospects. My thoughts were premised on the notion that Whistle GPS was going to be a thing, and based on the web/UI/UX differences between Whistle and Tagg (Tagg being the lesser), I assumed Tagg would flop:
 
@@ -17,13 +17,14 @@ I recall catching wind of Tagg at this year's CES, and I had a rather opinionate
 
 The hope is that, a short time in the future, if we ever have to leave Smokey again, he will be *much* more retrievable than he currently might be, without GPS tracking.
 
-This could change everything about leaving your pet behind.[^op]
+This could change everything about leaving your pet behind.[^2]
 
-[^pr]: Preview [here][cnet]
-[^op]: Our plan is to someday bring Smokey and/or own baby children to the office, completely obfuscating the fear/anxiety parents have when leaving their kids.
+[^1]: Preview [here][a]
+[^2]: Our plan is to someday bring Smokey and/or own baby children to the office, completely obfuscating the fear/anxiety parents have when leaving their kids.
 
-[archive]: https://web.archive.org/web/20141010180630/http://www.whistle.com/gps/ "Web Archive page for 'whistle.com'"
-[cnet]: http://www.cnet.com/news/whistle-bringing-gps-to-second-generation-dog-wearable/ "Cnet reporting on Whistle"
-[pettracker]: http://www.pettracker.com/ "Whistle's top-level domains"
-[twitter]: http://www.twitter.com/smokeythedingo "My dog, Smokey, on Twitter"
-[whistle]: http://www.whistle.com/product/ "Product page for Whistle"
+[a]: http://www.cnet.com/news/whistle-bringing-gps-to-second-generation-dog-wearable/ "Cnet reporting on Whistle"
+
+[1]: http://www.twitter.com/smokeythedingo "My dog, Smokey, on Twitter"
+[2]: http://www.whistle.com/product/ "Product page for Whistle"
+[3]: https://web.archive.org/web/20141010180630/http://www.whistle.com/gps/ "Web Archive page for 'whistle.com'"
+[4]: http://www.pettracker.com/ "Whistle's top-level domains"

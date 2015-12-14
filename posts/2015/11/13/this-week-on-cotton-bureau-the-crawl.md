@@ -10,7 +10,6 @@ Image: http://d.pr/i/1207N+
 	<figcaption><a href="http://twitter.com/hellacastle" title="The designer's Twitter account">David Castillo</a>: "Here is an iconic fan design for a certain movie coming very, very soon, for all people close and far, far away."</figcaption>
 </figure>
 
-Is it [December 18][fandango] yet?
+Is it [December 18][1] yet?
 
-[fandango]: http://www.fandango.com/starwars:theforceawakens_169229/movieoverview "Star Wars opening day"
-
+[1]: http://www.fandango.com/starwars:theforceawakens_169229/movieoverview "Star Wars opening day"

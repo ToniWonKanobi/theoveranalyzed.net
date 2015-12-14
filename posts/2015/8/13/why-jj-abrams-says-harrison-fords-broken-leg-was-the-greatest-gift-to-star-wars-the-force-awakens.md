@@ -20,11 +20,11 @@ Clearly, Harrison Ford is the man.
 ### Update: Future Films
 <p class="updateTime"><time datetime="2015-08-13">August 13, 2015</time></p>
 
-Apparently today was a big news day for Star Wars fans. Angie Han, also of /Film, [pieced together][slashfilm] some recent interviews with J.J. Abrams and Kathleen Kennedy, shedding light on the upcoming Episode VIII and IX of the [sequel trilogy][wikipedia]:
+Apparently today was a big news day for Star Wars fans. Angie Han, also of /Film, [pieced together][1] some recent interviews with J.J. Abrams and Kathleen Kennedy, shedding light on the upcoming Episode VIII and IX of the [sequel trilogy][2]:
 
 > Even though Star Wars: Episode VIII is still over two years away, we know that threads of the story have already been sewn, and Rian Johnson (Looper, Brick, The Brothers Bloom) is hard at work on writing the movie that he will also direct (Kasdan and Simon Kinberg have also been working on Episode 8 and 9).
 
 </aside>
 
-[slashfilm]: http://www.slashfilm.com/star-wars-episode-8 "Putting it together"
-[wikipedia]: https://en.wikipedia.org/wiki/Star_Wars_sequel_trilogy "Star Wars sequel trilogy"
+[1]: http://www.slashfilm.com/star-wars-episode-8 "Putting it together"
+[2]: https://en.wikipedia.org/wiki/Star_Wars_sequel_trilogy "Star Wars sequel trilogy"

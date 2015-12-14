@@ -7,6 +7,6 @@ Video: https://youtu.be/uD2nOjV3AaI
 
 Christina nailed her impressions, no doubt about that.
 
-[From [Devour][devour]]
+(From [Devour][1])
 
-[devour]: http://devour.com/video/christina-on-brittney/ "Source post on Devour"
+[1]: http://devour.com/video/christina-on-brittney/ "Source post on Devour"
