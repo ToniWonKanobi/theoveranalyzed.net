@@ -24,7 +24,9 @@ This was on Daring Fireball's Linked List back in [September][6]. Here's John Gr
 
 This came through the pipeline today, from [The Sweet Setup][8]. Here's their explanation of NoMoreiTunes Safari Extension:
 
-> After you download and install [NoMoreiTunes Safari Extension], it will keep iTunes from launching whenever an iTunes link is clicked. You’ll be able to preview the app information along with reading some initial reviews. If you decide that you want to open the page in iTunes, there is a handy link in the NoMoreiTunes overlay at the top of the Safari window.Check out more Power User posts [here][9].
+> After you download and install [NoMoreiTunes Safari Extension], it will keep iTunes from launching whenever an iTunes link is clicked. You’ll be able to preview the app information along with reading some initial reviews. If you decide that you want to open the page in iTunes, there is a handy link in the NoMoreiTunes overlay at the top of the Safari window.
+
+Check out more Power User posts [here][9].
 
 [1]: http://d.pr/i/1aZ8X+ "Safari Extensions"
 [2]: http://techcrunch.com/2013/04/03/google-forks-webkit-and-launches-blink-its-own-rendering-engine-that-will-soon-power-chrome-and-chromeos/ "Techcrunch on Chrome going to Blink"
