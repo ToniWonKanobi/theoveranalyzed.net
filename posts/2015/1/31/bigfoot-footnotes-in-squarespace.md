@@ -22,7 +22,7 @@ I searched high and low and came up on a [post][8] by Marco, in which he plugged
 
 (Note my liberal use of [fancy schmancy][13] footnotes in this post? Yay Bigfoot.js.[^8])
 
-### `bigfoot-number.css`Troubles
+### `bigfoot-number.css` Troubles
 
 I was having trouble getting the footnotes to reset their count for each new post on my Archive page. By default, for `bigfoot-number.css`, the footnotes will number sequentially for the entire page. For example, if the first post on a page has two footnotes, and the second post down has one footnote, the number of the footnote on the second post will be `3`. Ideally, the first footnote on the second post should be `1`, as the footnote numbers should reset for each post.
 
