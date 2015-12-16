@@ -29,9 +29,7 @@ Easy. [CSS3][4]!
 	
 	was
 	
-	```nohighlight
-	I know who I'm voting for 🇺🇸
-	```
+	<mark class="red">I know who I'm voting for 🇺🇸</mark>
 	
 	**The flag wasn't upside-down as I had hoped.**
 	

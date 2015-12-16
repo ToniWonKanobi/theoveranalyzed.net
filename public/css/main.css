@@ -333,6 +333,7 @@ pre {
 	border-radius: 0.2em;
 	font-family: 'Menlo', monospace;
 	font-size: 0.8em;
+	overflow: auto;
 	padding: 0.5em 0.75em 0.5em 0.75em;
 }
 
@@ -342,10 +343,7 @@ code {
 }
 
 pre code {
-	border: none;
 	font-size: 0.9em;
-	padding: 0;
-	word-break: break-word
 }
 
 div.check {
@@ -370,13 +368,17 @@ div.check p {
 }
 
 div.check p:hover {
-	color: initial
+	color: initial;
 }
 
 mark {
-	background: rgba(255, 255, 0, 0.5);
-	border-radius: 0.25em;
-	padding: 0.5em;
+	background: rgba(255, 255, 0, 0.4);
+	border-radius: 0.2em;
+	padding: 0.5em 0.75em 0.5em 0.75em;
+}
+
+mark.red {
+	background: rgba(255, 0, 0, 0.25)
 }
 
 /* Fixes `markdown-it`
