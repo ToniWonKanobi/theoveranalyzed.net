@@ -49,12 +49,12 @@ Easy. [CSS3][4]!
 	
 	resulting in
 	
-	<mark>I know who I'm voting for <span id="flag-thingy" style="display: inline-block; transform: rotate(-180deg);">🇺🇸</span></mark>
+	<mark class="green">I know who I'm voting for <span id="flag-thingy" style="display: inline-block; transform: rotate(-180deg);">🇺🇸</span></mark>
 
 <div class="check"><p>✔︎</p></div>
 
 [^1]: I did this because it's not worth adding a custom class to my [main stylesheet][a] just for this one random style change.
-[^2]: Technically, I should have used the `-webkit` prefix ala `-webkit-transform`, but I'm lazy, and I'm pretty sure transform has been adopted by most every browser that matters. So why add additional code when it's unnecessary?
+[^2]: Technically, I should have used the `-webkit` prefix ala `-webkit-transform`, but I'm lazy, and I'm pretty sure the `transform` property has been adopted by most every browser that matters. So why add additional prefix cruft when it's more or less unnecessary?
 
 [a]: /css/main.css "Main stylesheet for TheOverAnalyzed"
 
