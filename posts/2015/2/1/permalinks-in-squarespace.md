@@ -66,6 +66,8 @@ So my line of HTML code looks like this:
 
 By placing the permalink in the Post Blog Item Code Injection section, I no longer have to manually create permalinks for Linked List posts. The downside to this newer method is that the permalink shows up on *every* post, even the Article-style posts. A small price to pay methinks.
 
+<div class="check"><p>✔︎</p></div>
+
 <aside class="update">
 
 ### Update: Permalink Fix

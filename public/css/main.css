@@ -348,19 +348,35 @@ pre code {
 	word-break: break-word
 }
 
-.check {
-	background: #ddd;
-	border-radius: 1em;
-	display: block;
-	font-size: 8em;
-	margin: 0.5em auto;
-	width: 1.6em;
-	text-align: center;
-	transition: all 0.2s ease-in-out;
+div.check {
+	background: #eee;
+	border-radius: 50%;
+	height: 225px;
+	margin: auto;
+	transition: all 0.35s ease-in-out;
+	width: 225px;
 }
 
-.check:hover {
-	background: #eee;
+div.check:hover {
+	background: #ddd;
+	transform: rotate(360deg);
+}
+
+div.check p {
+	color: #fff;
+	font-size: 7em;
+	margin: 0.5em auto;
+	text-align: center;
+}
+
+div.check p:hover {
+	color: initial
+}
+
+mark {
+	background: rgba(255, 255, 0, 0.5);
+	border-radius: 0.25em;
+	padding: 0.5em;
 }
 
 /* Fixes `markdown-it`
@@ -716,6 +732,10 @@ p#copyright {
 	li video {
 		margin: auto;
 		width: 100%;
+	}
+
+	div.check p {
+		font-size: 7.5em;
 	}
 
 	nav ul {

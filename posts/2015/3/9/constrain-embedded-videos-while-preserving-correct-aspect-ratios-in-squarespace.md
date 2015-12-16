@@ -147,6 +147,8 @@ So, with that, your videos should look like this:
 
 The FitVids.js solution works on all `<iframe>` elements found on `.main-content` So, any post that contains that, such as Storify, will also have the wonderful FitVids effect applied.
 
+<div class="check"><p>✔︎</p></div>
+
 [^1]: At this point, I look at every 'problem' that I fix on the site as a learning opportunity. Granted, many of the fixes I implement are not my own, but rather others. Still, I take solace in knowing that I didn't need anyone to show me how to fix it. I searched for a solution, found it, and implemented it. The gratification of tweaking code and having it *finally* work after many failed attempts is very real, and quite awesome.
 	<p style="display:inline">After just a couple months of web design, I can understand how programmers can go on week-long coding adventures without sleep or food. It's a surreal experience.</p>
 [^2]: On mobile, this width is overruled with some `@media` queries for phone and tablet displays

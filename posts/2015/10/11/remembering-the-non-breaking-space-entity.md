@@ -1,7 +1,7 @@
 Title: Remembering the Non-breaking Space Entity  
 Date: 2015-10-11 09:25  
 Description: Don't forget about HTML's "no space" space, useful for weird situations where `white-space: nowrap` isn't suitable.  
-Tags: Best Of, Web Design  
+Tags: Best Of, Web Design, HTML  
 Image: http://d.pr/i/1igkh+  
 
 <figure>
@@ -62,6 +62,8 @@ In it, [Gandalf says to Frodo][13]:
 > My dear Frodo. Hobbits really are amazing creatures. You can learn all there is to know about their ways in a month, and yet after a hundred years they can still surprise you.
 
 HTML is my "hobbits"---just when I think I have a handle on it, something like a non-breaking space character pops up and surprises me. Shows what I know.
+
+<div class="check"><p>✔︎</p></div>
 
 [^1]: Here's how I handled mobile styles previously:
 	<p>I defined an <code>@media</code> query to target all screen widths up to 736px, which is the longest dimension of an iPhone (it's the length of an iPhone 6 Plus display @3x asset sizes)</p>
