@@ -5,7 +5,7 @@ Description: Good advice for aspiring authors (bloggers)?
 Tags: Blogging  
 Image: http://d.pr/i/1fwaF+  
 
-<p><img class="screenshot" src="http://d.pr/i/1fwaF+" alt="Screenshot of Paul Graham's website" title="Screenshot of Paul Graham's website"></p>
+<img class="screenshot" src="http://d.pr/i/1fwaF+" alt="Screenshot of Paul Graham's website" title="Screenshot of Paul Graham's website">
 
 Paul Graham, of [Yahoo! Store][1] and [Y Combinator][2] fame, with some advice for <s>pen</s> writers:
 

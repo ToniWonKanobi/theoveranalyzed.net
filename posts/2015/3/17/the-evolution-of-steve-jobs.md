@@ -5,7 +5,7 @@ Description: In the latest biography about Steve Jobs, Tim Cook reveals a poigna
 Tags: Steve Jobs  
 Image: http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/03/3042433-poster-p-1-steves-legacy-the-real-legacy-of-steve-jobs.jpg  
 
-<p><img class="wide" src="http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/03/3042433-poster-p-1-steves-legacy-the-real-legacy-of-steve-jobs.jpg" alt="Steve Jobs (Apple) Evolution" title="Steve Jobs (Apple) Evolution">
+<img class="wide" src="http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/03/3042433-poster-p-1-steves-legacy-the-real-legacy-of-steve-jobs.jpg" alt="Steve Jobs (Apple) Evolution" title="Steve Jobs (Apple) Evolution">
 
 Gruber linked to a [piece][1] earlier today, which led me to another excerpt from Rick Tetzeli's and Brent Schlender's upcoming book [Becoming Steve Jobs][2]:
 

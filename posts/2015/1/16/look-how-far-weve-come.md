@@ -12,13 +12,13 @@ I am usually surprised at just how terrible the in-house Wi-Fi is for both perso
 
 Today's situation was no different from the norm. This was my Speedtest today over LTE:
 
-<p><img class="iphone" src="http://www.speedtest.net/result/4065330285.png" alt="Speedtest over cellular" title="Speedtest over cellular"></p>
+<img class="iphone" src="http://www.speedtest.net/result/4065330285.png" alt="Speedtest over cellular" title="Speedtest over cellular">
 
 Interestingly, Speedtest garnered a mere A- for these speeds. I guess that's fair, considering the relativity of it all.
 
 Here was a Speedtest from a few months ago, when Time Warner decided to grace its Inland Empire customers with an exorbitant amount of speed increases. (We should totally be okay with them [merging with Comcast][5], right? Uh, no.)
 
-<p><img class="iphone" src="http://www.speedtest.net/result/3867339763.png" alt="Speedtest over home internet" title="Speedtest over home internet"></p>
+<img class="iphone" src="http://www.speedtest.net/result/3867339763.png" alt="Speedtest over home internet" title="Speedtest over home internet">
 
 ***
 

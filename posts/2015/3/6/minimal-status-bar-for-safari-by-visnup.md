@@ -5,7 +5,7 @@ Description: This is a neat little Safari extension for power users.
 Tags: Power User, Safari  
 Image: http://d.pr/i/1cLZq+
 
-<p><img class="screenshot" src="http://d.pr/i/1cLZq+" alt="Minimal Status Bar by Visnup" title="Minimal Status Bar by Visnup"></p>
+<img class="screenshot" src="http://d.pr/i/1cLZq+" alt="Minimal Status Bar by Visnup" title="Minimal Status Bar by Visnup">
 
 Want to know where a hyperlink will take you? Install this Safari extension, and enjoy  💻
 

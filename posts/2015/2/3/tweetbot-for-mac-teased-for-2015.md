@@ -4,7 +4,7 @@ Description: The best Twitter client for Mac is due to receive a much-needed upd
 Tags: Apps, Tapbots  
 Image: http://d.pr/i/17I6s+  
 
-<p><img class="wide" src="http://d.pr/i/17I6s+" alt="Tweetbot for Mac and Calcbot for iOS teased for 2015" title="Tweetbot for Mac and Calcbot for iOS teased for 2015"></p>
+<img class="wide" src="http://d.pr/i/17I6s+" alt="Tweetbot for Mac and Calcbot for iOS teased for 2015" title="Tweetbot for Mac and Calcbot for iOS teased for 2015">
 
 Mark Jardine of [Tapbots][1] posted a cryptic [picture][2] of his desk setup, the right side of which shows his MacBook Pro with what appears to be a Tweetbot for Mac window. 
 

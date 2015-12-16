@@ -3,7 +3,7 @@ Description: Info about me and TheOverAnalyzed
 
 Hi. I'm [Anthony][1].
 
-<p><img src="http://d.pr/i/1d53F+" alt="Allison and I" title="Allison and I" style="margin: initial; width: 50%;"></p>
+<img src="http://d.pr/i/1d53F+" alt="Allison and I" title="Allison and I" style="margin: initial; width: 50%;">
 
 TheOverAnalyzed is a website about technology, design, and pop culture.
 

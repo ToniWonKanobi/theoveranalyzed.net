@@ -4,7 +4,7 @@ Description: When is it best to wait for the second generation of product? Won't
 Tags: Apple Watch  
 Image: http://d.pr/i/1hPAG+  
 
-<p><img class="screenshot" src="http://d.pr/i/1hPAG+" alt="Craig Hockenberry's post on furbo.org" title="Craig Hockenberry's post on furbo.org">
+<img class="screenshot" src="http://d.pr/i/1hPAG+" alt="Craig Hockenberry's post on furbo.org" title="Craig Hockenberry's post on furbo.org">
 
 Craig Hockenberry of the Iconfactory recently [wrote][1] on the OLED[^1] display technology in the Apple Watch:
 
