@@ -15,3 +15,7 @@ Video: https://youtu.be/ZTLAx3VDX7g
 </script>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZTLAx3VDX7g" allowfullscreen></iframe>
+
+(From [Devour][1])
+
+[1]: http://devour.com/video/star-wars-the-force-awakens-cast-sings-star-wars-medley/ "Source post on Devour"

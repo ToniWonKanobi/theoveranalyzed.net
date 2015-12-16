@@ -202,17 +202,17 @@ And here's a screenshot of the workflow (it's actually a Service):
 
 <figure>
 	<img src="http://d.pr/i/107X5+" alt="Finished workflow" title="Finished workflow">
-	<figcaption><code>Slugify.workflow</code></figcaption>
+	<figcaption><code>Make URL Slug.workflow</code></figcaption>
 </figure>
 
 ### Explanation
 
-Essentially, what `Slugify.workflow` does is take selected text and automate the changes I was making to the title text previously. It makes uppercase letters lowercase, and it removes spaces and funky characters and replaces them with hyphens.
+Essentially, what `Make URL Slug.workflow` does is take selected text and automate the changes I was making to the title text previously. It makes uppercase letters lowercase, and it removes spaces and funky characters and replaces them with hyphens.
 
 I also assigned a keyboard shortcut to the service, so that I don't have to invoke the 'right-click' submenu.
 
 <figure>
-	<img src="http://d.pr/i/1lBKU+" alt="Keyboard shortcut for slugify.workflow" title="Keyboard shortcut for slugify.workflow">
+	<img src="http://d.pr/i/1lBKU+" alt="Keyboard shortcut for Make URL Slug.workflow" title="Keyboard shortcut for Make URL Slug.workflow">
 	<figcaption><code>Shift-Option-Command-R</code></figcaption>
 </figure>
 
@@ -226,11 +226,11 @@ This couldn't get any easier.
 
 ### Download
 
-You can download `Slugify.workflow` <a href="http://d.pr/f/139sO" title="Download my `Slugify.workflow`">here</a>.
+You can download `Make URL Slug.workflow` [here][10].
 
 <aside class="update">
 
-### Update: Fixed Some Errors in Slugify
+### Update: Fixed Some Errors in Make URL Slug
 <p class="updateTime"><time datetime="2015-11-21">November 21, 2015</time></p>
 
 Found some errors in my script, such as not removing commas. So, I fixed that. (For posterity's sake, I left the code above alone.)
@@ -246,3 +246,4 @@ Found some errors in my script, such as not removing commas. So, I fixed that. (
 [7]: http://superuser.com/questions/635351/process-clipboard-content-on-mac-os "Superuser: Process clipboard content on Mac OS?"
 [8]: http://superuser.com/revisions/635370/2 "The basis for my version of Slugify"
 [9]: http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html "AppleScript tutorial"
+[10]: http://d.pr/f/HBe8 "Download my `Make URL Slug.workflow`"

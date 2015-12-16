@@ -348,6 +348,21 @@ pre code {
 	word-break: break-word
 }
 
+.check {
+	background: #ddd;
+	border-radius: 1em;
+	display: block;
+	font-size: 8em;
+	margin: 0.5em auto;
+	width: 1.6em;
+	text-align: center;
+	transition: all 0.2s ease-in-out;
+}
+
+.check:hover {
+	background: #eee;
+}
+
 /* Fixes `markdown-it`
 homepage fenced code block funkiness */
 body.homepage pre code {
