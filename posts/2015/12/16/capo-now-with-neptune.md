@@ -3,7 +3,7 @@ Date: 2015-12-16 17:46
 Link: http://supermegaultragroovy.com/products/capo/neptune/  
 Description: Capo just get even better.  
 Tags: Apps, Bass Guitar  
-Image: http://supermegaultragroovy.com/products/capo/img/neptune_display@2x.gif  
+Image: http://supermegaultragroovy.com/products/capo/img/neptune_device@2x.png  
 
 <figure>
 	<img class="screenshot iphone" src="http://supermegaultragroovy.com/products/capo/img/neptune_display@2x.gif" alt="Capo and Neptune">
