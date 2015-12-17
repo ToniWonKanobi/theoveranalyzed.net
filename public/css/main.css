@@ -356,8 +356,8 @@ div.check {
 }
 
 div.check:hover {
-	background: #ddd;
-	transform: rotate(360deg);
+	background: #ccc;
+	transform: rotate(720deg);
 }
 
 div.check p {
