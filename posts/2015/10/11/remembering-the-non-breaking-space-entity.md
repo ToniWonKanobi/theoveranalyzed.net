@@ -74,17 +74,17 @@ HTML is my "hobbits"---just when I think I have a handle on it, something like a
 	<p>Finally, I set <code>.content</code> <code>width: 250px;</code> and <code>font-size: 0.9em;</code>, as well as adjusted some <code>100vw</code> stuffs.</p>
 	<p style="display: inline">Boom.</p>
 [^2]: [Marco.org][a]:
-	<p><img class="screenshot" src="http://d.pr/i/134ms+" alt="The 'Link' arrow  on Marco.org" title="The 'Link' arrow  on Marco.org" style="margin-top: 0.5em; width: 175px;"></p>
+	<p><img class="screenshot" src="http://d.pr/i/134ms+" alt="The 'Link' arrow  on Marco.org" title="The 'Link' arrow  on Marco.org" style="width: 175px;"></p>
 [^3]: [Liss is More][b]:
-	<p><img class="screenshot" src="http://d.pr/i/18VCM+" alt="The 'Link' arrow  on Liss Is More" title="The 'Link' arrow  on Liss Is More" style="margin-top: 0.5em; width: 175px;"></p>
+	<p><img class="screenshot" src="http://d.pr/i/18VCM+" alt="The 'Link' arrow  on Liss Is More" title="The 'Link' arrow  on Liss Is More" style="width: 175px;"></p>
 [^4]: [The Brooks Review][c]:
-	<p><img class="screenshot" src="http://d.pr/i/iFQM+" alt="The 'Link' arrow  on The Brooks Review" title="The 'Link' arrow  on The Brooks Review" style="margin-top: 0.5em; width: 175px"></p>
+	<p><img class="screenshot" src="http://d.pr/i/iFQM+" alt="The 'Link' arrow  on The Brooks Review" title="The 'Link' arrow  on The Brooks Review" style="width: 175px"></p>
 [^5]: [512 Pixels][d]:
-	<p><img class="screenshot" src="http://d.pr/i/16hmF+" alt="The 'Link' arrow on 512 Pixels" title="The 'Link' arrow on 512 Pixels" style="margin-top: 0.5em auto; width: 175px"></p>
+	<p><img class="screenshot" src="http://d.pr/i/16hmF+" alt="The 'Link' arrow on 512 Pixels" title="The 'Link' arrow on 512 Pixels" style="width: 175px"></p>
 [^6]: [Six Colors][e]:
-	<p><img class="screenshot" src="http://d.pr/i/1a2ML+" alt="The 'Link' arrow  on Six Colors" title="The 'Link' arrow  on Six Colors" style="margin-top: 0.5em; width: 175px;"></p>
+	<p><img class="screenshot" src="http://d.pr/i/1a2ML+" alt="The 'Link' arrow  on Six Colors" title="The 'Link' arrow  on Six Colors" style="width: 175px;"></p>
 [^7]: The Brooks Review's wrapping arrow problem:
-	<p><img class="screenshot" src="http://d.pr/i/150Nv+" alt="The 'Link' arrow  wrapping stupidly on The Brooks Review" title="The 'Link' arrow  wrapping stupidly on The Brooks Review" style="margin-top: 0.5em; width: 175px"></p>
+	<p><img class="screenshot" src="http://d.pr/i/150Nv+" alt="The 'Link' arrow  wrapping stupidly on The Brooks Review" title="The 'Link' arrow  wrapping stupidly on The Brooks Review" style="width: 175px"></p>
 
 [a]: http://marco.org "Marco Arment's blog, Marco.org"
 [b]: http://caseyliss.com "Casey Liss's blog, Liss Is More"

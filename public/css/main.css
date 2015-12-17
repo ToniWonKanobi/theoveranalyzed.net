@@ -270,14 +270,14 @@ img.wide {
 
 img.inlineTwo {
 	display: initial;
-	margin: auto 0.5em;
-	width: 44%;
+	margin: auto 0.15em;
+	width: 47%;
 }
 
 img.inlineThree {
 	display: initial;
-	margin: auto 0.5em;
-	width: 27%;
+	margin: auto 0.15em;
+	width: 30%;
 }
 
 img.inlineFour {
@@ -563,7 +563,7 @@ section#pagination {
 	font-size: 1.1em;
 	font-weight: 400;
 	height: 1.75em;
-	padding: 1em 0 0 0;
+	padding: 0.5em 0 0 0;
 }
 
 section#pagination > h2 {
@@ -687,6 +687,12 @@ p#copyright {
 		width: 100vw;
 	}
 
+	img.inlineFour {
+		margin: 1em auto;
+		width: 48%;
+	}
+
+
 	hr.articleSeparator {
 		border-radius: 0;
 		margin: 2em auto 2em -10vw;
@@ -720,11 +726,6 @@ p#copyright {
 		font-size: 1.5em;
 	}
 
-	img.inlineFour {
-		margin: 1em auto;
-		width: 48%;
-	}
-
 	img:not(.applewatch, .iphone, .inlineTwo, .inlineThree, .inlineFour),
 	video,
 	audio {
@@ -737,7 +738,7 @@ p#copyright {
 	blockquote img:not(.applewatch, .iphone, .inlineTwo, .inlineThree, inlineFour),
 	li img:not(.applewatch, .iphone, .inlineTwo, .inlineThree, inlineFour),
 	li video {
-		margin: auto;
+		margin: initial;
 		width: 100%;
 	}
 
