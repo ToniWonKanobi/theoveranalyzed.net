@@ -3,6 +3,7 @@ Date: 2015-12-17 08:02
 Link: https://youtu.be/-gUKYBs6T8c  
 Description: Today is the day.  
 Tags: Star Wars  
+Image: http://vignette2.wikia.nocookie.net/starwars/images/2/21/Star_wars_old.jpg  
 Video: https://youtu.be/-gUKYBs6T8c  
 
 [Kyle Kallgren][1]:
