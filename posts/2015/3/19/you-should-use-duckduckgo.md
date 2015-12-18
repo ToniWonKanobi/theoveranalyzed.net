@@ -5,7 +5,7 @@ Description: DuckDuckGo is a marvelous alternative to Google (or Bing, or Yahoo,
 Tags: Reviews  
 Image: http://d.pr/i/1fH31+  
 
-<img class="screenshot" src="http://d.pr/i/1fH31+" alt="You should be using this" title="You should be using this">
+<p><img class="screenshot" src="http://d.pr/i/1fH31+" alt="You should be using this" title="You should be using this"></p>
 
 Casey Liss of [ATP][1] fame:
 

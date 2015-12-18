@@ -123,7 +123,7 @@ So far, so good.
 
 <figure>
 	<a class="nohover" href="https://www.apple.com/v/tv/c/images/experience/gesture_scrub_large.png" title="Swiping on the Touch surface is pretty intuitive if you've used an Apple laptop before">
-		<img src="https://www.apple.com/v/tv/c/images/experience/gesture_scrub_large.png" alt="Swiping on the Touch surface is pretty intuitive if you've used an Apple laptop before" style="max-width: 50%;">
+		<img src="https://www.apple.com/v/tv/c/images/experience/gesture_scrub_large.png" alt="Swiping on the Touch surface is pretty intuitive if you've used an Apple laptop before" style="margin: auto; max-width: 50%;">
 		</a>
 		<figcaption>Source: Apple</figcaption>
 </figure>
@@ -175,7 +175,7 @@ Yes, yes they are.
 
 Here's a video I captured showing one of the many [600 MB] screensavers new for tvOS:
 
-<video class="wide" src="http://d.pr/v/MTTo+" title="Apple TV 4 / tvOS screensaver in action" controls></video>
+<video src="http://d.pr/v/MTTo+" title="Apple TV 4 / tvOS screensaver in action" controls></video>
 
 Like many annoying hippie environmentalists, I had previously set my Apple TV to sleep after 30 minutes---what I believe was the shortest time interval I could have chosen.
 

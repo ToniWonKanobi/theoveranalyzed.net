@@ -16,7 +16,7 @@ Several clean restores and countless [Spotlight re-indexes][11] later, the issue
 
 It was maddening.
 
-<img class="screenshot" src="http://d.pr/i/16UH6+" alt="I hate you Spotlight" title="I hate you Spotlight">
+<p><img class="screenshot" src="http://d.pr/i/16UH6+" alt="I hate you Spotlight" title="I hate you Spotlight"></p>
 
 Then this morning I had a breakthrough.
 
@@ -40,7 +40,7 @@ Here's how I fixed it:
 
 2. Move `Markdown.mdimporter` to `/Library/Spotlight`
 
-	<img class="screenshot" src="http://d.pr/i/14Yuo+" alt="Put the mdimporter here" title="Put the mdimporter here">
+	<p><img class="screenshot" src="http://d.pr/i/14Yuo+" alt="Put the mdimporter here" title="Put the mdimporter here"></p>
 	
 	**This is important:** Don't move it to the "user" directory as Lipschitz suggests (`~/Library/Spotlight`)---put it in the System's Library folder as I've detailed above
 	
@@ -54,7 +54,7 @@ Here's how I fixed it:
 
 Ahh.
 
-<img class="screenshot" src="http://d.pr/i/19g9D+" alt="Ahh" title="Ahh">
+<p><img class="screenshot" src="http://d.pr/i/19g9D+" alt="Ahh" title="Ahh"></p>
 
 ***
 
@@ -67,10 +67,8 @@ In other news, I ran every single page through the W3C's validator to make sure 
 Now, onto more website fiddling.
 
 [^1]: You could also force Spotlight to reindex only the volume/folder containing the Markdown files by appending the path like so:
-	```nohighlight
-	sudo mdutil -E /Volumes/Macintosh\ HD/Users/Anthony/Websites/TheOverAnalyzed/posts/
-	```
-	This isn't useful if you have Markdown files all over the place (as I do). If you're like me, just reindex the whole drive.
+	<p><pre><code class="hljs language-nohighlight">sudo mdutil -E /Volumes/Macintosh\ HD/Users/Anthony/Websites/TheOverAnalyzed/posts/</code></pre></p>
+	<p style="display: inline;">This isn't useful if you have Markdown files all over the place (as I do). If you're like me, just reindex the whole drive.</p>
 
 [1]: http://d.pr/i/16cND+ "This was the key"
 [2]: https://en.wikipedia.org/wiki/Markdown "Wikipedia: Markdown"

@@ -13,7 +13,7 @@ A few nights ago, inspired by a [critique of my site's design][1], I finally fix
 
 And as expected, this took me down the rabbit hole of tinkering. While I was previewing the site in [Safari's Responsive Design Mode][2], I was reminded by one of those things that has irritated me for months, but I never took the time to fix: 
 
-<em class="takeHome">That arrow.</em>
+<p><em class="takeHome">That arrow.</em></p>
 
 You know, that arrow symbol `→` that so[^2] often[^3] signifies[^4] a linked[^5] post on blogs.[^6]Occasionally, I would visit my site check something, only to find that the arrow in a linked post title had wrapped to a new line *by itself*. Ugh. Terrible.I wasn't sure if this was caused by an omission on my part, so I checked [Marco.org][3], [Liss is More][4], and a couple other sites. They all exhibited the same arrow-wrap-wonkiness.[^7] I asked [each website owner][5] [on Twitter][6], and at least [one of them didn't know how to fix it][7].
 

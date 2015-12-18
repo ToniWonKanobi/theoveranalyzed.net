@@ -23,7 +23,7 @@ Suppose I wanted to embed it in the body of my post, rather than simply have it 
 
 Here's the embed code copy and pasted straight from YouTube, for the video mentioned above:
 
-```
+```html
 <iframe width="560" height="315"
 	src="https://www.youtube.com/embed/kOh6iATnEnw"
 	frameborder="0" allowfullscreen>

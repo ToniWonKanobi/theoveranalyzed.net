@@ -12,13 +12,13 @@ I am usually surprised at just how terrible the in-house Wi-Fi is for both perso
 
 Today's situation was no different from the norm. This was my Speedtest today over LTE:
 
-<img class="iphone" src="http://www.speedtest.net/result/4065330285.png" alt="Speedtest over cellular" title="Speedtest over cellular">
+<p><img class="iphone" src="http://www.speedtest.net/result/4065330285.png" alt="Speedtest over cellular" title="Speedtest over cellular"></p>
 
 Interestingly, Speedtest garnered a mere A- for these speeds. I guess that's fair, considering the relativity of it all.
 
 Here was a Speedtest from a few months ago, when Time Warner decided to grace its Inland Empire customers with an exorbitant amount of speed increases. (We should totally be okay with them [merging with Comcast][5], right? Uh, no.)
 
-<img class="iphone" src="http://www.speedtest.net/result/3867339763.png" alt="Speedtest over home internet" title="Speedtest over home internet">
+<p><img class="iphone" src="http://www.speedtest.net/result/3867339763.png" alt="Speedtest over home internet" title="Speedtest over home internet"></p>
 
 ***
 
@@ -66,7 +66,7 @@ For the first time ever, I knew more about something than most every adult I cam
 [1]: http://d.pr/i/14WBi+ "Picture of my current situation at work"
 [2]: https://www.instapaper.com/p/ToniWonKanobi "Me on Instagram"
 [3]: http://speedtest.org "Speedtest"
-[4]: http://loljunky.com/images/me-vs-normal-people-at-someones-house-1608.jpg "'What's your WiFi passowrd?'"
+[4]: http://loljunky.com/images/me-vs-normal-people-at-someones-house-1608.jpg "'What's your WiFi password?'"
 [5]: http://bgr.com/2015/01/15/comcast-time-warner-cable-merger-opposition-2/ "Boy Genius Report on the Comcast / Time Warner merger"
 [6]: /2015/1/5/facebook-is-the-new-aol "My post on how Facebook is irrelevant"
 [7]: https://en.wikipedia.org/wiki/AOL "Wikipedia: AOL"

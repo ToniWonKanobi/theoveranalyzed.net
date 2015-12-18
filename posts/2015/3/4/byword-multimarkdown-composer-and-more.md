@@ -189,7 +189,7 @@ Since writing this post originally, I moved to a [custom blogging engine][10], o
 [^2]: And why should it? MultiMarkdown is filled with lots of 'extras' beyond standard Markdown, some of which most Markdown users could care less about.
 [^3]: So completely amazing.
 [^4]: When I need to do that, I just copy and paste what I have for the footnote so far, and then make a reference-style footnote at the bottom like I used to (or wherever).
-	<p>I wish there were an easier way to convert the footnote content to from "inline" to "reference style" and vice versa.</p>
+	<p style="display: inline;">I wish there were an easier way to convert the footnote content to from "inline" to "reference style" and vice versa.</p>
 [^5]: That gets old.
 
 [a]: http://dictionary.reference.com/browse/aha+moment "'Aha moment' defined"

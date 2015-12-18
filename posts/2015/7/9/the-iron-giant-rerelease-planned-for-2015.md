@@ -84,5 +84,3 @@ I noticed a few weeks back that the [iTunes artwork][14] for the movie changed, 
 [11]: http://www.slashfilm.com/vin-diesel-teases-the-iron-giant-2/ "/Film: Vin Diesel on The Iron Giant sequel"
 [13]: http://en.memory-alpha.wikia.com/wiki/Todd_Vaziri "Todd Vaziri on Wiki"
 [14]: /2015/10/11/finding-itunes-artwork "My post on finding iTunes artwork"
-
-

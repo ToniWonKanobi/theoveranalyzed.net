@@ -304,6 +304,7 @@ audio {
 }
 
 video {
+	margin: auto;
 	max-width: 100%;
 }
 
@@ -519,14 +520,6 @@ sup.footnote-ref a {
 	transition: all 0.2s ease-in-out;
 }
 
-/*body.homepage sup.footnote-ref a {
-	display: none;
-}
-
-body.homepage section.footnotes {
-	display: none;
-}*/
-
 hr.footnotes-sep {
 	border: 1px solid #ddd;
 	margin: 5em auto 1.5em 0;
@@ -556,9 +549,6 @@ a.footnote-backref:hover {
 	color: #3f70a2;
 }
 
-/* Footer
-======================================== */
-
 section#pagination {
 	font-size: 1.1em;
 	font-weight: 400;
@@ -586,6 +576,9 @@ section#pagination .previousPage {
 	float: right;
 }
 
+/* Footer
+======================================== */
+
 footer {
 	color: #999;
 	text-align: center;
@@ -599,19 +592,22 @@ div#bottomAd > h2 {
 	display: none;
 }
 
+div#bottomAd figure {
+	width: 150px;
+}
+
 div#bottomAd figure img {
-	margin: auto;
 	width: 125px;
 }
 
 div#bottomAd figure figcaption {
 	font-size: 0.75em;
-	margin-top: 0;
-	text-align: center;
+	margin: 0 auto;
 }
 
 nav {
 	border-top: 0.1em solid #ddd;
+	padding: 1.5em 0 1.5em 0;
 }
 
 nav > h2 {
@@ -627,9 +623,8 @@ nav a:hover {
 }
 
 nav ul {
-	margin: auto;
-	padding: 1.75em 0;
-	width: 225px;
+	margin: 0.5em;
+	padding: 0;
 }
 
 nav li,
@@ -641,14 +636,13 @@ nav li:hover {
 	padding: 0;
 }
 
-nav li:nth-child(odd):after {
+nav li:first-child:after {
 	content: '•';
-	margin: auto 0.25em auto 0.5em;
+	margin: auto 0.2em auto 0.45em;
 }
 
 /* Cribbed from Hardik Pandya
 (http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/) */
-
 form#search input {
 	background-color: #f8f8f8;
 	border: 2px solid #ddd;
@@ -683,7 +677,7 @@ p#copyright {
 
 	img.wide,
 	video.wide {
-		margin: 1em auto auto -10vw;
+		margin: auto auto auto -10vw;
 		width: 100vw;
 	}
 
@@ -726,17 +720,21 @@ p#copyright {
 		font-size: 1.5em;
 	}
 
-	img:not(.applewatch, .iphone, .inlineTwo, .inlineThree, .inlineFour),
+	img:not(.applewatch, .wide, .iphone,
+		.inlineTwo, .inlineThree, .inlineFour,
+		.bottomAd),
 	video,
 	audio {
 		margin: auto auto auto -10vw;
 		max-width: initial;
-		width: 100vw;
-	}
+		width: 100vw;}
 
-	.update img:not(.applewatch, .iphone, .inlineTwo, .inlineThree, inlineFour),
-	blockquote img:not(.applewatch, .iphone, .inlineTwo, .inlineThree, inlineFour),
-	li img:not(.applewatch, .iphone, .inlineTwo, .inlineThree, inlineFour),
+	div.update img:not(.applewatch, .wide, .iphone,
+		.inlineTwo, .inlineThree, inlineFour),
+	blockquote img:not(.applewatch, .wide, .iphone,
+		.inlineTwo, .inlineThree, inlineFour),
+	li img:not(.applewatch, .wide, .iphone,
+		.inlineTwo, .inlineThree, inlineFour),
 	li video {
 		margin: initial;
 		width: 100%;
@@ -744,10 +742,6 @@ p#copyright {
 
 	div.check p {
 		font-size: 7.5em;
-	}
-
-	nav ul {
-		width: 200px;
 	}
 
 }
@@ -774,7 +768,6 @@ p#copyright {
 
 /* Cribbed from Hardik Pandya
 (http://hardik.org/css/base.css) */
-
 .fadeInDown {
 	animation: fadeInDown 0.4s;
 }
