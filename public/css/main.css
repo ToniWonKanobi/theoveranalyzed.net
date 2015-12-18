@@ -126,7 +126,7 @@ p#siteByline {
 /* Homepage
 ======================================== */
 
-body.homepage section.day article div.entry,
+ body.homepage section.day article div.entry,
 body.homepage section:first-of-type article:first-of-type div.description,
 body.homepage section:first-of-type article:first-of-type div.readMore {
 	display: none;
