@@ -24,7 +24,7 @@ Easy. [CSS3][4]!
 	The result for the following markup
 	
 	```html
-	I know who I'm voting for <span id="flag-thingy" style="transform: rotate(-180deg);">🇺🇸</span>
+	I know who I'm voting for <span style="transform: rotate(-180deg);">🇺🇸</span>
 	```
 	
 	was
@@ -44,12 +44,12 @@ Easy. [CSS3][4]!
 5. So, I applied the `display` property with the value `inline-block` and added it to the markup like so
 
 	```html
-	I know who I'm voting for <span id="flag-thingy" style="display: inline-block; transform: rotate(-180deg);">🇺🇸</span>
+	I know who I'm voting for <span style="display: inline-block; transform: rotate(-180deg);">🇺🇸</span>
 	```
 	
 	resulting in
 	
-	<mark class="green">I know who I'm voting for <span id="flag-thingy" style="display: inline-block; transform: rotate(-180deg);">🇺🇸</span></mark>
+	<mark class="green">I know who I'm voting for <span style="display: inline-block; transform: rotate(-180deg);">🇺🇸</span></mark>
 
 <div class="check"><p>✔︎</p></div>
 
