@@ -527,7 +527,7 @@ hr.footnotes-sep {
 	display: none; /* Disabled until `markdown-it-footnote` gets fixed */
 }
 
-div.footnotes {
+section.footnotes {
 	border-top: 2px solid #ddd; /* Sorta-mimics `hr.footnotes-sep` */
 	color: #999;
 	font-size: 0.8em;
