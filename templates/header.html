@@ -53,7 +53,9 @@
 
 		<!-- Changes the footnotes <section> to a <div> for W3C compliance -->
 		<script type="text/javascript">
-			$('section.footnotes').find('ol').unwrap().wrap('<div class="footnotes">');
+			$(window).load(function(){
+				$("section.footnotes").find("ol").unwrap().wrap('<div class="footnotes">');
+			});
 		</script>
 
 		<!-- Google Analytics -->
