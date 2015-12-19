@@ -51,6 +51,11 @@
 			});
 		</script>
 
+		<!-- Changes the footnotes <section> to a <div> for W3C compliance -->
+		<script type="text/javascript">
+			$('section.footnotes').find('ol').unwrap().wrap('<div class="footnotes">');
+		</script>
+
 		<!-- Google Analytics -->
 		<meta name="google-site-verification" content="bTslVH_XkdLoX1gCjVeqGK1od1brDOtiVSfp5lyxJiE">
 		<script>
