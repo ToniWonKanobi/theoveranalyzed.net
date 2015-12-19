@@ -593,7 +593,7 @@ div#bottomAd > h2 {
 }
 
 div#bottomAd figure {
-	width: 150px;
+	width: 200px;
 }
 
 div#bottomAd figure img {
@@ -603,6 +603,7 @@ div#bottomAd figure img {
 div#bottomAd figure figcaption {
 	font-size: 0.75em;
 	margin: 0 auto;
+	text-align: center;
 }
 
 nav {
@@ -638,7 +639,7 @@ nav li:hover {
 
 nav li:first-child:after {
 	content: '•';
-	margin: auto 0.2em auto 0.45em;
+	margin: auto 0.1em auto 0.3em;
 }
 
 /* Cribbed from Hardik Pandya
