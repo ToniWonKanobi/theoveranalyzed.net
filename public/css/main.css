@@ -113,7 +113,7 @@ img#siteLogo {
 }
 
 h1#siteTitle {
-	font-weight: 800;
+	font-weight: 700;
 	margin: 0;
 	padding-top: 0.35em;
 }
@@ -126,7 +126,7 @@ p#siteByline {
 /* Homepage
 ======================================== */
 
- body.homepage section.day article div.entry,
+body.homepage section.day article div.entry,
 body.homepage section:first-of-type article:first-of-type div.description,
 body.homepage section:first-of-type article:first-of-type div.readMore {
 	display: none;
