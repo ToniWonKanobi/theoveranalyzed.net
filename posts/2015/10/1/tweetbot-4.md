@@ -1,7 +1,7 @@
 Title: Tweetbot 4  
 Date: 2015-10-01 09:50  
 Description: Tweetbot 4 is finally here.  
-Tags: Reviews, Tweetbot  
+Tags: Best Of, Reviews, Tweetbot  
 Image: http://d.pr/i/nwJY+  
 
 ![Tweetbot 4 and Tweetbot 3][1]

@@ -1069,7 +1069,7 @@ app.get('/tags/:tag', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var retVal = '';
 		retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-		retVal += '<header><h2>' + 'Posts tagged ' + '"' + thetag + '"' + '</h3></header>';
+		retVal += '<header><h2>' + 'Posts tagged ' + '<i>' + thetag + '</i>' + '</h3></header>';
 		retVal += performMetadataReplacements([], postBodyStartTemplate([]) );
 		retVal += '<ul>';
 
@@ -1114,7 +1114,7 @@ app.get('/tags/:tag', function (request, response) {
 		retVal += performMetadataReplacements([], singleFooterTemplate([]) );
 
 		var replacements = {};
-		replacements.Title = 'Posts tagged ' + '"' + thetag + '"';
+		replacements.Title = 'Posts tagged ' + '<i>' + thetag + '</i>';
 		replacements.canonicalLink = config.Site.Url + '/tags/' + thetag;
 		replacements.ogtype = 'website';
 		replacements.Image = config.Site.DefaultImage;

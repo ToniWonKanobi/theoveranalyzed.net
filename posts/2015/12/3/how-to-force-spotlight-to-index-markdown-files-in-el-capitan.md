@@ -1,7 +1,7 @@
 Title: How to Force Spotlight to Index Markdown Files in El Capitan  
 Date: 2015-12-03 13:53  
 Description: This has been bothering me for months.  
-Tags: Power User, Spotlight  
+Tags: Best Of, Power User, Spotlight  
 Image: http://d.pr/i/16cND+  
 
 ![This was the key][1]

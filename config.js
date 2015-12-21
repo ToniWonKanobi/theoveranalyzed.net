@@ -1,10 +1,10 @@
 module.exports = {
 	Site: {
-		Url: "http://www.theoveranalyzed.net",
+		Url: "http://theoveranalyzed.net",
 		Title: "TheOverAnalyzed",
 		About: "TheOverAnalyzed is a website about technology, design, and pop culture.",
 		Author: "Anthony Craig",
-		DefaultImage: "http://www.theoveranalyzed.net/images/favicon-square.png"
+		DefaultImage: "http://theoveranalyzed.net/images/favicon-square.png"
 	},
 
 	DraftInfo: {
