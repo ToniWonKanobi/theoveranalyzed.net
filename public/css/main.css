@@ -520,20 +520,25 @@ sup.footnote-ref a {
 	transition: all 0.2s ease-in-out;
 }
 
-hr.footnotes-sep {
-	border: 1px solid #ddd;
-	margin: 5em auto 1.5em 0;
-	width: 10em;
-	display: none; /* Disabled until `markdown-it-footnote` gets fixed */
-}
-
-section.footnotes {
-	border-top: 2px solid #ddd; /* Sorta-mimics `hr.footnotes-sep` */
+div.footnotes {
 	color: #999;
 	font-size: 0.8em;
-	margin-top: 5em;
-	padding-top: 1em;
+	margin: 4em 0 4em 0;
 	padding-left: 1em;
+}
+
+hr.footnotes-sep {
+	border: 1px solid #ddd;
+	margin: 2em 0 2em 0;
+	width: 40%;
+	font-size: initial;
+	letter-spacing: initial;
+	position: initial;
+	top: initial;
+}
+
+hr.footnotes-sep:after {
+	content: initial;
 }
 
 a.footnote-backref {

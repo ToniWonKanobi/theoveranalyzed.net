@@ -60,7 +60,7 @@
     "handlebars": ">=2.0.0",
     "markdown-it": ">=4.2.2",
     "markdown-it-anchor": ">=2.1.0",
-    "markdown-it-footnote": ">=0.1.0",
+    "markdown-it-footnote-conventional": "^2.0.0",
     "markdown-it-highlightjs": "^2.0.0",
     "q-io": ">=1.11.6",
     "rss": ">=1.1.1",
