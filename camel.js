@@ -639,7 +639,7 @@ function sendYearListing(request, response) {
 	var retVal = '';
 	retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
 //	retVal += '<header><h2>Posts for ' + year + '</h2></header>';
-	retVal += '<header><h2>Posts from ' + year + '</h2></header>';
+	retVal += '<header><h2>Posts for ' + year + '</h2></header>';
 
 	var currentMonth = null;
 	var anyFound = false;
@@ -1114,7 +1114,7 @@ app.get('/tags/:tag', function (request, response) {
 		retVal += performMetadataReplacements([], singleFooterTemplate([]) );
 
 		var replacements = {};
-		replacements.Title = 'Posts tagged ' + '<i>' + thetag + '</i>';
+		replacements.Title = 'Posts tagged ' + '"' + thetag + '"';
 		replacements.canonicalLink = config.Site.Url + '/tags/' + thetag;
 		replacements.ogtype = 'website';
 		replacements.Image = config.Site.DefaultImage;
@@ -1136,7 +1136,7 @@ app.get('/:year/:month', function (request, response) {
 
 		var html = '';
 		html += performMetadataReplacements([], singleHeaderTemplate([]) );
-		html += '<header><h2>Posts from ' + seekingDay.format('{Month} {yyyy}') + "</h2></header>";
+		html += '<header><h2>' + seekingDay.format('{Month} {yyyy}') + "</h2></header>";
 		html += performMetadataReplacements([], postBodyStartTemplate([]) );
 
 		var anyFound = false;
@@ -1145,17 +1145,17 @@ app.get('/:year/:month', function (request, response) {
 			if (thisDay.is(seekingDay.format('{Month} {yyyy}'))) {
 				anyFound = true;
 
-				html += '<h3><a href=' + thisDay.format('{Weekday}, {Month} {d}') + '</a></h3>';
+				html += "<h3>" + thisDay.format('{Weekday}, {Month} {d}') + "</h3>";
 				html += "<ul>";
 				day.articles.each(function (article) {
-					html += '<li><a href="' + article.metadata.relativeLink + '" title="' + article.metadata.Title + '">' + article.metadata.Title + '</a></li>';
+					html += '<li><a href="' + article.metadata.relativeLink + '">' + article.metadata.Title + '</a></li>';
 				});
 				html += '</ul>';
 			}
 		});
 
 		if (!anyFound) {
-			html += "<i>No posts found</i>";
+			html += "<i>No posts found.</i>";
 		}
 
 		html += performMetadataReplacements([], postBodyEndTemplate([]) );
@@ -1177,7 +1177,7 @@ app.get('/:year/:month', function (request, response) {
 	});
 });
 
-// Day
+// Day view
 app.get('/:year/:month/:day', function (request, response) {
 	allPostsSortedAndGrouped(function (postsByDay) {
 		var seekingDay = new Date(request.params.year, request.params.month - 1, request.params.day);
@@ -1188,8 +1188,7 @@ app.get('/:year/:month/:day', function (request, response) {
 
 				var html = '';
 				html += performMetadataReplacements([], singleHeaderTemplate([]) );
-				// html += "<header><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
-	            html += "<header><h3>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h3></header>";
+				html += "<header><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
 				html += "<ul>";
 				var anyFound = false;
 				day.articles.each(function (article) {
@@ -1199,7 +1198,7 @@ app.get('/:year/:month/:day', function (request, response) {
 				html += "</ul>";
 
 				if (!anyFound) {
-					html += "<i>No posts found</i>";
+					html += "<i>No posts found.</i>";
 				}
 
 				html += performMetadataReplacements([], postBodyEndTemplate([]) );
@@ -1216,7 +1215,7 @@ app.get('/:year/:month/:day', function (request, response) {
 				var header = performMetadataReplacements(replacements, headerSource);
 				header = header.replace(
 					metadataMarker + 'Title' + metadataMarker,
-					seekingDay.format('{Weekday}, {Month} {d}, {yyyy}')
+					seekingDay.format('{Weekday}, {Month} {d}, {Year}')
 				);
 				response.status(200).send(header + html + footerSource);
 			}

@@ -123,6 +123,22 @@ p#siteByline {
 	padding-bottom: 1.75em;
 }
 
+.fadeInDown {
+	animation: fadeInDown 0.4s;
+}
+
+@keyframes fadeInDown {
+	0% {
+		opacity: 0;
+		transform: translateY(-30px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
 /* Homepage
 ======================================== */
 
@@ -148,6 +164,22 @@ body.homepage main {
 	margin-bottom: 3em;
 }
 
+.fadeInUp {
+	animation: fadeInUp 0.4s;
+}
+
+@keyframes fadeInUp {
+	0% {
+		opacity: 0;
+		transform: translateY(30px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
 /* Page/Post Headers
 ======================================== */
 
@@ -166,7 +198,7 @@ header.postHeader h2 a {
 }
 
 header.postHeader h2 {
-	font-size: 2em;
+	font-size: 2.1em;
 }
 
 header.postHeader a:hover,
@@ -767,41 +799,4 @@ p#copyright {
 		margin: 0.25em;
 	}
 
-}
-
-/* Animations
-======================================== */
-
-/* Cribbed from Hardik Pandya
-(http://hardik.org/css/base.css) */
-.fadeInDown {
-	animation: fadeInDown 0.4s;
-}
-
-@keyframes fadeInDown {
-  0% {
-    opacity: 0;
-    transform: translateY(-30px);
-  }
-
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.fadeInUp {
-	animation: fadeInUp 0.4s;
-}
-
-@keyframes fadeInUp {
-  0% {
-    opacity: 0;
-    transform: translateY(30px);
-  }
-
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
