@@ -124,13 +124,13 @@ p#siteByline {
 }
 
 .fadeInDown {
-	animation: fadeInDown 0.4s;
+	animation: fadeInDown 0.5s;
 }
 
 @keyframes fadeInDown {
 	0% {
 		opacity: 0;
-		transform: translateY(-30px);
+		transform: translateY(-50px);
 	}
 
 	100% {
@@ -152,6 +152,10 @@ body.homepage section:first-of-type article:first-of-type div:nth-of-type(2) {
 	display: initial;
 }
 
+.fadeIn {
+	opacity: 0;
+}
+
 /* Main
 ======================================== */
 
@@ -165,13 +169,13 @@ body.homepage main {
 }
 
 .fadeInUp {
-	animation: fadeInUp 0.4s;
+	animation: fadeInUp 0.5s;
 }
 
 @keyframes fadeInUp {
 	0% {
 		opacity: 0;
-		transform: translateY(30px);
+		transform: translateY(50px);
 	}
 
 	100% {
@@ -776,8 +780,4 @@ p#copyright {
 		margin: 0.25em;
 	}
 
-}
-
-.fadeIn {
-	opacity: 0;
 }
