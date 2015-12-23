@@ -70,8 +70,6 @@ So, for completeness, this is what my `Header` in the `Code Injection` field loo
 
 And there you have it! Bigfoot away!
 
-<div class="check"><p>✔︎</p></div>
-
 [^1]: Oh, authors can inline textual "asides" without consciously distracting from the whole of the piece? Nice.
 [^2]: No doubt they are. 
 [^3]: There is such a [metric][a].

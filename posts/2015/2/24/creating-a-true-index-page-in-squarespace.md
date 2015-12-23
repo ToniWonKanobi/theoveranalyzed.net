@@ -116,8 +116,6 @@ Here is the content of the `Code block` I used to make the Index:[^5]
 	<figcaption>Finished.</figcaption>
 </figure>
 
-<div class="check"><p>✔︎</p></div>
-
 [^1]: You can also hack one if you are a part of the Developer Platform.
 [^2]: Funnily enough, Sid has an entire page dedicated to Squarespace hacks. (I'm not alone in this universe.)
 [^3]: Is [CamelCase][a] appropriate here?

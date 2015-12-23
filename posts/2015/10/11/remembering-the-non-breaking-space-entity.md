@@ -63,8 +63,6 @@ In it, [Gandalf says to Frodo][13]:
 
 HTML is my "hobbits"---just when I think I have a handle on it, something like a non-breaking space character pops up and surprises me. Shows what I know.
 
-<div class="check"><p>✔︎</p></div>
-
 [^1]: Here's how I handled mobile styles previously:
 	<p>I defined an <code>@media</code> query to target all screen widths up to 736px, which is the longest dimension of an iPhone (it's the length of an iPhone 6 Plus display @3x asset sizes)</p>
 	<p>I then set <code>.content</code> to <code>width: 300px;</code>, which was a good compromise between too much whitespace on iPhone 6 Plus, and not enough on iPhone 6. (When I did the big redesign back in June, I had a Plus and Allison had a 6, so I could test against both of those devices easily). iPads behaved like the desktop site, more or less (portrait was always a headache for some reason).</p>

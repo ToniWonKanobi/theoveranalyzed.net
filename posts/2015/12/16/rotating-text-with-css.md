@@ -51,8 +51,6 @@ Easy. [CSS3][4]!
 	
 	<mark class="green">I know who I'm voting for <span style="display: inline-block; transform: rotate(-180deg);">🇺🇸</span></mark>
 
-<div class="check"><p>✔︎</p></div>
-
 [^1]: I did this because it's not worth adding a custom class to my [main stylesheet][a] just for this one random style change.
 [^2]: Technically, I should have used the `-webkit` prefix ala `-webkit-transform`, but I'm lazy, and I'm pretty sure the `transform` property has been adopted by most every browser that matters. So why add additional prefix cruft when it's more or less unnecessary?
 
