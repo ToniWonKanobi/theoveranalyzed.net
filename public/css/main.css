@@ -152,8 +152,12 @@ body.homepage section:first-of-type article:first-of-type div:nth-of-type(2) {
 	display: initial;
 }
 
-.fadeIn {
+.hideMe {
 	opacity: 0;
+}
+
+.showMe {
+	opacity: 1;
 }
 
 /* Main
