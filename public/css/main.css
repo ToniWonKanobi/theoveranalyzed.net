@@ -1,8 +1,10 @@
 /* Basics
 ======================================== */
 
-/* Practical Typography:
-http://practicaltypography.com/point-size.html */
+html {
+	background: #fff;
+}
+
 body {
 	background-color: rgba(63, 112, 162, 0.25);
 	color: #555;
@@ -721,7 +723,7 @@ p#copyright {
 
 }
 
-/* Really Small Displays */
+/* Small Displays */
 @media (max-width: 320px) {
 
 	body {
