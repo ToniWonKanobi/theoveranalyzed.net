@@ -25,10 +25,8 @@ His final quip is the best:
 
 And here's my situation:
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/Prby+" alt="Still Processing" title="Still Processing">
-	<figcaption>Yep, still June. Sigh.</figcaption>
-</figure>
+![Yep, still June. Sigh.](http://d.pr/i/Prby+ "Still Processing")
+<!-- {.screenshot} -->
 
 (hat tip [Mike Rundle][2])
 

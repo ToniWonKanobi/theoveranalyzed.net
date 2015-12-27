@@ -4,10 +4,7 @@ Description: The comparison is so overused that it might as well be a cliche at 
 Tags: Twitter  
 Image: http://d.pr/1jmLu+  
 
-<figure>
-	<img src="http://d.pr/i/15Oep+" alt="Jack Dorsey" title="Jack Dorsey">
-	<figcaption>Jack Dorsey: Twitter's savior?</figcaption>
-</figure>
+![Jack Dorsey: Twitter's savior?](http://d.pr/i/15Oep+ "Jack Dorsey")
 
 In the earliest draft of this post, I started out with the sentence "Twitter is hard to explain to non-nerds."
 

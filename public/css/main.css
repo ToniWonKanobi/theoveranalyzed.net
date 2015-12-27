@@ -6,7 +6,7 @@ html {
 }
 
 body {
-	background-color: rgba(63, 112, 162, 0.25);
+	background-color: rgba(63, 112, 162, 0.3);
 	color: #555;
 	font-size: 15pt;
 	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', -apple-system, sans-serif;
@@ -148,8 +148,6 @@ p#siteByline {
 
 main {
 	background: #fff;
-	border-right: 0.1em solid #ccc;
-	border-left: 0.1em solid #ccc;
 	margin: auto;
 	max-width: 800px;
 	padding: 1.5em 2em 4em 2em;
@@ -200,7 +198,6 @@ body.homepage section:first-of-type article:first-of-type div:nth-of-type(2) {
 
 article {
 	background: #fff;
-	border: 0.1em solid #ccc;
 	border-radius: 0.4em;
 	margin: auto auto 1.5em auto;
 	padding: 1.5em;
@@ -566,15 +563,12 @@ a.footnote-backref {
 
 section#pagination {
 	background: #fff;
-	border: 0.1em solid #ccc;
 	border-radius: 0.4em;
 	font-size: 1.1em;
 	font-weight: 400;
 	height: 1.75em;
 	margin: 1.5em auto 1.5em auto;
-	max-width: 700px;
 	padding: 1.25em 0.5em 1em 0.5em;
-	width: 80%;
 }
 
 section#pagination > h2 {
@@ -607,29 +601,31 @@ footer {
 }
 
 div#bottomAd {
-	border-top: 0.1em solid #ccc;
+	background-color: #999;
+	margin: auto;
+	padding: 0.1em;
 }
 
 div#bottomAd > h2 {
 	display: none;
 }
 
-div#bottomAd figure {
-	width: 200px;
-}
-
 div#bottomAd figure img {
+	background: #fff;
+	border-radius: 0.4em;
+	margin: auto;
+	padding: 1em 0.5em 1em 0.5em;
 	width: 125px;
 }
 
 div#bottomAd figure figcaption {
+	color: #ddd;
 	font-size: 0.75em;
-	margin: 0 auto;
+	margin: 1em auto;
 	text-align: center;
 }
 
 nav {
-	border-top: 0.1em solid #ccc;
 	padding: 1.5em 0 1.5em 0;
 }
 
@@ -692,7 +688,7 @@ p#copyright {
 /* @media Queries
 ======================================== */
 
-/* Medium Displays */
+/* Mobile Displays */
 @media (max-width: 736px) {
 
 	body {

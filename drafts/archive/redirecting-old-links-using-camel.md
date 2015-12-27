@@ -8,8 +8,6 @@
 
 <h2>Contents</h2>
 
-[[TOC]]
-
 # Finding The Old Link Targets
 
 Before I could go about redirecting the old links to their new locations within Camel, I had to determine what those old links were. 

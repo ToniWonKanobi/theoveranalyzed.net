@@ -13,7 +13,7 @@ The Shutterstock blog:
 
 Here's the infographic:
 
-<p><img class="wide" src="http://d.pr/i/1fxha+" alt="Pop Chart Lab is awesome" title="Pop Chart Lab is awesome"></p>
+![Pop Chart Lab is awesome](http://d.pr/i/1fxha+ "Pop Chart Lab is awesome")
 
 (From [/Film][2])
 

@@ -4,7 +4,8 @@ Description: Sounds crazy right? Who would wear *two* watches, just to experienc
 Tags: Watches, Apple Watch  
 Image: http://d.pr/i/uan2+  
 
-<p><img class="screenshot" src="http://d.pr/i/uan2+" alt="Benjamin Clymer's piece on The Verge" title="Benjamin Clymer's piece on The Verge"></p>
+![Benjamin Clymer's piece on The Verge](http://d.pr/i/uan2+ "Benjamin Clymer's piece on The Verge")
+<!-- {.screenshot} -->
 
 Benjamin Clymer, founder of [HODINKEE][1], for [The Verge][2]:
 

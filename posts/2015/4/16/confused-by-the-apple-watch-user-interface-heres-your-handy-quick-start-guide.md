@@ -7,10 +7,8 @@ Image: http://d.pr/i/Uu8M+
 
 Ben Lovejoy, writing for 9to5Mac, recently featured a nifty infographic detailing the UI/UX navigation/hierarchy of Apple Watch:
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/Uu8M+" alt="Apple Watch UI" title="Apple Watch UI">
-	<figcaption>Apple Watch UI seems overly complicated, but what do I know?</figcaption>
-</figure>
+![Apple Watch UI seems overly complicated, but what do I know?](http://d.pr/i/Uu8M+ "Apple Watch UI")
+<!-- {.screenshot} -->
 
 Last week, I spent a few minutes in the Apple Store [trying on the various Apple Watches][1]. 
 

@@ -4,7 +4,7 @@ Description: I've been busy tweaking the site over the past few weeks. Here are 
 Tags: Cotton Bureau  
 Image: https://cottonbureau.com/img/tee-pattern.png  
 
-<figure class="wide">
+<figure>
 	<a class="nohover" href="https://cottonbureau.com/products/tweetbot" title="'Tweetbot' on Cotton Bureau">
 		<img class="inlineFour" src="https://cottonbureau.com/img/products/7801_Nz5C_1600.jpg" alt="'Tweetbot' on Cotton Bureau">
 	</a>

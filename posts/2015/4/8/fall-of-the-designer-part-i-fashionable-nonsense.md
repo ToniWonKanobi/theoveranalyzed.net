@@ -23,10 +23,8 @@ I'm no designer. And, admittedly, on [June 10, 2013][4], no one was happier than
 
 But you don't have to be a design genius to agree with Schiff. To the completely design-uninitiated folks like yours truly iOS 7/8 looks and feels confusing, unless you know what you're doing. For the designers amongst us, iOS 7/8 really does appear like a UI paradox.
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/1jQtU+" alt="Eli Schiff on crappy iOS icons" title="Eli Schiff on crappy iOS icons">
-	<figcaption>Schiff: "Above are icons from iOS prior to their modern minimalist flattening. Below are their iOS 7 counterparts. The icons above reflect well whether they belong to Apple or Facebook. The icons below do no such thing."</figcaption>
-</figure>
+![Schiff: "Above are icons from iOS prior to their modern minimalist flattening. Below are their iOS 7 counterparts. The icons above reflect well whether they belong to Apple or Facebook. The icons below do no such thing."](http://d.pr/i/1jQtU+ "Eli Schiff on crappy iOS icons")
+<!-- {.screenshot} -->
 
 Taking things away just for the sake of minimalism doesn't serve anyone, except maybe [white room Jony][5]. Do away with the goofy skeuomorphs, fine. But replacing them with generic UI 'design' doesn't help anyone. Is this really the design impression Jony Ive wants to leave behind?
 

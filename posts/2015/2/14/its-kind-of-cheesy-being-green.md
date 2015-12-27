@@ -5,7 +5,8 @@ Description: We hate green bubbles, apparently.
 Tags: Culture, Apple  
 Image: https://cdn-images-1.medium.com/max/800/1*N4gZHcB8YLDSY5aM-ECbag.png  
 
-<p><img class="screenshot iphone" src="https://cdn-images-1.medium.com/max/800/1*N4gZHcB8YLDSY5aM-ECbag.png" alt="Oh, green bubbles" title="Oh, green bubbles"></p>
+![Oh, green bubbles](https://cdn-images-1.medium.com/max/800/1*N4gZHcB8YLDSY5aM-ECbag.png "Oh, green bubbles")
+<!-- {.screenshot .iphone} -->
 
 Paul Ford on Medium:
 

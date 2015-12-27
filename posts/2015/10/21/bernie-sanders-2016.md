@@ -7,10 +7,8 @@ Image: http://d.pr/i/GdiG+
 
 <p><em class="topStory">You thought this was going to be a post about politics, didn't you?</em></p>
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/GdiG+" alt="Bernie Sanders website" title="Bernie Sanders website">
-	<figcaption><a href="http://fontsinuse.com/contributors/6317/naomie">Naomie Ross</a>: "On the website, Jubilat is used as the headline typeface, while Freight Sans is used for supporting text."</figcaption>
-</figure>
+![Naomie Ross: "On the website, Jubilat is used as the headline typeface, while Freight Sans is used for supporting text."](http://d.pr/i/GdiG+ "Bernie Sanders website")
+<!-- {.screenshot} -->
 
 Bernie Sanders is about as [polarizing of a political figure][1] as any of the other [current][2] [front-runners][3] for [POTUS][4] [2016][5].
 

@@ -4,10 +4,8 @@ Description: Tired of Monaco or Menlo fonts for your monospace code blocks? Hack
 Tags: Typography, Apps, Web Design  
 Image: http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png  
 
-<figure>
-	<img src="http://macrabbit.com/espresso/images/screenshots-2.0/Main-SourceEditor.jpg" alt="Espresso Text Editor for OS X" title="Espresso Text Editor for OS X">
-	<figcaption><a href="http://macrabbit.com/espresso/" title="Link to the developers of Espresso">Espresso</a> has a permanent place on my Dock because it's awesome.</figcaption>
-</figure>
+![Espresso has a permanent place on my Dock because it's awesome.](http://macrabbit.com/espresso/images/screenshots-2.0/Main-SourceEditor.jpg "Espresso Text Editor for OS X")
+<!-- {.screenshot} -->
 
 ### Espresso, the "Web Editor" for Mac
 
@@ -17,17 +15,12 @@ In a lot of ways, Espresso is very much of the pre-2007 Apple era of OS X applic
 
 Editing in Espresso is nice due to their language highlighting. It makes reviewing code much easier:
 
-<figure>
-	<img src="http://d.pr/i/1jmu3+" alt="Espresso Colors" title="Espresso Colors">
-	<figcaption>This would be more laborious without all the pretty colors</figcaption>
-</figure>
+![This would be more laborious without all the pretty colors](http://d.pr/i/1jmu3+ "Espresso Colors")
 
 And what is especially nice about Espresso is their default custom font, Espresso Mono. That font features well thought-out character choices. For instance, in most monospace fonts, the capital "O" character is easily mistaken for the number "0". Espresso Mono has this taken care of:
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/1fh8y+" alt="0 vs O in Espresso Mono" title="0 vs O in Espresso Mono" style="max-width: 50%">
-	<figcaption>Espresso Mono: the number <code>0</code> versus the letter <code>O</code></figcaption>
-</figure>
+![Espresso Mono: the number "0" versus the letter "O"](http://d.pr/i/1fh8y+ "'0' vs 'O' in Espresso Mono")
+<!-- {.screenshot style="max-width: 50%;"} -->
 
 ### In the Spirit of Espresso Mono Comes Hack
 
@@ -35,10 +28,8 @@ Why am I writing about an infrequently-updated "web-editor?" Because of its afor
 
 Yesterday, Nathan Mattise of Ars Technica [linked][23] to a new [open-sourced][24] monospace font named [Hack][25].
 
-<figure>
-	<img src="http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png" alt="Hack typeface" title="Hack typeface">
-	<figcaption>An alternative to <code>font-family: Monaco</code>: Hack</figcaption>
-</figure>
+![An alternative to Monaco: Hack](http://cdn.arstechnica.net/wp-content/uploads/2015/08/Screen-Shot-2015-08-29-at-5.06.40-PM.png "Hack typeface")
+<!-- {.screenshot} -->
 
 Here's what Mattise had to say about Hack:
 
@@ -51,24 +42,15 @@ Hack is characterized by a large x-height, wide aperture, and low contrast desig
 
 After visiting the GitHub page, I immediately found the CDN[^2] link and added that to my website's `<head>` section:
 
-<figure>
-	<img src="http://d.pr/i/sINJ+" alt="Adding the Hack stylesheet to `header.html`" title="Adding the Hack stylesheet to `header.html`">
-	<figcaption>CDN source? Nice.</figcaption>
-</figure>
+![CDN source? Nice.](http://d.pr/i/sINJ+ "Adding the Hack stylesheet to `header.html`")
 
 I also called for Hack via `font-family` for `<pre>` and `<code>`:
 
-<figure>
-	<img src="http://d.pr/i/176dB+" alt="Calling for Hack in my `main.css` stylesheet" title="Calling for Hack in my `main.css` stylesheet">
-	<figcaption>Changing the <code>font-family</code> preference</figcaption>
-</figure>
+![Changing the font-family preference](http://d.pr/i/176dB+ "Calling for Hack in my `main.css` stylesheet")
 
 Voilà:
 
-<figure>
-	<img src="http://d.pr/i/12y9F+" alt="Hack installed on TheOverAnalyzed" title="Hack installed on TheOverAnalyzed">
-	<figcaption>Boom.</figcaption>
-</figure>
+![Hack installed on TheOverAnalyzed](http://d.pr/i/12y9F+ "Hack installed on TheOverAnalyzed")
 
 [^1]: Looking in your direction, `.redirect`
 [^2]: You don't have to use a CDN---you could also deploy the font from you own [webserver][a], if you're into that sort of thing.
@@ -95,7 +77,7 @@ Voilà:
 [18]: https://itunes.apple.com/us/app/byword/id420212497?at=1l3vx9s "Byword on the Mac App Store"
 [19]: https://en.wikipedia.org/wiki/TextEdit "Wikipedia: TextEdit"
 [20]: /2015/6/17/leaving-squarespace-part-I-getting-started-with-camel "My piece on leaving Squarespace for Camel"
-[21]: http://www.typography.com/ "Hofeler & Co. typefaces"
+[21]: http://www.typography.com/ "Hoefler & Co. typefaces"
 [22]: http://www.fontbureau.com "Font Bureau"
 [23]: http://arstechnica.com/information-technology/2015/08/open-source-typeface-hack-brings-design-to-source-code/ "Ars piece on Hack"
 [24]: https://github.com/chrissimpkins/Hack#about "About Hack typeface"

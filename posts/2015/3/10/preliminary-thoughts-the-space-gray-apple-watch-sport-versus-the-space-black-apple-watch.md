@@ -18,10 +18,8 @@ It's the second question I have more trouble with.
 
 #### Watch or Watch Sport?
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/1jzlL+" alt="Apple Watch Space Black" title="Apple Watch Space Black">
-	<figcaption>For the longest time, it was going to be this.</figcaption>
-</figure>
+![For the longest time, it was going to be this.](http://d.pr/i/1jzlL+ "Apple Watch Space Black")
+<!-- {.screenshot} -->
 
 #### Apple Watch
 
@@ -31,10 +29,8 @@ The black models of anything have always been the best choice.[^3] And it's not 
 
 As an aside, I don't remember Apple Watch in Space Black Stainless being so dang dark last September. I actually like it even more now that it's darker.[^5] Interestingly, Apple has set the Space Black version of Apple Watch  collection apart from the rest of the Apple Watch collection. In order to obtain that luscious fingerprint magnet of a case, you *have* to buy the link bracelet. And, not so interestingly, the link bracelet carries a rather hefty price bump from the fluoroelastomer of $600. Is it worth it?
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/161KY+" alt="Apple Watch Sport" title="Apple Watch Sport">
-	<figcaption>This looks really nice too, though.</figcaption>
-</figure>
+![This looks really nice too, though.](http://d.pr/i/161KY+ "Apple Watch Sport")
+<!-- {.screenshot) -->
 
 #### Apple Watch Sport
 
@@ -48,10 +44,8 @@ Another benefit to choosing Apple Watch Sport is that the fluoroelastomer band[^
 
 I'll leave you with this, a conversation with a friend who knows me all too well. We were talking about which case size to get, but really, I could apply his advise to almost every Apple hardware decision I have ever made:
 
-<figure>
-	<img class="screenshot iphone" src="http://d.pr/i/13VbL+" alt="Conversation with John" title="Conversation with John">
-	<figcaption>Touche.</figcaption>
-</figure>
+![Touche.](http://d.pr/i/13VbL+ "Conversation with John")
+<!-- {.screenshot .iphone} -->
 
 <aside class="update">
 
@@ -62,10 +56,8 @@ Casey Liss [linked][8] to this [post][9] by fitness company Exact Fitness, in wh
 
 I used something similar last September when there were [suddenly][10] *two* iPhone sizes to choose from.
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/10oi3+" alt="Mockups" title="Mockups" style="width: 80%;">
-	<figcaption>Mockups</figcaption>
-</figure>
+![Mockups](http://d.pr/i/10oi3+ "Mockups")
+<!-- {.screenshot style="width: 80%;"} -->
 
 </aside>
 

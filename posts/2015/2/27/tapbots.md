@@ -16,10 +16,10 @@ Back in 2012, [Twitter had only recently started to crack down on third-party cl
 
 Ecstatic with the concept of apps (this was my first iPhone), I downloaded both and tried both. Unlike a lot of iPhone owners on Twitter, I was never forced to use the official Twitter client, on iOS *or* Mac OS X.[^3]
 
-<figure>
-	<img class="screenshot iphone" src="http://d.pr/i/gML7+" alt="I even used both Twitterrific and Tweetbot at the same time" title="I even used both Twitterrific and Tweetbot at the same time">
-	<figcaption>I even used both Twitterrific and Tweetbot at the same time. <a href="http://tweetmarker.net" title="Tweet Marker">Tweet Marker</a> made Timeline syncing easy, and I wasn't too bothered with the lack of DM / @mention syncing between clients, since I wasn't getting many of those at the time anyways.</figcaption>
-</figure>
+![I even used both Twitterrific and Tweetbot at the same time](http://d.pr/i/gML7+ "I even used both Twitterrific and Tweetbot at the same time")
+<!-- {.screenshot .iphone} -->
+	
+I even used both Twitterrific and Tweetbot at the same time. [Tweet Marker](http://tweetmarker.net" title="Tweet Marker") made Timeline syncing easy, and I wasn't too bothered with the lack of DM / @mention syncing between clients, since I wasn't getting many of those at the time anyways.
 
 While Tweetbot 2's visual esthetic was, in 2012, much heavier and less 'flat'[^4] than Twitterrific's at the time, I loved the look. Combined with my preference for the Tweetbot esthetic, the power user features also made Tweetbot more compelling for me than Twitterrific.
 

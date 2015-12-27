@@ -94,17 +94,17 @@ Over the past three decades, Hoefler & Co ([prev. Hoefler & Frere-Jones][17]) ha
 Here are some of my favorites:[^5]
 
 <figure>
-	<img class="wide" src="http://www.typography.com/images/overviewPageImages/archer-A-07.png" alt="Archer" title="Archer">	
+	<img src="http://www.typography.com/images/overviewPageImages/archer-A-07.png" alt="Archer" title="Archer">	
 	<figcaption><a href="http://www.typography.com/fonts/archer/overview/" title="Archer webfont">Archer</a> is a slab-serif, featured in the poster for <a href="http://fontsinuse.com/uses/7035/the-grand-budapest-hotel-poster-and-props" title="Fonts In Use: The Grand Budapest Hotel">The Grand Budapest Hotel (2014)</a>, as well as in the <a href="https://en.wikipedia.org/wiki/Martha_Stewart_Living" title="Wikipedia: Martha Stewart Living">Martha Stewart Living</a> magazine.</figcaption>
 </figure>
 
 <figure>
-	<img class="wide" src="http://www.typography.com/images/overviewPageImages/gotham_cell_02.png" alt="Gotham" title="Gotham">
+	<img src="http://www.typography.com/images/overviewPageImages/gotham_cell_02.png" alt="Gotham" title="Gotham">
 	<figcaption><a href="http://www.typography.com/fonts/gotham/overview/" title="Gotham webfont">Gotham</a> is probably Hoefler & Frere-Jones's most well-known font. What started as GQ commission became an 'everywhere' font. Notably, Gotham was featured in <a href="https://en.wikipedia.org/wiki/Gotham_(typeface)#In_the_Obama_campaign" title="Wikipedia: Gotham in Obama's campaign">Obama's</a> <a href="http://fontsinuse.com/uses/1603/obama-2008-campaign-posters" title="Fonts In Use: Gotham in Obama's campaigns">2008 and 2012 presidential campaigns</a>.</figcaption>
 </figure>
 
 <figure>
-	<img class="wide" src="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png" alt="Whitney" title="Whitney">
+	<img src="http://www.typography.com/images/overviewPageImages/whitney_cell_02.png" alt="Whitney" title="Whitney">
 	<figcaption><a href="http://www.typography.com/fonts/whitney/overview/" title="Whitney webfont">Whitney</a> was the runner-up font for TheOverAnalyzed. If it weren't for all the <a href="/2015/7/15/ditching-webfonts#becoming-ideal" title="My piece on Ditching Webfonts, specifically the section about going back to Ideal Sans">personal history</a> associated with Ideal Sans, I probably would have chosen Whitney instead. <a href="http://fontsinuse.com/uses/2384/romney-2012-presidential-campaign" title="Fonts In Use: Whitney in Romney's 2012 presidential campaign">Mitt Romney's 2012 presidential campaign</a> featured this font.</figcaption>
 </figure>
 	

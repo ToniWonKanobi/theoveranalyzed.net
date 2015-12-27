@@ -5,10 +5,8 @@ Description: Capo just get even better.
 Tags: Apps, Bass Guitar  
 Image: http://supermegaultragroovy.com/products/capo/img/neptune_device@2x.png  
 
-<figure>
-	<img class="screenshot iphone" src="http://supermegaultragroovy.com/products/capo/img/neptune_display@2x.gif" alt="Capo and Neptune">
-	<figcaption>This visualization is cool</figcaption>
-</figure>
+![This visualization is cool](http://supermegaultragroovy.com/products/capo/img/neptune_display@2x.gif "Capo and Neptune")
+<!-- {.screenshot .iphone} -->
 
 From the Capo website:
 

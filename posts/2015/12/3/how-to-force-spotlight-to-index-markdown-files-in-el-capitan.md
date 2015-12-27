@@ -16,7 +16,8 @@ Several clean restores and countless [Spotlight re-indexes][11] later, the issue
 
 It was maddening.
 
-<p><img class="screenshot" src="http://d.pr/i/16UH6+" alt="I hate you Spotlight" title="I hate you Spotlight"></p>
+![I hate you Spotlight.](http://d.pr/i/16UH6+ "I hate you Spotlight")
+<!-- {.screenshot} -->
 
 Then this morning I had a breakthrough.
 
@@ -40,7 +41,8 @@ Here's how I fixed it:
 
 2. Move `Markdown.mdimporter` to `/Library/Spotlight`
 
-	<p><img class="screenshot" src="http://d.pr/i/14Yuo+" alt="Put the mdimporter here" title="Put the mdimporter here"></p>
+	![Put the mdimporter here](http://d.pr/i/14Yuo+ "Put the mdimporter here")
+	<!-- {.screenshot} -->
 	
 	**This is important:** Don't move it to the "user" directory as Lipschitz suggests (`~/Library/Spotlight`)---put it in the System's Library folder as I've detailed above
 	
@@ -52,9 +54,10 @@ Here's how I fixed it:
 	
 4. You *could* wait for Spotlight to fix itself. However, for impatient types (myself included), go ahead and [force Spotlight to reindex][14]:[^1]	
 
-Ahh.
+And done.
 
-<p><img class="screenshot" src="http://d.pr/i/19g9D+" alt="Ahh" title="Ahh"></p>
+![Ahh.](http://d.pr/i/19g9D+ "Ahh")
+<!-- {.screenshot} -->
 
 ***
 

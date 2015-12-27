@@ -200,10 +200,7 @@ set theresult to change_case(theresult)
 
 And here's a screenshot of the workflow (it's actually a Service):
 
-<figure>
-	<img src="http://d.pr/i/107X5+" alt="Finished workflow" title="Finished workflow">
-	<figcaption><code>Make URL Slug.workflow</code></figcaption>
-</figure>
+![Make URL Slug.workflow](http://d.pr/i/107X5+ "Finished workflow")
 
 ### Explanation
 
@@ -211,10 +208,7 @@ Essentially, what `Make URL Slug.workflow` does is take selected text and automa
 
 I also assigned a keyboard shortcut to the service, so that I don't have to invoke the 'right-click' submenu.
 
-<figure>
-	<img src="http://d.pr/i/1lBKU+" alt="Keyboard shortcut for Make URL Slug.workflow" title="Keyboard shortcut for Make URL Slug.workflow">
-	<figcaption><code>Shift-Option-Command-R</code></figcaption>
-</figure>
+![Shift-Option-Command-R](http://d.pr/i/1lBKU+ "Keyboard shortcut for Make URL Slug.workflow")
 
 This couldn't get any easier.
 

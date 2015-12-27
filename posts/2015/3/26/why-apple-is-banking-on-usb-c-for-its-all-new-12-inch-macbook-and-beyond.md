@@ -32,10 +32,8 @@ I was checking into things this morning, and saw this:
 * 3840x2160 at 30 Hz refresh rate
 * 4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)
 	
-<figure>
-	<img class="screenshot iphone" src="http://d.pr/i/JI2b+" alt="Well, there's your answer" title="Well, there's your answer">
-	<figcaption>Well, there's your answer.</figcaption>
-</figure>
+![Well, there's your answer.](http://d.pr/i/JI2b+ "Well, there's your answer")
+<!-- {.screenshot. .iphone} -->
 
 I'm not sure when that info was added, but the page was last updated yesterday.
 

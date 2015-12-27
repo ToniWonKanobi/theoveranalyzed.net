@@ -60,6 +60,7 @@
     "handlebars": ">=2.0.0",
     "markdown-it": ">=4.2.2",
     "markdown-it-anchor": ">=2.1.0",
+    "markdown-it-decorate": "^1.2.0",
     "markdown-it-footnote-conventional": "^2.0.0",
     "markdown-it-highlightjs": "^2.0.0",
     "markdown-it-implicit-figures": "^0.2.3",

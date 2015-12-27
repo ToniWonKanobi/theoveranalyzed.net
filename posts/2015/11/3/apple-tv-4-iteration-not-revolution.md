@@ -18,12 +18,7 @@ The [1st generation][4] Apple TV was essentially a pared-down Mac. In it's silve
 
 For the [following two generations][5], Apple TV dropped it's OS X underpinnings and adopted iOS for its operating system.[^1] It no longer required a computer running iTunes, and it could finally purchase/stream content from the iTunes Store directly. And that brings us to today.
 
-<figure>
-	<a class="nohover" href="https://www.apple.com/v/tv/c/images/experience/hero_large.jpg" title="No one watches TV like this">
-		<img class="wide lazy" src="https://www.apple.com/v/tv/c/images/experience/hero_large.jpg" alt="No one watches TV like this">
-	</a>
-	<figcaption>Source: Apple</figcaption>
-</figure>
+![No one watches TV like this](https://www.apple.com/v/tv/c/images/experience/hero_large.jpg "No one watches TV like this")
 
 ### The Hope for Better TV
 
@@ -67,12 +62,7 @@ And if you've been following Apple for any reasonable amount of time, this is no
 
 Iteration, not revolution.
 
-<figure>
-	<a class="nohover" href="http://d.pr/i/19jXS+" title="Apple TV remotes">
-		<img class="wide lazy" src="http://d.pr/i/19jXS+" alt="Apple TV remotes">
-	</a>
-	<figcaption>Side by side: the old remote vs Siri Remote</figcaption>
-</figure>
+![Side by side: the old remote vs Siri Remote](http://d.pr/i/19jXS+ "Apple TV remotes")
 
 ### The Hardware
 
@@ -82,10 +72,7 @@ The new box looks almost exactly like the old one, except it's about twice as ta
 
 The biggest visual change for Apple TV hardware is the new Siri Remote. It's basically the same size as the last one, except it's 30% deeper compared to the previous two generations' remotes. I was concerned that the trackpad would feel awkward. I was also concerned that the button layout was unintuitive.
 
-<figure>
-	<img class="wide lazy" src="http://d.pr/i/1eUes+" alt="Apple TV remotes, again" title="Apple TV remotes, again">
-	<figcaption>Siri Remote (Left) vs. 2nd and 3rd Generation Apple TV remote (Right)</figcaption>
-</figure>
+![Siri Remote (Left) vs. 2nd and 3rd Generation Apple TV remote (Right)](http://d.pr/i/1eUes+ "Apple TV remotes, again")
 
 Firstly, the trackpad felt great. No one can deny that Apple does the best trackpads. The glass that adorns the Siri Remote is just as easy and fun to interact with as the rest of Apple's trackpads. And while I can't speak authoritatively on the intuitiveness of the button layout (I've only spent about an hour with the device), so far, it seems fine.Likely the best feature of the new Siri Remote is television integration. [John Siracusa had me worried][15] that my TV wouldn't automatically respond to Siri Remote's commands. But, lo and behold: It Just Works&trade;. The volume up down, as well as the TV "on/off" button---both features worked right out of the box. No doubt the engineers on the Apple TV 4 project spent *countless* hours testing and debugging this feature.[^4]
 
@@ -121,12 +108,8 @@ The next step was to choose what apps to install. That experience is what you'd 
 
 So far, so good.
 
-<figure>
-	<a class="nohover" href="https://www.apple.com/v/tv/c/images/experience/gesture_scrub_large.png" title="Swiping on the Touch surface is pretty intuitive if you've used an Apple laptop before">
-		<img src="https://www.apple.com/v/tv/c/images/experience/gesture_scrub_large.png" alt="Swiping on the Touch surface is pretty intuitive if you've used an Apple laptop before" style="margin: auto; max-width: 50%;">
-		</a>
-		<figcaption>Source: Apple</figcaption>
-</figure>
+![Source: Apple](https://www.apple.com/v/tv/c/images/experience/gesture_scrub_large.png "Swiping on the Touch surface is pretty intuitive if you've used an Apple laptop before")
+<!-- {style="margin: auto; max-width: 50%;"} -->
 
 It was the next step that took what seemed like eons: authenticating the Netflix, YouTube, and Home Sharing apps. The on-screen keyboard for tvOS sucks, plain and simple. Navigating that a-z lineup of letters is horrendous, even with the neat new remote. And what's more frustrating is that Apple hasn't ([won't?][20]) update the [Remote app][21] to work with Apple TV 4. So, no using my iOS device's easier-to-use on-screen keyboard to type in[^7] those horrendously-long passwords for Netflix and YouTube (Google). I spent *at least* ten minutes alone trying to get my Netflix password to work. It's around 30 characters long, with a mixture of uppercase, lowercase, symbols, and numbers (like the good paranoid nerd that I am). Inputting complex passwords via on-screen keyboard is a terrible experience.
 
@@ -158,12 +141,7 @@ The sounds have been thoroughly redone, as well. I liked the old ones quite a bi
 
 Tap the menu button on the Siri Remote to go back one level. Gone is the sharp thud from before. It's more of a subtle dong. "Thud." "Dong." I know these terms are incredibly subjective, and may not adequately capture the new sounds. But trust me: they're great.
 
-<figure>
-	<a class="nohover" href="https://www.apple.com/v/tv/c/images/experience/interface_screensaver_large.jpg" title="Screensavers on tvOS are pretty awesome">
-		<img class="wide lazy" src="https://www.apple.com/v/tv/c/images/experience/interface_screensaver_large.jpg" alt="Screensavers on tvOS are pretty awesome">
-	</a>
-	<figcaption>Source: Apple</figcaption>
-</figure>
+![Source: Apple](https://www.apple.com/v/tv/c/images/experience/interface_screensaver_large.jpg "Screensavers on tvOS are pretty awesome")
 
 ##### Screensavers
 
@@ -215,10 +193,7 @@ The most recent of which is [Alto's Adventure][28]. Part endless runner, and par
 
 I bought the app and played for about ten minutes this evening.
 
-<figure>
-	<img class="wide lazy" src="http://d.pr/i/1gr1K+" alt="Alto's Adventure on tvOS" title="Alto's Adventure on tvOS">
-	<figcaption>Alto's Adventure is just as fun on tvOS as it is on iOS</figcaption>
-</figure>
+![Alto's Adventure is just as fun on tvOS as it is on iOS](http://d.pr/i/1gr1K+ "Alto's Adventure on tvOS")
 	
 Unlike the iOS version of the app, the tvOS version only has *one* primary input method: the "Touch surface."
 
@@ -234,10 +209,7 @@ Here's Ben Thompson of Stratechery, adding some perspective on [Apple TV gaming 
 >
 > That said, the ultimate battle is not for AAA-games but for attention, and the reality is that every single minute spent on a casual game on Apple TV (or an iPhone, for that matter) is a minute that is unavailable to consoles. Moreover, the existence of any games at all makes the selling proposition of consoles that much harder: they not only need to appeal to people who like to play games, they need to be demonstrably better than what people already have, or in the case of Apple TV, what they can buy for $150. Small wonder console publishers are looking elsewhere for growth.
 
-<figure>
-	<img  class="wide" src="http://d.pr/i/1cHdB+" alt="Siri Remote" title="Siri Remote">
-	<figcaption>I'll be using this a lot more than the old one.</figcaption>
-</figure>
+![I'll be using this a lot more than the old one.](http://d.pr/i/1cHdB+ "Siri Remote")
 
 ### Final Thoughts
 

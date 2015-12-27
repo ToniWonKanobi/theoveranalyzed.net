@@ -5,7 +5,7 @@ Description: A lot of thought went into Apple's Spotlight icons in iOS 8, among 
 Tags: UI Design, Apple  
 Image: http://d.pr/i/PfxM+  
 
-<p><a href="http://d.pr/i/6nFy+" title="Spotlight Location Icons"><img class="wide" src="http://d.pr/i/IAkP+" alt="Spotlight Location Icons"></a></p>
+![Spotlight Location Icons](http://d.pr/i/6nFy+ "Spotlight Location Icons")
 
 Rusty Mitchell shares a fascinating look at Apple's Spotlight location icons in iOS 8:
 

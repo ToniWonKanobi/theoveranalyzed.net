@@ -5,10 +5,7 @@ Description: When Rose Gold ≠ Rose Gold and Space Gray ≠ Space Gray.
 Tags: Apple   
 Image: https://9to5mac.files.wordpress.com/2015/09/compare.jpg  
 
-<figure>
-	<img src="https://9to5mac.files.wordpress.com/2015/09/compare.jpg" alt="Space Gray ≠ Space Gray." title="Space Gray ≠ Space Gray.">
-	<figcaption>Space Gray: iPhone 5s (Left) & iPhone 6s (Right)</figcaption>
-</figure>
+![Space Gray: iPhone 5s (Left) & iPhone 6s (Right)](https://9to5mac.files.wordpress.com/2015/09/compare.jpg "Space Gray ≠ Space Gray.")
 
 Ben Lovejoy of 9to5Mac:
 
@@ -20,10 +17,8 @@ Ben Lovejoy of 9to5Mac:
 
 Just yesterday my sister texted me regarding this very issue:
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/KBrS+" alt="Rose Gold ≠ Rose Gold" title="Rose Gold ≠ Rose Gold" style="max-width: 50%;">
-	<figcaption>Rose Gold ≠ Rose Gold</figcaption>
-</figure>
+![Rose Gold ≠ Rose Gold](http://d.pr/i/KBrS+ "Rose Gold ≠ Rose Gold")
+<!-- {.screenshot style="max-width: 50%;"} -->
 
 I've never been interested in any of Apple's "Gold"-colored offerings, so the semantics of Rose Gold vs. pink are lost on me. 
 
@@ -33,12 +28,7 @@ I've mentioned it [before][3]: Apple's "Space Gray" color option isn't always th
 
 Here's a picture Rene Ritchie posted to [Instagram][4], showing the discrepancy:
 
-<figure>
-	<a class="nohover" href="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" title="Rene Ritchie's Instagram pic">
-		<img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg" alt="Space Gray">
-	</a>
-	<figcaption>Space Gray ≠ Space Gray</figcaption>
-</figure>
+![Space Gray ≠ Space Gray](https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg "Space Gray")
 
 Lovejoy on Space Gray:
 

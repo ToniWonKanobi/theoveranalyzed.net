@@ -4,10 +4,8 @@ Description: iOS 9 is officially here, and with it a plethora of content blocker
 Tags: Apps  
 Image: http://d.pr/i/1fSZv+  
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/166fs+" alt="Bye bye, Peace." title="Bye bye, Peace.">
-	<figcaption>I'm never on Twitter when stuff like this goes down&mdash;Marco <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good" title="Marco's post on pulling Peace">pulled Peace</a> from the App Store less than 48 hours after is entrance</figcaption>
-</figure>
+![I'm never on Twitter when stuff like this goes down (Marco pulled Peace from the App Store less than 48 hours after is entrance)](http://d.pr/i/166fs+ "I'm never on Twitter when stuff like this goes down (Marco pulled Peace from the App Store less than 48 hours after is entrance)")
+<!-- {.screenshot} -->
 
 If you're at all plugged in to the Apple blogosphere, you will have heard by now that the internet-famous [Instapaper][1] creator, Marco Arment, abruptly pulled his latest effort from the App Store, a content blocker called [Peace][2].
 
@@ -34,10 +32,8 @@ What should we make of all this?
 
 Again, at the time of Peace's removal, it was at the top of the Paid App Store charts. And after Peace was pulled, it was at the forefront of the Apple circles as well. Although that may not be the case for long, rest assured: in short order, another content blocker will take Peace's place.
 
-<figure>
-	<img class ="screenshot" src="http://d.pr/i/1fSZv+" alt="Content blockers aplenty." title="Content blockers aplenty.">
-	<figcaption>iOS 9 content blockers, aplenty.</figcaption>
-</figure>
+![iOS 9 content blockers, aplenty.](http://d.pr/i/1fSZv+ "Content blockers aplenty.")
+<!-- {.screenshot} -->
 
 Despite which side of the content blocking argument you find yourself, it is undeniable that the issue is not a simple matter of black and white.
 

@@ -7,10 +7,8 @@ Image: http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg
 
 I've heard of [Terminology for iOS][1] before, but have never used it myself. This is probably because with [few exceptions][2], all my writing takes place on OS X machines. If I were [Federico Viticci][3], a dictionary app for iOS might make more sense.
 
-<figure>
-	<img class="screenshot" src="http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg" alt="Terminology for OS X" title="Terminology for OS X">
-	<figcaption>Terminology integrates with OS X's three-finger tap (and Force Touch 'hard press').</figcaption>
-</figure>
+![Terminology integrates with OS X's three-finger tap (and Force Touch 'hard press').](http://brettterpstra.com/uploads/2015/06/terminologyosx@2x.jpg "Terminology for OS X")
+<!-- {.screenshot} -->
 
 Yesterday, Greg Pierce of Agile Tortiose released a version of [Terminology for OS X][4], which integrates with the built-in OS X Dictionary.app. Installation was a breeze, and I suspect my dictionary queries will be much more broadly covered than before.
 

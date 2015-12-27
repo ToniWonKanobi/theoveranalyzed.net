@@ -45,10 +45,7 @@ When iPhone [launched in 2007][10] with a version of the venerable Safari web br
 
 Because Gruber picked on iMore, I'll do the same. As seen above---on the [biggest phone-sized display Apple offers][11], mind you---I can barely make out two articles' titles. The rest of the iMore page is obscured with ads. Horrible, ugly, stupid ads. And do you know what powers those ads? [JavaScript][12]. Tons of nasty JavaScript extensions to enable the ads' targeting and tracking algorithms. 
 
-<figure>
-	<img src="http://d.pr/i/1anSZ+" alt="Look at all those scripts" title="Look at all those scripts">
-	<figcaption>I couldn't even fit all of iMore's JavaScript extensions on this screenshot.</figcaption>
-</figure>
+![I couldn't even fit all of iMore's JavaScript extensions on this screenshot.](http://d.pr/i/1anSZ+ "Look at all those scripts")
 
 And not all of those JavaScrips are lightweight. Even if they were, it still takes time for the browser to compile the scripts before rendering the page. On mobile especially, several seconds could be the difference between a reader enjoying *your* article or someone else's.
 
@@ -72,15 +69,10 @@ Websites should be fast. But can I put my money where my mouth is? It's easy to 
 
 Well enough, I think.
 
-<figure>
-	<img src="http://d.pr/i/1cUBo+" alt="Regular page load of TheOverAnalyzed" title="Regular page load of TheOverAnalyzed">
-	<figcaption>A run-of-the-mill page load for TheOverAnalyzed</figcaption>
-</figure>
+![A run-of-the-mill page load for TheOverAnalyzed](http://d.pr/i/1cUBo+ "Regular page load of TheOverAnalyzed")
 
-<figure id="nojs">
-	<img src="http://d.pr/i/1iNdv+" alt="No-JS page load of TheOverAnalyzed" title="No-JS page load of TheOverAnalyzed">
-	<figcaption>A page load for TheOverAnalyzed with JavaScript disabled</figcaption>
-</figure>
+![A page load for TheOverAnalyzed with JavaScript disabled](http://d.pr/i/1iNdv+ "No-JS page load of TheOverAnalyzed")
+<!-- {#nojs} -->
 
 Disabling JavaScript yielded a quarter-second differential in page loading. Images were no different: around a quarter-second faster for the non-image version. 
 

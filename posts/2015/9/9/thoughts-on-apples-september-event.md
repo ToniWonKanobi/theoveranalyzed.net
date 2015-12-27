@@ -6,12 +6,7 @@ Image: http://d.pr/i/fe4O+
 
 <p><em class="topStory">This is not a point-by-point, "Here's *everything* Apple introduced today" recap. For something like that, check out <a href="http://9to5mac.com/" title="9to5Mac">9to5Mac</a>. No doubt more thoughtful recaps are on the way from <a href="http://sixcolors.com/" title="Six Colors">Six Colors</a> or <a href="http://macstories.net" title="MacStories">MacStories</a>, as well.</em></p>
 
-<figure>
-	<a class="nohover" href="http://d.pr/i/fe4O+" title="Hey Siri">
-		<img  class="wide" src="http://d.pr/i/fe4O+" alt="Hey Siri">
-	</a>
-	<figcaption>Lots of neat little things adds up to ...lots of neat little things.</figcaption>
-</figure>
+![Lots of neat little things adds up to ...lots of neat little things.](http://d.pr/i/fe4O+ "Hey Siri")
 
 Somewhat perplexingly, none of my go-to sites have put out their typical "This is what happened today at the Apple event" posts. I won't attempt to do that here. Instead, I wanted to share some quick thoughts on the event as a whole, as well as discuss a few parts of  presentation specifically.
 

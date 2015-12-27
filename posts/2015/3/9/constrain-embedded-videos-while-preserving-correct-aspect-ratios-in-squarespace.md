@@ -34,10 +34,7 @@ Now, because I have set the width of my "main content" to 450px,[^2][^3] I would
 
 The problem with that is that it leads to aspect ratio weirdness like this:
 
-<figure>
-	<img src="http://d.pr/i/10yC5+" alt="Stubby" title="Stubby">
-	<figcaption>Stubby</figcaption>
-</figure>
+![Stubby](http://d.pr/i/10yC5+ "Stubby")
 
 Notice that while the width of the `<iframe>` is correct, the height is completely stubby? Not ideal.
 
@@ -92,33 +89,22 @@ Copier says to "Target your .container, .wrapper, .post, etc." The problem was t
 
 To figure out what container to target using Safari, first make sure you have turned on "Show Develop menu in menu bar" (Chrome users can do something similar).
 
-<figure>
-	<img src="http://d.pr/i/1097d+" alt="Make sure the Develop option is checked" title="Make sure the Develop option is checked">
-	<figcaption>Make sure the Develop option is checked</figcaption>
-</figure>
+![Make sure the Develop option is checked](http://d.pr/i/1097d+ "Make sure the Develop option is checked")
 
 Then, navigate to your page and then navigate to `Develop` → `Show Page Source`.[^6]
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/1bkxh+" alt="Showing the page source" title="Showing the page source">
-	<figcaption>Showing the page source has helped me with lots of HTML/CSS problems in the past</figcaption>
-</figure>
+![Showing the page source has helped me with lots of HTML/CSS problems in the past](http://d.pr/i/1bkxh+ "Showing the page source")
+<!-- {.screenshot} -->
 
 For my site, I visited the `/archive/` page, which is the URL slug for my main blog.
 
 After viewing the source, make sure that "Source Code" is selected and then click "Inspect Element". This will allow you to hover over the main content area of the blog post to try and figure out what that area is called. Whatever that main area is called---*that's* what you're looking to target with the script.
 
-<figure>
-	<img src="http://d.pr/i/10stf+" alt="Looking for important stuff" title="Looking for important stuff">
-	<figcaption>Looking for the important stuff</figcaption>
-</figure>
+![Looking for the important stuff](http://d.pr/i/10stf+ "Looking for important stuff")
 
 What we are looking for (at least in my template): `.main-content`
 
-<figure>
-	<img src="http://d.pr/i/1enKi+" alt="There you are" title="There you are">
-	<figcaption>There you are, <code>.main-content</code></figcaption>
-</figure>
+![There you are, `.main-content`](http://d.pr/i/1enKi+ "There you are")
 
 Once I recognized the `.container` that Squarespace uses for main post content (`.main-content`), I went about copy and pasting that into the `<script>` that calls the `fitvids.js` to work.
 

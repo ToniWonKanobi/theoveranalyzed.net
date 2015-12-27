@@ -15,6 +15,7 @@ var markdownit = require('markdown-it')({
 })
 .use(require('markdown-it-footnote-conventional'))
 .use(require('markdown-it-anchor'))
+.use(require('markdown-it-decorate'))
 .use(require('markdown-it-highlightjs'), ({
 	code: false
 }))

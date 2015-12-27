@@ -12,7 +12,7 @@ Peter Sciretta, writing for /Film:
 No word yet as to when the expansion should be finished.
 
 <figure>
-	<img class="wide" src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/star-wars-land-concept-art-2.jpg" alt="Concept image for Star Wars Land" title="Concept image for Star Wars Land">
+	<img src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/star-wars-land-concept-art-2.jpg" alt="Concept image for Star Wars Land" title="Concept image for Star Wars Land">
 	<figcaption><a href="http://www.imsdb.com/scripts/Star-Wars-A-New-Hope.html">"What a piece of junk."</a></figcaption>
 </figure>
 

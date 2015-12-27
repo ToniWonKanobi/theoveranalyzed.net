@@ -22,10 +22,9 @@ After a bit of searching, I found a working `.dmg` for "iWork '09 Trial." Great.
 
 And so, there I was with two versions of Pages in my `/Applications` folder. 
 
-<figure>
-	<img src="http://d.pr/i/1fNTT+" alt="Pages '09 (4.3)" title="Pages '09 (4.3)" style="max-width: 50%">
-	<figcaption>Just look at that icon 👌🏾</figcaption>
-</figure>
+![Just look at that icon 👌🏾](http://d.pr/i/1fNTT+ "Pages '09 (4.3)")
+<!-- {style="max-width: 50%"} -->
+
 
 Boy did I feel like a real [rabble-rouser][8]. I had a vintage pirated copy of an application that a [typography master][9] said was better than every other [schmuck][10]'s copy of the current version.[^5]
 
@@ -49,11 +48,9 @@ So Butterick was right. Still, even without full support of OpenType features, t
 
 Indeed, even the Pages.app application icon has now incorporated the Yosemite and El Capitan design ethos:
 
-<figure>
-	<img src="http://d.pr/i/16ee0+" alt="Pages 5.0+ app icon" title="Pages 5.0+ app icon" style="max-width: 50%">
-	<figcaption>The "flat" application icon for Pages.app 5.0+</figcaption>
-</figure>
-	
+![The "flat" application icon for Pages.app 5.0+](http://d.pr/i/16ee0+ "Pages 5.0+ app icon")
+<!-- {style="max-width: 50%"} -->
+
 Louie Mantia agrees:
 
 <blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> sure but this one suits Yosemite better.</p>&mdash; Louie (@mantia) <a href="https://twitter.com/mantia/status/638444776191209472" title="Louie responding to me on Twitter">August 31, 2015</a></blockquote>

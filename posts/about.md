@@ -4,7 +4,7 @@ BodyClass: page
 
 Hi. I'm [Anthony][1].
 
-<p><img src="http://d.pr/i/1d53F+" alt="Allison and I" title="Allison and I" style="margin: initial; width: 50%;"></p>
+![Allison and I](http://d.pr/i/1d53F+ "Allison and I") <!-- {style="margin: initial; width: 50%"} -->
 
 TheOverAnalyzed is a website about technology, design, and pop culture.
 

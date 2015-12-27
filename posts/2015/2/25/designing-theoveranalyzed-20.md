@@ -20,26 +20,17 @@ I started with the [Native][3] template, which was, like most templates, insanel
 
 Here's the Native demo page:
 
-<figure>
-	<img src="http://d.pr/i/15dfx+" alt="'Native' template on Squarespace" title="'Native' template on Squarespace">
-	<figcaption>The stock Native template</figcaption>
-</figure>
+![The stock Native template](http://d.pr/i/15dfx+ "'Native' template on Squarespace")
 
 Eventually, I noticed that the way Native implemented [blockquotes][4] was kind of wonky. After some initial hesitation,[^3] I decided to switch to the [Avenue][5] template, which was a lot like Native, but had [blockquotes][6] like I wanted.
 
 Here's the Avenue demo page: 
 
-<figure>
-	<img src="http://d.pr/i/rxBP+" alt="'Avenue' template on Squarespace" title="'Avenue' template on Squarespace">
-	<figcaption>The stock Avenue template</figcaption>
-</figure>
+![The stock Avenue template](http://d.pr/i/rxBP+ "'Avenue' template on Squarespace")
 
 And here's a screenshot[^4] of my site from just a couple of weeks ago, before the first big design change:
 
-<figure>
-	<img src="http://d.pr/i/1cvPC+" alt="TheOverAnalyzed a couple weeks ago" title="TheOverAnalyzed a couple weeks ago">
-	<figcaption>TheOverAnalyzed with the Avenue template (Version 1)</figcaption>
-</figure>
+![TheOverAnalyzed with the Avenue template (Version 1)](http://d.pr/i/1cvPC+ "TheOverAnalyzed a couple weeks ago")
 
 #### Things Got Hairy
 
@@ -81,10 +72,7 @@ I quickly familiarized myself with `blog.list` and `blog.item` and was able to m
 
 Here's a screenshot of Permalinks Version 1.0:[^7]
 
-<figure>
-	<img src="http://d.pr/i/1lSZU+" alt="Permalinks Version 1" title="Permalinks Version 1">
-	<figcaption>Permalinks Version 1.0</figcaption>
-</figure>
+![Permalinks Version 1.0](http://d.pr/i/1lSZU+ "Permalinks Version 1")
 
 #### Another Template Change
 
@@ -106,15 +94,9 @@ I noticed [Above Avalon][29] a few weeks ago, and loved the non-scrolling (`posi
 
 Here is Neil Cybart's Stratechery-esche Above Avalon:
 
-<figure>
-	<img src="http://d.pr/i/11RRa+" alt="Above Avalon" title="Above Avalon">
-	<figcaption>Above Avalon's homepage</figcaption>
-</figure>
+![Above Avalon's homepage](http://d.pr/i/11RRa+ "Above Avalon")
 
-<figure>
-	<img src="http://d.pr/i/19QPN+" alt="Scrolling Above Avalon" title="Scrolling Above Avalon">
-	<figcaption>Look at that <code>.main-content</code> scroll</figcaption>
-</figure>
+![Look at that .main-content scroll](http://d.pr/i/19QPN+ "Scrolling Above Avalon")
 
 #### Sidebar Time
 
@@ -122,31 +104,20 @@ I looked around the templates and discovered that Cybart had implemented a relat
 
 Here is the Wells demo:
 
-<figure>
-	<img src="http://d.pr/i/12IAy+" alt="'Wells' template on Squarespace" title="'Wells' template on Squarespace">
-	<figcaption>Wells template</figcaption>
-</figure>
+![Wells template](http://d.pr/i/12IAy+ "'Wells' template on Squarespace")
 
-<figure>
-	<img src="http://d.pr/i/Q7z1+" alt="TheOverAnalyzed with 'Wells' template" title="TheOverAnalyzed with 'Wells' template">
-	<figcaption>And here is TheOverAnalyezd with Wells (Version 1.0 of the site)</figcaption>
-</figure>
+![And here is TheOverAnalyezd with Wells (Version 1.0 of the site)](http://d.pr/i/Q7z1+ "TheOverAnalyzed with 'Wells' template")
 
 Note that the content was pushed all the way to the left of the window. This wasn't terrible, but it also wasn't [ideal][31]. I wanted the content to be basically centered, regardless of how big the window was. 
 
 After consulting with the [Squarespace Answers Forum][32], I was able to move the content over to the center, more or less:
 
-<figure>
-	<img src="http://d.pr/i/EfZ+" alt="Sorta-centered" title="Sorta-centered">
-	<figcaption>Sorta-centered</figcaption>
-</figure>
+![Sorta-centered](http://d.pr/i/EfZ+ "Sorta-centered")
 
 But this led to a terrible design on mobile:
 
-<figure>
-	<img class="screenshot iphone" src="http://d.pr/i/1l1L9+" alt="Mobile" title="Mobile">
-	<figcaption>Mobile, pre-<code>custom.less</code></figcaption>
-</figure>
+![Mobile, pre-`custom.less`](http://d.pr/i/1l1L9+ "Mobile")
+<!-- {.screenshot .iphone} -->
 
 #### So That's What This Does
 
@@ -175,14 +146,96 @@ Here is how I decided to re-style the site, using `.less` slash `.css` stuffs:
 * I wanted to ensure that the mobile version of the site extended all the way to iPad in portrait mode, but, for iPad in landscape mode, I wanted the site to load in Desktop-mode.
 	* In `custom.css`, I used an `@media only screen and (min-width:769px)` modifier, which basically calls for implementing parts of `custom.css` *only* when the width of the display window is 769px or greater.[^11]
 	* For kicks, here is the content of that `@media` query:
-	
-		<script src="https://gist.github.com/ToniWonKanobi/4ff2c73d6f9e27916d7c.js"></script>
+
+		```css
+		@media only screen and (min-width: 769px) { /* This so the custom CSS only applies for certain devices. The format above should work to only apply the rules for browser widths of _size here_px and upwards. */
+			body {
+				a:hover {
+					background-color: #dbdbdb;
+					border-color: #dbdbdb;
+				}
+			}
+			
+			.main-nav {
+				a:hover {
+					background-color: @siteBackground; 
+					border-color:  @siteBackground; 
+				}
+			}
+			
+			#canvasWrapper {
+				margin: auto;
+				min-width: 200px;
+				max-width: 450px;
+				padding-right: 350px;
+			}
+			
+			#pageWrapper {
+				padding-top: 15px;
+			}
+			
+			#headerWrapper {
+				left: auto !important;
+			}
+			
+			.logo.image img {
+				margin: 20px;
+				margin-left: -5px;
+				margin-bottom: 0;
+				width:@logoSize;
+			}
+			
+			.logo-subtitle {
+				.subtitle-font;
+				font-size: @subtitleSize;
+				color: @subtitleColor;
+				margin-top: -10px;
+				margin-right: 61px;
+			}
+			
+			#canvas {
+				padding: @outerPadding;
+				min-width: 700px;
+			}
+			
+			#headerWrapper {
+				position: relative; 
+				z-index: 2;
+			}
+			
+			#header, #page, #footer {
+				padding: 0;
+			}
+			
+			#topNav {
+				margin-bottom: 20px;
+			}
+			
+			.sidebar-text-alignment-center #headerWrapper {
+				text-align: center;
+			}
+			
+			.sidebar-text-alignment-right #headerWrapper {
+				text-align: right;
+			}
+		}
+		```
 		
 	* That worked great, but my design broke down when I zoomed in on the iPad when in landscape mode.
 	* I had to do some sidebar hackery such that the `#headerWrapper` for `.sidebar-position-left` was `position: absolute !important`
 	* Here is the `@media` query I used to target iPads in landscape orientation:
 	
-		<script src="https://gist.github.com/ToniWonKanobi/50bc973ad2dde32fbb81.js"></script>
+		```css
+		@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
+			body.sidebar-fixed {
+				&.sidebar-position-left {
+					#headerWrapper {
+						position: absolute !important;
+					}
+				}
+			}
+		}
+		```
 
 #### One More Thing
 
@@ -194,10 +247,7 @@ Squarespace had *just* rolled out their [logo designer tool][34].[^12] I used it
 
 I think it was actually a pretty nice logo considering it took me about 5 minutes to put together:
 
-<figure>
-	<img src="http://d.pr/i/1b8Ss+" alt="Logo, v1" title="Logo, v1">
-	<figcaption>Logo Version 1.0</figcaption>
-</figure>
+![Logo Version 1.0](http://d.pr/i/1b8Ss+ "Logo, v1")
 
 But from the beginning, the plan was always to someday create my own.
 
@@ -229,61 +279,38 @@ Sketch is on its [third major version][38] now, and while its true power lies in
 
 I started with a photo of Smokey:
 
-<figure>
-	<img src="http://d.pr/i/19uo2+" alt="Original picture of Smokey" title="Original picture of Smokey">
-	<figcaption>Original picture of Smokey</figcaption>
-</figure>
+![Original picture of Smokey](http://d.pr/i/19uo2+ "Original picture of Smokey")
 
 Then I reduced the opacity to 50%, to make vectorizing the image easier:
 
-<figure>
-	<img src="http://d.pr/i/19gqG+" alt="Opacity reduced" title="Opacity reduced">
-	<figcaption>Opacity reduced</figcaption>
-</figure>
+![Opacity reduced](http://d.pr/i/19gqG+ "Opacity reduced")
 
 And here's the vector, minus some smoothing:
 
-<figure>
-	<img src="http://d.pr/i/9MUF+" alt="Original vector" title="Original vector">
-	<figcaption>Original vector</figcaption>
-</figure>
+![Original vector](http://d.pr/i/9MUF+ "Original vector")
 
 And here's the circle logo:
 
-<figure>
-	<img src="http://d.pr/i/dOCb+" alt="Circle logo" title="Circle logo">
-	<figcaption>Circle logo</figcaption>
-</figure>
+![Circle logo](http://d.pr/i/dOCb+ "Circle logo")
 
 Next, the logo with text. I chose Futura Condensed ExtraBold. I like the weight, and I especially like Futura because of its versatility. It's not as trendy or readable as Proxima Nova (`body-font-font-family`), sure. But it conveys a certain amount of gravitas, without seeming too formal. It's almost comical, but only slightly so. I think that suits the site well:
 
-<figure>
-	<img src="http://d.pr/i/19wtr+" alt="Logo with text" title="Logo with text">
-	<figcaption>Logo with text</figcaption>
-</figure>
+![Logo with text](http://d.pr/i/19wtr+ "Logo with text")
 
 Finally, the full logo with the subtitle. I included the subtitle because I originally had trouble aligning the subtitle text on the different target displays. Making it part of the logo made things easier for me:
 
-<figure>
-	<img src="http://d.pr/i/qW89+" alt="Finished logo with subtitle" title="Finished logo with subtitle">
-	<figcaption>Finished logo with subtitle</figcaption>
-</figure>
+![Finished logo with subtitle](http://d.pr/i/qW89+ "Finished logo with subtitle")
 
 I also used the Circle Logo to make the browser favicon:
 
-<figure>
-	<img src="http://d.pr/i/13py7+" alt="Favicon" title="Favicon">
-	<figcaption>Favicon</figcaption>
-</figure>
+![Favicon](http://d.pr/i/13py7+ "Favicon")
 
 ***
 
 I spent a fair amount of time trying to use my (`Logo.svg`) in place of the static image Squarespace uses for the logo. This was important to me because I wanted everything about my site to look good on Retina displays. And, even though most humans wouldn't zoom in to this level:
 
-<figure>
-	<img class="screenshot iphone" src="http://d.pr/i/1hJo2+" alt="Site broken on mobile" title="Site broken on mobile">
-	<figcaption>Broken on mobile</figcaption>
-</figure>
+![Broken on mobile](http://d.pr/i/1hJo2+ "Site broken on mobile")
+<!-- {.screenshot .iphone} -->
 
 ... I wanted to be ready in case they did. 
 
@@ -295,31 +322,23 @@ Finally. [It was finished][39]. I was able to get things looking how I want.[^13
 
 Desktop:
 
-<figure>
-	<img src="http://d.pr/i/1bVv2+" alt="Sidebar on desktop version of website" title="Sidebar on desktop version of website">
-	<figcaption>Sidebar. Desktop. Yes.</figcaption>
-</figure>
+![Sidebar. Desktop. Yes.](http://d.pr/i/1bVv2+ "Sidebar on desktop version of website")
 
 iPad (Portrait):
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/OgsK+" alt="iPad, portrait" title="iPad, portrait" style="max-width: 75%">
-	<figcaption>iPad, portrait</figcaption>
-</figure>
+![iPad, portrait](http://d.pr/i/OgsK+ "iPad, portrait")
+<!-- {.screenshot style="max-width: 75%"} -->
 
 iPad (Landscape):
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/pAIQ+" alt="iPad, landscape" title="iPad, landscape" style="max-width: 75%">
-	<figcaption>iPad, landscape</figcaption>
-</figure>
+![iPad, landscape](http://d.pr/i/pAIQ+ "iPad, landscape")
+<!-- {.screenshot style="max-width: 75%"} -->
+
 
 iPhone:
 
-<figure>
-	<img class="screenshot iphone" src="http://d.pr/i/1fcI8+" alt="iPhone, portrait" title="iPhone, portrait">
-	<figcaption>iPhone, portrait</figcaption>
-</figure>
+![iPhone, portrait](http://d.pr/i/1fcI8+ "iPhone, portrait")
+<!-- {.screenshot .iphone} -->
 
 ***
 

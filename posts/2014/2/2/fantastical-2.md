@@ -36,17 +36,13 @@ For version 2, Flexibits also included a fourth row of keys, accessible without 
 
 Also in this version is a new Week view for Landscape mode:
 
-<figure>
-	<img class="screenshot iphone" src="http://d.pr/i/BNnH+" alt="Does anyone actually use their iPhone in landscape?" title="Does anyone actually use their iPhone in landscape?">
-	<figcaption>Does anyone actually use their iPhone in landscape?</figcaption>
-</figure>
+![Does anyone actually use their iPhone in landscape?](http://d.pr/i/BNnH+ "Does anyone actually use their iPhone in landscape?")
+<!-- {.screenshot .iphone} -->
 
 A big feature update for Fantastical 2 was the integration of the stock Reminders app. For all the reasons for foregoing the stock Calendar app, there exist just as many reasons for foregoing the stock Reminders app. Fantastical 2 lets me do that.
 
-<figure>
-	<img class="screenshot iphone" src="http://d.pr/i/15UTy+" alt="Such a nice feature" title="Such a nice feature">
-	<figcaption>Reminders in Fantastical&mdash;such a nice feature</figcaption>
-</figure>
+![Reminders in Fantastical are such a nice feature](http://d.pr/i/15UTy+ "Such a nice feature")
+<!-- {.screenshot .iphone} -->
 
 ### Design
 
@@ -103,7 +99,7 @@ Fantastical 2 is only [$1.99][12]---a small price to pay for the expediency and 
 
 [1]: https://itunes.apple.com/us/app/sunrise-calendar-outlook-app/id599114150?mt=8&at=1l3vx9s "Sunrise on the App Store"
 [2]: https://itunes.apple.com/us/app/calendars-5-event-task-manager/id697927927?mt=8&at=1l3vx9s "Calendars 5 on the App Store"
-[3]: http://www.macworld.com/article/2017389/review-fantastical-for-iphone-shines-despite-ios-caused-limitations.html "Macword reviews Fantastical for iPhone"
+[3]: http://www.macworld.com/article/2017389/review-fantastical-for-iphone-shines-despite-ios-caused-limitations.html "Macworld reviews Fantastical for iPhone"
 [4]: http://www.macstories.net/reviews/fantastical-for-iphone-review/ "Federico Viticci reviews Fantastical for iPhone"
 [5]: http://www.cultofmac.com/189707/steve-jobs-himself-is-responsible-for-calendar-and-game-centers-hideous-skeuomorphic-designs/ "Steve Jobs loved skeuomorphism"
 [6]: http://ios7fail.tumblr.com/ "tumblr full of iOS 7 design failures"

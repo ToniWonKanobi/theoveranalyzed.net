@@ -19,10 +19,8 @@ More from Orlove:
 
 And in case your mental currency conversion skills are about as good as mine:[^2]
 
-<figure>
-	<img class="screenshot iphone" src="http://d.pr/i/17PCq+" alt="Calculating the conversion" title="Calculating the conversion">
-	<figcaption>Calcbot Conversion</figcaption>
-</figure>
+![Calcbot Conversion](http://d.pr/i/17PCq+ "Calculating the conversion")
+<!-- {.screenshot .iphone} -->
 
 $203,193.
 

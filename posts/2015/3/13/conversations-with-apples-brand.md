@@ -5,7 +5,8 @@ Description: Apple through the decades.
 Tags: Apple  
 Image: http://d.pr/i/Npp2+  
 
-<p><img class="screenshot" src="http://d.pr/i/Npp2+" alt="Conversations with Apple's Brand" title="Conversations with Apple's Brand"></p>
+![Conversations with Apple's Brand](http://d.pr/i/Npp2+ "Conversations with Apple's Brand")
+<!-- {.screenshot} -->
 
 I haven't linked to much from Horace Dediu much on this site, mostly because I haven't been following him until a few days ago.[^1] He had some great thoughts on Apple's historical approach to technology in culture. 
 

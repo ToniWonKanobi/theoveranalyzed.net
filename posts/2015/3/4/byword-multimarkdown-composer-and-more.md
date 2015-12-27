@@ -99,24 +99,16 @@ This is how MultiMarkdown Composer parses MultiMarkdown, and this is how the res
 
 First, let me say this: I love, *love* Byword. The guys at [Metaclassy][7] have built an incredibly easy to use and beautiful app. 
 
-<figure>
-	<img src="http://d.pr/i/1fsbq+" alt="Byword's sparsity is part of its charm" title="Byword's sparsity is part of its charm">
-	<figcaption>Byword's sparsity is part of its charm</figcaption>
-</figure>
+![Byword's sparsity is part of its charm](http://d.pr/i/1fsbq+ "Byword's sparsity is part of its charm")
 
 Byword is both functional, and actually quite clever at the same time. Want to copy the MultiMarkdown to HTML? Option-Command-P. Easy. 
 
 Contrast this with MultiMarkdown Composer, in which the hotkey is buried in the Edit menu item:
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/fWNQ+" alt="Ehh" title="Ehh">
-	<figcaption>Ehh...</figcaption>
-</figure>
+![Ehh...](http://d.pr/i/fWNQ+ "Ehh")
+<!-- {.screenshot} -->
 
-<figure>
-	<img src="http://d.pr/i/emqI+" alt="MultiMarkdown's window has more content" title="MultiMarkdown's window has more content">
-	<figcaption>MultiMarkdown's window has more content, but isn't *that* much more busy than Byword</figcaption>
-</figure>
+![MultiMarkdown's window has more content, but isn't *that* much more busy than Byword](http://d.pr/i/emqI+ "MultiMarkdown's window has more content")
 
 #### What's So Wrong With Byword?
 
@@ -128,10 +120,8 @@ The problem with Byword is that while the app *does* support [the most important
 
 Probably the biggest unexpected benefit of using MultiMarkdown Composer were the **inline footnotes.**[^3]
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/nOPD+" alt="Could this be any easier?" title="Could this be any easier?">
-	<figcaption>Could this be any easier?</figcaption>
-</figure>
+![Could this be any easier?](http://d.pr/i/nOPD+ "Could this be any easier?")
+<!-- {.screenshot} -->
 
 While MultiMarkdown Composer's inline footnotes implementation precludes me  from having multiple paragraphs or lists,[^4] it is still *such* a time-saver to just keep tying all the way through the footnote content, without having to go all the way to the bottom of the document to place the footnote content, and then find my way back to where I was before I started writing the footnote.[^5]
 
@@ -158,19 +148,14 @@ And then I would have to go back through my document and copy that format for re
 
 With MultiMarkdown Composer, I just place a `{{TOC}}` at the top of my document, and then I get something wonderful like this:
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/1azBA+" alt="So much easier than doing it by hand" title="So much easier than doing it by hand" style="max-width: 75%">
-	<figcaption><em>So</em> much easier than doing it by hand</figcaption>
-</figure>
+![So much easier than doing it by hand](http://d.pr/i/1azBA+ "So much easier than doing it by hand" )
+<!-- {.screenshot style="max-width: 75%"} -->
 
 ##### Smart Pairs, Autocompleting Labels, and More
 
 Basically, this whole list:
 
-<figure>
-	<img src="http://d.pr/i/1ad17+" alt="With nifty tricks like this, I spend more time writing than worrying about syntax" title="With nifty tricks like this, I spend more time writing than worrying about syntax">
-	<figcaption>With nifty tricks like this, I spend more time writing than worrying about syntax</figcaption>
-</figure>
+![With nifty tricks like this, I spend more time writing than worrying about syntax](http://d.pr/i/1ad17+ "With nifty tricks like this, I spend more time writing than worrying about syntax")
 
 ### Conclusion
 

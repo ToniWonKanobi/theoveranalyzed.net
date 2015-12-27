@@ -4,10 +4,7 @@ Description: This week is the first week to feature Cotton Bureau t-shirts from 
 Tags: Cotton Bureau, Industry  
 Image: http://d.pr/1ebyI+  
 
-<figure>
-	<img class="wide" src="http://d.pr/1ebyI+" alt="Next Level T-shirts" title="Next Level T-shirts">
-	<figcaption>Bye bye, American Apparel. Hello Next Level.</figcaption>
-</figure>
+![Bye bye, American Apparel. Hello Next Level.](http://d.pr/1ebyI+ "Next Level T-shirts")
 
 In case you don't follow Cotton Bureau [as closely as I do][1], it might surprise you to learn they [decided to stop printing on American Apparel][2] shirts, and have switched to a company named [Next Level][3].
 

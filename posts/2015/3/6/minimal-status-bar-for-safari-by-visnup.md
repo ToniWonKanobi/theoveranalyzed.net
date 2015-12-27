@@ -5,7 +5,8 @@ Description: This is a neat little Safari extension for power users.
 Tags: Power User, Safari  
 Image: http://d.pr/i/1cLZq+
 
-<p><img class="screenshot" src="http://d.pr/i/1cLZq+" alt="Minimal Status Bar by Visnup" title="Minimal Status Bar by Visnup"></p>
+![Minimal Status Bar by Visnup](http://d.pr/i/1cLZq+ "Minimal Status Bar by Visnup") 
+<!-- {.screenshot} -->
 
 Want to know where a hyperlink will take you? Install this Safari extension, and enjoy  💻
 
@@ -16,9 +17,7 @@ Want to know where a hyperlink will take you? Install this Safari extension, and
 
 Safari 9.0 for OS X 10.11 "El Capitan" offers this functionality built-in. In order to achieve this, keep the "Show Status Bar" option in View enabled. And then, whenever you hover on a hyperlink, the a small popup revealing the hyperlink destination will appear at the bottom-left of the window (where the 'normal' status bar lives).
 
-<figure>
-	<img src="http://d.pr/i/1ii3O+" alt="Sherlocking at it's finest" title="Sherlocking at it's finest">
-	<figcaption>Neat.</figcaption>
-</figure>
+![Sherlocking at it's finest](http://d.pr/i/1ii3O+ "Sherlocking at it's finest")
+<!-- {.screenshot) -->
 
 </aside>

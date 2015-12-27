@@ -4,10 +4,8 @@ Description: Don't forget about HTML's "no space" space, useful for weird situat
 Tags: Best Of, Web Design, HTML  
 Image: http://d.pr/i/1igkh+  
 
-<figure>
-	<img class="iphone screenshot" src="http://d.pr/i/1igkh+" alt="Non-breaking space entity, oh how I forgot about you." title="Non-breaking space entity, oh how I forgot about you.">
-	<figcaption>This stupid arrow has irked me for months.</figcaption>
-</figure>
+![Non-breaking space entity, oh how I forgot about you.](http://d.pr/i/1igkh+ "Non-breaking space entity, oh how I forgot about you.)
+<!-- {.screenshot .iphone} -->
 
 A few nights ago, inspired by a [critique of my site's design][1], I finally fixed my `.content` being too wide on smaller-screened iPhones, as well as some other aspects of my poorer small-screen layout.[^1]
 

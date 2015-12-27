@@ -5,10 +5,8 @@ Description: Background-changing navigation elements without JavaScript? Indeed.
 Tags: Web Design  
 Image: http://d.pr/i/E3zx+  
 
-<figure>
-	<img class="screenshot" src="http://d.pr/i/E3zx+" alt="Parakeet's neat-o nav" title="Parakeet's neat-o nav">
-	<figcaption>Some pretty sweet CSS trickery from Patrick B. Gibson</figcaption>
-</figure>
+![Some pretty sweet CSS trickery from Patrick B. Gibson](http://d.pr/i/E3zx+ "Parakeet's neat-o navigation")
+<!-- {.screenshot} -->
 
 The more I learn about web development, the more I come to realize that JavaScript and jQuery [are not always the way][1]. Long-thought the answer to difficult layout situations [brought on by mobile][2], the current trend is moving away from [both technologies as much as possible][3]. And soon enough, it will be [harder to implement said technologies as well][4].
 
