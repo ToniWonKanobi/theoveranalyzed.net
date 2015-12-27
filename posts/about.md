@@ -1,5 +1,6 @@
 Title: About  
 Description: Info about me and TheOverAnalyzed  
+BodyClass: page  
 
 Hi. I'm [Anthony][1].
 

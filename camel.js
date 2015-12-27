@@ -17,6 +17,9 @@ var markdownit = require('markdown-it')({
 .use(require('markdown-it-anchor'))
 .use(require('markdown-it-highlightjs'), ({
 	code: false
+}))
+.use(require('markdown-it-implicit-figures'), ({
+	figcaption: true
 }));
 var Rss = require('rss');
 var Handlebars = require('handlebars');

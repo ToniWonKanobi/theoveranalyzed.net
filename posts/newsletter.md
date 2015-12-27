@@ -1,5 +1,6 @@
 Title: The Newsletter  
 Description: This page talks about how to subscribe to TheOverAnalyzed Newsletter  
+BodyClass: page  
 
 ### Why a Newsletter?
 

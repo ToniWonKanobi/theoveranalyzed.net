@@ -1,5 +1,6 @@
 Title: Colophon  
 Description: This page contains somewhat technical details about the author and the site.  
+BodyClass: page  
 
 ### The Writing
 

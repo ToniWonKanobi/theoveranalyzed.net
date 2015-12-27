@@ -1,5 +1,6 @@
 Title: Broken Links  
 Description: This is the page I've dedicated to broken links that I just cannot seem to redirect.  
+BodyClass: page  
 
 Despite my best efforts, several of my posts since TheOverAnalyzed was on Squarespace were simply not redirectable.[^1] 
 

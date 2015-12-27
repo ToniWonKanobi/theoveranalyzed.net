@@ -4,6 +4,7 @@
 /* Practical Typography:
 http://practicaltypography.com/point-size.html */
 body {
+	background-color: rgba(63, 112, 162, 0.25);
 	color: #555;
 	font-size: 15pt;
 	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', -apple-system, sans-serif;
@@ -120,6 +121,7 @@ h1#siteTitle {
 
 p#siteByline {
 	margin-top: -1em;
+	margin-bottom: 0;
 	padding-bottom: 1.75em;
 }
 
@@ -142,6 +144,28 @@ p#siteByline {
 /* Homepage
 ======================================== */
 
+main {
+	background: #fff;
+	border-right: 0.1em solid #ccc;
+	border-left: 0.1em solid #ccc;
+	margin: auto;
+	max-width: 800px;
+	padding: 1.5em 2em 4em 2em;
+	width: 70%;
+}
+
+body.homepage main {
+	background-color: transparent;
+	border-left: none;
+	border-right: none;
+	border-radius: 0;
+	box-shadow: none;
+	margin: 1em auto 1em auto;
+	max-width: 800px;
+	padding: 0;
+	width: 90%;
+}
+
 body.homepage section.day article div.entry,
 body.homepage section:first-of-type article:first-of-type div.description,
 body.homepage section:first-of-type article:first-of-type div.readMore {
@@ -154,22 +178,6 @@ body.homepage section:first-of-type article:first-of-type div:nth-of-type(2) {
 
 .hideMe {
 	opacity: 0;
-}
-
-.showMe {
-	opacity: 1;
-}
-
-/* Main
-======================================== */
-
-main {
-	margin: 2em auto 6em auto;
-	width: 700px;
-}
-
-body.homepage main {
-	margin-bottom: 3em;
 }
 
 .fadeInUp {
@@ -186,6 +194,14 @@ body.homepage main {
 		opacity: 1;
 		transform: translateY(0);
 	}
+}
+
+article {
+	background: #fff;
+	border: 0.1em solid #ccc;
+	border-radius: 0.4em;
+	margin: auto auto 1.5em auto;
+	padding: 1.5em;
 }
 
 /* Page/Post Headers
@@ -275,11 +291,6 @@ figure {
 	margin: 1em auto;
 }
 
-figure.wide {
-	margin: 1.5em auto auto calc( (100vw - 100%) / -2);
-	width: 100vw;
-}
-
 img {
 	display: block;
 	margin: auto;
@@ -302,12 +313,6 @@ img.applewatch {
 	width: 50%;
 }
 
-img.wide {
-	margin-left: -25%;
-	max-width: initial;
-	width: 150%;
-}
-
 img.inlineTwo {
 	display: initial;
 	margin: auto 0.15em;
@@ -323,7 +328,7 @@ img.inlineThree {
 img.inlineFour {
 	display: initial;
 	margin: auto 1.8%;
-	width: 21%;
+	width: 45%;
 }
 
 figcaption {
@@ -346,11 +351,6 @@ audio {
 video {
 	margin: auto;
 	max-width: 100%;
-}
-
-video.wide {
-	margin: 1em auto 1.5em -25%;
-	width: 150%;
 }
 
 iframe {
@@ -464,14 +464,14 @@ em.takeHome {
 }
 
 aside.update {
-	background-color: rgba(63, 112, 162, 0.13);
+	background-color: #eee;
 	border-radius: 0.4em;
 	margin-top: 2em;
-	padding: 0.5em 2em 2em 2em;
+	padding: 1.5em 2em 2em 2em;
 }
 
-aside.update h2 {
-	margin-top: 1em;
+aside.update h3 {
+	margin-top: 0;
 }
 
 p.updateTime {
@@ -515,16 +515,7 @@ hr.long {
 	width: 100%;
 }
 
-hr.articleSeparator {
-	background-color: #ddd;
-	border-radius: 0.2em;
-	height: 0.3em;
-	margin: 2.5em auto 2.5em -10%;
-	width: 120%;
-}
-
-hr.long:after,
-hr.articleSeparator:after{
+hr.long:after {
 	content: normal;
 }
 
@@ -572,10 +563,16 @@ a.footnote-backref {
 }
 
 section#pagination {
+	background: #fff;
+	border: 0.1em solid #ccc;
+	border-radius: 0.4em;
 	font-size: 1.1em;
 	font-weight: 400;
 	height: 1.75em;
-	padding: 0.5em 0 0 0;
+	margin: 1.5em auto 1.5em auto;
+	max-width: 700px;
+	padding: 1.25em 0.5em 1em 0.5em;
+	width: 80%;
 }
 
 section#pagination > h2 {
@@ -602,12 +599,13 @@ section#pagination .previousPage {
 ======================================== */
 
 footer {
+	background: #fff;
 	color: #999;
 	text-align: center;
 }
 
 div#bottomAd {
-	border-top: 0.1em solid #ddd;
+	border-top: 0.1em solid #ccc;
 }
 
 div#bottomAd > h2 {
@@ -629,7 +627,7 @@ div#bottomAd figure figcaption {
 }
 
 nav {
-	border-top: 0.1em solid #ddd;
+	border-top: 0.1em solid #ccc;
 	padding: 1.5em 0 1.5em 0;
 }
 
@@ -678,6 +676,7 @@ form#search input {
 }
 
 form#search input:focus {
+	border: 2px solid #ccc;
 	box-shadow: 0 4px 8px -4px rgba(0, 0, 0, 0.2);
 	outline: none;
 }
@@ -690,33 +689,6 @@ p#copyright {
 
 /* @media Queries
 ======================================== */
-
-/* Large displays */
-@media (max-width: 1100px) {
-
-	main {
-		width: 80vw;
-	}
-
-	img.wide,
-	video.wide {
-		margin: auto auto auto -10vw;
-		width: 100vw;
-	}
-
-	img.inlineFour {
-		margin: 1em auto;
-		width: 48%;
-	}
-
-
-	hr.articleSeparator {
-		border-radius: 0;
-		margin: 2em auto 2em -10vw;
-		width: 100vw;
-	}
-
-}
 
 /* Medium Displays */
 @media (max-width: 736px) {
@@ -743,26 +715,6 @@ p#copyright {
 		font-size: 1.5em;
 	}
 
-	img:not(.applewatch, .wide, .iphone,
-		.inlineTwo, .inlineThree, .inlineFour,
-		.bottomAd),
-	video,
-	audio {
-		margin: auto auto auto -10vw;
-		max-width: initial;
-		width: 100vw;}
-
-	div.update img:not(.applewatch, .wide, .iphone,
-		.inlineTwo, .inlineThree, inlineFour),
-	blockquote img:not(.applewatch, .wide, .iphone,
-		.inlineTwo, .inlineThree, inlineFour),
-	li img:not(.applewatch, .wide, .iphone,
-		.inlineTwo, .inlineThree, inlineFour),
-	li video {
-		margin: initial;
-		width: 100%;
-	}
-
 	div.check p {
 		font-size: 7.5em;
 	}
@@ -771,6 +723,10 @@ p#copyright {
 
 /* Really Small Displays */
 @media (max-width: 320px) {
+
+	body {
+		font-size: 0.95em;
+	}
 
 	h1#siteTitle {
 		font-size: 1.6em;

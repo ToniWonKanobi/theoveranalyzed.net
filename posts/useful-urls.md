@@ -1,5 +1,6 @@
 Title: Useful URLs  
 Description: This page has some useful URLs to help navigate this site.  
+BodyClass: page  
 
 **[.md][1]**: You can append `.md` to the end of any post URL to see the actual Markdown source for that page
 
