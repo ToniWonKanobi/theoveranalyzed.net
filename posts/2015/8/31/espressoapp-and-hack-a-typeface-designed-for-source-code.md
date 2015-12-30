@@ -46,7 +46,7 @@ After visiting the GitHub page, I immediately found the CDN[^2] link and added t
 
 I also called for Hack via `font-family` for `<pre>` and `<code>`:
 
-![Changing the font-family preference](http://d.pr/i/176dB+ "Calling for Hack in my `main.css` stylesheet")
+![Changing the font-family preference](http://d.pr/i/176dB+ "Calling for Hack in my `styles.css` stylesheet")
 
 Voilà:
 

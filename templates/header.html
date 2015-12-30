@@ -34,7 +34,7 @@
 
 		<!-- Stylesheets -->
 		<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7099154/750568/css/fonts.css">
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css">
 		<link rel="stylesheet" type="text/css" href="/css/bigfoot.css">
 		<link rel="stylesheet" type="text/css" href="/css/@@CSS@@">
 		<link rel="stylesheet" type="text/css" href="/css/hljs-github.css">
@@ -63,7 +63,7 @@
 					// Check the location of each desired element
 					$('.hideMe').each( function(i){
 						var bottom_of_object = $(this).offset().top + $(this).outerHeight();
-						var bottom_of_window = 1.05*($(window).scrollTop() + $(window).height());
+						var bottom_of_window = 1.09*($(window).scrollTop() + $(window).height());
 						if( bottom_of_window > bottom_of_object ){
 							$(this).animate({opacity: '1'},500);
 						}

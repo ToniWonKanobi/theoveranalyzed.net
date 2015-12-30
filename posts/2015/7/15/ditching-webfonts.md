@@ -69,7 +69,7 @@ If Ideal Sans was the problem, I wondered how fast TheOverAnalyzed would load wi
 
 ### Gaining A Second
 
-To test the site without the webfont, I modified `main.css`, so that there would be a fallback font. In this case, [Avenir][20], which is like [Helvetica][21] but less cliche.[^2]
+To test the site without the webfont, I modified `styles.css`, so that there would be a fallback font. In this case, [Avenir][20], which is like [Helvetica][21] but less cliche.[^2]
 
 <figure>
 	<img src="http://d.pr/i/U6XZ+" alt="Switching to Avenir" title="Switching to Avenir">	<figcaption>Adding Avenir.</figcaption>

@@ -54,7 +54,7 @@ Easy. [CSS3][4]!
 [^1]: I did this because it's not worth adding a custom class to my [main stylesheet][a] just for this one random style change.
 [^2]: Technically, I should have used the `-webkit` prefix ala `-webkit-transform`, but I'm lazy, and I'm pretty sure the `transform` property has been adopted by most every browser that matters. So why add additional prefix cruft when it's more or less unnecessary?
 
-[a]: /css/main.css "Main stylesheet for TheOverAnalyzed"
+[a]: /css/styles.css "Main stylesheet for TheOverAnalyzed"
 
 [1]: http://d.pr/i/14v3E+ "Upside-down flag emoji"
 [2]: /2015/12/16/fu-2016#flag-thingy "Portion of that post that contained the flag emoji in question"
