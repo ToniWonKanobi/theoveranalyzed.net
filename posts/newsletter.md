@@ -1,6 +1,5 @@
 Title: The Newsletter  
 Description: This page talks about how to subscribe to TheOverAnalyzed Newsletter  
-BodyClass: page  
 
 ### Why a Newsletter?
 
@@ -9,8 +8,6 @@ While nerdy folk follow the site via [Twitter][1] or via [RSS][2], most of my fa
 ### How It Works
 
 Every day, the MailChimp servers detect whether I've posted anything new since the previous day. If so, MailChimp generates a new email to subscribers containing all of the posts published since the last newsletter went out.
-
-***
 
 ### Signup
 

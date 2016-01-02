@@ -260,7 +260,8 @@ function generateHtmlAndMetadataForFile(file) {
 			metadata.canonicalLink = metadata.SiteRoot;
 			metadata.ogtype = 'website';
 		}else{
-			metadata.canonicalLink = metadata.SiteRoot + '/' + metadata.permalink;
+			// metadata.canonicalLink = metadata.SiteRoot + '/' + metadata.permalink;
+			metadata.canonicalLink = metadata.SiteRoot + metadata.permalink;
 			metadata.ogtype = 'article';
 		}
 

@@ -1,22 +1,21 @@
 Title: Useful URLs  
 Description: This page has some useful URLs to help navigate this site.  
-BodyClass: page  
 
-**[.md][1]**: You can append `.md` to the end of any post URL to see the actual Markdown source for that page
+[**.md**][1]: You can append `.md` to the end of any post URL to see the actual Markdown source for that page
 
-**[/tags][2]**: Shows all tags. Note that tags are case-sensitive
+[**/tags**][2]: Shows all tags. Note that tags are case-sensitive
 
-**[/2015][3]**: Posts by year
+[**/2015**][3]: Posts by year
 
-**[/2015/6][4]**: Posts by year and month
+[**/2015/6**][4]: Posts by year and month
 
-**[/2015/6/1][5]**: Posts by year, month, and day
+[**/2015/6/1**][5]: Posts by year, month, and day
 
-**[/live][6]**: For occasional coverage of live events such as [WWDC][7]
+[**/live**][6]: For occasional coverage of live events such as [WWDC][7]
 
-**[/newsletter][8]**: Subscribe to the daily email newsletter
+[**/newsletter**][8]: Subscribe to the daily email newsletter
 
-**[/brokenlinks][9]**: Perhaps you've looked high and low in a search engine and still can't find a link you're looking for? If so, the post might be here
+[**/brokenlinks**][9]: Perhaps you've looked high and low in a search engine and still can't find a link you're looking for? If so, the post might be here
 
 [1]: /useful-urls.md "You can do this with almost every page on the site"
 [2]: /tags "I love tags"

@@ -1,6 +1,5 @@
 Title: Connect  
 Description: Use this page to connect with TheOverAnalyzed on social media, etc.  
-BodyClass: page  
 
 ### Twitter
 

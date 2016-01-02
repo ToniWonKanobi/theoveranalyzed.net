@@ -6,7 +6,6 @@ Tags: Apps, Bass Guitar
 Image: http://supermegaultragroovy.com/products/capo/img/neptune_device@2x.png  
 
 ![This visualization is cool](http://supermegaultragroovy.com/products/capo/img/neptune_display@2x.gif "Capo and Neptune")
-<!-- {.screenshot .iphone} -->
 
 From the Capo website:
 

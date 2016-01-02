@@ -1,10 +1,16 @@
 Title: About  
 Description: Info about me and TheOverAnalyzed  
-BodyClass: page  
+
+<style>
+	main figure {
+		margin: initial;
+		width: 50%;
+	}
+</style>
 
 Hi. I'm [Anthony][1].
 
-![Allison and I](http://d.pr/i/1d53F+ "Allison and I") <!-- {style="margin: initial; width: 50%"} -->
+![Allison and I](http://d.pr/i/1d53F+ "Allison and I")
 
 TheOverAnalyzed is a website about technology, design, and pop culture.
 

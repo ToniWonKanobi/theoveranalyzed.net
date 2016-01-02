@@ -1,10 +1,16 @@
-header, footer {
-	display: none;
+html,
+body,
+main {
+	background: black;
 }
 
-body.blankBlack {
-	background: #000;
+body {
 	color: #bbb
+}
+
+header,
+footer {
+	display: none;
 }
 
 h1 {
@@ -14,8 +20,8 @@ h1 {
 }
 
 video {
-	margin-left: calc( (100vw - 100%) / -2);
-	width: 100vw;
+	margin: 1em auto;
+	width: 100%;
 }
 
 .info {
@@ -37,4 +43,5 @@ video {
 
 .info a:hover {
 	background: none;
+	color: #555;
 }

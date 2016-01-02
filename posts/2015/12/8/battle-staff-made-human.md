@@ -6,7 +6,7 @@ Tags: The Office
 Image: http://d.pr/i/198P5+  
 
 <figure>
-	<a class="nohover" href="https://toplayusout.files.wordpress.com/2008/11/michael-scott2.jpg" title="Michael Scott">
+	<a href="https://toplayusout.files.wordpress.com/2008/11/michael-scott2.jpg" title="Michael Scott">
 		<img src="http://d.pr/i/198P5+" alt="Michael Scott">
 	</a>
 	<figcaption class="source">Source: <a href="https://toplayusout.wordpress.com" title="'To Play Us Out blog'">To Play Us Out</a></figcaption>
