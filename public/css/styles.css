@@ -674,6 +674,10 @@ p#copyright {
 	padding: 1.5em 0 1.5em 0;
 }
 
+p#copyright a {
+	color: inherit;
+}
+
 /* @media Queries
 ======================================== */
 
