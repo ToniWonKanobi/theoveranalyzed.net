@@ -32,9 +32,25 @@ It's that good.
 
 </aside>
 
+ ### Update: <i>The Force Awakens</i> Is Still Killing It
+<p class="updateTime"><time datetime="2015-01-03">January 3, 2015</time></p>
+
+Ethan Anderton, again for [/Film][4]:
+
+> Star Wars: The Force Awakens has now pulled in about $687 million at the domestic box office, taking it past both Jurassic World in the #3 spot, and the once long-reigning champion Titanic at #2. And with all this happening after just 15 days, it’s clear that James Cameron’s Avatar is next.
+
+> And according to projections that have The Force Awakens raking in somewhere between $744.8 – $746 million by the end of the weekend, it looks like the Star Wars sequel will pass Avatar’s domestic record of $760.5 million by Monday. And since this is just after 15 days, who knows when this box office behemoth is going to stop.
+>
+> Meanwhile, internationally, the film is also still doing really well, having pulled in $704/2 million for a worldwide total of $1.39 billion. That has it sitting in the #7 spot on the all-time worldwide box office list behind The Avengers: Age of Ultron, Furious 7, The Avengers, Jurassic World, Titanic and Avatar.
+>
+> The Force Awakens should have no problem taking on every single one of those movies, with the exception of the top two. Titanic has a worldwide box office gross of $2.186 billion while Avatar has $2.788 billion. Therefore, in order to take the top spot, The Force Awakens needs to pull in nearly another billion and a half dollars. At the rate the film is making money, that doesn’t sound too difficult, but only time will tell.
+
+</aside>
+
 [^1]: The situation at home is particularly precarious because Allison *insists* on asking questions surrounding pivotal characters. And, despite my best intentions, I fear I couldn't answer any of those questions without possibly letting a spoiler slip.
 	<p>If ever there were a movie containing a spoiler one should absolutely avoid at all costs, <i>The Force Awakens</i> would be it (<a href="https://en.wikipedia.org/wiki/The_Empire_Strikes_Back" title="Wikipedia: The Empire Strikes Back">this one</a> not withstanding).
 	
 [1]: https://cdn0.vox-cdn.com/thumbor/r_eHmAxl4XDGsPCqaSBiKtlXzGQ=/0x35:2040x1395/800x536/cdn0.vox-cdn.com/uploads/chorus_image/image/48392735/des0135.PUB.4K.final.1267-2040.0.0.jpg "Star Wars The Force Awakens"
 [2]: http://www.forbes.com/sites/scottmendelson/2015/12/14/can-star-wars-the-force-awakens-live-up-to-the-hype-these-6-blockbusters-did/ "Forbes piece questioning The Force Awakens's ability to meet fans' expectations"
 [3]: http://www.slashfilm.com/star-wars-the-force-awakens-box-office-biggest-us-opening-ever/ "/Film: Star Wars: The Force Awakens kills it"
+[4]: http://www.slashfilm.com/star-wars-the-force-awakens-box-office-passes-titanic-avatar-is-next/ "/Film: ‘Star Wars: The Force Awakens’ Box Office Surpasses ‘Titanic’, and ‘Avatar’ Is Next to Go Down"

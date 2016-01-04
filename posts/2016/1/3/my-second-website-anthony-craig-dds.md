@@ -34,7 +34,7 @@ I'll detail in a future post how I got my dental website up and running via GitH
 
 Until then, head on over and check it out: <http://anthonycraigdds.com>
 
-[^1]: (Duh). I'm embarrassed to note that if my website were a public GitHub repository, the commit log---chalk full of commit messages like "fixing CSS"---would be close to 500.
+[^1]: (Duh). I'm embarrassed to note that if my website were a public GitHub repository, you'd find the commit log---chalk full of commit messages like "fixing CSS"---would be close to 1100.
 [^2]: Not that I wouldn't mind doing so 🤓
 [^3]: Why would I want to do that? Well, I don't plan on blogging as Dr. Anthony Craig all that often (mostly because dentistry isn't really that interesting to non-dental people). So all the nifty blog-aware stuff Casey has written into Camel would be lost on my dental website.
 
