@@ -161,7 +161,7 @@ For whatever reason, I was never able to get it to work with my Squarespace site
 3. Run the command `npm i markdown-it-highlightjs --save`
 4. Test the installation by checking `package.json` for a new dependency
 	
-	!["Adding `markdown-it-highlightjs` to package.json"][10]
+	![Adding `markdown-it-highlightjs` to package.json][10]
 	
 5. Open `camel.js` and add the following to the Initialization section:
 
