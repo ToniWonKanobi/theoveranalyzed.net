@@ -32,6 +32,8 @@ It's that good.
 
 </aside>
 
+<aside class="update">
+
  ### Update: <i>The Force Awakens</i> Is Still Killing It
 <p class="updateTime"><time datetime="2015-01-03">January 3, 2015</time></p>
 
