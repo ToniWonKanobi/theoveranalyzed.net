@@ -236,8 +236,6 @@ And while `markdown-it-anchor` is still a dependency on this project, I've tweak
 
 I re-enabled `markdown-it-highlightjs` after I realized just how much `<code>` I post on the site. Just as I wouldn't want to live without highlighting in my code editor of choice, I don't think readers want to live without code highlighting in large blocks of code.
 
-Note that I did not enable highlighting on raw `<code>` blocks. I also removed the background color on regular `<code>` blocks. This way, quick snippets of code flow better with the text. And when I want to share a large block of text, it will stand out more.
-
 </aside>
 
 [^1]: Appending `--save` marks the package as a dependency in Camel's `package.json`, which is important!

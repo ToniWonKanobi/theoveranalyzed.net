@@ -121,6 +121,9 @@ After a bit more searching, I found this [page][7], in which Alex Plumb shared h
 After some cribbing of my own, here is the contents of my version of Alex's script:
 
 ```
+# Takes as input a potentially unsafe-for-URLs string of text (such as a blog post in Title Case) and creates a URL-safe version
+# `This Is a Title of a Post!` --> `this-is-a-title-of-a-post`
+
 set theclip to the clipboard contents
 on normalize(the_string)
 	set p_script to ¬
@@ -189,12 +192,18 @@ set theresult to replace_chars(theresult, "[", "")
 set theresult to replace_chars(theresult, "]", "")
 set theresult to replace_chars(theresult, "`", "")
 set theresult to replace_chars(theresult, ";", "")
+set theresult to replace_chars(theresult, ",", "")
+set theresult to replace_chars(theresult, ".", "")
+set theresult to replace_chars(theresult, "'", "")
 set theresult to replace_chars(theresult, "/", "")
-set theresult to replace_chars(theresult, "?"f, "")
+set theresult to replace_chars(theresult, "?", "")
 set theresult to replace_chars(theresult, ":", "")
 set theresult to replace_chars(theresult, "@", "")
 set theresult to replace_chars(theresult, "=", "")
 set theresult to replace_chars(theresult, "$", "")
+set theresult to replace_chars(theresult, "(", "")
+set theresult to replace_chars(theresult, ")", "")
+set theresult to replace_chars(theresult, "\"", "")
 set theresult to change_case(theresult)
 ```
 
@@ -218,9 +227,9 @@ This couldn't get any easier.
 	<figcaption style="font-style: normal;">😑 &#10142; 😄</figcaption>
 </figure>
 
-### Download
+### Source
 
-You can download `Make URL Slug.workflow` [here][10].
+You can check out `Make URL Slug.workflow` on [GitHub][10].
 
 <aside class="update">
 
@@ -240,4 +249,4 @@ Found some errors in my script, such as not removing commas. So, I fixed that. (
 [7]: http://superuser.com/questions/635351/process-clipboard-content-on-mac-os "Superuser: Process clipboard content on Mac OS?"
 [8]: http://superuser.com/revisions/635370/2 "The basis for my version of Slugify"
 [9]: http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html "AppleScript tutorial"
-[10]: http://d.pr/f/HBe8 "Download my `Make URL Slug.workflow`"
+[10]: https://gist.github.com/ToniWonKanobi/a1a761a95fcc32625370#file-make-url-slug-workflow "View my `Make URL Slug.workflow` on GitHub"
