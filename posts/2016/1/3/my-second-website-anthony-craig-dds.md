@@ -1,4 +1,4 @@
-Title: My Second Website: Anthony Craig, DDS  
+Title: My Second Website: Anthony Craig DDS  
 Date: 2016-01-03 08:02  
 Description: I finally made a website for my professional persona.  
 Tags: Dentistry  

@@ -692,13 +692,14 @@ p#copyright a {
 	}
 
 	h1#siteTitle {
-		font-size: 1.8em;
+		font-size: 8vw;
 		padding-top: 0.6em;
 	}
 
 	p#siteByline {
+		font-size: 4vw;
 		margin-top: -0.5em;
-		padding-bottom: 1.2em;
+		padding-bottom: 1.5em;
 	}
 
 	header.postHeader h2 {
@@ -720,14 +721,6 @@ p#copyright a {
 
 	body {
 		font-size: 0.95em;
-	}
-
-	h1#siteTitle {
-		font-size: 1.6em;
-	}
-
-	p#siteByline {
-		padding-bottom: 1.2em;
 	}
 
 	blockquote {
