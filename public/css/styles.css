@@ -681,10 +681,7 @@ p#copyright a {
 	color: inherit;
 }
 
-/* @media Queries
-======================================== */
-
-/* Mobile Displays */
+/* Mobile-device-sized Viewport Widths */
 @media (max-width: 736px) {
 
 	body {
@@ -692,14 +689,13 @@ p#copyright a {
 	}
 
 	h1#siteTitle {
-		font-size: 8vw;
-		padding-top: 0.6em;
+		font-size: 8.5vw;
+		padding-top: 5vw;
 	}
 
 	p#siteByline {
-		font-size: 4vw;
-		margin-top: -0.5em;
-		padding-bottom: 1.5em;
+		margin-top: -3vw;
+		padding-bottom: 6vw;
 	}
 
 	header.postHeader h2 {
@@ -716,7 +712,7 @@ p#copyright a {
 
 }
 
-/* Small Displays */
+/* Smaller mobile-device-sized Viewport Widths */
 @media (max-width: 320px) {
 
 	body {
