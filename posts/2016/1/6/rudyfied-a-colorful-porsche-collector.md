@@ -30,5 +30,5 @@ But they're idiots.
 
 (From [Jalopnik][2])
 
-[1]: http://d.pr/i/12GaY+ "Tough life"
+[1]: https://d.pr/i/12GaY+ "Tough life"
 [2]: http://jalopnik.com/this-guy-wants-to-have-a-porsche-911-in-every-color-1751367536 "Source piece on Jalopnik"

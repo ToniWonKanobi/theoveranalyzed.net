@@ -2,7 +2,7 @@ Title: Permalinks in Squarespace
 Date: 2015-02-01 10:00  
 Description: I figured out how to enable permalinks in posts.  
 Tags: Blogging, Squarespace  
-Image: http://d.pr/i/118J1+  
+Image: https://d.pr/i/118J1+  
 
 ![Permalink Symbols][1]
 
@@ -119,7 +119,7 @@ Now, whenever I post a "Linked List" item, as long as the "External link" checkb
 [g]: http://macsparky.com/blog/permalinkingss "How David Sparks did permalinks in his Squarespace-powered blog"
 [h]: http://smilesoftware.com/TextExpander/index.html "TextExpander's webpage"
 
-[1]: http://d.pr/i/118J1+ "Permalink Symbols"
+[1]: https://d.pr/i/118J1+ "Permalink Symbols"
 [2]: http://stream-seo.com/squarespace-review/ "Review of the Squarespace CMS"
 [3]: /2015/1/31/bigfoot-footnotes-in-squarespace "My post on incorporating Bigfoot footnotes in Squarespace"
 [4]: http://daringfireball.net/2004/06/linked_list "John Gruber introducing the 'Linked List'"

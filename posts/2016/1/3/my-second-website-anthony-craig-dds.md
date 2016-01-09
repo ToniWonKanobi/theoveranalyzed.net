@@ -38,7 +38,7 @@ Until then, head on over and check it out: <http://anthonycraigdds.com>
 [^2]: Not that I wouldn't mind doing so 🤓
 [^3]: Why would I want to do that? Well, I don't plan on blogging as Dr. Anthony Craig all that often (mostly because dentistry isn't really that interesting to non-dental people). So all the nifty blog-aware stuff Casey has written into Camel would be lost on my dental website.
 
-[1]: http://d.pr/i/1fgCa+ "My professional website is finally done"
+[1]: https://d.pr/i/1fgCa+ "My professional website is finally done"
 [2]: /tags/Star%20Wars "Posts tagged 'Star Wars'"
 [3]: https://en.wikipedia.org/wiki/Dentist "Wikipedia: Dentist"
 [4]: /tags/Meta "Posts tagged 'Meta'"

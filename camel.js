@@ -334,7 +334,7 @@ function generateHtmlAndMetadataForFile(file) {
 function externalFilenameForFile(file, request) {
 	var hostname = request != undefined ? request.headers.host : '';
 
-	var retVal = hostname.length ? ('http://' + hostname) : '';
+	var retVal = hostname.length ? ('https://' + hostname) : '';
 	retVal += file.at(0) == '/' && hostname.length > 0 ? '' : '/';
 	retVal += file.replace('.md', '').replace(postsRoot, '').replace(postsRoot.replace('./', ''), '');
 	return retVal;

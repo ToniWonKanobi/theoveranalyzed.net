@@ -1,0 +1,37 @@
+Last login: Fri Jan  8 22:14:43 on ttys000
+Anthonys-MacBook-Pro-25:~ Anthony$ cd /Users/Anthony/Dropbox/Web/Deploy/theoveranalyzed heroku addons:create ssl:endpoint
+Anthonys-MacBook-Pro-25:theoveranalyzed Anthony$ heroku addons:create ssl:endpoint
+Updating Heroku v4 CLI to 4.27.10-ef76798 (master)... done
+Updating plugins... done
+Creating ssl-horizontal-1660... done, ($20.00/month)
+Adding ssl-horizontal-1660 to theoveranalyzed... done
+Next add your certificate with `heroku certs:add CERT KEY`.
+Use `heroku addons:docs ssl` to view documentation.
+Anthonys-MacBook-Pro-25:theoveranalyzed Anthony$ heroku certs:add www_theoveranalyzed_net.pem www_theoveranalyzed_net.key
+heroku-cli: Installing core plugins... done
+Resolving trust chain... failed
+ !    Unable to read www_theoveranalyzed_net.pem file: No such file or directory - www_theoveranalyzed_net.pem
+Anthonys-MacBook-Pro-25:theoveranalyzed Anthony$ heroku certs
+theoveranalyzed has no SSL Endpoints.
+Use `heroku certs:add CRT KEY` to add one.
+Anthonys-MacBook-Pro-25:theoveranalyzed Anthony$ heroku certs:add www_theoveranalyzed_net.pem www_theoveranalyzed_net.key
+Resolving trust chain... failed
+ !    Unable to read www_theoveranalyzed_net.pem file: No such file or directory - www_theoveranalyzed_net.pem
+Anthonys-MacBook-Pro-25:theoveranalyzed Anthony$ heroku certs:add /Users/Anthony/Desktop/www_theoveranalyzed_net.pem /Users/Anthony/Desktop/www_theoveranalyzed_net.key 
+Resolving trust chain... done
+Adding SSL Endpoint to theoveranalyzed... done
+theoveranalyzed now served by kagoshima-1321.herokussl.com
+Certificate details:
+Common Name(s): theoveranalyzed.net
+                www.theoveranalyzed.net
+
+Expires At:     2017-01-08 23:59 UTC
+Issuer:         /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Domain Validation Secure Server CA
+Starts At:      2016-01-09 00:00 UTC
+Subject:        /OU=Domain Control Validated/OU=EssentialSSL/CN=www.theoveranalyzed.net
+SSL certificate is verified by a root authority.
+Anthonys-MacBook-Pro-25:theoveranalyzed Anthony$ heroku certs
+Endpoint                      Common Name(s)                                Expires               Trusted
+----------------------------  --------------------------------------------  --------------------  -------
+kagoshima-1321.herokussl.com  www.theoveranalyzed.net, theoveranalyzed.net  2017-01-08 23:59 UTC  True
+Anthonys-MacBook-Pro-25:theoveranalyzed Anthony$ 
