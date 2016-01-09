@@ -3,7 +3,7 @@ Date: 2015-12-08 08:25
 Link: http://angrystaffofficer.com/2015/11/17/center-for-galactic-lessons-learned/  
 Description: Star Wars, from a certain point of view.  
 Tags: Star Wars  
-Image: http://d.pr/i/7RPQ+  
+Image: https://d.pr/i/7RPQ+  
 
 Despite childhood notions of the contrary, neither the [Rebel Alliance][1] nor the [Galactic Empire][2] made militarily-sound decisions.
 

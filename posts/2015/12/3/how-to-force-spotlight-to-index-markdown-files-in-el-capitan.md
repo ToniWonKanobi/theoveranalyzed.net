@@ -2,7 +2,7 @@ Title: How to Force Spotlight to Index Markdown Files in El Capitan
 Date: 2015-12-03 13:53  
 Description: This has been bothering me for months.  
 Tags: Best Of, Power User, Spotlight  
-Image: http://d.pr/i/16cND+  
+Image: https://d.pr/i/16cND+  
 
 ![This was the key][1]
 
@@ -16,7 +16,7 @@ Several clean restores and countless [Spotlight re-indexes][11] later, the issue
 
 It was maddening.
 
-![I hate you Spotlight.](http://d.pr/i/16UH6+ "I hate you Spotlight")
+![I hate you Spotlight.](https://d.pr/i/16UH6+ "I hate you Spotlight")
 <!-- {.screenshot} -->
 
 Then this morning I had a breakthrough.
@@ -41,7 +41,7 @@ Here's how I fixed it:
 
 2. Move `Markdown.mdimporter` to `/Library/Spotlight`
 
-	![Put the mdimporter here](http://d.pr/i/14Yuo+ "Put the mdimporter here")
+	![Put the mdimporter here](https://d.pr/i/14Yuo+ "Put the mdimporter here")
 	<!-- {.screenshot} -->
 	
 	**This is important:** Don't move it to the "user" directory as Lipschitz suggests (`~/Library/Spotlight`)---put it in the System's Library folder as I've detailed above
@@ -56,7 +56,7 @@ Here's how I fixed it:
 
 And done.
 
-![Ahh.](http://d.pr/i/19g9D+ "Ahh")
+![Ahh.](https://d.pr/i/19g9D+ "Ahh")
 <!-- {.screenshot} -->
 
 ***
@@ -73,14 +73,14 @@ Now, onto more website fiddling.
 	<p><pre><code class="hljs language-nohighlight">sudo mdutil -E /Volumes/Macintosh\ HD/Users/Anthony/Websites/TheOverAnalyzed/posts/</code></pre></p>
 	<p style="display: inline;">This isn't useful if you have Markdown files all over the place (as I do). If you're like me, just reindex the whole drive.</p>
 
-[1]: http://d.pr/i/16cND+ "This was the key"
+[1]: https://d.pr/i/16cND+ "This was the key"
 [2]: https://en.wikipedia.org/wiki/Markdown "Wikipedia: Markdown"
 [3]: https://en.wikipedia.org/wiki/Semantic_HTML "Wikipedia: 'Semantic HTML'"
 [4]: http://www.w3.org/wiki/HTML/Elements/section "W3C: Section Element"
 [5]: http://www.w3.org/wiki/HTML/Elements/aside "W3C: Aside Element"
 [6]: /count "Post count on TheOverAnalyzed"
 [7]: https://en.wikipedia.org/wiki/Console_(OS_X) "Wikipedia: Console (OS X)"
-[8]: http://d.pr/i/1b0WU+ "Sigh"
+[8]: https://d.pr/i/1b0WU+ "Sigh"
 [9]: http://apple.stackexchange.com/questions/193368/what-is-the-rootless-feature-in-el-capitan-really "Rootless in El Capitan"
 [10]: https://www.google.com/webhp?hl=en#safe=off&amp;hl=en&amp;q=spotlight+%22XPC+connection+was+invalidated%22 "Rootless to blame?"
 [11]: https://support.apple.com/en-us/HT201716 "Apple: 'Spotlight: How to re-index folders or volumes'"

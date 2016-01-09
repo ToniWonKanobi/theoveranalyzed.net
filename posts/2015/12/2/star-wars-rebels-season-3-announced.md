@@ -3,7 +3,7 @@ Date: 2015-12-02 20:38
 Link: http://www.slashfilm.com/star-wars-rebels-season-3-announced/  
 Description: Star Wars Rebels gets a Season 3.  
 Tags: Star Wars  
-Image: http://d.pr/i/1aavO+  
+Image: https://d.pr/i/1aavO+  
 
 ![Star Wars Rebels][1]
 
@@ -21,7 +21,7 @@ Everyone knows what happens after Rebels: [Star Wars][7] happens. There's really
 
 Despite it being a TV series aimed at children and young adults, I've enjoyed Star Wars Rebels quite a bit. Yes, there have been times (like right now in the midst of Season 2) where the plot seemed to really stagnate: no character development, no Clone Wars fan-service, and no Darth Vader. But overall, the series has been a noble effort from Filoni and the rest of the team. This is the first 'new' thing from Star Wars that didn't invariably [suck][9].
 
-[1]: http://d.pr/i/1aavO+ "Star Wars Rebels"
+[1]: https://d.pr/i/1aavO+ "Star Wars Rebels"
 [2]: /2015/1/13/billy-dee-williams-will-play-lando-calrissian-in-star-wars "My post entitled 'Billy Dee Williams Will Play Lando Calrissian in Star Wars Rebels'"
 [3]: /2015/3/3/sarah-michelle-gellar-star-wars-rebels-casting-announced "My post entitled 'Sarah Michelle Gellar Joins Star Wars Rebels'"
 [4]: /2015/4/18/star-wars-rebels-season-2-trailer "My post entitled 'Star Wars Rebels Season 2 Trailer & Poster: Rex Is Back and Darth Vader Fights the Jedi'"

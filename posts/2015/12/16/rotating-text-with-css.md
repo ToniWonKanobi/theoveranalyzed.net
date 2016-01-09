@@ -2,7 +2,7 @@ Title: Rotating Text with CSS
 Date: 2015-12-16 08:41  
 Description: CSS3 is so neat-o.  
 Tags: Best Of, Web Design, CSS  
-Image: http://d.pr/i/14v3E+  
+Image: https://d.pr/i/14v3E+  
 
 ![Upside-down flag emoji][1]
 
@@ -56,7 +56,7 @@ Easy. [CSS3][4]!
 
 [a]: /css/styles.css "Main stylesheet for TheOverAnalyzed"
 
-[1]: http://d.pr/i/14v3E+ "Upside-down flag emoji"
+[1]: https://d.pr/i/14v3E+ "Upside-down flag emoji"
 [2]: /2015/12/16/fu-2016#flag-thingy "Portion of that post that contained the flag emoji in question"
 [3]: http://www.fu2016.com/wp-content/themes/hoc/assets/img/layout/logo.ico "House of Cards favicon"
 [4]: https://css-tricks.com/snippets/css/text-rotation/ "CSS-Tricks: Text Rotation"

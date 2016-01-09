@@ -3,7 +3,7 @@ Date: 2015-12-03 14:40
 Link: http://www.huhmagazine.co.uk/10779/study-finds-quitting-facebook-makes-you-happier-and-less-stressed  
 Description: You really should quit Facebook, so I can quit cross-posting from Twitter.  
 Tags: Facebook  
-Image: http://d.pr/i/j6BY+  
+Image: https://d.pr/i/j6BY+  
 
 ![Quit Facebook already][1]
 
@@ -17,5 +17,5 @@ Perhaps we should," indeed.
 
 (From [Daring Fireball][2])
 
-[1]: http://d.pr/i/j6BY+ "Quit Facebook already"
+[1]: https://d.pr/i/j6BY+ "Quit Facebook already"
 [2]: http://daringfireball.net/linked/2015/12/03/facebook-vs-happiness "Source post from John Gruber"

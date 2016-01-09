@@ -3,7 +3,7 @@ Date: 2015-12-16 10:39
 Link: http://www.slashfilm.com/star-wars-the-force-awakens-spoiler-free-review/  
 Description: I think we're good to go.   
 Tags: Star Wars  
-Image: http://d.pr/i/1eoMr+  
+Image: https://d.pr/i/1eoMr+  
 
 Peter Sciretta for /Film:
 

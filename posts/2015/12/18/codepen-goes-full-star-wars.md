@@ -2,7 +2,7 @@ Title: CodePen Goes Full Star Wars
 Date: 2015-12-18 15:55  
 Description: Some folks had a lot of time on their hands.  
 Tags: Star Wars, CSS, JavaScript  
-Image: http://d.pr/i/17F0S+  
+Image: https://d.pr/i/17F0S+  
 
 Here are a couple of awesome CodePen Picks from today.
 

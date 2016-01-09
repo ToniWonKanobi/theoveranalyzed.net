@@ -3,11 +3,11 @@ Date: 2015-12-08 10:16
 Link: http://angrystaffofficer.com/2015/11/23/battle-staff-made-human/  
 Description: Anything with Michael Scott *must* be great.  
 Tags: The Office  
-Image: http://d.pr/i/198P5+  
+Image: https://d.pr/i/198P5+  
 
 <figure>
 	<a href="https://toplayusout.files.wordpress.com/2008/11/michael-scott2.jpg" title="Michael Scott">
-		<img src="http://d.pr/i/198P5+" alt="Michael Scott">
+		<img src="https://d.pr/i/198P5+" alt="Michael Scott">
 	</a>
 	<figcaption class="source">Source: <a href="https://toplayusout.wordpress.com" title="'To Play Us Out blog'">To Play Us Out</a></figcaption>
 </figure>

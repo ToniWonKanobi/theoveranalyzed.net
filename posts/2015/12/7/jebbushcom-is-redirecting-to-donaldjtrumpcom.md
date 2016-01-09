@@ -3,7 +3,7 @@ Date: 2015-12-07 22:09
 Link: http://www.theverge.com/2015/12/7/9866818/jeb-bush-domain-donald-trump  
 Description: I don't care what political leanings you might have: Donald Trump's done at least one thing right.  
 Tags: Politics, The Web  
-Image: http://d.pr/i/1ex2p+  
+Image: https://d.pr/i/1ex2p+  
 
 ![Donald Trump][1]
 
@@ -13,7 +13,7 @@ Image: http://d.pr/i/1ex2p+
 
 [Say what you will][6] about Trump---this is pure internet-awesome.
 
-[1]: http://d.pr/i/1ex2p+ "Orange skin, white hair."
+[1]: https://d.pr/i/1ex2p+ "Orange skin, white hair."
 [2]: /2015/12/7 "More posts from today, including one from The Verge"
 [3]: http://money.cnn.com/2015/04/06/technology/hillary-clinton-website/ "What idiot suggested not buying this domain!?"
 [4]: https://jeb2016.com/ "Almost as cool as jebbush.com"
