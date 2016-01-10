@@ -47,6 +47,14 @@ app.use(function (request, response, next) {
 });
 var server = http.createServer(app);
 
+// Let's see if this works
+var forceSsl = function (req, res, next) {
+   if (req.headers['x-forwarded-proto'] !== 'https') {
+	   return res.redirect(['https://', req.get('Host'), req.url].join(''));
+   }
+   return next();
+};
+
 // "Statics"
 var postsRoot = './posts/';
 var templateRoot = './templates/';
@@ -334,7 +342,7 @@ function generateHtmlAndMetadataForFile(file) {
 function externalFilenameForFile(file, request) {
 	var hostname = request != undefined ? request.headers.host : '';
 
-	var retVal = hostname.length ? ('https://' + hostname) : '';
+	var retVal = hostname.length ? ('http://' + hostname) : '';
 	retVal += file.at(0) == '/' && hostname.length > 0 ? '' : '/';
 	retVal += file.replace('.md', '').replace(postsRoot, '').replace(postsRoot.replace('./', ''), '');
 	return retVal;
