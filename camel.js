@@ -45,7 +45,6 @@ app.use(function (request, response, next) {
 	response.header('X-powered-by', 'Camel (https://github.com/cliss/camel)');
 	next();
 });
-var server = http.createServer(app);
 
 // Let's see if this works
 var forceSsl = function (req, res, next) {
@@ -54,6 +53,8 @@ var forceSsl = function (req, res, next) {
    }
    return next();
 };
+
+var server = http.createServer(app);
 
 // "Statics"
 var postsRoot = './posts/';
