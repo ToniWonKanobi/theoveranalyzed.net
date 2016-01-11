@@ -2,7 +2,7 @@ Title: Useful Safari Extensions
 Date: 2015-11-26 09:08  
 Description: Here are some useful Safari extensions I've been using for a while.  
 Tags: Power User, Safari  
-Image: http://d.pr/i/1aZ8X+  
+Image: https://d.pr/i/1aZ8X+  
 
 ![Safari Extensions][1]
 
@@ -28,7 +28,7 @@ This came through the pipeline today, from [The Sweet Setup][8]. Here's their ex
 
 Check out more Power User posts [here][9].
 
-[1]: http://d.pr/i/1aZ8X+ "Safari Extensions"
+[1]: https://d.pr/i/1aZ8X+ "Safari Extensions"
 [2]: http://techcrunch.com/2013/04/03/google-forks-webkit-and-launches-blink-its-own-rendering-engine-that-will-soon-power-chrome-and-chromeos/ "Techcrunch on Chrome going to Blink"
 [3]: https://en.wikipedia.org/wiki/WebKit "Wikipedia: WebKit"
 [4]: /2015/3/6/minimal-status-bar-for-safari-by-visnup "My post sharing the Minimal Status Bar"

@@ -6,6 +6,8 @@ What Am I Up to Right Now?[^1]
 * Living in [Southern California][1]
 * Working at Hospitality Dental Group and Orthodontics (see <http://anthonycraigdds.com>)
 * [Tweaking][2] this website
+	* Now serving `https`
+	* Ditched the `www` because 2016
 * Watching movies on iTunes
 * Reading lots of <i>Star Wars</i> articles
 

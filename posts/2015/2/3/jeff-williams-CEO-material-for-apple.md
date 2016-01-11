@@ -3,7 +3,7 @@ Date: 2015-02-03 15:00
 Link: http://www.aboveavalon.com/notes/2015/1/29/jeff-williams-apple-ceo-material  
 Description: Could Apple's current COO end up its next CEO? (Does this sound familiar?)  
 Tags: Apple  
-Image: http://d.pr/i/1b2QC+  
+Image: https://d.pr/i/1b2QC+  
 
 ![Above Avalon on Jeff Williams][1]
 
@@ -28,7 +28,7 @@ We will just have to wait and see. Until then, I am happy to go along for the ri
 [^1]: Though, admittedly, he sometimes comes off as a tool.
 [^2]: I cannot stress enough that my appraisal of these contenders' CEO abilities is based *solely* on those little glimpses into who they are that we get to see at the Keynotes. They could be totally different people behind closed doors. Hard to say obviously. 
 
-[1]: http://d.pr/i/1b2QC+ "Above Avalon on Jeff Williams"
+[1]: https://d.pr/i/1b2QC+ "Above Avalon on Jeff Williams"
 [2]: http://daringfireball.net/2015/01/jeff_williams_apple_executives "John Gruber's take on Jeff Williams"
 [3]: http://www.macrumors.com/2012/11/05/jony-ive-is-now-playing-the-steve-jobs-role/ "MacRumors on Jony Ive's new role"
 [4]: http://news.cnet.com/Dell-Apple-should-close-shop/2100-1001_3-203937.html "Cnet: 'Dell: Apple should close shop'"

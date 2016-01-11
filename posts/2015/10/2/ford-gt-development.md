@@ -3,7 +3,7 @@ Date: 2015-10-02 10:24
 Link: https://youtu.be/wC8IX1AqS1s  
 Description: The new Ford GT is a beast in the most absolute sense of the word 🇺🇸  
 Tags: Ford  
-Image: http://d.pr/cWQm+  
+Image: https://d.pr/cWQm+  
 Video: https://youtu.be/wC8IX1AqS1s  
 
 Raj Nair, Ford's Group Vice President and Chief Technical Officer, Global Product Development:[^1]

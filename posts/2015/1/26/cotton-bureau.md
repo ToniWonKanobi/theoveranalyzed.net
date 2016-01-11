@@ -2,9 +2,9 @@ Title: Cotton Bureau
 Date: 2015-01-26 10:00  
 Description: I love this site.  
 Tags: Reviews, Cotton Bureau  
-Image: http://d.pr/i/1bFEz+  
+Image: https://d.pr/i/1bFEz+  
 
-![Cotton Bureau](http://d.pr/i/1bFEz+ "Cotton Bureau")
+![Cotton Bureau](https://d.pr/i/1bFEz+ "Cotton Bureau")
 
 I recently became an ambassador of sorts for my favorite online T-shirt company, [Cotton Bureau][1]. The concept of the site is a lot like [Kickstarter][2] or [Indiegogo][3], in that the business model is basically crowdfunding.
 

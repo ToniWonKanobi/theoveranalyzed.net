@@ -3,9 +3,9 @@ Date: 2015-05-09 06:44
 Link: http://mercury.io/blog/more-than-you-ever-wanted-to-know-about-apples-spotlight-location-icons  
 Description: A lot of thought went into Apple's Spotlight icons in iOS 8, among other things.  
 Tags: UI Design, Apple  
-Image: http://d.pr/i/PfxM+  
+Image: https://d.pr/i/PfxM+  
 
-![Spotlight Location Icons](http://d.pr/i/6nFy+ "Spotlight Location Icons")
+![Spotlight Location Icons](https://d.pr/i/6nFy+ "Spotlight Location Icons")
 
 Rusty Mitchell shares a fascinating look at Apple's Spotlight location icons in iOS 8:
 

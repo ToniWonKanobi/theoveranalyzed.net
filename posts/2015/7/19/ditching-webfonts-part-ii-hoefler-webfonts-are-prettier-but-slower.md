@@ -25,14 +25,14 @@ Thompson was right. In modifying my CSS to call for generic font families in lie
 Thompson's blog [Stratechery][3] uses the [Freight Sans][4] font family, provided by Adobe's TypeKit webfont repository:
 
 <figure>
-	<img src="http://d.pr/i/1lonW+" alt="Stratechery" title="Stratechery">
+	<img src="https://d.pr/i/1lonW+" alt="Stratechery" title="Stratechery">
 	<figcaption><a href="http://stratechery.com" title="Ben Thompson's website, Stratechery">Stratechery</a> showing very little latency</figcaption>
 </figure>
 
 For [Liss Is More][5], Casey Liss uses [Lato][6], another TypeKit font:
 
 <figure>
-	<img src="http://d.pr/i/120yX+" alt="Liss Is More" title="Liss Is More">
+	<img src="https://d.pr/i/120yX+" alt="Liss Is More" title="Liss Is More">
 	<figcaption><a href="http://caseyliss.com" title="Casey Liss's personal blog, Liss Is More">Liss Is More</a>, with relatively no latency as well</figcaption>
 </figure>
 
@@ -47,17 +47,17 @@ Bowler wrote this post in 2013, right as Hoefler was launching its webfont servi
 And of course I checked out their source code as well.
 
 <figure>
-	<img src="http://d.pr/i/1k8Wv+" alt="kottke.org source" title="kottke.org source">
+	<img src="https://d.pr/i/1k8Wv+" alt="kottke.org source" title="kottke.org source">
 	<figcaption><a href="http://kottke.org" title="Jason Kottke">kottke.org</a></figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/14hQq+" alt="Rands in Repose source" title="Rands in Repose source">
+	<img src="https://d.pr/i/14hQq+" alt="Rands in Repose source" title="Rands in Repose source">
 	<figcaption><a href="http://randsinrepose.com" title="Michael Lopp's blog, Rands in Repose">Rands in Repose</a></figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/11Gtm+" alt="SimpleBits source" title="SimpleBits source">
+	<img src="https://d.pr/i/11Gtm+" alt="SimpleBits source" title="SimpleBits source">
 	<figcaption><a href="http://simplebits.com" title="SimpleBits source">SimpleBits</a></figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ You may have noticed that I've re-enabled my Cloud.typography webfont, Ideal San
 [9]: http://kottke.org "Jason Kottke's blog, kottke.org"
 [10]: http://randsinrepose.com "Michael Lopp's blog, Rands in Repose"
 [11]: http://simplebits.com "SimpleBits and Dribbble founder, Dan Cederholm"
-[12]: http://d.pr/i/138Zv+ "Speedtesting the site with everything turned back on"
+[12]: https://d.pr/i/138Zv+ "Speedtesting the site with everything turned back on"
 [13]: http://daringfireball.net "John Gruber's personal blog, Daring Fireball"
 [14]: http://marco.org "Marco Arment's personal blog, Marco.org"
 [15]: https://en.wikipedia.org/wiki/Google_Fonts "Wikipedia: Google Fonts"

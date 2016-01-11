@@ -2,7 +2,7 @@ Title: Why I Couldn't Handle the iPhone 6 Plus
 Date: 2014-10-27 12:00  
 Description: So I tried the iPhone 6 Plus, and it was too much for me.  
 Tags: Reviews, iPhone  
-Image: http://d.pr/i/1jeq8+  
+Image: https://d.pr/i/1jeq8+  
 
 ![iPhone 6 Plus][1]
 
@@ -58,7 +58,7 @@ I love it. It's like having my iPhone 5S again (or the 5C before that, or the 5S
 
 Different strokes for different folks I guess.
 
-[1]: http://d.pr/i/1jeq8+ "iPhone 6 Plus"
+[1]: https://d.pr/i/1jeq8+ "iPhone 6 Plus"
 [2]: http://www.cnet.com/news/apple-iphone-6-preorders/ "Cnet on iPhone 6 preorders"
 [3]: http://www.gottabemobile.com/2014/10/04/can-iphone-6-plus-replace-your-ipad-mini-with-retina/ "iPhone 6 Plus as replacement for iPad mini?"
 [4]: http://bgr.com/2014/09/22/iphone-6-vs-iphone-6-plus-battery-life/ "Boy Genius Report on the new iPhones"

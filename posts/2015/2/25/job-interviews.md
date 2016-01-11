@@ -2,7 +2,7 @@ Title: Job Interviews
 Date: 2015-02-25 18:00  
 Description: I've been on a few job interviews the past few weeks. It hasn't been fun.  
 Tags: Dentistry  
-Image: http://d.pr/i/15qcR+  
+Image: https://d.pr/i/15qcR+  
 
 ![Anthony Craig, DDS][1]
 
@@ -44,7 +44,7 @@ What I take home from Abreu's story is solace---at least I'm not alone.
 
 [a]: http://www.sixcolors.com "Jason Snell's blog, Six Colors"
 
-[1]: http://d.pr/i/15qcR+ "Anthony Craig, DDS"
+[1]: https://d.pr/i/15qcR+ "Anthony Craig, DDS"
 [2]: https://lmjabreu.com/post/700-billion/ "Louie A interviewing Apple post it's $700B quarter"
 [3]: http://pacificdentalservices.com "Pacific Dental Services (PDS)"
 [4]: http://snellworld.com/a-personal-announcement.html "Jason Snell's introducing Six Colors"

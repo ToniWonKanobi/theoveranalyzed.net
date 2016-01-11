@@ -2,7 +2,7 @@ Title: Podcast Picks, Volume 1
 Date: 2015-10-18 10:21  
 Description: Podcasts are a great way to educate and entertain oneself. 
 Tags: Podcast Picks, Podcasts, Song Exploder  
-Image: http://d.pr/i/1gDp2+  
+Image: https://d.pr/i/1gDp2+  
 
 <p><em class="topStory">This is the first post in what I hope will become a series calling out great podcasts in general, or just an exceptional episode here or there. You can follow along with similar posts tagged <a href="/tags/Podcast%20Picks" title="Posts tagged 'Podcast Picks'">Podcast Picks</a>.</em></p>
 
@@ -50,7 +50,7 @@ This episode tells the tale of an entrepreneur who is trying to bring Hydrox bac
 
 [^1]: Heck, I didn't even have an iPhone in July 2012.
 
-[1]: http://d.pr/i/1gDp2+ "Song Exploder, episode 53: The Martian"
+[1]: https://d.pr/i/1gDp2+ "Song Exploder, episode 53: The Martian"
 [2]: https://twitter.com/HrishiHirway "Hrishikesh Hirway on Twitter"
 [3]: /2015/5/7/song-exploder-podcast-house-of-cards-and-downton-abbey "Song Exploder Podcast: House of Cards and Downton Abbey"
 [4]: http://www.theguardian.com/culture/2015/aug/06/ong-exploder-podcast-stories-behind-music "The Guardian: Song Exploder"
@@ -58,7 +58,7 @@ This episode tells the tale of an entrepreneur who is trying to bring Hydrox bac
 [6]: https://itunes.apple.com/au/album/martian-original-motion-picture/id1043613134?at=1l3vx9s "'The Martian' Original Motion Picture Soundtrack on iTunes"
 [7]: http://www.imdb.com/title/tt3659388/ "'The Martian' on IMDB"
 [8]: http://www.ncbi.nlm.nih.gov/pubmed/16597801 "PubMed: 'Emotion processing of major, minor, and dissonant chords: a functional magnetic resonance imaging study.'"
-[9]: http://d.pr/i/1k87U+ "Planet Money, episodes 386 and 652"
+[9]: https://d.pr/i/1k87U+ "Planet Money, episodes 386 and 652"
 [10]: https://overcast.fm/+BP59TVNE8 "Overcast link to the Planet Money, episode 386"
 [11]: http://www.npr.org/sections/money/2012/07/13/156723516/episode-386-the-cost-of-free-doughnuts "Planet Money, episode 386"
 [12]: https://overcast.fm/+BP59TVNE8 "Overcast link to the Planet Money, episode 386"

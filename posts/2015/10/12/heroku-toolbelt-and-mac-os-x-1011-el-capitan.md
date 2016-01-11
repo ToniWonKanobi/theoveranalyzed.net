@@ -2,9 +2,9 @@ Title: Heroku Toolbelt and Mac OS X 10.11 "El Capitan"
 Date: 2015-10-12 22:37  
 Description: El Capitan broke the Heroku Toolbelt. Here's how to fix it.  
 Tags: Power User, Camel  
-Image: http://d.pr/i/1bik6+  
+Image: https://d.pr/i/1bik6+  
 
-![El Cap. Oh, how you frustrated me on this one.](http://d.pr/i/1bik6+ "Sigh, Terminal, sigh.")
+![El Cap. Oh, how you frustrated me on this one.](https://d.pr/i/1bik6+ "Sigh, Terminal, sigh.")
 <!-- {.screenshot} -->
 
 If you use the [Heroku CLI][1], and you tried to re-install the [Heroku Toolbelt][2] because you messed something up in your project directory,[^1] you might have noticed Terminal throwing `bash` errors:

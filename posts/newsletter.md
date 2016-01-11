@@ -1,5 +1,6 @@
 Title: The Newsletter  
 Description: This page talks about how to subscribe to TheOverAnalyzed Newsletter  
+CSS: mailchimp.css  
 
 ### Why a Newsletter?
 
@@ -12,24 +13,12 @@ Every day, the MailChimp servers detect whether I've posted anything new since t
 ### Signup
 
 <!-- Begin MailChimp Signup Form -->
-<style rel="stylesheet" type="text/css" href="//cdn-images.mailchimp.com/embedcode/classic-081711.css">
-	#mc_embed_signup {
-		background:#fff; 
-		clear:left; 
-		font: 'Ideal Sans SSm A', 'Ideal Sans SSm B', "Avenir", -apple-system, sans-serif;  
-		width:300px;
-		margin-top: 2em
-	}
-	#mc-embedded-subscribe-form.validate { 
-		padding: 0
-	}
-</style>
 <div id="mc_embed_signup">
 <form action="//theoveranalyzed.us3.list-manage.com/subscribe/post?u=d327abe5985ea63318762e77c&amp;id=f04f3c4ed7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
 <div class="mc-field-group">
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email address">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="vader@galactic.empire">
 </div>
 <div id="mce-responses" class="clear">
 	<div class="response" id="mce-error-response" style="display:none"></div>

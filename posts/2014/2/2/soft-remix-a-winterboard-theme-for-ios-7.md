@@ -2,23 +2,23 @@ Title: Soft Remix: A WinterBoard Theme for iOS 7
 Date: 2014-02-02 22:52  
 Description: Jailbreaking = themes.  
 Tags: Reviews  
-Image: http://d.pr/i/1dizS+  
+Image: https://d.pr/i/1dizS+  
 
-![Soft Remix is one of the earliest available WinterBoard themes for iOS 7](http://d.pr/i/1d78E+ "Soft Remix is one of the earliest available WinterBoard themes for iOS 7")
+![Soft Remix is one of the earliest available WinterBoard themes for iOS 7](https://d.pr/i/1d78E+ "Soft Remix is one of the earliest available WinterBoard themes for iOS 7")
 <!-- {.screenshot .iphone} -->
 
 One of the most wonderful things about jailbreaking an iOS device is [WinterBoard][1]. Jay Freeman's ([Saurik][2]) own theming engine used to be pretty [slow-inducing][3] for pre A6 devices. But ever since iPhone 5, jailbreaking and WinterBoarding have little real performance drawbacks. 
 
 When the evasi0n team brought out the jailbreak for 2012, one of the first themes I installed was [FlatIcons][4]. An update to that theme was just recently submitted to its repository, and should be live on Cydia soon. To tide me over until them, a few weeks ago I installed a theme borne of a similar design esthetic: I call it 'flat, but not ugly' (as opposed to some hideous stock [iOS 7 app icons][5])
 
-![I cannot recall where I found this meme.](http://d.pr/i/179Co+ "Soft Remix is one of the earliest available WinterBoard themes for iOS 7")
+![I cannot recall where I found this meme.](https://d.pr/i/179Co+ "Soft Remix is one of the earliest available WinterBoard themes for iOS 7")
 <!-- {style="max-width: 75%;"} -->
 
 It's called [Soft Remix][6], and it's great. Besides a few glaringly ugly design choices (ahem, [Safari][7]), the majority of the new iOS 7 app icons are just plain stupid. (Why neon Jony? Why not pastels?) The designer, [Eduardo Lane López][8], created some 140 icons. The theme also applies a nifty icon mask that changes the stock shape to something more [Fischer-Pricey][9]. And I dig that. 
 
 Even apps that have not been specifically drawn by López look great with the custom mask overlaid. 
 
-![Precious](http://d.pr/i/1dizS+ "Precious")
+![Precious](https://d.pr/i/1dizS+ "Precious")
 <!-- {.screenshot .iphone} -->
 
 Soft Remix is a theme worth checking out if you tire of the ugly stock app icons as much as I do. And as stated previously, I am anxiously awaiting FlatIcons for iOS 7, which the designer has been [teasing][10] for weeks. 

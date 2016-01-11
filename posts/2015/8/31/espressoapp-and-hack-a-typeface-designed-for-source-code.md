@@ -15,11 +15,11 @@ In a lot of ways, Espresso is very much of the pre-2007 Apple era of OS X applic
 
 Editing in Espresso is nice due to their language highlighting. It makes reviewing code much easier:
 
-![This would be more laborious without all the pretty colors](http://d.pr/i/1jmu3+ "Espresso Colors")
+![This would be more laborious without all the pretty colors](https://d.pr/i/1jmu3+ "Espresso Colors")
 
 And what is especially nice about Espresso is their default custom font, Espresso Mono. That font features well thought-out character choices. For instance, in most monospace fonts, the capital "O" character is easily mistaken for the number "0". Espresso Mono has this taken care of:
 
-![Espresso Mono: the number "0" versus the letter "O"](http://d.pr/i/1fh8y+ "'0' vs 'O' in Espresso Mono")
+![Espresso Mono: the number "0" versus the letter "O"](https://d.pr/i/1fh8y+ "'0' vs 'O' in Espresso Mono")
 <!-- {.screenshot style="max-width: 50%;"} -->
 
 ### In the Spirit of Espresso Mono Comes Hack
@@ -42,15 +42,15 @@ Hack is characterized by a large x-height, wide aperture, and low contrast desig
 
 After visiting the GitHub page, I immediately found the CDN[^2] link and added that to my website's `<head>` section:
 
-![CDN source? Nice.](http://d.pr/i/sINJ+ "Adding the Hack stylesheet to `header.html`")
+![CDN source? Nice.](https://d.pr/i/sINJ+ "Adding the Hack stylesheet to `header.html`")
 
 I also called for Hack via `font-family` for `<pre>` and `<code>`:
 
-![Changing the font-family preference](http://d.pr/i/176dB+ "Calling for Hack in my `styles.css` stylesheet")
+![Changing the font-family preference](https://d.pr/i/176dB+ "Calling for Hack in my `styles.css` stylesheet")
 
 Voilà:
 
-![Hack installed on TheOverAnalyzed](http://d.pr/i/12y9F+ "Hack installed on TheOverAnalyzed")
+![Hack installed on TheOverAnalyzed](https://d.pr/i/12y9F+ "Hack installed on TheOverAnalyzed")
 
 [^1]: Looking in your direction, `.redirect`
 [^2]: You don't have to use a CDN---you could also deploy the font from you own [webserver][a], if you're into that sort of thing.

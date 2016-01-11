@@ -3,7 +3,7 @@ Date: 2015-10-08 12:20
 Link: https://youtu.be/YfeWNZqVYsE  
 Description: Star Wars Rebels Season 2 airs October 14 at 9:30 PM.  
 Tags: Star Wars  
-Image: http://d.pr/i/10CKN+  
+Image: https://d.pr/i/10CKN+  
 Vide: https://youtu.be/YfeWNZqVYsE  
 
 Be ready.

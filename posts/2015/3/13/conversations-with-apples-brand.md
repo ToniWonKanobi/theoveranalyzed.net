@@ -3,9 +3,9 @@ Date: 2015-03-13 15:00
 Link: http://www.asymco.com/2015/03/11/conversations-with-apples-brand/  
 Description: Apple through the decades.  
 Tags: Apple  
-Image: http://d.pr/i/Npp2+  
+Image: https://d.pr/i/Npp2+  
 
-![Conversations with Apple's Brand](http://d.pr/i/Npp2+ "Conversations with Apple's Brand")
+![Conversations with Apple's Brand](https://d.pr/i/Npp2+ "Conversations with Apple's Brand")
 <!-- {.screenshot} -->
 
 I haven't linked to much from Horace Dediu much on this site, mostly because I haven't been following him until a few days ago.[^1] He had some great thoughts on Apple's historical approach to technology in culture. 

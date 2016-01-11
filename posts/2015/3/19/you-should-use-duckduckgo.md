@@ -3,9 +3,9 @@ Date: 2015-03-19 10:03
 Link: http://www.caseyliss.com/2015/3/19/duckduckgo  
 Description: DuckDuckGo is a marvelous alternative to Google (or Bing, or Yahoo, etc.)  
 Tags: Reviews  
-Image: http://d.pr/i/1fH31+  
+Image: https://d.pr/i/1fH31+  
 
-![You should be using this](http://d.pr/i/1fH31+ "You should be using this")
+![You should be using this](https://d.pr/i/1fH31+ "You should be using this")
 <!-- {.screenshot} -->
 
 Casey Liss of [ATP][1] fame:
@@ -20,7 +20,7 @@ Casey Liss of [ATP][1] fame:
 
 I too have been using DuckDuckGo to power my searches for the past few months. It might even be up to a year at this point, but I just can't remember that far back. And despite its occasional shortcomings when it comes to images, Google is still a *little* bit better at finding random images, such as product box images that I use in eBay listings. It is *absolutely* the best search engine out there. 
 
-![Free tshirt!](http://d.pr/i/10HDI+ "Free tshirt!")
+![Free tshirt!](https://d.pr/i/10HDI+ "Free tshirt!")
 <!-- {.screenshot} -->
 
 And as was the case for Casey, once Apple added DuckDuckGo to iOS 8 as an option for the default search engine in MobileSafari.app, I stopped using DuckDuckGo's [older, wonkier solution][2].

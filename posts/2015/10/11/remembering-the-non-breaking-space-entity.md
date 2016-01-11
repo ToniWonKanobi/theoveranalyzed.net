@@ -2,9 +2,9 @@ Title: Remembering the Non-breaking Space Entity
 Date: 2015-10-11 09:25  
 Description: Don't forget about HTML's "no space" space, useful for weird situations where `white-space: nowrap` isn't suitable.  
 Tags: Best Of, Web Design, HTML  
-Image: http://d.pr/i/1igkh+  
+Image: https://d.pr/i/1igkh+  
 
-![Non-breaking space entity, oh how I forgot about you.](http://d.pr/i/1igkh+ "Non-breaking space entity, oh how I forgot about you.)
+![Non-breaking space entity, oh how I forgot about you.](https://d.pr/i/1igkh+ "Non-breaking space entity, oh how I forgot about you.)
 <!-- {.screenshot .iphone} -->
 
 A few nights ago, inspired by a [critique of my site's design][1], I finally fixed my `.content` being too wide on smaller-screened iPhones, as well as some other aspects of my poorer small-screen layout.[^1]
@@ -48,8 +48,8 @@ becomes
 And that's all there is to it.
 
 <figure>
-	<img class="screenshot inlineTwo" src="http://d.pr/i/1igkh+" alt="Without &nbsp;" title="Without &nbsp;">
-	<img class="screenshot inlineTwo" src="http://d.pr/i/163ur+" alt="With &nbsp;" title="With &nbsp;">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/1igkh+" alt="Without &nbsp;" title="Without &nbsp;">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/163ur+" alt="With &nbsp;" title="With &nbsp;">
 	<figcaption><p>Here's a post header using a regular space character between the title and the arrow, and the same header using the non-breaking space character instead.</p>
 <p>Which one looks better to you?</p>
 	</figcaption>
@@ -70,17 +70,17 @@ HTML is my "hobbits"---just when I think I have a handle on it, something like a
 	<p>Finally, I set <code>.content</code> <code>width: 250px;</code> and <code>font-size: 0.9em;</code>, as well as adjusted some <code>100vw</code> stuffs.</p>
 	<p style="display: inline">Boom.</p>
 [^2]: [Marco.org][a]:
-	<p><img class="screenshot" src="http://d.pr/i/134ms+" alt="The 'Link' arrow  on Marco.org" title="The 'Link' arrow  on Marco.org" style="width: 175px;"></p>
+	<p><img class="screenshot" src="https://d.pr/i/134ms+" alt="The 'Link' arrow  on Marco.org" title="The 'Link' arrow  on Marco.org" style="width: 175px;"></p>
 [^3]: [Liss is More][b]:
-	<p><img class="screenshot" src="http://d.pr/i/18VCM+" alt="The 'Link' arrow  on Liss Is More" title="The 'Link' arrow  on Liss Is More" style="width: 175px;"></p>
+	<p><img class="screenshot" src="https://d.pr/i/18VCM+" alt="The 'Link' arrow  on Liss Is More" title="The 'Link' arrow  on Liss Is More" style="width: 175px;"></p>
 [^4]: [The Brooks Review][c]:
-	<p><img class="screenshot" src="http://d.pr/i/iFQM+" alt="The 'Link' arrow  on The Brooks Review" title="The 'Link' arrow  on The Brooks Review" style="width: 175px"></p>
+	<p><img class="screenshot" src="https://d.pr/i/iFQM+" alt="The 'Link' arrow  on The Brooks Review" title="The 'Link' arrow  on The Brooks Review" style="width: 175px"></p>
 [^5]: [512 Pixels][d]:
-	<p><img class="screenshot" src="http://d.pr/i/16hmF+" alt="The 'Link' arrow on 512 Pixels" title="The 'Link' arrow on 512 Pixels" style="width: 175px"></p>
+	<p><img class="screenshot" src="https://d.pr/i/16hmF+" alt="The 'Link' arrow on 512 Pixels" title="The 'Link' arrow on 512 Pixels" style="width: 175px"></p>
 [^6]: [Six Colors][e]:
-	<p><img class="screenshot" src="http://d.pr/i/1a2ML+" alt="The 'Link' arrow  on Six Colors" title="The 'Link' arrow  on Six Colors" style="width: 175px;"></p>
+	<p><img class="screenshot" src="https://d.pr/i/1a2ML+" alt="The 'Link' arrow  on Six Colors" title="The 'Link' arrow  on Six Colors" style="width: 175px;"></p>
 [^7]: The Brooks Review's wrapping arrow problem:
-	<p><img class="screenshot" src="http://d.pr/i/150Nv+" alt="The 'Link' arrow  wrapping stupidly on The Brooks Review" title="The 'Link' arrow  wrapping stupidly on The Brooks Review" style="width: 175px"></p>
+	<p><img class="screenshot" src="https://d.pr/i/150Nv+" alt="The 'Link' arrow  wrapping stupidly on The Brooks Review" title="The 'Link' arrow  wrapping stupidly on The Brooks Review" style="width: 175px"></p>
 
 [a]: http://marco.org "Marco Arment's blog, Marco.org"
 [b]: http://caseyliss.com "Casey Liss's blog, Liss Is More"
@@ -89,7 +89,7 @@ HTML is my "hobbits"---just when I think I have a handle on it, something like a
 [e]: http://sixcolors.com "Jason Snell's website, Six Colors"
 
 [1]: https://twitter.com/MTello1984/status/650875060069249024 "A critique of my site's design"
-[2]: http://d.pr/i/197dP+ "Safari Responsive Design Mode"
+[2]: https://d.pr/i/197dP+ "Safari Responsive Design Mode"
 [3]: http://marco.org "Marco Arment's blog, Marco.org"
 [4]: http://www.caseyliss.com "Casey Liss's Blog, Liss Is More"
 [5]: https://twitter.com/ToniWonKanobi/status/650916959379320832 "Asking Marco Arment about the link arrows"

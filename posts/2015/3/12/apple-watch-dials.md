@@ -3,7 +3,7 @@ Date: 2015-03-12 15:08
 Link: https://cssanimation.rocks/watch/  
 Description: Some folks get pretty tricksy with CSS.  
 Tags: Web Design, CSS  
-Image: http://d.pr/i/11xU6+  
+Image: https://d.pr/i/11xU6+  
 
 [Another][1] gem from the same guy who did [this][2].
 

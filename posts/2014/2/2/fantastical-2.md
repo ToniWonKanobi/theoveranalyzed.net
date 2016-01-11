@@ -25,8 +25,8 @@ It's as simple as this:
 4. *Done.*
 
 <figure>
-	<img class="screenshot inlineTwo" src="http://d.pr/i/1dddh+" alt="Yeah, that's it." title="Yeah, that's it.">
-	<img class="screenshot inlineTwo" src="http://d.pr/i/1aiHr+" alt="Never again." title="Never again.">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/1dddh+" alt="Yeah, that's it." title="Yeah, that's it.">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/1aiHr+" alt="Never again." title="Never again.">
 	<figcaption>Easy-peasy.</figcaption>
 </figure>
 
@@ -36,12 +36,12 @@ For version 2, Flexibits also included a fourth row of keys, accessible without 
 
 Also in this version is a new Week view for Landscape mode:
 
-![Does anyone actually use their iPhone in landscape?](http://d.pr/i/BNnH+ "Does anyone actually use their iPhone in landscape?")
+![Does anyone actually use their iPhone in landscape?](https://d.pr/i/BNnH+ "Does anyone actually use their iPhone in landscape?")
 <!-- {.screenshot .iphone} -->
 
 A big feature update for Fantastical 2 was the integration of the stock Reminders app. For all the reasons for foregoing the stock Calendar app, there exist just as many reasons for foregoing the stock Reminders app. Fantastical 2 lets me do that.
 
-![Reminders in Fantastical are such a nice feature](http://d.pr/i/15UTy+ "Such a nice feature")
+![Reminders in Fantastical are such a nice feature](https://d.pr/i/15UTy+ "Such a nice feature")
 <!-- {.screenshot .iphone} -->
 
 ### Design
@@ -51,9 +51,9 @@ At first glance, not a whole lot has changed since the iOS 6 version of Fantasti
 I'm the first to admit that when it comes to a lot of the visual and otherwise UI/UX changes iOS 7 brought, the grass was definitely not greener. Don't get me wrong, I like a lot of the sweeping changes Jony Ive brought. The [skeumorphic touches][5] that Steve Jobs and Scott Forstall favorited were like vestigial organs, once they were necessary, but now they are obsolete. In 2007, I'm sure everyone really did need the Notes app to have all that chrome. But this isn't 2007, it's 2014. I just wish Ive would have spent a little bit more time in the [details][6] (more on that later). 
 
 <figure >
-	<img class="screenshot inlineThree" src="http://d.pr/i/A7lR+" alt="Fantastical (iOS 6)" title="Fantastical (iOS 6)">
-	<img class="screenshot inlineThree" src="http://d.pr/i/SumY+" alt="Fantastical 2 Dark theme" title="Fantastical 2 Dark theme">
-	<img class="screenshot inlineThree" src="http://d.pr/i/MzGi+" alt="Fantastical 2 Light theme" title="Fantastical 2 Light theme">
+	<img class="screenshot inlineThree" src="https://d.pr/i/A7lR+" alt="Fantastical (iOS 6)" title="Fantastical (iOS 6)">
+	<img class="screenshot inlineThree" src="https://d.pr/i/SumY+" alt="Fantastical 2 Dark theme" title="Fantastical 2 Dark theme">
+	<img class="screenshot inlineThree" src="https://d.pr/i/MzGi+" alt="Fantastical 2 Light theme" title="Fantastical 2 Light theme">
 	<figcaption>Fantastical for iOS 6, and Fantastical 2 for iOS 7 only, Dark theme and Light theme</figcaption>
 </figure>
 
@@ -64,8 +64,8 @@ I'm the first to admit that when it comes to a lot of the visual and otherwise U
 Sunrise [tries to be][8] a 'Fantastical+,' but ultimately eschews parsing prowess for social. 
 
 <figure>
-	<img class="screenshot inlineTwo" src="http://d.pr/i/15enF+" alt="The weather and iconography is nice, no doubt." title="The weather and iconography is nice, no doubt.">
-	<img class="screenshot inlineTwo" src="http://d.pr/i/1aRkU+" alt="But the parser, well, there is no parser. This is like the stock Calendar app. That sucks." title="But the parser, well, there is no parser. This is like the stock Calendar app. That sucks.">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/15enF+" alt="The weather and iconography is nice, no doubt." title="The weather and iconography is nice, no doubt.">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/1aRkU+" alt="But the parser, well, there is no parser. This is like the stock Calendar app. That sucks." title="But the parser, well, there is no parser. This is like the stock Calendar app. That sucks.">
 	<figcaption>The iconography is nice, but there is no parser.</figcaption>
 </figure>
 
@@ -76,8 +76,8 @@ Overall, Sunrise is quite pretty. It has more white space, and doesn't feel as t
 This is kind of an [oddball][10]. It's biggest pro is the unique portrait Day view, which is like what Fantastical 2 does in Landscape, only in portrait. Its parser is closer to Fantastical than Sunrise, and its design is more spartan than Sunrise, and to some extent, Fantastical.
 
 <figure>
-	<img class="screenshot inlineTwo" src="http://d.pr/i/18doD+" alt="Calendars 5" title="Calendars 5">
-	<img class="screenshot inlineTwo" src="http://d.pr/i/1dpEy+" alt="Not as good as Fantastical" title="Not as good as Fantastical">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/18doD+" alt="Calendars 5" title="Calendars 5">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/1dpEy+" alt="Not as good as Fantastical" title="Not as good as Fantastical">
 	<figcaption>Meh.</figcaption>
 </figure>
 

@@ -3,9 +3,9 @@ Date: 2015-11-06 10:55
 Link: http://paulgraham.com/talk.html  
 Description: Good advice for aspiring authors (bloggers)?  
 Tags: Blogging  
-Image: http://d.pr/i/1fwaF+  
+Image: https://d.pr/i/1fwaF+  
 
-![Screenshot of Paul Graham's website](http://d.pr/i/1fwaF+ "Screenshot of Paul Graham's website")
+![Screenshot of Paul Graham's website](https://d.pr/i/1fwaF+ "Screenshot of Paul Graham's website")
 <!-- {.screenshot} -->
 
 Paul Graham, of [Yahoo! Store][1] and [Y Combinator][2] fame, with some advice for <s>pen</s> writers:

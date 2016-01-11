@@ -3,11 +3,11 @@ Date: 2015-10-23 08:30
 Link: https://youtu.be/oh5p5f5_-7A   
 Description: Bob Ross is the best.  
 Tags: TV  
-Image: http://d.pr/i/1b3Us+  
+Image: https://d.pr/i/1b3Us+  
 Video: https://youtu.be/oh5p5f5_-7A  
 
 <figure>
-	<img src="http://d.pr/i/1b3Us+" alt="Bob Ross is the best" title="Bob Ross is the best">
+	<img src="https://d.pr/i/1b3Us+" alt="Bob Ross is the best" title="Bob Ross is the best">
 	<figcaption><a href="https://en.wikipedia.org/wiki/Bob_Ross" title="Wikipedia: Bob Ross">This guy</a> put me to sleep many a Saturday afternoon.</figcaption>
 </figure>
 

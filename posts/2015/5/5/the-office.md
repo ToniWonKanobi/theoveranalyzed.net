@@ -2,7 +2,7 @@ Title: The Office (And Other Favorite TV Shows)
 Date: 2015-05-05 20:24  
 Description: The Office is one of my favorite TV shows ever. I have a few others 📺  
 Tags: The Office, JAG, Gilmore Girls  
-Image: http://d.pr/i/1kek5+  
+Image: https://d.pr/i/1kek5+  
 Video: https://www.youtube.com/watch?v=Vmb1tqYqyII  
 
 <!-- FitVids (http://fitvidsjs.com) -->

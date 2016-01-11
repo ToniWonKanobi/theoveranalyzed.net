@@ -2,9 +2,9 @@ Title: Thoughts on the Space Gray Apple Watch Sport Versus the Space Black Apple
 Date: 2015-06-14 21:05  
 Description: Apparently, Apple overestimated the transit time for my Space Black Apple Watch. Here are my thoughts regarding it and the Space Gray Apple Watch Sport.  
 Tags: Best Of, Reviews, Apple Watch  
-Image: http://d.pr/i/1aUO8+  
+Image: https://d.pr/i/1aUO8+  
 
-![When I look at both models side by side it's hard to see the Sport as anything but quality hardware.](http://d.pr/i/1aUO8+ "Both Watches")
+![When I look at both models side by side it's hard to see the Sport as anything but quality hardware.](https://d.pr/i/1aUO8+ "Both Watches")
 
 #### Preamble
 
@@ -18,7 +18,7 @@ It took about ten seconds for me to completely change my mind. In short, I am ke
 
 It's black. Just not *that* black. More like 'super dark gray.' Yes, the Space Black model is definitely blacker than the regular ol' stainless version Apple sells for $100 less.[^1]  Now, since my recollection of the [Space Black model][4] in the [Apple Retail Store][5] was rusty, the only visuals I had were in the form of pictures shared by [Rene Ritchie][6] of iMore. The photographs he shared with his followers always showed the watch as **black**. The Space Black Watch is, in my opinion, somewhat less black than what most of his pictures portray. 
 
-![Two different takes on black](http://d.pr/i/1eGgI+ "Sport and Watch")
+![Two different takes on black](https://d.pr/i/1eGgI+ "Sport and Watch")
 
 Thinking ahead: if there were a color option in between Space Black and the regular stainless version Apple offers, that would be the ticket.[^2] Imagine the Space Gray color of the Apple Watch Sport, but a polished version. That's an offering I could get behind 100%. I'm happy with the Space Black as is, but I hope the next version comes with a lighter shade of black.
 
@@ -26,7 +26,7 @@ Thinking ahead: if there were a color option in between Space Black and the regu
 
 Sitting at my desk at work the other day, I glanced over to my left wrist and saw the light reflect off of the brushed black links. What a sight to behold.
 
-![How much longer until I have to get up and do work again?](http://d.pr/i/1kr4i+ "Links at work")
+![How much longer until I have to get up and do work again?](https://d.pr/i/1kr4i+ "Links at work")
 
 This is the reason I can't let go of the Space Black watch. I don't care so much for the case color. The link bracelet is what makes the Space Black Watch a desirable package. Apple claims the link bracelet takes [nine hours][7] for a human to construct. I don't doubt it. Have you ever seen a modern [Porsche 911][8] up close? Say, a [997][9] model? Or perhaps a modern [M-car][10] from BMW (though less so)? The panel gaps on those automobiles are nothing to scoff at.[^3] The 'panel gaps' on the link bracelet are likewise very small. The individual links come together with clean butt joints, not the typical interlocking-style link connections on most metal bracelets. And thus, the overall esthetic is one smooth and clean surface, broken only because the band must curve around the wrist. Some have questioned Apple's choice to leave the outer and inner surfaces (though not the edges) of the band brushed, and not glossy like the watch case itself. This was likely to minimize the amount of visible scratches after prolonged usage. Although I can't say I disagree with their choice, it might have made more sense to just polish the whole band, so it would match the case perfectly. Not a deal-breaker.
 
@@ -71,7 +71,7 @@ Today I packed up the Apple Watch Sport and prepared it for sale on eBay. Am I m
 [4]: /2015/3/10/apple-watch-sport-or-apple-watch-collection "My post discussing my Apple Watch choices"
 [5]: /2015/4/10/my-apple-watch-try-on-session-and-that-keyboard#visiting-the-store "My post on first trying on the Apple Watch"
 [6]: https://instagram.com/p/265eV7GM8z/?taken-by=reneritchie "Rene Ritchie's Instagram picture of the Space Black Apple Watch"
-[7]: http://d.pr/i/1fOn4+ "Screenshot from Apple's page on how long it takes for people to make the link bracelet"
+[7]: https://d.pr/i/1fOn4+ "Screenshot from Apple's page on how long it takes for people to make the link bracelet"
 [8]: https://en.wikipedia.org/wiki/Porsche_911 "Wikipedia: Porsche 911"
 [9]: https://en.wikipedia.org/wiki/Porsche_997 "Wikipedia: Porsche 997"
 [10]: https://en.wikipedia.org/wiki/BMW_M5#E39_M5_.281998.E2.80.932003.29 "Wikipedia: BMW E39 M5"

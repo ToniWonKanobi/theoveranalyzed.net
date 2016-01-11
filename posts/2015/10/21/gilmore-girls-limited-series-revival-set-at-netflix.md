@@ -3,10 +3,10 @@ Date: 2015-10-21 08:56
 Link: http://tvline.com/2015/10/19/gilmore-girls-revival-netflix-new-episodes/  
 Description: Gilmore Girls is making a comeback on Netflix ...probably.  
 Tags: Gilmore Girls  
-Image: http://d.pr/i/Wumf+  
+Image: https://d.pr/i/Wumf+  
 
 <figure>
-	<img src="http://d.pr/i/Wumf+" alt="Gilmore Girls returns" title="Gilmore Girls returns">
+	<img src="https://d.pr/i/Wumf+" alt="Gilmore Girls returns" title="Gilmore Girls returns">
 	<figcaption>A reunion fit for these two fast-talking crazies [Source: TVLine]</figcaption>
 </figure>
 

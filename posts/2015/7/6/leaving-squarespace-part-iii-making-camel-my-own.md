@@ -2,7 +2,7 @@ Title: Leaving Squarespace Part III: Making Camel My Own
 Date: 2015-07-06 10:27  
 Description: Casey Liss's Camel made for excellent starting point for this blog. I added some extra things to make it my own.  
 Tags: Meta, Camel, Leaving Squarespace  
-Image: http://d.pr/i/1d63D+  
+Image: https://d.pr/i/1d63D+  
 
 <p><em class="topStory">This is the final post in the series entitled <a href="tags/Leaving%20Squarespace" title="Posts tagged 'Leaving Squarespace'">Leaving Squarespace</a>. If you haven't already done so, you should read the <a href="/2015/6/17/leaving-squarespace-part-I-getting-started-with-camel" title="Link to Part I of 'Leaving Squarespace'">first</a> and <a href="/2015/6/26/leaving-squarespace-part-ii-modifying-files-to-play-nice-with-camel" rel="previous" title="Link to the second post in the series 'Leaving Squarespace'">second</a> posts in the series before reading this post. When I started trying to figure out Camel, all I knew was that it was going to be both more open and easier to tweak than Squarespace. Little did I know that I would discover several additional 'extras' that would make my version of Camel the perfect blogging platform for me. As always, check Roger Stringer's thorough post <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/" title="Roger Stringer's post on how to setup Camel">here</a> for more in-depth information, such as how to install <code>npm</code> and <code>node</code>.</em></p>
 
@@ -93,14 +93,14 @@ a.header-anchor:hover {
 To test that everything worked as it should, `cd` to Camel's main directory and run `node camel.js`:
 
 <figure>
-	<img src="http://d.pr/i/1cpAW+" alt="Header anchors working" title="Header anchors working">
+	<img src="https://d.pr/i/1cpAW+" alt="Header anchors working" title="Header anchors working">
 	<figcaption>Permalink ("header anchor") only visible on hover. Perfect.</figcaption>
 </figure>
 
 Note the `#header-test` appended to the hyperlink (check the status bar on the bottom left of the window).
 
 <figure>
-	<img src="http://d.pr/i/1lpF3+" alt="Finished anchors" title="Finished anchors">	<figcaption>Success.</figcaption>
+	<img src="https://d.pr/i/1lpF3+" alt="Finished anchors" title="Finished anchors">	<figcaption>Success.</figcaption>
 </figure>
 
 ### Table of Contents
@@ -146,7 +146,7 @@ Note that the `includeLevel: 1` string is telling the plugin that I want `<h1>` 
 We can test that the plugin worked correctly by modifying a sample post. After launching a local version of the site, it should look like this:
 
 <figure>
-	<img src="http://d.pr/i/1d63D+" alt="TOC working">
+	<img src="https://d.pr/i/1d63D+" alt="TOC working">
 	<figcaption>More success.</figcaption>
 </figure>
 
@@ -243,12 +243,12 @@ I re-enabled `markdown-it-highlightjs` after I realized just how much `<code>` I
 
 [1]: https://www.npmjs.com/package/markdown-it "npmjs page for `markdown-it`"
 [2]: https://github.com/cliss/camel/blob/master/package.json#L61 "Line of code in the package.json for Camel that calls for Express"
-[3]: http://d.pr/i/10848+ "npm update markdown-it"
+[3]: https://d.pr/i/10848+ "npm update markdown-it"
 [4]: https://www.npmjs.com/package/markdown-it-anchor "npmjs page for `markdown-it-anchor`"
-[5]: http://d.pr/i/16frZ+ "GitHub header permalinks"
-[6]: http://d.pr/i/1kT9a+ "Adding `markdown-it-anchor` to package.json"
-[7]: http://d.pr/i/1lwKV+ "Adding `markdown-it-table-of-contents` to package.json"
+[5]: https://d.pr/i/16frZ+ "GitHub header permalinks"
+[6]: https://d.pr/i/1kT9a+ "Adding `markdown-it-anchor` to package.json"
+[7]: https://d.pr/i/1lwKV+ "Adding `markdown-it-table-of-contents` to package.json"
 [8]: https://highlightjs.org "Home of highlight.js on the internet"
 [9]: https://www.npmjs.com/package/markdown-it-highlightjs/ "npmjs page for `markdown-it-highlightjs`"
-[10]: http://d.pr/i/Z46L+ "Adding `markdown-it-highlightjs` to package.json"
-[11]: http://d.pr/i/BuH9+ "It works!"
+[10]: https://d.pr/i/Z46L+ "Adding `markdown-it-highlightjs` to package.json"
+[11]: https://d.pr/i/BuH9+ "It works!"

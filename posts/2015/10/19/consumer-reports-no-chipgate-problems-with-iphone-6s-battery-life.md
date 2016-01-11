@@ -3,9 +3,9 @@ Date: 2015-10-19 10:12
 Link: http://arstechnica.com/apple/2015/10/consumer-reports-no-chipgate-problems-with-iphone-6s-battery-life/  
 Description: FYI.  
 Tags: iPhone  
-Image: http://d.pr/i/1559J+  
+Image: https://d.pr/i/1559J+  
 
-![Apple used both Samsung and Taiwan Semiconductor Manufacturing Company (TSMC) to fab the A9 chip found in the iPhone 6s and 6s Plus](http://d.pr/i/1559J+ "Chipgate")
+![Apple used both Samsung and Taiwan Semiconductor Manufacturing Company (TSMC) to fab the A9 chip found in the iPhone 6s and 6s Plus](https://d.pr/i/1559J+ "Chipgate")
 
 There has been a lot of [hoopla][1] over the supposed lesser battery life and raw CPU performance of the Samsung-sourced A9 iPhone 6s' and the TSMC-sourced versions. This so-called "Chipgate" is neither the [first][2], [nor][3] [likely][4] the [last][5] "---gate" to befall the iPhone.
 
@@ -13,7 +13,7 @@ When I first heard about Chipgate, my first act was to follow the advice of all 
 
 The results?
 
-![Lirum Device Info Screenshot](http://d.pr/i/NlPI+ "Lirum Device Info Screenshot")
+![Lirum Device Info Screenshot](https://d.pr/i/NlPI+ "Lirum Device Info Screenshot")
 <!-- {.screenshot .iphone} -->
 
 `N71mAP`.

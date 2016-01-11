@@ -2,7 +2,7 @@ Title: Using MultiMarkdown and HTML to Publish to Squarespace
 Date: 2015-02-14 16:00  
 Description: Here's my workflow for blogging using the Squarespace platform.  
 Tags: Best Of, Blogging, Squarespace  
-Video: http://d.pr/v/13oR1+  
+Video: https://d.pr/v/13oR1+  
 
 #### Forward
 
@@ -165,15 +165,15 @@ Byword uses MultiMarkdown, not *just* standard Markdown. So when I would preview
 	
 3. Typing with MultiMarkdown Syntax in Byword
 
-	<video id="byword-mmd" src="http://d.pr/v/18FFK+" title="Byword MMD" controls></video>
+	<video id="byword-mmd" src="https://d.pr/v/18FFK+" title="Byword MMD" controls></video>
 	
 4. Using Byword to Convert The Text to HTML
 
-	<video id="byword-mmd-to-html" src="http://d.pr/v/13oR1+" title="Byword to Convert to HTML" controls></video>
+	<video id="byword-mmd-to-html" src="https://d.pr/v/13oR1+" title="Byword to Convert to HTML" controls></video>
 	
 5. Pasting the Previously Copied HTML into a Code Block in Squarespace
 
-	<video id="to-code-block" src="http://d.pr/v/SSVK+"  title="Taking HTML to Code Block" controls></video>
+	<video id="to-code-block" src="https://d.pr/v/SSVK+"  title="Taking HTML to Code Block" controls></video>
 	
 ### Conclusion
 

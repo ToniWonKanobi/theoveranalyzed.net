@@ -3,7 +3,7 @@ Date: 2015-10-21 10:31
 Link: http://arstechnica.com/tech-policy/2015/10/apple-ceo-tim-cook-blasts-encryption-backdoors/
 Description: Apple tells the authorities to buzz off.  
 Tags: Advocacy, Apple  
-Image: http://d.pr/1atG6+  
+Image: https://d.pr/1atG6+  
 
 David Kravets, for Ars Technica:
 

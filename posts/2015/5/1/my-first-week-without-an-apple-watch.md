@@ -25,7 +25,7 @@ His final quip is the best:
 
 And here's my situation:
 
-![Yep, still June. Sigh.](http://d.pr/i/Prby+ "Still Processing")
+![Yep, still June. Sigh.](https://d.pr/i/Prby+ "Still Processing")
 <!-- {.screenshot} -->
 
 (hat tip [Mike Rundle][2])

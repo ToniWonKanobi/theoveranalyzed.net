@@ -5,7 +5,7 @@ Tags: Typography, Blogging
 Image: http://practicaltypography.com/images/index-a.svg  
 
 <figure>
-	<img src="http://d.pr/i/17dhF+" alt="Practical Photography: Semicolons and colons" title="Practical Photography: Semicolons and colons">
+	<img src="https://d.pr/i/17dhF+" alt="Practical Photography: Semicolons and colons" title="Practical Photography: Semicolons and colons">
 	<figcaption>No one ever gets <a href="http://practicaltypography.com/semicolons-and-colons.html">these</a> right.</figcaption>
 </figure>
 
@@ -166,6 +166,6 @@ Now, admittedly, it could be argued that how a writer uses en/em dashes (e.g., w
 [14]: http://commonmark.org "'Standard Markdown' Project"
 [17]: http://practicaltypography.com/typewriter-habits.html "Practical Typography: Typewriter Habits"
 [18]: http://www.macworld.com/article/1026829/powermacg5nextgeneration.html "Jason Snell's Macworld piece"
-[19]: http://d.pr/i/11z2p+ "Jason Snell em dash misuse"
+[19]: https://d.pr/i/11z2p+ "Jason Snell em dash misuse"
 [20]: http://www.vox.com/2015/8/25/9205801/hillary-clinton-joe-biden "Ezra Klein's piece on Vox"
-[21]: http://d.pr/i/1aAVj+ "Ezra Klein em dash misuse"
+[21]: https://d.pr/i/1aAVj+ "Ezra Klein em dash misuse"

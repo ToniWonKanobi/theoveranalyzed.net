@@ -3,7 +3,7 @@ Date: 2015-03-15 12:00
 Link: https://techpinions.com/the-secret-to-apples-success-remains-a-secret/38566  
 Description: John Kirk vs. James Stewart: is Apple a fluke?  
 Tags: Apple  
-Image: http://d.pr/i/1dIKM+  
+Image: https://d.pr/i/1dIKM+  
 
 A few weeks ago, John Kirk of TechPinions took apart an [article][1] by James B. Stewart of Common Sense. In that piece, Stewart attempted to delineate the reasons why Apple became the success that it has, from the perspective of Microsoft's decline. 
 

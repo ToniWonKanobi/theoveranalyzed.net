@@ -2,7 +2,7 @@ Title: Designing TheOverAnalyzed 2.0
 Date: 2015-02-25 08:00  
 Description: I walk through my process of tweaking Squarespace to achieve my desired web design esthetic for TheOverAnalyzed.  
 Tags: Meta, Squarespace  
-Image: http://d.pr/i/EfZ+  
+Image: https://d.pr/i/EfZ+  
 
 ![TheOverAnalyzed 2.0][1]
 
@@ -20,17 +20,17 @@ I started with the [Native][3] template, which was, like most templates, insanel
 
 Here's the Native demo page:
 
-![The stock Native template](http://d.pr/i/15dfx+ "'Native' template on Squarespace")
+![The stock Native template](https://d.pr/i/15dfx+ "'Native' template on Squarespace")
 
 Eventually, I noticed that the way Native implemented [blockquotes][4] was kind of wonky. After some initial hesitation,[^3] I decided to switch to the [Avenue][5] template, which was a lot like Native, but had [blockquotes][6] like I wanted.
 
 Here's the Avenue demo page: 
 
-![The stock Avenue template](http://d.pr/i/rxBP+ "'Avenue' template on Squarespace")
+![The stock Avenue template](https://d.pr/i/rxBP+ "'Avenue' template on Squarespace")
 
 And here's a screenshot[^4] of my site from just a couple of weeks ago, before the first big design change:
 
-![TheOverAnalyzed with the Avenue template (Version 1)](http://d.pr/i/1cvPC+ "TheOverAnalyzed a couple weeks ago")
+![TheOverAnalyzed with the Avenue template (Version 1)](https://d.pr/i/1cvPC+ "TheOverAnalyzed a couple weeks ago")
 
 #### Things Got Hairy
 
@@ -72,7 +72,7 @@ I quickly familiarized myself with `blog.list` and `blog.item` and was able to m
 
 Here's a screenshot of Permalinks Version 1.0:[^7]
 
-![Permalinks Version 1.0](http://d.pr/i/1lSZU+ "Permalinks Version 1")
+![Permalinks Version 1.0](https://d.pr/i/1lSZU+ "Permalinks Version 1")
 
 #### Another Template Change
 
@@ -94,9 +94,9 @@ I noticed [Above Avalon][29] a few weeks ago, and loved the non-scrolling (`posi
 
 Here is Neil Cybart's Stratechery-esche Above Avalon:
 
-![Above Avalon's homepage](http://d.pr/i/11RRa+ "Above Avalon")
+![Above Avalon's homepage](https://d.pr/i/11RRa+ "Above Avalon")
 
-![Look at that .main-content scroll](http://d.pr/i/19QPN+ "Scrolling Above Avalon")
+![Look at that .main-content scroll](https://d.pr/i/19QPN+ "Scrolling Above Avalon")
 
 #### Sidebar Time
 
@@ -104,19 +104,19 @@ I looked around the templates and discovered that Cybart had implemented a relat
 
 Here is the Wells demo:
 
-![Wells template](http://d.pr/i/12IAy+ "'Wells' template on Squarespace")
+![Wells template](https://d.pr/i/12IAy+ "'Wells' template on Squarespace")
 
-![And here is TheOverAnalyezd with Wells (Version 1.0 of the site)](http://d.pr/i/Q7z1+ "TheOverAnalyzed with 'Wells' template")
+![And here is TheOverAnalyezd with Wells (Version 1.0 of the site)](https://d.pr/i/Q7z1+ "TheOverAnalyzed with 'Wells' template")
 
 Note that the content was pushed all the way to the left of the window. This wasn't terrible, but it also wasn't [ideal][31]. I wanted the content to be basically centered, regardless of how big the window was. 
 
 After consulting with the [Squarespace Answers Forum][32], I was able to move the content over to the center, more or less:
 
-![Sorta-centered](http://d.pr/i/EfZ+ "Sorta-centered")
+![Sorta-centered](https://d.pr/i/EfZ+ "Sorta-centered")
 
 But this led to a terrible design on mobile:
 
-![Mobile, pre-`custom.less`](http://d.pr/i/1l1L9+ "Mobile")
+![Mobile, pre-`custom.less`](https://d.pr/i/1l1L9+ "Mobile")
 <!-- {.screenshot .iphone} -->
 
 #### So That's What This Does
@@ -247,7 +247,7 @@ Squarespace had *just* rolled out their [logo designer tool][34].[^12] I used it
 
 I think it was actually a pretty nice logo considering it took me about 5 minutes to put together:
 
-![Logo Version 1.0](http://d.pr/i/1b8Ss+ "Logo, v1")
+![Logo Version 1.0](https://d.pr/i/1b8Ss+ "Logo, v1")
 
 But from the beginning, the plan was always to someday create my own.
 
@@ -279,37 +279,37 @@ Sketch is on its [third major version][38] now, and while its true power lies in
 
 I started with a photo of Smokey:
 
-![Original picture of Smokey](http://d.pr/i/19uo2+ "Original picture of Smokey")
+![Original picture of Smokey](https://d.pr/i/19uo2+ "Original picture of Smokey")
 
 Then I reduced the opacity to 50%, to make vectorizing the image easier:
 
-![Opacity reduced](http://d.pr/i/19gqG+ "Opacity reduced")
+![Opacity reduced](https://d.pr/i/19gqG+ "Opacity reduced")
 
 And here's the vector, minus some smoothing:
 
-![Original vector](http://d.pr/i/9MUF+ "Original vector")
+![Original vector](https://d.pr/i/9MUF+ "Original vector")
 
 And here's the circle logo:
 
-![Circle logo](http://d.pr/i/dOCb+ "Circle logo")
+![Circle logo](https://d.pr/i/dOCb+ "Circle logo")
 
 Next, the logo with text. I chose Futura Condensed ExtraBold. I like the weight, and I especially like Futura because of its versatility. It's not as trendy or readable as Proxima Nova (`body-font-font-family`), sure. But it conveys a certain amount of gravitas, without seeming too formal. It's almost comical, but only slightly so. I think that suits the site well:
 
-![Logo with text](http://d.pr/i/19wtr+ "Logo with text")
+![Logo with text](https://d.pr/i/19wtr+ "Logo with text")
 
 Finally, the full logo with the subtitle. I included the subtitle because I originally had trouble aligning the subtitle text on the different target displays. Making it part of the logo made things easier for me:
 
-![Finished logo with subtitle](http://d.pr/i/qW89+ "Finished logo with subtitle")
+![Finished logo with subtitle](https://d.pr/i/qW89+ "Finished logo with subtitle")
 
 I also used the Circle Logo to make the browser favicon:
 
-![Favicon](http://d.pr/i/13py7+ "Favicon")
+![Favicon](https://d.pr/i/13py7+ "Favicon")
 
 ***
 
 I spent a fair amount of time trying to use my (`Logo.svg`) in place of the static image Squarespace uses for the logo. This was important to me because I wanted everything about my site to look good on Retina displays. And, even though most humans wouldn't zoom in to this level:
 
-![Broken on mobile](http://d.pr/i/1hJo2+ "Site broken on mobile")
+![Broken on mobile](https://d.pr/i/1hJo2+ "Site broken on mobile")
 <!-- {.screenshot .iphone} -->
 
 ... I wanted to be ready in case they did. 
@@ -322,22 +322,22 @@ Finally. [It was finished][39]. I was able to get things looking how I want.[^13
 
 Desktop:
 
-![Sidebar. Desktop. Yes.](http://d.pr/i/1bVv2+ "Sidebar on desktop version of website")
+![Sidebar. Desktop. Yes.](https://d.pr/i/1bVv2+ "Sidebar on desktop version of website")
 
 iPad (Portrait):
 
-![iPad, portrait](http://d.pr/i/OgsK+ "iPad, portrait")
+![iPad, portrait](https://d.pr/i/OgsK+ "iPad, portrait")
 <!-- {.screenshot style="max-width: 75%"} -->
 
 iPad (Landscape):
 
-![iPad, landscape](http://d.pr/i/pAIQ+ "iPad, landscape")
+![iPad, landscape](https://d.pr/i/pAIQ+ "iPad, landscape")
 <!-- {.screenshot style="max-width: 75%"} -->
 
 
 iPhone:
 
-![iPhone, portrait](http://d.pr/i/1fcI8+ "iPhone, portrait")
+![iPhone, portrait](https://d.pr/i/1fcI8+ "iPhone, portrait")
 <!-- {.screenshot .iphone} -->
 
 ***
@@ -368,19 +368,19 @@ Until then, maybe I can get back to writing.
 [^12]: Apparently, this caused a bit of a controversy in the [web design community][f].
 [^13]: There are a few things I would like to change, but I think for the sake of my sanity, I will leave well enough alone for now.
  
-[a]: http://d.pr/i/1kNyI+ "Modifying the `.less` files quite a bit"
+[a]: https://d.pr/i/1kNyI+ "Modifying the `.less` files quite a bit"
 [b]: https://archive.org "Internet Archive"
 [c]: https://web.archive.org/web/19980509035420/http://www.apple.com/ "Apple's website in 1998"
 [d]: https://twitter.com/ismh/status/564079479992360961 "Asking Stephen Hackett if he's tried the Squarespace Developer Platform"
-[e]: http://d.pr/i/1hVrx+ "Figured out how to place the permalink anchor to the right of the date (out of the title)"
+[e]: https://d.pr/i/1hVrx+ "Figured out how to place the permalink anchor to the right of the date (out of the title)"
 [f]: http://www.fastcodesign.com/3025363/is-squarespaces-new-logo-generator-a-design-crime "Fast Company on Squarespace's 'design your own logo' platform"
 
-[1]: http://d.pr/i/159ix+ "TheOverAnalyzed 2.0"
+[1]: https://d.pr/i/159ix+ "TheOverAnalyzed 2.0"
 [2]: http://squarespace.com "Squarespace"
 [3]: http://native-demo.squarespace.com/ "'Native' template on Squarespace"
-[4]: http://d.pr/i/1cxvQ+ "Lack of blockquotes like I want"
+[4]: https://d.pr/i/1cxvQ+ "Lack of blockquotes like I want"
 [5]: http://avenue-demo.squarespace.com "'Avenue' template on Squarespace"
-[6]: http://d.pr/i/1lKIz+ "These are the types of blockquotes I wanted"
+[6]: https://d.pr/i/1lKIz+ "These are the types of blockquotes I wanted"
 [7]: http://duner.webfactional.com/blog/squarespace-permalinks "Webpage that helped me figure out permalinks in Squarespace"
 [8]: http://developers.squarespace.com "Squarespace Developer Platform"
 [9]: http://developers.squarespace.com/initial-setup/ "How to setup Squarespace Developer Platform"
@@ -395,7 +395,7 @@ Until then, maybe I can get back to writing.
 [18]: https://www.youtube.com/watch?v=HzravxTgTe4 "YouTube: Setting Up Squarespace 7 (Squarespace 6) Developer Platform with Espresso2 and LiveReload"
 [19]: /2015/2/1/permalinks-in-squarespace "My post outlining how I added permalinks to my linked posts"
 [20]: /2015/1/31/bigfoot-footnotes-in-squarespace "My post about incorporating Bigfoot footnotes into Squarespace"
-[21]: http://d.pr/i/1cvPC+ "Getting closer"
+[21]: https://d.pr/i/1cvPC+ "Getting closer"
 [22]: http://www.forbes.com/sites/stevedenning/2012/04/23/in-praise-of-stretch-goals/ "Forbes: 'In Praise Of Stretch Goals'"
 [23]: http://decknetwork.net/ "Jim Coudal's ad network, The DECK"
 [24]: http://www.daringfireball.net "John Gruber's blog, Daring Fireball"
@@ -405,9 +405,9 @@ Until then, maybe I can get back to writing.
 [28]: http://decknetwork.net/ "Jim Coudal's ad network, The DECK"
 [29]: http://aboveavalon.com "Above Avalon"
 [30]: http://wells-demo.squarespace.com/ "'Wells' template on Squarespace"
-[31]: http://d.pr/i/14BaR+ "This is the centering I was going for"
+[31]: https://d.pr/i/14BaR+ "This is the centering I was going for"
 [32]: https://answers.squarespace.com/questions/68749/wells-how-can-i-center-my-main-content "Wells: How can I center my main content?"
-[33]: http://d.pr/i/1h4fZ+ "Picture of Smokey"
+[33]: https://d.pr/i/1h4fZ+ "Picture of Smokey"
 [34]: http://squarespace.com/logo "Squrespace's logo-creation page"
 [35]: http://www.pixelmator.com/ "Pixelmator's website"
 [36]: http://www.pixelmator.com/blog/2013/05/14/introducing-vectormator/ "Pixelmator's blog post introducing 'Vectormator'"

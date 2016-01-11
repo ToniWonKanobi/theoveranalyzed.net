@@ -588,6 +588,11 @@ footer {
 	text-align: center;
 }
 
+div#bottomGrayBar {
+	background-color: #999;
+	min-height: 0.25em;
+}
+
 div#bottomAd {
 	background-color: #999;
 	margin: auto;
@@ -618,6 +623,7 @@ div#bottomAd figure figcaption {
 }
 
 nav {
+	font-size: 1.1em;
 	padding: 1.5em 0 1.5em 0;
 }
 
@@ -625,31 +631,24 @@ nav > h2 {
 	display: none;
 }
 
-nav a {
-	color: #999;
-}
-
-nav a:hover {
-	color: #3f70a2;
-}
-
 nav ul {
 	margin: 0.5em;
 	padding: 0;
 }
 
-nav li,
-nav li:hover {
-	display: inline;
+nav li {
 	font-size: 1.1em;
 	list-style: none;
-	margin: auto;
+	margin: 0.5em auto;
 	padding: 0;
 }
 
-nav li:first-child:after {
-	content: '•';
-	margin: auto 0.1em auto 0.3em;
+nav li a {
+	color: #999;
+}
+
+nav li a:hover {
+	color: #3f70a2;
 }
 
 /* Cribbed from Hardik Pandya

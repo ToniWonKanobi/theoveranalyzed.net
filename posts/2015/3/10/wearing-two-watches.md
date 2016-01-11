@@ -2,9 +2,9 @@ Title: Wearing Two Watches?
 Date: 2015-03-10 18:00    
 Description: Sounds crazy right? Who would wear *two* watches, just to experience the old way (mechanical watch) and the new way (Apple Watch)?  
 Tags: Watches, Apple Watch  
-Image: http://d.pr/i/uan2+  
+Image: https://d.pr/i/uan2+  
 
-![Benjamin Clymer's piece on The Verge](http://d.pr/i/uan2+ "Benjamin Clymer's piece on The Verge")
+![Benjamin Clymer's piece on The Verge](https://d.pr/i/uan2+ "Benjamin Clymer's piece on The Verge")
 <!-- {.screenshot} -->
 
 Benjamin Clymer, founder of [HODINKEE][1], for [The Verge][2]:

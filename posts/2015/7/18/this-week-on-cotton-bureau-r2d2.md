@@ -6,7 +6,7 @@ Tags: Cotton Bureau, Star Wars
 Image: https://cottonbureau.com/img/products/5753_HykZ_2400.jpg  
 
 <figure>
-	<img src="http://d.pr/i/1hl4W+" alt="R2D2" title="'R2D2' on Cotton Bureau">
+	<img src="https://d.pr/i/1hl4W+" alt="R2D2" title="'R2D2' on Cotton Bureau">
 	<figcaption><a href="http://nicholasburroughs.com" title="The designer on Twitter">Nicholas Burroughs</a>: "This is the droid you're looking for."</figcaption>
 </figure>
 

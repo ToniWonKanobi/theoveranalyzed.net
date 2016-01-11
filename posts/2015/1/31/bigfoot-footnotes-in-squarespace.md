@@ -2,7 +2,7 @@ Title: Bigfoot Footnotes in Squarespace
 Date: 2015-01-31 08:00  
 Description: A big milestone in my blogging development: Bigfoot footnotes are live on TheOverAnalyzed 🤓
 Tags: Best Of, Squarespace, JavaScript  
-Image: http://d.pr/i/S2A4+  
+Image: https://d.pr/i/S2A4+  
 
 ![Bigfoot Footnotes][1]
 
@@ -85,7 +85,7 @@ And there you have it! Bigfoot away!
 [b]: https://github.com/lemonmade "GitHub page for creator of Bigfoot.js"
 [c]: http://www.sqarespace.com "Squarespace"
 
-[1]: http://d.pr/i/S2A4+ "Bigfoot Footnotes"
+[1]: https://d.pr/i/S2A4+ "Bigfoot Footnotes"
 [2]: https://twitter.com/TheOverAnalyzed/status/553716002999898112 "Tweet announcing Bigfoot on TheOverAnalyzed"
 [3]: http://www.bigfootjs.com "Bigfoot footnotes"
 [4]: http://www.marco.org/ "Marco Arment's blog, Marco.org"

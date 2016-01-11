@@ -6,6 +6,6 @@ Tags: Cotton Bureau, Star Wars
 Image: https://cottonbureau.com/img/products/6324_j77e_2400.jpg  
 
 <figure>
-	<img src="http://d.pr/i/jwWN+" alt="Use The Force" title="'Use The Force' on Cotton Bureau">
+	<img src="https://d.pr/i/jwWN+" alt="Use The Force" title="'Use The Force' on Cotton Bureau">
 	<figcaption><a href="http://davidroehldesign.com/" title="Designer's website">David Roehl</a>: "Can't wait for the next films."</figcaption>
 </figure>

@@ -2,9 +2,9 @@ Title: Waiting for The 2.0
 Date: 2015-03-23 12:30  
 Description: When is it best to wait for the second generation of product? Won't there always be something better in the pipeline?  
 Tags: Apple Watch  
-Image: http://d.pr/i/1hPAG+  
+Image: https://d.pr/i/1hPAG+  
 
-![Craig Hockenberry's post on furbo.org](http://d.pr/i/1hPAG+ "Craig Hockenberry's post on furbo.org")
+![Craig Hockenberry's post on furbo.org](https://d.pr/i/1hPAG+ "Craig Hockenberry's post on furbo.org")
 <!-- {.screenshot} -->
 
 Craig Hockenberry of the Iconfactory recently [wrote][1] on the OLED[^1] display technology in the Apple Watch:

@@ -3,10 +3,10 @@ Date: 2015-10-21 10:03
 Link: http://grantland.com/hollywood-prospectus/ranking-star-wars-jackets/  
 Description: Clearly Han's are always the best.  
 Tags: Star Wars  
-Image: http://d.pr/i/1aSNB+  
+Image: https://d.pr/i/1aSNB+  
 
 <figure>
-	<img src="http://d.pr/i/1aSNB+" alt="Han being Han in Empire" title="Han being Han in Empire">
+	<img src="https://d.pr/i/1aSNB+" alt="Han being Han in Empire" title="Han being Han in Empire">
 	<figcaption>Such a <a href="http://www.urbandictionary.com/define.php?term=G&amp;defid=67183" title="Urban Dictionary: 'g'">g</a>.</figcaption>
 </figure>
 
@@ -19,6 +19,6 @@ Concepcion gave Han's outerwear the rank of #2, below Luke's flashy, gold getup[
 I disagree completely, but then again, I think Luke's character isn't nearly as likable as Han Solo. So there's that.
 
 [^1]: The Medal Ceremony from <i>Star Wars</i>:
-	<p><img src="http://d.pr/i/1hEIz+" alt="The Awards Ceremony at the end of A New Hope" title="The Awards Ceremony at the end of A New Hope" style="max-width: 50%"></p>
+	<p><img src="https://d.pr/i/1hEIz+" alt="The Awards Ceremony at the end of A New Hope" title="The Awards Ceremony at the end of A New Hope" style="max-width: 50%"></p>
 
 [1]: https://en.wikipedia.org/wiki/Star_Wars_(film) "Wikipedia: Star Wars"

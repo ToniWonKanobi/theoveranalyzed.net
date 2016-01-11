@@ -2,7 +2,7 @@ Title: Red-tailed Hawks
 Date: 2015-04-02 14:00  
 Description: Red-tailed hawks are just as awesome as John Oliver says.  
 Tags: Animals, John Oliver  
-Image: http://d.pr/i/1dQXc+  
+Image: https://d.pr/i/1dQXc+  
 
 <!-- FitVids (http://fitvidsjs.com) -->
 <script src="/js/fitvids.js"></script>
@@ -29,7 +29,7 @@ Whenever we can, Allison and I visit our [favorite place on Earth][3]. And while
 TRC is a non-profit that rehabilitates injured birds of prey. As part of their mission, they offer tours and demonstrations as opportunities for education for tourists. 
 
 <figure>
-	<img src="http://d.pr/i/1dQXc+" alt="Ruby the red-tailed hawk at Teton Raptor Center" title="Ruby the red-tailed hawk at Teton Raptor Center">
+	<img src="https://d.pr/i/1dQXc+" alt="Ruby the red-tailed hawk at Teton Raptor Center" title="Ruby the red-tailed hawk at Teton Raptor Center">
 	<figcaption>Ruby the red-tailed hawk</figcaption>
 </figure>
 

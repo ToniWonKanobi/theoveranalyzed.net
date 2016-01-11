@@ -6,42 +6,42 @@
 		<meta name="description" content="TheOverAnalyzed is a website about technology, design, and pop culture.">
 		<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7099154/750568/css/fonts.css">
 
-        <style>
+		<style>
 
-        	/* Yes, animations in email. Because why the heck not!? */
-        	.fadeInDown {
-				animation: fadeInDown 0.6s;
+		/* Yes, animations in email. Because why the heck not!? */
+		.fadeInDown {
+			animation: fadeInDown 0.6s;
+		}
+
+		@keyframes fadeInDown {
+			0% {
+				opacity: 0;
+				transform: translateY(-40px);
 			}
 
-			@keyframes fadeInDown {
- 				0% {
-    				opacity: 0;
-    				transform: translateY(-40px);
-  				}
+			100% {
+				opacity: 1;
+				transform: translateY(0);
+			}
+		}
 
-  				100% {
-   					opacity: 1;
-    				transform: translateY(0);
-  				}
+		.fadeInUp {
+			animation: fadeInUp 0.6s;
+		}
+
+		@keyframes fadeInUp {
+			0% {
+				opacity: 0;
+				transform: translateY(40px);
 			}
 
-			.fadeInUp {
-				animation: fadeInUp 0.6s;
+			100% {
+				opacity: 1;
+				transform: translateY(0);
 			}
+		}
 
-			@keyframes fadeInUp {
-  				0% {
-    				opacity: 0;
-    				transform: translateY(40px);
-  				}
-
-  				100% {
-    				opacity: 1;
-    				transform: translateY(0);
-  				}
-			}
-
-        </style>
+		</style>
 	</head>
 	<body class="fadeInDown" style="color: #555; font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', -apple-system, -sans-serif; line-height: 1.6; margin: auto; padding: 0; width: 80vw;">
     	<!-- Because stupid email doesn't know what a header is -->

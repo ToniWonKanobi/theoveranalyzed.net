@@ -3,19 +3,19 @@ Date: 2015-07-01T14:04
 Link: http://fontsinuse.com/uses/9787/apple-music-logo  
 Description: Wondering what font is Apple using for Apple Music?  
 Tags: Typography, Fonts In Use, Apple Music  
-Image: http://d.pr/i/1b7mC+  
+Image: https://d.pr/i/1b7mC+  
 
 Yesterday, Stephen Coles's Fonts In Use had a series of short posts coinciding with the launch of [Apple Music][1]. 
 
 The Apple Music logo boldly features SF Compact:
 
-![The new Apple Music logo](http://d.pr/i/1b7mC+ "Apple Music Logo")
+![The new Apple Music logo](https://d.pr/i/1b7mC+ "Apple Music Logo")
 
 Coles also [noted][2] the use of SF Compact in Apple Watch:
 
 > San Francisco Compact was designed specifically for the Apple Watch. In the same genre as Neue Helvetica, which has long been Apple’s choice for system fonts, this typeface has larger apertures, flatter sides, and looser spacing, making for a more legible experience overall, especially for the small, glanceable type on a watch display.
 
-!["San Francisco has a vertically-centered contextual alternate colon that appears when placed between numerals."](http://d.pr/i/12c69+ "Apple Watch")
+!["San Francisco has a vertically-centered contextual alternate colon that appears when placed between numerals."](https://d.pr/i/12c69+ "Apple Watch")
 <!-- {.screenshot .applewatch} -->
 
 And [here's][3] Coles on Apple's [tumblr][4] for Apple Music:

@@ -6,7 +6,7 @@ Tags: Cotton Bureau, Star Wars
 Image: https://cottonbureau.com/img/products/6422_jblV_2400.jpg  
 
 <figure>
-	<img src="http://d.pr/i/1gDMd+" alt="Hide Your Shield Generators" title="'Hide Your Shield Generators' on Cotton Bureau">
+	<img src="https://d.pr/i/1gDMd+" alt="Hide Your Shield Generators" title="'Hide Your Shield Generators' on Cotton Bureau">
 	<figcaption><a href="http://twitter.com/morganbranding" title="Designer's Twitter">Morgan Branding</a>: "Beware of rogue tow cables when wearing this shirt."</figcaption>
 </figure>
 

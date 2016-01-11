@@ -3,7 +3,7 @@ Date: 2015-02-03 12:00
 Link: http://www.aboveavalon.com/notes/2015/1/13/apples-plan-for-ipad-in-an-iphone-world  
 Description: What's going to happen to the iPad?  
 Tags: iPad  
-Image: http://d.pr/i/1knZq+  
+Image: https://d.pr/i/1knZq+  
 
 ![Apple's Plan for iPad in an iPhone World][1]
 
@@ -60,9 +60,9 @@ So I'm okay not having an iPad right now. I take my 11" MacBook Air to work, and
 [b]: /2014/10/27/why-i-couldnt-handle-the-iphone-6-plus "My post on why the iPhone 6 Plus was too big for me"
 [c]: http://mashable.com/2013/06/19/macbook-air-2013-review/ "Mashable: 'The 2013 MacBook Air Is a Battery Life Champ'"
 
-[1]: http://d.pr/i/1knZq+ "Apple's Plan for iPad in an iPhone World"
+[1]: https://d.pr/i/1knZq+ "Apple's Plan for iPad in an iPhone World"
 [2]: /2014/12/22/the-paradox-of-choice-choosing-an-ipad "My post on choosing the correct iPad for me"
 [3]: https://itunes.apple.com/us/app/byword/id420212497?mt=12&at=1l3vx9s "Byword on the Mac App Store"
 [4]: http://www.relay.fm/connected/24 "Connected, episode 24"
 [5]: http://hints.macworld.com/article.php?story=20050614171126634 "An AppleScript to change sound output device "
-[6]: http://d.pr/i/eeRg+ "Typical window situation"
+[6]: https://d.pr/i/eeRg+ "Typical window situation"

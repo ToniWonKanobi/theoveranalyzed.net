@@ -2,10 +2,10 @@ Title: Why the Web Is So Slow
 Date: 2015-07-12 14:00  
 Description: I've struggled with keeping TheOverAnalyzed's page load times to less than 2 seconds. I'm not alone: everyone wants a faster web. But not everyone is experiencing it. And it's mostly publishers' faults.  
 Tags: Web Design, Ditching Webfonts  
-Image: http://d.pr/i/1iLFm+  
-Video: http://d.pr/v/9TLn+  
+Image: https://d.pr/i/1iLFm+  
+Video: https://d.pr/v/9TLn+  
 
-<p><video controls autoplay><source src="http://d.pr/v/9TLn+"></video></p>
+<p><video controls autoplay><source src="https://d.pr/v/9TLn+"></video></p>
 
 <p><em class="topStory">Unknowingly, this was the first in a <a href ="/tags/Ditching%20Webfonts" title="Posts tagged 'Ditching Webfonts">series</a> of posts regarding webfonts. You should check out the <a href="/2015/7/15/ditching-webfonts" title="My post about leaving webfonts behind" rel="next">second</a> and <a href="/2015/7/19/ditching-webfonts-part-ii-hoefler-webfonts-are-prettier-but-slower" title="My post about turning off webfonts, and how I eventually turned them back on">third</a>.</em></p>
 
@@ -36,8 +36,8 @@ Eventually the open standards won out. By 2004, [CSS 2.1][9] had been mostly acc
 When iPhone [launched in 2007][10] with a version of the venerable Safari web browser, the advertisement firms took advantage. That trend has only increased in the 8 years thereafter. Just visit any major .com news organization and you'll see what I mean. The browser window will no doubt be filled with advertisements, most of which look like shat. It's not just that most mobile ads have horribly-pixelated versions of whatever product or service the ad is peddling. No, moreover: those ads typically obscure a *major* portion of the content. 
 
 <figure>
-	<img class="screenshot inlineTwo" src="http://d.pr/i/17moY+" alt="The Verge" title="The Verge">
-	<img class="screenshot inlineTwo" src="http://d.pr/i/1cIGg+" alt="iMore" title="iMore">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/17moY+" alt="The Verge" title="The Verge">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/1cIGg+" alt="iMore" title="iMore">
 	<figcaption><a href="http://theverge.com/">The Verge</a> and <a href="http://imore.com/">iMore</a></figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ When iPhone [launched in 2007][10] with a version of the venerable Safari web br
 
 Because Gruber picked on iMore, I'll do the same. As seen above---on the [biggest phone-sized display Apple offers][11], mind you---I can barely make out two articles' titles. The rest of the iMore page is obscured with ads. Horrible, ugly, stupid ads. And do you know what powers those ads? [JavaScript][12]. Tons of nasty JavaScript extensions to enable the ads' targeting and tracking algorithms. 
 
-![I couldn't even fit all of iMore's JavaScript extensions on this screenshot.](http://d.pr/i/1anSZ+ "Look at all those scripts")
+![I couldn't even fit all of iMore's JavaScript extensions on this screenshot.](https://d.pr/i/1anSZ+ "Look at all those scripts")
 
 And not all of those JavaScrips are lightweight. Even if they were, it still takes time for the browser to compile the scripts before rendering the page. On mobile especially, several seconds could be the difference between a reader enjoying *your* article or someone else's.
 
@@ -69,9 +69,9 @@ Websites should be fast. But can I put my money where my mouth is? It's easy to 
 
 Well enough, I think.
 
-![A run-of-the-mill page load for TheOverAnalyzed](http://d.pr/i/1cUBo+ "Regular page load of TheOverAnalyzed")
+![A run-of-the-mill page load for TheOverAnalyzed](https://d.pr/i/1cUBo+ "Regular page load of TheOverAnalyzed")
 
-![A page load for TheOverAnalyzed with JavaScript disabled](http://d.pr/i/1iNdv+ "No-JS page load of TheOverAnalyzed")
+![A page load for TheOverAnalyzed with JavaScript disabled](https://d.pr/i/1iNdv+ "No-JS page load of TheOverAnalyzed")
 <!-- {#nojs} -->
 
 Disabling JavaScript yielded a quarter-second differential in page loading. Images were no different: around a quarter-second faster for the non-image version. 
@@ -91,16 +91,16 @@ If the adoption of iOS 9 even remotely follows the adoption of all the previous 
 [^1]: Looking in your direction, [9to5Mac][a] and [iDownloadBlog][b]
 [^2]: And, moreover, their *own* JavaScript implementation---remember [JScript][c]?
 
-[a]: http://d.pr/i/13nUn+ "All of 9to5Mac's crazy JavaScript"
-[b]: http://d.pr/i/CJPm+ "All of iDownloadBlog's crazy JavaScript"
+[a]: https://d.pr/i/13nUn+ "All of 9to5Mac's crazy JavaScript"
+[b]: https://d.pr/i/CJPm+ "All of iDownloadBlog's crazy JavaScript"
 [c]: https://en.wikipedia.org/wiki/JScript "Wikipedia: Script"
 
 [1]: http://daringfireball.net/2015/07/safari_content_blocker_imore "John Gruber on Content Blockers for iOS 9"
 [2]: http://imore.com "Mobile Nation's site all about Apple stuffs"
 [3]: http://pxlnv.com/linklog/safari-content-blockers-shit-ass-websites/ "Ad blockers and what they can do to crappy websites"
-[4]: http://d.pr/i/19HMF+ "All of  iMore's crazy JavaScript"
+[4]: https://d.pr/i/19HMF+ "All of  iMore's crazy JavaScript"
 [5]: http://9to5mac.com/2015/06/10/block-ads-ios-9-safari-iphone/ "9to5Mac on Safari Content Blockers in iOS 9"
-[6]: http://d.pr/v/9TLn+ "Testing TheOverAnalyzed without JavaScript"
+[6]: https://d.pr/v/9TLn+ "Testing TheOverAnalyzed without JavaScript"
 [7]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Difficulty_with_adoption "Wikipedia: Adopting CSS"
 [8]: https://en.wikipedia.org/wiki/World_Wide_Web_Consortium "Wikipedia: W3C"
 [9]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_2.1 "Wikipedia: CSS 2.1"

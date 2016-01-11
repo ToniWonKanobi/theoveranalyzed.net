@@ -2,7 +2,7 @@ Title: Pages '09, Pages 5.0, and More Practical Typography
 Date: 2015-09-03 13:24  
 Description: I have some more thoughts on Practical Typography.  
 Tags: Apps, Typography  
-Image: http://d.pr/i/1fZQU+  
+Image: https://d.pr/i/1fZQU+  
 
 A few days ago, I wrote about [Practical Typography][1] and how it caused me to change a few [style][2] [issues][3] on TheOverAnalyzed.[^1] After spending more time with Matthew Butterick's masterpiece,[^2] I stumbled upon his [page][4] explaining [OpenType][5] features. In it, Butterick shows how to implement OpenType features on the web via CSS.[^3]
 
@@ -22,7 +22,7 @@ After a bit of searching, I found a working `.dmg` for "iWork '09 Trial." Great.
 
 And so, there I was with two versions of Pages in my `/Applications` folder. 
 
-![Just look at that icon 👌🏾](http://d.pr/i/1fNTT+ "Pages '09 (4.3)")
+![Just look at that icon 👌🏾](https://d.pr/i/1fNTT+ "Pages '09 (4.3)")
 <!-- {style="max-width: 50%"} -->
 
 
@@ -39,8 +39,8 @@ As best as I can tell, while the newer version of Pages *does* have proper ligat
 Ideal Sans comes with several alternate versions of characters, but as you can see from the screenshots below, the special "G" character (without the horizontal crossbar) does not seem to be available in the newer version of Pages. 
 
 <figure>
-	<img class="screenshot inlineTwo" src="http://d.pr/i/17YoZ+" alt="Pages 4.4.3 without OpenType" title="Pages 4.4.3 without OpenType">
-	<img class="screenshot inlineTwo" src="http://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType" title="Pages 5.5.3 OpenType">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/17YoZ+" alt="Pages 4.4.3 without OpenType" title="Pages 4.4.3 without OpenType">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType" title="Pages 5.5.3 OpenType">
 	<figcaption>Pages 4.4.3 with OpenType support and Pages 5.5.3 without much OpenType support at all</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ So Butterick was right. Still, even without full support of OpenType features, t
 
 Indeed, even the Pages.app application icon has now incorporated the Yosemite and El Capitan design ethos:
 
-![The "flat" application icon for Pages.app 5.0+](http://d.pr/i/16ee0+ "Pages 5.0+ app icon")
+![The "flat" application icon for Pages.app 5.0+](https://d.pr/i/16ee0+ "Pages 5.0+ app icon")
 <!-- {style="max-width: 50%"} -->
 
 Louie Mantia agrees:

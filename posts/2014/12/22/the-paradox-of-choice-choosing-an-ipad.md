@@ -2,7 +2,7 @@ Title: The Paradox of Choice & Choosing an iPad
 Date: 2014-12-22 16:48  
 Description: Sometimes too many choices makes things difficult. Case in point: choosing a new iPad.  
 Tags: Reviews, iPad  
-Image: http://d.pr/i/12z5L+  
+Image: https://d.pr/i/12z5L+  
 
 ![Too many choices.][1]
 
@@ -75,7 +75,7 @@ After having an iPhone 5S and subsequently the 6 / 6 Plus, not having the Touch 
 
 [That's all I have to say about that.][33]
 
-[1]: http://d.pr/i/12z5L+ "Too many choices."
+[1]: https://d.pr/i/12z5L+ "Too many choices."
 [2]: http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice "Barry Schwartz: 'Paradox of Choice'"
 [3]: https://en.wikipedia.org/wiki/The_Paradox_of_Choice "Wikipedia: 'The Paradox of Choice'"
 [4]: http://9to5mac.com/2014/10/08/its-been-way-too-long-apple-sends-out-invites-for-thursday-october-16th-ipad-mac-event/ "Apple invites everyone to its October 16th iPad/Mac event"
@@ -84,16 +84,16 @@ After having an iPhone 5S and subsequently the 6 / 6 Plus, not having the Touch 
 [7]: http://missionworkshop.com/products/bags/messenger/roll_top/small_monty.php "Mission Workshop bag (should have gotten the gray color)"
 [8]: https://twitter.com/johnmyankee "John Yankee on Twitter"
 [9]: http://core0.staticworld.net/images/article/2014/10/apple-product-line-up-100525358-orig.jpg "Apple product lineup"
-[10]: http://d.pr/i/NkVV+ "iPad choices"
+[10]: https://d.pr/i/NkVV+ "iPad choices"
 [11]: http://www.engadget.com/2013/11/15/ipad-mini-retina-display-review/ "Engadget reviews the Retina iPad mini"
 [12]: http://www.anandtech.com/show/7519/apple-ipad-mini-with-retina-display-reviewed/3 "AnandTech reviews the iPad mini with Retina Display"
 [13]: http://daringfireball.net/2013/11/the_retina_ipad_mini "John Gruber reviews the Retina iPad mini"
 [14]: http://sixcolors.com/2014/12/my-favorite-things-hardware/ "Jason Snell's favorite things for the holiday season 2014"
 [15]: https://itunes.apple.com/us/book/the-paradox-of-choice/id360603357?mt=11&at=1l3vx9s "The Paradox of Choice on iBooks Store"
-[16]: http://d.pr/i/1cAIe+ "Desktop Mac choices"
-[17]: http://d.pr/i/18S6o+ "Mac laptop choices"
+[16]: https://d.pr/i/1cAIe+ "Desktop Mac choices"
+[17]: https://d.pr/i/18S6o+ "Mac laptop choices"
 [18]: http://en.wikipedia.org/wiki/Do_not_pass_Go._Do_not_collect_$200. "Wikipedia: 'Do not pass go, do not collect $200'"
-[19]: http://d.pr/i/18aMe+ "iPhone choices"
+[19]: https://d.pr/i/18aMe+ "iPhone choices"
 [20]: https://en.wikipedia.org/wiki/IPad_Mini_(1st_generation) "Wikipedia: iPad mini (1st generation)"
 [21]: https://en.wikipedia.org/wiki/IPad_Mini_2 "Wikipedia: iPad mini 2"
 [22]: https://en.wikipedia.org/wiki/IPad_Mini_3 "Wikipedia: iPad mini 3"

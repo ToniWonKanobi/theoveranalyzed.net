@@ -2,7 +2,7 @@ Title: Byword, MultiMarkdown Composer, and More
 Date: 2015-03-04 08:00  
 Description: Here's my workflow for blogging in Squarespace.  
 Tags: Best Of, Blogging, Apps  
-Image: http://d.pr/i/1fsbq+  
+Image: https://d.pr/i/1fsbq+  
   
 #### Forward
 
@@ -99,16 +99,16 @@ This is how MultiMarkdown Composer parses MultiMarkdown, and this is how the res
 
 First, let me say this: I love, *love* Byword. The guys at [Metaclassy][7] have built an incredibly easy to use and beautiful app. 
 
-![Byword's sparsity is part of its charm](http://d.pr/i/1fsbq+ "Byword's sparsity is part of its charm")
+![Byword's sparsity is part of its charm](https://d.pr/i/1fsbq+ "Byword's sparsity is part of its charm")
 
 Byword is both functional, and actually quite clever at the same time. Want to copy the MultiMarkdown to HTML? Option-Command-P. Easy. 
 
 Contrast this with MultiMarkdown Composer, in which the hotkey is buried in the Edit menu item:
 
-![Ehh...](http://d.pr/i/fWNQ+ "Ehh")
+![Ehh...](https://d.pr/i/fWNQ+ "Ehh")
 <!-- {.screenshot} -->
 
-![MultiMarkdown's window has more content, but isn't *that* much more busy than Byword](http://d.pr/i/emqI+ "MultiMarkdown's window has more content")
+![MultiMarkdown's window has more content, but isn't *that* much more busy than Byword](https://d.pr/i/emqI+ "MultiMarkdown's window has more content")
 
 #### What's So Wrong With Byword?
 
@@ -120,7 +120,7 @@ The problem with Byword is that while the app *does* support [the most important
 
 Probably the biggest unexpected benefit of using MultiMarkdown Composer were the **inline footnotes.**[^3]
 
-![Could this be any easier?](http://d.pr/i/nOPD+ "Could this be any easier?")
+![Could this be any easier?](https://d.pr/i/nOPD+ "Could this be any easier?")
 <!-- {.screenshot} -->
 
 While MultiMarkdown Composer's inline footnotes implementation precludes me  from having multiple paragraphs or lists,[^4] it is still *such* a time-saver to just keep tying all the way through the footnote content, without having to go all the way to the bottom of the document to place the footnote content, and then find my way back to where I was before I started writing the footnote.[^5]
@@ -148,14 +148,14 @@ And then I would have to go back through my document and copy that format for re
 
 With MultiMarkdown Composer, I just place a `{{TOC}}` at the top of my document, and then I get something wonderful like this:
 
-![So much easier than doing it by hand](http://d.pr/i/1azBA+ "So much easier than doing it by hand" )
+![So much easier than doing it by hand](https://d.pr/i/1azBA+ "So much easier than doing it by hand" )
 <!-- {.screenshot style="max-width: 75%"} -->
 
 ##### Smart Pairs, Autocompleting Labels, and More
 
 Basically, this whole list:
 
-![With nifty tricks like this, I spend more time writing than worrying about syntax](http://d.pr/i/1ad17+ "With nifty tricks like this, I spend more time writing than worrying about syntax")
+![With nifty tricks like this, I spend more time writing than worrying about syntax](https://d.pr/i/1ad17+ "With nifty tricks like this, I spend more time writing than worrying about syntax")
 
 ### Conclusion
 
@@ -187,5 +187,5 @@ Since writing this post originally, I moved to a [custom blogging engine][10], o
 [6]: https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#footnotes "MultiMarkdown's syntax guide for footnotes"
 [7]: http://metaclassy.com "Creators of Byword"
 [8]: http://bywordapp.com/markdown/guide.html "Byword's MultiMarkdown guide"
-[9]: http://d.pr/i/14RQX+ "Left-side Dock.app"
+[9]: https://d.pr/i/14RQX+ "Left-side Dock.app"
 [10]: /2015/6/1/introducing-theoveranalyzed-30 "My post introducing TheOverAnalyzezd 3.0"

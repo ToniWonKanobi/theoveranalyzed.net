@@ -3,7 +3,7 @@ Date: 2015-02-18 08:42
 Link: http://www.marco.org/2015/02/16/google-and-blogs-shit  
 Description: Is blogging dead (again)?  
 Tags: Blogging  
-Image: http://d.pr/i/Rpj+  
+Image: https://d.pr/i/Rpj+  
 
 ![Google and Blogs][1]
 
@@ -27,6 +27,6 @@ Here he is [defending the concept of a one-man blog as a business][2]:
 
 My biggest question for Marco: what exactly does he think is [next][3] for blogs?
 
-[1]: http://d.pr/i/Rpj+ "Google and Blogs"
+[1]: https://d.pr/i/Rpj+ "Google and Blogs"
 [2]: http://stratechery.com/2015/bloggings-bright-future/ "Ben Thompson on the future of blogs"
-[3]: http://d.pr/i/1heyD+ "My question to Marco"
+[3]: https://d.pr/i/1heyD+ "My question to Marco"

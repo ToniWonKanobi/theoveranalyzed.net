@@ -19,7 +19,7 @@ More from Orlove:
 
 And in case your mental currency conversion skills are about as good as mine:[^2]
 
-![Calcbot Conversion](http://d.pr/i/17PCq+ "Calculating the conversion")
+![Calcbot Conversion](https://d.pr/i/17PCq+ "Calculating the conversion")
 <!-- {.screenshot .iphone} -->
 
 $203,193.

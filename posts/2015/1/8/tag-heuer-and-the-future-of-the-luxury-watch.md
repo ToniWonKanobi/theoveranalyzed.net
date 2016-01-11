@@ -3,7 +3,7 @@ Date: 2015-01-08 09:08
 Link: http://mattrichman.net/post/107317484498/tag-heuer-and-the-future-of-the-luxury-watch  
 Description: Whose else is considering wearing the Apple Watch on one wrist, and their previous favorite watch on the other?  
 Tags: Apple Watch  
-Image: http://d.pr/i/1lvOg+  
+Image: https://d.pr/i/1lvOg+  
 
 ![Tag Heuer and the Future of the Luxury Watch][1]
 
@@ -19,7 +19,7 @@ How could any dumbwatch compete with the Apple Watch? Of course the older watche
 
 I cannot seem to fathom any answers to those questions. I guess I have until March to figure it out.
 
-[1]: http://d.pr/i/1lvOg+ "Tag Heuer and the Future of the Luxury Watch"
+[1]: https://d.pr/i/1lvOg+ "Tag Heuer and the Future of the Luxury Watch"
 [2]: http://9to5mac.com/2015/01/06/apple-watch-launch/ "9to5Mac on the Apple Watch launch"
 [3]: http://www.hodinkee.com/blog/video-talking-watches-with-john-mayer "John Mayer showing off his watches"
 [4]: http://www.edmunds.com/porsche/911/2015/gt3/ "Edmunds on the 991 GT3"
@@ -31,4 +31,4 @@ I cannot seem to fathom any answers to those questions. I guess I have until Mar
 [10]: https://en.wikipedia.org/wiki/Fender_Jazz_Bass "Wikipedia: Fender Jazz Bass"
 [11]: https://www.youtube.com/watch?v=jVQEe8OI3zk "Victor Wooten - Victor's Jam"
 [12]: http://www.timex.com/watches/timex-weekender-slip-thru-t2n6519j-0 "Timex Weekender"
-[13]: http://d.pr/i/FScw+ "My watch case"
+[13]: https://d.pr/i/FScw+ "My watch case"

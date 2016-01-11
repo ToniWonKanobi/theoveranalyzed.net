@@ -3,10 +3,10 @@ Date: 2015-09-04 17:02
 Link: http://www.slashfilm.com/star-wars-bits-26/3/  
 Description: Not sure how I missed this, but here's the second teaser trailer for Season 2 of Star Wars Rebels.  
 Tags: Star Wars  
-Image: http://d.pr/i/u6QI+  
+Image: https://d.pr/i/u6QI+  
 
 <figure>
-	<img src="http://d.pr/i/XaQz+" alt="Darth Vader in Rebels" title="Darth Vader in Rebels">
+	<img src="https://d.pr/i/XaQz+" alt="Darth Vader in Rebels" title="Darth Vader in Rebels">
 	<figcaption>Surely Darth Vader will play a more prominent role in Season 2</figcaption>
 </figure>
 

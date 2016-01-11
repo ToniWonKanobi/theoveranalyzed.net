@@ -2,9 +2,9 @@ Title: Can Jack Dorsey Save Twitter?
 Date: 2015-10-08 11:07  
 Description: The comparison is so overused that it might as well be a cliche at this point. Still, is Jack Dorsey the next Steve Jobs?  
 Tags: Twitter  
-Image: http://d.pr/1jmLu+  
+Image: https://d.pr/1jmLu+  
 
-![Jack Dorsey: Twitter's savior?](http://d.pr/i/15Oep+ "Jack Dorsey")
+![Jack Dorsey: Twitter's savior?](https://d.pr/i/15Oep+ "Jack Dorsey")
 
 In the earliest draft of this post, I started out with the sentence "Twitter is hard to explain to non-nerds."
 
@@ -37,8 +37,8 @@ The @mention tax is especially egregious, because it punishes people for having 
 Consider this conversation from a few days ago:
 
 <figure>
-	<img class="screenshot inlineTwo" src="http://d.pr/i/11xqM+" alt="Conversation" title="Conversation">
-	<img class="screenshot inlineTwo" src="http://d.pr/i/8LjF+" alt="Reply" title="Reply">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/11xqM+" alt="Conversation" title="Conversation">
+	<img class="screenshot inlineTwo" src="https://d.pr/i/8LjF+" alt="Reply" title="Reply">
 	<figcaption>84 characters isn't much to work with. (I've already reached that amount in this <code>figcaption</code>.)</figcaption>
 </figure>
 

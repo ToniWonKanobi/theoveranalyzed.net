@@ -3,7 +3,7 @@ Date: 2015-03-13 11:13
 Link: http://video.foxbusiness.com/v/4103311805001/whistle-acquires-pet-tracking-company-raises-15m/?#sp=show-clips  
 Description: Whistle, makers of a popular pet activity monitor, have acquired a GPS tracking company.  
 Tags: Dogs, Apps  
-Image: http://d.pr/i/1d1Ey+  
+Image: https://d.pr/i/1d1Ey+  
 
 Somedays it is less hard than others, but every time I back out of the driveway to go to somewhere, and [Smokey][1] is not with me, I worry about him. I am not so worried about what might happen *in the house* while we are gone.
 

@@ -2,7 +2,7 @@ Title: Introducing TheOverAnalyzed 3.0
 Date: 2015-06-01 13:30  
 Description: I spent the past month leaving Squarespace and moving to something better.  
 Tags: Meta, Camel  
-Image: http://d.pr/i/1lvGR+  
+Image: https://d.pr/i/1lvGR+  
 
 Over the course of the next few days (weeks?), I am going to explain how exactly I left my previous CMS and transitioned to Casey Liss's static blogging engine, [Camel][1]. I am aptly calling this series *Leaving Squarespace*.
 

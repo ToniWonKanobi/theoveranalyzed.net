@@ -3,7 +3,7 @@ Date: 2015-03-09 13:28
 Link: https://youtu.be/nb_Pz-doIqA  
 Description: Nilay Patel from The Verge plays with an Apple Watch.  
 Tags: Apple Watch  
-Image: http://d.pr/i/1dJe8+  
+Image: https://d.pr/i/1dJe8+  
 
 ![Silly Nilay][1]
 
@@ -15,9 +15,9 @@ I think it will be incredibly useful.
 
 [April 24][6], here I come.
 
-[1]: http://d.pr/i/1dJe8+ "Silly Nilay"
+[1]: https://d.pr/i/1dJe8+ "Silly Nilay"
 [2]: http://www.imore.com/debug-62-edwards-and-gruber-watches "Debug, episode 62: Jon Edwards and John Gruber on watches"
 [3]: https://twitter.com/undertheloupe "Jon Edwards on Twitter"
 [4]: [https:]
-[5]: http://d.pr/i/1cVL0+ "Apple's product page for Apple Watch, with a focus on the Contacts button"
+[5]: https://d.pr/i/1cVL0+ "Apple's product page for Apple Watch, with a focus on the Contacts button"
 [6]: https://www.apple.com/pr/library/2015/03/09Apple-Watch-Available-in-Nine-Countries-on-April-24.html "Apple Press Release for Apple Watch availability"

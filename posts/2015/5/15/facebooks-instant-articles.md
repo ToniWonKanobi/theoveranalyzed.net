@@ -2,7 +2,7 @@ Title: Facebook's Instant Articles
 Date: 2015-05-15 08:00  
 Description: Disliking Facebook doesn't make it any less pervasive to the masses. What will Instant Articles mean for publishers (big and small)?  
 Tags: Facebook  
-Image: http://d.pr/i/1krH2+
+Image: https://d.pr/i/1krH2+
 
 ![Facebook Instant Articles][1]
 
@@ -93,7 +93,7 @@ Today I reactivated my long dormant [Facebook][19] profile so that I could creat
 Interestingly, Facebook kindly sent their rejection:[^6]
 
 <figure>
-	<img src="http://d.pr/i/1ctm4+" alt="Whatever, Facebook." title="Whatever, Facebook.">		<figcaption>Whatever Facebook.</figcaption>
+	<img src="https://d.pr/i/1ctm4+" alt="Whatever, Facebook." title="Whatever, Facebook.">		<figcaption>Whatever Facebook.</figcaption>
 </figure>
 
 So, I patiently await my opportunity to climb aboard the train I wish had never left the station. Three years after leaving Facebook, [I'm back][21]. And it's not because I value [the social network of moms][22]. No, I'm back because I'm afraid. Like the rest of the publishers out there, I'm scared that in a Facebook first world, publishing outside of Facebook's Instant Articles-optimized ecosystem will be like marketing an app on [Cydia][23] instead of the App Store. Yes, there may be a market for jailbroken apps, but it pales in comparison to the true application store on iOS. Likewise, while my [true fans][24] might still check my website or RSS feed for content, without Instant Articles support, the more casual chunk of my readership might not even know I exist.
@@ -110,7 +110,7 @@ So, I patiently await my opportunity to climb aboard the train I wish had never 
 [c]: http://www.theverge.com/2013/4/25/4266980/instapaper-acquired-by-betaworks-owner-of-digg "The Verge reporting on Digg acquiring Instapaper"
 [d]: http://scripting.com/2015/05/13/facebooksInstantArticles.html#aIHAFA "Scripting News on Facebook Instant Articles"
 
-[1]: http://d.pr/i/1krH2+ "Facebook Instant Articles"
+[1]: https://d.pr/i/1krH2+ "Facebook Instant Articles"
 [2]: http://www.theverge.com/2015/5/13/8595263/facebooks-instant-articles-arrive-to-speed-up-the-news-feed "The Verge reporting on Facebook Instant Articles"
 [3]: https://www.facebook.com/ToniWonKanobi/posts/443890448981220 "My appeal to my friends to leave Facebook for App.net"
 [4]: http://www.theverge.com/2012/4/9/2936375/facebook-buys-instagram "The Verge reporting on Facebook purchasing Instagram"

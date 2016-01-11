@@ -20,14 +20,14 @@ One could argue airplanes might [have cars beat][4] as far as space devotion goe
 What could possibly possess us to allow so much of '[our][5]' land to be devoted to cars? Note that I don't think we are actually possessed; rather, the answer to this riddle is that we humans just [love our cars][6], plain and simple.
 
 <figure>
-	<img src="http://d.pr/i/JPut+" alt="Corvette" title="Corvette">
+	<img src="https://d.pr/i/JPut+" alt="Corvette" title="Corvette">
 	<figcaption>Ah, where it all started for me: the Chevrolet Corvette. This specimen is a 1990 ZR-1. 'Murica 🇺🇸</figcaption>
 </figure>
 
 My own love affair with automobiles is not overly romantic or ambitious like, say, [Chris Harris][7] or [Larry Kosilla][8]. In truth, I wasn't really interested in cars until around the sixth grade. Before then it was all about [great TV][9] and [Legos][10].  Here's what happened: I remember driving to school, and as we turned left onto the street which led to my school, I saw a pretty neat looking car pass us by. My mom or dad answered "[Corvette][11]" when I asked what kind of car that was. Looking back, I am pretty sure it was a [C5][12], not a [C4][13] like the example pictured above. Anyways, that moment stuck with me. But, oddly enough, I don't think I started really getting into the marque until I told my grandpa about seeing the Corvette. That's when it got read.
 
 <figure>
-	<img src="http://d.pr/i/1ilvy+" alt="My grandpa" title="My Grandpa" style="max-width: 75%;">
+	<img src="https://d.pr/i/1ilvy+" alt="My grandpa" title="My Grandpa" style="max-width: 75%;">
 	<figcaption>My grandpa</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ That car was an [engineering masterpiece][35]. By the time I discovered this car
 This NSX was my halo car until [graduate school][44] where, guess what, I met a bunch of other people who, guess what, had different tastes than me. Eventually, I caught the Porsche bug. (Apparently, the de facto dentist car is the 911).
 
 <figure>
-	<img src="http://d.pr/i/G4PX+" alt="Ahhh: what some would call the purest (and last) classic Porsche 911, the 964" title="Ahhh: what some would call the purest (and last) classic Porsche 911, the 964">
+	<img src="https://d.pr/i/G4PX+" alt="Ahhh: what some would call the purest (and last) classic Porsche 911, the 964" title="Ahhh: what some would call the purest (and last) classic Porsche 911, the 964">
 	<figcaption>Ahhh: what some would call the purest (and last) classic Porsche 911, the 964 🇩🇪</figcaption>
 </figure>
 

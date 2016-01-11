@@ -2,7 +2,7 @@ Title: What It's Like to Be Way Too Popular for a Day
 Date: 2015-01-06 10:00  
 Description: Apple apologist, he is not.  
 Tags: Blogging  
-Image: http://d.pr/i/dacj+  
+Image: https://d.pr/i/dacj+  
 
 ![What It's Like to Be Way Too Popular for a Day][1]
 
@@ -72,7 +72,7 @@ It's hard to go backward. None of the true believers, the [bleeders of six color
 
 Let us hope Marco's post(s) can be a catalyst towards a better Apple. That's all we want.
 
-[1]: http://d.pr/i/dacj+ "What It's Like to Be Way Too Popular for a Day"
+[1]: https://d.pr/i/dacj+ "What It's Like to Be Way Too Popular for a Day"
 [2]: http://overcast.fm "Overcast"
 [3]: http://marco.org "Marco Arment's blog, Marco.org"
 [4]: http://atp.fm "The 'Accidental Tech Podcast'"

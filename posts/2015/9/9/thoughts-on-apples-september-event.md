@@ -2,11 +2,11 @@ Title: Thoughts on Apple's September Event
 Date: 2015-09-09 21:18  
 Description: Lots of stuff happened today. Here are my brief thoughts.  
 Tags: Apple  
-Image: http://d.pr/i/fe4O+  
+Image: https://d.pr/i/fe4O+  
 
 <p><em class="topStory">This is not a point-by-point, "Here's *everything* Apple introduced today" recap. For something like that, check out <a href="http://9to5mac.com/" title="9to5Mac">9to5Mac</a>. No doubt more thoughtful recaps are on the way from <a href="http://sixcolors.com/" title="Six Colors">Six Colors</a> or <a href="http://macstories.net" title="MacStories">MacStories</a>, as well.</em></p>
 
-![Lots of neat little things adds up to ...lots of neat little things.](http://d.pr/i/fe4O+ "Hey Siri")
+![Lots of neat little things adds up to ...lots of neat little things.](https://d.pr/i/fe4O+ "Hey Siri")
 
 Somewhat perplexingly, none of my go-to sites have put out their typical "This is what happened today at the Apple event" posts. I won't attempt to do that here. Instead, I wanted to share some quick thoughts on the event as a whole, as well as discuss a few parts of  presentation specifically.
 
@@ -148,31 +148,31 @@ Since the initial post, I also added additional content links, now that the big 
 
 [^1]: In the iPad Pro's defense, I don't care about any iPads, really. So there's that.
 [^2]: The iPhones 6 Plus still have the optical image stabilization:
-	<p><img class="screenshot" src=http://d.pr/i/xeoY+ alt="OIS on iPhones 6s" title="OIS on iPhones 6s"></p>
+	<p><img class="screenshot" src=https://d.pr/i/xeoY+ alt="OIS on iPhones 6s" title="OIS on iPhones 6s"></p>
 
 [1]: http://9to5mac.com/2015/04/17/milan-event-new-bands/ "9to5Mac on new Apple Watch bands"
-[2]: http://d.pr/i/1dwWv+ "New Apple Watch Bands"
+[2]: https://d.pr/i/1dwWv+ "New Apple Watch Bands"
 [3]: http://9to5mac.com/2015/09/09/apple-watch-sport-collection-adds-gold-anodized-models-ahead-of-holiday-season/ "9to5Mac on new Apple Watch Sport models"
 [4]: http://www.techradar.com/us/news/wearables/apple-watch-os-2-release-date-news-and-features-1296413 "watchOS 2 release date"
-[5]: http://d.pr/i/1hnCA+ "iPad Pro"
+[5]: https://d.pr/i/1hnCA+ "iPad Pro"
 [6]: http://www.theverge.com/2015/9/9/9290361/hands-on-with-apples-new-ipad-pro "The Verge hands-on  with iPad Pro"
 [7]: http://9to5mac.com/2015/09/10/ipad-pro-4gb-ram/ "9to5Mac: iPad Pro has 4GB RAM"
-[8]: http://d.pr/i/FNOQ+ "Apple Pencil"
+[8]: https://d.pr/i/FNOQ+ "Apple Pencil"
 [9]: http://www.fiftythree.com/pencil "Pencil by FiftyThree"
 [10]: http://www.theverge.com/2015/9/9/9297683/pencil-ipad-fifty-three-apple-event-comment "The Verge on multiple pencils"
 [11]: http://www.urbandictionary.com/define.php?term=sherlocked&defid=5195210 "Urban Dictionary on 'sherlocking'"
 [12]: http://hypercritical.co/2013/02/08/dont-stop-thinking-about-tomorrow "John Siracusa on the future of computing"
 [13]: http://www.youtube.com/watch?v=HJscglIPqmw "The Verge's iPad Pro hands-on video"
 [14]: http://sixcolors.com/post/2015/04/the-new-macbook-a-reviewers-notebook/ "Jason Snell reviews the 2015 Retina MacBook"
-[15]: http://d.pr/i/1aq7x+ "Smart Keyboard"
-[16]: http://d.pr/i/15MWZ+ "Apple TV"
-[17]: http://d.pr/i/1f2Mp+ "iPhones 6s"
+[15]: https://d.pr/i/1aq7x+ "Smart Keyboard"
+[16]: https://d.pr/i/15MWZ+ "Apple TV"
+[17]: https://d.pr/i/1f2Mp+ "iPhones 6s"
 [18]: http://www.theverge.com/2015/9/10/9300055/live-photos-could-change-photography "The Verge on Live Photos"
 [19]: http://www.theverge.com/2015/9/9/9273979/apple-iphone-6s-plus-bend-aluminum-7000-series "The Verge: iPhone 6s bendable?"
 [20]: http://www.theverge.com/2014/9/25/6844943/apple-says-iphone-bending-extremely-rare "The Verge on 'Bendgate'"
 [21]: http://9to5mac.com/2015/09/10/phone-6s-battery-life-smaller-not-shorter/ "9to5Mac on less battery life for iPhones 6s"
 [22]: http://www.theverge.com/2015/9/9/9277775/new-apple-iphone-6s-price-cost-carriers "The Verge on iPhone 6s costs"
-[23]: http://d.pr/i/1lDaJ+ "New iPhone Cases"
+[23]: https://d.pr/i/1lDaJ+ "New iPhone Cases"
 [24]: http://9to5mac.com/2015/09/10/pre-order-iphone-6s/ "9to5Mac on how to order the new iPhones"
 [25]: http://daringfireball.net/2015/09/thoughts_and_observations_on_todays_hey_siri_event "John Gruber's take"
 [26]: http://sixcolors.com/post/2015/09/notebook-apples-newest-product-announcements/ "Jason Snell's take"

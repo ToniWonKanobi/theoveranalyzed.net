@@ -3,7 +3,7 @@ Date: 2015-02-16 10:00
 Link: http://www.aboveavalon.com/notes/2015/2/13/the-trick-of-downplaying-hardware  
 Description: Apple is purposefully downplaying hardware in order to get Wall Street on board with 'Apple As A Software Company.'  
 Tags: Apple  
-Image: http://d.pr/i/1kETq+  
+Image: https://d.pr/i/1kETq+  
 
 Neil Cybart of Above Avalon, on Tim Cook's conversation with Goldman Sachs:
 

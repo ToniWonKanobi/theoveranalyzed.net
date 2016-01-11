@@ -3,7 +3,7 @@ Date: 2015-02-12 15:00
 Link: http://www.aboveavalon.com/notes/2015/1/21/the-evolving-notification  
 Description: Seems like the smart thing to do is to start culling notifications now, so that when you actually get your Apple Watch, you'll be ready.  
 Tags: Apple Watch  
-Image: http://d.pr/i/1a0in+  
+Image: https://d.pr/i/1a0in+  
 
 ![Above Avalon on the evolving notification][1]
 
@@ -21,4 +21,4 @@ Apple Watch will be a huge paradigm shift. Instead of being beholden to my phone
 
 [^1]: If ever there were a "First World Problem" song, this would be the time to sing it.
 
-[1]: http://d.pr/i/1a0in+ "Above Avalon on the evolving notification"
+[1]: https://d.pr/i/1a0in+ "Above Avalon on the evolving notification"

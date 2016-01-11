@@ -17,7 +17,7 @@ Ben Lovejoy of 9to5Mac:
 
 Just yesterday my sister texted me regarding this very issue:
 
-![Rose Gold ≠ Rose Gold](http://d.pr/i/KBrS+ "Rose Gold ≠ Rose Gold")
+![Rose Gold ≠ Rose Gold](https://d.pr/i/KBrS+ "Rose Gold ≠ Rose Gold")
 <!-- {.screenshot style="max-width: 50%;"} -->
 
 I've never been interested in any of Apple's "Gold"-colored offerings, so the semantics of Rose Gold vs. pink are lost on me. 

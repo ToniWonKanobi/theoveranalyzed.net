@@ -63,7 +63,7 @@ And yet, at the same time, it was completely awesome.
 
 For the first time ever, I knew more about something than most every adult I came in contact with. Sure, I also knew more about the X-men than the average adult, but knowing more about something like computers? That was cooler. That became a big part of my identity. It has followed me all the way to where I am now. I'm sure there have countless others who share my story of internet discovery. I am *the* generation that grew up with the internet. Yay internet!
 
-[1]: http://d.pr/i/14WBi+ "Picture of my current situation at work"
+[1]: https://d.pr/i/14WBi+ "Picture of my current situation at work"
 [2]: https://www.instapaper.com/p/ToniWonKanobi "Me on Instagram"
 [3]: http://speedtest.org "Speedtest"
 [4]: http://loljunky.com/images/me-vs-normal-people-at-someones-house-1608.jpg "'What's your WiFi password?'"

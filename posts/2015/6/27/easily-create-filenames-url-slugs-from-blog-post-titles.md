@@ -2,7 +2,7 @@ Title: Easily Create Filenames & URL Slugs From Blog Post Titles
 Date: 2015-06-27 17:26  
 Description: I wanted a quick and easy way to select the text in the title of a post and create a URL-friendly ASCII string. Here's how I did it (with help).  
 Tags: Power User, Blogging  
-Image: http://d.pr/i/155iQ+  
+Image: https://d.pr/i/155iQ+  
 
 ### The Problem
 
@@ -22,8 +22,8 @@ It isn't the longest I've ever dreamt up, but it certainly isn't the shortest, e
 4. After that, I start manually changing the uppercase letters to lowercase, removing spaces and replacing them with hyphens, and deleting URL-unfriendly characters like `&`:
 
 <figure>
-	<img class="inlineTwo" src="http://d.pr/i/15iqM+" alt="Starting the process" title="Starting the process">
-	<img class="inlineTwo" src="http://d.pr/i/184Ox+" alt="This takes forever" title="This takes forever">
+	<img class="inlineTwo" src="https://d.pr/i/15iqM+" alt="Starting the process" title="Starting the process">
+	<img class="inlineTwo" src="https://d.pr/i/184Ox+" alt="This takes forever" title="This takes forever">
 	<figcaption style="font-style: normal;">😑</figcaption>
 </figure>
 
@@ -209,7 +209,7 @@ set theresult to change_case(theresult)
 
 And here's a screenshot of the workflow (it's actually a Service):
 
-![Make URL Slug.workflow](http://d.pr/i/107X5+ "Finished workflow")
+![Make URL Slug.workflow](https://d.pr/i/107X5+ "Finished workflow")
 
 ### Explanation
 
@@ -217,13 +217,13 @@ Essentially, what `Make URL Slug.workflow` does is take selected text and automa
 
 I also assigned a keyboard shortcut to the service, so that I don't have to invoke the 'right-click' submenu.
 
-![Shift-Option-Command-R](http://d.pr/i/1lBKU+ "Keyboard shortcut for Make URL Slug.workflow")
+![Shift-Option-Command-R](https://d.pr/i/1lBKU+ "Keyboard shortcut for Make URL Slug.workflow")
 
 This couldn't get any easier.
 
 <figure>
-	<img class="inlineTwo" src="http://d.pr/i/10cCw+" alt="Select the text" title="Select the text">
-	<img class="inlineTwo" src="http://d.pr/i/11dN3+" alt="And ...done." title="And ...done.">
+	<img class="inlineTwo" src="https://d.pr/i/10cCw+" alt="Select the text" title="Select the text">
+	<img class="inlineTwo" src="https://d.pr/i/11dN3+" alt="And ...done." title="And ...done.">
 	<figcaption style="font-style: normal;">😑 &#10142; 😄</figcaption>
 </figure>
 
@@ -240,9 +240,9 @@ Found some errors in my script, such as not removing commas. So, I fixed that. (
 
 </aside>
 
-[1]: http://d.pr/i/MDC4+ "Highlighting the post title"
-[2]: http://d.pr/i/BPjq+ "Invoking the Save command"
-[3]: http://d.pr/i/14x3d+ "Pasting the text"
+[1]: https://d.pr/i/MDC4+ "Highlighting the post title"
+[2]: https://d.pr/i/BPjq+ "Invoking the Save command"
+[3]: https://d.pr/i/14x3d+ "Pasting the text"
 [4]: http://www.leancrew.com/all-this/ "Dr. Drang's blog, And Now It's All This"
 [5]: https://twitter.com/drdrang "Dr. Drang on Twitter"
 [6]: https://github.com/cocur/slugify "Slugify's GitHub page"

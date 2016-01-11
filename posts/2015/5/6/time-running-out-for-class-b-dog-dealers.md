@@ -3,7 +3,7 @@ Date: 2015-05-06 09:32
 Link: http://blog.humanesociety.org/wayne/2015/05/class-b-dog-dealer-cancels-usda-license.html  
 Description: We're one step closer to being free from animal testing.  
 Tags: Advocacy, Animals  
-Image: http://d.pr/i/1fEr9+  
+Image: https://d.pr/i/1fEr9+  
 
 Wayne Pacelle, CEO of The Humane Society of The United States:
 

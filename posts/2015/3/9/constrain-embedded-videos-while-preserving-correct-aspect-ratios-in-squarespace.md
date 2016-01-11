@@ -34,7 +34,7 @@ Now, because I have set the width of my "main content" to 450px,[^2][^3] I would
 
 The problem with that is that it leads to aspect ratio weirdness like this:
 
-![Stubby](http://d.pr/i/10yC5+ "Stubby")
+![Stubby](https://d.pr/i/10yC5+ "Stubby")
 
 Notice that while the width of the `<iframe>` is correct, the height is completely stubby? Not ideal.
 
@@ -89,22 +89,22 @@ Copier says to "Target your .container, .wrapper, .post, etc." The problem was t
 
 To figure out what container to target using Safari, first make sure you have turned on "Show Develop menu in menu bar" (Chrome users can do something similar).
 
-![Make sure the Develop option is checked](http://d.pr/i/1097d+ "Make sure the Develop option is checked")
+![Make sure the Develop option is checked](https://d.pr/i/1097d+ "Make sure the Develop option is checked")
 
 Then, navigate to your page and then navigate to `Develop` → `Show Page Source`.[^6]
 
-![Showing the page source has helped me with lots of HTML/CSS problems in the past](http://d.pr/i/1bkxh+ "Showing the page source")
+![Showing the page source has helped me with lots of HTML/CSS problems in the past](https://d.pr/i/1bkxh+ "Showing the page source")
 <!-- {.screenshot} -->
 
 For my site, I visited the `/archive/` page, which is the URL slug for my main blog.
 
 After viewing the source, make sure that "Source Code" is selected and then click "Inspect Element". This will allow you to hover over the main content area of the blog post to try and figure out what that area is called. Whatever that main area is called---*that's* what you're looking to target with the script.
 
-![Looking for the important stuff](http://d.pr/i/10stf+ "Looking for important stuff")
+![Looking for the important stuff](https://d.pr/i/10stf+ "Looking for important stuff")
 
 What we are looking for (at least in my template): `.main-content`
 
-![There you are, `.main-content`](http://d.pr/i/1enKi+ "There you are")
+![There you are, `.main-content`](https://d.pr/i/1enKi+ "There you are")
 
 Once I recognized the `.container` that Squarespace uses for main post content (`.main-content`), I went about copy and pasting that into the `<script>` that calls the `fitvids.js` to work.
 

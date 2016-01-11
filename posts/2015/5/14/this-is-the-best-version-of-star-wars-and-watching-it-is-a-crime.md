@@ -3,7 +3,7 @@ Date: 2015-05-14 20:33
 Link: http://www.vox.com/2015/1/30/7952859/despecialized-edition-download  
 Description: Harmy's "Despecialized" version of the original trilogy may be *the* version to get, but that doesn't make it legal. Is that a problem?  
 Tags: Star Wars, Culture  
-Image: http://d.pr/i/17G8k+  
+Image: https://d.pr/i/17G8k+  
 Video: https://www.youtube.com/watch?v=QXifjbxZDAM  
 
 ![Harmy's Despecialized Edition][1]
@@ -31,9 +31,9 @@ I suppose it all depends on your [point of view][2].
 In case you were wondering:
 
 <figure>
-	<img src="http://d.pr/i/NHJO+" alt="To do." title="To do.">
+	<img src="https://d.pr/i/NHJO+" alt="To do." title="To do.">
 	<figcaption><a href="https://github.com/donmelton/video-transcoding-scripts">Don Melton</a>-ing these has been on my list of things to do for way too long</figcaption>
 </figure>
 
-[1]: http://d.pr/i/17G8k+ "Harmy's Despecialized Edition"
+[1]: https://d.pr/i/17G8k+ "Harmy's Despecialized Edition"
 [2]: https://www.youtube.com/watch?v=MFz8W7fYMy4&feature=youtu.be&t=65

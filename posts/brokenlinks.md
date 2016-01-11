@@ -15,7 +15,7 @@ Here are permalinks to those posts:
 
 [^1]: Trust me, I tried. [A bunch][a].
 
-[a]: http://d.pr/i/1fnxi+ "Searching through Google for broken links to fix"
+[a]: https://d.pr/i/1fnxi+ "Searching through Google for broken links to fix"
 
 [1]: /2015/2/19/christians-not-acting-like-christ "Mildly political debate"
 [2]: /2014/10/27/why-i-couldnt-handle-the-iphone-6-plus "Why the iPhone 6 Plus was too big for me"

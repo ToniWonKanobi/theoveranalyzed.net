@@ -2,13 +2,13 @@ Title: 48 Hours With the Apple Watch
 Date: 2015-06-08 08:00  
 Description: One shady Saturday eBay deal later, and I too have a 42 mm piece of glass on my left wrist.  
 Tags: Reviews, Apple Watch  
-Image: http://d.pr/i/18vPS+  
+Image: https://d.pr/i/18vPS+  
 
 I did everything I was supposed to do. 
 
 On the night of April 9th, I stayed up late like a big boy and placed my order for the Space Black Apple Watch. Despite the higher price tag, I was convinced this was the watch for me. It had that Darth Vader look, and as I mentioned [previously][1], black is usually the better choice. I ordered the watch from the [Apple Store app][2] on my iPhone, which has [traditionally][3] been the most surefire way to ensure that I always had Apple's latest and greatest piece of glass on launch day. 
 
-![Still.](http://d.pr/i/1bp1g+ "Sigh")
+![Still.](https://d.pr/i/1bp1g+ "Sigh")
 <!-- {.screenshot} -->
 
 And yet, close to two months later, I still don't have that Watch. I do, however, have a different one. Like all good gear acquisitions that have taken place over the past 11 years, it happened on eBay.
@@ -53,7 +53,7 @@ My biggest complaint with Watch OS deals specifically with Messages on the Watch
 
 My current watch face of choice is Modular. I tried the analog Utility mode, but I find the digital readout works better for me. I might switch it up at some point, but right now I am pretty happy with Modular's balance of complications and ease of time-telling (it *is* still a watch, after all).
 
-![Utility (Left) and Modular (Right)](http://d.pr/i/1aOLh+ "Faces")
+![Utility (Left) and Modular (Right)](https://d.pr/i/1aOLh+ "Faces")
 
 #### Fitness
 
@@ -83,7 +83,7 @@ I didn't even bother including the battery complication on my watch face. I used
 
 I think Apple way-overshot their battery conservation measures. It feels like the display turns off the instant I look away. I wish it was just a little bit longer before auto-off. I can't blame Apple, though. Imagine all the complaints they would have gotten if the Watch died in the middle of the day like everyone feared after last year's introduction. 
 
-![Ignoring the prompts to enable Power Reserve](http://d.pr/i/diJa+ "Remaining battery")
+![Ignoring the prompts to enable Power Reserve](https://d.pr/i/diJa+ "Remaining battery")
 <!-- {.screenshot .applewatch} -->
 
 ### Overall

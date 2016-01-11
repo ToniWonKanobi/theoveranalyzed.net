@@ -2,7 +2,7 @@ Title: We're Taking A Little Break
 Date: 2014-12-24 19:44  
 Description: 🎅🏿  
 Tags: Culture  
-Image: http://d.pr/i/HrLu+  
+Image: https://d.pr/i/HrLu+  
 
 So it was Christmas Day earlier today, and [like any good American consumer][1], I faithfully opened up Safari tabs for [Toms][2], [Cotton Bureau][3], and [Patagonia][4] during a moment of boredom post-present opening.
 
@@ -11,7 +11,7 @@ I love all three of the three aforementioned brands. Toms' charity has been [wel
 Upon opening all three websites, I noticed something about the Cotton Bureau one that induced some warm-fuzzy feelings: 
 
 <figure>
-	<img src="http://d.pr/i/HrLu+" alt="Precious 🎄" title="Precious 🎄">
+	<img src="https://d.pr/i/HrLu+" alt="Precious 🎄" title="Precious 🎄">
 	<figcaption>Precious 🎄</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ After all my hyperbole, you can, therefore, imagine my delight upon navigating t
 This was Patagonia's website when I navigated there today: 
 
 <figure>
-	<img src="http://d.pr/i/twiq+" alt="They aren't closed for the holidays, but they are still legit." title="They aren't closed for the holidays, but they are still legit.">
+	<img src="https://d.pr/i/twiq+" alt="They aren't closed for the holidays, but they are still legit." title="They aren't closed for the holidays, but they are still legit.">
 	<figcaption>They aren't closed for the holidays, but they are still legit. See story below.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Wow. How refreshing.
 And how about Toms?
 
 <figure>
-	<img src="http://d.pr/i/jVnS+" alt="Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight." title="Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight.">
+	<img src="https://d.pr/i/jVnS+" alt="Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight." title="Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight.">
 	<figcaption>Again, like Patagonia, Toms wasn't closed for the holidays. But they give shoes to Africans, among other things. That's tight.</figcaption>
 </figure>
 

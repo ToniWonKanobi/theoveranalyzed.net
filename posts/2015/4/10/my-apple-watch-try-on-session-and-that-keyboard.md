@@ -2,7 +2,7 @@ Title: My Apple Watch Try-On Session, and That Keyboard
 Date: 2015-04-10 22:57  
 Description: I tried on some Apple Watches today, and I also checked out the new MacBook.  
 Tags: Reviews, Apple Watch  
-Image: http://d.pr/i/120bA+  
+Image: https://d.pr/i/120bA+  
 
 <p><em class="topStory">By now, on Friday night of the 'embargo week,' you have no doubt read and watched *plenty* in regards to Apple Watch and the new MacBook. I was one of the silly folk who stayed up <s>last night</s> this morning to preorder both. I was also one of the souls who scheduled a try-on appointment this evening.</em></p>
 
@@ -24,7 +24,7 @@ It seems like supply was severely constrained for both items. Was it orchestrate
 
 Around 12:40 last night, I made my try-on appointment for the Apple Watch.
 
-![And it only took me three tries!](http://d.pr/i/ZBFa+ "Three tries")
+![And it only took me three tries!](https://d.pr/i/ZBFa+ "Three tries")
 <!-- {.screenshot .iphone} -->
 
 Why did I do this? Especially after having already pre-ordered the Watch? I wanted to be sure I made the right choice. I'll echo what Tapbots developer Paul Haddad said earlier today: June is a long way away, plenty of time for me to change my mind about a few things. 
@@ -37,9 +37,9 @@ They somehow lost my reservation, but the 'front of the store' minion got me set
 
 Interesting.
 
-![This used to be the area of the store where the forgotten things went: Mac mini, Thunderbolt Display, MacBook Pro (non-Retina), etc.](http://d.pr/i/16cN2+ "This used to be the area of the store where the forgotten things went: Mac mini, Thunderbolt Display, MacBook Pro (non-Retina), etc.")
+![This used to be the area of the store where the forgotten things went: Mac mini, Thunderbolt Display, MacBook Pro (non-Retina), etc.](https://d.pr/i/16cN2+ "This used to be the area of the store where the forgotten things went: Mac mini, Thunderbolt Display, MacBook Pro (non-Retina), etc.")
 
-![Tadaaa](http://d.pr/i/13362+ "Tadaaa")
+![Tadaaa](https://d.pr/i/13362+ "Tadaaa")
 
 Luckily for me, I got to try on the Apple Watch specimens that I was most interested in (more or less).
 
@@ -47,16 +47,16 @@ Luckily for me, I got to try on the Apple Watch specimens that I was most intere
 
 The Apple Watch Sport is just as awesome and wonderful as it appears to be in Apple's product imagery. It is the perfect gadget watch, and I have no doubt a lot of my friends will have this model because of its easy livability and it's dashing good looks. 
 
-![Hello, I must be going.](http://d.pr/i/gyyE+ "Hello, I must be going")
+![Hello, I must be going.](https://d.pr/i/gyyE+ "Hello, I must be going")
 
 The "rubber" band is far from *just* rubber---it is easily the biggest surprise out of all the models I got to touch. Gruber [agrees][2] with me. Leave it to Apple to make a rubber watch band feel so much more exclusive than, well, regular rubber watch bands from other companies. 
 
 Oh, another thing about the fluoroelastomer band: it is a real pain to get on and off. The lady spent the most time with that watch taking it on/off.
 
 <figure>
-	<img class="screenshot inlineThree" src="http://d.pr/i/1hgPn+" alt="Step 1" title="Step 1">
-	<img class="screenshot inlineThree" src="http://d.pr/i/1eArk+" alt="Step 2" title="Step 2">
-	<img class="screenshot inlineThree" src="http://d.pr/i/1hExt+" alt="Step 3" title="Step 3">
+	<img class="screenshot inlineThree" src="https://d.pr/i/1hgPn+" alt="Step 1" title="Step 1">
+	<img class="screenshot inlineThree" src="https://d.pr/i/1eArk+" alt="Step 2" title="Step 2">
+	<img class="screenshot inlineThree" src="https://d.pr/i/1hExt+" alt="Step 3" title="Step 3">
 	<figcaption>Steps 1, 2, and 3 for getting the Sport band on</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Oh, another thing about the fluoroelastomer band: it is a real pain to get on an
 
 This was the model I was most interested in trying on, once I found out that the stainless black was not available (there was a model on display in the center aisle display case, but that's it). I was worried it might seem grandpa-ish, based on what [Marco][3] had to say about it. He couldn't have been more wrong. The satin-y finish of the bracelet nicely complements the polished appearance of the Watch case. And really, the stainless black color scheme evokes a rather modern vibe by default. 
 
-![Ahhh yeah.](http://d.pr/i/19DK5+ "Yup")
+![Ahhh yeah.](https://d.pr/i/19DK5+ "Yup")
 
 ##### Apple Watch (Stainless Steel, Milanese Loop)
 
@@ -74,7 +74,7 @@ Marco Arment had this to say about it:
 
 > The Milanese Loop, my preorder, is decent, but not quite what I expected. The mesh is much smaller in real life than it looks in the photos, so it ends up looking and feeling more like silver fabric than woven metal. It’s easier to attach and adjust than the Leather Loop because it doesn’t have discrete segments, but it still took me a few adjustments each time to get the right fit.
 
-![Meh.](http://d.pr/i/iovZ+ "Meh")
+![Meh.](https://d.pr/i/iovZ+ "Meh")
 
 ##### Impressions
 
@@ -92,7 +92,7 @@ What I was most looking forward to was typing on this thing. Jason Snell has bem
 
 Boy was I wrong. It really, truly does feel just *slightly* more feedback-y than typing on an iPad screen. The latter is certainly the worst typing experience of all, but the former isn't that far ahead. Yes, the keys feel very sturdy. Typing on the keyboard evokes all those things I remember Jony Ive talking about in the promotional videos. Don't get me wrong: this keyboard is an excellent hardware milestone. I just think it will take some getting used to. If you preordered one, be ready. It's not going to feel like typing on anything you've typed on before. 
 
-![I'll leave you with this: the display case for try-on's. So clean.](http://d.pr/i/120bA+ "Leaving you with this")
+![I'll leave you with this: the display case for try-on's. So clean.](https://d.pr/i/120bA+ "Leaving you with this")
 
 [1]: http://www.businessinsider.com/angela-ahrendts-says-a-significant-change-in-mindset-to-launching-apple-watch-online-2015-4?op=1 "Business Insider on Angela Ahrendts's changing mindset in marketing the Apple Watch"
 [2]: http://daringfireball.net/2015/04/the_apple_watch "John Gruber's review of Apple Watch"

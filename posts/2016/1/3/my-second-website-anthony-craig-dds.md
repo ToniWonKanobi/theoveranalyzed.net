@@ -2,7 +2,7 @@ Title: My Second Website: Anthony Craig DDS
 Date: 2016-01-03 08:02  
 Description: I finally made a website for my professional persona.  
 Tags: Dentistry  
-Image: http://d.pr/i/1fgCa+  
+Image: https://d.pr/i/1fgCa+  
 
 ![Anthony Craig, DDS is live!][1]
 

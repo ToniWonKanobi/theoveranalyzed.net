@@ -3,7 +3,7 @@ Date: 2015-05-06 10:30
 Link: http://www.slashfilm.com/j-j-abrams-cut-star-wars-original-trilogy-references-from-the-force-awakens/  
 Description: The superfans might be not be pleased with the lack of Expanded Universe references.  
 Tags: Star Wars  
-Image: http://d.pr/i/1alUJ+  
+Image: https://d.pr/i/1alUJ+  
 
 Ethan Anderton, reporting for /Film:
 

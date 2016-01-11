@@ -3,7 +3,7 @@ Date: 2015-02-11 08:00
 Link: http://www.vox.com/2015/2/10/8016365/jon-stewart-crossfire  
 Description: TDS just won't be the same without him.  
 Tags: TV  
-Image: http://d.pr/i/1Nus+  
+Image: https://d.pr/i/1Nus+  
 
 Zack Beauchamp, for Vox:
 

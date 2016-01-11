@@ -3,7 +3,7 @@ Date: 2015-07-15 17:47
 Link: http://furbo.org/2015/07/14/a-watch-water-and-workouts/  
 Description: Craig Hockenberry recently recounted some of his adventures with Apple Watch. Namely, those that take place in *water* 🌊  
 Tags: Apple Watch  
-Image: http://d.pr/i/18hRX+  
+Image: https://d.pr/i/18hRX+  
 
 The whole piece is worth reading, if for no other reason to make you feel better about showering with your Watch (if that's something you want to do).
 

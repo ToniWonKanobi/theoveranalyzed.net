@@ -3,7 +3,7 @@ Date: 2015-05-01 15:45
 Link: http://www.theverge.com/2015/5/1/8525309/tesla-energy-elon-musk-battery-announcement  
 Description: Tesla has a new battery charging system.  
 Tags: Tesla  
-Image: http://d.pr/i/11CPV+  
+Image: https://d.pr/i/11CPV+  
 
 Bryan Bishop of The Verge:
 

@@ -13,7 +13,7 @@ The Shutterstock blog:
 
 Here's the infographic:
 
-![Pop Chart Lab is awesome](http://d.pr/i/1fxha+ "Pop Chart Lab is awesome")
+![Pop Chart Lab is awesome](https://d.pr/i/1fxha+ "Pop Chart Lab is awesome")
 
 (From [/Film][2])
 

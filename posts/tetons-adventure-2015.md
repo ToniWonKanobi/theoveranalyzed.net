@@ -5,7 +5,7 @@ CSS: black.css
 
 # Tetons Adventure 2015&nbsp;🗻
 
-<video controls poster="http://d.pr/i/16tNs+" src="https://s3-us-west-1.amazonaws.com/toaassets/videos/Tetons+2015.mp4" title="Video of our trip">
+<video controls poster="https://d.pr/i/16tNs+" src="https://s3-us-west-1.amazonaws.com/toaassets/videos/Tetons+2015.mp4" title="Video of our trip">
 Are you using a crappy browser? It must be crappy, because it doesn't support this HTML5 <code>video</code> element.
 </video>
 

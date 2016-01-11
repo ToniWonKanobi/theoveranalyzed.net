@@ -2,12 +2,12 @@ Title: Ditching Webfonts
 Date: 2015-07-15 11:41  
 Description: Over the past few years, I've become increasingly interested in design and specifically, typography. Ideal Sans was *it* for me. But maybe Hoefler's webfont is just too much of a drag right now?  
 Tags: Typography, Web Design, Ditching Webfonts  
-Image: http://d.pr/i/138Zv+  
+Image: https://d.pr/i/138Zv+  
 
 <p><em class="topStory">This is the second post in a series called <a href="tags/Ditching%20Webfonts" rel="tag" title="Posts tagged 'Ditching Webfonts'">Ditching Webfonts</a>. If you haven't already done so, you should read the <a href="/2015/7/12/why-the-web-is-so-slow" rel="previous" title="My piece on The Verge piece about the slow web">first</a> post in this series. You can also read the <a href="/2015/7/19/ditching-webfonts-part-ii-hoefler-webfonts-are-prettier-but-slower" rel="next" title="The final post in the series 'Ditching Webfonts'">final</a> post in the series.</em></p>
 
 <figure>
-	<img src="http://d.pr/i/138Zv+" alt="Waiting." title="Waiting.">
+	<img src="https://d.pr/i/138Zv+" alt="Waiting." title="Waiting.">
 	<figcaption>That's exactly 457.1 ms too long for me.</figcaption>
 </figure>
 
@@ -72,20 +72,20 @@ If Ideal Sans was the problem, I wondered how fast TheOverAnalyzed would load wi
 To test the site without the webfont, I modified `styles.css`, so that there would be a fallback font. In this case, [Avenir][20], which is like [Helvetica][21] but less cliche.[^2]
 
 <figure>
-	<img src="http://d.pr/i/U6XZ+" alt="Switching to Avenir" title="Switching to Avenir">	<figcaption>Adding Avenir.</figcaption>
+	<img src="https://d.pr/i/U6XZ+" alt="Switching to Avenir" title="Switching to Avenir">	<figcaption>Adding Avenir.</figcaption>
 </figure>
 
 I also commented-out the stylesheet helper for the webfont in the `<head>` section (`header.html` for Camel)
 
 <figure>
-	<img src="http://d.pr/i/hddm+" alt="Disabling the webfont stylesheet" title="Disabling the webfont stylesheet">
+	<img src="https://d.pr/i/hddm+" alt="Disabling the webfont stylesheet" title="Disabling the webfont stylesheet">
 	<figcaption>Disabling the webfont stylesheet.</figcaption>
 </figure>
 
 Once that was done, the results were noticeable.
 
 <figure>
-	<img src="http://d.pr/i/1eIhx+" alt="Not waiting as long" title="Not waiting as long">	<figcaption>Bye bye latency.</figcaption>
+	<img src="https://d.pr/i/1eIhx+" alt="Not waiting as long" title="Not waiting as long">	<figcaption>Bye bye latency.</figcaption>
 </figure>
 
 Yes, *still* not [Daring Fireball][22], but significantly quicker page loading without the Cloud.typography latency. 
@@ -133,7 +133,7 @@ And because I'm in the purging mood, I'm going to try TheOverAnalyzed without al
 [7]: http://www.typography.com/fonts/whitney/overview/ "A previous alternate for Ideal Sans, Whitney, on Hoefler & Co's website"
 [8]: /2015/6/1/introducing-theoveranalyzed-30 "Me introducing TheOverAnalyzed 3.0"
 [9]: http://daringfireball.net "John Gruber's personal blog, Daring Fireball"
-[10]: http://d.pr/i/1hGao+ "Speedtesting Daring Fireball with Alexa"
+[10]: https://d.pr/i/1hGao+ "Speedtesting Daring Fireball with Alexa"
 [11]: /tags/Star%20Wars "Posts tagged 'Star Wars'"
 [12]: /tags/movies "Posts tagged 'Movies'"
 [13]: http://www.bigfootjs.com/ "Bigfoot Footnotes website"
@@ -145,7 +145,7 @@ And because I'm in the purging mood, I'm going to try TheOverAnalyzed without al
 [19]: http://www.typography.com/cloud/welcome/ "Hoefler & Co"
 [20]: https://en.wikipedia.org/wiki/Avenir_(typeface) "Wikipedia: Avenir typeface"
 [21]: https://en.wikipedia.org/wiki/Helvetica "Wikipedia: Helvetica"
-[22]: http://d.pr/i/8o2U+ "Speedtesting Daring Fireball on my Mac"
+[22]: https://d.pr/i/8o2U+ "Speedtesting Daring Fireball on my Mac"
 [23]: https://stratechery.com/2015/why-web-pages-suck/ "Ben Thompson on that Verge piece about slow websites"
 [24]: /2015/5/15/facebooks-instant-articles "My post on Facebook Instant Articles"
 [25]: http://daringfireball.net/linked/2015/07/09/ritchie-bad-ads "John Gruber on iMore's crappy website"

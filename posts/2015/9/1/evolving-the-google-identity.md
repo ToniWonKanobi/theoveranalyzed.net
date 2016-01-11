@@ -3,11 +3,11 @@ Date: 2015-09-01 09:28
 Link: https://design.google.com/articles/evolving-the-google-identity/  
 Description: Google has a new logo. It's very sans-serif-y.  
 Tags: Typography  
-Image: http://d.pr/i/14YaI+  
+Image: https://d.pr/i/14YaI+  
 Video: https://g-design.storage.googleapis.com/production/v5/assets/g-header.mp4  
 
 <figure>
-	<img src="http://d.pr/i/14YaI+" alt="Google's new logo" title="Google's new logo">
+	<img src="https://d.pr/i/14YaI+" alt="Google's new logo" title="Google's new logo">
 	<figcaption><i>Very</i> <a href="https://en.wikipedia.org/wiki/Sans-serif" title="Wikipedia: Sans-serif fonts">sans-serif</a>-y</figcaption>
 </figure>
 
@@ -15,7 +15,7 @@ Video: https://g-design.storage.googleapis.com/production/v5/assets/g-header.mp4
 
 I was going to spend my time bemoaning Google's overtly geometric sans-serif font choice, but then I watched this:
 
-<video src="https://g-design.storage.googleapis.com/production/v5/assets/g-voice-flow.mp4" poster="http://d.pr/i/1fu8s+" preload="metadata" controls title="Google's explanation for their new logo"></video>
+<video src="https://g-design.storage.googleapis.com/production/v5/assets/g-voice-flow.mp4" poster="https://d.pr/i/1fu8s+" preload="metadata" controls title="Google's explanation for their new logo"></video>
 
 Wow---the logotype looks *much* better in the full [Material Design][1] setting. Bravo, Google.[^1]
 

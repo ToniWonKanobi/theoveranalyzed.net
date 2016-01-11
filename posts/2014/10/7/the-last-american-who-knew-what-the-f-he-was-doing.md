@@ -46,7 +46,7 @@ Thanks Steve 
 [14]: http://theverge.com/ "The Verge"
 [15]: http://daringfireball.net/ "John Gruber's blog, Daring Fireball"
 [16]: http://atp.fm/ "The Accidental Tech Podcast"
-[17]: http://d.pr/f/EOGP+ "My podcast (Overcast) subscriptions"
+[17]: https://d.pr/f/EOGP+ "My podcast (Overcast) subscriptions"
 [18]: http://overcast.fm/ "Overcast"
 [19]: http://marco.org/ "Marco Arment's blog, Marco.org"
 [20]: http://supertop.co/ "Creators of Castro app"

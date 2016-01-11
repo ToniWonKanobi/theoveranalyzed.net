@@ -3,11 +3,11 @@ Date: 2015-04-16 13:57
 Link: http://9to5mac.com/2015/04/15/how-to-use-the-apple-watch/  
 Description: iPhone OS v1.0 this is not.  
 Tags: Apple Watch  
-Image: http://d.pr/i/Uu8M+  
+Image: https://d.pr/i/Uu8M+  
 
 Ben Lovejoy, writing for 9to5Mac, recently featured a nifty infographic detailing the UI/UX navigation/hierarchy of Apple Watch:
 
-![Apple Watch UI seems overly complicated, but what do I know?](http://d.pr/i/Uu8M+ "Apple Watch UI")
+![Apple Watch UI seems overly complicated, but what do I know?](https://d.pr/i/Uu8M+ "Apple Watch UI")
 <!-- {.screenshot} -->
 
 Last week, I spent a few minutes in the Apple Store [trying on the various Apple Watches][1]. 

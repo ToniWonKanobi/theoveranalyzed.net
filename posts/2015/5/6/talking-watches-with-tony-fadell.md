@@ -3,12 +3,12 @@ Date: 2015-05-06 18:30
 Link: http://www.hodinkee.com/blog/talking-watches-with-tony-fadell  
 Description: Even an ex-Apple executive is having a hard time getting behind the Watch.  
 Tags: Watches, Apple Watch  
-Image: http://d.pr/i/13OjM+  
+Image: https://d.pr/i/13OjM+  
 
 Benjamin Clymer sat down with Nest's ([Google's][1]) [Tony Fadell][2] to talk about watches. Fadell has some great specimens to show off, that's for sure.
 
 <figure>
-	<img src="http://d.pr/i/13OjM+" alt="Apple executives" title="Apple executives">
+	<img src="https://d.pr/i/13OjM+" alt="Apple executives" title="Apple executives">
 	<figcaption class="source">Source: Hodinkee</figcaption>
 </figure>
 
@@ -17,12 +17,12 @@ Don't you just love that picture?
 The most interesting of his timepieces was the first the first one mentioned in his interview, the Ikepod HemiPode Chronograph, which was designed by Marc Newson. In case you are unfamiliar with Newson, he co-founded [Ikepod][3] in 1994, and was [swooped up by Apple][4] last year.
 
 <figure>
-	<img src="http://d.pr/i/1gRBt+" alt="Ikepod HemiPode Chronograph" title="Ikepod HemiPode Chronograph">
+	<img src="https://d.pr/i/1gRBt+" alt="Ikepod HemiPode Chronograph" title="Ikepod HemiPode Chronograph">
 	<figcaption>This seems so familiar, doesn't it?</figcaption>
 </figure>
 
 <figure>
-	<img src="http://d.pr/i/12r4H+" alt="Apple Watch Sport" title="Apple Watch Sport">
+	<img src="https://d.pr/i/12r4H+" alt="Apple Watch Sport" title="Apple Watch Sport">
 	<figcaption>Looks a lot like this!</figcaption>
 </figure>
  

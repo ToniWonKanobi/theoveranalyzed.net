@@ -3,7 +3,7 @@ Date: 2015-02-16 11:00
 Link: http://www.bloomberg.com/news/articles/2015-02-11/tim-cook-doesn-t-believe-this-made-up-math-law-will-limit-apple-s-growth  
 Description: "The Law of Large Numbers" can mean different things for different contexts.  
 Tags: Industry  
-Image: http://d.pr/i/1bs0x+  
+Image: https://d.pr/i/1bs0x+  
 
 I am no [Ben Thompson][1], so this intrigued me. 
 

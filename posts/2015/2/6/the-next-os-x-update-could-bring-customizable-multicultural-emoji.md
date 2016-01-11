@@ -3,7 +3,7 @@ Date: 2015-02-06 12:30
 Link: http://www.theverge.com/2015/2/6/7992991/the-next-os-x-update-could-bring-customizable-multicultural-emoji  
 Description: I can't wait to use these like an idiot.  
 Tags: Emoji  
-Image: http://d.pr/i/1fbKg+  
+Image: https://d.pr/i/1fbKg+  
 
 Nathan Ingraham writing for The Verge:
 
@@ -11,7 +11,7 @@ Nathan Ingraham writing for The Verge:
 
 Here is a screenshot of the placeholder emojis Ingraham refers to:
 
-![Placeholder emojis](http://d.pr/i/1fbKg+ "Emoji placeholders")
+![Placeholder emojis](https://d.pr/i/1fbKg+ "Emoji placeholders")
 <!-- {style="max-width: 300px;"} -->
 
 He continues:

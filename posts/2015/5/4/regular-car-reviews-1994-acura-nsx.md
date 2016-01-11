@@ -3,7 +3,7 @@ Date: 2015-05-04 14:31
 Link: https://youtu.be/V6FDPS-78WU  
 Description: The Regular Car Reviews team takes on one of my favorite sports cars.  
 Tags: Honda  
-Image: http://d.pr/i/1jsTP+
+Image: https://d.pr/i/1jsTP+
 Video: https://youtu.be/V6FDPS-78WU  
 
 I've written about the <s>Honda</s> Acura NSX [before][1]. It's no secret that Japan's preeminent [Ferrari-killer][2] is near and dear to my heart. Here's a rather funny (and quite accurate) take on the original Japanese supercar. You probably know there's a [new one][3] coming. But, like most new things, it will probably be [lame][4].

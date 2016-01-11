@@ -31,5 +31,5 @@ A couple of interesting bits:
 [8]: http://www.emorymotorsports.com/ "The original Outlaws: Emory"
 [9]: https://en.wikipedia.org/wiki/Porsche_356 "Wikipedia: Porsche 356"
 [10]: http://forums.macrumors.com/threads/jay-leno-sporting-an-apple-watch.1888385/ "Noticing Jay has an Apple Watch"
-[11]: http://d.pr/i/16MRP+ "Appears to be the stainless Watch with Milanese loop"
-[12]: http://d.pr/i/1andJ+ "Cozy."
+[11]: https://d.pr/i/16MRP+ "Appears to be the stainless Watch with Milanese loop"
+[12]: https://d.pr/i/1andJ+ "Cozy."

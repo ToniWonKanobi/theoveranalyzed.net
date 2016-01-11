@@ -54,11 +54,11 @@ I love you Allison
 
 </div>
 
-[1]: http://d.pr/i/1h9Gt+ "Our first date"
-[2]: http://d.pr/i/17c8+ "Allison reading at Putah Creek Cafe"
-[3]: http://d.pr/i/1cA8c+ "Allison at Caffe Italia"
-[4]: http://d.pr/i/12lD8+ "Us in San Francisco"
-[5]: http://d.pr/i/1aaa8+ "Us in Truckee, CA"
-[6]: http://d.pr/i/1l05R+ "Allison in Davis, CA"
-[7]: http://d.pr/i/133Ap+ "Us in Lake Arrowhead, CA, after my graduation from dental school"
-[8]: http://d.pr/i/1jbcu+ "Smokey outside of our cabin in Jackson, WY"
+[1]: https://d.pr/i/1h9Gt+ "Our first date"
+[2]: https://d.pr/i/17c8+ "Allison reading at Putah Creek Cafe"
+[3]: https://d.pr/i/1cA8c+ "Allison at Caffe Italia"
+[4]: https://d.pr/i/12lD8+ "Us in San Francisco"
+[5]: https://d.pr/i/1aaa8+ "Us in Truckee, CA"
+[6]: https://d.pr/i/1l05R+ "Allison in Davis, CA"
+[7]: https://d.pr/i/133Ap+ "Us in Lake Arrowhead, CA, after my graduation from dental school"
+[8]: https://d.pr/i/1jbcu+ "Smokey outside of our cabin in Jackson, WY"

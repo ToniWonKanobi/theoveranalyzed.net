@@ -3,7 +3,7 @@ Date: 2015-04-06 16:00
 Link: http://www.theverge.com/2015/4/6/8341217/figure-1-medical-images-sharing-app  
 Description: Figure 1 is an app made for physicians, but there are occasionally dental pathologies of note.  
 Tags: Apps, Dentistry  
-Image: http://d.pr/i/iPFO+  
+Image: https://d.pr/i/iPFO+  
 
 Ben Popper, for The Verge:
 
@@ -15,7 +15,7 @@ Their oral and maxillofacial section is my favorite, chalk full of interesting p
 
 And, occasionally, not so interesting cases:
 
-![Silly medical folk](http://d.pr/i/iPFO+ "Silly medical folk")
+![Silly medical folk](https://d.pr/i/iPFO+ "Silly medical folk")
 <!-- {.screenshot .iphone} -->
 
 As Popper notes, you don't have to be a medical professional to find the app interesting. Indeed, sometimes it's fun to just look at gross stuff. And trust me, there are plenty of gross things to look at in the health field. 

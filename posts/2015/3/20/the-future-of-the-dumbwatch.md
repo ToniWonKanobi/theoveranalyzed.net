@@ -3,7 +3,7 @@ Date: 2015-03-20 15:04
 Link: http://www.marco.org/2015/03/20/dumbwatch-future  
 Description: Handmade vs. fruit-made.  
 Tags: Apple Watch  
-Image: http://d.pr/i/10KlC+  
+Image: https://d.pr/i/10KlC+  
 
 ![Marco's Venn diagram][1]
 
@@ -19,5 +19,5 @@ While I can hope my desire for a dumb watch will entitle it to be worn at least 
 
 Come May 1, I should have a better idea whether the dumbwatches of yore might still have a place on my wrist.
 
-[1]: http://d.pr/i/10KlC+ "Marco's Venn diagram"
+[1]: https://d.pr/i/10KlC+ "Marco's Venn diagram"
 [2]: /2015/3/10/wearing-two-watches "My post on the practicality of wearing two watches: Apple Watch, and an old, classic-style watch"

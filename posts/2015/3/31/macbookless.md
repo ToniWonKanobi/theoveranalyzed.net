@@ -2,10 +2,10 @@ Title: MacBookless
 Date: 2015-03-31 12:00  
 Description: In anticipation for the new MacBook, I've sold my MacBook Air, and have been going without. It's been interesting.  
 Tags: Blogging, Mac, iPhone  
-Image: http://d.pr/i/17cng+  
+Image: https://d.pr/i/17cng+  
 
 <figure>
-	<img src="http://d.pr/i/17cng+" alt="Not sure how Viticci does it" title="Not sure how Viticci does it">
+	<img src="https://d.pr/i/17cng+" alt="Not sure how Viticci does it" title="Not sure how Viticci does it">
 	<figcaption>Not sure how <a href="http://www.imore.com/how-ipad-air-2-became-federico-viticcis-main-computer" title="Federico Viticci on how the iPad became his primary computer">Viticci</a> does it.</figcaption>
 </figure>
 

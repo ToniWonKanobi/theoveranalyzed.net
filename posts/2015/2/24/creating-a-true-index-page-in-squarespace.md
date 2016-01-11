@@ -2,7 +2,7 @@ Title: Creating a True Index Page in Squarespace
 Date: 2015-02-24 23:26  
 Description: Here's how I hacked Squarespace to have a true Index page.  
 Tags: Squarespace  
-Image: http://d.pr/i/1iXJC+  
+Image: https://d.pr/i/1iXJC+  
 
 #### Preamble
 
@@ -112,7 +112,7 @@ Here is the content of the `Code block` I used to make the Index:[^5]
 ### Ahh.
 
 <figure>
-	<img src="http://d.pr/i/1iXJC+" alt="Finished" title="Finished">
+	<img src="https://d.pr/i/1iXJC+" alt="Finished" title="Finished">
 	<figcaption>Finished.</figcaption>
 </figure>
 

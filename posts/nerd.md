@@ -1,0 +1,81 @@
+Title: Nerdy Stuff  
+Description: This page contains additional information about the site not covered in /about  
+
+### Apps I Use
+
+Almost all of the writing, design, and development for TheOverAnalyzed happens on my Mac. I use [Byword][1] for static content such blog posts. I've tried plenty of other text editors, but Byword is by far my favorite.
+
+I use [Atom][2] for all the coding and design.
+
+Occasionally I have to fix a post on my iPhone. I use [Byword][3] for that as well.
+
+### Technical
+
+This site is based on [Casey Liss's][4] static blogging engine, [Camel][5]. I use a [forked version][6] of that project, which includes provisions for [tags][7] and a [sitemap][8]. From there, I tweaked Camel with additional [`markdown-it`][9] plugins, including the following:
+
+* [`markdown-it-footnote-conventional`][10], which is a forked version of [`markdown-it-footnote`][11]
+* [`markdown-it-anchor`][12], which provides `id`'s to all headings (for easy permalinking)
+* [`markdown-it-decorate`][13], which allows for easy `class` and `id` attribution without ugly-fying the Markdown source document
+* [`markdown-it-highlightjs`][14] for code highlighting
+* [`markdown-it-implicit-figures`][15], which takes Markdown-style images and wraps them in `<figure>` with `<figcaption>`'s in the resultant HTML
+
+TheOverAnalyzed is hosted on [Heroku][16], and the [SSL][17] and [DNS][18] are provided by [DNSimple][19]. Like all my websites, I use [Hover][20] for domain name registration. Most of the graphics are served via [Droplr][21] embeds.
+
+To my knowledge, this site should conform to [HTML5][22] web standards, and its CSS should validate as well. If you find that an area of the site does not perform as expected, please contact me. Just to be safe, try to use a [non-crappy][23] web browser---that helps tremendously.
+
+### Useful URLs
+
+#### [Now][24]
+
+What am I doing now? Check out the `/now` page
+
+#### [Tags][25]
+
+Tags help group similar posts together, and even if my readers could care less about them, I use them often enough when referencing prior posts.
+
+#### [Livestream][26]
+
+When the stars align, I provide "coverage" (snarky commentary) of live events such as [WWDC][27] on Twitter.
+
+#### [Newsletter][28]
+
+For the less nerdy reader, I *do* have an email newsletter.
+
+#### [Broken Links][29]
+
+Perhaps you've looked high and low in a search engine and still can't find a link you're looking for? If so, the post might be here.
+
+#### [Markdown Source][30]
+
+You can append `.md` to the end of any static page (such as a blog post) URL to see the actual Markdown source for that page
+
+[1]: https://geo.itunes.apple.com/us/app/byword/id420212497?mt=12&at=1l3vx9s "Byword on the Mac App Store"
+[2]: https://atom.io "Atom text editor"
+[3]: https://geo.itunes.apple.com/us/app/byword/id482063361?mt=8&at=1l3vx9s "Byword on the App Store"
+[4]: https://twitter.com/caseyliss "Casey Liss on Twitter"
+[5]: https://github.com/cliss/camel "Camel on GitHub"
+[6]: https://github.com/datamcfly/camel "Roger Stringer's fork of Camel"
+[7]: /tags "Lists all tags"
+[8]: /sitemap.xml "Sitemap for TheOverAnalyzed"
+[9]: https://www.npmjs.com/package/markdown-it "`markdown-it` on npmjs"
+[10]: https://www.npmjs.com/package/markdown-it-footnote-conventional "My version of `markdown-it-footnote` on npmjs"
+[11]: https://www.npmjs.com/package/markdown-it-footnote "`markdown-it-footnote` on npmjs"
+[12]: https://www.npmjs.com/package/markdown-it-anchor "'markdown-it-anchor' on npmjs"
+[13]: https://www.npmjs.com/package/markdown-it-decorate "`markdown-it-decorate' on npmjs"
+[14]: https://www.npmjs.com/package/markdown-it-highlightjs "`markdown-it-highlightjs` on npmjs"
+[15]: https://www.npmjs.com/package/markdown-it-implicit-figures "`markdown-it-implicit-figures` on npmjs"
+[16]: https://heroku.com"Heroku"
+[17]: https://en.wikipedia.org/wiki/Transport_Layer_Security "Wikipedia: SSL"
+[18]: https://en.wikipedia.org/wiki/Domain_Name_System "Wikipedia: DNS"
+[19]: https://dnsimple.com/r/a30fd6d51281e3 "DNSimple"
+[20]: https://hover.com/Pji0Qlok "Hover"
+[21]: https://auth.droplr.com/referral/user/0cd0ca10c401759b74716f20598e6816?callback=https://d.pr/auth/referral "Droplr"
+[22]: https://en.wikipedia.org/wiki/HTML5 "Wikipedia: HTML5"
+[23]: https://duckduckgo.com/?q=alternatives+to+internet+explorer&ia=software "Alternatives to Internet Explorer"
+[24]: /now "/now page"
+[25]: /tags "I love tags"
+[26]: /live "Live events like WWDC"
+[27]: https://developer.apple.com/wwdc/ "WWDC"
+[28]: /newsletter "TheOverAnalyzed has a newsletter!"
+[29]: /brokenlinks "Some links just won't redirect from their old Squarespace destinations. Go here to check those out."
+[30]: /nerd.md "You can do this with almost every page on the site"

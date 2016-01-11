@@ -18,7 +18,7 @@ It's the [iPad effect][1]. When iPad launched in 2010, everyone thought it would
 The same will be true for Apple Watch collection. Gruber [thought][2] the Edition might fall closer to the $10,000 - $20,000 range. 
 
 <figure>
-	<img src="http://d.pr/i/1epcH+" alt="Gruber was right about the price" title="Gruber was right about the price">
+	<img src="https://d.pr/i/1epcH+" alt="Gruber was right about the price" title="Gruber was right about the price">
 	<figcaption>Gruber was so right.</figcaption>
 </figure>
 

@@ -2,7 +2,7 @@ Title: The DIY Design/Development Problem
 Date: 2015-05-06 16:34  
 Description: I'm guilty of it: designing without being a designer. Is it all bad?  
 Tags: Best Of, Web Design  
-Image: http://d.pr/i/12C5s+  
+Image: https://d.pr/i/12C5s+  
 
 ![DIY Design/Development][1]
 
@@ -44,7 +44,7 @@ Still, I'm in agreement with Schiff. The thesis of his argument is that design s
 [c]: http://www.marco.org/headphones-closed-portable "Marco's big headphones review"
 [d]: https://twitter.com/marcoarment/status/574591922372808704 "Marco responding to my comment about his crazy headphone review page"
 
-[1]: http://d.pr/i/Kc3o+ "DIY Design/Development"
+[1]: https://d.pr/i/Kc3o+ "DIY Design/Development"
 [2]: http://nsconference.com/ "NSConference"
 [3]: https://vimeo.com/124349705 "NSConference: iOS App Marketing For Small Developers - Marco Arment"
 [4]: http://atp.fm "The Accidental Tech Podcast"

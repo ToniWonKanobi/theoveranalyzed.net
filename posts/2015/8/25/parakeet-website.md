@@ -3,9 +3,9 @@ Date: 2015-08-25 07:11
 Link: https://dribbble.com/shots/2201459-Parakeet-Website  
 Description: Background-changing navigation elements without JavaScript? Indeed.  
 Tags: Web Design  
-Image: http://d.pr/i/E3zx+  
+Image: https://d.pr/i/E3zx+  
 
-![Some pretty sweet CSS trickery from Patrick B. Gibson](http://d.pr/i/E3zx+ "Parakeet's neat-o navigation")
+![Some pretty sweet CSS trickery from Patrick B. Gibson](https://d.pr/i/E3zx+ "Parakeet's neat-o navigation")
 <!-- {.screenshot} -->
 
 The more I learn about web development, the more I come to realize that JavaScript and jQuery [are not always the way][1]. Long-thought the answer to difficult layout situations [brought on by mobile][2], the current trend is moving away from [both technologies as much as possible][3]. And soon enough, it will be [harder to implement said technologies as well][4].
@@ -19,7 +19,7 @@ How did he accomplish this without jQuery? Essentially, Gibson created a custom 
 And in my quest to understand how Gibson worked his magic, I stumbled upon this gem buried in the [`parakeet.css` stylesheet][6]:
 
 <figure>
-	<img src="http://d.pr/i/1eRAf+" alt="Parakeet's main stylesheet has funny injected" title="Parakeet's main stylesheet has funny injected">
+	<img src="https://d.pr/i/1eRAf+" alt="Parakeet's main stylesheet has funny injected" title="Parakeet's main stylesheet has funny injected">
 	<figcaption>Not only is Parakeet good at design&mdash;they're not afraid to insert some funny <a href="https://en.wikipedia.org/wiki/Easter_egg_(interaction_design)#Software" title="Wikipedia: Software Easter Eggs">Easter eggs</a> in their CSS</figcaption>
 </figure>
 

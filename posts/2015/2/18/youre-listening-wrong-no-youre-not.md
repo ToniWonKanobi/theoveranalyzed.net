@@ -2,7 +2,7 @@ Title: You're Listening Wrong (No You're Not)
 Date: 2015-02-18 12:00  
 Description: Apparently listening to podcasts at higher than 1x and or with silence-removing features is heresy.  
 Tags: Podcasts, Apps  
-Image: http://d.pr/i/1eQHn+ 
+Image: https://d.pr/i/1eQHn+ 
 
 ![Overcast turned up to 'Crazy'][1]
 
@@ -83,13 +83,13 @@ And finally:
 [c]: https://twitter.com/BraveWaveMusic "Folks behind the music in Myke Hurley's 'Behind the App' series"
 [d]: http://www.pcmag.com/article2/0,2817,2396424,00.asp "PC Magazine: iTunes Match Ends Piracy As We Know It"
 
-[1]: http://d.pr/i/1eQHn+ "Overcast turned up to 'Crazy'"
+[1]: https://d.pr/i/1eQHn+ "Overcast turned up to 'Crazy'"
 [2]: http://www.theverge.com/2015/2/17/8043077/stop-listening-to-podcasts-fast-speed "Piece that inspired this post"
 [3]: http://overcast.fm "Overcast webapp"
 [4]: http://www.marco.org/2014/07/16/overcast "Marco Arment's post introducing Overcast"
 [5]: http://www.thisamericanlife.org/podcast "'This American Life' podcast"
 [6]: http://serialpodcast.org/ "'Serial' podcast"
-[7]: http://d.pr/i/aV1m+ "Normal listening speed in Overcast"
+[7]: https://d.pr/i/aV1m+ "Normal listening speed in Overcast"
 [8]: http://www.rollingstone.com/culture/features/sarah-koenig-on-serial-20141024 "Rolling Stone interviews Sarah Koenig of Serial"
 [9]: http://www.thisamericanlife.org/about/serial "'Serial' podcast"
 [10]: http://www.relay.fm/inquisitive/27 "Inquisitive podcast, episode 27"
@@ -105,7 +105,7 @@ And finally:
 [20]: http://atp.fm "Accidental Tech Podcast"
 [21]: http://computer.howstuffworks.com/internet/basics/podcasting2.htm "Podcasting explained on 'How Stuff Works'"
 [22]: http://www.howstuffworks.com/ "How Stuff Works"
-[23]: http://d.pr/i/1bahR+ "Slowed-down speed for particular podcasts, like the 'Behind the App' series of Inquisitive"
+[23]: https://d.pr/i/1bahR+ "Slowed-down speed for particular podcasts, like the 'Behind the App' series of Inquisitive"
 [24]: http://www.512pixels.net/blog/2015/2/another-week-another-debate-about-podcasts "Stephen Hackett's response to The Verge article"
 [25]: http://www.marco.org/2015/02/17/listen-to-podcasts-at-whatever-speed-you-want "Marco Arment defending how people want to listen to podcasts"
 [26]: http://www.youtube.com/watch?v=YeiM3PpZ01Y "Cartman doing what he wants"

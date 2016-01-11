@@ -3,10 +3,10 @@ Date: 2015-10-23 12:08
 Link: https://cottonbureau.com/products/starfighter  
 Description: Another Star Wars-themed pick from Cotton Bureau.  
 Tags: Cotton Bureau, Star Wars  
-Image: http://d.pr/i/196H6+  
+Image: https://d.pr/i/196H6+  
 
 <figure>
-	<img src="http://d.pr/i/196H6+" alt="Starfighter" title="'Starfighter' on Cotton Bureau">
+	<img src="https://d.pr/i/196H6+" alt="Starfighter" title="'Starfighter' on Cotton Bureau">
 	<figcaption>From <a href="http://twitter.com/manandmouse" title="The designer's Twitter account">The Man and the Mouse</a>: "Enlist today, join the alliance! Design was inspired by vintage space shuttle patches and badges."</figcaption>
 </figure>
 

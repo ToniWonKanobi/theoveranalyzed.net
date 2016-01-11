@@ -2,7 +2,7 @@ Title: Leaving Squarespace Part I: Getting Started With Camel
 Date: 2015-06-17 17:02  
 Description: Getting Camel setup required some command-line hackery, as well as lots of help from Casey Liss and Roger Stringer.  
 Tags: Meta, Camel, Leaving Squarespace  
-Image: http://d.pr/i/1go0O+  
+Image: https://d.pr/i/1go0O+  
 
 <p><em class="topStory">This is Part I of my series entitled <a href="tags/Leaving%20Squarespace" title="Posts tagged 'Leaving Squarespace'">Leaving Squarespace</a>. After reading this piece, you can read the <a href="/2015/6/26/leaving-squarespace-part-ii-modifying-files-to-play-nice-with-camelnext" rel="next" title="Link to Part II of the 'Leaving Squarespace' series">next</a> post in the series. Note that much of this post (and future posts) was made possible due to <a href="https://twitter.com/freekrai" title="Roger Stringer on Twitter">Roger Stringer</a>. Check out his Camel installation guide found <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/" title="Roger Stringer's post on SitePoint about Camel">here</a>. Because I wasn't a master at the command line before Camel&mdash;I'm still not&mdash;and because you may not be a command line master yourself, I thought it would be useful to detail a step-by-step procedure on how I got Camel working on my local machine. Note that this post will not discuss the actual deployment of the site to Heroku. That comes later.</em></p>
 
@@ -206,5 +206,5 @@ If you didn't have too much trouble with this tutorial, I doubt you'll have any 
 [9]: http://git-scm.com "Website for Git"
 [10]: http://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac "Installing Git on your Mac"
 [11]: http://jtimberman.housepub.org/blog/2012/02/26/xcode-command-line-tools/ "Installing the command line tools for OS X"
-[12]: http://d.pr/i/1hkag+ "Camel's dependencies, shown in the `package.json`"
-[13]: http://d.pr/i/1lmVC+ "Sample site launched!"
+[12]: https://d.pr/i/1hkag+ "Camel's dependencies, shown in the `package.json`"
+[13]: https://d.pr/i/1lmVC+ "Sample site launched!"

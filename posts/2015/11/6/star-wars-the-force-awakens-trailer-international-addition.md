@@ -3,7 +3,7 @@ Date: 2015-11-06 07:30
 Link: https://youtu.be/t562L6n4Lu4  
 Description: Why is the Japanese version of the trailer better?  
 Tags: Star Wars  
-Image: http://d.pr/i/1fAqM+  
+Image: https://d.pr/i/1fAqM+  
 
 Because [everything][1] [Japanese][2] is [better][3].
 

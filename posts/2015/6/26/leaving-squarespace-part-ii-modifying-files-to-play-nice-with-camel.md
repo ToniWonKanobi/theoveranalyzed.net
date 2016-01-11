@@ -2,7 +2,7 @@ Title: Leaving Squarespace Part II: Modifying Files to Play Nice With Camel
 Date: 2015-06-26 11:00  
 Description: Almost all of my old posts were based on local Markdown files. I had to modify them slightly in order to work with Camel.  
 Tags: Meta, Camel, Leaving Squarespace  
-Image: http://d.pr/i/1em7V+  
+Image: https://d.pr/i/1em7V+  
 
 <p><em class="topStory">This is Part II of the series entitled <a href="tags/Leaving%20Squarespace" title="Posts tagged 'Leaving Squarespace'">Leaving Squarespace</a>, in which I outline how I left a traditional CMS and dived deep into <a href="http://twitter.com/caseyliss" title="Casey Liss on Twitter">Casey Liss</a>'s static blogging engine, <a href="https://github.com/cliss/camel" title="Camel on GitHub">Camel</a>. If you haven't already done so, you should read the <a href="/2015/6/17/leaving-squarespace-part-I-getting-started-with-camel" rel="previous" title="Link to Part I of the series 'Leaving Squarespace'">first</a> post in the series. And when you're done with this post, you can read the <a href="/2015/7/6/leaving-squarespace-part-iii-making-camel-my-own" rel="next" title="The final post in the series 'Leaving Squarespace'">next</a> one as well.</em></p>
 
@@ -17,8 +17,8 @@ A goal of mine from the beginning was to port over the ~250 posts I had accrued 
 Before transitioning to Camel, I adopted a hybrid metadata system inspired by both [Byword's][1] [MultiMarkdown guide][2], and, perhaps fortuitously, [Camel][3] itself. All of my posts since [TheOverAnalyzed 2.0][4] had `Title:`, `Date:`, and `Link:` metadata. Byword is smart enough to know that properly-formatted text placed at the top of the document denotes metadata. Byword would then omit that when parsed to HTML.
 
 <figure>
-	<img class="inlineTwo" src="http://d.pr/i/1lii9+" alt="MultiMarkdown metadata in Byword" title="MultiMarkdown metadata in Byword">
-	<img class="inlineTwo" src="http://d.pr/i/13n6Z+" alt="Metadata isn't parsed when exporting to `body`-style HTML" title="Metadata isn't parsed when exporting to `body`-style HTML">
+	<img class="inlineTwo" src="https://d.pr/i/1lii9+" alt="MultiMarkdown metadata in Byword" title="MultiMarkdown metadata in Byword">
+	<img class="inlineTwo" src="https://d.pr/i/13n6Z+" alt="Metadata isn't parsed when exporting to `body`-style HTML" title="Metadata isn't parsed when exporting to `body`-style HTML">
 	<figcaption>Byword's MultiMarkdown-style metadata and HTML parse</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Byword's metadata support is everything I would want in a plain text filing syst
 Unlike Squarespace, in Camel, having metadata within the actual Markdown files is absolutely *necessary*. Casey designed his blogging engine such such that `camel.js` generates all the posts and the rest of the website using these template files. These template files specify page attributes such as page headers, page footers, etc. The template files are based on Handlebars `{{strings}}`. Camel uses metadata strings to piece together the parts of the posts, such as the post header, the post footer, etc. And because of the way the Handlebars script works in conjunction with Camel, metadata *must* be called out in a particular way. In the default configuration of Camel, that's via a `@@` prefix.
 
 <figure>
-	<img src="http://d.pr/i/1gomf+" alt="Camel and metadata" title="Camel and metadata">	<figcaption>Camel looks at the top of documents for <code>@@</code> prefixes, which denote metadata.</figcaption>
+	<img src="https://d.pr/i/1gomf+" alt="Camel and metadata" title="Camel and metadata">	<figcaption>Camel looks at the top of documents for <code>@@</code> prefixes, which denote metadata.</figcaption>
 </figure>
 
 ### Images
@@ -129,15 +129,15 @@ Because I was using the parsed HTML as the content for my posts in Squarespace, 
 Out of the box, Camel includes the `markdown-it` plugin [`markdown-it-footnote`][18], which allows for MultiMarkdown 3-style inline and multi-paragraph footnotes. 
 
 <figure>
-	<img class="inlineTwo" src="http://d.pr/i/1aazM+" alt="Un-parsed text in Byword" title="Un-parsed text in Byword">
-	<img class="inlineTwo" src="http://d.pr/i/12gMj+" alt="Parsed text in Byword" title="Parsed text in Byword">
+	<img class="inlineTwo" src="https://d.pr/i/1aazM+" alt="Un-parsed text in Byword" title="Un-parsed text in Byword">
+	<img class="inlineTwo" src="https://d.pr/i/12gMj+" alt="Parsed text in Byword" title="Parsed text in Byword">
 	<figcaption>Byword's footnote parsing</figcaption>
 </figure>
 
 Neither inline footnotes nor multi-paragraph footnotes are supported by Byword. But as long as I format the footnotes syntax correctly, everything will display properly in the parsed HTML.
 
 <figure>
-	<img src="http://d.pr/i/12mep+" alt="Footnotes" title="Footnotes">
+	<img src="https://d.pr/i/12mep+" alt="Footnotes" title="Footnotes">
 	<figcaption>While Byword may not be able to understand inline and/or multi-paragraph footnotes, Camel can thanks to <code>markdown-it-footnote</code></figcaption>
 </figure>
 
@@ -159,7 +159,7 @@ Casey kindly added [MultiMarkdown-style metadata to Camel][19]!
 [^3]: When writing a new post, I open `template.md` and start typing. Note that I have [locked][b] the `template.md` file. So when I attempt to modify `template.md`, Byword automatically prompts me to [Duplicate][c] it. This prevents accidentally over-writing the template text with actual links and so on.
 [^4]: I know there's [Text Expander][d], and I don't doubt that an app like [BBEdit][e] or [Visual Studio Code][f] probably has some sort of 'snippets' feature. I might check those out someday. But for now, Byword works for me.
 
-[a]: http://d.pr/i/1gz4O+ "Metadata marker in Camel"
+[a]: https://d.pr/i/1gz4O+ "Metadata marker in Camel"
 [b]: http://osxdaily.com/2010/08/11/lock-files-and-folders-in-mac-os-x/ "How to Lock Files and Folders in Mac OS X"
 [c]: https://support.apple.com/en-us/HT202255 "OS X Lion: About Auto Save and Versions"
 [d]: https://smilesoftware.com/textexpander "TextExpander"
@@ -176,12 +176,12 @@ Casey kindly added [MultiMarkdown-style metadata to Camel][19]!
 [8]: http://www.engadget.com/2013/06/04/byword-2-0-for-mac-adds-publishing-more/ "Engadget's post on Byword 2 for the Mac"
 [9]: http://npmjs.com "npmjs"
 [10]: https://www.npmjs.com/package/markdown-it "npmjs page for `markdown-it`"
-[11]: http://d.pr/i/Q2Wv+ "Dock.app on the left side of the screen"
+[11]: https://d.pr/i/Q2Wv+ "Dock.app on the left side of the screen"
 [12]: https://en.wikipedia.org/wiki/Modus_operandi "Wikipedia: Modus operandi"
 [13]: http://www.caseyliss.com/2015/3/13/are-you-getting-it.md "Source file for Casey's post 'Are You Getting It'"
 [14]: http://www.caseyliss.com/2015/3/13/are-you-getting-it "Casey's post, 'Are You Getting It'"
 [15]: http://hypercritical.co/ "John Siracusa's blog, Hypercritical.co"
-[16]: http://d.pr/i/1bOn2+ "template.md on the Dock"
-[17]: http://d.pr/i/1hwpq+ "Contents for my starting-point for most posts, template.md"
+[16]: https://d.pr/i/1bOn2+ "template.md on the Dock"
+[17]: https://d.pr/i/1hwpq+ "Contents for my starting-point for most posts, template.md"
 [18]: https://www.npmjs.com/package/markdown-it-footnote "mpnjs page for `markdown-it-footnote`"
 [19]: https://github.com/cliss/camel/commit/b523b5c8a034fec4402584efe6a18fa62cc21691 "Commit adding MultiMarkdown-style metadata"

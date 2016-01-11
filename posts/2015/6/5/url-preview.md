@@ -3,7 +3,7 @@ Date: 2015-06-05 22:21
 Link: http://brettterpstra.com/projects/url-preview/  
 Description: How about a Markdown service that helps preview and validate links in-place?  
 Tags: Power User, Apps, Blogging  
-Image: http://d.pr/i/1glDj+  
+Image: https://d.pr/i/1glDj+  
 
 Brett Terpstra just released a nifty utility called [URL Preview][1], which works in conjunction with his other Markdown services.
 
@@ -12,7 +12,7 @@ Since moving to [Camel][2], I have been using [Byword][3] for all my writing on 
 I recently started using another utility from Brett called [SearchLink][8]. Using that in conjunction with URL Preview makes writing significantly easier and less stressful, because it allows me to *just* write in Markdown, and worry about all the hyperlinks once I'm finished writing. 
 
 <figure>
-	<img src="http://d.pr/i/1glDj+" alt="SearchLink and URL Preview" title="SearchLink and URL Preview">
+	<img src="https://d.pr/i/1glDj+" alt="SearchLink and URL Preview" title="SearchLink and URL Preview">
 	<figcaption>SearchLink and URL Preview were made for each other.</figcaption>
 </figure>
 

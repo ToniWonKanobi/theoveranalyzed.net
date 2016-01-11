@@ -2,7 +2,7 @@ Title: Reading Books, Becoming Steve Jobs, and Pixar
 Date: 2015-04-09 10:00  
 Description: I got through about a third of the Steve Jobs book. This is about that, as well as Steve Jobs in general.  
 Tags: Steve Jobs  
-Image: http://d.pr/i/561i+  
+Image: https://d.pr/i/561i+  
 
 [Devour][1] recently featured a [supercut][2] of [Pixar][3] films called "[The Best of Pixar][4]." Watching this reminded me of a passage in a book I have been reading recently. But before I talk about that, I should give some backstory.
 
@@ -26,7 +26,7 @@ When I need to pass the time, my go-to apps are what they have been for years: I
 
 Historically, when I've gone through my whole [Instapaper][9] queue, I might launch an indie game and truly veg-out. Or if I have an article saved to Instapaper that I want to write about, I might do that instead.
 
-![Games are a wonderful time waster.](http://d.pr/i/1hDH9+ "Games on my iPhone")
+![Games are a wonderful time waster.](https://d.pr/i/1hDH9+ "Games on my iPhone")
 <!-- {.screenshot .iphone} -->
 
 ### Becoming Steve Jobs

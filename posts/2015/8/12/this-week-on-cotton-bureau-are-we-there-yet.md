@@ -6,6 +6,6 @@ Tags: Cotton Bureau, Star Wars
 Image: https://cottonbureau.com/img/products/6245_ZiDJ_2400.jpg  
 
 <figure>
-	<img src="http://d.pr/i/mXBf+" alt="Are We There Yet?" title="'Are We There Yet?' on Cotton Bureau">
+	<img src="https://d.pr/i/mXBf+" alt="Are We There Yet?" title="'Are We There Yet?' on Cotton Bureau">
 	<figcaption><a href="http://twitter.com/ethnfndr" title="Designer on Twitter">Ethan Fender</a>: "Waiting for episode 7 is like riding in one of these. Enjoy!"</figcaption>
 </figure>

@@ -2,7 +2,7 @@ Title: Apple TV 4: Iteration, Not Revolution
 Date: 2015-11-03 14:47  
 Description: I received my Apple TV 4 today.  
 Tags: Best Of, Reviews, Apple TV  
-Image: http://d.pr/i/19jXS+  
+Image: https://d.pr/i/19jXS+  
 
 ### Previously, on Apple TV
 
@@ -62,7 +62,7 @@ And if you've been following Apple for any reasonable amount of time, this is no
 
 Iteration, not revolution.
 
-![Side by side: the old remote vs Siri Remote](http://d.pr/i/19jXS+ "Apple TV remotes")
+![Side by side: the old remote vs Siri Remote](https://d.pr/i/19jXS+ "Apple TV remotes")
 
 ### The Hardware
 
@@ -72,7 +72,7 @@ The new box looks almost exactly like the old one, except it's about twice as ta
 
 The biggest visual change for Apple TV hardware is the new Siri Remote. It's basically the same size as the last one, except it's 30% deeper compared to the previous two generations' remotes. I was concerned that the trackpad would feel awkward. I was also concerned that the button layout was unintuitive.
 
-![Siri Remote (Left) vs. 2nd and 3rd Generation Apple TV remote (Right)](http://d.pr/i/1eUes+ "Apple TV remotes, again")
+![Siri Remote (Left) vs. 2nd and 3rd Generation Apple TV remote (Right)](https://d.pr/i/1eUes+ "Apple TV remotes, again")
 
 Firstly, the trackpad felt great. No one can deny that Apple does the best trackpads. The glass that adorns the Siri Remote is just as easy and fun to interact with as the rest of Apple's trackpads. And while I can't speak authoritatively on the intuitiveness of the button layout (I've only spent about an hour with the device), so far, it seems fine.Likely the best feature of the new Siri Remote is television integration. [John Siracusa had me worried][15] that my TV wouldn't automatically respond to Siri Remote's commands. But, lo and behold: It Just Works&trade;. The volume up down, as well as the TV "on/off" button---both features worked right out of the box. No doubt the engineers on the Apple TV 4 project spent *countless* hours testing and debugging this feature.[^4]
 
@@ -153,7 +153,7 @@ Yes, yes they are.
 
 Here's a video I captured showing one of the many [600 MB] screensavers new for tvOS:
 
-<video src="http://d.pr/v/MTTo+" title="Apple TV 4 / tvOS screensaver in action" controls></video>
+<video src="https://d.pr/v/MTTo+" title="Apple TV 4 / tvOS screensaver in action" controls></video>
 
 Like many annoying hippie environmentalists, I had previously set my Apple TV to sleep after 30 minutes---what I believe was the shortest time interval I could have chosen.
 
@@ -193,7 +193,7 @@ The most recent of which is [Alto's Adventure][28]. Part endless runner, and par
 
 I bought the app and played for about ten minutes this evening.
 
-![Alto's Adventure is just as fun on tvOS as it is on iOS](http://d.pr/i/1gr1K+ "Alto's Adventure on tvOS")
+![Alto's Adventure is just as fun on tvOS as it is on iOS](https://d.pr/i/1gr1K+ "Alto's Adventure on tvOS")
 	
 Unlike the iOS version of the app, the tvOS version only has *one* primary input method: the "Touch surface."
 
@@ -209,7 +209,7 @@ Here's Ben Thompson of Stratechery, adding some perspective on [Apple TV gaming 
 >
 > That said, the ultimate battle is not for AAA-games but for attention, and the reality is that every single minute spent on a casual game on Apple TV (or an iPhone, for that matter) is a minute that is unavailable to consoles. Moreover, the existence of any games at all makes the selling proposition of consoles that much harder: they not only need to appeal to people who like to play games, they need to be demonstrably better than what people already have, or in the case of Apple TV, what they can buy for $150. Small wonder console publishers are looking elsewhere for growth.
 
-![I'll be using this a lot more than the old one.](http://d.pr/i/1cHdB+ "Siri Remote")
+![I'll be using this a lot more than the old one.](https://d.pr/i/1cHdB+ "Siri Remote")
 
 ### Final Thoughts
 

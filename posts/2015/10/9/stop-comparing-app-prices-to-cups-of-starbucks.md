@@ -3,10 +3,10 @@ Date: 2015-10-09 14:11
 Link: https://brooksreview.net/2015/10/im-really-not-serious/  
 Description: How many times has your non-nerdy family member, friend, or neighborhood jester said something about app prices and coffee?  
 Tags: Culture  
-Image: http://d.pr/i/17f3Q+  
+Image: https://d.pr/i/17f3Q+  
 
 <figure>
-	<img src="http://d.pr/i/17f3Q+" alt="'Regular' coffee'" title="'Regular' coffee'">
+	<img src="https://d.pr/i/17f3Q+" alt="'Regular' coffee'" title="'Regular' coffee'">
 	<figcaption>Who am I kidding? <em>That's</em> not what coffee looks like, right? It looks like <a href="#now-this-is-coffee" title="Hyperlink to a funny image in this post">this.</a></figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ It would be funnier if Brooks' sarcasm was a unrealistic take on the actuality. 
 Since we're talking coffee, I thought I'd include one of Starbucks' most gourmet creation, the [Chocolate Cookie Crumble Crème Frappuccino®][6], inspired by the authentic Italian coffee beverage of the same name (not really):
 
 <figure>
-	<img id="now-this-is-coffee" src="http://d.pr/i/1juzG+" alt="Gluttonous American people coffee" title="Gluttonous American people coffee">
+	<img id="now-this-is-coffee" src="https://d.pr/i/1juzG+" alt="Gluttonous American people coffee" title="Gluttonous American people coffee">
 	<figcaption>Ahh. That's more like it, no?</figcaption>
 </figure>
 

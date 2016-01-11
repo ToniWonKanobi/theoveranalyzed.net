@@ -3,7 +3,7 @@ Date: 2015-04-08 08:00
 Link: http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense  
 Description: Eli Schiff isn't exactly making friends with Marco Arment.  
 Tags: Design, Apple  
-Image: http://d.pr/i/1jQtU+  
+Image: https://d.pr/i/1jQtU+  
 
 I wasn't even aware of Eli Schiff before reading a reaction to one of his posts by a [prominent Apple blogger][1]. 
 
@@ -23,7 +23,7 @@ I'm no designer. And, admittedly, on [June 10, 2013][4], no one was happier than
 
 But you don't have to be a design genius to agree with Schiff. To the completely design-uninitiated folks like yours truly iOS 7/8 looks and feels confusing, unless you know what you're doing. For the designers amongst us, iOS 7/8 really does appear like a UI paradox.
 
-![Schiff: "Above are icons from iOS prior to their modern minimalist flattening. Below are their iOS 7 counterparts. The icons above reflect well whether they belong to Apple or Facebook. The icons below do no such thing."](http://d.pr/i/1jQtU+ "Eli Schiff on crappy iOS icons")
+![Schiff: "Above are icons from iOS prior to their modern minimalist flattening. Below are their iOS 7 counterparts. The icons above reflect well whether they belong to Apple or Facebook. The icons below do no such thing."](https://d.pr/i/1jQtU+ "Eli Schiff on crappy iOS icons")
 <!-- {.screenshot} -->
 
 Taking things away just for the sake of minimalism doesn't serve anyone, except maybe [white room Jony][5]. Do away with the goofy skeuomorphs, fine. But replacing them with generic UI 'design' doesn't help anyone. Is this really the design impression Jony Ive wants to leave behind?

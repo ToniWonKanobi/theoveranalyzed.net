@@ -18,7 +18,7 @@ It's the second question I have more trouble with.
 
 #### Watch or Watch Sport?
 
-![For the longest time, it was going to be this.](http://d.pr/i/1jzlL+ "Apple Watch Space Black")
+![For the longest time, it was going to be this.](https://d.pr/i/1jzlL+ "Apple Watch Space Black")
 <!-- {.screenshot} -->
 
 #### Apple Watch
@@ -29,7 +29,7 @@ The black models of anything have always been the best choice.[^3] And it's not 
 
 As an aside, I don't remember Apple Watch in Space Black Stainless being so dang dark last September. I actually like it even more now that it's darker.[^5] Interestingly, Apple has set the Space Black version of Apple Watch  collection apart from the rest of the Apple Watch collection. In order to obtain that luscious fingerprint magnet of a case, you *have* to buy the link bracelet. And, not so interestingly, the link bracelet carries a rather hefty price bump from the fluoroelastomer of $600. Is it worth it?
 
-![This looks really nice too, though.](http://d.pr/i/161KY+ "Apple Watch Sport")
+![This looks really nice too, though.](https://d.pr/i/161KY+ "Apple Watch Sport")
 <!-- {.screenshot) -->
 
 #### Apple Watch Sport
@@ -44,7 +44,7 @@ Another benefit to choosing Apple Watch Sport is that the fluoroelastomer band[^
 
 I'll leave you with this, a conversation with a friend who knows me all too well. We were talking about which case size to get, but really, I could apply his advise to almost every Apple hardware decision I have ever made:
 
-![Touche.](http://d.pr/i/13VbL+ "Conversation with John")
+![Touche.](https://d.pr/i/13VbL+ "Conversation with John")
 <!-- {.screenshot .iphone} -->
 
 <aside class="update">
@@ -56,7 +56,7 @@ Casey Liss [linked][8] to this [post][9] by fitness company Exact Fitness, in wh
 
 I used something similar last September when there were [suddenly][10] *two* iPhone sizes to choose from.
 
-![Mockups](http://d.pr/i/10oi3+ "Mockups")
+![Mockups](https://d.pr/i/10oi3+ "Mockups")
 <!-- {.screenshot style="width: 80%;"} -->
 
 </aside>
@@ -95,7 +95,7 @@ I found this little nugget of knowledge regarding the Apple Watch link bracelet:
 [4]: http://nl.urbandictionary.com/define.php?term=BA&amp;defid=1081389 "Urban Dictionary: BA'"
 [5]: http://car.astroawani.com/detail/news-grey-new-black-47911 "'Grey is the new black'"
 [6]: http://www.relay.fm/upgrade/26 "Upgrade, episode 26"
-[7]: http://d.pr/i/12Qgx+ "Apple's guide to 38mm vs 42mm Watch link bracelet sizes"
+[7]: https://d.pr/i/12Qgx+ "Apple's guide to 38mm vs 42mm Watch link bracelet sizes"
 [8]: http://www.caseyliss.com/2015/3/11/apple-watch-paper-try-on "Casey's mockups of Apple Watch"
 [9]: http://exactfitnessapps.com/try-it-on-apple-watch-sizing-guide.html "Source of mockups Casey linked to on his site"
 [10]: http://thenextweb.com/apple/2014/09/09/apple-unveils-iphone-6/ "TNW reporting on Apple unveiling the iPhones 6"

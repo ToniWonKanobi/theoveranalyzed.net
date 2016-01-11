@@ -2,7 +2,7 @@ Title: Tapbots
 Date: 2015-02-27 13:40  
 Description: Twitter is main line of communication with the outside world. It wasn't always that way. Tweetbot was a big part of that.  
 Tags: Apps, Tapbots  
-Image: http://d.pr/i/1iag1+  
+Image: https://d.pr/i/1iag1+  
 
 ![Tapbots's New Website][1]
 
@@ -16,7 +16,7 @@ Back in 2012, [Twitter had only recently started to crack down on third-party cl
 
 Ecstatic with the concept of apps (this was my first iPhone), I downloaded both and tried both. Unlike a lot of iPhone owners on Twitter, I was never forced to use the official Twitter client, on iOS *or* Mac OS X.[^3]
 
-![I even used both Twitterrific and Tweetbot at the same time](http://d.pr/i/gML7+ "I even used both Twitterrific and Tweetbot at the same time")
+![I even used both Twitterrific and Tweetbot at the same time](https://d.pr/i/gML7+ "I even used both Twitterrific and Tweetbot at the same time")
 <!-- {.screenshot .iphone} -->
 	
 I even used both Twitterrific and Tweetbot at the same time. [Tweet Marker](http://tweetmarker.net" title="Tweet Marker") made Timeline syncing easy, and I wasn't too bothered with the lack of DM / @mention syncing between clients, since I wasn't getting many of those at the time anyways.
@@ -44,7 +44,7 @@ You can check out their new site, as well as all of their wonderful apps [here][
 [b]: https://web.archive.org/web/20121207191103/http://tapbots.com/software/tweetbot/mac/ "Tweetbot for Mac webpage from back in the day"
 [c]: http://tapbots.com/calcbot/ "Calcbot for iOS"
 
-[1]: http://d.pr/i/1iag1+ "Tapbots's New Website"
+[1]: https://d.pr/i/1iag1+ "Tapbots's New Website"
 [2]: https://twitter.com/ToniWonKanobi/statuses/242981123301453827 "Pleading with my friends to remove their Facebook email addresses"
 [3]: https://alpha.app.net/toniwonkanobi/post/1130894 "App.net's 'alpha' was so lonely"
 [4]: http://arstechnica.com/information-technology/2011/03/twitter-tells-third-party-devs-to-stop-making-twitter-client-apps/ "Ars Technica reporting on Twitter's first skirmish with third-party developers"

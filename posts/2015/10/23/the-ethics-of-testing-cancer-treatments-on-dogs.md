@@ -2,11 +2,11 @@ Title: The Ethics of Testing Cancer Treatments on Dogs
 Date: 2015-10-23 07:00  
 Description: What if scientists could 3D-print DNA that helps fight cancer?  
 Tags: Best Of, Advocacy, Medicine  
-Image: http://d.pr/i/12WGA+  
+Image: https://d.pr/i/12WGA+  
 Video: https://www.youtube.com/watch?v=frL5PSUftPI  
 
 <figure>
-	<img src="http://d.pr/i/12WGA+" alt="The Ethics of Testing Cancer Treatments on Dogs" title="The Ethics of Testing Cancer Treatments on Dogs">
+	<img src="https://d.pr/i/12WGA+" alt="The Ethics of Testing Cancer Treatments on Dogs" title="The Ethics of Testing Cancer Treatments on Dogs">
 	<figcaption>"Dogs get cancer at the same rate as people," says Dr. Bruce Smith</figcaption>
 </figure>
 

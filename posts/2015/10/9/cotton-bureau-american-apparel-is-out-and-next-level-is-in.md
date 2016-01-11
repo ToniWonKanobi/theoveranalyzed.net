@@ -2,9 +2,9 @@ Title: Cotton Bureau: American Apparel Is Out and Next Level Is In
 Date: 2015-10-09 12:17  
 Description: This week is the first week to feature Cotton Bureau t-shirts from Next Level instead of American Apparel.  
 Tags: Cotton Bureau, Industry  
-Image: http://d.pr/1ebyI+  
+Image: https://d.pr/1ebyI+  
 
-![Bye bye, American Apparel. Hello Next Level.](http://d.pr/1ebyI+ "Next Level T-shirts")
+![Bye bye, American Apparel. Hello Next Level.](https://d.pr/1ebyI+ "Next Level T-shirts")
 
 In case you don't follow Cotton Bureau [as closely as I do][1], it might surprise you to learn they [decided to stop printing on American Apparel][2] shirts, and have switched to a company named [Next Level][3].
 
