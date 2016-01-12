@@ -10,30 +10,27 @@ It wasn't long after I got my iPhone 5 that I started feeling like Facebook wasn
 
 Like everyone else, I [checked out Twitter,][2][^1] and also [App.net][3]. 
 
-Three years later, and only one of those two services is still alive.[^2] It's crazy how much things can change in a few years.
-
-Back in 2012, [Twitter had only recently started to crack down on third-party clients][4] using their APIs. And there were plenty of [third-party clients][5] on the App Store. The best examples of which were [Tweetbot][6] and [Twitterrific][7].
+Three years later, and only one of those two services is still alive.[^2] It's crazy how much things can change in a few years.Back in 2012, [Twitter had only recently started to crack down on third-party clients][4] using their APIs. And there were plenty of [third-party clients][5] on the App Store. The best examples of which were [Tweetbot][6] and [Twitterrific][7].
 
 Ecstatic with the concept of apps (this was my first iPhone), I downloaded both and tried both. Unlike a lot of iPhone owners on Twitter, I was never forced to use the official Twitter client, on iOS *or* Mac OS X.[^3]
 
-![I even used both Twitterrific and Tweetbot at the same time](https://d.pr/i/gML7+ "I even used both Twitterrific and Tweetbot at the same time")
-<!-- {.screenshot .iphone} -->
+![I even used both Twitterrific and Tweetbot at the same time][8]
 	
-I even used both Twitterrific and Tweetbot at the same time. [Tweet Marker](http://tweetmarker.net" title="Tweet Marker") made Timeline syncing easy, and I wasn't too bothered with the lack of DM / @mention syncing between clients, since I wasn't getting many of those at the time anyways.
+I even used both Twitterrific and Tweetbot at the same time. [Tweet Marker][9] made Timeline syncing easy, and I wasn't too bothered with the lack of DM / @mention syncing between clients, since I wasn't getting many of those at the time anyways.
 
 While Tweetbot 2's visual esthetic was, in 2012, much heavier and less 'flat'[^4] than Twitterrific's at the time, I loved the look. Combined with my preference for the Tweetbot esthetic, the power user features also made Tweetbot more compelling for me than Twitterrific.
 
 ***
 
-Yesterday, Tapbots launched their newly-redesigned website. They had [this][8] to say about the change:
+Yesterday, Tapbots launched their newly-redesigned website. They had [this][10] to say about the change:
 
 > Welcome to the new tapbots.com! We hope this long overdue refresh is a better place to stay up to date with our apps. Our goal this year is to not only ship updates on a more regular basis, but also provide more insight into what we are currently working on. So lets get on to the important bits of information.
 
-[Mark Jardine][9], designer for Tapbots since its inception, did a great job with the site's new look.
+[Mark Jardine][11], designer for Tapbots since its inception, did a great job with the site's new look.
 
-You can check out their new site, as well as all of their wonderful apps [here][10].
+You can check out their new site, as well as all of their wonderful apps [here][12].
 
-(From [MacStories][11])
+(From [MacStories][13])
 
 [^1]: Here's my [first tweet ever][a], auto-posted from---get this---iTunes. 
 [^2]: Notice how I didn't say "thrive"? It will be interesting to see how things look for Twitter three years from *today*. 
@@ -51,7 +48,9 @@ You can check out their new site, as well as all of their wonderful apps [here][
 [5]: https://quixey.studio.quixey.com/search?q=store%20twitter%20client "Twitter clients for iOS"
 [6]: https://web.archive.org/web/20120906232823/http://tapbots.com/software/tweetbot/ "Tweetbot for iOS webpage from back in the day"
 [7]: https://web.archive.org/web/20121101170526/http://twitterrific.com/iphone/ "Twitterrific webpage from back in the day"
-[8]: http://tapbots.com/news/15-2-26-new-website-new-focus/ "Tapbots press release for their new website"
-[9]: http://www.twitter.com/markjardine "Mark Jardine on Twitter"
-[10]: http://www.tapbots.com "Tapbots, creators of Tweetbot and Calcbot"
-[11]: http://www.macstories.net/linked/tapbots-relaunches-website-working-on-tweetbot-4-0-for-ios/ "Federico Viticci on Tapbots's new website"
+[8]: https://d.pr/i/gML7+ "I even used both Twitterrific and Tweetbot at the same time"
+[9]: http://tweetmarker.net "Tweet Marker"
+[10]: http://tapbots.com/news/15-2-26-new-website-new-focus/ "Tapbots press release for their new website"
+[11]: http://www.twitter.com/markjardine "Mark Jardine on Twitter"
+[12]: http://www.tapbots.com "Tapbots, creators of Tweetbot and Calcbot"
+[13]: http://www.macstories.net/linked/tapbots-relaunches-website-working-on-tweetbot-4-0-for-ios/ "Federico Viticci on Tapbots's new website"

@@ -8,16 +8,13 @@ I did everything I was supposed to do.
 
 On the night of April 9th, I stayed up late like a big boy and placed my order for the Space Black Apple Watch. Despite the higher price tag, I was convinced this was the watch for me. It had that Darth Vader look, and as I mentioned [previously][1], black is usually the better choice. I ordered the watch from the [Apple Store app][2] on my iPhone, which has [traditionally][3] been the most surefire way to ensure that I always had Apple's latest and greatest piece of glass on launch day. 
 
-![Still.](https://d.pr/i/1bp1g+ "Sigh")
-<!-- {.screenshot} -->
+![Still.][4]
 
 And yet, close to two months later, I still don't have that Watch. I do, however, have a different one. Like all good gear acquisitions that have taken place over the past 11 years, it happened on eBay.
 
-Early Saturday morning I was [browsing eBay][4] for sorta-cheapish Watch deals. The scalpers were (are) out in force, and most of the Space Gray models carried price tags with a near 50% markup (some even rising to the lofty price of $800). As a devout Apple user, even *I* knew that was too much. For kicks, I decided to sort the listings by distance.  Aha! One [listing][5] looked promising: less than 5 minutes away from where I lived. 
+Early Saturday morning I was [browsing eBay][5] for sorta-cheapish Watch deals. The scalpers were (are) out in force, and most of the Space Gray models carried price tags with a near 50% markup (some even rising to the lofty price of $800). As a devout Apple user, even *I* knew that was too much. For kicks, I decided to sort the listings by distance.  Aha! One [listing][6] looked promising: less than 5 minutes away from where I lived. 
 
-I made an offer, and going against every eBay policy ever, decided on a shady bank parking lot deal that afternoon.[^1] When we met face to face, the seller was courteous enough to suggest I open the box and verify its authenticity. He hadn't even opened the shipping box from Apple. It was indeed legitimate. I spent about fifteen minutes in the parking lot inspecting my prize. Success.
-
-I have had the watch for about a day and half. While that's not a whole lot of time to fully experience everything it has to offer, it is a sufficient amount of time for first impressions.
+I made an offer, and going against every eBay policy ever, decided on a shady bank parking lot deal that afternoon.[^1] When we met face to face, the seller was courteous enough to suggest I open the box and verify its authenticity. He hadn't even opened the shipping box from Apple. It was indeed legitimate. I spent about fifteen minutes in the parking lot inspecting my prize. Success.I have had the watch for about a day and half. While that's not a whole lot of time to fully experience everything it has to offer, it is a sufficient amount of time for first impressions.
 
 ### Packaging
 
@@ -25,9 +22,9 @@ This box was heavy. For all the poo-pooing I saw on Twitter regarding the dispar
 
 ### Hardware
 
-I [spent some time][6] with the Watches in April, but no amount of Apple Retail Store employee fumbling with my wrist is a replacement for actually wearing it for a while. The Space Gray Watch is very, very sleek. At my try-on session, I think I was so enamored by the Watch collection to give due attention to its 'lesser' siblings.[^2]
+I [spent some time][7] with the Watches in April, but no amount of Apple Retail Store employee fumbling with my wrist is a replacement for actually wearing it for a while. The Space Gray Watch is very, very sleek. At my try-on session, I think I was so enamored by the Watch collection to give due attention to its 'lesser' siblings.[^2]
 
-![When Space Gray ≠ Space Gray](https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg "Space Gray")
+![When Space Gray ≠ Space Gray][8]
 
 The strangest bit at play here is Apple's seemingly inconsistent use of the "Space Gray" moniker. Looking at Rene Ritchie's Instagram photo above, it should be apparent that the Space Gray on the Apple Watch is *much* grayer than Apple's other available Space Gray offerings (here, the iPhone 6 Plus, the iPad Air 2, and the new MacBook). Don't get me wrong---I have no complaints about the Watch's darker hue. In fact, I wish all of Apple's Space Gray aluminum looked this shade.
 
@@ -53,7 +50,7 @@ My biggest complaint with Watch OS deals specifically with Messages on the Watch
 
 My current watch face of choice is Modular. I tried the analog Utility mode, but I find the digital readout works better for me. I might switch it up at some point, but right now I am pretty happy with Modular's balance of complications and ease of time-telling (it *is* still a watch, after all).
 
-![Utility (Left) and Modular (Right)](https://d.pr/i/1aOLh+ "Faces")
+![Utility (Left) and Modular (Right)][9]
 
 #### Fitness
 
@@ -61,7 +58,7 @@ This is my favorite feature of the Watch. I went to the gym earlier today, and t
 
 ##### Activity
 
-Activity is [gamification][7] at its best. The tasks for the day are simple: burn the amount of calories defined in the personal activity goal, accumulate at least 30 minutes of physical activity at or above a brisk walk, and stand at least one minute during an hour for at least 12 hours out of the day. Yes, I wish the activity and stand metrics were user-adjustable. I would choose an activity amount higher than 30 minutes, and I would choose to stand more than 1 minute for every hour (at least 10 minutes). Yes, it is possible for me to do those things without Apple Watch nagging me. Still, if the purpose of the Activity app is to motivate us to exercise, why not give us the ability to set more difficult-to-hit goals? Maybe this is planned for the version 2.0?
+Activity is [gamification][10] at its best. The tasks for the day are simple: burn the amount of calories defined in the personal activity goal, accumulate at least 30 minutes of physical activity at or above a brisk walk, and stand at least one minute during an hour for at least 12 hours out of the day. Yes, I wish the activity and stand metrics were user-adjustable. I would choose an activity amount higher than 30 minutes, and I would choose to stand more than 1 minute for every hour (at least 10 minutes). Yes, it is possible for me to do those things without Apple Watch nagging me. Still, if the purpose of the Activity app is to motivate us to exercise, why not give us the ability to set more difficult-to-hit goals? Maybe this is planned for the version 2.0?
 
 ##### Workout
 
@@ -83,14 +80,14 @@ I didn't even bother including the battery complication on my watch face. I used
 
 I think Apple way-overshot their battery conservation measures. It feels like the display turns off the instant I look away. I wish it was just a little bit longer before auto-off. I can't blame Apple, though. Imagine all the complaints they would have gotten if the Watch died in the middle of the day like everyone feared after last year's introduction. 
 
-![Ignoring the prompts to enable Power Reserve](https://d.pr/i/diJa+ "Remaining battery")
-<!-- {.screenshot .applewatch} -->
+![Ignoring the prompts to enable Power Reserve][11]
+<!-- {.small} -->
 
 ### Overall
 
-This was a great purchase. If for no other reason, I am engaged in working out ([again][8]). And beyond that, notifications and iPhone media controls on my wrist are an added benefit. Is it perfect? No, not by a long shot. 
+This was a great purchase. If for no other reason, I am engaged in working out ([again][12]). And beyond that, notifications and iPhone media controls on my wrist are an added benefit. Is it perfect? No, not by a long shot. 
 
-I didn't have the [first iPhone][9]. But if any of the stories I've heard about its launch are true, the original iPhone was *way* behind Apple Watch as a version 1.0 product. I liken Apple Watch's lack of GPS and third-party SDK analogous to the original iPhone's similar lack of GPS and video-capture. 
+I didn't have the [first iPhone][13]. But if any of the stories I've heard about its launch are true, the original iPhone was *way* behind Apple Watch as a version 1.0 product. I liken Apple Watch's lack of GPS and third-party SDK analogous to the original iPhone's similar lack of GPS and video-capture. 
 
 It will only get better.
 
@@ -101,9 +98,13 @@ It will only get better.
 [1]: /2015/3/10/apple-watch-sport-or-apple-watch-collection#apple-watch "My post comparing the Apple Watch Sport and the Apple Watch collection"
 [2]: https://itunes.apple.com/us/app/apple-store/id375380948?at=1l3vx9s "Apple Store app on the App Store"
 [3]: http://www.usatoday.com/story/tech/2014/09/11/iphone-preorder/15462107/ "Preordering the iPhone"
-[4]: http://www.ebay.com/sch/i.html?_nkw=space+gray+apple+watch+-38 "eBay search for Apple Watch Sport in Space Black"
-[5]: http://www.ebay.com/itm/Apple-Watch-Sport-42mm-Space-Gray-IN-HAND-Overnight-Shipping-/141666860069 "Listing of the Watch I bought"
-[6]: /2015/4/10/my-apple-watch-try-on-session-and-that-keyboard "My initial thoughts on the Apple Watch"
-[7]: https://en.wikipedia.org/wiki/Gamification "Wikipedia: Gamification"
-[8]: /2015/3/4/getting-back-into-fitness "My post on getting back into fitness"
-[9]: https://www.apple.com/pr/library/2007/01/09Apple-Reinvents-the-Phone-with-iPhone.html "Press Release from Apple about iPhone release"
+[4]: https://d.pr/i/1bp1g+ "Sigh"
+[5]: http://www.ebay.com/sch/i.html?_nkw=space+gray+apple+watch+-38 "eBay search for Apple Watch Sport in Space Black"
+[6]: http://www.ebay.com/itm/Apple-Watch-Sport-42mm-Space-Gray-IN-HAND-Overnight-Shipping-/141666860069 "Listing of the Watch I bought"
+[7]: /2015/4/10/my-apple-watch-try-on-session-and-that-keyboard "My initial thoughts on the Apple Watch"
+[8]: https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236131_1115220091827958_1540484960_n.jpg "Space Gray"
+[9]: https://d.pr/i/1aOLh+ "Faces"
+[10]: https://en.wikipedia.org/wiki/Gamification "Wikipedia: Gamification"
+[11]: https://d.pr/i/diJa+ "Remaining battery"
+[12]: /2015/3/4/getting-back-into-fitness "My post on getting back into fitness"
+[13]: https://www.apple.com/pr/library/2007/01/09Apple-Reinvents-the-Phone-with-iPhone.html "Press Release from Apple about iPhone release"

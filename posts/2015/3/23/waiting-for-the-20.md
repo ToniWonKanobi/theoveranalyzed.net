@@ -4,10 +4,9 @@ Description: When is it best to wait for the second generation of product? Won't
 Tags: Apple Watch  
 Image: https://d.pr/i/1hPAG+  
 
-![Craig Hockenberry's post on furbo.org](https://d.pr/i/1hPAG+ "Craig Hockenberry's post on furbo.org")
-<!-- {.screenshot} -->
+![Craig Hockenberry's post on furbo.org][1]
 
-Craig Hockenberry of the Iconfactory recently [wrote][1] on the OLED[^1] display technology in the Apple Watch:
+Craig Hockenberry of the Iconfactory recently [wrote][2] on the OLED[^1] display technology in the Apple Watch:
 
 > From Apple’s point-of-view, one of the most important things about OLED is how it consumes power. A transistor on the display only uses energy when it’s producing light. Compare this with an LCD backlight which must be lit in order to see any pixel.
 
@@ -23,11 +22,11 @@ One other interesting bit:
 
 This got me thinking. At what point is it worth it to forego a Version 1.0 product and opt instead for Version 2.0? If you believe what Hockenberry has to say about the lifetime of OLED displays, you also want to wait for the inevitably better Apple Watch 2.0 launching in 2016.
 
-I had a discussion on the notion this weekend, positing that one could invariably wait forever, always hoping the next product will be better. Having this approach to new hardware isn't necessarily a bad one. Imagine how much better the 12-inch MacBook will be when it has [two USB-C ports][2]? And likewise, imagine how much better the Apple Watch will be when it is truly waterproof and when the battery lasts for an entire week? Following that logic would preclude you from ever buying anything. The next best thing is *always* around the corner.
+I had a discussion on the notion this weekend, positing that one could invariably wait forever, always hoping the next product will be better. Having this approach to new hardware isn't necessarily a bad one. Imagine how much better the 12-inch MacBook will be when it has [two USB-C ports][3]? And likewise, imagine how much better the Apple Watch will be when it is truly waterproof and when the battery lasts for an entire week? Following that logic would preclude you from ever buying anything. The next best thing is *always* around the corner.
 
 I don't think Hockenberry's piece is reason enough for me to change my mind about waiting; however, it certainly lends some credence to the opposite opinion.
 
-Apple is set to release two *major* new products this quarter, both of which have far-reaching implications for my hardware setup. Getting [the new MacBook][3] could end up being a great experience. On the other hand, it could also end up being a long and arduous process of buying back everything [I'm set to sell in the next few weeks][4].[^2] The same is true for Apple Watch: I could decide that a screen on my wrist just isn't worth it, especially for a 1.0 product.
+Apple is set to release two *major* new products this quarter, both of which have far-reaching implications for my hardware setup. Getting [the new MacBook][4] could end up being a great experience. On the other hand, it could also end up being a long and arduous process of buying back everything [I'm set to sell in the next few weeks][5].[^2] The same is true for Apple Watch: I could decide that a screen on my wrist just isn't worth it, especially for a 1.0 product.
 
 Either way, I know that I'll be happier having tried it instead of waiting.
 
@@ -37,7 +36,8 @@ Either way, I know that I'll be happier having tried it instead of waiting.
 [a]: http://www.macstories.net/linked/a-new-way-to-display/ "Federico Vitcci linking to Craig Hockenberry's piece"
 [b]: http://www.oled-info.com/confirmed-apples-watch-uses-amoled-display "Apple Watch using OLED"
 
-[1]: http://furbo.org/2015/03/23/a-new-way-to-display/ "Craig Hockenberry's piece that inspired this post"
-[2]: https://www.youtube.com/watch?v=ZrZISyPucMg&amp;t=3m14s "MKBHD: 'USB Type-C: Explained!'"
-[3]: http://uncrate.com/stuff/apple-12-inch-macbook/ "Uncrate linking to the new 2015 MacBook"
-[4]: http://www.ebay.com/sch/toniwonkanobi/m.html?_nkw=&amp;_armrs=1&amp;_ipg=&amp;_from= "My items for sale on eBay"
+[1]: https://d.pr/i/1hPAG+ "Craig Hockenberry's post on furbo.org"
+[2]: http://furbo.org/2015/03/23/a-new-way-to-display/ "Craig Hockenberry's piece that inspired this post"
+[3]: https://www.youtube.com/watch?v=ZrZISyPucMg&amp;t=3m14s "MKBHD: 'USB Type-C: Explained!'"
+[4]: http://uncrate.com/stuff/apple-12-inch-macbook/ "Uncrate linking to the new 2015 MacBook"
+[5]: http://www.ebay.com/sch/toniwonkanobi/m.html?_nkw=&amp;_armrs=1&amp;_ipg=&amp;_from= "My items for sale on eBay"

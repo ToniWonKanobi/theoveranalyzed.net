@@ -41,6 +41,6 @@ And, truthfully, I *still* think it's silly. That said, I added a `/now` page fo
 
 Go check it out: [`/now`][3]
 
-[1]: https://d.pr/i/sBrZ+ "nownownow.com's explanation page"
+[1]: https://d.pr/i/1c4sG+ "nownownow.com's explanation page"
 [2]: http://sivers.org/nowff "Derek Sivers's blog"
 [3]: /now "TheOverAnalyzed's `/now` page"

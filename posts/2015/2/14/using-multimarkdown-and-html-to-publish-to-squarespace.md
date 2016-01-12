@@ -182,7 +182,9 @@ As you can see, my workflow is not that complicated. Byword makes things incredi
 <aside class="update">
 
 ### Update: Back to Byword
-<p class="updateTime"><time datetime="2015-03-04">March 4, 2015</time></p>
+
+March 4, 2015
+<!-- {.updatetime} -->
 
 Since writing this post, I [have switched from Byword to MultiMarkdown Composer][23] for my text editor.  I also no longer use `Code blocks` for my content---I am using `Markdown blocks` instead. I just paste the raw HTML parsed from MultiMarkdown Composer into a `Markdown block`, just like I was doing previously with `Code blocks`. Because editing content in `Code blocks` required a desktop browser, I was stuck waiting until I could get to my MacBook before fixing a typo I noticed after publishing. Using the `Markdown blocks` allows me to edit posts on the go from the Squarespace iOS [Blog][24] app. See my [post][25] for details. 
 

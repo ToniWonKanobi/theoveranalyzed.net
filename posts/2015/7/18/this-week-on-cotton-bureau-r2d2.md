@@ -5,11 +5,9 @@ Description: "This is the droid you're looking for."
 Tags: Cotton Bureau, Star Wars  
 Image: https://cottonbureau.com/img/products/5753_HykZ_2400.jpg  
 
-<figure>
-	<img src="https://d.pr/i/1hl4W+" alt="R2D2" title="'R2D2' on Cotton Bureau">
-	<figcaption><a href="http://nicholasburroughs.com" title="The designer on Twitter">Nicholas Burroughs</a>: "This is the droid you're looking for."</figcaption>
-</figure>
+![Nicholas Burroughs: "This is the droid you're looking for."][1]
 
-[Ahh][1].
+[Ahh][2].
 
-[1]: https://www.youtube.com/watch?v=56_S0WeTkzs "'These aren't the droids you're looking for,' in LEGO"
+[1]: https://d.pr/i/1hl4W+ "'R2D2' on Cotton Bureau"
+[2]: https://www.youtube.com/watch?v=56_S0WeTkzs "'These aren't the droids you're looking for,' in LEGO"

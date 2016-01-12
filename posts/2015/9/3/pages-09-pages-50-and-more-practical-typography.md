@@ -22,25 +22,25 @@ After a bit of searching, I found a working `.dmg` for "iWork '09 Trial." Great.
 
 And so, there I was with two versions of Pages in my `/Applications` folder. 
 
-![Just look at that icon 👌🏾](https://d.pr/i/1fNTT+ "Pages '09 (4.3)")
+![Just look at that icon 👌🏾][8]
 <!-- {style="max-width: 50%"} -->
 
 
-Boy did I feel like a real [rabble-rouser][8]. I had a vintage pirated copy of an application that a [typography master][9] said was better than every other [schmuck][10]'s copy of the current version.[^5]
+Boy did I feel like a real [rabble-rouser][9]. I had a vintage pirated copy of an application that a [typography master][10] said was better than every other [schmuck][11]'s copy of the current version.[^5]
 
 I existed in this state of cognitive bliss for several days, until a thought occurred to me: perhaps Butterick was wrong?
 
-After all, Practical Typography *was* released [mid-2013][11]. Maybe subsequent versions of Pages.app fixed the lack of OpenType features present in the initial 5.0 release?
+After all, Practical Typography *was* released [mid-2013][12]. Maybe subsequent versions of Pages.app fixed the lack of OpenType features present in the initial 5.0 release?
 
-At first glance, it certainly *seems* like the newest version of Pages has decent ligature support.[^6] I [reached out][12] to Butterick to confirm as much, but haven't yet heard back.
+At first glance, it certainly *seems* like the newest version of Pages has decent ligature support.[^6] I [reached out][13] to Butterick to confirm as much, but haven't yet heard back.
 
 As best as I can tell, while the newer version of Pages *does* have proper ligature support, it doesn't appear to have any of the other OpenType features supported by the older version.
 
 Ideal Sans comes with several alternate versions of characters, but as you can see from the screenshots below, the special "G" character (without the horizontal crossbar) does not seem to be available in the newer version of Pages. 
 
 <figure>
-	<img class="screenshot inlineTwo" src="https://d.pr/i/17YoZ+" alt="Pages 4.4.3 without OpenType" title="Pages 4.4.3 without OpenType">
-	<img class="screenshot inlineTwo" src="https://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType" title="Pages 5.5.3 OpenType">
+	<img class="inlineTwo" src="https://d.pr/i/17YoZ+" alt="Pages 4.4.3 without OpenType" title="Pages 4.4.3 without OpenType">
+	<img class="inlineTwo" src="https://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType" title="Pages 5.5.3 OpenType">
 	<figcaption>Pages 4.4.3 with OpenType support and Pages 5.5.3 without much OpenType support at all</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ So Butterick was right. Still, even without full support of OpenType features, t
 
 Indeed, even the Pages.app application icon has now incorporated the Yosemite and El Capitan design ethos:
 
-![The "flat" application icon for Pages.app 5.0+](https://d.pr/i/16ee0+ "Pages 5.0+ app icon")
+![The "flat" application icon for Pages.app 5.0+][14]
 <!-- {style="max-width: 50%"} -->
 
 Louie Mantia agrees:
@@ -75,8 +75,10 @@ It seems like Pages was never sure whether it wanted to be a layout/design appli
 [5]: https://en.wikipedia.org/wiki/OpenType "Wikipedia: OpenType"
 [6]: https://en.wikipedia.org/wiki/Pages_(word_processor)#Version_history "Wikipedia: Pages version history"
 [7]: https://en.wikipedia.org/wiki/IWork#Web_services "Wikipedia: iWork web services"
-[8]: http://www.urbandictionary.com/define.php?term=rabble+rouser&amp;defid=1122945 "Urban Dictionary: rabble rouser"
-[9]: https://twitter.com/mbutterick "Matthew Butterick on Twitter"
-[10]: http://www.urbandictionary.com/define.php?term=schmuck&amp;defid=4802506 "Urban Dictionary: schmuck"
-[11]: http://daringfireball.net/linked/2013/08/19/buttericks-practical-typography "John Gruber linking to Practical Typography"
-[12]: https://twitter.com/ToniWonKanobi/status/638744688581718016 "Tweeting at Butterick"
+[8]: https://d.pr/i/1fNTT+ "Pages '09 (4.3)"
+[9]: http://www.urbandictionary.com/define.php?term=rabble+rouser&amp;defid=1122945 "Urban Dictionary: rabble rouser"
+[10]: https://twitter.com/mbutterick "Matthew Butterick on Twitter"
+[11]: http://www.urbandictionary.com/define.php?term=schmuck&amp;defid=4802506 "Urban Dictionary: schmuck"
+[12]: http://daringfireball.net/linked/2013/08/19/buttericks-practical-typography "John Gruber linking to Practical Typography"
+[13]: https://twitter.com/ToniWonKanobi/status/638744688581718016 "Tweeting at Butterick"
+[14]: https://d.pr/i/16ee0+ "Pages 5.0+ app icon"

@@ -3,10 +3,10 @@ Date: 2015-09-09 09:41
 Link: http://lanesplitter.jalopnik.com/the-honda-2-4-212-hp-and-893-pounds-of-open-aired-good-1729565266  
 Description: This is the Honda I remember.  
 Tags: Honda  
-Image: http://i.kinja-img.com/gawker-media/image/upload/s--hBI2wth_--/c_scale,fl_progressive,q_80,w_800/1423033440059352391.jpg  
+Image: https://d.pr/i/PEGf+  
 
 <figure>
-	<img src="http://i.kinja-img.com/gawker-media/image/upload/s--hBI2wth_--/c_scale,fl_progressive,q_80,w_800/1423033440059352391.jpg" alt="Honda 2&amp;4" title="Honda 2&amp;4">
+	<img src="https://i.kinja-img.com/gawker-media/image/upload/s--hBI2wth_--/c_scale,fl_progressive,q_80,w_800/1423033440059352391.jpg" alt="Honda 2&amp;4" title="Honda 2&amp;4">
 	<figcaption>The Honda 2&amp;4</figcaption>
 </figure>
 
@@ -37,8 +37,8 @@ Alas, I am compelled to share with you the astute observation provided by Jalopn
 Okay, *there's* the [Honda of today][7] rearing it's ugly mug.
 
 <figure>
-	<img  class="inlineTwo" src="http://i.kinja-img.com/gawker-media/image/upload/s--jmKpCVw2--/c_scale,fl_progressive,q_80,w_800/1423033440558095431.jpg" alt="Butt shot" title="Butt shot">
-	<img  class="inlineTwo" src="http://i.kinja-img.com/gawker-media/image/upload/s--g0ERLVVQ--/c_scale,fl_progressive,q_80,w_800/1423033440720894279.jpg" alt="Side profile" title="Side profile">
+	<img  class="inlineTwo" src="https://i.kinja-img.com/gawker-media/image/upload/s--jmKpCVw2--/c_scale,fl_progressive,q_80,w_800/1423033440558095431.jpg" alt="Butt shot" title="Butt shot">
+	<img  class="inlineTwo" src="https://i.kinja-img.com/gawker-media/image/upload/s--g0ERLVVQ--/c_scale,fl_progressive,q_80,w_800/1423033440720894279.jpg" alt="Side profile" title="Side profile">
 	<figcaption>It's too awesome to ever be for sale.</figcaption>
 </figure>
 

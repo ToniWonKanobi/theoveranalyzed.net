@@ -15,9 +15,10 @@ Their oral and maxillofacial section is my favorite, chalk full of interesting p
 
 And, occasionally, not so interesting cases:
 
-![Silly medical folk](https://d.pr/i/iPFO+ "Silly medical folk")
-<!-- {.screenshot .iphone} -->
+![Silly medical folk][1]
 
 As Popper notes, you don't have to be a medical professional to find the app interesting. Indeed, sometimes it's fun to just look at gross stuff. And trust me, there are plenty of gross things to look at in the health field. 
 
 [^1]: Find me on Figure 1 at TheToothCarpenter.
+
+[1]: https://d.pr/i/iPFO+ "Silly medical folk"

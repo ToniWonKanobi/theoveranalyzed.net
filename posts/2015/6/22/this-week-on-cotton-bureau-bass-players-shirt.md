@@ -5,7 +5,6 @@ Description: This week's pic from Cotton Bureau is about to bass you up.
 Tags: Cotton Bureau, Bass Guitar  
 Image: https://cottonbureau.com/img/products/5320_APdl_2400.jpg  
 
-<figure>
-	<img src="https://d.pr/i/QbaB+" alt="Bass Players Shirt" title="'Bass Players Shirt' on Cotton Bureau">
-	<figcaption><a href="http://twitter.com/DesignEpiphany" title="Designer on Twitter">Tim Kordik</a>: "Bass - it's like guitar, but cooler."</figcaption>
-</figure>
+![Tim Kordik: "Bass - it's like guitar, but cooler."][1]
+
+[1]: https://d.pr/i/QbaB+ "'Bass Players Shirt' on Cotton Bureau"

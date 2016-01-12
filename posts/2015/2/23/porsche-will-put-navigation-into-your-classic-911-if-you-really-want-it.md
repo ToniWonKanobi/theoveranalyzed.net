@@ -3,7 +3,7 @@ Date: 2015-02-23 12:24
 Link: http://jalopnik.com/porsche-will-put-navigation-into-your-classic-911-if-yo-1687429377  
 Description: Owning a classic 911 is the pipe dream of many a car lover. However, how many of them would even consider throwing a Jensen single-DIN deck in there? Not likely as many.  
 Tags: Audio, Porsche  
-Image: http://i.kinja-img.com/gawker-media/image/upload/s--89w3pb_o--/c_scale,fl_progressive,q_80,w_800/y8wqpyiendjiraqg9xez.jpg  
+Image: https://i.kinja-img.com/gawker-media/image/upload/s--89w3pb_o--/c_scale,fl_progressive,q_80,w_800/y8wqpyiendjiraqg9xez.jpg  
 
 ![Navigation in a Classic 911?][1]
 
@@ -21,7 +21,8 @@ Imagine owning car manufactured in the early 90's, or even earlier. While there 
 
 Why would you want to adorn your old car with such gaudy visual diarrhea? 
 
-<p><em class="takeHome">The answer is that you wouldn't.</em></p>
+*The answer is that you wouldn't.*
+<!-- {.takehome} -->
 
 And on a less esthetic level, our modern-day reliance on technical amenities like [BTLE][4] and handsfree *could*---if you're that sort of person---make driving less enjoyable in their absence.[^1] 
 
@@ -54,7 +55,7 @@ Yes. Yes it is Patrick.
 [c]: http://www.cnet.com/news/classic-porsches-getting-oem-navigation-option/ "Cnet's report on OEM navigation for Classic 911's"
 [d]: https://en.wikipedia.org/wiki/Porsche_911#911SC_.281978.E2.80.931983.29 "Porsche 911 SC"
 
-[1]: http://i.kinja-img.com/gawker-media/image/upload/s--89w3pb_o--/c_scale,fl_progressive,q_80,w_800/y8wqpyiendjiraqg9xez.jpg "Navigation in a Classic 911?"
+[1]: https://i.kinja-img.com/gawker-media/image/upload/s--89w3pb_o--/c_scale,fl_progressive,q_80,w_800/y8wqpyiendjiraqg9xez.jpg "Navigation in a Classic 911?"
 [2]: https://en.wikipedia.org/wiki/Porsche_964 "Wikipeida: Porsche 964"
 [3]: /2015/2/13/the-honda-nsx "My post on the Honda NSX"
 [4]: https://en.wikipedia.org/wiki/Bluetooth_low_energy "Wikipedia: Bluetooth low energy"

@@ -36,7 +36,7 @@ I struggled for the past couple of years to find a way for iPad to fit into my l
 
 But when I started writing more, the prospect of editing Markdown blocks on the Squarespace mobile app became awfully convoluted. Also, now that my blogging workflow involves writing in MultiMarkdown with [Byword][3], and then converting that to HTML for Squarespace, I *really* do not want to content create without a keyboard. 
 
-<p><em class="takeHome">But that's just me.</em></p>
+But that's just me.
  
 And that's okay, I now realize.
 

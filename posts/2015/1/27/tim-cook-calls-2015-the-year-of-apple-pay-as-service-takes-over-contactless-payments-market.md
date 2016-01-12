@@ -13,7 +13,9 @@ Yeah, I bet Wal-Mart et al. are [feeling pretty stupid right now][1].
 <aside class="update">
 
 ### Update: CurrentC
-<p class="updateTime"><time datetime="2015-08-11">August 11, 2015</time></p>
+
+August 11, 2015
+<!-- {.updatetime} -->
 
 CurrentC [died today][2].
 

@@ -80,7 +80,9 @@ Apple <s>Thunderbolt</s> <s>USB</s> USB-C Dongle Display for 2015? I can only ho
 <aside class="update">
 
 ### Update: No 4K for MacBook
-<p class="updateTime"><time datetime="2015-04-11">April 11, 2015</time></p>
+
+April 11, 2015
+<!-- {.updatetime} -->
 
 Weeks ago, I called Apple and asked them about the refresh rate of greater-than-1080p displays. At the time, they didn't have any more info than what was on this [page][14].
 
@@ -91,8 +93,7 @@ I was checking into things this morning, and saw this:
 * 3840x2160 at 30 Hz refresh rate
 * 4096x2160 at 24 Hz refresh rate (mirroring is not supported at this resolution)
 	
-![Well, there's your answer.](https://d.pr/i/JI2b+ "Well, there's your answer.")
-<!-- {.screenshot .iphone} -->
+![Well, there's your answer.][15]
 
 I'm not sure when that info was added, but the page was last updated yesterday.
 
@@ -104,7 +105,7 @@ I'm not sure when that info was added, but the page was last updated yesterday.
 [^2]: [cnet][b] review
 [^3]: [Digital Trends][c] review
 [^4]: [cnet][d] review
-[^md]: Remember when the CEO [told Apple investors to ask for their money back][e]?
+[^5]: Remember when the CEO [told Apple investors to ask for their money back][e]?
 
 [a]: https://www.youtube.com/watch?v=8Z7RxvkqF5I "AnandTech's review of the Thunderbolt Display"
 [b]: http://www.cnet.com/products/apple-led-cinema-display-27-inch-2010/ "Cnet reviewing the LED Cinema Display from 2010"
@@ -126,3 +127,4 @@ I'm not sure when that info was added, but the page was last updated yesterday.
 [12]: http://thewirecutter.com/reviews/a-great-27-inch-lcd-monitor/ "Wirecutter reviews for 27-inch monitors"
 [13]: https://en.wikipedia.org/wiki/Prosumer "Wikipedia: Prosumer"
 [14]: https://support.apple.com/en-us/HT202856 "Apple Support Page: 'Use 4K displays and Ultra HD TVs with your Mac'"
+[15]: https://d.pr/i/JI2b+ "Well, there's your answer."

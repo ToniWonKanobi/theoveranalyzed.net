@@ -12,7 +12,8 @@ Video: https://youtu.be/sGbxmsDFVnE
 
 ### Update: Music-Only Trailer
 
-<p class="updateTime"><time datetime="2015-10-21">October 21, 2015</time></p>
+October 21, 2015
+<!-- {.updatetime} -->
 
 Here's a [music-only version][1] of the trailer, "revised by [Tim Gonzales][2] to take away to drops in music during the dialogue bits," as Peter Sciretta of [/Film][3] notes.
 

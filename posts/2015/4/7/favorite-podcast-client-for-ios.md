@@ -1,9 +1,9 @@
-Title: Our Favorite Podcast Client for iOS  
+Title: Favorite Podcast Client for iOS  
 Date: 2015-04-07 08:55  
 Link: http://thesweetsetup.com/apps/our-favorite-podcast-client-for-ios/  
 Description: Overcast has changed the way I listen to podcasts.  
 Tags: Apps  
-Image: http://thesweetsetup.com/wp-content/uploads/2015/04/Overcast-Hero-Image-1.jpg  
+Image: https://d.pr/i/13okQ+  
 
 ![Overcast][1]
 
@@ -21,7 +21,7 @@ Castro was so visibly impressive that I quickly forewent the extra options like 
 
 But at the end of the day, the audio experience is what matters. It's a podcast app, not a reading app. And the best audio on any podcast app is Overcast. It is indispensable for my podcast experience, because no other app comes close to delivering the audio experience that Overcast does.
 
-[1]: http://thesweetsetup.com/wp-content/uploads/2015/04/Overcast-Hero-Image-1.jpg "Overcast"
+[1]: https://d.pr/i/13okQ+ "Overcast"
 [2]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?at=1l3vx9s "Overcast on the App Store"
 [3]: http://www.marco.org/2014/07/16/overcast "Marco Arment's post on launching Overcast"
 [4]: http://www.imore.com/debug-43-exclusive-marco-arment-breaks-his-silence-overcast "Debug, episode 43, with Marco Arment discussing Overcast's launch"

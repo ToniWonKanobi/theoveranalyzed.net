@@ -28,7 +28,9 @@ Here's hoping.
 <aside class="update">
  
  ### Update: Brent Simmons on Mailbox's Shuttering
-<p class="updateTime"><time datetime="2015-12-07">December 12, 2015</time></p>
+
+December 12, 2015
+<!-- {.updatetime} -->
 
 Brent Simmons shared his [thoughts on the matter][7]:
 

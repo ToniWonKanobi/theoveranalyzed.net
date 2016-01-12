@@ -1,5 +1,6 @@
 Title: What It's Like to Be Way Too Popular for a Day  
 Date: 2015-01-06 10:00  
+Link: https://marco.org/2015/01/05/popular-for-a-day  
 Description: Apple apologist, he is not.  
 Tags: Blogging  
 Image: https://d.pr/i/dacj+  

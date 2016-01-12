@@ -3,11 +3,11 @@ Date: 2015-03-17 22:02
 Link: http://www.fastcompany.com/3042433/steve-jobs/the-real-legacy-of-steve-jobs  
 Description: In the latest biography about Steve Jobs, Tim Cook reveals a poignant detail of their friendship.  
 Tags: Steve Jobs  
-Image: http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/03/3042433-poster-p-1-steves-legacy-the-real-legacy-of-steve-jobs.jpg  
+Image: https://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/03/3042433-poster-p-1-steves-legacy-the-real-legacy-of-steve-jobs.jpg  
 
-![Steve Jobs (Apple) Evolution](http://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/03/3042433-poster-p-1-steves-legacy-the-real-legacy-of-steve-jobs.jpg "Steve Jobs (Apple) Evolution")
+![Steve Jobs (Apple) Evolution][1]
 
-Gruber linked to a [piece][1] earlier today, which led me to another excerpt from Rick Tetzeli's and Brent Schlender's upcoming book [Becoming Steve Jobs][2]:
+Gruber linked to a [piece][2] earlier today, which led me to another excerpt from Rick Tetzeli's and Brent Schlender's upcoming book [Becoming Steve Jobs][3]:
 
 > Eight weeks after Steve told Cook he was making him CEO, things took a sudden turn for the worse. "I watched a movie with him the Friday before he passed away," Cook remembers. "We watched Remember the Titans [a sentimental football story about an underdog]. I was so surprised he wanted to watch that movie. I was like, ‘Are you sure?’ Steve was not interested in sports at all. And we watched and we talked about a number of things and I left thinking that he was pretty happy. And then all of a sudden things went to hell that weekend."
 
@@ -20,5 +20,6 @@ Gruber linked to a [piece][1] earlier today, which led me to another excerpt fro
 [c]: http://amazon.com/dp/1442369051 "Audiobook version of Walter Isaacson's 'Steve Jobs' on Amazon"
 [d]: http://www.marco.org/2012/02/15/walter-isaacsons-steve-jobs "Marco's take on Walter Isaacson's 'Steve Jobs'"
 
-[1]: http://daringfireball.net/linked/2015/03/17/jobs-cook "John Gruber's link to an excerpt from 'Becoming Steve Jobs'"
-[2]: http://amazon.com/dp/0385347405/?tag=theov0c-20 "'Becoming Steve Jobs' by Brent Schlender and Rick Tetzeli on Amazon"
+[1]: https://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/03/3042433-poster-p-1-steves-legacy-the-real-legacy-of-steve-jobs.jpg "Steve Jobs (Apple) Evolution"
+[2]: http://daringfireball.net/linked/2015/03/17/jobs-cook "John Gruber's link to an excerpt from 'Becoming Steve Jobs'"
+[3]: http://amazon.com/dp/0385347405/?tag=theov0c-20 "'Becoming Steve Jobs' by Brent Schlender and Rick Tetzeli on Amazon"

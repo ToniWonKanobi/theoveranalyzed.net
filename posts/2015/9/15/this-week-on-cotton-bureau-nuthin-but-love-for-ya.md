@@ -5,7 +5,6 @@ Description: Everyone loves them some BB-8.
 Tags: Cotton Bureau, Star Wars    
 Image: https://cottonbureau.com/img/products/6708_OUO1_2400.jpg  
 
-<figure>
-	<img src="https://d.pr/i/1hHP8+" alt="Nuthin But Love for Ya..." title="'Nuthin But Love for Ya...' on Cotton Bureau">
-	<figcaption><a href="http://twitter.com/acsteger" title="The designer on Twitter">Andrew Steger</a>: "Rolling into my heart."</figcaption>
-</figure>
+![Andrew Steger: "Rolling into my heart."][1]
+
+[1]: https://d.pr/i/1hHP8+ "'Nuthin But Love for Ya...' on Cotton Bureau"

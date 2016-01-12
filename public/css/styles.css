@@ -198,9 +198,9 @@ body.homepage section:first-of-type article:first-of-type div:nth-of-type(2) {
 
 article {
 	background: #fff;
-	border-radius: 0.4em;
+	border-radius: 0.2em;
 	margin: auto auto 1.5em auto;
-	padding: 1.5em;
+	padding: 1.75em;
 }
 
 /* Page/Post Headers
@@ -282,15 +282,17 @@ ul.postSubtitle li.tags ul li:nth-child(3):before {
 /* Page/Post Content
 ======================================== */
 
-em.topStory code {
+em.topstory code {
 	font-style: normal;
 }
 
 figure {
-	background: #eee;
-	border: 0.2em solid #eee;
-	border-radius: 0.2em;
 	margin: 1em auto;
+}
+
+figure img {
+	border-top-right-radius: 0.2em;
+	border-top-left-radius: 0.2em;
 }
 
 img {
@@ -318,16 +320,28 @@ img.inlineThree {
 	width: 29%;
 }
 
+img.small {
+	max-width: 50%
+}
+
 figcaption {
+	background: #eee;
+	border-bottom-left-radius: 0.2em;
+	border-bottom-right-radius: 0.2em;
 	color: #999;
 	font-size: 0.8em;
 	font-style: italic;
-	padding: 0.5em 0.5em 0.25em 0.5em;
+	padding: 0.5em;
 }
 
 figcaption.source,
 figcaption code  {
 	font-style: normal;
+}
+
+img.small + figcaption {
+	margin: auto;
+	width: 45%;
 }
 
 audio {
@@ -373,6 +387,7 @@ code {
 
 pre code {
 	font-size: 0.9em;
+	padding: 0; /* Don't delete this, you idiot */
 }
 
 mark {
@@ -434,11 +449,16 @@ table.sortable thead {
 	cursor: default;
 }
 
+table + figcaption {
+	margin: auto;
+	width: 50%;
+}
+
 div.table {
 	overflow: auto;
 }
 
-em.takeHome {
+em.takehome {
 	border-top: 4px solid #ddd;
 	border-bottom: 4px solid #ddd;
 	color: #3f70a2;
@@ -452,16 +472,16 @@ em.takeHome {
 
 aside.update {
 	background-color: #eee;
-	border-radius: 0.4em;
+	border-radius: 0.2em;
 	margin-top: 2em;
-	padding: 1.5em 2em 2em 2em;
+	padding: 1.75em;
 }
 
 aside.update h3 {
 	margin-top: 0;
 }
 
-p.updateTime {
+p.updatetime {
 	color: #999;
 	font-size: 0.9em;
 	margin-top: 0.5em;
@@ -479,6 +499,19 @@ aside.update a:hover {
 
 aside.update blockquote {
 	border-left-color: #ddd;
+}
+
+aside.update pre {
+	background-color: #ddd;
+}
+
+aside.update code {
+	background: #ddd;
+}
+
+aside.update figcaption {
+	background: #ddd;
+	color: #777;
 }
 
 hr {
@@ -551,12 +584,12 @@ a.footnote-backref {
 
 section#pagination {
 	background: #fff;
-	border-radius: 0.4em;
+	border-radius: 0.2em;
 	font-size: 1.1em;
 	font-weight: 400;
 	height: 1.75em;
 	margin: 1.5em auto 1.5em auto;
-	padding: 1.25em 0.5em 1em 0.5em;
+	padding: 1.25em 1.5em 1em 1.5em;
 }
 
 section#pagination > h2 {
@@ -616,6 +649,7 @@ div#bottomAd figure img {
 }
 
 div#bottomAd figure figcaption {
+	background: inherit; /* Turns off the color from above */
 	color: #ddd;
 	font-size: 0.75em;
 	margin: 1em auto;
@@ -705,8 +739,12 @@ p#copyright a {
 		font-size: 1.5em;
 	}
 
-	div.check p {
-		font-size: 7.5em;
+	img.small {
+		max-width: 100%;
+	}
+
+	img.small + figcaption {
+		width: 100%;
 	}
 
 }

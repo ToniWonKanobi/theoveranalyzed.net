@@ -4,10 +4,9 @@ Description: El Capitan broke the Heroku Toolbelt. Here's how to fix it.
 Tags: Power User, Camel  
 Image: https://d.pr/i/1bik6+  
 
-![El Cap. Oh, how you frustrated me on this one.](https://d.pr/i/1bik6+ "Sigh, Terminal, sigh.")
-<!-- {.screenshot} -->
+![El Cap. Oh, how you frustrated me on this one.][1]
 
-If you use the [Heroku CLI][1], and you tried to re-install the [Heroku Toolbelt][2] because you messed something up in your project directory,[^1] you might have noticed Terminal throwing `bash` errors:
+If you use the [Heroku CLI][2], and you tried to re-install the [Heroku Toolbelt][3] because you messed something up in your project directory,[^1] you might have noticed Terminal throwing `bash` errors:
 
 ```nohighlight
 -bash: brew: command not found
@@ -25,17 +24,15 @@ $ heroku login$ -bash: heroku: command not found
 
 Oh yeah, that `-bash` problem.
 
-In a moment of desperation, I went to Twitter:
+In a moment of desperation, I went to Twitter:<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/caseyliss" title="Casey Liss on Twitter">@caseyliss</a> Have you noticed that the Heroku CLI is broken in El Capitan? I thought <a href="https://twitter.com/heroku" title="Heroku on Twitter">@heroku</a> would have fixed that by now… (Rootless thing?)</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/653741132627578880" title="Asking Casey about the Toolbelt">October 13, 2015</a></blockquote>
 
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/caseyliss" title="Casey Liss on Twitter">@caseyliss</a> Have you noticed that the Heroku CLI is broken in El Capitan? I thought <a href="https://twitter.com/heroku" title="Heroku on Twitter">@heroku</a> would have fixed that by now… (Rootless thing?)</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/653741132627578880" title="Asking Casey about the Toolbelt">October 13, 2015</a></blockquote>
+And, in true newbie fashion, less than a minute after Tweeting my question, I stumbled onto Heroku's GitHub repository, where a [pull request][4] had been initiated by someone experiencing the same problem as me!
 
-And, in true newbie fashion, less than a minute after Tweeting my question, I stumbled onto Heroku's GitHub repository, where a [pull request][3] had been initiated by someone experiencing the same problem as me!
-
-Somewhat frustratingly, pull request originated in [early June][4], days after El Capitan betas started going out to developers. I'm not sure how I missed that pull request, but there it was nonetheless.
+Somewhat frustratingly, pull request originated in [early June][5], days after El Capitan betas started going out to developers. I'm not sure how I missed that pull request, but there it was nonetheless.
 
 I followed the advice in the pull request's thread: 
 
-1. First, I installed [Homebrew][5]:
+1. First, I installed [Homebrew][6]:
 
 	```ruby
 	$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -101,8 +98,9 @@ Either way, I'm glad this is sorted. Hope this helps someone who's pulling their
 [^1]: 🙋🏾
 [^2]: `git push heroku master`, the final command I use to deploy changes to my project (blog), doesn't actually use the `heroku` command (Duh?)
 
-[1]: https://devcenter.heroku.com/articles/heroku-command "Heroku Command Line Tools"
-[2]: https://toolbelt.heroku.com/ "Heroku Toolbelt"
-[3]: https://github.com/heroku/heroku/pull/1615 "Toolbelt issues, part 1"
-[4]: https://github.com/heroku/heroku/pull/1615#issue-88082389 "Toolbelt issues, part 2"
-[5]: http://brew.sh "Homebrew"
+[1]: https://d.pr/i/1bik6+ "Sigh, Terminal, sigh."
+[2]: https://devcenter.heroku.com/articles/heroku-command "Heroku Command Line Tools"
+[3]: https://toolbelt.heroku.com/ "Heroku Toolbelt"
+[4]: https://github.com/heroku/heroku/pull/1615 "Toolbelt issues, part 1"
+[5]: https://github.com/heroku/heroku/pull/1615#issue-88082389 "Toolbelt issues, part 2"
+[6]: http://brew.sh "Homebrew"

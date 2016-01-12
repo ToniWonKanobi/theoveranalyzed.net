@@ -2,12 +2,8 @@ Title: Net Neutrality and Tradeoffs
 Date: 2015-03-03 08:00  
 Description: Net Neutrality is important. But there are tradeoffs.  
 Tags: Net Neutrality  
-Image: http://www.wired.com/wp-content/uploads/blogs/opinion/wp-content/uploads/2014/01/net-neutrality-op.jpg  
+Image: https://d.pr/i/1cu2w+  
 
-<figure>
-	<img src="http://www.wired.com/wp-content/uploads/blogs/opinion/wp-content/uploads/2014/01/net-neutrality-op.jpg" alt="Net Neutrality" title="Net Neutrality">
-	<figcaption class="source">Source: <a href="http://www.wired.com/wp-content/uploads/blogs/opinion/wp-content/uploads/2014/01/net-neutrality-op.jpg" title="Source of photo">Wired</a></figcaption></figure>
-	
 <!-- FitVids (http://fitvidsjs.com) -->
 <script src="/js/fitvids.js"></script>
 <script>
@@ -15,6 +11,10 @@ Image: http://www.wired.com/wp-content/uploads/blogs/opinion/wp-content/uploads/
 		$(".entry").fitVids();
 	});
 </script>
+
+<figure>
+	<img src="https://d.pr/i/1cu2w+" alt="Net Neutrality" title="Net Neutrality">
+	<figcaption class="source">Source: <a href="http://www.wired.com/wp-content/uploads/blogs/opinion/wp-content/uploads/2014/01/net-neutrality-op.jpg" title="Source of photo">Wired</a></figcaption></figure>
 
 On the way to work yesterday, I listened to the [latest episode][1] of Exponent. The topic of conversation was, like always, pure excellence.
 
@@ -41,7 +41,9 @@ Here's Nilay Patel and Chris Plant discussing Net Neutrality's big development l
 <aside class="update">
 
 ### Update: Netflix is a Hypocrite
-<p class="updateTime"><time datetime="2015-03-04">March 4, 2015</time></p>
+
+March 4, 2015
+<!-- {.updatetime} -->
 
 <blockquote><p>So everyone has discovered that Netflix is a net neutrality hypocrite: <a href="http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl" title="The Verge commenting on Netflix and net neutrality">http://www.theverge.com/2015/3/3/8142899/netflix-net-neutrality-flipfl</a>&#10;&#10;Told you so a year ago <a href="https://stratechery.com/2014/netflix-net-neutrality/" title="Ben Thompson on net neutrality">https://stratechery.com/2014/netflix-net-neutrality/</a></p>&mdash; Ben Thompson (@monkbent) <a href="https://twitter.com/monkbent/status/573141062073520128" title="Ben Thompson telling us he was right about this a year ago">March 4, 2015</a></blockquote>
 

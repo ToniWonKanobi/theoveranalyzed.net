@@ -3,7 +3,7 @@ Date: 2015-01-19 12:00
 Link: http://jalopnik.com/how-money-is-not-made-in-autojournlism-1679747807  
 Description: Blogging about cars isn't exactly the most lucrative venture on the planet.  
 Tags: Blogging, Cars  
-Image: http://i.kinja-img.com/gawker-media/image/upload/s--JTkokMfm--/c_scale,fl_progressive,q_80,w_800/zwez3fkhg2jony1ehi3l.jpg  
+Image: https://i.kinja-img.com/gawker-media/image/upload/s--JTkokMfm--/c_scale,fl_progressive,q_80,w_800/zwez3fkhg2jony1ehi3l.jpg  
 
 ![How Money Is (Not) Made in Auto Journalism][1]
 
@@ -31,7 +31,7 @@ Anecdotally, I am almost as pessimistic as Harris. I have talked with many famil
 
 In ten years time, I hope /Drive is still doing its thing. I wish the same for Jalopnik. Now go out there and support the media outlets you adore. They need you.
 
-[1]: http://i.kinja-img.com/gawker-media/image/upload/s--JTkokMfm--/c_scale,fl_progressive,q_80,w_800/zwez3fkhg2jony1ehi3l.jpg "How Money Is (Not) Made in Auto Journalism"
+[1]: https://i.kinja-img.com/gawker-media/image/upload/s--JTkokMfm--/c_scale,fl_progressive,q_80,w_800/zwez3fkhg2jony1ehi3l.jpg "How Money Is (Not) Made in Auto Journalism"
 [2]: http://jalopnik.com/how-money-is-not-made-in-autojournlism-1679747807 "Chris Harris being real in regards to automotive journalism (blogging)"
 [3]: https://en.wikipedia.org/wiki/Economics_and_patents "Wikipedia: Economics"
 [4]: http://www.youtube.com/channel/UCfbPZ1cTgBH2djzLLCPTmXg "/DRIVE on YouTube"

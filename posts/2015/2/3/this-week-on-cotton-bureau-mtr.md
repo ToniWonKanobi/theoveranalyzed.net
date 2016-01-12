@@ -5,12 +5,10 @@ Description: Do you have a favorite t-shirt company?
 Tags: Cotton Bureau  
 Image: https://cottonbureau.com/img/products/3422_8cnL_1600.jpg  
 
-<p><em class="topStory">Starting this week, I will be occasionally featuring <a href="/tags/Cotton%20Bureau" title="Posts tagged 'Cotton Bureau'">neat designs</a> from my favorite T-shirt company, <a href="http://cottonbureau.com" title="Cotton Bureau">Cotton Bureau</a>.</em></p>
+*Starting this week, I will be occasionally featuring [neat designs][1] from my favorite T-shirt company, [Cotton Bureau][2].*
+<!-- {em:.topstory) -->
 
-<figure>
-	<img src="https://cottonbureau.com/img/products/3422_8cnL_1600.jpg" alt="'MTR' on Cotton Bureau'" title="'MTR' on Cotton Bureau'">
-	<figcaption><a href="http://twitter.com/seanevd" title="Designer on Twitter">Sean Duncan</a>: "The significance of an acronym shouldn't mtr."</figcaption>
-</figure>
+![Sean Duncan: "The significance of an acronym shouldn't mtr."][3]
 
 Be sure to use my coupon code <b>CBANTHONYC10</b> at checkout for 10% off.
 
@@ -21,3 +19,7 @@ Be sure to use my coupon code <b>CBANTHONYC10</b> at checkout for 10% off.
 The trial promotion has now ended, in case you were wondering why my coupon code no longer works.
 
 </aside>
+
+[1]: /tags/Cotton%20Bureau "Posts tagged 'Cotton Bureau'"
+[2]: http://cottonbureau.com "Cotton Bureau"
+[3]: https://cottonbureau.com/img/products/3422_8cnL_1600.jpg "'MTR' on Cotton Bureau'"

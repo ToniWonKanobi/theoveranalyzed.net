@@ -2,7 +2,7 @@ Title: Song Exploder Podcast: House of Cards and Downton Abbey
 Date: 2015-05-07 15:59  
 Description: A podcast that takes apart popular songs? Count me in.  
 Tags: Podcast Picks, Song Exploder, Downton Abbey  
-Image: http://is5.mzstatic.com/image/thumb/Music7/v4/d6/d5/c9/d6d5c9d9-c0ed-c486-11f8-a2abc917630b/source/10000x10000bb.jpg  
+Image: https://d.pr/i/14SHH+  
 
 ![Song Exploder podcast][1]
 
@@ -20,7 +20,7 @@ Those were the only two shows featured by Hirway that I was familiar with, but I
 
 (From [Mark Bramhill][15], the guy responsible for the [Welcome To Macintosh][16] [podcast][17], which is a great listen for Apple fans)
 
-[1]: http://is5.mzstatic.com/image/thumb/Music7/v4/d6/d5/c9/d6d5c9d9-c0ed-c486-11f8-a2abc917630b/source/10000x10000bb.jpg "Song Exploder podcast"
+[1]: https://d.pr/i/14SHH+ "Song Exploder podcast"
 [2]: https://en.wikipedia.org/wiki/House_of_Cards_(U.S._TV_series) "Wikipedia: 'House of Cards'"
 [3]: /2015/1/11/watch-the-house-of-cards-season-3-trailer "My post on 'House of Cards' Season 3"
 [4]: http://songexploder.net "Song Exploder podcast"

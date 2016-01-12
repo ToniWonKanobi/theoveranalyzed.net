@@ -23,10 +23,9 @@ I'm no designer. And, admittedly, on [June 10, 2013][4], no one was happier than
 
 But you don't have to be a design genius to agree with Schiff. To the completely design-uninitiated folks like yours truly iOS 7/8 looks and feels confusing, unless you know what you're doing. For the designers amongst us, iOS 7/8 really does appear like a UI paradox.
 
-![Schiff: "Above are icons from iOS prior to their modern minimalist flattening. Below are their iOS 7 counterparts. The icons above reflect well whether they belong to Apple or Facebook. The icons below do no such thing."](https://d.pr/i/1jQtU+ "Eli Schiff on crappy iOS icons")
-<!-- {.screenshot} -->
+![Schiff: "Above are icons from iOS prior to their modern minimalist flattening. Below are their iOS 7 counterparts. The icons above reflect well whether they belong to Apple or Facebook. The icons below do no such thing."][5]
 
-Taking things away just for the sake of minimalism doesn't serve anyone, except maybe [white room Jony][5]. Do away with the goofy skeuomorphs, fine. But replacing them with generic UI 'design' doesn't help anyone. Is this really the design impression Jony Ive wants to leave behind?
+Taking things away just for the sake of minimalism doesn't serve anyone, except maybe [white room Jony][6]. Do away with the goofy skeuomorphs, fine. But replacing them with generic UI 'design' doesn't help anyone. Is this really the design impression Jony Ive wants to leave behind?
 
 [^1]: Not to mention my joy upon witnessing the death of [rich corinthian leather][a]
 
@@ -36,4 +35,5 @@ Taking things away just for the sake of minimalism doesn't serve anyone, except 
 [2]: http://www.elischiff.com/blog/2015/3/4/critical-sharks-part-i-you-cant-say-that "Eli Schiff's critique of iOS 7"
 [3]: https://dribbble.com/blabus "Bill Labus on Dribbble"
 [4]: https://www.apple.com/pr/library/2013/06/10Apple-Unveils-iOS-7.html "Apple's Press Release for iOS 7"
-[5]: https://www.change.org/p/apple-free-jony-ive-from-his-white-room "Snarky 'petition' poking fun at Jony Ive's characteristic white videos"
+[5]: https://d.pr/i/1jQtU+ "Eli Schiff on crappy iOS icons"
+[6]: https://www.change.org/p/apple-free-jony-ive-from-his-white-room "Snarky 'petition' poking fun at Jony Ive's characteristic white videos"

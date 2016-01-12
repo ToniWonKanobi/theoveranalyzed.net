@@ -3,7 +3,7 @@ Date: 2015-02-06 11:30
 Link: http://jalopnik.com/on-the-terrifying-astounding-driving-skill-of-taxi-dri-1683979110  
 Description: Dubai isn't all glitz.  
 Tags: Cars  
-Image: http://i.kinja-img.com/gawker-media/image/upload/s--99CL83fw--/c_scale,fl_progressive,q_80,w_800/reyahngsslu3zrcw5ac6.jpg  
+Image: https://i.kinja-img.com/gawker-media/image/upload/s--99CL83fw--/c_scale,fl_progressive,q_80,w_800/reyahngsslu3zrcw5ac6.jpg  
 
 ![Crazy Chris Harris][1]
 
@@ -15,4 +15,4 @@ I don't think I have ever been on the inside of a taxi. But when I do cross that
 
 [^1]: Read: "bad"
 
-[1]: http://i.kinja-img.com/gawker-media/image/upload/s--99CL83fw--/c_scale,fl_progressive,q_80,w_800/reyahngsslu3zrcw5ac6.jpg "Crazy Chris Harris"
+[1]: https://i.kinja-img.com/gawker-media/image/upload/s--99CL83fw--/c_scale,fl_progressive,q_80,w_800/reyahngsslu3zrcw5ac6.jpg "Crazy Chris Harris"

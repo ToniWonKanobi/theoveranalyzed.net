@@ -2,7 +2,7 @@ Title: Serial
 Date: 2014-12-23 12:00  
 Description: 📱🎧  
 Tags: Reviews, Podcasts  
-Image: http://is5.mzstatic.com/image/thumb/Music3/v4/6a/50/cc/6a50cc45-8075-48f5-8371-bddcb2cad314/source/10000x10000bb.jpg  
+Image: https://is5.mzstatic.com/image/thumb/Music3/v4/6a/50/cc/6a50cc45-8075-48f5-8371-bddcb2cad314/source/10000x10000bb.jpg  
 
 ![Serial][1]
 
@@ -45,7 +45,7 @@ Serial is one of the latest podcasts I subscribed to, and has to be one of the b
 
 Season 2 of Serial [is in the works][33]. Let us hope it's more like [this][34] sequel or [this][35] one versus, say, [this][36] one (or [this][37] one, or [this][38] one, or [this][39] one, which all sucked beyond belief).
 
-[1]: http://is5.mzstatic.com/image/thumb/Music3/v4/6a/50/cc/6a50cc45-8075-48f5-8371-bddcb2cad314/source/10000x10000bb.jpg "Serial podcast artwork"
+[1]: https://is5.mzstatic.com/image/thumb/Music3/v4/6a/50/cc/6a50cc45-8075-48f5-8371-bddcb2cad314/source/10000x10000bb.jpg "Serial podcast artwork"
 [2]: http://gearpatrol.com/2014/12/22/serial-putting-longform-radio-back-map/ "Gear Patrol, on 'Serial'"
 [3]: http://serialpodcast.org/ "Website for Serial podcast"
 [4]: http://www.theverge.com/2014/11/28/7302227/the-future-is-podcasts "The Verge on the future of podcasts"

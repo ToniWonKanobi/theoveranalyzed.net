@@ -3,7 +3,7 @@ Date: 2015-09-17 23:16
 Link: https://youtu.be/j1Qc5JWxIaA  
 Description: More Star Wars Rebels Season 2 teasers.  
 Tags: Star Wars  
-Image: http://rebelsreport.com/wp-content/uploads/2015/09/image003.jpg  
+Image: https://d.pr/i/18dJH+  
 Video: https://youtu.be/j1Qc5JWxIaA  
 
 From the [Star Wars YouTube channel][1]:

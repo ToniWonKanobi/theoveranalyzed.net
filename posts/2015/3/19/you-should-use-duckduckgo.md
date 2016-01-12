@@ -5,10 +5,9 @@ Description: DuckDuckGo is a marvelous alternative to Google (or Bing, or Yahoo,
 Tags: Reviews  
 Image: https://d.pr/i/1fH31+  
 
-![You should be using this](https://d.pr/i/1fH31+ "You should be using this")
-<!-- {.screenshot} -->
+![You should be using this][1]
 
-Casey Liss of [ATP][1] fame:
+Casey Liss of [ATP][2] fame:
 
 > Yes, sometimes that has problems.
 >
@@ -20,12 +19,11 @@ Casey Liss of [ATP][1] fame:
 
 I too have been using DuckDuckGo to power my searches for the past few months. It might even be up to a year at this point, but I just can't remember that far back. And despite its occasional shortcomings when it comes to images, Google is still a *little* bit better at finding random images, such as product box images that I use in eBay listings. It is *absolutely* the best search engine out there. 
 
-![Free tshirt!](https://d.pr/i/10HDI+ "Free tshirt!")
-<!-- {.screenshot} -->
+![Free t-shirt!][3]
 
-And as was the case for Casey, once Apple added DuckDuckGo to iOS 8 as an option for the default search engine in MobileSafari.app, I stopped using DuckDuckGo's [older, wonkier solution][2].
+And as was the case for Casey, once Apple added DuckDuckGo to iOS 8 as an option for the default search engine in MobileSafari.app, I stopped using DuckDuckGo's [older, wonkier solution][4].
 
-They do have an [iOS app][3], which is decent, but I hate that it doesn't launch with a 'fresh,' [Drafts][4]-style blank slate. 
+They do have an [iOS app][5], which is decent, but I hate that it doesn't launch with a 'fresh,' [Drafts][6]-style blank slate. 
 
 And finally, Casey points out some great  `!bang operator`'s that you can add to your search queries.
 
@@ -43,7 +41,9 @@ Don't take Casey's or my advice. Try it for yourself. You won't be disappointed 
 [d]: http://www.amazon.com/dp/B00C4VFYRC/ "B&O PLAY H6's on Amazon"
 [e]: http://www.amazon.com/dp/B00R45Z2IE "B&O PLAY H8's on Amazon"
 
-[1]: http://atp.fm "Accidental Tech Podcast"
-[2]: http://lifehacker.com/5903558/how-to-add-a-new-default-search-engine-to-safari-on-the-iphone "How to change search engines on iOS pre-iOS 8"
-[3]: https://itunes.apple.com/us/app/id663592361?at=1l3vx9s "DuckDuckGo on the App Store"
-[4]: https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?at=1l3vx9s "Drafts 4 on the App Store"
+[1]: https://d.pr/i/1fH31+ "You should be using this"
+[2]: http://atp.fm "Accidental Tech Podcast"
+[3]: https://d.pr/i/10HDI+ "Free tshirt!"
+[4]: http://lifehacker.com/5903558/how-to-add-a-new-default-search-engine-to-safari-on-the-iphone "How to change search engines on iOS pre-iOS 8"
+[5]: https://itunes.apple.com/us/app/id663592361?at=1l3vx9s "DuckDuckGo on the App Store"
+[6]: https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?at=1l3vx9s "Drafts 4 on the App Store"

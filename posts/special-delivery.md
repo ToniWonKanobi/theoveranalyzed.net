@@ -4,7 +4,7 @@ Description: Happy Valentine's Day Allison.
 Tags: Allison  
 HideHeader: true  
 BodyClass: specialDelivery  
-CSS: valentinesday.css  
+CSS: /css/valentinesday.css  
 
 <div class="specialDelivery">
 

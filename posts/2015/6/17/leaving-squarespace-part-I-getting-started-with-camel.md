@@ -4,40 +4,39 @@ Description: Getting Camel setup required some command-line hackery, as well as 
 Tags: Meta, Camel, Leaving Squarespace  
 Image: https://d.pr/i/1go0O+  
 
-<p><em class="topStory">This is Part I of my series entitled <a href="tags/Leaving%20Squarespace" title="Posts tagged 'Leaving Squarespace'">Leaving Squarespace</a>. After reading this piece, you can read the <a href="/2015/6/26/leaving-squarespace-part-ii-modifying-files-to-play-nice-with-camelnext" rel="next" title="Link to Part II of the 'Leaving Squarespace' series">next</a> post in the series. Note that much of this post (and future posts) was made possible due to <a href="https://twitter.com/freekrai" title="Roger Stringer on Twitter">Roger Stringer</a>. Check out his Camel installation guide found <a href="http://www.sitepoint.com/deploying-camel-js-blog-heroku/" title="Roger Stringer's post on SitePoint about Camel">here</a>. Because I wasn't a master at the command line before Camel&mdash;I'm still not&mdash;and because you may not be a command line master yourself, I thought it would be useful to detail a step-by-step procedure on how I got Camel working on my local machine. Note that this post will not discuss the actual deployment of the site to Heroku. That comes later.</em></p>
+*This is Part I of my series entitled [Leaving Squarespace][1]. After reading this piece, you can read the [next][2] post in the series. Note that much of this post (and future posts) was made possible due to [Roger Stringer][3]. Check out his Camel installation guide found [here][4]. Because I wasn't a master at the command line before Camel---I'm still not---and because you may not be a command line master yourself, I thought it would be useful to detail a step-by-step procedure on how I got Camel working on my local machine. Note that this post will not discuss the actual deployment of the site to Heroku. That comes later.*
+<!-- {em:.topstory) -->
 
 #### Following The Leader
 
-If you take a look at the Camel's [GitHub page][1], it would seem, at first glance, that everything is straightforward enough. However, [Casey Liss][2] is an *actual* developer. And although he fashions himself as merely a 'GitHub novice,' even an unexperienced GitHub-er might unintentionally omit the absolute *basics* of how the command line works.[^1]
+If you take a look at the Camel's [GitHub page][5], it would seem, at first glance, that everything is straightforward enough. However, [Casey Liss][6] is an *actual* developer. And although he fashions himself as merely a 'GitHub novice,' even an unexperienced GitHub-er might unintentionally omit the absolute *basics* of how the command line works.[^1]Take a look at Casey's installation [instructions][7]:
 
-Take a look at Casey's installation [instructions][3]:
-
-1. Install [Node][4] & [npm][5]
+1. Install [Node][8] & [npm][9]
 2. Clone the repository
 3. Get all the dependencies using NPM: `npm install`
 4. `node ./camel.js`
 
 I was lost at step 1. 
 
-Allow me to take you through each of his steps, [like you're two year old][6].
+Allow me to take you through each of his steps, [like you're two year old][10].
 
 ### Step 1: Installing Node & npm
 
 Here's the thing: I tried visiting the Node and npm pages for help with Casey's instructions. According to the documentation on the npm site, npm is installed whenever Node is. If that's the case, why did Casey write "Install Node & npm"? Why not just "Install Node [which installs Node as well]"?
 
-Turns out, all I had to do was install Node via this [package][7].[^2] Once Node (and npm) were installed, I could use `node` and `npm` commands in the command line. I was ready for step 2.
+Turns out, all I had to do was install Node via this [package][11].[^2] Once Node (and npm) were installed, I could use `node` and `npm` commands in the command line. I was ready for step 2.
 
 ### Step 2: Cloning The Repository
 
 The next step involves copying Camel's website framework to you local machine. This is called 'cloning the repository.' Before the actual cloning process, you should decide where you want Camel to live on the local machine. I chose `~/Desktop/camel` (for purposes of this tutorial), but you could choose whatever destination you like. Once you've decided where you want the repository to reside, you're ready to begin.
 
-From the command line interface of your choice ([Terminal.app][8] for me), navigate to your desired destination:[^3]
+From the command line interface of your choice ([Terminal.app][12] for me), navigate to your desired destination:[^3]
 
 ```nohighlight
 Anthonys-MacBook:~ Anthony$ cd ~/Desktop/camel
 ```
 
-You're now ready to clone the repository. Note that if you've never tried the [`git`][9] command before, Terminal will [prompt you to install][10] the [Xcode Command Line Tools][11]. You should do so. Afterwards, clone the repository:
+You're now ready to clone the repository. Note that if you've never tried the [`git`][13] command before, Terminal will [prompt you to install][14] the [Xcode Command Line Tools][15]. You should do so. Afterwards, clone the repository:
 
 ```nohighlight
 Anthonys-MacBook:camel Anthony$ git clone https://github.com/cliss/camel.git
@@ -45,7 +44,7 @@ Anthonys-MacBook:camel Anthony$ git clone https://github.com/cliss/camel.git
 
 ### Step 3: Get The Dependencies
 
-Once the Camel repository has been 'copied' to your local machine, you'll need to install Camel's dependencies as well. Casey designed Camel to use several open-source libraries to power Camel. Because they are other developers' work, he didn't crib everything and copy it into `camel.js`. Instead, he references them in his script, as well as the [`package.json`][12]. You need to install those dependencies in your Camel folder, so that `camel.js` knows where to find them when it needs them.[^4]
+Once the Camel repository has been 'copied' to your local machine, you'll need to install Camel's dependencies as well. Casey designed Camel to use several open-source libraries to power Camel. Because they are other developers' work, he didn't crib everything and copy it into `camel.js`. Instead, he references them in his script, as well as the [`package.json`][16]. You need to install those dependencies in your Camel folder, so that `camel.js` knows where to find them when it needs them.[^4]
 
 Assuming you are still 'in' Camel's location:[^5]
 
@@ -155,7 +154,7 @@ Anthonys-MacBook:camel Anthony$ node camel.jsCamel v1.5.0 server started on port
 
 You're almost done. To test that Camel is indeed up and running, query `localhost:5000` in the address bar of your browser. You should then be able to navigate a [rather sparse looking] version of 'stock' Camel:
 
-![Sample site launched!][13]
+![Sample site launched!][17]
 
 ### Step V: Enable Manual Cache Tossing (Optional)
 
@@ -195,16 +194,20 @@ If you didn't have too much trouble with this tutorial, I doubt you'll have any 
 
 [a]: https://en.wikipedia.org/wiki/Cd_(command) "Wikipedia: UNIX command `cd`"
 
-[1]: https://github.com/cliss/camel "GitHub page for Camel"
-[2]: https://twitter.com/caseyliss "Casey Liss on Twitter"
-[3]: https://github.com/cliss/camel#installation "Section of Camel's GitHub page devoted to installation"
-[4]: http://nodejs.org/ "Node.js website"
-[5]: http://nodejs.org/ "Node.js website"
-[6]: https://www.youtube.com/watch?v=AR6eXWNJzoY "Philadelphia - Explain This To Me Like I'm a Two Year Old (Denzel Washington)"
-[7]: http://nodejs.org/dist/v0.12.4/node-v0.12.4.pkg "Latest node.js package"
-[8]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "Wikipedia: Terminal for OS X"
-[9]: http://git-scm.com "Website for Git"
-[10]: http://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac "Installing Git on your Mac"
-[11]: http://jtimberman.housepub.org/blog/2012/02/26/xcode-command-line-tools/ "Installing the command line tools for OS X"
-[12]: https://d.pr/i/1hkag+ "Camel's dependencies, shown in the `package.json`"
-[13]: https://d.pr/i/1lmVC+ "Sample site launched!"
+[1]: /tags/Leaving%20Squarespace "Posts tagged 'Leaving Squarespace'"
+[2]: /2015/6/26/leaving-squarespace-part-ii-modifying-files-to-play-nice-with-camelnext "Link to Part II of the 'Leaving Squarespace' series"
+[3]: https://twitter.com/freekrai "Roger Stringer on Twitter"
+[4]: http://www.sitepoint.com/deploying-camel-js-blog-heroku/ "Roger Stringer's post on SitePoint about Camel"
+[5]: https://github.com/cliss/camel "GitHub page for Camel"
+[6]: https://twitter.com/caseyliss "Casey Liss on Twitter"
+[7]: https://github.com/cliss/camel#installation "Section of Camel's GitHub page devoted to installation"
+[8]: http://nodejs.org/ "Node.js website"
+[9]: https://www.npmjs.com/ "npmjs website"
+[10]: https://www.youtube.com/watch?v=AR6eXWNJzoY "Philadelphia - Explain This To Me Like I'm a Two Year Old (Denzel Washington)"
+[11]: http://nodejs.org/dist/v0.12.4/node-v0.12.4.pkg "Latest node.js package"
+[12]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "Wikipedia: Terminal for OS X"
+[13]: http://git-scm.com "Website for Git"
+[14]: http://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac "Installing Git on your Mac"
+[15]: http://jtimberman.housepub.org/blog/2012/02/26/xcode-command-line-tools/ "Installing the command line tools for OS X"
+[16]: https://d.pr/i/1hkag+ "Camel's dependencies, shown in the `package.json`"
+[17]: https://d.pr/i/1lmVC+ "Sample site launched!"

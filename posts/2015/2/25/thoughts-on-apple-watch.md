@@ -87,7 +87,8 @@ Again, this doesn't matter when you're filthy rich. Whether or not the Apple Wat
 
 Do you think the people who spend $10,000 on Rolex and IWC masterpieces care whether their watch is plated or solid gold? 
 
-<p><em class="takeHome">No. They don't care. They're rich.</em></p>
+*No. They don't care. They're rich.*
+<!-- {.takehome} -->
 
 Us poorer folks, seeking to justify [watch] purchases we just shouldn't be making---yeah, we might care. "Oh, it's *solid* gold, so it was okay for me to spend $8,000 on this watch. You, now you: you bought a *plated* gold watch for $7,000. That's totally not worth it."
 

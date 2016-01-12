@@ -4,30 +4,19 @@ Description: I've been busy tweaking the site over the past few weeks. Here are 
 Tags: Cotton Bureau  
 Image: https://cottonbureau.com/img/tee-pattern.png  
 
-<figure>
-	<a href="https://cottonbureau.com/products/tweetbot" title="'Tweetbot' on Cotton Bureau">
-		<img src="https://cottonbureau.com/img/products/7801_Nz5C_1600.jpg" alt="'Tweetbot' on Cotton Bureau">
-	</a>
-	<figcaption>"Tweetbot," by <a href="http://twitter.com/markjardine" title="The designer on Twitter">Mark Jardine</a></figcaption>
-</figure>
+[!["Tweetbot," by Mark Jardine][1]][2]
 
-<figure>
-	<a href="https://cottonbureau.com/products/doctype-love" title="'&lsaquo;!doctype love&rsaquo;' on Cotton Bureau">
-		<img src="https://cottonbureau.com/img/products/214_0gQc_1600.jpg" alt="'&lsaquo;!doctype love&rsaquo;' on Cotton Bureau">
-	</a>
-	<figcaption>"&lsaquo;!doctype love&rsaquo;," by <a href="http://twitter.com/potch" title="The designer on Twitter">Matt Claypotch</a></figcaption>
-</figure>
+[!["&lsaquo;!doctype love&rsaquo;," by Matt Claypotch][3]][4]
 
-<figure>
-	<a href="https://cottonbureau.com/products/star-destroyer" title="'Star Destroyer' on Cotton Bureau">
-		<img src="https://cottonbureau.com/img/products/7566_KQ3c_1600.jpg" alt="'Star Destroyer' on Cotton Bureau">
-	</a>
-	<figcaption>"Star Destroyer," by <a href="http://twitter.com/seanevd" title="The designer on Twitter">Sean Duncan</a></figcaption>
-</figure>
+[!["Star Destroyer," by Sean Duncan][5]][6]
 
-<figure>
-	<a href="https://cottonbureau.com/products/httpster" title="'HTTPSTER' on Cotton Bureau">
-		<img src="https://cottonbureau.com/img/products/5922_GZty_1600.jpg" alt="'HTTPSTER' on Cotton Bureau">
-	</a>
-	<figcaption>"HTTPSTER," by <a href="http://twitter.com/kneadle" title="The designer on Twitter">Christopher DeCaro</a></figcaption>
-</figure>
+[!["HTTPSTER," by Christopher DeCaro][7]][8]
+
+[1]: https://cottonbureau.com/img/products/7801_Nz5C_1600.jpg "'Tweetbot' on Cotton Bureau"
+[2]: https://cottonbureau.com/products/tweetbot "'Tweetbot' by Mark Jardine"
+[3]: https://cottonbureau.com/img/products/214_0gQc_1600.jpg "'&lsaquo;!doctype love&rsaquo;' on Cotton Bureau"
+[4]: https://cottonbureau.com/products/doctype-love "'&lsaquo;!doctype love&rsaquo;,' by Matt Claypotch"
+[5]: https://cottonbureau.com/img/products/7566_KQ3c_1600.jpg "'Star Destroyer' on Cotton Bureau"
+[6]: https://cottonbureau.com/products/star-destroyer "'Star Destroyer,' by Sean Duncan"
+[7]: https://cottonbureau.com/img/products/5922_GZty_1600.jpg "'HTTPSTER' on Cotton Bureau"
+[8]: https://cottonbureau.com/products/httpster "'HTTPSTER,' by Christopher DeCaro"

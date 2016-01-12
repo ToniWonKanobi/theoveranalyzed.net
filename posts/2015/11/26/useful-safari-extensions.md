@@ -10,7 +10,9 @@ I've tried using other browsers, but ultimately, Safari is my go-to web browser 
 
 I've collected a few Safari Extensions that are useful, and wanted to share them here.
 
-I shared one extension [back in March][4] of this year: the Minimal Status Bar for Safari by Visnup. *Note: this extension is now obsolete on El Capitan and above. But for Mac users on pre-10.11 versions of OS X, Visnup's extension allows for a dynamic status bar (there when you need it, gone when you don't).*
+I shared one extension [back in March][4] of this year: the Minimal Status Bar for Safari by Visnup.
+
+*Note: this extension is now obsolete on El Capitan and above. But for Mac users on pre-10.11 versions of OS X, Visnup's extension allows for a dynamic status bar (there when you need it, gone when you don't).*
 
 I have two new extensions to share.
 

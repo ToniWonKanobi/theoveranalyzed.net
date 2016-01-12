@@ -69,7 +69,9 @@ By placing the permalink in the Post Blog Item Code Injection section, I no long
 <aside class="update">
 
 ### Update: Permalink Fix
-<p class="updateTime"><time datetime="2015-02-09">February 9, 2015</time></p>
+
+February 9, 2015
+<!-- {.updatetime} -->
 
 Since initially writing this post, I have since turned on the [Developer Platform][8] for Squarespace. This has opened up both a bunch of possibilities, and a bunch of frustrations.
 

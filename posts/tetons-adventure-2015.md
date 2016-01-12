@@ -1,7 +1,7 @@
 Title: Tetons Adventure 2015  
 Description: This page is a container for a video of our trip to Wyoming in the Fall of 2015  
 HideHeader: true  
-CSS: black.css  
+CSS: /css/black.css  
 
 # Tetons Adventure 2015&nbsp;🗻
 

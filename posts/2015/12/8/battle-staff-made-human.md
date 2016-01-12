@@ -34,7 +34,7 @@ I will share this bit, however:
 >
 > The standard bearer for the battalion’s noncommissioned officers (or as I heard one CSM call it, “standard barriers”). The commander’s bulldog. Enforcer of all policies, such as the wear of the reflective belt and the length of the grass within the battalion’s area of operations. They often antagonize people just to assert their perceived authority. If you’re thinking of Dwight Schrute right now, you’re entirely accurate.
 >
-> ![Dwight Schrute][4]
+> ![Dwight Schrute][4] <!-- no figure -->
 
 You should go read the whole thing.
 

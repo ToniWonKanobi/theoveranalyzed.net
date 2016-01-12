@@ -3,7 +3,7 @@ Date: 2015-03-11 10:00
 Link: http://wayswework.io/interviews/interview-with-mark-jardine-co-founder-of-tapbots  
 Description: How do our favorite designer/developers do work?  
 Tags: Design, Apps, Tapbots  
-Image: http://wayswework.io/assets/img/headerphotos/me.jpg  
+Image: https://d.pr/i/8iA5+  
 
 ![Mark Jardine][1]
 
@@ -13,5 +13,5 @@ Mark Jardine, co-founder of Tapbots, in an interview for Ways We Work:
 
 A great read for [any][2] Tapbots fan.
 
-[1]: http://wayswework.io/assets/img/headerphotos/me.jpg "Mark Jardine"
+[1]: https://d.pr/i/8iA5+ "Mark Jardine"
 [2]: /tags/Tapbots "Posts tagged 'Tapbots'"

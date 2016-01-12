@@ -25,10 +25,10 @@ His final quip is the best:
 
 And here's my situation:
 
-![Yep, still June. Sigh.](https://d.pr/i/Prby+ "Still Processing")
-<!-- {.screenshot} -->
+![Yep, still June. Sigh.][2]
 
-(hat tip [Mike Rundle][2])
+(hat tip [Mike Rundle][3])
 
 [1]: https://www.panic.com "Panic"
-[2]: https://twitter.com/mrgan/status/594178748439625728 "Link to Mrgan's tweet (retweeted by Mike Rundle)"
+[2]: https://d.pr/i/Prby+ "Still Processing"
+[3]: https://twitter.com/mrgan/status/594178748439625728 "Link to Mrgan's tweet (retweeted by Mike Rundle)"

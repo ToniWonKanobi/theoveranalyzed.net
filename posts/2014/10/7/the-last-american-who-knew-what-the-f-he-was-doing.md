@@ -2,7 +2,7 @@ Title: The Last American Who Knew What the F*** He Was Doing
 Date: 2014-10-07 12:00 
 Description:   
 Tags: Steve Jobs  
-Image: http://i.onionstatic.com/onion/1611/3/16x9/1600.jpg  
+Image: https://d.pr/i/1lIJc+  
 
 ![Steve Jobs][1]
 
@@ -30,7 +30,7 @@ This blog entry isn't a tribute to Steve as much as it is to the people whose op
 
 Thanks Steve 
 
-[1]: http://i.onionstatic.com/onion/1611/3/16x9/800.jpg "Steve Jobs"
+[1]: https://d.pr/i/1lIJc+ "Steve Jobs"
 [2]: http://www.theonion.com/article/last-american-who-knew-what-the-fuck-he-was-doing--26268 "The Onion on Steve Jobs's death"
 [3]: http://www.lg.com/us/cell-phones/lg-VX9100-Black-black-env2 "My pre-iPhone cellphone"
 [4]: http://www.everymac.com/systems/apple/macbook_pro/specs/macbook_pro_2.16_17.html "My 17-inch MacBook Pro specs"

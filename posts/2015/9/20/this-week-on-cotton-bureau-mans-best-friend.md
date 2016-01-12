@@ -5,7 +5,6 @@ Description: The designer is a man after my own heart, apparently 🐺
 Tags: Cotton Bureau, Dogs  
 Image: https://cottonbureau.com/img/products/6785_4cgo_2400.jpg  
 
-<figure>
-	<img src="https://cottonbureau.com/img/products/6785_4cgo_2400.jpg" alt="Man's Best Friend" title="'Man's Best Friend' on Cotton Bureau">
-	<figcaption><a href="http://twitter.com/Landonsoup" title="The designer on Twitter">Landon Campbell</a>: "An ode to our four legged friends."</figcaption>
-</figure>
+![Landon Campbell: An ode to our four legged friends.][1]
+
+[1]: https://cottonbureau.com/img/products/6785_4cgo_2400.jpg "'Man's Best Friend' on Cotton Bureau"

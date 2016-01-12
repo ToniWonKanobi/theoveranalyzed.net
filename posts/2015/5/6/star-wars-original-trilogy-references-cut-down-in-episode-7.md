@@ -12,7 +12,7 @@ Ethan Anderton, reporting for /Film:
 Fan service isn't a new concept in movie-making. Oftentimes, sequels, prequels, and franchise reboots---all can pay homage to previous works. Nerdy fans like that. 
 
 <figure>
-	<img src="http://www.nerdist.com/wp-content/uploads/2012/12/trek-hands-touching1.jpg" alt="Didn't seeing this make you so happy on the inside?" title="Didn't seeing this make you so happy on the inside?">
+	<img src="https://www.nerdist.com/wp-content/uploads/2012/12/trek-hands-touching1.jpg" alt="Didn't seeing this make you so happy on the inside?" title="Didn't seeing this make you so happy on the inside?">
 	<figcaption>Didn't seeing this make you so happy on the inside?</figcaption>
 </figure>
 

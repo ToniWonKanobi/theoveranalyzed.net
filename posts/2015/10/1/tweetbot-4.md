@@ -25,8 +25,8 @@ I can't comment on the new features for Tweetbot 4 on iPad because I don't have 
 This isn't so much a Tweetbot 4 feature as it is an iOS 9 feature. Still, props to Haddad for incorporating it into this newest version of his app. 
 
 <figure>
-	<img class="screenshot inlineTwo" src="https://d.pr/i/15zyw+" alt="Safari View Controller in Tweetbot 4" title="Safari View Controller in Tweetbot 4">
-	<img class="screenshot inlineTwo" src="https://d.pr/i/1dFgQ+" alt="Preview webview in Tweetbot 3" title="Preview webview in Tweetbot 3">
+	<img class="inlineTwo" src="https://d.pr/i/15zyw+" alt="Safari View Controller in Tweetbot 4" title="Safari View Controller in Tweetbot 4">
+	<img class="inlineTwo" src="https://d.pr/i/1dFgQ+" alt="Preview webview in Tweetbot 3" title="Preview webview in Tweetbot 3">
 	<figcaption>Tweetbot 4 uses <a href="https://developer.apple.com/videos/wwdc/2015/?id=504" title="Apple's Developer resource video explaining Safari View Controller in iOS 9">SFSafariViewController</a></figcaption>
 </figure>
 
@@ -51,8 +51,8 @@ It's broken down into two sections: Stats and Activity.
 Stats contains a section at the top of the viewport called Today's Activity. This section shows, in a large typeface, the number of favorited tweets, retweeted tweets, and new followees you have had for the day.
 
 <figure>
-	<img class="screenshot inlineTwo" src="https://d.pr/i/52Oc+" alt="Tweetbot 4 Activity tab, Stats section" title="Tweetbot 4 Activity tab, Stats section">
-	<img class="screenshot inlineTwo" src="https://d.pr/i/1fG8A+" alt="Tweetbot 4 Activity tab, Activity section" title="Tweetbot 4 Activity tab, Activity section">
+	<img class="inlineTwo" src="https://d.pr/i/52Oc+" alt="Tweetbot 4 Activity tab, Stats section" title="Tweetbot 4 Activity tab, Stats section">
+	<img class="inlineTwo" src="https://d.pr/i/1fG8A+" alt="Tweetbot 4 Activity tab, Activity section" title="Tweetbot 4 Activity tab, Activity section">
 	<figcaption>Tweetbot 4's Activity tab, showing the Stats and Activity section. Both views contain essentially the same information, just presented in a slightly different manner</figcaption>
 </figure>
 
@@ -65,8 +65,8 @@ Mark Jardine, Tapbots' designer for both iOS and Mac applications, didn't break 
 Tweetbot 4 adds splashes of color in the Timeline where gray existed before. Pictured above, the "tweet dropdown" view. In Tweetbot 4, the dropdown has the Tapbots' characteristic blue background, whereas the previous version 3 had the darker (and more subdued) gray background. I can't say I prefer the new look over the old one, but it certinaly doesn't detract. Perhaps Jardine wanted to implement a way to help the user visualize that the dropdown view was active?
 
 <figure>
-	<img class="screenshot inlineTwo" src="https://d.pr/i/J9lG+" alt="Tweetbot 4 Timeline" title="Tweetbot 4 Timeline">
-	<img class="screenshot inlineTwo" src="https://d.pr/i/17snp+" alt="Tweetbot 3 Timeline" title="Tweetbot 3 Timeline">
+	<img class="inlineTwo" src="https://d.pr/i/J9lG+" alt="Tweetbot 4 Timeline" title="Tweetbot 4 Timeline">
+	<img class="inlineTwo" src="https://d.pr/i/17snp+" alt="Tweetbot 3 Timeline" title="Tweetbot 3 Timeline">
 	<figcaption>Tweetbot 4 and Tweetbot 3 Timeline tab</figcaption>
 </figure>
 
@@ -75,9 +75,9 @@ Tweetbot 4 adds splashes of color in the Timeline where gray existed before. Pic
 Just as with the tweet dropdown views described above the tweet composer view got a slight tweaking. In version 4, the top right and top left borders of the composer are now radiused. In fact, the entire defined-height "composer box" from version 3 is gone. Previously, the composer height in Tweetbot 3 would resize dynamically until the length of the tweet started to encroach on the keyboard, and after which, the composition area would simply scroll. Now, the composer text field completely blends into the viewport (except for the aforementioned radiused top borders).
 
 <figure>
-	<img class="screenshot inlineThree" src="https://d.pr/i/15UMZ+" alt="Tweetbot 4's compose area" title="Tweetbot 4's compose area">
-	<img class="screenshot inlineThree" src="https://d.pr/i/CIzr+" alt="Tweetbot 3's compose area, pre height overflow" title="Tweetbot 3's compose area, pre height overflow">
-	<img class="screenshot inlineThree" src="https://d.pr/i/11Xpp+" alt="Tweetbot 3's compose area, post height overflow" title="Tweetbot 3's compose area, post height overflow">
+	<img class="inlineThree" src="https://d.pr/i/15UMZ+" alt="Tweetbot 4's compose area" title="Tweetbot 4's compose area">
+	<img class="inlineThree" src="https://d.pr/i/CIzr+" alt="Tweetbot 3's compose area, pre height overflow" title="Tweetbot 3's compose area, pre height overflow">
+	<img class="inlineThree" src="https://d.pr/i/11Xpp+" alt="Tweetbot 3's compose area, post height overflow" title="Tweetbot 3's compose area, post height overflow">
 	<figcaption>Compared to Tweetbot 3, Tweetbot 4's compose tweet view blends in more with the entire viewport</figcaption>
 </figure>
 
@@ -90,8 +90,8 @@ I spend a decent amount of time in my profile tab, though not for [the reason yo
 Besides the larger profile image, the most striking change to the profile tab in Tweetbot 4 is the promotion of Recent Tweets in lieu of Recent Photos. That section still exists in Tweetbot 4, but it's relegated to the bottom of the viewport, below the Recent Tweets section. I'm not sure of the utility of this view, as I'm often more interested in recent photos shared than recent tweets. (If I wanted to do that, I could just tap on the "Tweets" button above the "Recent" section.)
 
 <figure>
-	<img class="screenshot inlineTwo" src="https://d.pr/i/19aZw+" alt="Tweetbot 4 profile tab" title="Tweetbot 4 profile tab">
-	<img class="screenshot inlineTwo" src="https://d.pr/i/19owr+" alt="Tweetbot 3 profile tab" title="Tweetbot 3 profile tab">
+	<img class="inlineTwo" src="https://d.pr/i/19aZw+" alt="Tweetbot 4 profile tab" title="Tweetbot 4 profile tab">
+	<img class="inlineTwo" src="https://d.pr/i/19owr+" alt="Tweetbot 3 profile tab" title="Tweetbot 3 profile tab">
 	<figcaption>The profile tab in Tweetbot 4 enlarges the users background (banner) image, and prioritizes Recent Tweets, rather than Recent Photos as seen in Tweetbot 3</figcaption>
 </figure>
 
@@ -100,8 +100,8 @@ Besides the larger profile image, the most striking change to the profile tab in
 Generally speaking, Jardine has seen fit to increase the padding around almost all of the text elements within the app. Recall that before last year, the largest iPhone display was 4 inches. That doesn't leave a lot of room for white space flourishes and the ideal margin and padding spacing. Overall, this is a change I greatly welcome. It makes everything feel a bit more spacious than before. And since it seems logical that most of the potential Tweetbot 4 users already have bigger iPhones, this is probably a good design decision on Jardine's part.
 
 <figure>
-	<img class="screenshot inlineTwo" src="https://d.pr/i/fUNl+" alt="Tweetbot 4 padding" title="Tweetbot 4 padding">
-	<img class="screenshot inlineTwo" src="https://d.pr/i/1h10p+" alt="Tweetbot 3 padding" title="Tweetbot 3 padding">
+	<img class="inlineTwo" src="https://d.pr/i/fUNl+" alt="Tweetbot 4 padding" title="Tweetbot 4 padding">
+	<img class="inlineTwo" src="https://d.pr/i/1h10p+" alt="Tweetbot 3 padding" title="Tweetbot 3 padding">
 	<figcaption>In the Search tab, the increased padding around the query options is immediately apparent in Tweetbot 4. This is in contrast to the condensed text elements in Tweetbot 3.</figcaption>
 </figure>
 
@@ -112,8 +112,8 @@ Generally speaking, Jardine has seen fit to increase the padding around almost a
 Tweetbot has never been the [twitter client for typography lovers][15]. Indeed, Tweetbot 3 featured only two fonts: [Helvetica][16] (the system default for every iOS release besides iOS 9), and [Avenir][17]. I was hoping Tweetbot 4 would add at least *one* more typeface option but alas, no.
 
 <figure>
-	<img class="screenshot inlineTwo" src="https://d.pr/i/6g8R+" alt="Tweetbot 4 replaces Helvetica with San Francisco" title="Tweetbot 4 replaces Helvetica with San Francisco">
-	<img class="screenshot inlineTwo" src="https://d.pr/i/y3Vm+" alt="Tweetbot 4 and Helvetica" title="Tweetbot 4 and Helvetica">
+	<img class="inlineTwo" src="https://d.pr/i/6g8R+" alt="Tweetbot 4 replaces Helvetica with San Francisco" title="Tweetbot 4 replaces Helvetica with San Francisco">
+	<img class="inlineTwo" src="https://d.pr/i/y3Vm+" alt="Tweetbot 4 and Helvetica" title="Tweetbot 4 and Helvetica">
 	<figcaption>Still just two font choices for Tweetbot 4 <span style="font-style:normal">😐</span></figcaption>
 </figure>
 

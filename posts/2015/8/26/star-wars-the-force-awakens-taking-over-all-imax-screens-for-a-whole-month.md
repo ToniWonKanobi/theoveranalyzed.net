@@ -3,7 +3,7 @@ Date: 2015-08-26 10:59
 Link: http://www.slashfilm.com/the-force-awakens-imax/  
 Description: Looks like Episode VII will be getting an extended run of IMAX presentations. Too bad it likely won't be available in IMAX 2D.  
 Tags: Star Wars  
-Image: http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg  
+Image: https://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg  
 
 ![Star Wars: The Force Awakens poster][1]
 
@@ -33,7 +33,7 @@ Personally, I think 3D movies are nothing but headache-inducing. [I doubt I'm al
 
 Star Wars: The Force Awakens opens in both IMAX 3D and non-IMAX 3D versions December 18.
 
-[1]: http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg "'Star Wars: The Force Awakens' poster"
+[1]: https://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/starwars-forceawakens-logo-700x300.jpg "'Star Wars: The Force Awakens' poster"
 [2]: https://en.wikipedia.org/wiki/Imax "Wikipedia: IMAX"
 [3]: http://lifehacker.com/5430492/focus-on-the-action-to-avoid-headaches-during-3d-movies "How to avoid headaches in 3D movies (pointless)"
 [4]: /tags/Star%20Wars  "Posts tagged 'Star Wars'"

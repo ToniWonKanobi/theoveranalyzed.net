@@ -5,8 +5,7 @@ Description: We hate green bubbles, apparently.
 Tags: Culture, Apple  
 Image: https://cdn-images-1.medium.com/max/800/1*N4gZHcB8YLDSY5aM-ECbag.png  
 
-![Oh, green bubbles](https://cdn-images-1.medium.com/max/800/1*N4gZHcB8YLDSY5aM-ECbag.png "Oh, green bubbles")
-<!-- {.screenshot .iphone} -->
+![Oh, green bubbles][1]
 
 Paul Ford on Medium:
 
@@ -18,6 +17,7 @@ Simply put, I completely took for granted being able to have messages synced on 
 
 What a terrible time in my life. 
 
-(From [Daring Fireball][1])
+(From [Daring Fireball][2])
 
-[1]: http://daringfireball.net/linked/2015/02/12/being-green "Source post from John Gruber"
+[1]: https://cdn-images-1.medium.com/max/800/1*N4gZHcB8YLDSY5aM-ECbag.png "Oh, green bubbles"
+[2]: http://daringfireball.net/linked/2015/02/12/being-green "Source post from John Gruber"

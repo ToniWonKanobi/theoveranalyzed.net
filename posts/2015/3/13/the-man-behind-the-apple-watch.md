@@ -3,7 +3,7 @@ Date: 2015-03-13 14:00
 Link: http://howtospendit.ft.com/articles/77791-the-man-behind-the-apple-watch  
 Description: Jony Ive's current role at Apple is nothing but even more significant than during Steve Jobs's reign.  
 Tags: Apple Watch  
-Image: http://assets2.howtospendit.ft-static.com/images/41/c5/b6/41c5b648-f409-4be0-9ec5-d1c5ac006e58_seven_hundred.jpg  
+Image: https://d.pr/i/1d5Ha+  
 
 ![Jony Ive][1]
 
@@ -29,5 +29,5 @@ And on a more practical level, Foulkes had this to say about the strap options:
 
 So let that put to bed my fear that the link bracelet's 'one size fits all' did not really mean that the bracelet was non-adjustable.
 
-[1]: http://assets2.howtospendit.ft-static.com/images/41/c5/b6/41c5b648-f409-4be0-9ec5-d1c5ac006e58_seven_hundred.jpg "Jony Ive"
+[1]: https://d.pr/i/1d5Ha+ "Jony Ive"
 [2]: http://www.newyorker.com/magazine/2015/02/23/shape-things-come "Big piece about Jony Ive and his role at Apple"

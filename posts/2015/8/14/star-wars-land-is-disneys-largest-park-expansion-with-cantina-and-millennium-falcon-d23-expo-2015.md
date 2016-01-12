@@ -3,7 +3,7 @@ Date: 2015-08-15 13:06
 Link: http://www.slashfilm.com/star-wars-land/  
 Description: Looks like I have a reason to go to Disneyland now.  
 Tags: Star Wars  
-Image: http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/star-wars-land-concept-art-2.jpg  
+Image: https://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/star-wars-land-concept-art-2.jpg  
 
 Peter Sciretta, writing for /Film:
 
@@ -12,14 +12,16 @@ Peter Sciretta, writing for /Film:
 No word yet as to when the expansion should be finished.
 
 <figure>
-	<img src="http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/star-wars-land-concept-art-2.jpg" alt="Concept image for Star Wars Land" title="Concept image for Star Wars Land">
+	<img src="https://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/star-wars-land-concept-art-2.jpg" alt="Concept image for Star Wars Land" title="Concept image for Star Wars Land">
 	<figcaption><a href="http://www.imsdb.com/scripts/Star-Wars-A-New-Hope.html">"What a piece of junk."</a></figcaption>
 </figure>
 
-<aside class="update" id="date-of-completion">
+<aside class="update">
 
 ### Update: Date of Completion?
-<p class="updateTime"><time datetime="2015-08-17">August 17, 2015</time></p>
+
+August 17, 2015
+<!-- {.updatetime} -->
 
 On the topic of *when*, it seems that there's still no official word. [Peter Sciretta][1] today wrote further on the matter, offering his speculation as to the park's eventual opening.
 

@@ -2,7 +2,7 @@ Title: Christians Not Acting Like Christ
 Date: 2015-02-19 12:00  
 Description: Because "Love thy neighbor" should *also* apply to every other living thing on the planet.  
 Tags: Advocacy, Medicine  
-Video: http://www.foodwise.com.au/wp-content/uploads/2012/08/BACKGROUND-Animal-Welfare.jpg  
+Video: https://d.pr/i/1bYtE+  
 
 ![Piggies][1]
 
@@ -34,7 +34,7 @@ Her third-year research group wanted to explore how mostly Christian students at
 
 Problem was, higher-ups in the administration in both the School of Dentistry and the University as a whole thought Allison's research might paint the school in a bad light.[^5] So, in one fell swoop of bureaucracy, her research project was stifled before even starting.
 
-<p><em class="takeHome">What to make of this?</em></p>
+What to make of this?
 
 A lot of the animal advocacy stuff that crosses my path comes from the progressive-leaning world. Indeed, this is unsurprising. Liberals are generally for movements and causes that increase the welfare and equality for all humans. Why wouldn't they feel the same way toward animals?
 
@@ -42,7 +42,7 @@ When I read something by [PETA][6], or watch a YouTube video from [Mercy For Ani
 
 What is interesting about *this* piece by The Humane Society of The United States is that there are Christian themes brought into the discussion.
 
-<p><em class="takeHome">This was weird.</em></p>
+This was weird.
 
 Like many progressive ideas, animal advocacy is not particularly lauded by conservatives. Spend some time on your search engine of choice[^6] with queries like "[big ag][9]," or "[ag gag][10]," and you'll find that the major proponents for the current state of affairs in the agriculture industry are [Republicans][11] and their constituents. Also recall that a large amount of Christians lean traditionally conservative. 
 
@@ -95,7 +95,8 @@ It's far time the Christian world caught up with the secular world.
   
 It's far time Christians become the stewards that they profess to be.
 
-<p><em class="takeHome">It's far time Christians start acting like Christ.</em></p>
+*It's far time Christians start acting like Christ.*
+<!-- {.takehome} -->
 
 If you aren't ready to give up meat and/or dairy, try more humane varieties of such. Skip the grocery store and get grass-fed, pasture-raised beef. Try cage-free eggs[^16] over the regular ones. Start small. In only takes a spark.
 
@@ -122,7 +123,7 @@ If you aren't ready to give up meat and/or dairy, try more humane varieties of s
 [d]: http://www.amazon.com/ENTRUSTED-Christians-Environmental-Care-Dunbar/dp/0984539972?tag=theov0c-20 "'Entrusted' on Amazon"
 [e]: http://cms.uni-konstanz.de/leist/caat-europe/ "CAAT Europe"
 
-[1]: http://www.foodwise.com.au/wp-content/uploads/2012/08/BACKGROUND-Animal-Welfare.jpg "Piggies Source: Foodwise"
+[1]: https://d.pr/i/1bYtE+ "Piggies Source: Foodwise"
 [2]: http://www.rooterville.org "Rooterville, a sanctuary for animals"
 [3]: https://youtu.be/L-Va6F3iQFc "Eating Mercifully"
 [4]: http://www.cdapresents.com/ "The California Dental Association's annual convention in Anaheim, CA"

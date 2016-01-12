@@ -3,7 +3,7 @@ Date: 2015-02-18 07:45
 Link: http://www.relay.fm/inquisitive/27  
 Description: Another podcast, this one all about how the beginning of the App? Yes, please.  
 Tags: Podcasts, Apps  
-Image: http://is5.mzstatic.com/image/thumb/Music5/v4/13/39/06/133906f7-762b-f4ea-4976-3b62f6343f4e/source/10000x10000bb.jpg  
+Image: https://is5.mzstatic.com/image/thumb/Music5/v4/13/39/06/133906f7-762b-f4ea-4976-3b62f6343f4e/source/10000x10000bb.jpg  
 
 ![Inquisitive][1]
 
@@ -48,7 +48,7 @@ Be sure to check it out the new Inquisitive in your podcatcher of choice!
 
 [^1]: These guys also happen to be some of my favorite peeps to listen to on their own. So, this is bound to be amazing.
 
-[1]: http://is5.mzstatic.com/image/thumb/Music5/v4/13/39/06/133906f7-762b-f4ea-4976-3b62f6343f4e/source/10000x10000bb.jpg "Inquisitive"
+[1]: https://is5.mzstatic.com/image/thumb/Music5/v4/13/39/06/133906f7-762b-f4ea-4976-3b62f6343f4e/source/10000x10000bb.jpg "Inquisitive"
 [2]: http://www.extras.relay.fm/blog/2015/2/18/inquisitive-behind-the-app "Relay.fm introducing 'Behind the App'"
 [3]: https://tumblr.com/ "tumblr"
 [4]: http://www.instapaper.com "Instapaper for iOS"

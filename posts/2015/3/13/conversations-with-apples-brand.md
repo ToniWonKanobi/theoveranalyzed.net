@@ -5,8 +5,7 @@ Description: Apple through the decades.
 Tags: Apple  
 Image: https://d.pr/i/Npp2+  
 
-![Conversations with Apple's Brand](https://d.pr/i/Npp2+ "Conversations with Apple's Brand")
-<!-- {.screenshot} -->
+![Conversations with Apple's Brand][1]
 
 I haven't linked to much from Horace Dediu much on this site, mostly because I haven't been following him until a few days ago.[^1] He had some great thoughts on Apple's historical approach to technology in culture. 
 
@@ -29,3 +28,5 @@ Here's the take-away message:
 [^1]: For me, [Ben Thompson][a] has been fulfilling that corner of the Apple bloggosphere that deals with how Apple, culture, business, and the market all collide together.
 
 [a]: http://stratechery.com "Ben Thompson's blog"
+
+[1]: https://d.pr/i/Npp2+ "Conversations with Apple's Brand"

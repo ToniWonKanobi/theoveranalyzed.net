@@ -18,7 +18,9 @@ As you might expect, I have plenty of thoughts on the movie. However, I don't wa
 <aside class="update">
  
  ### Update: <i>The Force Awakens</i> Kills It
-<p class="updateTime"><time datetime="2015-12-20">December 20, 2015</time></p>
+
+December 20, 2015
+<!-- {.updatetime} -->
 
 Ethan Anderton, for [/Film][3]:
 
@@ -35,7 +37,9 @@ It's that good.
 <aside class="update">
 
  ### Update: <i>The Force Awakens</i> Is Still Killing It
-<p class="updateTime"><time datetime="2015-01-03">January 3, 2015</time></p>
+
+January 3, 2015
+<!-- {.updatetime} -->
 
 Ethan Anderton, again for [/Film][4]:
 
@@ -50,7 +54,10 @@ Ethan Anderton, again for [/Film][4]:
 </aside>
 
 [^1]: The situation at home is particularly precarious because Allison *insists* on asking questions surrounding pivotal characters. And, despite my best intentions, I fear I couldn't answer any of those questions without possibly letting a spoiler slip.
-	<p>If ever there were a movie containing a spoiler one should absolutely avoid at all costs, <i>The Force Awakens</i> would be it (<a href="https://en.wikipedia.org/wiki/The_Empire_Strikes_Back" title="Wikipedia: The Empire Strikes Back">this one</a> not withstanding).
+	
+	If ever there were a movie containing a spoiler one should absolutely avoid at all costs, <i>The Force Awakens</i> would be it ([this one][a] not withstanding).
+	
+[a]: https://en.wikipedia.org/wiki/The_Empire_Strikes_Back "Wikipedia: The Empire Strikes Back"
 	
 [1]: https://cdn0.vox-cdn.com/thumbor/r_eHmAxl4XDGsPCqaSBiKtlXzGQ=/0x35:2040x1395/800x536/cdn0.vox-cdn.com/uploads/chorus_image/image/48392735/des0135.PUB.4K.final.1267-2040.0.0.jpg "Star Wars The Force Awakens"
 [2]: http://www.forbes.com/sites/scottmendelson/2015/12/14/can-star-wars-the-force-awakens-live-up-to-the-hype-these-6-blockbusters-did/ "Forbes piece questioning The Force Awakens's ability to meet fans' expectations"

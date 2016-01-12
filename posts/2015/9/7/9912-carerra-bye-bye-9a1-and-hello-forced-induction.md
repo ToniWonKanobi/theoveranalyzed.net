@@ -2,10 +2,10 @@ Title: 991.2 Carerra: Bye Bye 9A1 and Hello Forced Induction
 Date: 2015-09-07 12:23  
 Description: It's official: the 991.2 Carrera will be turbocharged.  
 Tags: Porsche  
-Image: http://www.total911.com/wp-content/uploads/2015/09/P15_0676_rgb_a4.jpg  
+Image: https://d.pr/i/1aL11+  
 
 <figure>
-	<img src="http://www.total911.com/wp-content/uploads/2015/09/1800x1200xP15_0731_a4_rgb.jpg.pagespeed.ic.5nvRLkfZGK.jpg" alt="991.2 Carerra" title="991.2 Carerra">
+	<img src="https://d.pr/i/1h1tO+" alt="991.2 Carerra" title="991.2 Carerra">
 	<figcaption>991.2 Carerra S</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Admittedly, these rumors were [all but confirmed][5] via leaked photos and video
 [Yesterday][7], rumors became reality. The upcoming mid-cycle refresh for the 991 ushers in a new era of turbocharged powerplants for the base 911 and "S" variants.
 
 <figure>
-	<img src="http://www.total911.com/wp-content/uploads/2015/09/P15_0676_rgb_a4.jpg" alt="2016 911 and 911 S turbocharged motor" title="2016 911 and 911 S turbocharged motor">
+	<img src="https://d.pr/i/1aL11+" alt="2016 911 and 911 S turbocharged motor" title="2016 911 and 911 S turbocharged motor">
 	<figcaption>9A1, no more.</figcaption>
 </figure>
 

@@ -14,7 +14,9 @@ Star Wars Rebels, the [critically acclaimed][1] new series, concluded its first 
 <aside class="update">
 
 ### Update: Gellar to Play Leia?
-<p class="updateTime"><time datetime="2015-09-27">September 27, 2015</time></p>
+
+September 27, 2015
+<!-- {.updatetime} -->
 
 Maybe Gellar won't be playing Kanan's love interest, [after all][3]?
 
@@ -31,7 +33,9 @@ From an Instagram photo, here's Sarah Michelle Gellar:
 <aside class="update">
 
 ### Update: Nope, She's Not Playing Leia
-<p class="updateTime"><time datetime="2015-10-02">October 2, 2015</time></p>
+
+October 2, 2015
+<!-- {.updatetime} -->
 
 Keely Flaherty, for [BuzzFeed][10]:
 

@@ -47,7 +47,8 @@ But the gist of conservatives' argument regarding regulation is well exemplified
 
 A more general synopsis of their view of regulation: 
 
-<p><em class="takeHome">The more red tape created by the government, the less able and willing business are to, well, do business.</em></p>
+*The more red tape created by the government, the less able and willing business are to, well, do business.*
+<!-- {.takehome} -->
 
 This can hurt consumers because it actually decreases competition, which is, in case you forgot, one of the bedrock principles of Adam Smith's wonderful ['ism][9] for which we in the US currently subscribe.[^9] Costco as an entity carries with it a certain amount of controversy,[^10] but let us roll with the above scenario for the purposes of discussion. If Costco does not want to bear the literal cost of increased regulation in Oklahoma (and who wants to be taxed?), it doesn't have to. I can skip altogether doing business in Oklahoma. Problem is, it is consumers who lose out. They can't buy goods in bulk for cheaper unit prices without Costco being in town. And, concomitantly, without Costco, there is no incentive for the 'smaller guys' to adequately price their goods to compete with Costco on value. Again, consumers are the ones to lose out, paying theoretically higher prices than they would need to pay in a competitive market.
 
@@ -120,7 +121,9 @@ Sottek, on the prospects of the FCC reclassifying wireless as well (same article
 <aside class="update">
 
 ### Update: Victory
-<p class="updateTime"><time datetime="2015-02-04">February 4, 2015</time></p>
+
+February 4, 2015
+<!-- {.updatetime} -->
 
 Sottek, in a [later piece][25] for The Verge:
 
@@ -133,7 +136,9 @@ Finally 🐺
 <aside class="update">
 
 ### Another Update, Ten Minutes After The Previous One: Victory Part II
-<p class="updateTime"><time datetime="2015-02-04">February 4, 2015</time></p>
+
+February 4, 2015
+<!-- {.updatetime} -->
 
 And Jacob Kastrenakes, also for [The Verge][26]:
 

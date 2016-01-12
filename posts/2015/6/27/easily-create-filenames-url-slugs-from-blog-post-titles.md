@@ -112,9 +112,7 @@ Please make the appropriate changes for your system and try again.
 Anthonys-MacBook:Unidecode-0.04.18 Anthony$  
 ```
 
-Brett Terpstra's suggestion ended up being the winner:
-
-<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328" title="Brett Terpstra's response to me">June 27, 2015</a></blockquote>Ah. [Slugify][6]. I went back and double-checked Dr. Drang's script. It was basically leveraging Slugify.
+Brett Terpstra's suggestion ended up being the winner:<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328" title="Brett Terpstra's response to me">June 27, 2015</a></blockquote>Ah. [Slugify][6]. I went back and double-checked Dr. Drang's script. It was basically leveraging Slugify.
 
 After a bit more searching, I found this [page][7], in which Alex Plumb shared his [AppleScript][8], cribbed from [two][9] other AppleScripts he found elsewhere online.
 
@@ -207,9 +205,7 @@ set theresult to replace_chars(theresult, "\"", "")
 set theresult to change_case(theresult)
 ```
 
-And here's a screenshot of the workflow (it's actually a Service):
-
-![Make URL Slug.workflow](https://d.pr/i/107X5+ "Finished workflow")
+And here's a screenshot of the workflow (it's actually a Service):![Make URL Slug.workflow][10]
 
 ### Explanation
 
@@ -217,7 +213,7 @@ Essentially, what `Make URL Slug.workflow` does is take selected text and automa
 
 I also assigned a keyboard shortcut to the service, so that I don't have to invoke the 'right-click' submenu.
 
-![Shift-Option-Command-R](https://d.pr/i/1lBKU+ "Keyboard shortcut for Make URL Slug.workflow")
+![Shift-Option-Command-R][11]
 
 This couldn't get any easier.
 
@@ -229,12 +225,14 @@ This couldn't get any easier.
 
 ### Source
 
-You can check out `Make URL Slug.workflow` on [GitHub][10].
+You can check out `Make URL Slug.workflow` on [GitHub][12].
 
 <aside class="update">
 
 ### Update: Fixed Some Errors in Make URL Slug
-<p class="updateTime"><time datetime="2015-11-21">November 21, 2015</time></p>
+
+November 21, 2015
+<!-- {.updatetime} -->
 
 Found some errors in my script, such as not removing commas. So, I fixed that. (For posterity's sake, I left the code above alone.)
 
@@ -249,4 +247,6 @@ Found some errors in my script, such as not removing commas. So, I fixed that. (
 [7]: http://superuser.com/questions/635351/process-clipboard-content-on-mac-os "Superuser: Process clipboard content on Mac OS?"
 [8]: http://superuser.com/revisions/635370/2 "The basis for my version of Slugify"
 [9]: http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html "AppleScript tutorial"
-[10]: https://gist.github.com/ToniWonKanobi/a1a761a95fcc32625370#file-make-url-slug-workflow "View my `Make URL Slug.workflow` on GitHub"
+[10]: https://d.pr/i/107X5+ "Finished workflow"
+[11]: https://d.pr/i/1lBKU+ "Keyboard shortcut for Make URL Slug.workflow"
+[12]: https://gist.github.com/ToniWonKanobi/a1a761a95fcc32625370#file-make-url-slug-workflow "View my `Make URL Slug.workflow` on GitHub"

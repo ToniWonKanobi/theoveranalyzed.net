@@ -2,7 +2,7 @@ Title: Just Get This
 Date: 2015-08-10 19:41  
 Description: Do you have anyone in your life who is *super* particular about what is purchased for them? Odds are that they're a nightmare to shop for. I know how it is, because I am that person.  
 Tags: Podcasts  
-Image: http://m.memegen.com/c2brh8.jpg  
+Image: https://d.pr/i/EqSD+  
 
 I am impossible to shop for.
 
@@ -16,7 +16,8 @@ The first theory is that I have just become more picky as I get older. This is t
 
 Fast-forward: if you were to examine every corner of my life as it is today, you would fine that almost all of the decisions I have made---be it which movie to buy, or what t-shirt to get---those were all very intentional decisions. My [Precision bass][2] isn't [Faded Sonic Blue][3] because I liked the color.[^2] No, that color was chosen because I knew I would eventually have an [Olympic White][4] [Jazz bass][5] in the stable, and I didn't want them to be the exact same color.
 
-<p><em class="takeHome">It's the thought that counts</em></p>
+*It's the thought that counts*
+<!-- {.takehome} -->
 
 The better theory is that I have simply been repressing my dissatisfaction with past gifts, instead masking them with fake excitement. This is by far the more upsetting theory, because it would seem to suggest that *all* of the past gifts I had received were bad ones. I can picture my friends and family reading this thinking, "Did he like that gift I gave him, or did he hate it?" Fret not: this has not been the story my life. Have there been some duds? Surely.[^3]
 
@@ -32,7 +33,8 @@ That's why this past week's episode of the [Accidental Tech Podcast][6] was so f
 	
 John Siracusa's hypothetical scenario of someone wanting to buy Marco coffee was fitting. Marco is a [coffee snob][7] in the truest sense of the term. Consider this: upon hearing about his love for coffee, his 80-year-old aunt decides to go into Target to get him "[coffee][8]." In the ballpark (sort-of), but not *quite* in the vicinity, right?
 
-<p><em class="takeHome">Let me just tell you exactly what to get. Just get this.</em></p>
+*Let me just tell you exactly what to get. Just get this.*
+<!-- {.takehome} -->
 
 I can't count the times that someone has wanted to buy something for me, and even after being hyper-specific about the intricacies of that thing, what I eventually received was not *precisely* what I had asked for.[^4] Now, sometimes the surprise is actually better than what I had asked for! I remember when I was first married, I accidentally sent my iPod Touch through the washing machine. I asked my mom for another iPod Touch for Christmas. I even specified that 8GB was enough.[^5] "In other words mom, 'Don't get the big 32GB model.'" Save mom some bucks, yeah? Well, when Christmas finally rolled around that year, mom did the unthinkable. She got me the 32GB model. Pleasant surprise.
 

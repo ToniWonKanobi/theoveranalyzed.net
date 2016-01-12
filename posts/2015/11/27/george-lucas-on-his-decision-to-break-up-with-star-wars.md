@@ -3,7 +3,7 @@ Date: 2015-11-27  10:01
 Link: http://www.cbsnews.com/news/george-lucas-on-why-he-is-done-directing-star-wars/  
 Description: He still exists?  
 Tags: Star Wars  
-Image: http://cbsnews1.cbsistatic.com/hub/i/r/2015/11/19/3f72b833-f7b3-4c39-91a8-b0288aff4e0b/thumbnail/620x350/75795c752779990cd62bdbd12ba5ee01/george-lucas.jpg  
+Image: https://d.pr/i/oxJl+  
 
 ![Oh, George.][1]
 

@@ -28,7 +28,9 @@ Sounds about as worth it as [The Apple Tax™][1].
 <aside class="update">
 
 ### Update: GT4 Clubsport Edition Will Be PDK Only
-<p class="updateTime"><time datetime="2015-10-06">October 6, 2015</time></p>
+
+October 6, 2015
+<!-- {.updatetime} -->
 
 <del>He</del>Porsche giveth, and Porsche taketh away, apparently.
 

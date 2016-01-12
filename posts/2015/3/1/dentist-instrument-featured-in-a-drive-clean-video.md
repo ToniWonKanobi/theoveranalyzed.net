@@ -14,7 +14,8 @@ I've enjoyed watching almost all of his uploads not only because of their inform
 
 But, that's not the only reason I enjoy his videos.
 
-<p><em class="takeHome">It's all about the cars</em></p>
+*It's all about the cars*
+<!-- {.takehome} -->
 
 He[^1] and his company [AMMO NYC][7] have serviced some of [the most special cars][8] out there. And while I love the ol' [Everyday Driver][9][^2] or [Chris Harris][10] review as much as the next guy, there's no replacement for Kosilla's [up-close-and-personal takes on some amazing pieces of automotive engineering][11].
 
@@ -39,9 +40,13 @@ Every once in a while something like this will come up, and its interesting to n
 [^1]: Larry recently bought a 964 C4. Several of his videos have focused on restoring and modifying (hot rodding) his old 911. Obviously, those are my favorite.
 [^2]: Especially [this one][a]
 [^3]: In my younger days of internet-ing, I would have taken one look at CoachTrim's website and thought, "Man, these guys must have a terribly junky operation going on, because their website is atrocious." Don't get me wrong: their website is definitely atrocious. But I watched the video. And it left me with this: there couldn't be a finer example out there of great guys doing great work in their field.
-	<p>Which leads me to this question: <em>Who cares about the website!?</em></p><p style="display:inline">Based on my own anecdotal research on the internet, it seems the absolute <em>best</em> shops would rather be practicing their trade than spending money on web design. It's like all those hole-in-the-wall restaurants you might frequent: no amount of trendy lighting will ever convince me that the local Chipotle would beat out <a href="http://www.urbanspoon.com/r/267/1196544/restaurant/Inland-Empire/Marias-Cafe-Colton" title="A great Mexican restaurant in Colton, CA">Maria's Cafe</a> for Mexican-fare.</p>
+
+	Which leads me to this question: *Who cares about the website!?*
+	
+	Based on my own anecdotal research on the internet, it seems the absolute *best* shops would rather be practicing their trade than spending money on web design. It's like all those hole-in-the-wall restaurants you might frequent: no amount of trendy lighting will ever convince me that the local Chipotle would beat out [Maria's Cafe][b] for Mexican-fare.
 
 [a]: https://vimeo.com/ondemand/50yearsofthe911 "Everyday Driver: '50 Years of the 911'"
+[b]: http://www.urbanspoon.com/r/267/1196544/restaurant/Inland-Empire/Marias-Cafe-Colton "A great Mexican restaurant in Colton, CA"
 
 [1]: http://www.youtube.com/playlist?list=PL96D52AF54166C886 "/DRIVE CLEAN section of /DRIVE's YouTube channel"
 [2]: https://twitter.com/LarryKosilla "Larry Kosilla on Twitter"
@@ -57,6 +62,6 @@ Every once in a while something like this will come up, and its interesting to n
 [12]: http://www.advancedleatherworkshop.com/coachtrimshopindex.html "These are the guys who helped re-upholster Kosilla's seats"
 [13]: https://d.pr/i/1aPte+ "Rubber dam hole punch?"
 [14]: https://d.pr/i/tdSY+ "More rubber dam hole punch?"
-[15]: http://www.robinsonhealthcare.com/WebRoot/Store/Shops/DemoShop/images/8146/8146_Instrapac_Ainsworth_Rubber_Dam_Punch_h.png "Rubber dam punch for sale"
+[15]: https://d.pr/i/1fUri+ "Rubber dam punch for sale"
 [16]: https://en.wikipedia.org/wiki/Dental_dam "Wikipedia: Dental dam"
 [17]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ZahnarztAlen5690_Kofferdam.JPG/800px-ZahnarztAlen5690_Kofferdam.JPG "Stock photo of a poor soul in a rubber dam"

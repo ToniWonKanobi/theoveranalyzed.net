@@ -3,7 +3,7 @@ Date: 2015-03-15 10:00
 Link: http://www.frerejones.com/blog/typeface-mechanics-001/  
 Description: Nothing like a good primer on typefaces from a typeface legend.  
 Tags: Typography  
-Image: http://www.frerejones.com/assets/square-round-06.gif  
+Image: https://s3.amazonaws.com/frere-jones-web/images/attachments/000/000/080/medium/square-round-06.gif?1448923994  
 
 ![Square and round shapes: mathematically equal, or optically equal][1]
 
@@ -13,7 +13,7 @@ If you care about design, this is a great read, and Frere-Jones' is a great blog
 
 (From [Daring Fireball][5])
 
-[1]: http://www.frerejones.com/assets/square-round-06.gif "Square and round shapes: mathematically equal, or optically equal"
+[1]: https://s3.amazonaws.com/frere-jones-web/images/attachments/000/000/080/medium/square-round-06.gif?1448923994 "Square and round shapes: mathematically equal, or optically equal"
 [2]: http://www.frerejones.com/ "Tobias Frere-Jones blog"
 [3]: https://en.wikipedia.org/wiki/Hoefler_%26_Co.#Conflict_between_Hoefler_and_Frere-Jones "Wikipedia: Conflict between Hoefer and Frere-Jones"
 [4]: http://www.typography.com "Hoefler & Co."

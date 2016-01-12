@@ -7,13 +7,13 @@ Image: https://d.pr/i/Uu8M+
 
 Ben Lovejoy, writing for 9to5Mac, recently featured a nifty infographic detailing the UI/UX navigation/hierarchy of Apple Watch:
 
-![Apple Watch UI seems overly complicated, but what do I know?](https://d.pr/i/Uu8M+ "Apple Watch UI")
-<!-- {.screenshot} -->
+![Apple Watch UI seems overly complicated, but what do I know?][1]
 
-Last week, I spent a few minutes in the Apple Store [trying on the various Apple Watches][1]. 
+Last week, I spent a few minutes in the Apple Store [trying on the various Apple Watches][2]. 
 
 I assume most people's Apple Watch experience included some amount of playing with the user interface. I made a conscious effort to avoid doing just that, because whenever I get a new device, the most fun I have with it occurs during the first week of usage, when I get to discover all the ways I can interact with the device. I didn't want to ruin the fun I will have when I actually take delivery of the Watch, in June.
 
 The picture above is a nice primer for June.
 
-[1]: /2015/4/10/my-apple-watch-try-on-session-and-that-keyboard "My first experiences with the Apple Watch"
+[1]: https://d.pr/i/Uu8M+ "Apple Watch UI"
+[2]: /2015/4/10/my-apple-watch-try-on-session-and-that-keyboard "My first experiences with the Apple Watch"

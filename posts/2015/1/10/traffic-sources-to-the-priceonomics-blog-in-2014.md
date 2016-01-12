@@ -3,7 +3,7 @@ Date: 2015-01-10 18:22
 Link: http://priceonomics.com/traffic-sources-to-the-priceonomics-blog-in-2014/  
 Description: Facebook truly doesn't matter.  
 Tags: Blogging, Facebook  
-Image: http://pix-media.s3.amazonaws.com/blog/879/Screenshot2015-01-0809.45.09.png  
+Image: https://pix-media.s3.amazonaws.com/blog/879/Screenshot2015-01-0809.45.09.png  
 
 John Gruber recently [linked][1] to an article from Pricenomics regarding traffic to its blog. Here's a quote Gruber selected:
 
@@ -14,7 +14,9 @@ In case anyone wondered why this site has no social media presence on Facebook, 
 <aside class="update">
 
 ### Update: Facebook, After All
-<p class="updateTime"><time datetime="2015-06-01">June 1, 2015</time></p>
+
+June 1, 2015
+<!-- {.updatetime} -->
 
 Since the end of May of 2015, [TheOverAnalyzed is on Facebook][2]. It's basically an automated account. But if Ben Thompson thinks it's worth it, I should too.
 

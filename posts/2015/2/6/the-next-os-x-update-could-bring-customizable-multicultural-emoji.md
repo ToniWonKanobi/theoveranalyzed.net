@@ -11,7 +11,7 @@ Nathan Ingraham writing for The Verge:
 
 Here is a screenshot of the placeholder emojis Ingraham refers to:
 
-![Placeholder emojis](https://d.pr/i/1fbKg+ "Emoji placeholders")
+![Placeholder emojis][1]
 <!-- {style="max-width: 300px;"} -->
 
 He continues:
@@ -22,5 +22,4 @@ Finally™[^1]
 
 [^1]: Truthfully, though, I am a big fan of [David Smith's][a] 3rd party keyboard [Emoji++][b] and have been using that as my main emoji keyboard for a while.
 
-[a]: http://david-smith.org/blog/2014/10/02/introducing-emoji-plus-plus/ "Developer of Emoji++"
-[b]: https://itunes.apple.com/us/app/emoji++-fast-emoji-keyboard/id919234935?at=1l3vx9s "Emoji++ on the App Store"
+[1]: https://d.pr/i/1fbKg+ "Emoji placeholders"

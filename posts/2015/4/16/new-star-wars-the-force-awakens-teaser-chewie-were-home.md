@@ -22,7 +22,9 @@ Video: https://youtu.be/ngElkyQ6Rhs
 <aside class="update">
 
 ### Update: Alternate Version of Trailer
-<p class="updateTime"><time datetime="2015-08-10">August 10, 2015</time></p>
+
+August 10, 2015
+<!-- {.updatetime} -->
 
 From Star Wars Korea, here's an [alternate version][3] of the trailer, which includes a few extra bits not found in the North American version.
 

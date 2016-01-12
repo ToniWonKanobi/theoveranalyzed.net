@@ -19,8 +19,7 @@ More from Orlove:
 
 And in case your mental currency conversion skills are about as good as mine:[^2]
 
-![Calcbot Conversion](https://d.pr/i/17PCq+ "Calculating the conversion")
-<!-- {.screenshot .iphone} -->
+![Calcbot Conversion][1]
 
 $203,193.
 
@@ -30,7 +29,7 @@ Yikes 🇩🇪
 
 ### Update: Another Take
 
-[Total 911][1] has an even better look that Jalopnik. Head over there to check it out.
+[Total 911][2] has an even better look that Jalopnik. Head over there to check it out.
 
 </aside>
 
@@ -38,13 +37,14 @@ Yikes 🇩🇪
 
 ### Update: Video
 
-And here's a [video][2] they [featured][3] from Porsche.
+And here's a [video][3] they [featured][4] from Porsche.
 
 </aside>
 
 [^1]: And the pictures in the article only show the flappy box
 [^2]: Bad, in other words
 
-[1]: http://www.total911.com/new-porsche-911-gt3-rs-launched-in-geneva/ "Total 911 previews the 991 GT3 RS"
-[2]: https://youtu.be/XQh8qCZWOEw "Porsche 991 GT3 RS press film"
-[3]: http://www.total911.com/see-the-new-porsche-991-gt3-rs-in-action-on-road-and-track/ "Total 911 linking to Road & Track's take on the new 991 GT3 RS"
+[1]: https://d.pr/i/17PCq+ "Calculating the conversion"
+[2]: http://www.total911.com/new-porsche-911-gt3-rs-launched-in-geneva/ "Total 911 previews the 991 GT3 RS"
+[3]: https://youtu.be/XQh8qCZWOEw "Porsche 991 GT3 RS press film"
+[4]: http://www.total911.com/see-the-new-porsche-991-gt3-rs-in-action-on-road-and-track/ "Total 911 linking to Road & Track's take on the new 991 GT3 RS"

@@ -1,6 +1,6 @@
 Title: The Newsletter  
 Description: This page talks about how to subscribe to TheOverAnalyzed Newsletter  
-CSS: mailchimp.css  
+CSS: /css/newsletter.css  
 
 ### Why a Newsletter?
 

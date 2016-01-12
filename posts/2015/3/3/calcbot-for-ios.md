@@ -5,13 +5,14 @@ Description: The Tapbots team is at it again. They've finally updated their vene
 Tags: Apps, Tapbots  
 Image: https://d.pr/i/14Ilo+  
 
-![Calcbot for iOS](http://toolsandtoys.net/wp-content/uploads/2015/02/devices.png "Calcbot for iOS")
+![Calcbot for iOS][1]
 
->Let’s just say, it’s earned a place on my home screen.
+> Let’s just say, it’s earned a place on my home screen.
 
-Mine too, guys, [mine too.][1]
+Mine too, guys, [mine too.][2]
 
-[Calcbot][2] is available now.
+[Calcbot][3] is available now.
 
-[1]: https://d.pr/i/12uWj+ "Screenshot of my current Home Screen setup"
-[2]: https://itunes.apple.com/us/app/calcbot-intelligent-calculator/id376694347?mt=8&at=1l3vx9s "Calcbot on the App Store"
+[1]: https://d.pr/i/14Ilo+ "Calcbot for iOS"
+[2]: https://d.pr/i/12uWj+ "Screenshot of my current Home Screen setup"
+[3]: https://itunes.apple.com/us/app/calcbot-intelligent-calculator/id376694347?mt=8&at=1l3vx9s "Calcbot on the App Store"
