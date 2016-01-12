@@ -112,7 +112,11 @@ Please make the appropriate changes for your system and try again.
 Anthonys-MacBook:Unidecode-0.04.18 Anthony$  
 ```
 
-Brett Terpstra's suggestion ended up being the winner:<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328" title="Brett Terpstra's response to me">June 27, 2015</a></blockquote>Ah. [Slugify][6]. I went back and double-checked Dr. Drang's script. It was basically leveraging Slugify.
+Brett Terpstra's suggestion ended up being the winner:
+
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328" title="Brett Terpstra's response to me">June 27, 2015</a></blockquote>
+
+Ah. [Slugify][6]. I went back and double-checked Dr. Drang's script. It was basically leveraging Slugify.
 
 After a bit more searching, I found this [page][7], in which Alex Plumb shared his [AppleScript][8], cribbed from [two][9] other AppleScripts he found elsewhere online.
 

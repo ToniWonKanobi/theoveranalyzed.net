@@ -146,7 +146,7 @@ During the two solid weeks I spent transitioning to Camel, most of my time dealt
  ### Update: MultiMarkdown-style Metadata in Camel
  
 November 16, 2015
-<!-- {updatetime} -->
+<!-- {.updatetime} -->
 
 Casey kindly added [MultiMarkdown-style metadata to Camel][28]!
 

@@ -24,7 +24,9 @@ $ heroku login$ -bash: heroku: command not found
 
 Oh yeah, that `-bash` problem.
 
-In a moment of desperation, I went to Twitter:<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/caseyliss" title="Casey Liss on Twitter">@caseyliss</a> Have you noticed that the Heroku CLI is broken in El Capitan? I thought <a href="https://twitter.com/heroku" title="Heroku on Twitter">@heroku</a> would have fixed that by now… (Rootless thing?)</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/653741132627578880" title="Asking Casey about the Toolbelt">October 13, 2015</a></blockquote>
+In a moment of desperation, I went to Twitter:
+
+<blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/caseyliss" title="Casey Liss on Twitter">@caseyliss</a> Have you noticed that the Heroku CLI is broken in El Capitan? I thought <a href="https://twitter.com/heroku" title="Heroku on Twitter">@heroku</a> would have fixed that by now… (Rootless thing?)</p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/653741132627578880" title="Asking Casey about the Toolbelt">October 13, 2015</a></blockquote>
 
 And, in true newbie fashion, less than a minute after Tweeting my question, I stumbled onto Heroku's GitHub repository, where a [pull request][4] had been initiated by someone experiencing the same problem as me!
 

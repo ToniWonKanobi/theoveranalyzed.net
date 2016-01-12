@@ -6,7 +6,6 @@ Tags: The Iron Giant
 Image: https://pbs.twimg.com/media/CJaFt2SUsAAqIv_.jpg  
 
 ![A portion of the theatrical release poster][1]
-</figure>
 
 While not an initial success at the [box office][2], [Brad Bird][3]'s 1999 animated feature [The Iron Giant][4] has stood the test of time, becoming somewhat of a [cult classic][5] in the years since its release.
 
