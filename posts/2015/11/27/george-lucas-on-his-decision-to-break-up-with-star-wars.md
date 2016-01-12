@@ -13,5 +13,5 @@ Good riddance.
 
 (via [Jason Kottke][2])
 
-[1]: http://cbsnews1.cbsistatic.com/hub/i/r/2015/11/19/3f72b833-f7b3-4c39-91a8-b0288aff4e0b/thumbnail/620x350/75795c752779990cd62bdbd12ba5ee01/george-lucas.jpg "Oh, George."
+[1]: https://d.pr/i/oxJl+ "Oh, George."
 [2]: http://kottke.org/15/11/lucas-on-the-star-wars-divorce "Source post from Jason Kottke"
