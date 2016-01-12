@@ -2,7 +2,7 @@ Title: My Take on Net Neutrality
 Date: 2015-02-03 09:00  
 Description: What's all the hubbub about? Is Net Neutrality *that* important? Well, only if you value choices and a decent internet.  
 Tags: Net Neutrality  
-Image: http2://d.pr/i/1guox+  
+Image: https://d.pr/i/1guox+  
 
 ![Net Neutrality][1]
 
@@ -179,7 +179,7 @@ This is just crazy. It's like a dream come true for net neutrality advocates.
 [k]: http://www.cnet.com/news/comcast-apologizes-after-re-naming-customer-with-expletive/ "Cnet on Comcast sucking"
 [l]: http://www.marco.org/2015/01/04/apple-lost-functional-high-ground "Marco Arment's infamous post on the falling quality standards at Apple"
 
-[1]: http2://d.pr/i/1guox+ "Net Neutrality"
+[1]: https://d.pr/i/1guox+ "Net Neutrality"
 [2]: https://www.backblaze.com/blog/broadband-getting-broader/ "BackBlaze on the FCC's decision to redefine 'broadband' in America"
 [3]: https://gigaom.com/2015/01/29/bam-the-fcc-just-defined-broadband-as-25-mbps-down-and-4-mbps-up/ "GigaOM on the FCC re-defining 'broadband'"
 [4]: http://gizmodo.com/fcc-redefines-broadband-to-bring-you-faster-internet-1682516928 "Gizmodo on the FCC re-defining 'broadband'"
