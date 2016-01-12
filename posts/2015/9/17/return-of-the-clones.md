@@ -11,7 +11,7 @@ From the [Star Wars YouTube channel][1]:
 > Clone troopers were first introduced in Star Wars: Attack of the Clones as highly-skilled combatants that followed any order without questioning its morality. But that has slowly changed over the years, most notably with the character of Captain Rex in Star Wars: The Clone Wars. Now everyone’s favorite clone is set to make his debut in Star Wars Rebels, and alongside him are two more Republic veterans who also don’t exactly see eye-to-eye with the Empire.
 
 <figure>
-	<img src="http://rebelsreport.com/wp-content/uploads/2015/09/image003.jpg" alt="Rex and a few of his buddies." title="Rex and a few of his buddies.">
+	<img src="https://d.pr/i/18dJH+" alt="Rex and a few of his buddies." title="Rex and a few of his buddies.">
 	<figcaption><a href="http://starwars.wikia.com/wiki/CT-7567" title="Clonetrooper 'Rex'">Rex</a> and a few of his buddies seem to be an integral part of Season 2</figcaption>
 </figure>
 
