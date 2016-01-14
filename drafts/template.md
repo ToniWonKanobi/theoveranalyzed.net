@@ -15,6 +15,7 @@ CSS: blah
 	});
 </script>
 
+<div class="table">
 <figure>
 
 | First Header  | Second Header | Third Header         |
@@ -25,6 +26,7 @@ CSS: blah
 
 <figcaption>Caption</figcaption>
 </figure>
+</div>
 
 <aside class="update">
  

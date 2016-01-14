@@ -237,7 +237,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
     display: inline-block;
     max-height: 15em;
     /* padding: 1.1em 1.3em 1.2em; */
-    padding: 0 3em 0 3em;
+    padding: 0 2em 0 2em;
     box-sizing: inherit;
     overflow: auto;
     -webkit-overflow-scrolling: touch;
@@ -299,8 +299,8 @@ http://bigfootjs.com/download/bigfoot-number.zip */
 .bigfoot-footnote__button {
     position: relative;
     /* height: 0.95em;
-                                width: 1.5em;
-                                border-radius: 0.475em; */
+                                    width: 1.5em;
+                                    border-radius: 0.475em; */
     height: 1em;
     width: 1em;
     border-radius: .5em
