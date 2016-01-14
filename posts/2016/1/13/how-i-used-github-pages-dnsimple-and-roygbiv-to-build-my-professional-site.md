@@ -8,7 +8,7 @@ Image: https://d.pr/i/w8T4+
 
 A few days ago I [linked][2] to my professional site, <http://anthonycraigdds.com>.
 
-Although the entire site only weights 461 KB, and although it is only as single "page" with a more-or-less centered layout, it took me a while to get up and running because I had to learn some things. That, of course, led to some experimentation with DNS, etc. You'll see.
+Although the entire site only weighs 461 KB, and although it is only as single "page" with a more-or-less centered layout, it took me a while to get up and running because I had to learn some things. That, of course, led to some experimentation with DNS, etc. You'll see.
 
 ### GitHub Pages
 
