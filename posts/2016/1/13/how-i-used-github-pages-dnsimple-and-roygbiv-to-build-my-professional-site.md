@@ -1,5 +1,5 @@
 Title: How I Used GitHub Pages, DNSimple, and ROYGBIV to Build My Professional Site  
-Date: 2015-01-13 19:40  
+Date: 2016-01-13 19:40  
 Description: Here's how I built my dental website.  
 Tags: Web Design, Dentistry  
 Image: https://d.pr/i/w8T4+  

@@ -1,5 +1,5 @@
 Title: Twitter, Textshots, and Linking  
-Date: 2015-01-13 22:47  
+Date: 2016-01-13 22:47  
 Link: http://leancrew.com/all-this/2016/01/twitter-textshots-and-linking/  
 Description: Dr. Drang has some thoughts on Twitter's rumored 10k-character tweets.  
 Tags: Twitter, Blogging  
