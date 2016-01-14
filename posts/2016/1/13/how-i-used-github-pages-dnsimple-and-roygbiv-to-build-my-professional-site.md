@@ -192,7 +192,7 @@ Oh, and if you need some dental help, [come see me][18].
 
 [a]: https://konklone.com/post/github-pages-now-sorta-supports-https-so-use-it "'GitHub Pages Now (Sorta) Supports HTTPS, So Use It'"
 
-[1]: https://d.pr/i/w8T4+ "I hate this page"
+[1]: https://d.pr/i/w8T4+ "GitHub is my new jam."
 [2]: /2016/1/3/my-second-website-anthony-craig-dds "My linked post to my professional website"
 [3]: /tags/Camel "Posts tagged 'Camel'"
 [4]: https://github.com/ToniWonKanobi "Me on GitHub"
@@ -201,7 +201,7 @@ Oh, and if you need some dental help, [come see me][18].
 [7]: http://www.manton.org/2016/01/dns-consolidation.html "Manton Reece's blog post mentioning DNSimple"
 [8]: https://dnsimple.com "DNSimple"
 [9]: https://github.com/isaacs/github/issues/156 "'Add HTTPS support to Github Pages #156'"
-[10]: http://d.pr/i/1cD79+ "Blue color scheme for TheOverAnalyzed"
+[10]: https://d.pr/i/1cD79+ "Blue color scheme for TheOverAnalyzed"
 [11]: https://www.youtube.com/watch?v=Lbjru5CQIW4&feature=youtu.be&t=2m15s "'Search your feelings, you know it to be true"
 [12]: https://en.wikipedia.org/wiki/ROYGBIV "Wikipedia: ROYGBIV"
 [13]: https://en.wikipedia.org/wiki/Visible_spectrum "Wikipedia: Visible spectrum"
