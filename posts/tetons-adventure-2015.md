@@ -1,7 +1,6 @@
 Title: Tetons Adventure 2015  
 Description: This page is a container for a video of our trip to Wyoming in the Fall of 2015  
 HideHeader: true  
-CSS: /css/black.css  
 
 # Tetons Adventure 2015&nbsp;🗻
 
@@ -12,3 +11,5 @@ Are you using a crappy browser? It must be crappy, because it doesn't support th
 <div class="info">
 	<p>For less fun and more nerdy adventures, visit <a href="/" title="Link back to TheOverAnalyzed">TheOverAnalyzed</a></p>
 </div>
+
+<link rel="stylesheet" type="text/css" href="/css/black.css">

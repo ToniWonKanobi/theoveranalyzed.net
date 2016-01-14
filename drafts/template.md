@@ -5,7 +5,6 @@ Description: blah
 Tags: blah  
 Image: blah  
 Video: blah  
-CSS: blah  
 
 <!-- FitVids (http://fitvidsjs.com) -->
 <script src="/js/fitvids.js"></script>
@@ -38,3 +37,5 @@ January 1, 2015
 Markdown
 
 </aside>
+
+<link rel="stylesheet" type="text/css" href="/css/newsletter.css">

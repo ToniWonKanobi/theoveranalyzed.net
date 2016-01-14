@@ -1,6 +1,5 @@
 Title: The Newsletter  
-Description: This page talks about how to subscribe to TheOverAnalyzed Newsletter  
-CSS: /css/newsletter.css  
+Description: This page talks about how to subscribe to TheOverAnalyzed Newsletter   
 
 ### Why a Newsletter?
 
@@ -35,3 +34,5 @@ Every day, the MailChimp servers detect whether I've posted anything new since t
 [1]: http://www.twitter.com/theoveranalyzed "Twitter account for TheOverAnalyzed"
 [2]: /rss "The RSS feed for TheOverAnalyzed"
 [3]: http://mailchimp.com "MailChimp powers TheOverAnalyzed Newsletter"
+
+<link rel="stylesheet" type="text/css" href="/css/newsletter.css">

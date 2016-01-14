@@ -3,10 +3,8 @@ Date: 2015-02-14 08:00
 Description: Happy Valentine's Day Allison.  
 Tags: Allison  
 HideHeader: true  
-BodyClass: specialDelivery  
-CSS: /css/valentinesday.css  
 
-<div class="specialDelivery">
+<div>
 
 Eight years ago today, we went on [our first 'big' date][1]
 
@@ -62,3 +60,5 @@ I love you Allison
 [6]: https://d.pr/i/1l05R+ "Allison in Davis, CA"
 [7]: https://d.pr/i/133Ap+ "Us in Lake Arrowhead, CA, after my graduation from dental school"
 [8]: https://d.pr/i/1jbcu+ "Smokey outside of our cabin in Jackson, WY"
+
+<link rel="stylesheet" type="text/css" href="/css/valentinesday.css ">
