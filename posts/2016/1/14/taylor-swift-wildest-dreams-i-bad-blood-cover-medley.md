@@ -16,6 +16,10 @@ Video: https://youtu.be/2mLYeA-ORV4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2mLYeA-ORV4" allowfullscreen></iframe>
 
-Putting [amateurs](https://vimeo.com/151450157#t=985s "Us playing at The Shadow") to shame on a daily basis since 1945: [Berklee College of Music](https://en.wikipedia.org/wiki/Berklee_College_of_Music).
+Putting [amateurs][1] to shame on a daily basis since 1945: [Berklee College of Music][2].
 
-(From [Tae](https://twitter.com/taylorswift13/status/687357073974165504 "Taylor Swift's link to the video"), herself)
+(From [Tae][3], herself)
+
+[1]: https://vimeo.com/151450157#t=985s "Us playing at The Shadow"
+[2]: https://en.wikipedia.org/wiki/Berklee_College_of_Music "Berklee College of Music"
+[3]: https://twitter.com/taylorswift13/status/687357073974165504 "Taylor Swift's link to the video"
