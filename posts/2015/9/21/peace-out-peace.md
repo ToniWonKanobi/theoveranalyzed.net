@@ -73,8 +73,8 @@ In the [latest episode of Exponent][22], Ben Thompson and James Allworth discuss
 Thanks to the intricacies of the App Store, I was fortunate to purchase Peace before it was pulled. Consequently, I'll be able to enjoy its anti-fugly-web prowess for the foreseeable future. As soon as I enabled the blocker, I loaded everyone's favorite tech publication, The Verge.
 
 <figure>
-	<img class="inlineTwo" src="https://d.pr/i/1aYAD+" alt="Without Peace" title="Without Peace">
-	<img class="inlineTwo" src="https://d.pr/i/dJpP+" alt="With Peace" title="With Peace">
+	<img class="twoinline" src="https://d.pr/i/1aYAD+" alt="Without Peace" title="Without Peace">
+	<img class="twoinline" src="https://d.pr/i/dJpP+" alt="With Peace" title="With Peace">
 	<figcaption>Of course when I tried to demonstrate the difference Peace makes, The Verge's current ad is a relatively skinny one <span style="font-style:normal">😐</span></figcaption>
 </figure>
 

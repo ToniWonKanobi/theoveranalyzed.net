@@ -54,9 +54,9 @@ The "rubber" band is far from *just* rubber---it is easily the biggest surprise 
 Oh, another thing about the fluoroelastomer band: it is a real pain to get on and off. The lady spent the most time with that watch taking it on/off.
 
 <figure>
-	<img class="screenshot inlineThree" src="https://d.pr/i/1hgPn+" alt="Step 1" title="Step 1">
-	<img class="screenshot inlineThree" src="https://d.pr/i/1eArk+" alt="Step 2" title="Step 2">
-	<img class="screenshot inlineThree" src="https://d.pr/i/1hExt+" alt="Step 3" title="Step 3">
+	<img class="screenshot threeinline" src="https://d.pr/i/1hgPn+" alt="Step 1" title="Step 1">
+	<img class="screenshot threeinline" src="https://d.pr/i/1eArk+" alt="Step 2" title="Step 2">
+	<img class="screenshot threeinline" src="https://d.pr/i/1hExt+" alt="Step 3" title="Step 3">
 	<figcaption>Steps 1, 2, and 3 for getting the Sport band on</figcaption>
 </figure>
 

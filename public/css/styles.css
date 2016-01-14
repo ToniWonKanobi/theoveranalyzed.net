@@ -76,14 +76,14 @@ a[href*="https://overcast.fm/login"]:after {
 }
 
 div.entry a,
-div.readMore a {
+div.readmore a {
 	border-bottom: 2px solid #eee;
 	padding-bottom: 1px;
 	transition: background 0.2s ease-in-out;
 }
 
 div.entry a:hover,
-div.readMore a:hover {
+div.readmore a:hover {
 	background: #eee;
 	border-bottom: none;
 	border-radius: 2px;
@@ -98,40 +98,40 @@ div.entry a.nohover:hover {
 /* Site Header
 ======================================== */
 
-header#siteHeader {
+header#siteheader {
 	background-color: #3f70a2;
 	color: #fff;
 	text-align: center;
 }
 
-header#siteHeader a {
+header#siteheader a {
 	color: #fff;
 }
 
-img#siteLogo {
+img#sitelogo {
 	display: initial;
 	margin: 0 0.05em 0 0.05em;
 	vertical-align: baseline;
 	width: 0.65em;
 }
 
-h1#siteTitle {
+h1#sitetitle {
 	font-weight: 700;
 	margin: 0;
 	padding-top: 0.35em;
 }
 
-p#siteByline {
+p#sitebyline {
 	margin-top: -1em;
 	margin-bottom: 0;
 	padding-bottom: 1.75em;
 }
 
-.fadeInDown {
-	animation: fadeInDown 0.5s;
+.fadeindown {
+	animation: fadeindown 0.5s;
 }
 
-@keyframes fadeInDown {
+@keyframes fadeindown {
 	0% {
 		opacity: 0;
 		transform: translateY(-50px);
@@ -168,7 +168,7 @@ body.homepage main {
 
 body.homepage section.day article div.entry,
 body.homepage section:first-of-type article:first-of-type div.description,
-body.homepage section:first-of-type article:first-of-type div.readMore {
+body.homepage section:first-of-type article:first-of-type div.readmore {
 	display: none;
 }
 
@@ -176,15 +176,11 @@ body.homepage section:first-of-type article:first-of-type div:nth-of-type(2) {
 	display: initial;
 }
 
-.hideMe {
-	opacity: 0;
+.fadeinup {
+	animation: fadeinup 0.5s;
 }
 
-.fadeInUp {
-	animation: fadeInUp 0.5s;
-}
-
-@keyframes fadeInUp {
+@keyframes fadeinup {
 	0% {
 		opacity: 0;
 		transform: translateY(50px);
@@ -216,21 +212,21 @@ header > h2 {
 	margin: auto;
 }
 
-header.postHeader h2 a {
+header.postheader h2 a {
 	color: #555;
 }
 
-header.postHeader h2 {
+header.postheader h2 {
 	font-size: 2.1em;
 }
 
-header.postHeader a:hover,
-header.postHeaderLinked a:hover,
-header.postHeaderLinked a:hover span.linkArrow {
+header.postheader a:hover,
+header.postheaderlinked a:hover,
+header.postheaderlinked a:hover span.linkarrow {
 	color: #3f70a2;
 }
 
-header.postHeaderLinked span.linkArrow {
+header.postheaderlinked span.linkarrow {
 	color: #999;
 	transition: all 0.2s ease-in-out;
 	vertical-align: -4%;
@@ -239,7 +235,7 @@ header.postHeaderLinked span.linkArrow {
 /* Post Subtitle
 ======================================== */
 
-ul.postSubtitle {
+ul.postsubtitle {
 	color: #999;
 	display: inline;
 	font-size: 0.9em;
@@ -247,36 +243,39 @@ ul.postSubtitle {
 	padding: 0;
 }
 
-ul.postSubtitle a {
+ul.postsubtitle a {
 	color: #999;
 }
 
-ul.postSubtitle a:hover {
+ul.postsubtitle a:hover {
 	color: #3f70a2;
 }
 
-ul.postSubtitle label {
+ul.postsubtitle label {
 	display: none;
 }
 
-ul.postSubtitle li {
+ul.postsubtitle li {
 	display: inline;
 	padding: 0;
 }
 
-ul.postSubtitle li.date:after {
+ul.postsubtitle li.date:after {
 	content: '•';
 	margin: 0 0.25em 0 0.25em;
 }
 
-ul.postSubtitle li.tags ul {
+ul.postsubtitle li.tags ul {
 	display: inline;
 	padding: 0;
 }
 
-ul.postSubtitle li.tags ul li:nth-child(2):before,
-ul.postSubtitle li.tags ul li:nth-child(3):before {
-	content: 'and ';
+ul.postsubtitle li.tags ul li:after {
+	content: ' and ';
+}
+
+ul.postsubtitle li.tags ul li:last-child:after {
+	content: initial;
 }
 
 /* Page/Post Content
@@ -290,31 +289,21 @@ figure {
 	margin: 1em auto;
 }
 
-figure img {
-	border-top-right-radius: 0.2em;
-	border-top-left-radius: 0.2em;
-}
-
 img {
+	border-radius: 0.2em;
 	display: block;
 	margin: auto;
 	vertical-align: middle; /* Don't mess with this */
-	width: 100%;
+	max-width: 100%;
 }
 
-ul img,
-ol img,
-blockquote img {
-	margin-left: initial;
-}
-
-img.inlineTwo {
+img.twoinline {
 	display: inline;
 	margin: 1% 1% 1% 2%;
 	width: 46%;
 }
 
-img.inlineThree {
+img.threeinline {
 	display: initial;
 	margin: 1% 1% 1% 2%;
 	width: 29%;
@@ -322,7 +311,12 @@ img.inlineThree {
 
 img.small {
 	max-width: 50%;
-	width: initial;
+}
+
+ul img,
+ol img,
+blockquote img {
+	margin-left: initial;
 }
 
 figcaption {
@@ -332,7 +326,9 @@ figcaption {
 	color: #999;
 	font-size: 0.8em;
 	font-style: italic;
-	padding: 0.5em;
+	margin: auto;
+	padding: 0.75em;
+	width: 80%;
 }
 
 figcaption.source,
@@ -389,6 +385,7 @@ code {
 	font-family: 'Menlo', monospace;
 	font-size: 0.8em;
 	padding: 0.25em;
+	word-break: break-word;
 }
 
 pre code {
@@ -428,11 +425,20 @@ li {
 	padding-left: 0.25em;
 }
 
+div.table {
+	overflow: auto; /* There's no way around this because we can't do `overflow: auto` on a <table> */
+}
+
 table {
 	border-bottom: 2px solid #ddd;
 	border-right: 2px solid #ddd;
 	border-collapse: collapse;
 	margin: auto;
+	overflow: auto;
+}
+
+table.sortable thead {
+	cursor: default;
 }
 
 table th {
@@ -451,19 +457,6 @@ table td {
 table th code {
 	border: 1px solid #ddd;
 	border-radius: 0.2em;
-}
-
-table.sortable thead {
-	cursor: default;
-}
-
-table + figcaption {
-	margin: auto;
-	width: 50%;
-}
-
-div.table {
-	overflow: auto;
 }
 
 em.takehome {
@@ -629,34 +622,35 @@ footer {
 	text-align: center;
 }
 
-div#bottomGrayBar {
+div#bottomgraybar {
 	background-color: #999;
 	min-height: 0.25em;
 }
 
-div#bottomAd {
+div#bottomad {
 	background-color: #999;
 	margin: auto;
 	padding: 0.1em;
 }
 
-div#bottomAd > h2 {
+div#bottomad > h2 {
 	display: none;
 }
 
-div#bottomAd figure {
+div#bottomad figure {
 	background: inherit;
 	border: inherit;
 }
 
-div#bottomAd figure img {
+div#bottomad figure img {
 	background: #fff;
-	border-radius: 0.4em;
-	padding: 1em 0.5em 1em 0.5em;
+	border-radius: 0.2em;
+	box-shadow: 1px 1px 2px #999;
+	padding: 0.5em 0.25em 0.5em 0.25em;
 	width: 125px;
 }
 
-div#bottomAd figure figcaption {
+div#bottomad figure figcaption {
 	background: inherit; /* Turns off the color from above */
 	color: #ddd;
 	font-size: 0.75em;
@@ -665,7 +659,6 @@ div#bottomAd figure figcaption {
 }
 
 nav {
-	font-size: 1.1em;
 	padding: 1.5em 0 1.5em 0;
 }
 
@@ -679,7 +672,7 @@ nav ul {
 }
 
 nav li {
-	font-size: 1.1em;
+	font-size: larger;
 	list-style: none;
 	margin: 0.5em auto;
 	padding: 0;
@@ -722,28 +715,28 @@ p#copyright a {
 	color: inherit;
 }
 
-/* Mobile-device-sized Viewport Widths */
-@media (max-width: 736px) {
+/* Bigger Phones */
+@media (max-width: 740px) {
 
 	body {
-		font-size: 1.1em;
+		font-size: large;
 	}
 
-	h1#siteTitle {
+	h1#sitetitle {
 		font-size: 8.5vw;
-		padding-top: 5vw;
+		padding-top: 4vw;
 	}
 
-	p#siteByline {
-		margin-top: -3vw;
+	p#sitebyline {
+		margin-top: -2vw;
 		padding-bottom: 6vw;
 	}
 
-	header.postHeader h2 {
+	header.postheader h2 {
 		font-size: 1.6em;
 	}
 
-	header.postHeaderLinked h2 {
+	header.postheaderlinked h2 {
 		font-size: 1.5em;
 	}
 
@@ -753,11 +746,11 @@ p#copyright a {
 
 }
 
-/* Smaller mobile-device-sized Viewport Widths */
+/* Smaller Phones */
 @media (max-width: 320px) {
 
 	body {
-		font-size: 0.95em;
+		font-size: medium;
 	}
 
 	blockquote {

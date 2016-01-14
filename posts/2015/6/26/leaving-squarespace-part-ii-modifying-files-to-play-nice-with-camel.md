@@ -18,8 +18,8 @@ A goal of mine from the beginning was to port over the ~250 posts I had accrued 
 Before transitioning to Camel, I adopted a hybrid metadata system inspired by both [Byword's][6] [MultiMarkdown guide][7], and, perhaps fortuitously, [Camel][8] itself. All of my posts since [TheOverAnalyzed 2.0][9] had `Title:`, `Date:`, and `Link:` metadata. Byword is smart enough to know that properly-formatted text placed at the top of the document denotes metadata. Byword would then omit that when parsed to HTML.
 
 <figure>
-	<img class="inlineTwo" src="https://d.pr/i/1lii9+" alt="MultiMarkdown metadata in Byword" title="MultiMarkdown metadata in Byword">
-	<img class="inlineTwo" src="https://d.pr/i/13n6Z+" alt="Metadata isn't parsed when exporting to `body`-style HTML" title="Metadata isn't parsed when exporting to `body`-style HTML">
+	<img class="twoinline" src="https://d.pr/i/1lii9+" alt="MultiMarkdown metadata in Byword" title="MultiMarkdown metadata in Byword">
+	<img class="twoinline" src="https://d.pr/i/13n6Z+" alt="Metadata isn't parsed when exporting to `body`-style HTML" title="Metadata isn't parsed when exporting to `body`-style HTML">
 	<figcaption>Byword's MultiMarkdown-style metadata and HTML parse</figcaption>
 </figure>
 
@@ -128,8 +128,8 @@ Because I was using the parsed HTML as the content for my posts in Squarespace, 
 Out of the box, Camel includes the `markdown-it` plugin [`markdown-it-footnote`][25], which allows for MultiMarkdown 3-style inline and multi-paragraph footnotes. 
 
 <figure>
-	<img class="inlineTwo" src="https://d.pr/i/1aazM+" alt="Un-parsed text in Byword" title="Un-parsed text in Byword">
-	<img class="inlineTwo" src="https://d.pr/i/12gMj+" alt="Parsed text in Byword" title="Parsed text in Byword">
+	<img class="twoinline" src="https://d.pr/i/1aazM+" alt="Un-parsed text in Byword" title="Un-parsed text in Byword">
+	<img class="twoinline" src="https://d.pr/i/12gMj+" alt="Parsed text in Byword" title="Parsed text in Byword">
 	<figcaption>Byword's footnote parsing</figcaption>
 </figure>
 

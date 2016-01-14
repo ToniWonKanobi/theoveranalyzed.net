@@ -19,8 +19,8 @@ Unless I'm mistaken, this marks the first car to feature Singer's [4.0 liter pow
 The rest of Ballaban's post is just pictures of the Wasabi masterpiece. Here are a couple pictures that stood out to me:
 
 <figure >
-	<img class="inlineTwo" src="https://i.kinja-img.com/gawker-media/image/upload/s--fCTYTvOW--/c_scale,fl_progressive,q_80,w_800/1414556605173236913.jpg" alt="4.0L of displacement" title="4.0L of displacement">
-	<img class="inlineTwo" src="https://i.kinja-img.com/gawker-media/image/upload/s--Td_4NWG7--/c_scale,fl_progressive,q_80,w_800/1414556604746902449.jpg" alt="Interior shot with Momo Prototipo wheel (not flat)" title="Interior shot with Momo Prototipo wheel (not flat)">
+	<img class="twoinline" src="https://i.kinja-img.com/gawker-media/image/upload/s--fCTYTvOW--/c_scale,fl_progressive,q_80,w_800/1414556605173236913.jpg" alt="4.0L of displacement" title="4.0L of displacement">
+	<img class="twoinline" src="https://i.kinja-img.com/gawker-media/image/upload/s--Td_4NWG7--/c_scale,fl_progressive,q_80,w_800/1414556604746902449.jpg" alt="Interior shot with Momo Prototipo wheel (not flat)" title="Interior shot with Momo Prototipo wheel (not flat)">
 	<figcaption>A shot of the engine bay showcasing the four liters of displacement, and an interior shot with the Momo Prototipo steering wheel (round&mdash;<a href="http://www.audizine.com/forum/showthread.php/473463-Someone-explain-the-appeal-of-the-Flat-bottomed-Steering-Wheel">not flat</a>).</figcaption>
 </figure>
 

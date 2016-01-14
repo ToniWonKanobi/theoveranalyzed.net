@@ -56,8 +56,8 @@ becomes
 And that's all there is to it.
 
 <figure>
-	<img class="inlineTwo" src="https://d.pr/i/1igkh+" alt="Without &nbsp;" title="Without &nbsp;">
-	<img class="inlineTwo" src="https://d.pr/i/163ur+" alt="With &nbsp;" title="With &nbsp;">
+	<img class="twoinline" src="https://d.pr/i/1igkh+" alt="Without &nbsp;" title="Without &nbsp;">
+	<img class="twoinline" src="https://d.pr/i/163ur+" alt="With &nbsp;" title="With &nbsp;">
 	<figcaption><p>Here's a post header using a regular space character between the title and the arrow, and the same header using the non-breaking space character instead.</p>
 <p>Which one looks better to you?</p>
 	</figcaption>

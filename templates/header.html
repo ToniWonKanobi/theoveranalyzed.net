@@ -53,27 +53,7 @@
 			});
 		</script>
 
-		<!-- Homepage Article Fadein (http://jsfiddle.net/tcloninger/e5qaD/) -->
-		<script type="text/javascript">
-			$(document).ready(function() {
-			// Removes the `hideme` class from the first `<article>` on the page so it's readable on initial page load (without scroll)
-			$("section:first-of-type article:first-of-type").removeClass("hideMe");
-			// Every time the window is scrolled
-				$(window).scroll( function(){
-					// Check the location of each desired element
-					$('.hideMe').each( function(i){
-						var bottom_of_object = $(this).offset().top + $(this).outerHeight();
-						var bottom_of_window = 1.09*($(window).scrollTop() + $(window).height());
-						if( bottom_of_window > bottom_of_object ){
-							$(this).animate({opacity: '1'},500);
-						}
-					});
-				});
-			});
-		</script>
-
 		<!-- Google Analytics -->
-		<!-- Because advertisers want this -->
 		<meta name="google-site-verification" content="bTslVH_XkdLoX1gCjVeqGK1od1brDOtiVSfp5lyxJiE">
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -85,8 +65,8 @@
 		</script>
 	</head>
 	<body class="@@BodyClass@@">
-		<header id="siteHeader" class="fadeInDown">
-			<h1 id="siteTitle"><a rel="index" href="/" title="TheOverAnalyzed Homepage"><img id="siteLogo" rel="icon" src="/images/logo.svg" alt="Site Logo" title="Site Logo">TheOverAnalyzed</a></h1>
-			<p id="siteByline">By <a rel="author" href="http://twitter.com/toniwonkanobi" title="Anthony Craig on Twitter">Anthony Craig</a></p>
+		<header id="siteheader" class="fadeindown">
+			<h1 id="sitetitle"><a rel="index" href="/" title="TheOverAnalyzed Homepage"><img id="sitelogo" rel="icon" src="/images/logo.svg" alt="Site Logo" title="Site Logo">TheOverAnalyzed</a></h1>
+			<p id="sitebyline">By <a rel="author" href="http://twitter.com/toniwonkanobi" title="Anthony Craig on Twitter">Anthony Craig</a></p>
 		</header>
-		<main class="fadeInUp">
+		<main class="fadeinup">

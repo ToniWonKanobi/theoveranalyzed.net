@@ -22,8 +22,8 @@ It isn't the longest I've ever dreamt up, but it certainly isn't the shortest, e
 4. After that, I start manually changing the uppercase letters to lowercase, removing spaces and replacing them with hyphens, and deleting URL-unfriendly characters like `&`:
 
 <figure>
-	<img class="inlineTwo" src="https://d.pr/i/15iqM+" alt="Starting the process" title="Starting the process">
-	<img class="inlineTwo" src="https://d.pr/i/184Ox+" alt="This takes forever" title="This takes forever">
+	<img class="twoinline" src="https://d.pr/i/15iqM+" alt="Starting the process" title="Starting the process">
+	<img class="twoinline" src="https://d.pr/i/184Ox+" alt="This takes forever" title="This takes forever">
 	<figcaption style="font-style: normal;">😑</figcaption>
 </figure>
 
@@ -222,8 +222,8 @@ I also assigned a keyboard shortcut to the service, so that I don't have to invo
 This couldn't get any easier.
 
 <figure>
-	<img class="inlineTwo" src="https://d.pr/i/10cCw+" alt="Select the text" title="Select the text">
-	<img class="inlineTwo" src="https://d.pr/i/11dN3+" alt="And ...done." title="And ...done.">
+	<img class="twoinline" src="https://d.pr/i/10cCw+" alt="Select the text" title="Select the text">
+	<img class="twoinline" src="https://d.pr/i/11dN3+" alt="And ...done." title="And ...done.">
 	<figcaption style="font-style: normal;">😑 &#10142; 😄</figcaption>
 </figure>
 

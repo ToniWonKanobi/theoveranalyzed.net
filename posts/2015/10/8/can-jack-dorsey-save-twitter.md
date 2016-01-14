@@ -37,8 +37,8 @@ The @mention tax is especially egregious, because it punishes people for having 
 Consider this conversation from a few days ago:
 
 <figure>
-	<img class="inlineTwo" src="https://d.pr/i/11xqM+" alt="Conversation" title="Conversation">
-	<img class="inlineTwo" src="https://d.pr/i/8LjF+" alt="Reply" title="Reply">
+	<img class="twoinline" src="https://d.pr/i/11xqM+" alt="Conversation" title="Conversation">
+	<img class="twoinline" src="https://d.pr/i/8LjF+" alt="Reply" title="Reply">
 	<figcaption>84 characters isn't much to work with. (I've already reached that amount in this <code>figcaption</code>.)</figcaption>
 </figure>
 

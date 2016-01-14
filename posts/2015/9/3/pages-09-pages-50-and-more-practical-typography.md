@@ -39,8 +39,8 @@ As best as I can tell, while the newer version of Pages *does* have proper ligat
 Ideal Sans comes with several alternate versions of characters, but as you can see from the screenshots below, the special "G" character (without the horizontal crossbar) does not seem to be available in the newer version of Pages. 
 
 <figure>
-	<img class="inlineTwo" src="https://d.pr/i/17YoZ+" alt="Pages 4.4.3 without OpenType" title="Pages 4.4.3 without OpenType">
-	<img class="inlineTwo" src="https://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType" title="Pages 5.5.3 OpenType">
+	<img class="twoinline" src="https://d.pr/i/17YoZ+" alt="Pages 4.4.3 without OpenType" title="Pages 4.4.3 without OpenType">
+	<img class="twoinline" src="https://d.pr/i/14Yiy+" alt="Pages 5.5.3 OpenType" title="Pages 5.5.3 OpenType">
 	<figcaption>Pages 4.4.3 with OpenType support and Pages 5.5.3 without much OpenType support at all</figcaption>
 </figure>
 

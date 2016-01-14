@@ -8,19 +8,27 @@ Image: http://d.pr/i/29s0+
 
 After reading much of Matthew Butterick's Practical Typography, I haven't had too much trouble with font sizes. And even without Butterick's guide, it's not like font-sizes are a super difficult thing to figure out:
 
-"Does the font size convey the appropriate readability and meaning on large displays?"
+> Does the font size convey the appropriate readability and meaning on large displays?
+<!-- {blockquote:.convo} -->
 
-*Yes.*
+Yes.
 
-"Does the font size convey the appropriate readability and meaning on small displays?"
+> Does the font size convey the appropriate readability and meaning on small displays?
+<!-- {blockquote:.convo} -->
 
-*Yes.*
+Yes.
 
-Cool. Done. No biggie, right?
+Cool.
 
-Well, like all things web design, it's not that simple all the time.
+Done.
+
+No biggie, right?
+
+Well, like all things web design, it's not that simple *all the time.*
 
 I've been struggling with a particular aspect of font-sizes almost since the beginning of TheOverAnalyzed: the site title font-size.
+
+<video src="https://d.pr/v/LUF9+" title="Look at that font scaling" autoplay controls loop>
 
 You know, that big banner at the top of every page of this site that says `TheOverAnalyzed`?
 
@@ -30,6 +38,17 @@ It wasn't always text. For the longest time, the site title `h1#siteTitle` was a
 
 But switching to actual text for the site title introduced a problem of having to change the font size depending on display size. I declared an initial font size for the site title, and then via media queries, I'd change the font size for smaller displays accordingly.
 
-If you took a peak at my CSS a few days ago, these are the rules governing the size of the text in my header site title
+So, for Desktop/iPad-sized displays, I was doing something like:
+
+```css
+@media (max-width: 780px) {
+
+	h1#siteTitle
+
+But that sucks.
+
+The more I learn about web design/development, the more `@media` seems like a hack. A useful hack, surely, but still a hack.
+
+I have a few properties bound to a two `@media` queries on my site, so I can't completely dismiss their usefulness 
 
 

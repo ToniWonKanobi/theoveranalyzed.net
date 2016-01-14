@@ -39,8 +39,8 @@ Before the mid 2000's, proponents of the open web were at odds with the teams be
 When iPhone [launched in 2007][13] with a version of the venerable Safari web browser, the advertisement firms took advantage. That trend has only increased in the 8 years thereafter. Just visit any major .com news organization and you'll see what I mean. The browser window will no doubt be filled with advertisements, most of which look like shat. It's not just that most mobile ads have horribly-pixelated versions of whatever product or service the ad is peddling. No, moreover: those ads typically obscure a *major* portion of the content. 
 
 <figure>
-	<img class="inlineTwo" src="https://d.pr/i/17moY+" alt="The Verge" title="The Verge">
-	<img class="inlineTwo" src="https://d.pr/i/1cIGg+" alt="iMore" title="iMore">
+	<img class="twoinline" src="https://d.pr/i/17moY+" alt="The Verge" title="The Verge">
+	<img class="twoinline" src="https://d.pr/i/1cIGg+" alt="iMore" title="iMore">
 	<figcaption><a href="http://theverge.com/">The Verge</a> and <a href="http://imore.com/">iMore</a></figcaption>
 </figure>
 
