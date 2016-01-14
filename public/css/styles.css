@@ -321,7 +321,8 @@ img.inlineThree {
 }
 
 img.small {
-	max-width: 50%
+	max-width: 50%;
+	width: initial;
 }
 
 figcaption {
@@ -341,7 +342,7 @@ figcaption code  {
 
 img.small + figcaption {
 	margin: auto;
-	width: 45%;
+	width: 40%;
 }
 
 audio {
@@ -366,6 +367,11 @@ blockquote {
 	color: #888;
 	margin: 1em;
 	padding-left: 1em;
+}
+
+blockquote.convo {
+	border-left: none;
+	font-style: italic;
 }
 
 pre {
@@ -411,8 +417,10 @@ body.homepage pre code {
 	white-space: pre-line;
 }
 
-ul, ol, dl {
-	padding-left: 1.75em;
+ul,
+ol,
+dl {
+	padding-left: 2.5em;
 }
 
 li {
@@ -741,10 +749,6 @@ p#copyright a {
 
 	img.small {
 		max-width: 100%;
-	}
-
-	img.small + figcaption {
-		width: 100%;
 	}
 
 }
