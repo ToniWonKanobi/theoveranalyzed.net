@@ -25,7 +25,11 @@ That led to a few long emails exchanged with [Brian Donohue][2], Instapaper's ma
 
 Ever since, I've been testing my site against an experimental version of the parser (super top secret obviously), and I think I'm almost ready to publish that post. There are a few extra things we need to work out, but all in good time.
 
-[Instapaper][4] is best read-it-later/bookmarking app, period. [Go get it][5].
+It looks like Brian and the rest of the Instapaper team beat me to the punch, because their new parser has been incorporated into the latest public release of Instapaper.
+
+[Instapaper][4] is the best read-it-later/bookmarking app, period.
+
+[Go get it][5].
 
 [1]: https://d.pr/i/1hVi3+ "Instapaper has a new parser!"
 [2]: https://twitter.com/bthdonohue "Brian Donohue on Twitter"
