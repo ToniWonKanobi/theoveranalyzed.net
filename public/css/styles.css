@@ -1,13 +1,28 @@
-/* Basics
-======================================== */
+/* Variables */
+
+:root {
+	--background: rgba(63, 112, 162, 0.3);
+	--banner: #3f70a2;
+	--border-radius: 0.2em;
+	--gray: #eee;
+	--gray-dark: #ddd;
+	--link: #3f70a2;
+	--mark: rgba(255, 255, 0, 0.5);
+	--mark-green: rgba(0, 128, 0, 0.3);
+	--mark-red: rgba(255, 0, 0, 0.25);
+	--meta: #999;
+	--text: #555;
+}
+
+/* Desktop & Tablet Displays */
 
 html {
-	background: #fff;
+	background: white;
 }
 
 body {
-	background-color: rgba(63, 112, 162, 0.3);
-	color: #555;
+	background: var(--background);
+	color: var(--text);
 	font-size: 15pt;
 	font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', -apple-system, sans-serif;
 	font-weight: 300;
@@ -46,7 +61,7 @@ h6 {
 }
 
 a {
-	color: #3f70a2;
+	color: var(--banner);
 	text-decoration: none;
 	transition: all 0.2s ease-in-out;
 	word-break: break-word;
@@ -77,14 +92,14 @@ a[href*="https://overcast.fm/login"]:after {
 
 div.entry a,
 div.readmore a {
-	border-bottom: 2px solid #eee;
+	border-bottom: 2px solid var(--gray);
 	padding-bottom: 1px;
-	transition: background 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 
 div.entry a:hover,
 div.readmore a:hover {
-	background: #eee;
+	background: var(--gray);
 	border-bottom: none;
 	border-radius: 2px;
 }
@@ -99,13 +114,13 @@ div.entry a.nohover:hover {
 ======================================== */
 
 header#siteheader {
-	background-color: #3f70a2;
-	color: #fff;
+	background-color: var(--banner);
+	color: white;
 	text-align: center;
 }
 
 header#siteheader a {
-	color: #fff;
+	color: white;
 }
 
 img#sitelogo {
@@ -147,21 +162,16 @@ p#sitebyline {
 ======================================== */
 
 main {
-	background: #fff;
+	background: white;
 	margin: auto;
 	max-width: 800px;
 	padding: 1.5em 2em 4em 2em;
 	width: 70%;
 }
 
-body.homepage main {
-	background-color: transparent;
-	border-left: none;
-	border-right: none;
-	border-radius: 0;
-	box-shadow: none;
+body.homepage main { /* Don't mess with this, you idiot */
+	background: transparent;
 	margin: 1em auto 1em auto;
-	max-width: 800px;
 	padding: 0;
 	width: 90%;
 }
@@ -193,8 +203,8 @@ body.homepage section:first-of-type article:first-of-type div:nth-of-type(2) {
 }
 
 article {
-	background: #fff;
-	border-radius: 0.2em;
+	background: white;
+	border-radius: var(--border-radius);
 	margin: auto auto 1.5em auto;
 	padding: 1.75em;
 }
@@ -213,7 +223,7 @@ header > h2 {
 }
 
 header.postheader h2 a {
-	color: #555;
+	color: var(--text);
 }
 
 header.postheader h2 {
@@ -223,11 +233,11 @@ header.postheader h2 {
 header.postheader a:hover,
 header.postheaderlinked a:hover,
 header.postheaderlinked a:hover span.linkarrow {
-	color: #3f70a2;
+	color: var(--link);
 }
 
 header.postheaderlinked span.linkarrow {
-	color: #999;
+	color: var(--meta);
 	transition: all 0.2s ease-in-out;
 	vertical-align: -4%;
 }
@@ -236,7 +246,7 @@ header.postheaderlinked span.linkarrow {
 ======================================== */
 
 ul.postsubtitle {
-	color: #999;
+	color: var(--meta);
 	display: inline;
 	font-size: 0.9em;
 	list-style: none;
@@ -244,15 +254,15 @@ ul.postsubtitle {
 }
 
 ul.postsubtitle a {
-	color: #999;
+	color: var(--meta);
 }
 
 ul.postsubtitle a:hover {
-	color: #3f70a2;
+	color: var(--link);
 }
 
 ul.postsubtitle label {
-	display: none;
+	display: none; /* Don't mess with this, you idiot */
 }
 
 ul.postsubtitle li {
@@ -290,10 +300,10 @@ figure {
 }
 
 img {
-	border-radius: 0.2em;
+	border-radius: var(--border-radius);
 	display: block;
 	margin: auto;
-	vertical-align: middle; /* Don't mess with this */
+	vertical-align: middle; /* Don't mess with this, you idiot */
 	max-width: 100%;
 }
 
@@ -316,14 +326,14 @@ img.small {
 ul img,
 ol img,
 blockquote img {
-	margin-left: initial;
+	margin-left: initial; /* Don't mess with this, you idiot */
 }
 
 figcaption {
-	background: #eee;
+	background: var(--gray);
 	border-bottom-left-radius: 0.2em;
 	border-bottom-right-radius: 0.2em;
-	color: #999;
+	color: var(--meta);
 	font-size: 0.8em;
 	font-style: italic;
 	margin: auto;
@@ -359,7 +369,7 @@ div.fluid-width-video-wrapper {
 }
 
 blockquote {
-	border-left: 3px solid #ddd;
+	border-left: 3px solid var(--gray-dark);
 	color: #888;
 	margin: 1em;
 	padding-left: 1em;
@@ -371,8 +381,8 @@ blockquote.convo {
 }
 
 pre {
-	background-color: #eee;
-	border-radius: 0.2em;
+	background: var(--gray);
+	border-radius: var(--border-radius);
 	font-family: 'Menlo', monospace;
 	font-size: 0.8em;
 	overflow: auto;
@@ -380,43 +390,39 @@ pre {
 }
 
 code {
-	background: #eee;
-	border-radius: 0.2em;
+	background: var(--gray);
+	border-radius: var(--border-radius);
 	font-family: 'Menlo', monospace;
 	font-size: 0.8em;
 	padding: 0.25em;
-	word-break: break-word;
+	word-break: break-word; /* Don't mess with this, you idiot */
 }
 
 pre code {
 	font-size: 0.9em;
-	padding: 0; /* Don't delete this, you idiot */
+	padding: 0; /* Don't mess with this, you idiot */
 }
 
 mark {
-	background: rgba(255, 255, 0, 0.5);
-	border-radius: 0.2em;
+	background: var(--mark);
+	border-radius: var(--border-radius);
 	display: inline-block;
 	padding: 0.25em 0.6em 0.25em 0.6em;
 }
 
 mark.green {
-	background: rgba(0, 128, 0, 0.3);
+	background: var(--mark-green);
 }
 
 mark.red {
-	background: rgba(255, 0, 0, 0.25)
+	background: var(--mark-red);
 }
 
-/* Fixes `markdown-it`
-homepage fenced code block funkiness */
 body.homepage pre code {
-	white-space: pre-line;
+	white-space: pre-line; /* Don't mess with this, you idiot */
 }
 
-ul,
-ol,
-dl {
+ul, ol, dl {
 	padding-left: 2.5em;
 }
 
@@ -426,15 +432,14 @@ li {
 }
 
 div.table {
-	overflow: auto; /* There's no way around this because we can't do `overflow: auto` on a <table> */
+	overflow: auto; /* Don't mess with this, you idiot */
 }
 
 table {
-	border-bottom: 2px solid #ddd;
-	border-right: 2px solid #ddd;
+	border-bottom: 2px solid var(--gray-dark);
+	border-right: 2px solid var(--gray-dark);
 	border-collapse: collapse;
 	margin: auto;
-	overflow: auto;
 }
 
 table.sortable thead {
@@ -442,27 +447,27 @@ table.sortable thead {
 }
 
 table th {
-	background-color: #eee;
-	border-top: 2px solid #ddd;
-	border-left: 2px solid #ddd;
+	background: var(--gray);
+	border-top: 2px solid var(--gray-dark);
+	border-left: 2px solid var(--gray-dark);
 	padding: 0.3em 1em;
 }
 
 table td {
-	border-top: 2px solid #ddd;
-	border-left: 2px solid #ddd;
+	border-top: 2px solid var(--gray-dark);
+	border-left: 2px solid var(--gray-dark);
 	padding: 0.3em 1em;
 }
 
 table th code {
-	border: 1px solid #ddd;
-	border-radius: 0.2em;
+	border: 1px solid var(--gray-dark);
+	border-radius: var(--border-radius);
 }
 
 em.takehome {
-	border-top: 4px solid #ddd;
-	border-bottom: 4px solid #ddd;
-	color: #3f70a2;
+	border-top: 4px solid var(--gray-dark);
+	border-bottom: 4px solid var(--gray-dark);
+	color: var(--link);
 	display: block;
 	font-size: 1.2em;
 	font-weight: 700;
@@ -472,8 +477,8 @@ em.takehome {
 }
 
 aside.update {
-	background-color: #eee;
-	border-radius: 0.2em;
+	background: var(--gray);
+	border-radius: var(--border-radius);
 	margin-top: 2em;
 	padding: 1.75em;
 }
@@ -483,41 +488,41 @@ aside.update h3 {
 }
 
 p.updatetime {
-	color: #999;
+	color: var(--meta);
 	font-size: 0.9em;
 	margin-top: 0.5em;
 }
 
 aside.update a {
-	border-bottom: 2px solid #ddd;
+	border-bottom: 2px solid var(--gray-dark);
 	padding-bottom: 1px;
 	word-break: break-word;
 }
 
 aside.update a:hover {
-	background: #ddd;
+	background: var(--gray-dark);
 }
 
 aside.update blockquote {
-	border-left-color: #ddd;
+	border-left-color: var(--gray-dark);
 }
 
 aside.update pre {
-	background-color: #ddd;
+	background-color: var(--gray-dark);
 }
 
 aside.update code {
-	background: #ddd;
+	background: var(--gray-dark);
 }
 
 aside.update figcaption {
-	background: #ddd;
+	background: var(--gray-dark);
 	color: #777;
 }
 
 hr {
 	border: none;
-	color: #555;
+	color: var(--meta);
 	text-align: center;
 }
 
@@ -530,8 +535,8 @@ hr:after {
 }
 
 hr.long {
-	border-radius: 0.2em;
-	border: 1px solid #ddd;
+	border-radius: var(--border-radius);
+	border: 1px solid var(--gray-dark);
 	margin: 1.5em auto 1.5em auto;
 	width: 100%;
 }
@@ -542,7 +547,7 @@ hr.long:after {
 
 sup.footnote-ref a {
 	border-bottom: none;
-	color: #999;
+	color: var(--meta);
 	transition: all 0.2s ease-in-out;
 }
 
@@ -551,17 +556,17 @@ a.footnote-backref:hover {
 	background: none;
 	border-bottom: none;
 	border-radius: none;
-	color: #3f70a2;
+	color: var(--link);
 }
 
 div.footnotes {
-	color: #999;
+	color: var(--meta);
 	font-size: 0.8em;
 	margin: 5em 0 4em 0;
 }
 
 hr.footnotes-sep {
-	border: 1px solid #ddd;
+	border: 1px solid var(--gray-dark);
 	margin: 2em 0 2em 0;
 	width: 25%;
 	font-size: initial;
@@ -580,12 +585,12 @@ ol.footnotes-list {
 
 a.footnote-backref {
 	border-bottom: none;
-	color: #999;
+	color: var(--meta);
 }
 
 section#pagination {
-	background: #fff;
-	border-radius: 0.2em;
+	background: white;
+	border-radius: var(--border-radius);
 	font-size: 1.1em;
 	font-weight: 400;
 	height: 1.75em;
@@ -606,7 +611,7 @@ section#pagination a {
 }
 
 section#pagination a:hover {
-	color: #3f70a2;
+	color: var(--link);
 }
 
 section#pagination .previousPage {
@@ -617,18 +622,18 @@ section#pagination .previousPage {
 ======================================== */
 
 footer {
-	background: #fff;
-	color: #999;
+	background: white;
+	color: var(--meta);
 	text-align: center;
 }
 
 div#bottomgraybar {
-	background-color: #999;
+	background: var(--meta);
 	min-height: 0.25em;
 }
 
 div#bottomad {
-	background-color: #999;
+	background: var(--meta);
 	margin: auto;
 	padding: 0.1em;
 }
@@ -643,16 +648,16 @@ div#bottomad figure {
 }
 
 div#bottomad figure img {
-	background: #fff;
-	border-radius: 0.2em;
-	box-shadow: 1px 1px 2px #999;
+	background: white;
+	border-radius: var(--border-radius);
+	box-shadow: 1px 1px 2px var(--meta);
 	padding: 0.5em 0.25em 0.5em 0.25em;
 	width: 125px;
 }
 
 div#bottomad figure figcaption {
-	background: inherit; /* Turns off the color from above */
-	color: #ddd;
+	background: inherit; /* Don't mess with this, you idiot */
+	color: var(--gray-dark);
 	font-size: 0.75em;
 	margin: 1em auto;
 	padding: 0;
@@ -679,20 +684,20 @@ nav li {
 }
 
 nav li a {
-	color: #999;
+	color: var(--meta);
 }
 
 nav li a:hover {
-	color: #3f70a2;
+	color: var(--link);
 }
 
 /* Cribbed from Hardik Pandya
 (http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/) */
 form#search input {
 	background-color: #f8f8f8;
-	border: 2px solid #ddd;
-	border-radius: 0.4em;
-	color: #999;
+	border: 2px solid var(--gray-dark);
+	border-radius: var(--border-radius);
+	color: var(--meta);
 	max-width: 200px;
 	padding: 0.5em;
 	transition: all 0.2s ease-in-out;
@@ -715,7 +720,7 @@ p#copyright a {
 	color: inherit;
 }
 
-/* Bigger Phones */
+/* Phone Displays */
 @media (max-width: 740px) {
 
 	body {
@@ -746,7 +751,7 @@ p#copyright a {
 
 }
 
-/* Smaller Phones */
+/* Smaller Phone Displays */
 @media (max-width: 320px) {
 
 	body {
