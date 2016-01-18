@@ -1,4 +1,6 @@
-/* Variables */
+/* ===================================== */
+/* Variables                             */
+/* ===================================== */
 
 :root {
 	--background: rgba(63, 112, 162, 0.3);
@@ -14,7 +16,9 @@
 	--text: #555;
 }
 
-/* Desktop & Tablet Displays */
+/* ===================================== */
+/* Desktop & Tablet Displays             */
+/* ===================================== */
 
 html {
 	background: white;
@@ -110,8 +114,8 @@ div.entry a.nohover:hover {
 	border: none;
 }
 
-/* Site Header
-======================================== */
+/* Site Header                           */
+/* ===================================== */
 
 header#siteheader {
 	background-color: var(--banner);
@@ -158,8 +162,8 @@ p#sitebyline {
 	}
 }
 
-/* Homepage
-======================================== */
+/* Homepage                              */
+/* ===================================== */
 
 main {
 	background: white;
@@ -209,8 +213,8 @@ article {
 	padding: 1.75em;
 }
 
-/* Page/Post Headers
-======================================== */
+/* Page & Post Headers                   */
+/* ===================================== */
 
 section.day > h2 {
 	display: none;
@@ -242,8 +246,8 @@ header.postheaderlinked span.linkarrow {
 	vertical-align: -4%;
 }
 
-/* Post Subtitle
-======================================== */
+/* Page & Post Subtitles                 */
+/* ===================================== */
 
 ul.postsubtitle {
 	color: var(--meta);
@@ -288,8 +292,8 @@ ul.postsubtitle li.tags ul li:last-child:after {
 	content: initial;
 }
 
-/* Page/Post Content
-======================================== */
+/* Page & Post Content                   */
+/* ===================================== */
 
 em.topstory code {
 	font-style: normal;
@@ -545,6 +549,9 @@ hr.long:after {
 	content: normal;
 }
 
+/* Footnotes                             */
+/* ===================================== */
+
 sup.footnote-ref a {
 	border-bottom: none;
 	color: var(--meta);
@@ -588,6 +595,9 @@ a.footnote-backref {
 	color: var(--meta);
 }
 
+/* Pagination                            */
+/* ===================================== */
+
 section#pagination {
 	background: white;
 	border-radius: var(--border-radius);
@@ -618,8 +628,8 @@ section#pagination .previousPage {
 	float: right;
 }
 
-/* Footer
-======================================== */
+/* Footer                                */
+/* ===================================== */
 
 footer {
 	background: white;
@@ -720,7 +730,9 @@ p#copyright a {
 	color: inherit;
 }
 
-/* Phone Displays */
+/* ===================================== */
+/* Phone Displays                        */
+/* ===================================== */
 @media (max-width: 740px) {
 
 	body {
@@ -751,7 +763,9 @@ p#copyright a {
 
 }
 
-/* Smaller Phone Displays */
+/* ===================================== */
+/* Smaller Phone Displays                */
+/* ===================================== */
 @media (max-width: 320px) {
 
 	body {
