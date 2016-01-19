@@ -71,26 +71,31 @@ a {
 	word-break: break-word;
 }
 
-a[href*="amazon."]:after {
+/* Amazon links */
+div.entry a[href*="amazon."]:after {
     content: ' (Amazon)';
 }
 
-a[href*="itunes.apple."]:after {
+/* iTunes links */
+div.entry a[href*="itunes.apple."]:after {
 	content: ' (iTunes Store)';
 }
 
-a[href*="itunes.apple.com/us/book"]:after {
+/* iBooks links */
+div.entry a[href*="itunes.apple.com/us/book"]:after {
 	content: ' (iBooks Store)';
 }
 
-a[href*="itunes.apple.com/us/app"]:after,
-a[href*="itunes.apple.com/app"]:after {
+/* App Store links */
+div.entry a[href*="itunes.apple.com/us/app"]:after,
+div.entry a[href*="itunes.apple.com/app"]:after {
 	content: ' (App Store)';
 }
 
-a[href*="overcast.fm/+"]:after,
-a[href*="https://overcast.fm/itunes"]:after,
-a[href*="https://overcast.fm/login"]:after {
+/* Overcast links */
+div.entry a[href*="overcast.fm/+"]:after,
+div.entry a[href*="https://overcast.fm/itunes"]:after,
+div.entry a[href*="https://overcast.fm/login"]:after {
     content: " (Overcast)";
 }
 
@@ -112,6 +117,10 @@ div.entry a.nohover,
 div.entry a.nohover:hover {
 	background: none;
 	border: none;
+}
+
+div.entry h3 a, div.entry h4 a, div.entry h5 a, div.entry h6 a {
+	border-bottom: initial;
 }
 
 /* Site Header                           */

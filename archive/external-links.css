@@ -1,0 +1,17 @@
+/* External links */
+div.entry a:after {
+	content: '↗';
+	font-size: 0.6em;
+	margin-left: 0.25em;
+	vertical-align: super;
+}
+
+/* Undoes the arrow for internal links */
+div.entry a[href*="theoveranalyzed.net"]:after,
+div.entry a[href^="/"]:after,
+div.entry a[href^="#"]:after {
+	content: initial;
+	font-size: inherit;
+	margin-left: initial;
+	vertical-align: initial;
+}

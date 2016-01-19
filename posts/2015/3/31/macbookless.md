@@ -1,7 +1,7 @@
 Title: MacBookless  
 Date: 2015-03-31 12:00  
 Description: In anticipation for the new MacBook, I've sold my MacBook Air, and have been going without. It's been interesting.  
-Tags: Blogging, Mac, iPhone  
+Tags: Blogging, MacBookless  
 Image: https://d.pr/i/17cng+  
 
 ![Not sure how Viticci does it.][1]
