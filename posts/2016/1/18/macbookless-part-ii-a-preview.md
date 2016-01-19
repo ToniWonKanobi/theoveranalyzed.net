@@ -6,7 +6,7 @@ Image: https://d.pr/i/15JLh+
 
 ![Not even OSXDaily could fix this one][1]
 
-### [♫ The <s>Day</s> Night [that] My MacBook Died ♫][2]
+### [♫ The <s>Day</s> Night that [My] MacBook Died ♫][2]
 
 Two nights ago, during a break from experimenting with CSS variables, my MacBook Pro decided it didn't want to be my friend anymore.
 
