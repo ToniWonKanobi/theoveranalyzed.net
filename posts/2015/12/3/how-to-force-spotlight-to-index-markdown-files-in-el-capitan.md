@@ -10,7 +10,7 @@ Sometime this past summer, I noticed Spotlight was no longer indexing my [Markdo
 
 But searching for such a string of text like `<div class="update">` led to zero results. I was forced to simply open [every single one of my files][6] and search for the string and replace as necessary. Needless to say, this was both incredibly frustrating and an incredible waste of time.
 
-There were some clues. [Console.app][7] "Wikipedia: Console (OS X)") was constantly throwing Spotlight errors such as [`XPC connection was invalidated`][8], so I assumed it was some Spotlight error I introduced via `brew` or some other command line hackery. I scoured the web for answers. Almost everything pointed to El Capitan's [rootless][9] [issues][10].
+There were some clues. [Console.app][7] was constantly throwing Spotlight errors such as [`XPC connection was invalidated`][8], so I assumed it was some Spotlight error I introduced via `brew` or some other command line hackery. I scoured the web for answers. Almost everything pointed to El Capitan's [rootless][9] [issues][10].
 
 Several clean restores and countless [Spotlight re-indexes][11] later, the issue *still* wasn't fixed.
 
@@ -80,7 +80,7 @@ Now, onto more website fiddling.
 [4]: http://www.w3.org/wiki/HTML/Elements/section "W3C: Section Element"
 [5]: http://www.w3.org/wiki/HTML/Elements/aside "W3C: Aside Element"
 [6]: /count "Post count on TheOverAnalyzed"
-[7]: https://en.wikipedia.org/wiki/Console_(OS_X
+[7]: https://en.wikipedia.org/wiki/Console_(OS_X) "Wikipedia: Console (OS X)"
 [8]: https://d.pr/i/1b0WU+ "Sigh"
 [9]: http://apple.stackexchange.com/questions/193368/what-is-the-rootless-feature-in-el-capitan-really "Rootless in El Capitan"
 [10]: https://www.google.com/webhp?hl=en#safe=off&amp;hl=en&amp;q=spotlight+%22XPC+connection+was+invalidated%22 "Rootless to blame?"
