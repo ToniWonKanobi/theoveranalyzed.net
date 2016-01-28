@@ -56,33 +56,24 @@ Here are a few options I've been considering:
 
 **1. Get a 5K iMac**
 
-	It would be nice to have a big Retina display, that's for sure. That said, I can't help but feel like an iMac is so ...*consumer.* Yes, in reality, I'm nothing more than a consumer. I don't do <i>de facto</i> app or web development, I'm not a professional photography or videographer, and I don't do a bunch of enterprise-level 3D work. I am about as far from professional as one could be.
-	
-	I *should* just be happy with getting an iMac. It's the fastest single-threaded machine Apple currently sells, and it's multi-core performance is far from shabby.
-	
-	And yet, I just don't want an iMac.
-	
-	Hard to buy something I just don't want.
+* It would be nice to have a big Retina display, that's for sure. That said, I can't help but feel like an iMac is so ...*consumer.* Yes, in reality, I'm nothing more than a consumer. I don't do <i>de facto</i> app or web development, I'm not a professional photography or videographer, and I don't do a bunch of enterprise-level 3D work. I am about as far from professional as one could be
+* I *should* just be happy with getting an iMac. It's the fastest single-threaded machine Apple currently sells, and it's multi-core performance is far from shabby
+* And yet, I just don't want an iMac
+* Hard to buy something I just don't want
 	
 **2. Get a "cheese grater" Mac Pro**
 
-	I could do the fun experiment, and if/when it sucks for single threaded stuff, sell it and end up back where I am today.
-
-	It certainly wouldn't be the first time I've switched up my Apple gear to try something new.
+* I could do the fun experiment, and if/when it sucks for single threaded stuff, sell it and end up back where I am today
+* It certainly wouldn't be the first time I've switched up my Apple gear to try something new
 	
 **3. Do nothing (at least for the time being)**
-	
-	I can continue using my iPad for the time being. 
-	
-	If I need to use the Web Inspector or make site changes, I can steal Allison's MacBook after she goes to sleep.
-	
-	Although Mark Gurman hasn't yet told us so, it sure seems like Intel should have some new Skylake processors ready for a 15" (13" too?) hardware revision for the MacBook Pro lineup.
-	
-	If those hardware changes come with Thunderbolt 3, Apple could release a standalone 5K display alongside the new Pro MacBooks.
-	
-	If---*if*---Apple did all that, I'd be content with that setup as well.
-	
-	I'm not sure why that is more appealing than an all-in-one like the iMac, but there it is.
+
+* I can continue using my iPad for the time being
+* If I need to use the Web Inspector or make site changes, I can steal Allison's MacBook after she goes to sleep
+* Although Mark Gurman hasn't yet told us so, it sure seems like Intel should have some new Skylake processors ready for a 15" (13" too?) hardware revision for the MacBook Pro lineup
+* If those hardware changes come with Thunderbolt 3, Apple could release a standalone 5K display alongside the new Pro MacBooks
+* If---*if*---Apple did all that, I'd be content with that setup as well
+* I'm not sure why that is more appealing than an all-in-one like the iMac, but there it is.
 	
 ***
 
@@ -101,11 +92,12 @@ Specifically:
 
 But for all iOS's shortcomings, I can now attest to the *focus* provided by iOS's full-screen app approach. It really does help keep me less distracted.
 
-* Before iOS 9, iOS was almost *too* focused (in my opinion)
-* Now, with Split View, users have an in-between
-* It's still focused, because apps are still full-screen. But now, if the user chooseS, they can have *two* apps, full-screen, side by side.
+Specifically:
 
-	That's pretty cool.
+* Before iOS 9, iOS was almost *too* focused, because every app was full-screen and in your face
+* Now, with Split View, users have an in-between
+	* It's still focused, because apps are still full-screen. But now, if the user chooses, they can have *two* apps, full-screen, side by side
+	* That's pretty cool.
 
 So for now, I can hop along iOS-only. The novelty of the OS is still there, so I can at least ride that out for a bit longer.
 
