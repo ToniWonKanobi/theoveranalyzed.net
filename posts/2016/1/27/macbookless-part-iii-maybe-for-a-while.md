@@ -54,7 +54,7 @@ I just don't know which one to get.
 
 Here are a few options I've been considering:
 
-1. Get a 5K iMac
+**1. Get a 5K iMac**
 
 	It would be nice to have a big Retina display, that's for sure. That said, I can't help but feel like an iMac is so ...*consumer.* Yes, in reality, I'm nothing more than a consumer. I don't do <i>de facto</i> app or web development, I'm not a professional photography or videographer, and I don't do a bunch of enterprise-level 3D work. I am about as far from professional as one could be.
 	
@@ -64,15 +64,13 @@ Here are a few options I've been considering:
 	
 	Hard to buy something I just don't want.
 	
-2. Get a "cheese grater" Mac Pro
+**2. Get a "cheese grater" Mac Pro**
 
 	I could do the fun experiment, and if/when it sucks for single threaded stuff, sell it and end up back where I am today.
 
 	It certainly wouldn't be the first time I've switched up my Apple gear to try something new.
 	
-3. Do nothing.
-	
-	(At least not right now.)
+**3. Do nothing (at least for the time being)**
 	
 	I can continue using my iPad for the time being. 
 	
