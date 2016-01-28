@@ -1,4 +1,4 @@
-Title: MacBookless Part IIb / Adventures with an iPad Part I  
+Title: MacBookless, Part IIb / Adventures with an iPad Part I  
 Date: 2016-01-23 06:31
 Description: The fun continues.  
 Tags: MacBookless  
