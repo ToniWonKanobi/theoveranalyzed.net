@@ -37,7 +37,7 @@ I followed the advice in the pull request's thread:
 1. First, I installed [Homebrew][6]:
 
 	```ruby
-	$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 	```
 
 2. After that, I was able to install Heroku without using the Toolbelt:

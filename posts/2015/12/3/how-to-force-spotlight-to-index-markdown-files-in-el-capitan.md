@@ -42,12 +42,12 @@ Here's how I fixed it:
 
 	![Put the mdimporter here][15]
 	
-	**This is important:** Don't move it to the "user" directory as Lipschitz suggests (`~/Library/Spotlight`)---put it in the System's Library folder as I've detailed above
+	**This is important:** Don't move it to the "user" directory as Lipschitz suggests (`~/Library/Spotlight`)---put it in the System's Library folder (`/Library/Spotlight`) as I've detailed above
 	
 3. Open `Terminal.app` and run the following command:
 
 	```
-	mdimport -r ~/Library/Spotlight/Markdown.mdimporter
+	mdimport -r /Library/Spotlight/Markdown.mdimporter
 	```
 	
 4. You *could* wait for Spotlight to fix itself. However, for impatient types (myself included), go ahead and [force Spotlight to reindex][16]:[^1]
