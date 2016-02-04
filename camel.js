@@ -47,15 +47,15 @@ app.use(function (request, response, next) {
 });
 
 // Optionally, force all requests to HTTPS
-if (process.env.FORCE_HTTPS) {
-	app.use(function (request, response, next) {
-		if (request.headers['x-forwarded-proto'] === 'http') {
-			response.redirect(siteMetadata.SiteRoot + request.url);
-		} else {
-			next();
-		}
-	});
-}
+// if (process.env.FORCE_HTTPS) {
+// 	app.use(function (request, response, next) {
+// 		if (request.headers['x-forwarded-proto'] === 'http') {
+// 			response.redirect(siteMetadata.SiteRoot + request.url);
+// 		} else {
+// 			next();
+// 		}
+// 	});
+// }
 
 var server = http.createServer(app);
 
