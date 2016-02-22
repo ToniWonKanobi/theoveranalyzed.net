@@ -1,0 +1,205 @@
+em.topstory code
+	font-style: normal
+
+figure
+	margin: 1em auto
+
+img
+	border-radius: 0.2em
+	display: block
+	margin: auto
+	vertical-align: middle
+	max-width: 100%
+
+img.twoinline
+	display: inline
+	margin: 1%
+	width: 46%
+
+img.threeinline
+	display: initial
+	margin: 1%
+	width: 29%
+
+img.small
+	max-width: 50%
+
+ul img,
+ol img,
+blockquote img
+	margin-left: initial
+
+figcaption
+	background: $lightgray
+	border-bottom-left-radius: 0.2em
+	border-bottom-right-radius: 0.2em
+	color: $darkgray
+	font-size: 0.8em
+	font-style: italic
+	margin: auto
+	padding: 0.75em
+	width: 80%
+
+figcaption.source,
+figcaption code
+	font-style: normal
+
+img.small + figcaption
+	margin: auto
+	width: 40%
+
+audio
+	width: 100%
+
+video
+	margin: auto
+	max-width: 100%
+
+iframe
+	border: none
+
+div.fluid-width-video-wrapper
+	margin: 1em auto
+
+blockquote
+	border-left: 3px solid $gray
+	color: #888
+	margin: 1em
+	padding-left: 1em
+
+blockquote.convo
+	border-left: none
+	font-style: italic
+
+pre
+	background: $lightgray
+	border-radius: 0.2em
+	font-family: $monospace
+	font-size: 0.8em
+	overflow: auto
+	padding: 0.5em 0.75em 0.5em 0.75em
+
+code
+	background: $lightgray
+	border-radius: 0.2em
+	font-family: $monospace
+	font-size: 0.8em
+	padding: 0.25em
+	word-break: break-word
+
+pre code
+	font-size: 0.9em
+	padding: 0
+
+mark
+	background: $mark-yellow
+	border-radius: 0.2em
+	display: inline-block
+	padding: 0.25em 0.6em 0.25em 0.6em
+
+mark.green
+	background: $mark-green
+
+mark.red
+	background: $mark-red
+
+ul, ol, dl
+	padding-left: 2.5em
+
+li
+	margin: 1em auto
+	padding-left: 0.25em
+
+div.table
+	overflow: auto
+
+table
+	border-bottom: 2px solid $gray
+	border-right: 2px solid $gray
+	border-collapse: collapse
+	margin: auto
+
+table.sortable thead
+	cursor: default
+
+table th
+	background: $lightgray
+	border-top: 2px solid $gray
+	border-left: 2px solid $gray
+	padding: 0.3em 1em
+
+table td
+	border-top: 2px solid $gray
+	border-left: 2px solid $gray
+	padding: 0.3em 1em
+
+table th code
+	border: 1px solid $gray
+	border-radius: 0.2em
+
+em.takehome
+	border-top: 4px solid $gray
+	border-bottom: 4px solid $gray
+	color: $blue
+	display: block
+	font-size: 1.2em
+	font-weight: 700
+	line-height: 1.5
+	padding: 0.5em 0 0.5em 0.1em
+	text-transform: uppercase
+
+aside.update
+	background: $lightgray
+	border-radius: 0.2em
+	margin-top: 2em
+	padding: 1.75em
+
+	h3
+		margin-top: 0
+
+	a
+		border-bottom: 2px solid $gray
+		padding-bottom: 1px
+		word-break: break-word
+
+		&:hover, &:focus
+			background: $gray
+
+	blockquote
+		border-left-color: $gray
+
+	pre
+		background-color: $gray
+
+	code
+		background: $gray
+
+	figcaption
+		background: $gray
+		color: #777
+
+	p.updatetime
+		color: $darkgray
+		font-size: 0.9em
+		margin-top: 0.5em
+
+hr
+	border: none
+	color: #555
+	text-align: center
+
+	&:after
+		content: "***"
+		font-size: 1.25em
+		letter-spacing: 0.25em
+		position: relative
+		top: 0.2em
+
+hr.long
+	border-radius: 0.2em
+	border: 1px solid $gray
+	margin: 1.5em auto 1.5em auto
+	width: 100%
+
+	&:after
+		content: normal

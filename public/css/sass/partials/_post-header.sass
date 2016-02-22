@@ -1,0 +1,54 @@
+header > h2
+	font-weight: 700
+	line-height: 1.35
+	margin: auto
+
+header.postheader a:hover,
+header.postheaderlinked a:hover,
+header.postheaderlinked a:hover span.linkarrow
+	color: $blue
+
+header.postheader h2
+	font-size: 2.1em
+
+	a
+		color: $black
+
+header.postheaderlinked span.linkarrow
+	color: $darkgray
+	transition: all 0.2s ease-in-out
+	vertical-align: -4%
+
+ul.postsubtitle
+	color: $darkgray
+	display: inline
+	font-size: 0.9em
+	list-style: none
+	padding: 0
+
+	a
+		color: $darkgray
+
+		&:hover
+			color: $blue
+
+	label
+		display: none
+
+	li
+		display: inline
+		padding: 0
+
+	li.date:after
+		content: '•'
+		margin: 0 0.25em 0 0.25em
+
+	li.tags ul
+		display: inline
+		padding: 0
+
+		li:after
+			content: ' and '
+
+		li:last-child:after
+			content: initial

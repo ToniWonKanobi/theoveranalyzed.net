@@ -1,0 +1,71 @@
+body
+	background: $lightblue
+	color: $black
+	font-size: 15pt
+	font-family: $sans
+	font-weight: 300
+	line-height: 1.6
+	margin: 0
+	padding: 0
+
+h1, h2, h3, h4, h5, h6
+	font-weight: 600
+	margin: 1.25em auto -0.25em auto
+
+h1
+	font-size: 3em
+
+h2
+	font-size: 1.75em
+
+h3
+	font-size: 1.5em
+
+h4
+	font-size: 1.3em
+
+h5
+	font-size: 1.1em
+
+h6
+	font-size: 1em
+
+a
+	color: $blue
+	text-decoration: none
+	transition: all 0.2s ease-in-out
+	word-break: break-word
+
+.entry a, .readmore a
+	border-bottom: 0.1em solid $gray
+	padding-bottom: 0.05em
+
+	&:hover, &:focus
+		border-bottom: none
+		background: $gray
+
+main
+	background: white
+	margin: 0 auto
+	width: 90%
+	max-width: 960px
+	padding: 2em
+
+section.day > h2
+	display: none
+
+section.day article div.entry, section:first-of-type article:first-of-type div.description, section:first-of-type article:first-of-type div.readmore
+	display: none
+
+section:first-of-type article:first-of-type div:nth-of-type(2)
+	display: initial
+
+section:first-of-type article:first-of-type
+	padding-top: 0
+
+article
+	border-bottom: 0.5em solid $gray
+	padding: 2em 0
+
+pre code
+	white-space: pre-line
