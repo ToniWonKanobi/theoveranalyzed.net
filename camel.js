@@ -57,6 +57,15 @@ app.use(function (request, response, next) {
 // 	});
 // }
 
+// Optionally, force all HTTPS requests to HTTP
+app.use(function (request, response, next) {
+	if (request.headers['x-forwarded-proto'] === 'https') {
+		response.redirect(siteMetadata.SiteRoot + request.url);
+	} else {
+		next();
+	}
+});
+
 var server = http.createServer(app);
 
 // "Statics"
