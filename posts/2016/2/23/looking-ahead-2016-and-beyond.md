@@ -2,7 +2,7 @@ Title: Looking Ahead: 2016 And Beyond
 Date: 2016-02-23 09:05  
 Description: I've got some news for TheOverAnalyzed.  
 Tags: Meta  
-Image: http://d.pr/i/14b8X+  
+Image: https://d.pr/i/14b8X+  
 
 ![Been doing a lot of this lately][1]
 
@@ -72,10 +72,10 @@ As always, thanks for reading.
 [^2]: Unlike a lot of front end "tutorialists" on YouTube, Travis is legitimately fun to learn from. For whatever reason, many of the web design tutorials are put on by wholly uninteresting presenters. Though I'm not saying one has to be entertained while learning, it certainly helps.
 [^3]: "Designer" in the most loose sense of the word. I [know nothing, Jon Snow][b].
 
-[a]: https://www.youtube.com/watch?v=b3RKcha3i7A "YouTube: "Where I Want to Be"
-[b]: https://duckduckgo.com/?q=you+know+nothing+jon+snow+gif&t=osx&ia=gifs&iai=1 "Funny gif"
+[a]: https://www.youtube.com/watch?v=b3RKcha3i7A "YouTube: 'Where I Want to Be'"
+[b]: http://www.riffsy.com/view/riff/4536998/Nothing-GIF?_r=g "Funny gif"
 
-[1]: http://d.pr/i/14b8X+ "Been doing a lot of this lately"
+[1]: https://d.pr/i/14b8X+ "Been doing a lot of this lately"
 [2]: https://en.wikipedia.org/wiki/Front_end_development "Wikipedia: Front end development"
 [3]: http://www.youtube.com/user/DevTipsForDesigners "DevTips YouTube channel"
 [4]: http://travisneilson.com "Travis Neilson"
