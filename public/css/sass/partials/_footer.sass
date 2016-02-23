@@ -1,6 +1,6 @@
 footer
-	background: white
-	color: $darkgray
+	background: $blue
+	color: white
 	text-align: center
 
 	#bottomgraybar
@@ -8,7 +8,6 @@ footer
 		min-height: 0.25em
 
 	#bottomad
-		background: $darkgray
 		margin: auto
 		padding: 0.1em
 
@@ -22,13 +21,13 @@ footer
 			img
 				background: white
 				border-radius: 0.2em
-				box-shadow: 1px 1px 2px $darkgray
+				// box-shadow: 1px 1px 2px $darkgray
 				padding: 0.5em 0.25em 0.5em 0.25em
 				width: 125px
 
 			figcaption
 				background: inherit
-				color: #ddd
+				color: white
 				font-size: 0.75em
 				margin: 1em auto
 				padding: 0
@@ -50,26 +49,30 @@ footer
 				padding: 0
 
 				a
-					color: $darkgray
+					color: white
 
 					&:hover, &:focus
 						color: $blue
+						background: white
+						border-radius: 0.1em
+						padding: 0.25em
 
 	// Cribbed from Hardik Pandya (http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/)
 	form#search input
 		background-color: #f8f8f8
-		border: 2px solid #ddd
+		border: 2px solid $darkgray
 		border-radius: 0.2em
 		color: #999
 		max-width: 200px
 		padding: 0.5em
 		transition: all 0.2s ease-in-out
 		width: 50%
+		font-family: $sans
 
-		&:focus
-			border: 2px solid #ccc
-			box-shadow: 0 4px 8px -4px rgba(0, 0, 0, 0.2)
+		&:hover, &:focus
+			border: 2px solid darken($darkgray,15%)
 			outline: none
+			// box-shadow: 0 4px 8px -4px rgba(0, 0, 0, 0.2)
 
 	p#copyright
 		font-size: 0.7em

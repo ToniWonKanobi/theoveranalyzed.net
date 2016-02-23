@@ -122,16 +122,17 @@ After a bit more searching, I found this [page][7], in which Alex Plumb shared h
 
 After some cribbing of my own, here is the contents of my version of Alex's script:
 
-```
-# Takes as input a potentially unsafe-for-URLs string of text (such as a blog post in Title Case) and creates a URL-safe version
+```applescript
+# Takes as input clipboard content [that is potentially unsafe-for-URLs string of text] (such as a blog post in Title Case)
+# The script then creates a URL-safe version
 # `This Is a Title of a Post!` --> `this-is-a-title-of-a-post`
+# Boomshakalaka
 
 set theclip to the clipboard contents
 on normalize(the_string)
 	set p_script to ¬
 		"# -*- coding: utf-8 -*-
 import unicodedata, sys
-
 def normalize(x):
     normal_form_1 = 'NFKD'
     normal_form_2 = 'NFC'
@@ -209,7 +210,9 @@ set theresult to replace_chars(theresult, "\"", "")
 set theresult to change_case(theresult)
 ```
 
-And here's a screenshot of the workflow (it's actually a Service):![Make URL Slug.workflow][10]
+And here's a screenshot of the workflow:
+
+![Make URL Slug.workflow][10]
 
 ### Explanation
 
@@ -229,7 +232,7 @@ This couldn't get any easier.
 
 ### Source
 
-You can check out `Make URL Slug.workflow` on [GitHub][12].
+You can check out `Make URL Slug.AppleScript` on [GitHub][12]. There are instructions there for creating an Automator service as well.
 
 <aside class="update">
 
@@ -253,4 +256,4 @@ Found some errors in my script, such as not removing commas. So, I fixed that. (
 [9]: http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html "AppleScript tutorial"
 [10]: https://d.pr/i/107X5+ "Finished workflow"
 [11]: https://d.pr/i/1lBKU+ "Keyboard shortcut for Make URL Slug.workflow"
-[12]: https://gist.github.com/ToniWonKanobi/a1a761a95fcc32625370#file-make-url-slug-workflow "View my `Make URL Slug.workflow` on GitHub"
+[12]: https://gist.github.com/ToniWonKanobi/a1a761a95fcc32625370#file-make-url-slug-workflow "View my `Make URL Slug.AppleScript` on GitHub"
