@@ -20,7 +20,7 @@ This site is based on [Casey Liss's][4] static blogging engine, [Camel][5]. I us
 * [`markdown-it-highlightjs`][14] for code highlighting
 * [`markdown-it-implicit-figures`][15], which takes Markdown-style images and wraps them in `<figure>` with `<figcaption>`'s in the resultant HTML
 
-TheOverAnalyzed is hosted on [Heroku][16], and the [SSL][17] and [DNS][18] are provided by [DNSimple][19]. Like all my websites, I use [Hover][20] for domain name registration. Most of the graphics are served via [Droplr][21] embeds.
+TheOverAnalyzed is hosted on [Heroku][16], and the [SSL][17][^1] and [DNS][18] are provided by [DNSimple][19]. Like all my websites, I use [Hover][20] for domain name registration. Most of the graphics are served via [Droplr][21] embeds.
 
 To my knowledge, this site should conform to [HTML5][22] web standards, and its CSS should validate as well. If you find that an area of the site does not perform as expected, please contact me. Just to be safe, try to use a [non-crappy][23] web browser---that helps tremendously.
 
@@ -49,6 +49,8 @@ Perhaps you've looked high and low in a search engine and still can't find a lin
 #### [Markdown Source][30]
 
 You can append `.md` to the end of any static page (such as a blog post) URL to see the actual Markdown source for that page
+
+[^1]: Update: No more SSL for now. It wasn't worth $20/month.
 
 [1]: https://geo.itunes.apple.com/us/app/byword/id420212497?mt=12&at=1l3vx9s "Byword on the Mac App Store"
 [2]: https://atom.io "Atom text editor"

@@ -3,21 +3,25 @@ header > h2
 	line-height: 1.35
 	margin: auto
 
-header.postheader a:hover,
-header.postheaderlinked a:hover,
-header.postheaderlinked a:hover span.linkarrow
+header.postheader a:hover
 	color: $blue
 
 header.postheader h2
-	font-size: 2.1em
+	font-size: 1.65em
 
-	a
-		color: $black
+header.postheader h2 a
+	color: $black
 
 header.postheaderlinked span.linkarrow
 	color: $darkgray
 	transition: all 0.2s ease-in-out
 	vertical-align: -4%
+	display: inline-block
+
+header.postheaderlinked:hover span.linkarrow,
+header.postheaderlinked:focus span.linkarrow
+	color: $blue
+	transform: translate(0.1em)
 
 ul.postsubtitle
 	color: $darkgray
