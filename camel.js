@@ -1215,6 +1215,7 @@ app.get('/:year/:month/:day', function (request, response) {
 				var html = '';
 				html += performMetadataReplacements([], singleHeaderTemplate([]) );
 				html += "<header><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
+				html += performMetadataReplacements([], postBodyStartTemplate([]) );
 				html += "<ul>";
 				var anyFound = false;
 				day.articles.each(function (article) {

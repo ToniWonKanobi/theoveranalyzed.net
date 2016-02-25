@@ -68,7 +68,7 @@ footer
 	// Cribbed from Hardik Pandya (http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/)
 	form#search input
 		background-color: #f8f8f8
-		border: 2px solid $darkgray
+		border: 2px solid $gray
 		border-radius: 0.2em
 		color: #999
 		max-width: 200px
@@ -77,10 +77,13 @@ footer
 		width: 50%
 		font-family: $sans
 
-		&:hover, &:focus
-			border: 2px solid darken($darkgray,15%)
+		&:hover
+			border: 2px solid $darkgray
+
+		&:active, &:focus
+			border: 2px solid darken($darkgray,20%)
 			outline: none
-			// box-shadow: 0 4px 8px -4px rgba(0, 0, 0, 0.2)
+			box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2)
 
 	p#copyright
 		font-size: 0.7em

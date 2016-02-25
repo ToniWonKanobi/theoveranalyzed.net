@@ -24,6 +24,7 @@ img.threeinline
 img.small
 	max-width: 50%
 
+
 ul img,
 ol img,
 blockquote img
@@ -54,6 +55,11 @@ audio
 video
 	margin: auto
 	max-width: 100%
+	border-radius: 0.2em
+
+	// This keeps the caption from causing that space thing that looks stupid in Safari for OS X
+	+ figcaption
+		margin-top: -0.5em
 
 iframe
 	border: none
