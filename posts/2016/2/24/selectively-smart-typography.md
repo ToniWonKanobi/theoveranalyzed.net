@@ -26,11 +26,11 @@ So what does Jalkut suggest?
 
 And if you hate the command line:
 
-> Update: My old friend Chris DeSalvo, who also happens to work at Slack on the Mac Slack app points out that there is a much simpler solution for Slack in particular:
+> **Update:** My old friend Chris DeSalvo, who also happens to work at Slack on the Mac Slack app points out that there is a much simpler solution for Slack in particular:
 >
-> > @danielpunkass @jsatk @SlackHQ You could also go to Edit > Substitutions within the app and disable them there.
+> > [@danielpunkass][2] [@jsatk][3] [@SlackHQ][4] You could also go to Edit > Substitutions within the app and disable them there.
 > >
-> > — Chris DeSalvo (@chrisdesalvo) February 24, 2016
+> > — Chris DeSalvo (@chrisdesalvo) [February 24, 2016][5]
 > 
 > I just confirmed that this seems to work well
 
@@ -39,3 +39,7 @@ Ah, the ol' `Edit` → `Substitutions`.
 It's disheartening to know just how many things I've learned over the years, only to forget them later (👴🏾?)
 
 [1]: #tweetbot-sub-video "Link back to video at the top"
+[2]: https://twitter.com/danielpunkass "Daniel Jalkut on Twitter"
+[3]: https://twitter.com/jsatk "Jesse Atkinson on Twitter"
+[4]: https://twitter.com/SlackHQ "SlackHQ on Twitter"
+[5]: https://twitter.com/chrisdesalvo/status/702542200740007936 "Permalink to Chris DeSalvo's Tweet"
