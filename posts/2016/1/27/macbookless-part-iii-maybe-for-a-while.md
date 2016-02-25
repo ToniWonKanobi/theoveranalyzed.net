@@ -4,16 +4,13 @@ Description: My MacBook Pro is gone. I'm iPad-only right now.
 Tags: MacBookless  
 Image: https://d.pr/i/11rBu+  
 
-*In what could only be described as a series of strange and <s>un</s>fortunate events, I am still Mac\[Book\]less.*
-<!-- {em:.topstory} -->
+*In what could only be described as a series of strange and <s>un</s>fortunate events, I am still Mac\[Book\]less.*<!-- {em:.topstory} -->![It's not that bad, after all.][1]
 
-![It's not that bad, after all.](https://d.pr/i/11rBu+ "iOS full-time right now")
-
-I [recently posted](/2016/1/25/macbookless-part-iib-adventures-with-an-ipad-part-i "My post about my MacBook Pro returning") about my MacBook Pro returning from Apple's Repair Center. Convinced that I would soon be the proud new owner of a "cheese grater" Mac Pro, I hurriedly snapped some pics with my iPhone, trendy-ized them with [VSCO](https://itunes.apple.com/us/app/vsco/id588013838?mt=8&uo=4&at=at=1l3vx9s "VSCO on the App Store"), and placed my MacBook Pro on eBay.
+I [recently posted][2] about my MacBook Pro returning from Apple's Repair Center. Convinced that I would soon be the proud new owner of a "cheese grater" Mac Pro, I hurriedly snapped some pics with my iPhone, trendy-ized them with [VSCO][3], and placed my MacBook Pro on eBay.
 
 It sold in about an hour.[^1]
 
-My "[cheese grater](http://www.macworld.com/article/2057233/where-to-buy-an-old-mac-pro.html "Macworld piece discussing the 'cheese grater")" desires were mostly inspired by Tapbots's [Paul Haddad](https://twitter.com/tapbot_paul/status/690782158898626560 "Paul Haddad's response to me on Twitter"), who recently upgraded his 2009 dual-socket Mac Pro with a couple of [6-core Intel Xeon X5675](http://www.everymac.com/systems/apple/mac_pro/specs/mac-pro-twelve-core-3.06-mid-2012-westmere-specs.html "EveryMac piece discussing these CPUs")'s, transforming that [~7 year old machine](http://browser.primatelabs.com/geekbench3/search?q=model:%22Mac%20Pro%20(Mid%202012)%22%20platform:%22Mac%22%20processor:%22Intel%20Xeon%20X5675%22%20frequency:3070%20bits:64 "Cheese grater performance on GeekBench") into one having roughly 84% of the multi-core performance of a current "[trash can](http://browser.primatelabs.com/geekbench3/search?q=model:%22Mac%20Pro%20(Late%202013)%22%20platform:%22Mac%22%20processor:%22Intel%20Xeon%20E5-2697%20v2%22%20frequency:2700%20bits:64 "GeekBench scores for 'trash can' Mac Pro's")" Mac Pro's (roughly 27,000 on GeekBench's 64-bit benchmark).
+My "[cheese grater][4]" desires were mostly inspired by Tapbots's [Paul Haddad][5], who recently upgraded his 2009 dual-socket Mac Pro with a couple of [6-core Intel Xeon X5675][6]'s, transforming that [~7 year old machine][7] into one having roughly 84% of the multi-core performance of a current "[trash can][8]" Mac Pro's (roughly 27,000 on GeekBench's 64-bit benchmark).
 
 I've always wanted one of those older towers. All those neat compartments, easy to access, arranged so tidily. Those Mac Pro's (and Power Mac G5's before) were some of the finest examples of pre-iPhone, pre-white-room Jony Ive design.
 
@@ -23,7 +20,7 @@ Finally, after it was all said and done, who wouldn't want multi-threaded perfor
 
 Well, Turns Out&trade; it's not quite that simple.
 
-After hours of research on several popular benchmark websites, as well as advice from a few [popular](https://marco.org/2014/10/16/retina-imac-vs-mac-pro "Marco's advice for iMa vs Mac Pro") [bloggers](http://www.anandtech.com/show/7603/mac-pro-review-late-2013/4 "Anand on the Mac Pro vs iMac"), I've discovered this:
+After hours of research on several popular benchmark websites, as well as advice from a few [popular][9] [bloggers][10], I've discovered this:
 
 *For whatever multi-threaded performance the Mac Pro's gain with 12-core chipsets, they give that up and more in single-threaded performance.*
 <!-- {.takehome} -->
@@ -40,9 +37,7 @@ What to do?
 
 As much as I like my new iPad, I still need a Mac. Neither of my websites have traditional web interfaces, and both rely heavily on the command line for deployment.
 
-Because a traditional file system is not exposed on iOS, there is no true command line experience to be had either.
-
-As far TheOverAnalyzed goes, because Camel is a dynamic/static combination blogging engine, even [Coda](https://itunes.apple.com/us/app/coda/id500906297?mt=8&uo=4&at=at=1l3vx9s "Coda on the App Store") has a hard time previewing the website. So while I can write and deploy posts just fine with the Heroku web interface from my iPad, making HTML or CSS changes isn't particularly easy.
+Because a traditional file system is not exposed on iOS, there is no true command line experience to be had either.As far TheOverAnalyzed goes, because Camel is a dynamic/static combination blogging engine, even [Coda][11] has a hard time previewing the website. So while I can write and deploy posts just fine with the Heroku web interface from my iPad, making HTML or CSS changes isn't particularly easy.
 
 The same is true for my dental website, even though it is hosted with GitHub Pages. Making HTML or CSS changes via GitHub Pages is *slightly* easier than with Camel, because at least GitHub has a file system-based web interface, allowing me to `commit` changes and deploy from there. But, like Camel, it's not really easy to do so.
 
@@ -107,3 +102,16 @@ Maybe I'll be getting that iMac after all?
 
 [^1]: My Thunderbolt Display, no doubt hampered by the 5-year old technology therein, has had several bites, but nothing official as of yet.
 [^2]: But who knows. In the future, maybe I'll do a "cheese grater" 12-core build, and have that be a dedicated Handbrake machine / media server.
+
+[1]: https://d.pr/i/11rBu+ "iOS full-time right now"
+[2]: /2016/1/25/macbookless-part-iib-adventures-with-an-ipad-part-i "My post about my MacBook Pro returning"
+[3]: https://itunes.apple.com/us/app/vsco/id588013838?mt=8&uo=4&at=at=1l3vx9s "VSCO on the App Store"
+[4]: http://www.macworld.com/article/2057233/where-to-buy-an-old-mac-pro.html "Macworld piece discussing the 'cheese grater"
+[5]: https://twitter.com/tapbot_paul/status/690782158898626560 "Paul Haddad's response to me on Twitter"
+[6]: http://www.everymac.com/systems/apple/mac_pro/specs/mac-pro-twelve-core-3.06-mid-2012-westmere-specs.html "EveryMac piece discussing these CPUs"
+[7]: http://browser.primatelabs.com/geekbench3/search?q=model:%22Mac%20Pro%20(Mid%202012%22%20platform:%22Mac%22%20processor:%22Intel%20Xeon%20X5675%22%20frequency:3070%20bits:64 "Cheese grater performance on GeekBench"
+[8]: http://browser.primatelabs.com/geekbench3/search?q=model:%22Mac%20Pro%20(Late%202013%22%20platform:%22Mac%22%20processor:%22Intel%20Xeon%20E5-2697%20v2%22%20frequency:2700%20bits:64 "GeekBench scores for 'trash can' Mac Pro's"
+[9]: https://marco.org/2014/10/16/retina-imac-vs-mac-pro "Marco's advice for iMa vs Mac Pro"
+[10]: http://www.anandtech.com/show/7603/mac-pro-review-late-2013/4 "Anand on the Mac Pro vs iMac"
+[11]: https://itunes.apple.com/us/app/coda/id500906297?mt=8&uo=4&at=at=1l3vx9s "Coda on the App Store"
+
