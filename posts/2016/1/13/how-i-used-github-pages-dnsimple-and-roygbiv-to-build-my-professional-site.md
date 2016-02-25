@@ -106,7 +106,7 @@ So, as long as my dental site is hosted on GitHub Pages, it'll be `http` for me.
 
 ### Design
 
-If you haven't yet visited <http://anthonycraigdds>, go ahead and do so now.
+If you haven't yet visited <http://anthonycraigdds.com>, go ahead and do so now.
 
 Notice anything?
 

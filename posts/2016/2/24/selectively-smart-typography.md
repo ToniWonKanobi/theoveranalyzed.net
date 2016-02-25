@@ -6,7 +6,7 @@ Image: http://bitsplitting.org/wp-content/uploads/2016/02/Keyboard.png
 Video: https://d.pr/v/6Cn7+  
 
 <figure id="tweetbot-sub-video">
-	<video controls autoplay title="Sigh.">
+	<video controls preload title="Sigh.">
 		<source src="https://d.pr/v/6Cn7+">
 	</video>
 	<figcaption>I wish Tweetbot wouldn't do this *all* of the time</figcaption>

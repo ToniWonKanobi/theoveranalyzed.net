@@ -573,6 +573,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/macintosh1984.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 359709,
+		"inputAbbreviatedPath": "\/public\/images\/macintosh1984.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/macintosh1984.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/operator.png": {
 		"fileType": 32768,
 		"ignore": 0,
