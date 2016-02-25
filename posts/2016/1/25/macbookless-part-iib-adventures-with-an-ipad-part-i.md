@@ -16,7 +16,9 @@ However, curiosity got the better of me.
 I'll post more later (have to get ready for work),[^1] but here's the gist of it:
 
 1. **I've decided I might like the iPad.**
-2. **I've decided that I might want a Mac Pro.**![Good question, John][3]
+2. **I've decided that I might want a Mac Pro.**
+
+	![Good question, John][3]
 
 Check back later.
 
