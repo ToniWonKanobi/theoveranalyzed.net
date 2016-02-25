@@ -5,7 +5,7 @@ Tags: Typography, Apps, Power User
 Image: http://bitsplitting.org/wp-content/uploads/2016/02/Keyboard.png  
 Video: https://d.pr/v/6Cn7+  
 
-<figure>
+<figure id="tweetbot-sub-video">
 	<video controls autoplay title="Sigh.">
 		<source src="https://d.pr/v/6Cn7+">
 	</video>
@@ -18,7 +18,7 @@ Daniel Jalkut, on OS X's "Smart Subsitutions" (e.g., replacing \`dumb\` quotes l
 >
 > However, the feature can be vexing when typing in contexts where typographic beauty is clearly not the priority. For example the behavior would not make sense in a code editor like Xcode or BBEdit. These apps are more often used to write text that will please a programming language compiler or interpreter, where a string for example must be enclosed by "straight quotes", and “smart quotes” would only lead to a syntax error.
 
-As Jalkut notes later, disabling substitutions system-wise *is* the easiest fix. But it's also akin to using a sledgehammer to hang a small picture on the wall. Doing so would mean apps such as Tweetbot won't---for better or for worse---replace double/triple dashes and/or dumb quotes automatically.
+As Jalkut notes later, disabling substitutions system-wide *is* the easiest fix. But it's also akin to using a sledgehammer to hang a small canvas on the wall. Doing so would mean apps such as Tweetbot won't---[for better or for worse][1]---replace double/triple dashes and/or dumb quotes automatically.
 
 So what does Jalkut suggest?
 
@@ -37,3 +37,5 @@ And if you hate the command line:
 Ah, the ol' `Edit` → `Substitutions`.
 
 It's disheartening to know just how many things I've learned over the years, only to forget them later (👴🏾?)
+
+[1]: #tweetbot-sub-video "Link back to video at the top"
