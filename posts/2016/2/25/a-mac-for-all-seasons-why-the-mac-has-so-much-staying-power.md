@@ -1,6 +1,7 @@
 Title: A Mac for All Seasons: Why the Mac Has So Much Staying Power  
 Date: 2016-02-25 11:21  
 Link: http://www.macworld.com/article/3030423/macs/a-mac-for-all-seasons-why-the-mac-has-so-much-staying-power.html  
+Description: I love the Mac. I hope it's here to stay.  
 Tags: Mac  
 Image: /images/macintosh1984.png  
 

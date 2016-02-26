@@ -209,3 +209,22 @@ hr.long
 
 	&:after
 		content: normal
+
+h3, h4, h5, h6
+	position: relative
+
+	a.header-anchor
+		position: absolute
+		left: -1.5ch
+		opacity: 0
+		border-bottom: none
+		font-size: 75%
+		top: 10%
+
+		&:hover, &:focus
+			opacity: 1
+			background: none
+
+	&:hover a.header-anchor, &:focus a.header-anchor
+		opacity: 1
+		background: none

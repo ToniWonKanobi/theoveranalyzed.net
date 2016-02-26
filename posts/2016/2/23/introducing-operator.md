@@ -1,6 +1,7 @@
 Title: Introducing Operator  
 Date: 2016-02-23 10:00  
 Link: http://www.typography.com/blog/introducing-operator  
+Description: Hoefler & Co. is at it again, this time: monospace style.  
 Tags: Typography  
 Image: /images/operator.png
 

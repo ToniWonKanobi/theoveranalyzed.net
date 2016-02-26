@@ -1,6 +1,7 @@
 Title: Selectively Smart Typography  
 Date: 2016-02-24 19:26  
 Link: http://bitsplitting.org/2016/02/24/selectively-smart-typography/  
+Description: 1) Thanks smart quotes; 2) I hate you smart quotes.  
 Tags: Typography, Apps, Power User  
 Image: http://bitsplitting.org/wp-content/uploads/2016/02/Keyboard.png  
 Video: https://d.pr/v/6Cn7+  
