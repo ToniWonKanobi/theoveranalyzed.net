@@ -6,7 +6,7 @@ Image: https://hodinkee.imgix.net/uploads/images/1454866066620-3tba5o2mss65stt9-
 
 ![From Hodinkee][1]
 
-As I've mentioned [previously][2], the last three weeks have been wrought with a whole mess of YouTube learning, culminating in my continued lack from posting here.
+As I've mentioned [previously][2], the last three weeks have been wrought with a whole mess of YouTube learning, culminating in my continued lack of posting here.
 
 During that time, a couple of articles found their way into my Instapaper feed, both of which having to do with Apple Watch.
 
