@@ -2,7 +2,7 @@ Title: Quentin Tarantino's Desired Cast List for Pulp Fiction
 Date: 2015-10-21 10:19  
 Link: http://kottke.org/15/10/quentin-tarantinos-desired-cast-list-for-pulp-fiction  
 Description: Can you imagine Eddie Murphy as Jules?  
-Tags: Movies  
+Tags: Film  
 Image: http://api.ning.com/files/*D8ySsrdcOD1phIEbRadG-19XL5DsJ57LlAe27OWZ4Hp1fB5bcpGuJThedSCLKwY45YpAhgE78Q*JT73rnwZqhC*GybLbeNl/sj.gif  
 
 <figure>

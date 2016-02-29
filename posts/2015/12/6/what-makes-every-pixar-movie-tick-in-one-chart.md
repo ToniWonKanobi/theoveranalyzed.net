@@ -2,7 +2,7 @@ Title: What Makes Every Pixar Movie Tick, in One Chart
 Date: 2015-12-06 19:06  
 Link: http://www.vox.com/2015/11/23/9780818/pixar-chart-movies-toy-story-anniversary  
 Description: "And then there's Cars"  
-Tags: Movies  
+Tags: Film  
 Image: https://d.pr/i/1hali+  
 
 ![Pixar Themes Chart][1]

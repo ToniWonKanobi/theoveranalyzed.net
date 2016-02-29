@@ -2,7 +2,7 @@ Title: Morgan Freeman Can Now Narrate Your Road Trips
 Date: 2016-02-23 21:47  
 Link: http://www.slashfilm.com/morgan-freeman-gps/  
 Description: "Want a cold one, Andy?"  
-Tags: Movies  
+Tags: Film  
 Image: https://i0.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/morganfreeman-recordingbooth-700x403.jpg?zoom=2&resize=700%2C403  
 
 !["Want a cold one, Andy?"][1]
