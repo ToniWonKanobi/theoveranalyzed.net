@@ -12,6 +12,15 @@ h1, h2, h3, h4, h5, h6
 	font-weight: 600
 	margin: 1.25em auto -0.25em auto
 
+.entry
+	h1, h2, h3, h4, h5, h6
+		a
+			border-bottom: none
+
+			&:hover, &:focus
+				border-bottom: none
+				background: none
+
 h1
 	font-size: 3em
 
@@ -47,7 +56,9 @@ a
 main
 	background: white
 	margin: 0 auto
-	width: 90%
+	width: 80%
+
+	// Target width is ~700px, so have to do `calc()` to account for padding
 	max-width: calc(750px - 4em)
 	padding: 2em
 

@@ -551,6 +551,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/images\/911r.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 647569,
+		"inputAbbreviatedPath": "\/public\/images\/911r.png",
+		"outputAbbreviatedPath": "\/public\/images\/911r.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/favicon-square.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -591,6 +602,17 @@
 		"initialSize": 409826,
 		"inputAbbreviatedPath": "\/public\/images\/operator.png",
 		"outputAbbreviatedPath": "\/public\/images\/operator.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/vader.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 393289,
+		"inputAbbreviatedPath": "\/public\/images\/vader.png",
+		"outputAbbreviatedPath": "\/public\/images\/vader.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

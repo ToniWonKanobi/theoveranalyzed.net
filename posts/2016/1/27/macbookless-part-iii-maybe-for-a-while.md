@@ -4,7 +4,10 @@ Description: My MacBook Pro is gone. I'm iPad-only right now.
 Tags: MacBookless  
 Image: https://d.pr/i/11rBu+  
 
-*In what could only be described as a series of strange and <s>un</s>fortunate events, I am still Mac\[Book\]less.*<!-- {em:.topstory} -->![It's not that bad, after all.][1]
+*In what could only be described as a series of strange and <s>un</s>fortunate events, I am still Mac\[Book\]less.*
+<!-- {em:.topstory} -->
+
+![It's not that bad, after all.][1]
 
 I [recently posted][2] about my MacBook Pro returning from Apple's Repair Center. Convinced that I would soon be the proud new owner of a "cheese grater" Mac Pro, I hurriedly snapped some pics with my iPhone, trendy-ized them with [VSCO][3], and placed my MacBook Pro on eBay.
 
