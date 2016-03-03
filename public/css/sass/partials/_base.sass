@@ -77,6 +77,10 @@ section:first-of-type article:first-of-type
 article
 	border-bottom: 0.5em solid $gray
 	padding: 2em 0
+	transition: all 200ms ease-in-out
+
+	&:hover, &:focus
+		transform: scale(1.02) translate(0.5em)
 
 pre code
 	white-space: pre-line
