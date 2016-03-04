@@ -118,7 +118,7 @@ That would be awesome.
 
 But until then, I'd have to say this:
 
-```
+```md
 iOS 9 + iPad = window management bliss
 ```
 
