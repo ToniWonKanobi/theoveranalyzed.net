@@ -2,7 +2,7 @@ Title: [Pre]Re-MacBookless: The Saga Continues
 Date: 2016-03-04 12:43  
 Description: The HydraDock is DOA. The writing was on the wall, but I let hope sink in and deceive me.  
 Tags: MacBookless  
-Image: /images/preremackbookless.jpg  
+Image: /images/preremacbookless.jpg  
 
 ![Here we go again.][1]
 
@@ -94,7 +94,7 @@ Due to some recent work changes, I get up super early three times a week (betwee
 So, after Allison goes to bed, when I used to be burning the midnight oil, I'm instead consuming.
 
 ![I really, really liked this.][9]
-<!-- {style="border: 0.2em solid #eee; border-radius: 0.2em"} -->
+<!-- {style="border: 0.2em solid #eee; border-radius: 0.25em"} -->
 
 What have I been consuming these days? Typically Tweetbot, Instapaper in the browser, and some sort of media in the background (music, or even movies/TV shows).
 

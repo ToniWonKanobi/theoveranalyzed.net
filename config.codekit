@@ -639,13 +639,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/images\/preremackbookless.jpg": {
+	"\/public\/images\/preremacbookless.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 717158,
-		"inputAbbreviatedPath": "\/public\/images\/preremackbookless.jpg",
-		"outputAbbreviatedPath": "\/public\/images\/preremackbookless.jpg",
+		"inputAbbreviatedPath": "\/public\/images\/preremacbookless.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/preremacbookless.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
