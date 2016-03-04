@@ -606,6 +606,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/ipadmultitaskingjanuary.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 561794,
+		"inputAbbreviatedPath": "\/public\/images\/ipadmultitaskingjanuary.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/ipadmultitaskingjanuary.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/macintosh1984.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -624,6 +635,17 @@
 		"initialSize": 409826,
 		"inputAbbreviatedPath": "\/public\/images\/operator.png",
 		"outputAbbreviatedPath": "\/public\/images\/operator.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/preremackbookless.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 717158,
+		"inputAbbreviatedPath": "\/public\/images\/preremackbookless.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/preremackbookless.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
