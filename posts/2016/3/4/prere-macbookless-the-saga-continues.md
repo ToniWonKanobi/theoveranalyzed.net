@@ -69,7 +69,9 @@ Even if you're a glass-half-full type of person, it doesn't seem like HydraDock 
 
 ### I Hate Waiting
 
-I don't want to wait a "few more months" to use my Cinema Display(s).[^1]So what do I do?Easy, I sell the MacBook ([again][8]) and get another MacBook Pro (again).
+I don't want to wait a "few more months" to use my Cinema Display(s).[^1]
+
+So what do I do? Easy, I sell the MacBook ([again][8]) and get another MacBook Pro (again).
 
 I don't expect any sane person to understand my carousel of Apple hardwares. (I gave up on that years ago, when instead of Apple wares, it was guitars.)
 
