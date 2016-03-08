@@ -683,6 +683,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/pixeltrooper.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95051,
+		"inputAbbreviatedPath": "\/public\/images\/pixeltrooper.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/pixeltrooper.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/prefalcon.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
