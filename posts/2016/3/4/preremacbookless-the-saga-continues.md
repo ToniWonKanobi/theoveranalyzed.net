@@ -1,4 +1,4 @@
-Title: [Pre]Re-MacBookless: The Saga Continues  
+Title: [Pre]ReMacBookless: The Saga Continues  
 Date: 2016-03-04 12:43  
 Description: The HydraDock is DOA. The writing was on the wall, but I let hope sink in and deceive me.  
 Tags: MacBookless  

@@ -562,6 +562,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/falcondeathflying.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144590,
+		"inputAbbreviatedPath": "\/public\/images\/falcondeathflying.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/falcondeathflying.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/falcondeathlanded.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165731,
+		"inputAbbreviatedPath": "\/public\/images\/falcondeathlanded.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/falcondeathlanded.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/falconmos.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185096,
+		"inputAbbreviatedPath": "\/public\/images\/falconmos.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/falconmos.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/favicon-square.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -639,6 +672,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/prefalcon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 175399,
+		"inputAbbreviatedPath": "\/public\/images\/prefalcon.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/prefalcon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/preremacbookless.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -657,6 +701,17 @@
 		"initialSize": 196452,
 		"inputAbbreviatedPath": "\/public\/images\/rufultimate.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/rufultimate.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/tdr2nd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 271750,
+		"inputAbbreviatedPath": "\/public\/images\/tdr2nd.png",
+		"outputAbbreviatedPath": "\/public\/images\/tdr2nd.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
