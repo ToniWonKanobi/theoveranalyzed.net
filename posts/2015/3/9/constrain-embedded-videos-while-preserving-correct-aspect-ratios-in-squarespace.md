@@ -2,14 +2,6 @@ Title: Constrain Embedded Videos While Preserving Correct Aspect Ratios in Squar
 Date: 2015-03-09 08:00  
 Description: Here's how I get YouTube videos to behave responsively in my webpages.  
 Tags: Web Design, Squarespace  
-
-<!-- FitVids (http://fitvidsjs.com) -->
-<script src="/js/fitvids.js"></script>
-<script>
-	$(document).ready(function(){
-		$(".entry").fitVids();
-	});
-</script>
 			
 #### TL;DR
 

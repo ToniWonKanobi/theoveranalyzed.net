@@ -4,14 +4,6 @@ Description: Net Neutrality is important. But there are tradeoffs.
 Tags: Net Neutrality  
 Image: https://d.pr/i/1cu2w+  
 
-<!-- FitVids (http://fitvidsjs.com) -->
-<script src="/js/fitvids.js"></script>
-<script>
-	$(document).ready(function(){
-		$(".entry").fitVids();
-	});
-</script>
-
 <figure>
 	<img src="https://d.pr/i/1cu2w+" alt="Net Neutrality" title="Net Neutrality">
 	<figcaption class="source">Source: <a href="http://www.wired.com/wp-content/uploads/blogs/opinion/wp-content/uploads/2014/01/net-neutrality-op.jpg" title="Source of photo">Wired</a></figcaption></figure>

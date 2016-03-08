@@ -5,14 +5,6 @@ Description: When a major makes more than a minor difference.
 Tags: Star Wars  
 Image: /images/vader.png  
 
-<!-- FitVids (http://fitvidsjs.com) -->
-<script src="/js/fitvids.js"></script>
-<script>
-	$(document).ready(function(){
-		$(".entry").fitVids();
-	});
-</script>
-
 What happens when you take one of the most iconic themes in the past 30 years, and then swap some minor chords for major chords?
 
 This:

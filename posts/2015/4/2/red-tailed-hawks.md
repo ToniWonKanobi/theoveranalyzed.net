@@ -4,14 +4,6 @@ Description: Red-tailed hawks are just as awesome as John Oliver says.
 Tags: Animals, John Oliver  
 Image: https://d.pr/i/1dQXc+  
 
-<!-- FitVids (http://fitvidsjs.com) -->
-<script src="/js/fitvids.js"></script>
-<script>
-	$(document).ready(function(){
-		$(".entry").fitVids();
-	});
-</script>
-
 Here's John Oliver talking about the red-tailed hawk:
 
 <iframe src="https://www.youtube.com/embed/uiN_-AEhTpk" allowfullscreen></iframe>

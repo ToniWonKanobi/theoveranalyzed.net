@@ -5,14 +5,6 @@ Description: Civil Comments is in beta.
 Tags: Blogging, The Web  
 Image: https://civilcomments.com/images/article_images/starwarsvstartrek_2x.png  
 
-<!-- FitVids (http://fitvidsjs.com) -->
-<script src="/js/fitvids.js"></script>
-<script> 
-	$(document).ready(function(){
-		$(".entry").fitVids();
-	});
-</script>
-
 I stumbled onto [Christa Mrgan's][1] [Civil][2] a few weeks ago. What is [Civil Comments][3], you ask?
 
 I could tell you, but you should just watch this instead:

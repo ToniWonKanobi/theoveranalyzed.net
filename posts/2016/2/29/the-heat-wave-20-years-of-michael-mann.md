@@ -5,14 +5,6 @@ Description: 🔫 ➕ 💥 = Heat (1995)
 Tags: Film  
 Image: http://is5.mzstatic.com/image/thumb/Video6/v4/5c/c1/6e/5cc16e6f-f680-d01b-31a8-37b0ab051710/source/10000x10000bb.jpg  
 
-<!-- FitVids (http://fitvidsjs.com) -->
-<script src="/js/fitvids.js"></script>
-<script>
-	$(document).ready(function(){
-		$(".entry").fitVids();
-	});
-</script>
-
 ![I'm \*so\* going to watch this tonight.][1]
 
 Chris Ryan and Sean Witzke at Grantland did a nice retrospective / Q&A on the past 20 years of Michael Mann films.

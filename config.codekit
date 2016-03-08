@@ -672,6 +672,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/photographcover.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 174109,
+		"inputAbbreviatedPath": "\/public\/images\/photographcover.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/photographcover.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/prefalcon.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

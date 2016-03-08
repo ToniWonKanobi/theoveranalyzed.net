@@ -6,14 +6,6 @@ Tags: blah
 Image: blah  
 Video: blah  
 
-<!-- FitVids (http://fitvidsjs.com) -->
-<script src="/js/fitvids.js"></script>
-<script>
-	$(document).ready(function(){
-		$(".entry").fitVids();
-	});
-</script>
-
 <div class="table">
 <figure>
 

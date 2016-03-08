@@ -5,14 +5,6 @@ Description: This is it.
 Tags: Star Wars  
 Video: https://youtu.be/ngElkyQ6Rhs  
 
-<!-- FitVids (http://fitvidsjs.com) -->
-<script src="/js/fitvids.js"></script>
-<script>
-	$(document).ready(function(){
-		$(".entry").fitVids();
-	});
-</script>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ngElkyQ6Rhs"  allowfullscreen></iframe>
 
 [Goose bumps][1], much? 
