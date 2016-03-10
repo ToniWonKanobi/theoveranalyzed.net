@@ -562,6 +562,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/elischiffccconcept.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34743,
+		"inputAbbreviatedPath": "\/public\/images\/elischiffccconcept.png",
+		"outputAbbreviatedPath": "\/public\/images\/elischiffccconcept.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/falcondeathflying.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
