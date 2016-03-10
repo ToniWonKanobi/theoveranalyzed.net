@@ -628,6 +628,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/gordonramsayknifesharpening5things.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 389836,
+		"inputAbbreviatedPath": "\/public\/images\/gordonramsayknifesharpening5things.png",
+		"outputAbbreviatedPath": "\/public\/images\/gordonramsayknifesharpening5things.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/h62ndgen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112487,
+		"inputAbbreviatedPath": "\/public\/images\/h62ndgen.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/h62ndgen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/h6gen1and2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -657,6 +679,17 @@
 		"initialSize": 359709,
 		"inputAbbreviatedPath": "\/public\/images\/macintosh1984.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/macintosh1984.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/mcdreamyleavescarracing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48258,
+		"inputAbbreviatedPath": "\/public\/images\/mcdreamyleavescarracing.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/mcdreamyleavescarracing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -723,6 +756,17 @@
 		"initialSize": 196452,
 		"inputAbbreviatedPath": "\/public\/images\/rufultimate.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/rufultimate.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/taef1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52446,
+		"inputAbbreviatedPath": "\/public\/images\/taef1.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/taef1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
