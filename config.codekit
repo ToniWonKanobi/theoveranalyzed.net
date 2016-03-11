@@ -650,13 +650,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/images\/h62ndgen.jpg": {
+	"\/public\/images\/h62ndgen.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 112487,
-		"inputAbbreviatedPath": "\/public\/images\/h62ndgen.jpg",
-		"outputAbbreviatedPath": "\/public\/images\/h62ndgen.jpg",
+		"initialSize": 872478,
+		"inputAbbreviatedPath": "\/public\/images\/h62ndgen.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/h62ndgen.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
