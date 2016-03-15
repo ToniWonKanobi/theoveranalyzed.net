@@ -595,6 +595,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/bernietawks.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440131,
+		"inputAbbreviatedPath": "\/public\/images\/bernietawks.png",
+		"outputAbbreviatedPath": "\/public\/images\/bernietawks.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/elischiffccconcept.png": {
 		"fileType": 32768,
 		"ignore": 0,
