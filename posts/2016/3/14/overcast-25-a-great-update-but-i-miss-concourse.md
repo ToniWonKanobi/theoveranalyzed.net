@@ -13,7 +13,7 @@ The Dark Theme is my favorite addition to version 2.5:
 ![I think I hate Apple's San Francisco typeface][2]
 <!-- {style="border: 0.2em solid lightgray;"} -->
 
-My only problem with Overcast's new Dark Theme is the removal of [Concourse][3], the tightly-kerned sans-serif Marco used in Overcast since it's launch.[^1]
+My only problem with Overcast's new Dark Theme is the removal of [Concourse][3], the tightly-tracked sans-serif Marco used in Overcast since it's launch.[^1]
 
 <figure>	
 	<video controls autoplay loop title="Switching between Dark Theme and regular theme in Overcast 2.5" style="border: 0.2em solid lightgray">
