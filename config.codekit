@@ -573,6 +573,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/batmankillingjoke.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21564,
+		"inputAbbreviatedPath": "\/public\/images\/batmankillingjoke.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/batmankillingjoke.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/batmanthekillingjokesummer.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 229124,
+		"inputAbbreviatedPath": "\/public\/images\/batmanthekillingjokesummer.png",
+		"outputAbbreviatedPath": "\/public\/images\/batmanthekillingjokesummer.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/elischiffccconcept.png": {
 		"fileType": 32768,
 		"ignore": 0,
