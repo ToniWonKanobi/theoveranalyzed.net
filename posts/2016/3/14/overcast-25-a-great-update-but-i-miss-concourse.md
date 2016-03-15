@@ -92,6 +92,8 @@ It was worth a try!
 
 I've been wanting this for a while. I frequently drive around with my iPhone in the cupholder. I point the speaker toward the bottom of the cupholder, which tends to amplify the sound from the phone.[^3]
 
+I tested this for about five minutes today, windows rolled-down, and while the difference isn't night and day, it's certainly a noticeable improvement.
+
 ***
 
 All in all, Overcast 2.5 is a solid update. I just hope Marco adds an option to use Concourse for the new Dark Theme---San Francisco is way too unopinionated for such an opinionated app.
