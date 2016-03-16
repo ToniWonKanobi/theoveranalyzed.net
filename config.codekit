@@ -650,6 +650,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/fargoanniv.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 458811,
+		"inputAbbreviatedPath": "\/public\/images\/fargoanniv.png",
+		"outputAbbreviatedPath": "\/public\/images\/fargoanniv.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/favicon-square.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -870,6 +881,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/stupiddoors.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 395037,
+		"inputAbbreviatedPath": "\/public\/images\/stupiddoors.png",
+		"outputAbbreviatedPath": "\/public\/images\/stupiddoors.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/taef1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -888,6 +910,17 @@
 		"initialSize": 271750,
 		"inputAbbreviatedPath": "\/public\/images\/tdr2nd.png",
 		"outputAbbreviatedPath": "\/public\/images\/tdr2nd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/themaker.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 427012,
+		"inputAbbreviatedPath": "\/public\/images\/themaker.png",
+		"outputAbbreviatedPath": "\/public\/images\/themaker.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
