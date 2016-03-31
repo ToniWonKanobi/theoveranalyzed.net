@@ -17,5 +17,8 @@ I don't operate in the Windows environment, but if I ever have to in the future,
 $ rm -rf ~/previous/roadblocks && mkdir "hell hath frozen over"
 ```
 
+(From [Rands][3])
+
 [1]: /images/thevergebashonwindows.jpg "The Verge photo of MSFT demo of bash on Windows"
 [2]: https://en.wikipedia.org/wiki/Bash_(Unix_shell) "Wikipedia: Bash shell"
+[3]: https://twitter.com/rands/status/715553065584099329 "Rands's tweet with link to article"
