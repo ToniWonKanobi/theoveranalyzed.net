@@ -1,40 +1,53 @@
-header > h2
+.postheader > h2,
+.postheaderlinked > h2
 	font-weight: 700
 	line-height: 1.35
 	margin: auto
 
-header.postheader a:hover
-	color: $blue
+.postheader
 
-header.postheader h2
-	font-size: 1.65em
+	a:hover, a:focus
+		color: $blue
 
-header.postheader h2 a
-	color: $black
+	h2
+		font-size: 1.65em
 
-header.postheaderlinked span.linkarrow
+		a
+			color: $black
+
+.linkarrow
 	color: $darkgray
 	transition: all 0.2s ease-in-out
 	vertical-align: -4%
 	display: inline-block
 
-header.postheaderlinked h2:hover span.linkarrow,
-header.postheaderlinked h2:focus span.linkarrow
-	color: $blue
-	transform: translate(0.1em)
+	.postheaderlinked h2:hover &,
+	.postheaderlinked h2:focus &
+		color: $blue
+		transform: translate(0.1em)
+
+	article:hover .postheaderlinked h2:hover &, article:focus .postheaderlinked h2:focus &
+		color: white
+		// transform: none
 
 ul.postsubtitle
-	color: $darkgray
 	display: inline
 	font-size: 0.9em
 	list-style: none
 	padding: 0
 
-	a
+	*
 		color: $darkgray
+		transition: all 200ms ease-in-out
 
 		&:hover
 			color: $blue
+
+		article:hover &, article:focus &
+			color: darken(white,30%)
+
+			&:hover, &:focus
+				color: white
 
 	label
 		display: none

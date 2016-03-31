@@ -53,6 +53,14 @@ a
 		border-bottom: none
 		background: $lightgray
 
+	article:hover &, article:focus &
+		border-bottom-color: darken(white,30%)
+
+		&:hover, &:focus
+			background: white
+			border-bottom-color: white
+			color: $blue
+
 main
 	background: white
 	margin: 0 auto
@@ -62,6 +70,9 @@ main
 	// Target width is ~700px, so have to do `calc()` to account for padding
 	max-width: calc(750px - 4em)
 	padding: 2em
+
+	// body.homepage &
+	// 	padding-top: 0
 
 section.day > h2
 	display: none
@@ -73,15 +84,31 @@ section:first-of-type article:first-of-type div:nth-of-type(2)
 	// display: initial
 
 section:first-of-type article:first-of-type
-	padding-top: 0
+	// padding-top: 0
 
 article
-	border-bottom: 0.5em solid $gray
-	padding: 2em 0
-	// transition: all 200ms ease-in-out
-	//
-	// &:hover, &:focus
-	// 	transform: scale(1.02) translate(0.5em)
+	border-bottom: 1em solid $gray
+	margin-bottom: 2em
+	padding: 1em
+	transition: all 250ms ease-in-out
+	box-sizing: border-box
+
+	&:hover, &:focus
+		background: $blue
+		border: 1.5em solid $blue
+		margin-top: 2em
+		margin-bottom: 2em
+
+		*
+			color: white
+
+	&:nth-of-type(odd)
+		&:hover, &:focus
+			transform: rotateZ(2deg) translateX(1%)
+
+	&:nth-of-type(even)
+		&:hover, &:focus
+			transform: rotateZ(-2deg) translateX(-1%)
 
 pre code
 	white-space: pre-line

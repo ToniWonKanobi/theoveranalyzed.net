@@ -101,7 +101,7 @@ var postBodyStartTemplate = null;
 var postBodyEndTemplate = null;
 var homepagePostDescriptionTemplate = null;
 var homepagePostReadMoreTemplate = null;
-var postImage = null;
+// var postImage = null;
 
 var siteMetadata = {};
 siteMetadata.SiteUrl = config.Site.Url;
@@ -333,7 +333,7 @@ function generateHtmlAndMetadataForFile(file) {
 			postBodyStart: performMetadataReplacements(metadata, postBodyStartTemplate(metadata)),
 			// For homepage-only stuff
 			homepagePostDescription: performMetadataReplacements(metadata, homepagePostDescriptionTemplate(metadata)),
-			postImage: performMetadataReplacements(metadata, postImageTemplate(metadata)),
+			// postImage: performMetadataReplacements(metadata, postImageTemplate(metadata)),
 			homepagePostReadMore: performMetadataReplacements(metadata, homepagePostReadMoreTemplate(metadata)),
 			postBodyEnd: performMetadataReplacements(metadata, postBodyEndTemplate(metadata)),
 			rssFooter: performMetadataReplacements(metadata, rssFooterTemplate(metadata)),
@@ -501,9 +501,9 @@ function init() {
 	loadHeaderFooter('homepagePostDescription.html', function (data) {
 		homepagePostDescriptionTemplate = Handlebars.compile(data);
 	});
-	loadHeaderFooter('postImage.html', function (data) {
-		postImageTemplate = Handlebars.compile(data);
-	});
+	// loadHeaderFooter('postImage.html', function (data) {
+	// 	postImageTemplate = Handlebars.compile(data);
+	// });
 	loadHeaderFooter('homepagePostReadMore.html', function (data) {
 		homepagePostReadMoreTemplate = Handlebars.compile(data);
 	});
