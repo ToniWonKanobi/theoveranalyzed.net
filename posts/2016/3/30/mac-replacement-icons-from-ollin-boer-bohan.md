@@ -29,7 +29,7 @@ I was especially inspired to post this today because of Apple's releasing the Sa
 
 Wondering if Bohan had already created a "purple" version of his Safari/WebKit app icon, I tweeted him earlier today, and then just a few moments ago, Bohan answered me (indirectly):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/bouchenoiremarc">@bouchenoiremarc</a> Here&#39;s the purple Safari ICNS I had saved, if you&#39;d like to try it out <a href="https://t.co/GY785Ou9fz">https://t.co/GY785Ou9fz</a> <a href="https://t.co/zU6Xwsms14">pic.twitter.com/zU6Xwsms14</a></p>&mdash; Ollin Boer Bohan (@madebyollin) <a href="https://twitter.com/madebyollin/status/715349486969618432">March 31, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/bouchenoiremarc">@bouchenoiremarc</a> Here&#39;s the purple Safari ICNS I had saved, if you&#39;d like to try it out <a href="https://t.co/GY785Ou9fz">https://t.co/GY785Ou9fz</a> <a href="https://t.co/zU6Xwsms14">pic.twitter.com/zU6Xwsms14</a></p>&mdash; Ollin Boer Bohan (@madebyollin) <a href="https://twitter.com/madebyollin/status/715349486969618432">March 31, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It seemed he made a purple version of the icon months before Apple had dropped the Safari Technology Preview.
 
