@@ -892,6 +892,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/ssstpdock.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40025,
+		"inputAbbreviatedPath": "\/public\/images\/ssstpdock.png",
+		"outputAbbreviatedPath": "\/public\/images\/ssstpdock.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/ssstpdockbetter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47082,
+		"inputAbbreviatedPath": "\/public\/images\/ssstpdockbetter.png",
+		"outputAbbreviatedPath": "\/public\/images\/ssstpdockbetter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/stpollin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 861449,
+		"inputAbbreviatedPath": "\/public\/images\/stpollin.png",
+		"outputAbbreviatedPath": "\/public\/images\/stpollin.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/stupiddoors.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -943,6 +976,28 @@
 		"initialSize": 149621,
 		"inputAbbreviatedPath": "\/public\/images\/thethings.png",
 		"outputAbbreviatedPath": "\/public\/images\/thethings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/thevergebashonwindows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47556,
+		"inputAbbreviatedPath": "\/public\/images\/thevergebashonwindows.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/thevergebashonwindows.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/timexwatch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 596507,
+		"inputAbbreviatedPath": "\/public\/images\/timexwatch.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/timexwatch.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
