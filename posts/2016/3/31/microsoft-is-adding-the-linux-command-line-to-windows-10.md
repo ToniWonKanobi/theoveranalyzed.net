@@ -1,4 +1,4 @@
-Title: Microsoft is adding the Linux command line to Windows 10  
+Title: Microsoft Is Adding the Linux Command Line to Windows 10  
 Date: 2016-03-31 08:47  
 Link: http://www.theverge.com/2016/3/30/11331014/microsoft-windows-linux-ubuntu-bash  
 Description: $ rm -rf ~/previous/roadblocks && mkdir "hell hath frozen over"  
