@@ -870,6 +870,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/safaritechnologypreview.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 928329,
+		"inputAbbreviatedPath": "\/public\/images\/safaritechnologypreview.png",
+		"outputAbbreviatedPath": "\/public\/images\/safaritechnologypreview.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/screwyoudrm.png": {
 		"fileType": 32768,
 		"ignore": 0,

@@ -21,9 +21,3 @@ Nice.
 
 [1]: /images/atvscreencast.gif "Example of ATV 4 screensaver (From John Coates)"
 [2]: https://github.com/JohnCoates/Aerial/blob/master/Readme.md "README.md from the GitHub repo"
-
-<style>
-	figcaption {
-		max-width: 50%;
-	}
-</style> 
