@@ -35,6 +35,22 @@ It seemed he made a purple version of the icon months before Apple had dropped t
 
 ![My Dock, with \*stock\* Finder and Fantastical icons, because code signing is stupid.][2]
 
+<aside class="update">
+
+### Update: How to Change Finder's Icon
+
+March 30, 2016
+<!-- {.updatetime} -->
+
+Follow the instructions [here][3], so that your Dock won't look at stupid as the screenshot above.
+
+Instead, it will look like this:
+
+![Ahh, much better. (Though Fantastical is still ugly.)][4]
+
+</aside>
 
 [1]: /images/stpollin.png "Ollin Boer Bohan purple WebKit icon, which conveinently doubles as an app icon for Safari Technology Preview"
 [2]: /images/ssstpdock.png "Dock with a couple of Bohan's icons"
+[3]: http://osxdaily.com/2014/05/01/change-finder-dock-icon-mac-os-x/ "How to change Finder's Dock icon"
+[4]: /images/ssstpdockbetter.png "Dock with \*three\* of Bohan's icons"
