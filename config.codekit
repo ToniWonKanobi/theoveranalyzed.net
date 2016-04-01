@@ -914,6 +914,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/starwarstfaposter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.12898e+06,
+		"inputAbbreviatedPath": "\/public\/images\/starwarstfaposter.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/starwarstfaposter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/stpollin.png": {
 		"fileType": 32768,
 		"ignore": 0,
