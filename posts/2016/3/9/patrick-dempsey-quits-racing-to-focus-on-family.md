@@ -33,10 +33,26 @@ Whatever the reason, this much is true: just as was the case for the aforementio
 
 (From [Black Flag][2])
 
+<aside class="update">
+
+### Update: Patrick Dempsey: The Timing Just Seems Right
+
+April 2, 2016
+<!-- {.updatetime} -->
+
+Patrick Dempsey, for [Racer][4], on his decision to leave full-time racing:
+
+> The timing just seems exactly right, in the Heuer way. Not too soon, not too late
+
+> Will I race again? At this moment I can't say for sure. I'm very comfortable with my decision to walk away from competitive driving, although I hope to sneak away for a test day or two to keep my skills up
+
+</aside>
+
 [^1]: I'm perfectly happy to admit that I have embraced my \`not-at-work-life\` in which I watch Netflix for hours and clean the house.
 
 	I wish I could be a stay-at-home toni all the time.
-	
+
 [1]: /images/mcdreamyleavescarracing.jpg "McDreamy touching his ear"
 [2]: https://en.wikipedia.org/wiki/Grey%27s_Anatomy "Wikipedia: 'Grey's Anatomy'"
 [3]: http://blackflag.jalopnik.com/mcdreamy-finally-leaves-car-racing-1763790867 "Source post on Black Flag"
+[4]: http://www.racer.com/porsche-motorsport/item/127326-patrick-dempsey-the-timing-just-seems-right "Racer post by Patrick Dempsey himself"
