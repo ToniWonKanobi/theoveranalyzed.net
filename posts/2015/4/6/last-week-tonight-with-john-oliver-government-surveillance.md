@@ -6,3 +6,5 @@ Tags: Advocacy, John Oliver
 Video: https://youtu.be/XEVlyP4_11M  
 
 Probably his most important piece yet.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XEVlyP4_11M" allowfullscreen></iframe>
