@@ -617,6 +617,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/f40inthesnow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 625045,
+		"inputAbbreviatedPath": "\/public\/images\/f40inthesnow.png",
+		"outputAbbreviatedPath": "\/public\/images\/f40inthesnow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/falcondeathflying.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -734,6 +745,17 @@
 		"initialSize": 561794,
 		"inputAbbreviatedPath": "\/public\/images\/ipadmultitaskingjanuary.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/ipadmultitaskingjanuary.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/johnoliverborderwall.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 816302,
+		"inputAbbreviatedPath": "\/public\/images\/johnoliverborderwall.png",
+		"outputAbbreviatedPath": "\/public\/images\/johnoliverborderwall.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -969,6 +991,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/tfaanh.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 286202,
+		"inputAbbreviatedPath": "\/public\/images\/tfaanh.png",
+		"outputAbbreviatedPath": "\/public\/images\/tfaanh.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/themaker.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1031,6 +1064,17 @@
 		"initialSize": 20521,
 		"inputAbbreviatedPath": "\/public\/images\/vdoglogo.png",
 		"outputAbbreviatedPath": "\/public\/images\/vdoglogo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/westeroseconomy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 750526,
+		"inputAbbreviatedPath": "\/public\/images\/westeroseconomy.png",
+		"outputAbbreviatedPath": "\/public\/images\/westeroseconomy.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
