@@ -53,7 +53,7 @@ a
 		border-bottom: none
 		background: $lightgray
 
-	article:hover &, article:focus &
+	.homepage-article:hover &, .homepage-article:focus &
 		border-bottom-color: darken(white,30%)
 
 		&:hover, &:focus
@@ -61,7 +61,7 @@ a
 			border-bottom-color: white
 			color: $blue
 
-main
+.main
 	background: white
 	margin: 0 auto
 	width: 80%
@@ -77,16 +77,16 @@ main
 section.day > h2
 	display: none
 
-section.day article div.entry, section:first-of-type article:first-of-type div.description, section:first-of-type article:first-of-type div.readmore
+section.day .homepage-article div.entry, section:first-of-type .homepage-article:first-of-type div.description, section:first-of-type .homepage-article:first-of-type div.readmore
 	// display: none
 
-section:first-of-type article:first-of-type div:nth-of-type(2)
+section:first-of-type .homepage-article:first-of-type div:nth-of-type(2)
 	// display: initial
 
-section:first-of-type article:first-of-type
+section:first-of-type .homepage-article:first-of-type
 	// padding-top: 0
 
-article
+.homepage-article
 	border-bottom: 1em solid $gray
 	margin-bottom: 2em
 	padding: 1em
@@ -96,19 +96,11 @@ article
 	&:hover, &:focus
 		background: $blue
 		border: 1.5em solid $blue
-		margin-top: 2em
-		margin-bottom: 2em
+		margin-top: 3em
+		margin-bottom: 3em
 
 		*
 			color: white
-
-	&:nth-of-type(odd)
-		&:hover, &:focus
-			transform: rotateZ(2deg) translateX(1%)
-
-	&:nth-of-type(even)
-		&:hover, &:focus
-			transform: rotateZ(-2deg) translateX(-1%)
 
 pre code
 	white-space: pre-line

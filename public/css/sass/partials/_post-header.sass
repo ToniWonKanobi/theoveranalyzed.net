@@ -15,7 +15,7 @@
 		a
 			color: $black
 
-			article:hover &, article:focus &
+			.homepage-article:hover &, .homepage-article:focus &
 				color: white
 
 .linkarrow
@@ -29,10 +29,10 @@
 		color: $blue
 		transform: rotateZ(360deg)
 
-	article:hover .postheaderlinked h2:hover &, article:focus .postheaderlinked h2:focus &
+	.homepage-article:hover .postheaderlinked h2:hover &, .homepage-article:focus .postheaderlinked h2:focus &
 		color: white
 
-ul.postsubtitle
+.postsubtitle
 	display: inline
 	font-size: 0.9em
 	list-style: none
@@ -45,7 +45,7 @@ ul.postsubtitle
 		&:hover
 			color: $blue
 
-		article:hover &, article:focus &
+		.homepage-article:hover &, .homepage-article:focus &
 			color: darken(white,30%)
 
 			&:hover, &:focus
@@ -59,7 +59,8 @@ ul.postsubtitle
 		padding: 0
 
 	li.date:after
-		color: $darkgray
+		// I don't know of any other way to target this silly shadow DOM element
+		color: darken(white,30%)
 		content: '•'
 		margin: 0 0.25em 0 0.25em
 
@@ -68,6 +69,8 @@ ul.postsubtitle
 		padding: 0
 
 		li:after
+			// I don't know of any other way to target this silly shadow DOM element
+			color: darken(white,30%)
 			content: ' and '
 
 		li:last-child:after
