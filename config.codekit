@@ -1046,6 +1046,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/uikitformacs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255318,
+		"inputAbbreviatedPath": "\/public\/images\/uikitformacs.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/uikitformacs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/vader.png": {
 		"fileType": 32768,
 		"ignore": 0,

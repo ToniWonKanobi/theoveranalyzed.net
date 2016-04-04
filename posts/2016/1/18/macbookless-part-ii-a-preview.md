@@ -4,8 +4,6 @@ Description: I've been here before. Might as well use it as a learning experienc
 Tags: Blogging, MacBookless  
 Image: https://d.pr/i/15JLh+  
 
-{{TOC}}
-
 ![Not even OSXDaily could fix this one][1]
 
 ### [♫ The <s>Day</s> Night that [My] MacBook Died ♫][2]

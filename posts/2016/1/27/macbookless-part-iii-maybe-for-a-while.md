@@ -40,7 +40,7 @@ What to do?
 
 As much as I like my new iPad, I still need a Mac. Neither of my websites have traditional web interfaces, and both rely heavily on the command line for deployment.
 
-Because a traditional file system is not exposed on iOS, there is no true command line experience to be had either.As far TheOverAnalyzed goes, because Camel is a dynamic/static combination blogging engine, even [Coda][11] has a hard time previewing the website. So while I can write and deploy posts just fine with the Heroku web interface from my iPad, making HTML or CSS changes isn't particularly easy.
+Because a traditional file system is not exposed on iOS, there is no true command line experience to be had either. As far TheOverAnalyzed goes, because Camel is a dynamic/static combination blogging engine, even [Coda][11] has a hard time previewing the website. So while I can write and deploy posts just fine with the Heroku web interface from my iPad, making HTML or CSS changes isn't particularly easy.
 
 The same is true for my dental website, even though it is hosted with GitHub Pages. Making HTML or CSS changes via GitHub Pages is *slightly* easier than with Camel, because at least GitHub has a file system-based web interface, allowing me to `commit` changes and deploy from there. But, like Camel, it's not really easy to do so.
 
@@ -58,12 +58,12 @@ Here are a few options I've been considering:
 * I *should* just be happy with getting an iMac. It's the fastest single-threaded machine Apple currently sells, and it's multi-core performance is far from shabby
 * And yet, I just don't want an iMac
 * Hard to buy something I just don't want
-	
+
 **2. Get a "cheese grater" Mac Pro**
 
 * I could do the fun experiment, and if/when it sucks for single threaded stuff, sell it and end up back where I am today
 * It certainly wouldn't be the first time I've switched up my Apple gear to try something new
-	
+
 **3. Do nothing (at least for the time being)**
 
 * I can continue using my iPad for the time being
@@ -72,7 +72,7 @@ Here are a few options I've been considering:
 * If those hardware changes come with Thunderbolt 3, Apple could release a standalone 5K display alongside the new Pro MacBooks
 * If---*if*---Apple did all that, I'd be content with that setup as well
 * I'm not sure why that is more appealing than an all-in-one like the iMac, but there it is.
-	
+
 ***
 
 The ideal setup would be one Mac and one iOS device. Having two Mac's and keeping them in sync (even in the days of Dropbox), is a pain.
@@ -117,4 +117,3 @@ Maybe I'll be getting that iMac after all?
 [9]: https://marco.org/2014/10/16/retina-imac-vs-mac-pro "Marco's advice for iMa vs Mac Pro"
 [10]: http://www.anandtech.com/show/7603/mac-pro-review-late-2013/4 "Anand on the Mac Pro vs iMac"
 [11]: https://itunes.apple.com/us/app/coda/id500906297?mt=8&uo=4&at=at=1l3vx9s "Coda on the App Store"
-
