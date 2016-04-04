@@ -9,7 +9,7 @@ Image: /images/timexwatch.jpg
 
 1. Are you [someone][2] who hates the Apple Watch?
 2. Do you still yearn for an activity monitor that doesn't look like the average [Casio G-Shock][3]?
-3. Consider the this Timex
+3. Consider this Timex.
 
 BLE for talking to your pocket-sized screen, two interchangeable straps, and [Indiglo][4]. Not bad at all for <b>[$175.95][5]</b>.
 
