@@ -573,6 +573,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/autoguideteslamodel3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 290555,
+		"inputAbbreviatedPath": "\/public\/images\/autoguideteslamodel3.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/autoguideteslamodel3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/batmankillingjoke.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -910,6 +921,17 @@
 		"initialSize": 98097,
 		"inputAbbreviatedPath": "\/public\/images\/screwyoudrm.png",
 		"outputAbbreviatedPath": "\/public\/images\/screwyoudrm.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/smokeyfloor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 297231,
+		"inputAbbreviatedPath": "\/public\/images\/smokeyfloor.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/smokeyfloor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
