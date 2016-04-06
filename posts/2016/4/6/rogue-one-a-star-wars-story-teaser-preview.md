@@ -3,7 +3,7 @@ Date: 2016-04-06 16:36
 Link: https://youtu.be/MaYv3Y8tyoQ  
 Description: 😱  
 Tags: Star Wars  
-Image: /images/starwarsrogueoneteaserpreview.png  
+Image: /images/starwarsrogueoneteaserpreview.jpg  
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MaYv3Y8tyoQ?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
