@@ -617,6 +617,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/designincode.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195832,
+		"inputAbbreviatedPath": "\/public\/images\/designincode.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/designincode.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/elischiffccconcept.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -749,6 +760,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/howtowinanelection.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 321637,
+		"inputAbbreviatedPath": "\/public\/images\/howtowinanelection.png",
+		"outputAbbreviatedPath": "\/public\/images\/howtowinanelection.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/ipadmultitaskingjanuary.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -767,6 +789,17 @@
 		"initialSize": 816302,
 		"inputAbbreviatedPath": "\/public\/images\/johnoliverborderwall.png",
 		"outputAbbreviatedPath": "\/public\/images\/johnoliverborderwall.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/lightsabersmaroon.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128887,
+		"inputAbbreviatedPath": "\/public\/images\/lightsabersmaroon.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/lightsabersmaroon.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -958,6 +991,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/starwarsrogueoneteaserpreview.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29785,
+		"inputAbbreviatedPath": "\/public\/images\/starwarsrogueoneteaserpreview.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/starwarsrogueoneteaserpreview.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/starwarstfaposter.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1057,6 +1101,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/thisweecb4516.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 265900,
+		"inputAbbreviatedPath": "\/public\/images\/thisweecb4516.png",
+		"outputAbbreviatedPath": "\/public\/images\/thisweecb4516.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/timexwatch.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1064,6 +1119,17 @@
 		"initialSize": 596507,
 		"inputAbbreviatedPath": "\/public\/images\/timexwatch.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/timexwatch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/typomaniac.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89502,
+		"inputAbbreviatedPath": "\/public\/images\/typomaniac.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/typomaniac.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
