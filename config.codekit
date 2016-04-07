@@ -925,6 +925,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/rogueoneteaser.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40183,
+		"inputAbbreviatedPath": "\/public\/images\/rogueoneteaser.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/rogueoneteaser.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/rufultimate.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

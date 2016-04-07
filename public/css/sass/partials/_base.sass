@@ -12,8 +12,7 @@ h1, h2, h3, h4, h5, h6
 	font-weight: 600
 	margin: 1.25em auto -0.25em auto
 
-.entry
-	h1, h2, h3, h4, h5, h6
+	.entry &
 		a
 			border-bottom: none
 
@@ -45,7 +44,7 @@ a
 	transition: all 0.2s ease-in-out
 	word-break: break-word
 
-.entry a, .readmore a
+.entry a, .readmore
 	border-bottom: 0.1em solid $gray
 	padding-bottom: 0.05em
 
@@ -53,6 +52,7 @@ a
 		border-bottom: none
 		background: $lightgray
 
+	// Styles the homepage
 	.homepage-article:hover &, .homepage-article:focus &
 		border-bottom-color: darken(white,30%)
 
@@ -64,17 +64,19 @@ a
 .main
 	background: white
 	margin: 0 auto
-	width: 80%
-	min-height: 48vh
 
 	// Target width is ~700px, so have to do `calc()` to account for padding
+	// (Somewhat arbitrary)
 	max-width: calc(750px - 4em)
+	min-height: 48vh
 	padding: 2em
+	width: 80%
 
-	// body.homepage &
-	// 	padding-top: 0
+	// Removes that space at the top of the first heading on a non-post/homepage page
+	h2:first-of-type
+		margin-top: 0
 
-.day > h2
+.hidden
 	display: none
 
 .homepage-article
@@ -84,12 +86,14 @@ a
 	transition: all 250ms ease-in-out
 	box-sizing: border-box
 
+	// Blue switchero thing
 	&:hover, &:focus
 		background: $blue
 		border: 1.5em solid $blue
 		margin-top: 3em
 		margin-bottom: 3em
 
+		// Turns all the items in the hovered articles white
 		*
 			color: white
 

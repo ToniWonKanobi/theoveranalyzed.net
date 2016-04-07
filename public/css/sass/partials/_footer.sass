@@ -3,81 +3,64 @@
 	color: white
 	text-align: center
 
-	// Copyright paragraph
-	p
-		font-size: 0.7em
-		margin: 0
-		padding: 1.5em 0 1.5em 0
-
-		a
-			color: inherit
-
-.bottomgraybar
-	background: $adblue
-	min-height: 0.25em
+	a
+		color: inherit
 
 .bottomad
+	background: $adblue
 	margin: auto
 	padding: 0.1em
+	min-height: 0.25em
 
-	&:hover img, &:focus img
+	&:hover .vdog-logo, &:focus .vdog-logo
 		transform: scale(1.1) rotate(360deg)
 		transition: all 300ms ease-out
 
-	> h2
-		display: none
+.logo-container
+	background: inherit
+	border: inherit
 
-	figure
-		background: inherit
-		border: inherit
+.vdog-logo
+	background: white
+	border-radius: 0.2em
+	padding: 0.5em 0.25em 0.5em 0.25em
+	transition: all 200ms ease-in
+	width: 125px
 
-	img
-		background: white
-		border-radius: 0.2em
-		padding: 0.5em 0.25em 0.5em 0.25em
-		transition: all 200ms ease-in
-		width: 125px
+.ad-marker
+	background: inherit
+	color: white
+	font-size: 0.75em
+	margin: 1em auto
+	padding: 0
 
-	figcaption
-		background: inherit
-		color: white
-		font-size: 0.75em
-		margin: 1em auto
-		padding: 0
-
-nav
+.bottom-navigation
 	padding: 1.5em 0 1.5em 0
 
-	> h2
-		display: none
+.nav-item-container
+	margin: 0.5em
+	padding: 0
 
-	ul
-		margin: 0.5em
-		padding: 0
+.nav-item
+	border-radius: 0.25em
+	font-size: large
+	list-style: none
+	margin: 0.5em auto
+	width: 100px
+	padding: 0.15em 0.25em
+	transition: all 200ms ease-in-out
+	text-transform: uppercase
 
-	li
+	&:hover, &:focus
+		color: $blue
+		background: white
 		border-radius: 0.25em
-		font-size: large
-		list-style: none
-		margin: 0.5em auto
-		width: 100px
-		padding: 0.15em 0.25em
-		transition: all 200ms ease-in-out
-		text-transform: uppercase
 
-		&:hover, &:focus
-			color: $blue
-			background: white
-			border-radius: 0.25em
-
-		&:hover a, &:focus a
-			color: $blue
-
-		a
-			color: white
+	&:hover a, &:focus a
+		color: $blue
 
 // Cribbed from Hardik Pandya (http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/)
-form#search input
+.search input
 	background-color: #f8f8f8
 	border: 2px solid $gray
 	border-radius: 0.2em
@@ -95,3 +78,8 @@ form#search input
 		border: 2px solid darken($darkgray,20%)
 		outline: none
 		box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2)
+
+.copyright-statement
+	font-size: 0.7em
+	margin: 0
+	padding: 1.5em 0 1.5em 0

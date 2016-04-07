@@ -1,4 +1,5 @@
-em.topstory code
+// Turns off italicization for code
+.topstory code
 	font-style: normal
 
 figure
@@ -12,23 +13,19 @@ img
 	vertical-align: middle
 	max-width: 100%
 
-img.twoinline
+.twoinline
 	display: inline
 	margin: 1%
 	width: 46%
 
-img.threeinline
+.threeinline
 	display: initial
 	margin: 1%
 	width: 29%
 
-img.small
-	max-width: 50%
-
-ul img,
-ol img,
-blockquote img
-	margin-left: initial
+ul, ol, blockquote
+	img
+		margin-left: initial
 
 figcaption
 	background: $lightgray
@@ -42,13 +39,9 @@ figcaption
 	padding: 0.75em
 	width: 90%
 
-figcaption.source,
+.source,
 figcaption code
 	font-style: normal
-
-img.small + figcaption
-	margin: auto
-	width: 40%
 
 audio
 	width: 100%
@@ -67,6 +60,7 @@ video
 iframe
 	border: none
 
+// FitVids stuff
 div.fluid-width-video-wrapper
 	margin: 1em auto
 
@@ -76,7 +70,7 @@ blockquote
 	margin: 1em
 	padding-left: 1em
 
-blockquote.convo
+.convo
 	border-left: none
 	font-style: italic
 
@@ -119,7 +113,9 @@ li
 	margin: 1em auto
 	padding-left: 0.25em
 
-div.table
+// Some posts have a table within a division
+// This rule allows scrolling
+.table
 	overflow: auto
 
 table
@@ -128,25 +124,25 @@ table
 	border-collapse: collapse
 	margin: auto
 
-table.sortable thead
+	th
+		background: $lightgray
+		border-top: 2px solid $gray
+		border-left: 2px solid $gray
+		padding: 0.3em 1em
+
+		code
+			border: 1px solid $gray
+			border-radius: 0.2em
+
+	td
+		border-top: 2px solid $gray
+		border-left: 2px solid $gray
+		padding: 0.3em 1em
+
+.sortable thead
 	cursor: default
 
-table th
-	background: $lightgray
-	border-top: 2px solid $gray
-	border-left: 2px solid $gray
-	padding: 0.3em 1em
-
-table td
-	border-top: 2px solid $gray
-	border-left: 2px solid $gray
-	padding: 0.3em 1em
-
-table th code
-	border: 1px solid $gray
-	border-radius: 0.2em
-
-em.takehome
+.takehome
 	border-top: 4px solid $gray
 	border-bottom: 4px solid $gray
 	color: $blue
@@ -157,7 +153,7 @@ em.takehome
 	padding: 0.5em 0 0.5em 0.1em
 	text-transform: uppercase
 
-aside.update
+.update
 	background: $lightgray
 	border-radius: 0.2em
 	margin-top: 2em
@@ -187,16 +183,18 @@ aside.update
 		background: $gray
 		color: #777
 
-	p.updatetime
-		color: $darkgray
-		font-size: 0.9em
-		margin-top: 0.5em
+.updatetime
+	color: $darkgray
+	font-size: 0.9em
+	margin-top: 0.5em
 
 hr
 	border: none
 	color: #555
 	text-align: center
 
+	// Instead of something markup-unfriendly, like
+	// `<p style="text-align: center">* * *</p>`
 	&:after
 		content: "***"
 		font-size: 1.25em
@@ -204,7 +202,7 @@ hr
 		position: relative
 		top: 0.2em
 
-hr.long
+.long
 	border-radius: 0.2em
 	border: 1px solid $gray
 	margin: 1.5em auto 1.5em auto
@@ -216,7 +214,8 @@ hr.long
 h3, h4, h5, h6
 	position: relative
 
-	a.header-anchor
+	// Targets head-anchors in the text
+	.header-anchor
 		position: absolute
 		left: -1.5ch
 		opacity: 0
@@ -228,6 +227,6 @@ h3, h4, h5, h6
 			opacity: 1
 			background: none
 
-	&:hover a.header-anchor, &:focus a.header-anchor
+	&:hover .header-anchor, &:focus .header-anchor
 		opacity: 1
 		background: none

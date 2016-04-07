@@ -1,23 +1,19 @@
-section#pagination
+.pagination
 	background: white
 	border-radius: 0.2em
 	font-size: 1.1em
 	font-weight: 400
 	height: 1.75em
 	margin: 1.5em auto auto
-	// padding: 1.25em 1.5em 1em 1.5em
 
-	> h2
-		display: none
+.page-markers
+	margin: auto
 
-	p
-		margin: auto
+.older, .newer
+	color: $darkgray
 
-	a
-		color: $darkgray
+	&:hover, &:focus
+		color: $blue
 
-		&:hover, &:focus
-			color: $blue
-
-	.previousPage
-		float: right
+.newer
+	float: right

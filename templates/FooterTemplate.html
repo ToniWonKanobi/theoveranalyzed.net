@@ -1,11 +1,11 @@
-<section id="pagination">
-	<h2>Pagination</h2>
-	<p>
+<section class="pagination">
+	<h2 class="hidden">Pagination</h2>
+	<p class="page-markers">
 		{{#if nextPage}}
-			<a href="/page/{{nextPage}}" class="nextPage" rel="previous" title="Older Posts"><span style="vertical-align: -4%">&#8592;</span>&nbsp;Older</a>
+			<a class="older" href="/page/{{nextPage}}" class="nextPage" rel="previous" title="Older Posts"><span style="vertical-align: -4%">&#8592;</span>&nbsp;Older</a>
 		{{/if}}
 		{{#if prevPage}}
-			<a href="/page/{{prevPage}}" class="previousPage" rel="next" title="Newer Posts">Newer&nbsp;<span style="vertical-align: -4%">&#8594;</span></a>
+			<a class="newer" href="/page/{{prevPage}}" rel="next" title="Newer Posts">Newer&nbsp;<span style="vertical-align: -4%">&#8594;</span></a>
 		{{/if}}
 	</p>
 </section>

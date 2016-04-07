@@ -1,14 +1,14 @@
 {{#if Link}}
 <header class="postheaderlinked">
-	<h2><a href="{{Link}}" title="Go to External Content">{{Title}}&nbsp;<span class="linkarrow">&#8594;</span></a></h2>
+	<h2 class="postheaderlinked-heading"><a href="{{Link}}" title="Go to External Content">{{Title}}&nbsp;<span class="linkarrow">&#8594;</span></a></h2>
 	<ul class="postsubtitle">
 		<li class="date">
 			<a href="{{formatArchiveDate Date}}" title="Posts from this day"><time class="instapaper_date" dateTime="{{formatIsoDate Date}}" pubdate>{{formatPostDate Date}}</time></a>
 		</li>
-		<li class="tags"><label>Tags: </label>
-			<ul>
+		<li class="tags-container"><label class="hidden">Tags: </label>
+			<ul class="tags-list">
 				{{#each tags}}
-				<li>{{{this}}}</li>
+				<li class="tag-item">{{{this}}}</li>
 				{{/each}}
 			</ul>
 		</li>
@@ -16,15 +16,15 @@
 </header>
 {{else}}
 <header class="postheader">
-	<h2><a href="{{relativeLink}}" title="Permalink to this Post">{{Title}}</a></h2>
+	<h2 class="postheader-heading"><a class="postheader-heading-link" href="{{relativeLink}}" title="Permalink to this Post">{{Title}}</a></h2>
 	<ul class="postsubtitle">
 		<li class="date">
 			<a href="{{formatArchiveDate Date}}" title="Posts from this day"><time class="instapaper_date" dateTime="{{formatIsoDate Date}}" pubdate>{{formatPostDate Date}}</time></a>
 		</li>
-		<li class="tags"><label>Tags: </label>
-			<ul>
+		<li class="tags-container"><label class="hidden">Tags: </label>
+			<ul class="tags-list">
 				{{#each tags}}
-				<li>{{{this}}}</li>
+				<li class="tag-item">{{{this}}}</li>
 				{{/each}}
 			</ul>
 		</li>
