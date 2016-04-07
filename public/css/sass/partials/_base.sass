@@ -44,6 +44,10 @@ a
 	transition: all 0.2s ease-in-out
 	word-break: break-word
 
+// Removes the margin at the top of the first article on the homepage
+.day:first-of-type .homepage-article:first-of-type
+	margin-top: 0
+
 .entry a, .readmore
 	border-bottom: 0.1em solid $gray
 	padding-bottom: 0.05em
@@ -76,12 +80,12 @@ a
 	h2:first-of-type
 		margin-top: 0
 
+// Generic class that makes a lot of things easier (yet still okay for semantics/outline purposes)
 .hidden
 	display: none
 
 .homepage-article
-	border-bottom: 1em solid $gray
-	margin-bottom: 2em
+	margin: 2em 0
 	padding: 1em
 	transition: all 250ms ease-in-out
 	box-sizing: border-box
@@ -96,6 +100,26 @@ a
 		// Turns all the items in the hovered articles white
 		*
 			color: white
+
+// Necessary to so that the content is spaced nicely in the padding-laden parent container
+.readmore-container
+	margin-bottom: 0
+
+// Better than a single border-bottom on each article
+.article-separator
+	border-radius: 0
+	border: 0.75em solid $gray
+	color: $gray
+	margin: 1.5em auto 1.5em auto
+
+	&:after
+		content: normal
+
+	// Random thingy on the homepage hr's
+	&:hover, &:focus
+		transition: transform 650ms ease-in
+		transition-delay: 200ms
+		transform: rotateY(180deg)
 
 pre code
 	white-space: pre-line
