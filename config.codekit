@@ -980,6 +980,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/sookie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 468098,
+		"inputAbbreviatedPath": "\/public\/images\/sookie.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/sookie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/ssstpdock.png": {
 		"fileType": 32768,
 		"ignore": 0,
