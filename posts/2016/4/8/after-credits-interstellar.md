@@ -7,7 +7,7 @@ Image: /images/aftercreditsinterstellar.jpg
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6byRZdKdDRk?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
-I've linked to this movie [before][3]. And I've long thought that the best part of [Interstellar][4] was the first half to the movie. I thought it was genuinely emotional (and great) up until the whole \`old-lady-Murph\` part. (That such ridiculousness was pointed out by the After Credits video warms my heart.)
+I've linked to this movie [before][3]. And I've long thought that the best part of [Interstellar][4] was the first half of the movie. I thought it was genuinely emotional (and great) up until the whole \`old-lady-Murph\` part. (That such ridiculousness was pointed out by the After Credits video warms my heart.)
 
 After Credits is a new collaboration between Screen Junkies ([Honest Trailers][1]), and the team behind [How It Should Have Ended][2].
 
