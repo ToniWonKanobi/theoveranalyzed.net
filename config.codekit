@@ -562,6 +562,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/ac2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84235,
+		"inputAbbreviatedPath": "\/public\/images\/ac2.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/ac2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/aftercreditsinterstellar.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

@@ -1,6 +1,7 @@
 Title: About  
 Date: 2016-01-16 16:21  
 Description: Info about me and TheOverAnalyzed  
+Image: /images/ac2.jpg
 
 Hi. I'm [Anthony][1] 🤓
 
@@ -59,7 +60,7 @@ There is also an alternate RSS feed, for which linked posts point back to TheOve
 You can subscribe to the email newsletter [here][16]
 
 [1]: http://www.twitter.com/toniwonkanobi "Me on Twitter"
-[2]: https://d.pr/i/1d53F+ "Allison and I"
+[2]: /images/ac2.jpg "Allison and I"
 [3]: http://anthonycraigdds.com "My J-O-B job"
 [4]: /tags/Star%20Wars "Posts tagged 'Star Wars'"
 [5]: https://github.com/ToniWonKanobi "Me on GitHub"
