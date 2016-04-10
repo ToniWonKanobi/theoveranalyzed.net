@@ -562,6 +562,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/aftercreditsinterstellar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68445,
+		"inputAbbreviatedPath": "\/public\/images\/aftercreditsinterstellar.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/aftercreditsinterstellar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/allisonyoursomething.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -580,6 +591,17 @@
 		"initialSize": 290555,
 		"inputAbbreviatedPath": "\/public\/images\/autoguideteslamodel3.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/autoguideteslamodel3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/axium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84068,
+		"inputAbbreviatedPath": "\/public\/images\/axium.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/axium.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -613,6 +635,28 @@
 		"initialSize": 440131,
 		"inputAbbreviatedPath": "\/public\/images\/bernietawks.png",
 		"outputAbbreviatedPath": "\/public\/images\/bernietawks.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/dentrix.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82354,
+		"inputAbbreviatedPath": "\/public\/images\/dentrix.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/dentrix.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/dentrixtoolbars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151503,
+		"inputAbbreviatedPath": "\/public\/images\/dentrixtoolbars.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/dentrixtoolbars.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -811,6 +855,17 @@
 		"initialSize": 359709,
 		"inputAbbreviatedPath": "\/public\/images\/macintosh1984.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/macintosh1984.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/macpractice.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 306719,
+		"inputAbbreviatedPath": "\/public\/images\/macpractice.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/macpractice.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
