@@ -3,7 +3,7 @@ Date: 2016-04-12 08:21
 Link: https://www.hillaryclinton.com/404  
 Description: Whoever's doing the front end for Hillary's campaign is legitimately funny.  
 Tags: Politics  
-Image: /images/hillary-subway-card.gif  
+Image: /images/hillarysubway.jpg  
 
 ![From Hillary Clinton's campaign][1]
 

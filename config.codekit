@@ -892,6 +892,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/hillarysubway.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90496,
+		"inputAbbreviatedPath": "\/public\/images\/hillarysubway.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/hillarysubway.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/howtowinanelection.png": {
 		"fileType": 32768,
 		"ignore": 0,
