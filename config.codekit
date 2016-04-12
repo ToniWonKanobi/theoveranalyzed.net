@@ -672,6 +672,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/bloodlineseason2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28380,
+		"inputAbbreviatedPath": "\/public\/images\/bloodlineseason2.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/bloodlineseason2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/both.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -712,6 +723,17 @@
 		"initialSize": 195832,
 		"inputAbbreviatedPath": "\/public\/images\/designincode.jpeg",
 		"outputAbbreviatedPath": "\/public\/images\/designincode.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/elagor1.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76655,
+		"inputAbbreviatedPath": "\/public\/images\/elagor1.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/elagor1.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -954,6 +976,17 @@
 		"initialSize": 48258,
 		"inputAbbreviatedPath": "\/public\/images\/mcdreamyleavescarracing.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/mcdreamyleavescarracing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/nigelinla.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 550484,
+		"inputAbbreviatedPath": "\/public\/images\/nigelinla.png",
+		"outputAbbreviatedPath": "\/public\/images\/nigelinla.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
