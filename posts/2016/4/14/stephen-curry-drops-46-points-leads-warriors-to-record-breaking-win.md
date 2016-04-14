@@ -11,5 +11,5 @@ Seems like last night was an [important one][1] for NBA fans.
 
 (From [Devour][2])
 
-[1]: https://www.youtube.com/watch?v=SX6PvEMAvtA "YouTube: 'Kobe Bryant's Last Game Final Introduction for Lakers'"
+[1]: https://www.youtube.com/watch?v=BdGeXcJ-hfo "YouTube: 'Kobe Bryant Drops 60 in Final Game of Career!!'"
 [2]: http://devour.com/video/the-warriors-make-history/ "Source post from Devour"
