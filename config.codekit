@@ -694,6 +694,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/bottom-fade.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3925,
+		"inputAbbreviatedPath": "\/public\/images\/bottom-fade.png",
+		"outputAbbreviatedPath": "\/public\/images\/bottom-fade.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/cb1.0full.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.91484e+07,
+		"inputAbbreviatedPath": "\/public\/images\/cb1.0full.png",
+		"outputAbbreviatedPath": "\/public\/images\/cb1.0full.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/cb1.0small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.22543e+06,
+		"inputAbbreviatedPath": "\/public\/images\/cb1.0small.png",
+		"outputAbbreviatedPath": "\/public\/images\/cb1.0small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/cb2.0full.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8.56045e+06,
+		"inputAbbreviatedPath": "\/public\/images\/cb2.0full.png",
+		"outputAbbreviatedPath": "\/public\/images\/cb2.0full.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/cb2.0small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 798393,
+		"inputAbbreviatedPath": "\/public\/images\/cb2.0small.png",
+		"outputAbbreviatedPath": "\/public\/images\/cb2.0small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/dentrix.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1262,6 +1317,17 @@
 		"initialSize": 52446,
 		"inputAbbreviatedPath": "\/public\/images\/taef1.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/taef1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/tapbotsfirst.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103445,
+		"inputAbbreviatedPath": "\/public\/images\/tapbotsfirst.png",
+		"outputAbbreviatedPath": "\/public\/images\/tapbotsfirst.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
