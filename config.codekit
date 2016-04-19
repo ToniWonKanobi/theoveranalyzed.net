@@ -705,6 +705,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/c7r.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154908,
+		"inputAbbreviatedPath": "\/public\/images\/c7r.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/c7r.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/cb1.0full.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -976,6 +987,17 @@
 		"initialSize": 561794,
 		"inputAbbreviatedPath": "\/public\/images\/ipadmultitaskingjanuary.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/ipadmultitaskingjanuary.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/iwscclasses.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 404294,
+		"inputAbbreviatedPath": "\/public\/images\/iwscclasses.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/iwscclasses.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
