@@ -6,7 +6,7 @@ Tags: Dentistry
 Image: /images/dentrix.jpg  
 
 ![Even the Mac OS software port is terrible][1]
-<!-- {style="border: 0.2em solid #eee;"} -->
+<!-- {.border} -->
 
 Marco Arment was recently featured in a [series of videos][2] for the YouTube channel Computerphile. It was mostly about how he got his start at [tumblr][3], and about his current efforts as an [indie app developer][4].
 
@@ -27,10 +27,10 @@ Moreover, every office uses a different software suite, so transferring patient 
 This is merely a glimpse of what the average dentist has to look at in between seeing patients:
 
 ![axiUm][6]
-<!-- {style="border: 0.2em solid #eee;"} -->
+<!-- {.border} -->
 
 ![Dentrix][7]
-<!-- {style="border: 0.2em solid #eee;"} -->
+<!-- {.border} -->
 
 Pretty great, don't you think? 😑
 

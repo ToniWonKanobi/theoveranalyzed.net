@@ -5,7 +5,7 @@ Tags: Development, Mac
 Image: /images/uikitformacs.jpg  
 
 ![Screenshot of Brent Simmon's blog post][1] <!-- {No figure} -->
-<!-- {style="border: 0.25em solid lightgray"} -->
+<!-- {.border} -->
 
 Here's what Brent Simmons had to say on [porting UIKit to the Mac][2]:
 

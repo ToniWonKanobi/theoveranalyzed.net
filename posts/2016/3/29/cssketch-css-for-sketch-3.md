@@ -9,7 +9,7 @@ Image: /images/sketchscreencast.gif
 <!-- {em:.topstory} -->
 
 ![Yes, this is a real thing: CSS in Sketch (From John Coates)][2]
-<!-- {style="border: 0.2em solid lightgray"} -->
+<!-- {.border} -->
 
 I [*still*][3] haven't made my front-end-focused website, so, in the meantime, I'll have to share this here.
 

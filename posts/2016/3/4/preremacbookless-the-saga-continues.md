@@ -96,7 +96,7 @@ Due to some recent work changes, I get up super early three times a week (betwee
 So, after Allison goes to bed, when I used to be burning the midnight oil, I'm instead consuming.
 
 ![I really, really liked this.][9]
-<!-- {style="border: 0.2em solid #eee; border-radius: 0.25em"} -->
+<!-- {.border} -->
 
 What have I been consuming these days? Typically Tweetbot, Instapaper in the browser, and some sort of media in the background (music, or even movies/TV shows).
 

@@ -9,7 +9,7 @@ Image: https://d.pr/i/GdiG+
 <!-- {.topstory} -->
 
 ![Naomie Ross: "On the website, Jubilat is used as the headline typeface, while Freight Sans is used for supporting text."][1]
-<!-- {style="border: 0.2em solid #eee"} -->
+<!-- {.border} -->
 
 Bernie Sanders is about as [polarizing of a political figure][2] as any of the other [current][3] [front-runners][4] for [POTUS][5] [2016][6].
 

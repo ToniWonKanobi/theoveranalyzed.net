@@ -6,7 +6,7 @@ Tags: Typography
 Image: /images/tdr2nd.png  
 
 ![The Typographic Desk Reference, 2nd Ed.][1]
-<!-- {style="border: 0.2em solid #eee;"} -->
+<!-- {.border} -->
 
 > The second edtion – with a foreword by Erik Spiekermann – has over doubled in size, the specimens have been reclassified to modern standards, and the index (now 1/6 of the book) has been deeply cross referenced, allowing you to – among other things – find the glyphs required for a particular language.
 
