@@ -3,7 +3,7 @@ Date: 2016-04-20 12:03
 Link: http://ilovetypography.com/2010/06/04/html5-css3-typography/  
 Description: Thanks to the Internet Archive, I can permalink to a sweet HTML5/CSS3 demo from Apple.  
 Tags: The Web, HTML, CSS  
-Image: /images/ilovetypographysafarihtml5demo.png  
+Image: /images/html5showcase.png  
 
 ![Doesn't this look neat? (From Apple)][1]
 
