@@ -760,6 +760,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/cbgameboy.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158423,
+		"inputAbbreviatedPath": "\/public\/images\/cbgameboy.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/cbgameboy.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/dentrix.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -976,6 +987,72 @@
 		"initialSize": 321637,
 		"inputAbbreviatedPath": "\/public\/images\/howtowinanelection.png",
 		"outputAbbreviatedPath": "\/public\/images\/howtowinanelection.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/html5demowebkittransform.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 279248,
+		"inputAbbreviatedPath": "\/public\/images\/html5demowebkittransform.png",
+		"outputAbbreviatedPath": "\/public\/images\/html5demowebkittransform.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/html5safari50after.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 296787,
+		"inputAbbreviatedPath": "\/public\/images\/html5safari50after.png",
+		"outputAbbreviatedPath": "\/public\/images\/html5safari50after.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/html5safari50before.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 287186,
+		"inputAbbreviatedPath": "\/public\/images\/html5safari50before.png",
+		"outputAbbreviatedPath": "\/public\/images\/html5safari50before.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/html5showcase.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146841,
+		"inputAbbreviatedPath": "\/public\/images\/html5showcase.png",
+		"outputAbbreviatedPath": "\/public\/images\/html5showcase.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/ilovetypographyidealsans.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440202,
+		"inputAbbreviatedPath": "\/public\/images\/ilovetypographyidealsans.png",
+		"outputAbbreviatedPath": "\/public\/images\/ilovetypographyidealsans.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/ilovetypographysafarihtml5demo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134876,
+		"inputAbbreviatedPath": "\/public\/images\/ilovetypographysafarihtml5demo.png",
+		"outputAbbreviatedPath": "\/public\/images\/ilovetypographysafarihtml5demo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
