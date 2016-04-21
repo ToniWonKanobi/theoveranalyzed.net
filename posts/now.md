@@ -7,10 +7,9 @@ What Am I Up to Right Now?[^1]
 * Living in [Southern California][1]
 * Working at Hospitality Dental Group and Orthodontics (see <http://anthonycraigdds.com>)
 * [Tweaking][2] this website
-	* Ditched the `https` because $20/month wasn't worth it
-	* Ditched the `www` because 2016
-* Learning a lot on DevTips
-* Patiently waiting for my HydraDock so I can use my Apple Cinema Display
+	* Using Sass to write all the CSS
+	* Doing more intelligent stuff with classes instead of nesting selectors (easier to maintain)
+* Got a Thunderbolt Display (again), because the HydraDock just wasn't shipping
 
 [^1]: What is this all about? Read [this][3].
 
