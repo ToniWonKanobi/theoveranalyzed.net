@@ -1332,6 +1332,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/sRGB-vs-Display-P3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 423683,
+		"inputAbbreviatedPath": "\/public\/images\/sRGB-vs-Display-P3.png",
+		"outputAbbreviatedPath": "\/public\/images\/sRGB-vs-Display-P3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/ssstpdock.png": {
 		"fileType": 32768,
 		"ignore": 0,
