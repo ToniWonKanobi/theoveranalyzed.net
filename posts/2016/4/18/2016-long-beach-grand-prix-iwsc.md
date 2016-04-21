@@ -121,6 +121,23 @@ So, I'm conflicted. I'm happy that Porsche Works won the GTLM class. But I'm sad
 
 See you next year, LBGP.
 
+<aside class="update">
+
+### Update: Inside Patrick Long's 991 GT3 R
+
+April 21, 2016
+<!-- {.updatetime} -->
+
+I forgot to mention that I saw [Patrick Long][30] in the paddock area (preparing for his race the following day).
+
+In addition to being the only current American Factory Porsche driver (and co-proprietor of [Luftgekühlt][31]), he's also racing for Emotion Engineering in the Pirelli World Challenge (PWC).
+
+Here's an onboard video posted by the [PWC][30]:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qDlA1V9HHvs?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+
+</aside>
+
 [^1]: This stands in contrast to other racing events, such as NASCAR, in which all of the cars are basically the same. Such events derive competition in driver skill, rather than team engineering (since all the cars are the same).
 [^2]: Corvette Racing is an absolute beast of a racing team, and has been for many years.
 [^3]: This is in contrast to a lap-based race, in which time seems to drag on much slower during yellow flags.
@@ -162,3 +179,6 @@ See you next year, LBGP.
 [27]: http://i.kinja-img.com/gawker-media/image/upload/s--j5L0aoVv--/c_scale,f_auto,fl_progressive,q_80,w_800/c1rvvbmwghxi012dnn1d.gif "Makowiecki gif"
 [28]: http://blackflag.jalopnik.com/what-was-this-porsche-racer-thinking-1771447250 "Jalopnik post on the P2 and P3 RSR's tag-teaming the end of the race"
 [29]: http://www.nascar.com/en_us/news-media/franchises/all-videos.sprint-cup-series-bristol-fan-hit-by-kyle-busch-car.4850623557001.html "Fan hit by NASCAR driver"
+[30]: https://en.wikipedia.org/wiki/Patrick_Long "Wikipedia: Patrick Long"
+[31]: /2016/4/10/luftgekuhlt-iii-grom-friendly-porschephilia-at-modernica "My post on Luftgekühlt"
+[32]: http://world-challenge.com/video/2016-long-beach-onboard-highlights-patrick-long-31-gt/ "Pirelli World Challenge post with onboard video"
