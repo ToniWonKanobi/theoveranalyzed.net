@@ -30,3 +30,11 @@
 		transform: translateY(0);
 	}
 }
+
+img {
+	transition: 350ms all ease-in-out;
+}
+
+.main-container:hover img, .main-container:focus img {
+	transform: rotateZ(360deg);
+}

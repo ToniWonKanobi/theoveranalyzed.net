@@ -8,15 +8,64 @@
 	</head>
 
 	<body style="margin: 0; min-width: 100vw; min-height: 100vh; background: #3f70a2; display: flex; align-items: center; justify-content: center; flex-direction: column">
-		<div style=".fadeInDown{-webkit-animation:fadeInDown 0.6s;animation:fadeInDown 0.6s}@-webkit-keyframes fadeInDown{0%{opacity:0;-webkit-transform:translateY(-40px);transform:translateY(-40px)}100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes fadeInDown{0%{opacity:0;-webkit-transform:translateY(-40px);transform:translateY(-40px)}100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}.fadeInUp{-webkit-animation:fadeInUp 0.6s;animation:fadeInUp 0.6s}@-webkit-keyframes fadeInUp{0%{opacity:0;-webkit-transform:translateY(40px);transform:translateY(40px)}100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes fadeInUp{0%{opacity:0;-webkit-transform:translateY(40px);transform:translateY(40px)}100%{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}; padding: 2em; max-width: 600px; margin: auto; width: calc(100% - 4em);">
-			<div class="fadeInDown" style="color: #555; font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', -apple-system, -sans-serif; line-height: 1.6; margin: auto; padding: 2em; background: white;">
+		<style type="text/css">
+			/* Yes, animations in email. Because why the heck not!? */
+			.fadeInDown {
+				animation: fadeInDown 0.6s;
+			}
+
+			@keyframes fadeInDown {
+				0% {
+					opacity: 0;
+					transform: translateY(-40px);
+				}
+
+				100% {
+					opacity: 1;
+					transform: translateY(0);
+				}
+			}
+
+			.fadeInUp {
+				animation: fadeInUp 0.6s;
+			}
+
+			@keyframes fadeInUp {
+				0% {
+					opacity: 0;
+					transform: translateY(40px);
+				}
+
+				100% {
+					opacity: 1;
+					transform: translateY(0);
+				}
+			}
+
+			.header-logo {
+				transition: transform 350ms ease-in-out;
+			}
+
+			.main-container:hover .header-logo, .main-container:focus .header-logo {
+				transform: rotateZ(360deg);
+			}
+
+			.header *:not(img), .main h2, .main li, .footer *:not(ul), .header *:not(img), .main h2, .main li, .footer *:not(ul) {
+				transition: transform 300ms ease-in-out;
+			}
+
+			.header *:not(img):hover, .main h2:hover, .main li:hover, .footer *:not(ul):hover, .header *:not(img):focus, .main h2:focus, .main li:focus, .footer *:not(ul):focus {
+				transform: translateX(0.25em);
+			}
+		</style>
+		<div style="padding: 2em; max-width: 600px; margin: auto; width: calc(100% - 4em);">
+			<div class="main-container fadeInDown" style="color: #555; font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', -apple-system, -sans-serif; line-height: 1.6; margin: auto; padding: 2em; background: white;border-radius: 0.5em">
 
 				<div class="fadeInDown header">
 					<h1>
-						<style>img {transition: 200ms all ease-in-out;} h1:hover img, h1:focus img {transform: rotateZ(360deg);}</style>
 						<span style="display: none;">TheOverAnalyzed Newsletter</span>
 						<a href="http://theoveranalyzed.net" title="Visit TheOverAnalyzed in a web browser">
-							<img style="display: block; margin: 2em auto; width: 75%; max-width: 300px; min-width: 100px;" src="http://theoveranalyzed.net/images/mailchimplogo.svg" title="logo">
+							<img class="header-logo" style="display: block; margin: 2em auto; width: 75%; max-width: 300px; min-width: 100px;" src="http://theoveranalyzed.net/images/mailchimplogo.svg" title="logo">
 						</a>
 					</h1>
 				</div>
@@ -33,7 +82,7 @@
 				</div>
 
 				<div class="fadeInUp footer" style="border-top: 2px solid #eee; font-size: 0.8em; padding: 2em; text-align: center; color: #999;">
-					<p>This email was sent to <a href="mailto:*|EMAIL|*" target="_blank" style="color:#555" title="This email was sent to _this_ email address">*|EMAIL|*</a></p>
+					<p>This email was sent to <a href="mailto:*|EMAIL|*" target="_blank" style="border-bottom: 0.1em solid #777; color:#777; text-decoration: none;" title="This email was sent to _this_ email address">*|EMAIL|*</a></p>
 					<p style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 						<span><a href="*|ABOUT_LIST|*" style="color: #999; text-decoration: none; border-bottom: 0.1em solid #999; padding-bottom: 0.1em" target="_blank" title="Link to subscription information">Why did I get this?</a></span>
 						<span><a href="*|UNSUB|*" style="color: #999; text-decoration: none; border-bottom: 0.1em solid #999; padding-bottom: 0.1em" title="Click to unsubscribe (sad)">Unsubscribe</a></span>
@@ -48,7 +97,6 @@
 					</p>
 					<p>*|REWARDS|*</p>
 				</div>
-
 			</div>
 		</div>
 	</body>
