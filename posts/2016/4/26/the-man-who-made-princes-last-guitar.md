@@ -9,4 +9,7 @@ Image: /images/princeguitar.png
 
 Simon Farmer is the "Gus" of Gus Guitars. He seems genuinely sad to have made Prince's *last* guitar ever. It certainly fit the style of "The Artist Formerly Known As [The Artist Formerly Known As Prince][1]," that's for sure.
 
+(From [Devour][2])
+
 [1]: http://www.rollingstone.com/music/lists/the-25-boldest-career-moves-in-rock-history-20110318/prince-changes-his-name-to-an-unpronounceable-symbol-20110323 "Rolling Stone's 'The 25 Boldest Career Moves In Rock History: Prince Changes his Name to an Unpronounceable Symbol'"
+[2]: http://devour.com/video/princes-last-guitar/ "Source post from Devour"
