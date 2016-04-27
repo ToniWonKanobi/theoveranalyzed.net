@@ -6,7 +6,7 @@ Tags: Design
 Image: /images/newinstagram.jpg  
 
 ![This looks so dumb.][1]
-<!-- {class="border" style="max-width: 500px"} -->
+<!-- {class="border" style="width: 500px"} -->
 
 Casey Newton, for The Verge, with a sampling of quotes that make me think Newton doesn't actually appreciate good design:
 

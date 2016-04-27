@@ -1176,6 +1176,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/newinstagram.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96607,
+		"inputAbbreviatedPath": "\/public\/images\/newinstagram.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/newinstagram.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/nigelinla.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1253,6 +1264,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/porschenratedtirespdf.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 228953,
+		"inputAbbreviatedPath": "\/public\/images\/porschenratedtirespdf.png",
+		"outputAbbreviatedPath": "\/public\/images\/porschenratedtirespdf.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/porschentires.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183409,
+		"inputAbbreviatedPath": "\/public\/images\/porschentires.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/porschentires.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/prefalcon.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1282,6 +1315,17 @@
 		"initialSize": 413091,
 		"inputAbbreviatedPath": "\/public\/images\/princedead.png",
 		"outputAbbreviatedPath": "\/public\/images\/princedead.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/princeguitar.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 479387,
+		"inputAbbreviatedPath": "\/public\/images\/princeguitar.png",
+		"outputAbbreviatedPath": "\/public\/images\/princeguitar.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
