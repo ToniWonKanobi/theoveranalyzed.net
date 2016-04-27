@@ -615,6 +615,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/allisonhuggingsmokey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 323239,
+		"inputAbbreviatedPath": "\/public\/images\/allisonhuggingsmokey.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/allisonhuggingsmokey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/allisonhuggingsmokey2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 181972,
+		"inputAbbreviatedPath": "\/public\/images\/allisonhuggingsmokey2.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/allisonhuggingsmokey2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/allisonyoursomething.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
