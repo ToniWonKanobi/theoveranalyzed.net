@@ -1,11 +1,12 @@
 Title: Instagram Is Testing a New Black-And-White Design  
-Date: 2016-04-26 20:30  
+Date: 2016-04-26 20:40  
 Link: http://www.theverge.com/2016/4/26/11512718/instagram-redesign-black-white  
 Description: Why all white?  
 Tags: Design  
 Image: /images/newinstagram.jpg  
 
 ![This looks so dumb.][1]
+<!-- {class="border" style="max-width: 500px"} -->
 
 Casey Newton, for The Verge, with a sampling of quotes that make me think Newton doesn't actually appreciate good design:
 
@@ -21,7 +22,7 @@ Yeah, 'tis better to innovate terribly than to never innovate at all, right?
 
 Perhaps.
 
-I can't wait to read what Eli Schiff has to [say about this][2]?
+I can't wait to read what Eli Schiff has to [say about this][2].
 
 [1]: /images/newinstagram.jpg "Instagram 2.0 looks like poo"
 [2]: http://www.elischiff.com/blog/2016/2/9/social-media-whitewash "Eli's first post on stupid whitewashing of apps"
