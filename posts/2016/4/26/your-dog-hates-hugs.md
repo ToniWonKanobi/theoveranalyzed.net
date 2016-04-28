@@ -13,7 +13,7 @@ I'm unconvinced that Smokey doesn't like hugs.
 
 But this piece by Melissa Dahl for Science of Us made me remember this story about our dog, Smokey:
 
-When he was a puppy, he didn't really like to lay in our laps. Like most humans, we forced our companion animal into submission: several times a day, Allison made Smokey lay in our lap, despite his unwillingness to do so at first.
+When he was a puppy, he didn't really like to lay in our laps. So, like most humans, we forced our companion animal into a particular behavior: several times a day, we would coerce Smokey to lay in our laps.
 
 Eventually, Smokey grew up and became a 55 lb lapdog---when available to him, he would prefer to lay on some part of our bodies, rather than lay elsewhere.
 
