@@ -1627,6 +1627,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/twitternewsnow.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33963,
+		"inputAbbreviatedPath": "\/public\/images\/twitternewsnow.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/twitternewsnow.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/typomaniac.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
