@@ -21,9 +21,9 @@ When I tried to follow the link in Boardley's post, it redirected to Apple curre
 
 Bummer.
 
-So what do I do?
+So what did I do?
 
-I do what any nerd would do: I checked the Internet Archive.
+I did what any nerd would have: I checked the Internet Archive.
 
 <a href="https://web.archive.org/web/20100607220426/http://www.apple.com/html5/showcase/typography" title="Internet Archive's cache of this page"><i>Voilà</i></a>:
 
@@ -49,7 +49,7 @@ You'll notice the little green box in the lower right portion of the demo:
 
 > <b>About this demo</b>: Surprisingly, the type in this demo doesn’t use any images. With CSS3, you can use custom fonts and manipulate HTML elements in ways that don’t require images.
 
-It's 2016, so for most semantic-minded front end peoples, the idea of using actual text in the aforementioned design might seem like a no-brainer. But what's important to remember is that back in 2010, HTML5 wasn't yet officially a standard, and, moreover, semantics weren't really thought of.
+It's 2016, so for most semantic-minded front end peoples, the idea of using actual text in the aforementioned design might seem like a no-brainer. But what's important to remember is that back in 2010, HTML5 wasn't yet officially a standard, and, moreover, semantics weren't really on anyone's radar.
 
 In fact, most web graphics weren't achieved with HTML/CSS at all, but instead via Flash.
 
