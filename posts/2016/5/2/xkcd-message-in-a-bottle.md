@@ -5,6 +5,7 @@ Description: Worse than email newsletters?
 Tags: Funny  
 Image: /images/messageinabottle.png  
 
-![(From xkcd)][1]
+[![][1]][2]
 
-[1]: /images/messageinabottle.png "'Message in a Bottle,' from xkcd"
+[1]: /images/messageinabottle.png
+[2]: http://xkcd.com/1675/ "'Message in a Bottle,' from xkcd"
