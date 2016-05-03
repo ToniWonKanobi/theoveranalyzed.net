@@ -15,11 +15,15 @@ Bradley Chambers, for The Sweet Setup, on [Overcast][2] and [Smart Speed][3]:
 
 More than Smart Speed, I appreciate Marco's [leveraging his coding skill][4] such that Overcast does *not* rely on `Core Audio` for processing the podcast audio content. I [routinely listen][5] at speeds up to 1.83x, and on 'regular' podcast apps, audio sped up to that extent sounds horrible, due to `Core Audio` limitations.
 
-Still, as the Chambers notes, there are some things that Overcast doesn't do as well as its competitors. I'm of the opinion that [Castro][6] by Supertop, is a much better looking app. The UI transitions and animations are definitely likable, a [word somebody important threw around][7] from time to time. 
+<div id="castro">
+
+Still, as the Chambers notes, there are some things that Overcast doesn't do as well as its competitors. I'm of the opinion that [Castro][6] by Supertop, is a much better looking app. The UI transitions and animations are definitely likable, a [word somebody important threw around][7] from time to time.
 
 Castro was so visibly impressive that I quickly forewent the extra options like playlists and per-podcast preferences that [Pocket Casts][8] offered, and tried out Supertop's app.
 
 But at the end of the day, the audio experience is what matters. It's a podcast app, not a reading app. And the best audio on any podcast app is Overcast. It is indispensable for my podcast experience, because no other app comes close to delivering the audio experience that Overcast does.
+
+</div>
 
 [1]: https://d.pr/i/13okQ+ "Overcast"
 [2]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?at=1l3vx9s "Overcast on the App Store"
