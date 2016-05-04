@@ -112,7 +112,11 @@ Ever since I've been [paying for movies via iTunes][10], watching movies is diff
 
 With iTunes, I *can* \`undock\` the media from the main iTunes window, but it's quite finagled.
 
+<div id="eddy-cue-hint">
+
 There *is* some hope: on a recent episode of [The Talk Show with John Gruber][13], Eddy Cue hinted that iTunes on the Mac may be in store for an unbundling, of sorts.
+
+</div>
 
 Can we look forward to a separate Videos.app in OS X, like what iOS has had for some time?
 
