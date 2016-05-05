@@ -1143,6 +1143,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/instapapernewsearch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105102,
+		"inputAbbreviatedPath": "\/public\/images\/instapapernewsearch.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/instapapernewsearch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/ipadmultitaskingjanuary.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1293,6 +1304,17 @@
 		"initialSize": 96607,
 		"inputAbbreviatedPath": "\/public\/images\/newinstagram.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/newinstagram.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/newinstapapersearch.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115528,
+		"inputAbbreviatedPath": "\/public\/images\/newinstapapersearch.png",
+		"outputAbbreviatedPath": "\/public\/images\/newinstapapersearch.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
