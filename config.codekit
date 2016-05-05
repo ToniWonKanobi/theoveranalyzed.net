@@ -1473,6 +1473,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/rogueonelego.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 443531,
+		"inputAbbreviatedPath": "\/public\/images\/rogueonelego.png",
+		"outputAbbreviatedPath": "\/public\/images\/rogueonelego.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/rogueoneteaser.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1649,6 +1660,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/tapbots2016.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77530,
+		"inputAbbreviatedPath": "\/public\/images\/tapbots2016.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/tapbots2016.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/tapbotsfirst.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1744,6 +1766,17 @@
 		"initialSize": 596507,
 		"inputAbbreviatedPath": "\/public\/images\/timexwatch.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/timexwatch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/tweetbot2016hoody.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53710,
+		"inputAbbreviatedPath": "\/public\/images\/tweetbot2016hoody.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/tweetbot2016hoody.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1858,36 +1891,6 @@
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 0
-		},
-	"\/Untitled.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Untitled.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Untitled.md": {
-		"criticStyle": 0,
-		"enableFootnotes": 1,
-		"enableLabels": 1,
-		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Untitled.md",
-		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/Untitled.html",
-		"outputFormat": 0,
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"parseMetadata": 1,
-		"processHTML": 0,
-		"randomFootnoteNumbers": 0,
-		"useCompatibilityMode": 0
 		}
 	},
 "hooks": [
