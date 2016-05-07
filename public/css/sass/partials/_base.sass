@@ -92,6 +92,8 @@ a
 
 	// Blue switchero thing
 	&:hover, &:focus
+		animation: slide-back-and-forth 5s ease-in-out infinite
+		animation-delay: 500ms
 		background: $blue
 		border: 1.5em solid $blue
 		margin-top: 3em
@@ -117,6 +119,5 @@ a
 
 	// Random thingy on the homepage hr's
 	&:hover, &:focus
-		transition: transform 650ms ease-in
-		transition-delay: 100ms
-		transform: rotateY(180deg)
+		animation: spiny-spin 3s ease-in-out infinite
+		animation-delay: 1s
