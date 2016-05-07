@@ -912,6 +912,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/evo959.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 346613,
+		"inputAbbreviatedPath": "\/public\/images\/evo959.png",
+		"outputAbbreviatedPath": "\/public\/images\/evo959.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/f40inthesnow.png": {
 		"fileType": 32768,
 		"ignore": 0,
