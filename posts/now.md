@@ -6,13 +6,13 @@ What Am I Up to Right Now?[^1]
 
 * Living in [Southern California][1]
 * Working at Hospitality Dental Group and Orthodontics (see <http://anthonycraigdds.com>)
-* [Tweaking][2] this website
-	* Using Sass to write all the CSS
-	* Doing more intelligent stuff with classes instead of nesting selectors (easier to maintain)
-* Got a Thunderbolt Display (again), because the HydraDock just wasn't shipping
+* Strongly considering a move away from [Camel][2] and to [Jekyll][3] instead, based on a recent conversation with Roger Stringer on [Twitter][4]
 
-[^1]: What is this all about? Read [this][3].
+[^1]: What is this all about? Read [this][a].
+
+[a]: http://nownownow.com/about "About '/now' pages"
 
 [1]: https://en.wikipedia.org/wiki/Inland_Empire "Wikipedia: Inland Empire"
-[2]: /tags/Meta "Posts tagged 'Meta'"
-[3]: http://nownownow.com/about "About '/now' pages"
+[2]: http://github.com/cliss/camel "Camel on GitHub"
+[3]: http://jekyllrb.com "Jekyll"
+[4]: https://twitter.com/freekrai/status/723197375523618817 "Conversation discussing the limitations of Camel"

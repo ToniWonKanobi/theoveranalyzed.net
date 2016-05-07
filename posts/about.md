@@ -25,7 +25,7 @@ Thanks for stopping by 🙃
 ***
 <!-- {.long} -->
 
-### Contact
+### Elsewhere
 
 #### Twitter
 
@@ -46,7 +46,7 @@ If you have questions, concerns, or any other feedback, you can send me an email
 
 ***
 <!-- {.long} -->
-  
+
 ### Subscribe
 
 #### RSS
