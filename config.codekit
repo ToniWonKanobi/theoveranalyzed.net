@@ -1077,6 +1077,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/hoeflerrenewal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 162802,
+		"inputAbbreviatedPath": "\/public\/images\/hoeflerrenewal.png",
+		"outputAbbreviatedPath": "\/public\/images\/hoeflerrenewal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/howtowinanelection.png": {
 		"fileType": 32768,
 		"ignore": 0,
