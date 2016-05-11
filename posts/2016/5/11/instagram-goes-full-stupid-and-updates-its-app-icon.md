@@ -6,6 +6,7 @@ Tags: Apps, Design
 Image: /images/instagramnewicon.jpg  
 
 !["Sweet new icon, Instagram!" (Not really. It sucks.)][1]
+<!-- {.border} -->
 
 From the Instagram blog (with my commentary throughout):
 
@@ -29,7 +30,19 @@ In 2012, when everyone was lamenting [rich corinthian leather][4], I wanted some
 
 The grass is always greener, I guess.
 
+![Goodbye, old friend (eventually).][5]
+<!-- {.border} -->
+
+But, in the meantime, I turned off Automatic Downloads of app updates. This way, I can be that crazy person who retains the old app UI as long as possible:
+
+![I'm going to have to try really hard to not accidentally tap the "Update All" button][6]
+<!-- {.border} -->
+
+<style>figure{max-width: 300px}</style>
+
 [1]: /images/instagramnewicon.jpg "Instagram's new icon"
 [2]: /2016/4/26/instagram-is-testing-a-new-black-and-white-design "My post on Instagram changing its app icon"
 [3]: http://geekxgirls.com/images/hansolomemes/han-solo-force-awakens-memes-03.jpg "The Force Awakens meme"
 [4]: http://daringfireball.net/2013/01/the_trend_against_skeuomorphism "Gruber on skeumorphism"
+[5]: /images/instagramoldicon.png "Instagram old icon"
+[6]: /images/notupdatinginstagram.jpg "I'm going to have to try really hard to not accidentally tap the 'Update All' button"
