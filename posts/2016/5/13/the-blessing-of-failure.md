@@ -5,9 +5,9 @@ Description: The Apple Watch is to Apple as Mobile was to Microsoft back in 2007
 Tags: Apple Watch  
 Image: /images/applewatchvsmicrosoftmobile.png  
 
-!['Look familiar?,' James Allworth asked. This montage compares how the 'app paradigm' mistakenly followed iOS to the Apple Watch, somewhat analogous to Microsoft's failed attempt at taking Windows and simply scaling it down to a smaller screen on their first mobile offerings.][1]
+!['Look familiar?,' James Allworth asked. This photo montage compares how the 'app paradigm' mistakenly followed from iOS to the Apple Watch, somewhat analogous to Microsoft's failed attempt at taking Windows and scaling it down for their first mobile offerings.][1]
 
-James Allworth, of Exponent and Havard Business Review fame:
+James Allworth, of Exponent and Harvard Business Review fame:
 
 > Last month was the one year anniversary of the Apple Watch. But we’re also nigh-on the ten year anniversary of the iPhone. As we crest the smartphone wave and [come down the other side][2], it’s time to ask: has the tide turned?
 
