@@ -13,7 +13,7 @@ Zach Leatherman, for Fast Company:
 
 This piece is largely non-consequential as far as true politics is concerned, but it's [fun][2] for typography nerds. Leatherman also refers to Trump as "racist, a misogynist, and a horrible human being," so that's interesting.[^1]
 
-[^1]: Likewise, he refers to Hillary's Panama-based CDNs (for her webfonts). Leatherman had nothing snarky to say about Bernie, however.
+[^1]: He didn't miss an opportunity to joke about Hillary's Panama-based CDNs (for her webfonts), while he had nothing snarky to say about Bernie.
 
 [1]: /images/fastcocandidateswebfonts.jpg "Montage of the three candidates' campaign imagery put together by Fast Company"
 [2]: /2015/10/21/bernie-sanders-2016 "My linked post examining Bernie's 2016 presidential candidacy website"
