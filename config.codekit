@@ -879,6 +879,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/daytona6263.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233068,
+		"inputAbbreviatedPath": "\/public\/images\/daytona6263.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/daytona6263.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/dentrix.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1117,6 +1128,17 @@
 		"initialSize": 90496,
 		"inputAbbreviatedPath": "\/public\/images\/hillarysubway.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/hillarysubway.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/hodinkeerolexdaytonajohnmayer.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88460,
+		"inputAbbreviatedPath": "\/public\/images\/hodinkeerolexdaytonajohnmayer.jpeg",
+		"outputAbbreviatedPath": "\/public\/images\/hodinkeerolexdaytonajohnmayer.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
