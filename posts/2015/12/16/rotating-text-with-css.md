@@ -39,8 +39,6 @@ Easy. [CSS3][4]!
 
 	It's wonky to expect the flag emoji (🇺🇸) to rotate when it's still the child of a `<p>` that is *not* styled to rotate.
 	
-	Silly Toni.
-	
 5. So, I applied the `display` property with the value `inline-block` and added it to the markup like so
 
 	```html

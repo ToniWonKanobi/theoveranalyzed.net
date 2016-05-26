@@ -5,6 +5,7 @@ Tags: Power User, Camel
 Image: https://d.pr/i/1bik6+  
 
 ![El Cap. Oh, how you frustrated me on this one.][1]
+<!-- {.border} -->
 
 If you use the [Heroku CLI][2], and you tried to re-install the [Heroku Toolbelt][3] because you messed something up in your project directory,[^1] you might have noticed Terminal throwing `bash` errors:
 
