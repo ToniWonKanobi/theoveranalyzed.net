@@ -681,6 +681,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/applewatchvsmicrosoftmobile.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 541432,
+		"inputAbbreviatedPath": "\/public\/images\/applewatchvsmicrosoftmobile.png",
+		"outputAbbreviatedPath": "\/public\/images\/applewatchvsmicrosoftmobile.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/autoguideteslamodel3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -732,6 +743,17 @@
 		"initialSize": 229124,
 		"inputAbbreviatedPath": "\/public\/images\/batmanthekillingjokesummer.png",
 		"outputAbbreviatedPath": "\/public\/images\/batmanthekillingjokesummer.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/bbcowlsquiet.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 292238,
+		"inputAbbreviatedPath": "\/public\/images\/bbcowlsquiet.png",
+		"outputAbbreviatedPath": "\/public\/images\/bbcowlsquiet.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -978,6 +1000,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/fastcocandidateswebfonts.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120631,
+		"inputAbbreviatedPath": "\/public\/images\/fastcocandidateswebfonts.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/fastcocandidateswebfonts.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/favicon-square.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1018,6 +1051,17 @@
 		"initialSize": 207117,
 		"inputAbbreviatedPath": "\/public\/images\/gaugecluster.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/gaugecluster.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/gboard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65605,
+		"inputAbbreviatedPath": "\/public\/images\/gboard.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/gboard.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1161,6 +1205,28 @@
 		"initialSize": 134876,
 		"inputAbbreviatedPath": "\/public\/images\/ilovetypographysafarihtml5demo.png",
 		"outputAbbreviatedPath": "\/public\/images\/ilovetypographysafarihtml5demo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/instagramnewicon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17584,
+		"inputAbbreviatedPath": "\/public\/images\/instagramnewicon.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/instagramnewicon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/instagramoldicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 334785,
+		"inputAbbreviatedPath": "\/public\/images\/instagramoldicon.png",
+		"outputAbbreviatedPath": "\/public\/images\/instagramoldicon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1348,6 +1414,17 @@
 		"initialSize": 550484,
 		"inputAbbreviatedPath": "\/public\/images\/nigelinla.png",
 		"outputAbbreviatedPath": "\/public\/images\/nigelinla.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/notupdatinginstagram.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47639,
+		"inputAbbreviatedPath": "\/public\/images\/notupdatinginstagram.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/notupdatinginstagram.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
