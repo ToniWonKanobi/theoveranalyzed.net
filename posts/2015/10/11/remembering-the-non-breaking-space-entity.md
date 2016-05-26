@@ -10,8 +10,7 @@ A few nights ago, inspired by a [critique of my site's design][2], I finally fix
 
 And as expected, this took me down the rabbit hole of tinkering. While I was previewing the site in [Safari's Responsive Design Mode][3], I was reminded by one of those things that has irritated me for months, but I never took the time to fix: 
 
-*That arrow.*
-<!-- {.takehome} -->
+It was that arrow.
 
 You know, that arrow symbol `→` that so[^2] often[^3] signifies[^4] a linked[^5] post on blogs.[^6]
 
@@ -56,7 +55,7 @@ becomes
 And that's all there is to it.
 
 <figure>
-	<img class="twoinline" src="https://d.pr/i/1igkh+" alt="Without &nbsp;" title="Without &nbsp;">
+	<img class="twoinline" src="http://d.pr/i/14jkN+" alt="Without &nbsp;" title="Without &nbsp;">
 	<img class="twoinline" src="https://d.pr/i/163ur+" alt="With &nbsp;" title="With &nbsp;">
 	<figcaption><p>Here's a post header using a regular space character between the title and the arrow, and the same header using the non-breaking space character instead.</p>
 <p>Which one looks better to you?</p>
