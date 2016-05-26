@@ -57,8 +57,7 @@ And that's all there is to it.
 <figure>
 	<img class="twoinline" src="http://d.pr/i/14jkN+" alt="Without &nbsp;" title="Without &nbsp;">
 	<img class="twoinline" src="https://d.pr/i/163ur+" alt="With &nbsp;" title="With &nbsp;">
-	<figcaption><p>Here's a post header using a regular space character between the title and the arrow, and the same header using the non-breaking space character instead.</p>
-<p>Which one looks better to you?</p>
+	<figcaption>Here's a post header that has a regular space character between the title and the arrow (Left), and another post header using the non-breaking space character instead. Which one looks better to you?
 	</figcaption>
 </figure>
 
