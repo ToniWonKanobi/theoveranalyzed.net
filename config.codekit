@@ -560,6 +560,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/images\/13rightnow.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 583567,
+		"inputAbbreviatedPath": "\/public\/images\/13rightnow.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/13rightnow.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/2kindsofpeoplegameofthronesyoutubefullscreen.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1018,6 +1029,17 @@
 		"initialSize": 120631,
 		"inputAbbreviatedPath": "\/public\/images\/fastcocandidateswebfonts.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/fastcocandidateswebfonts.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/fatherslightsaber.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194411,
+		"inputAbbreviatedPath": "\/public\/images\/fatherslightsaber.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/fatherslightsaber.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1737,6 +1759,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/starwarsinfographicsize.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 249877,
+		"inputAbbreviatedPath": "\/public\/images\/starwarsinfographicsize.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/starwarsinfographicsize.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/starwarsrogueoneteaserpreview.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2008,6 +2041,17 @@
 		"initialSize": 750526,
 		"inputAbbreviatedPath": "\/public\/images\/westeroseconomy.png",
 		"outputAbbreviatedPath": "\/public\/images\/westeroseconomy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/windows10pressmaterial.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243053,
+		"inputAbbreviatedPath": "\/public\/images\/windows10pressmaterial.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/windows10pressmaterial.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
