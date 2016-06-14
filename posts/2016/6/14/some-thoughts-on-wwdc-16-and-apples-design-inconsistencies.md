@@ -70,7 +70,7 @@ I'm not sure why they used a colored icon in the Menubar:
 
 Let's get some features out of the way:
 
-* iMessage
+* Messages
 	* Rich links (like Slack)
 	* Handwriting recognition (Like Newton)
 	* Text effects (like Snapchat)
@@ -79,15 +79,19 @@ Let's get some features out of the way:
 * Maps
 	* They're so much nicer looking now
 * Lock Screen
+	* Raise to wake (so 6s users can finally see their Lock Screen notifications again)
 	* Widgets (like Android)
 	* Raise to wake (like Android)
 	* Rich notifications (like Android)
+* Deleting default apps (not mentioned, but oh, so nice!)
+* Swift Playgrounds
+	* No Xcode required!
 
 ... and more.
 
 For the most part, iOS 10 is stereotypical Apple. "[Iteration, Not Revolution][10]," I've called it. The improvements made to Apple's most important platform aren't game-changing. Pessimistically, they are merely catch-up measures. "Android has had these features for years," I can hear the anti-Apple'ers saying.
 
-Optimistically, it's Apple doubling-down on what makes them great. If it seemed like they spent over half of their iOS 10 portion of the keynote talking about iMessage changes, that's because they did. iMessage is Apple's most used app, according to Craig Federighi. Why *not* bolster iMessage's position on user's Home Screens? Why should Apple let WhatsApp and Snapchat have all the fun? This is Apple at it's best.
+Optimistically, it's Apple doubling-down on what makes them great. If it seemed like they spent over half of their iOS 10 portion of the keynote talking about Messages changes, that's because they did. Messages is Apple's most used app, according to Craig Federighi. Why *not* bolster Messages's position on user's Home Screens? Why should Apple let WhatsApp and Snapchat have all the fun? This is Apple at it's best.
 
 ***
 
@@ -170,7 +174,7 @@ That's right: iOS 10 *does* look better than iOS 7-9. Despite my criticism, iOS 
 
 	Generally speaking, their UI animations don't really make sense when observed across the whole of iOS. And sometimes it's hard to understand *why* they chose one animation over another. Other times, it's not clear *why* they chose different animations for similar user interactions.
 	
-	But what *is* clear is that Apple developers really know how to leverage `CoreAnimation` to make some pretty awesome animations. iOS 10 is no exception to this rule. I love all the new bouncy and friendly animations accompanying many of the new Snapchat-like iMessage features.
+	But what *is* clear is that Apple developers really know how to leverage `CoreAnimation` to make some pretty awesome animations. iOS 10 is no exception to this rule. I love all the new bouncy and friendly animations accompanying many of the new Snapchat-like Messages features.
 	
 	I believe *this* is what Jony Ive's design direction is all about. I just wish they would apply the same level of thoughtfulness that they do to animations, to the design language of the OS as a whole.
 [^2]: It reminds me of [Bloomberg][a].
