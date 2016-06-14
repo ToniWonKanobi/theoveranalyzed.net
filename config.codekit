@@ -791,6 +791,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/bloomberg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 777928,
+		"inputAbbreviatedPath": "\/public\/images\/bloomberg.png",
+		"outputAbbreviatedPath": "\/public\/images\/bloomberg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/both.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1253,6 +1264,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/image_large_2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59430,
+		"inputAbbreviatedPath": "\/public\/images\/image_large_2x.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/image_large_2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/instagramnewicon.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1282,6 +1304,28 @@
 		"initialSize": 105102,
 		"inputAbbreviatedPath": "\/public\/images\/instapapernewsearch.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/instapapernewsearch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/ios10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66549,
+		"inputAbbreviatedPath": "\/public\/images\/ios10.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/ios10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/ios10borderraddi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226228,
+		"inputAbbreviatedPath": "\/public\/images\/ios10borderraddi.png",
+		"outputAbbreviatedPath": "\/public\/images\/ios10borderraddi.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1370,6 +1414,17 @@
 		"initialSize": 359709,
 		"inputAbbreviatedPath": "\/public\/images\/macintosh1984.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/macintosh1984.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/macos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46090,
+		"inputAbbreviatedPath": "\/public\/images\/macos.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/macos.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1513,6 +1568,17 @@
 		"initialSize": 59616,
 		"inputAbbreviatedPath": "\/public\/images\/overcastuploadsnope.png",
 		"outputAbbreviatedPath": "\/public\/images\/overcastuploadsnope.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/paddingexample.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166098,
+		"inputAbbreviatedPath": "\/public\/images\/paddingexample.png",
+		"outputAbbreviatedPath": "\/public\/images\/paddingexample.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1700,6 +1766,17 @@
 		"initialSize": 98097,
 		"inputAbbreviatedPath": "\/public\/images\/screwyoudrm.png",
 		"outputAbbreviatedPath": "\/public\/images\/screwyoudrm.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/siricolor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87155,
+		"inputAbbreviatedPath": "\/public\/images\/siricolor.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/siricolor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2052,6 +2129,17 @@
 		"initialSize": 243053,
 		"inputAbbreviatedPath": "\/public\/images\/windows10pressmaterial.jpg",
 		"outputAbbreviatedPath": "\/public\/images\/windows10pressmaterial.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/wwdc2016.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45487,
+		"inputAbbreviatedPath": "\/public\/images\/wwdc2016.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/wwdc2016.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

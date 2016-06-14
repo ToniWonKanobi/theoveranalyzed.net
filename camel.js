@@ -16,7 +16,6 @@ var markdownit = require('markdown-it')({
 .use(require('markdown-it-footnote-conventional'))
 .use(require('markdown-it-anchor'), ({
 	permalink: true,
-	permalinkBefore: true
 }))
 .use(require('markdown-it-decorate'))
 .use(require('markdown-it-highlightjs'), ({
