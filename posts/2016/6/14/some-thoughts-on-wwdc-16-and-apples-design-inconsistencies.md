@@ -2,7 +2,7 @@ Title: Some Thoughts on WWDC '16 and Apple's Design Inconsistencies
 Date: 2016-06-14 10:36    
 Description: Mostly incremental changes, and lots of nicer buttons, but there's more to do.  
 Tags: Apple  
-Image: /images/wwdc2016.jpg  
+Image: /images/ios10borderraddi.png  
 
 *Apologies for the lack of posts these past few weeks. We are currently living out of a suitcase, waiting to move into our new house. There are lots of articles in my Instapaper "TheOverAnalyzed" folder---ones I'm sure to share here over the next few weeks. As always, thanks for reading*
 <!-- {.topstory} -->
