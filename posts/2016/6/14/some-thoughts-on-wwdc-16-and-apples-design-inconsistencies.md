@@ -144,7 +144,7 @@ There might exist a situation where different border radii are appropriate, but 
 
 Refer to this mockup illustrating the padding ("gutter") inconsistencies in the new Maps app:
 
-[![Why is the padding around the top and bottom touch elements not consistent?][15]](/images/paddingexample.png)
+[![Why is the padding around the touch elements not consistent (see pink vertical bars)?][15]](/images/paddingexample.png)
 
 Look at the padding left of the "9:49" arrival time. Next, look at the padding left of the "Gas Stations" icon. Why are they unequal?
 
