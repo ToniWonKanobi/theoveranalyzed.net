@@ -1,20 +1,23 @@
 @media (max-width: 740px)
 	body
-		font-size: large
+		font-size: larger
 
 	.siteheader
 		height: 20vmax
 		max-height: 150px
 
-	.title
+	.siteheader-heading
 		font-size: 8.5vw
 
-	.tagline
+	.siteheader-tagline
 		margin: -0.5em auto auto auto
 
 	.main
-		width: calc(90% - 3em)
-		padding: 1.5em
+		// Useful if I want the blue padding
+		// width: calc(90% - 3em)
+		// padding: 1.5em
+		width: calc(100% - 4em)
+		padding: 2em
 
 	.homepage-article
 		margin: 1em 0
@@ -23,14 +26,14 @@
 		&:hover, &:focus
 			padding: 1.5em
 
-	.article-separator
+	.homepage-article-separator
 		border-width: 0.5em
 		margin: 1em auto
 
-	.postheader h2
+	.postheader > h2
 		font-size: 1.6em
 
-	.postheaderlinked h2
+	.postheaderlinked > h2
 		font-size: 1.5em
 
 	.small
@@ -46,7 +49,7 @@
 
 @media (max-width: 320px)
 	body
-		font-size: medium
+		font-size: large
 
 	.siteheader
 		height: 100px

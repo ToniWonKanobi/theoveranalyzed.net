@@ -4,21 +4,17 @@
 	line-height: 1.35
 	margin: auto
 
-.postheader a:hover, .postheader a:focus
-	color: $blue
-
 .postheader-heading
 	font-size: 1.65em
 
 .postheader-heading-link
 	color: $black
 
-	// So, when I hover on an article in the homepage,
-	// make this white
+	// So, when I hover on an article in the homepage, make it white
 	.homepage-article:hover &, .homepage-article:focus &
 		color: white
 
-.linkarrow
+.postheaderlinked-arrow
 	color: $darkgray
 	transition: all 0.2s ease-in-out
 	vertical-align: -4%
@@ -59,7 +55,7 @@
 		display: inline
 		padding: 0
 
-.date
+.postsubtitle-date
 	&:after
 		// I don't know of any other way to target this silly shadow DOM element
 		// (Or why I can't use inheritance)
@@ -71,11 +67,11 @@
 		.homepage-article:hover &, .homepage-article:focus &
 			color: lighten($darkgray, 10%)
 
-.tags-list
+.postsubtitle-tags
 	display: inline
 	padding: 0
 
-.tag-item
+.postsubtitle-tags-tag
 	&:after
 		// I don't know of any other way to target this silly shadow DOM element (or why I can't use inheritance)
 		color: $darkgray

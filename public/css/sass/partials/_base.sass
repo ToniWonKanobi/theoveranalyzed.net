@@ -45,10 +45,10 @@ a
 	word-break: break-word
 
 // Removes the margin at the top of the first article on the homepage
-.day:first-of-type .homepage-article:first-of-type
+.homepage-day:first-of-type .homepage-article:first-of-type
 	margin-top: 0
 
-.entry a, .readmore
+.entry a, .homepage-article-readmore
 	border-bottom: 0.05em solid #ccc
 
 	&:hover, &:focus
@@ -68,8 +68,7 @@ a
 	background: white
 	margin: 0 auto
 
-	// Target width is ~700px, so have to do `calc()` to account for padding
-	// (Somewhat arbitrary)
+	// Target width is ~700px, so have to do `calc()` to account for padding (somewhat arbitrary)
 	max-width: calc(750px - 4em)
 	min-height: 48vh
 	padding: 2em
@@ -91,8 +90,6 @@ a
 
 	// Blue switchero thing
 	&:hover, &:focus
-		animation: slide-back-and-forth 5s ease-in-out infinite
-		animation-delay: 500ms
 		background: $blue
 		padding: 2em
 		margin-top: 3em
@@ -103,11 +100,11 @@ a
 			color: white
 
 // Necessary to so that the content is spaced nicely in the padding-laden parent container
-.readmore-container
+.homepage-article-readmore-container
 	margin-bottom: 0
 
 // Better than a single border-bottom on each article
-.article-separator
+.homepage-article-separator
 	border-radius: 0
 	border: 0.75em solid $gray
 	color: $gray
