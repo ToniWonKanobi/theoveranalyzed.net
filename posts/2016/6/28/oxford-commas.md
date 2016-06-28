@@ -1,6 +1,6 @@
 Title: Oxford Commas  
 Date: 2016-06-28 09:25  
-Description: Oxford ("serial") commas are used to inspire clarity, convey pauses, and in general, make our writing better. Where did they come from?  
+Description: Oxford "serial" commas are used to inspire clarity, convey pauses, and in general, make our writing better. Where did they come from?  
 Tags: Blogging  
 Image: /images/comma(outline).png  
 
