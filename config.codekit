@@ -1132,6 +1132,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/gotposter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63000,
+		"inputAbbreviatedPath": "\/public\/images\/gotposter.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/gotposter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/grom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
