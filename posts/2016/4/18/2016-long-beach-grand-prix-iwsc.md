@@ -130,7 +130,7 @@ April 21, 2016
 
 I forgot to mention that I saw [Patrick Long][30] in the paddock area (preparing for his race the following day).
 
-In addition to being the only current American Factory Porsche driver (and co-proprietor of [Luftgekühlt][31]), he's also racing for Emotion Engineering in the Pirelli World Challenge (PWC).
+In addition to being the only current American Factory Porsche driver (and co-proprietor of [Luftgekühlt][31]), he's also racing for Emotion Engineering in the Pirelli World Challenge).
 
 Here's an onboard video posted by the [PWC][30]:
 

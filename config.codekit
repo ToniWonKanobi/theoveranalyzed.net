@@ -901,6 +901,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/comma(outline).png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102470,
+		"inputAbbreviatedPath": "\/public\/images\/comma(outline).png",
+		"outputAbbreviatedPath": "\/public\/images\/comma(outline).png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/daytona6263.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
