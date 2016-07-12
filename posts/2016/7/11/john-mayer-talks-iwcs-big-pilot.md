@@ -1,7 +1,7 @@
 Title: John Mayer Talks IWC's Big Pilot  
 Date: 2016-07-11 08:00  
 Link: https://www.hodinkee.com/articles/john-mayer-talks-original-iwc-big-pilot-the-new-big-pilot-collection-and-the-infamous-letter-video  
-Description: 5002 or bust.  
+Description: Reference 5002 or bust.  
 Tags: Watches  
 Image: /images/bigpilots.jpg  
 
