@@ -10,7 +10,7 @@ I recently saw a rather clickbait-y headline, "A short comic gives the simplest,
 
 ***
 
-Over the past few years, I've become increasingly aware that my life as it is was not achieved sole by my own works, but also (if not more-so), because I am privileged.
+Over the past few years, I've become increasingly aware that my life as it is was not achieved soley by my own works, but also (if not more-so), because I am privileged.
 
 ### Educational Privilege
 
