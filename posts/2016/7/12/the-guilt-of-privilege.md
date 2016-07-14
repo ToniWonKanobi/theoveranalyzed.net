@@ -1,5 +1,5 @@
 Title: The Guilt of Privilege  
-Date: 2016-07-11 11:40  
+Date: 2016-07-12 11:40  
 Description: As a child of it, I know privilege when I see it.  
 Tags: Politics  
 Image: /images/privilege.jpg  

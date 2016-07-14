@@ -1,5 +1,5 @@
 Title: The Fall of Robert De Niro  
-Date: 2016-07-11 08:00  
+Date: 2016-07-12 08:00  
 Link: https://twitter.com/chapmangamo/status/750971489122418688  
 Description: For me, it was all downhill from Heat.  
 Tags: Film  
@@ -20,7 +20,7 @@ Required De Niro:
 5. Jackie Brown
 6. The Score (if you're desperate)
 
-Whatever you do, stay away from his [romantic comedies][3].
+Whatever you do, stay away from his [romantic comedies][3].2016-07-12
 
 [1]: /images/robertdeniro.jpeg "Image tweeted from James Chapman, illustrating the apparent drop in quality of De Niro's movies after 2002."
 [2]: https://en.wikipedia.org/wiki/Goodfellas "Wikipedia: Goodfellas"

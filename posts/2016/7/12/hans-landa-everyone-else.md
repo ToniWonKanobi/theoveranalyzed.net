@@ -1,5 +1,5 @@
 Title: Hans Landa > Everyone Else  
-Date: 2016-07-11 08:00  
+Date: 2016-07-12 08:00  
 Link: http://collider.com/quentin-tarantino-retirement/  
 Description: Quentin Tarantino's 'Jew Hunter' takes the cake.  
 Tags: Film  
