@@ -22,7 +22,7 @@ That said, what's even less clear than *when* Oxford commas fell out of preferen
 
 Vox has some thoughts:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zhN5c1ucRNk?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/zhN5c1ucRNk?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 [^1]: "A Fine Dentist DDS"---not "A. Fine Dentist, D.D.S.," right?
 

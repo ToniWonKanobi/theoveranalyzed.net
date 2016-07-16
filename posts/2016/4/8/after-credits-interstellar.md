@@ -5,7 +5,7 @@ Description: From Screen Junkies (Honest Trailers) and the team behind How It Sh
 Tags: Film  
 Image: /images/aftercreditsinterstellar.jpg  
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6byRZdKdDRk?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/6byRZdKdDRk?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 I've linked to this movie [before][3]. And I've long thought that the best part of [Interstellar][4] was the first half of the movie. I thought it was genuinely emotional (and great) up until the whole \`old-lady-Murph\` part. (That such ridiculousness was pointed out by the After Credits video warms my heart.)
 

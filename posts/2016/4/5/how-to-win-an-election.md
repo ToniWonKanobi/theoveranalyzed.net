@@ -5,7 +5,7 @@ Description: Stories matter.
 Tags: Politics  
 Image: /images/howtowinanelection.png  
 
-<iframe src="https://player.vimeo.com/video/155823636" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" src="https://player.vimeo.com/video/155823636" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Political advisor to George W. Bush, John McCain, and others, Mark McKinnon was featured in this short piece by NY Times (with Redglass Pictures), in which he details how to win elections.
 

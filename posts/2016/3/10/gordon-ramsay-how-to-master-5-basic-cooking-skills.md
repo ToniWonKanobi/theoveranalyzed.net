@@ -7,7 +7,7 @@ Image: /images/gordonramsayknifesharpening5things.png
 
 My favorite part is the knife sharpening bit. Weird at first, but super easy once I did it a few times.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJy1ajvMU1k" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/ZJy1ajvMU1k" allowfullscreen></iframe>
 
 (From [Jason Kottke][1])
 

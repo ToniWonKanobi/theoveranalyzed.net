@@ -5,7 +5,7 @@ Description: Meet the car that inspired the 911 964 C4.
 Tags: Porsche  
 Image: /images/evo959.png  
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8U89bMBOz0M?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/8U89bMBOz0M?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 This is the car that inspired my favorite 911: the [964][1].
 

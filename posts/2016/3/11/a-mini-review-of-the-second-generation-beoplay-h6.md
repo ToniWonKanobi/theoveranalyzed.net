@@ -63,7 +63,7 @@ But now I don't have to choose.
 
 [The 1975][5]'s [latest effort][6] makes for a nice testing bed for these new cans.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXaU0QzByIM" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/hXaU0QzByIM" allowfullscreen></iframe>
 
 [You can see about the new H6's for yourself][7].
 

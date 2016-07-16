@@ -5,7 +5,7 @@ Description: Four more days.
 Tags: Star Wars  
 Image: https://d.pr/i/19zhN+  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YHyGAJ8z234" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/YHyGAJ8z234" allowfullscreen></iframe>
 
 The trailer for [The Phantom Menace][1] was so promising.
 

@@ -6,7 +6,7 @@ Tags: Star Wars
 Image: https://i.ytimg.com/vi/ZTLAx3VDX7g/maxresdefault.jpg  
 Video: https://youtu.be/ZTLAx3VDX7g  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZTLAx3VDX7g" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/ZTLAx3VDX7g" allowfullscreen></iframe>
 
 (From [Devour][1])
 

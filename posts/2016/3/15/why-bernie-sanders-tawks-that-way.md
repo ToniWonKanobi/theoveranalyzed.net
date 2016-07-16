@@ -9,4 +9,4 @@ I'm still going through my backlog of Instapaper articles/movies.
 
 Here's a funny and rather informative one about why Bern tawks with all those weird vowels.
 
-<iframe src="https://www.youtube.com/embed/waeXBCUkuL8" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" style="border-radius: 0.2em" src="https://www.youtube.com/embed/waeXBCUkuL8" allowfullscreen></iframe>

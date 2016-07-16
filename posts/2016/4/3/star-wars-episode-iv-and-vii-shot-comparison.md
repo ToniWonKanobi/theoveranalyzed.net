@@ -5,7 +5,7 @@ Description: Visualizing that "The Force Awakens" is basically "A New Hope: Redu
 Tags: Star Wars  
 Image: /images/tfaanh.png  
 
-<iframe src="https://player.vimeo.com/video/160263943?portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" src="https://player.vimeo.com/video/160263943?portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Jason Kottke][1]:
 

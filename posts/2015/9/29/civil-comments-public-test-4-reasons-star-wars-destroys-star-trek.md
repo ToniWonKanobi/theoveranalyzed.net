@@ -10,7 +10,7 @@ I stumbled onto [Christa Mrgan's][1] [Civil][2] a few weeks ago. What is [Civil 
 I could tell you, but you should just watch this instead:
 
 <figure>
-	<iframe src="https://player.vimeo.com/video/131170273?color=45a5a5&amp;title=0&amp;byline=0&amp;portrait=0" width="500" height="281" allowfullscreen title="What is Civil Comments?"></iframe> 
+	<iframe style="border-radius: 0.2em" src="https://player.vimeo.com/video/131170273?color=45a5a5&amp;title=0&amp;byline=0&amp;portrait=0" width="500" height="281" allowfullscreen title="What is Civil Comments?"></iframe> 
 	<figcaption><a href="https://vimeo.com/131170273" title="Link to Civil Comments on Vimeo">"Civil Comments"</a> from <a href="https://vimeo.com/user41217360" title="Link to Civil Co. on Vimeo">Civil Co.</a> on <a href="https://vimeo.com" title="Vimeo">Vimeo</a></figcaption>
 </figure>
 

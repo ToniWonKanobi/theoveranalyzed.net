@@ -5,7 +5,7 @@ Description: Ezra gets a haircut.
 Tags: Star Wars  
 Image: /images/ezrahaircut.jpg
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Qe3LSQiMJUk?rel=0&amp;showinfo=0&start=220"  allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/Qe3LSQiMJUk?rel=0&amp;showinfo=0&start=220"  allowfullscreen></iframe>
 
 It looks like Ezra's getting a haircut for Season 3 of Star Wars Rebels. Let's hope said haircut comes with some [interesting new storylines][1]—and not just filler (like the majority of Season 2).
 

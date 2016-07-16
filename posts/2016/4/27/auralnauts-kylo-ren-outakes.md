@@ -5,7 +5,7 @@ Description: "I talk first."
 Tags: Star Wars  
 Image: /images/kylorenoutakesauralnauts.png  
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nFicXlvJBdo?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/nFicXlvJBdo?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 How did I not know about the [Auralnauts][1]!?
 

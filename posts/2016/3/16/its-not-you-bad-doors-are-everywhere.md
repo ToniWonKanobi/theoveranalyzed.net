@@ -1,10 +1,10 @@
 Title: It's Not You. Bad Doors Are Everywhere.  
 Date: 2016-03-16 06:26  
 Link: https://youtu.be/yY96hTb8WgI  
-Description: It's not just doors. Stupid design is everywhere.  
+Description: 🚪⁉️😠  
 Tags: Design  
 Image: /images/stupiddoors.png  
 
-🚪⁉️😠
+It's not just doors. Stupid design is everywhere.
 
-<iframe src="https://www.youtube.com/embed/yY96hTb8WgI" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" src="https://www.youtube.com/embed/yY96hTb8WgI" allowfullscreen></iframe>

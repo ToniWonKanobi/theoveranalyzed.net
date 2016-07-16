@@ -6,7 +6,7 @@ Tags: Sports
 Image: https://i.ytimg.com/vi/n1GUQVo1Lps/maxresdefault.jpg  
 Video: https://youtu.be/n1GUQVo1Lps  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n1GUQVo1Lps" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/n1GUQVo1Lps" allowfullscreen></iframe>
 
 January is an interesting time at the gym, that's for sure.
 

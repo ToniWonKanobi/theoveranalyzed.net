@@ -7,7 +7,7 @@ Image: /images/dashorhan.jpg
 
 [Speaking of][1] Rebels, the official trailer for Season 3 of Star Wars Rebels landed today.
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/xmXp802sFgQ?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/xmXp802sFgQ?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 Surprisingly, they didn't skimp on overall trailer length: it's a full 3:32 long!
 

@@ -9,7 +9,7 @@ Re: #1
 
 I totally missed the lack of snow in the parking lot scene.
 
-<iframe src="https://www.youtube.com/embed/rasAbD3Y60c" allowfullscreen></iframe>
+<iframe style="border-radius: 0.2em" src="https://www.youtube.com/embed/rasAbD3Y60c" allowfullscreen></iframe>
 
 "Yeah, but I'm saying: that true coat---you don't get it, you get oxidation problems that'll cost you a heck of a lot more than $500"
 

@@ -10,7 +10,7 @@ Here are a couple of awesome CodePen Picks from today.
 
 The [first][1], by Apex Design Studio:
 
-<iframe height='319' src='//codepen.io/apexdesignstudio/embed/PPEJwz/?height=319&theme-id=0&default-tab=result' style='width: 100%;'>See the Pen <a href='http://codepen.io/apexdesignstudio/pen/PPEJwz/'>BB-8</a> by Apex Design Studio (<a href='http://codepen.io/apexdesignstudio'>@apexdesignstudio</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe style="border-radius: 0.2em" height='319' src='//codepen.io/apexdesignstudio/embed/PPEJwz/?height=319&theme-id=0&default-tab=result' style='width: 100%;'>See the Pen <a href='http://codepen.io/apexdesignstudio/pen/PPEJwz/'>BB-8</a> by Apex Design Studio (<a href='http://codepen.io/apexdesignstudio'>@apexdesignstudio</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
 Here's the [second][2] one, from Marco Fugaro:
