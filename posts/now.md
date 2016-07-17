@@ -4,7 +4,8 @@ Description: This is what I'm up to recently
 
 What I'm up to these days:[^1]
 
-* Moved back to Northern California* [Working][1] in a small town
+* Moved back to Northern California
+* [Working][1] in a small town
 * Looking at a [desk][2]
 * And [watches][3]
 * And [cars][4]
