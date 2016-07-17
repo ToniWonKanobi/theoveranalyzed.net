@@ -20,37 +20,35 @@ This site is based on [Casey Liss's][4] static blogging engine, [Camel][5]. I us
 * [`markdown-it-highlightjs`][14] for code highlighting
 * [`markdown-it-implicit-figures`][15], which takes Markdown-style images and wraps them in `<figure>` with `<figcaption>`'s in the resultant HTML
 
-TheOverAnalyzed is hosted on [Heroku][16], and the [SSL][17][^1] and [DNS][18] are provided by [DNSimple][19]. Like all my websites, I use [Hover][20] for domain name registration. Most of the graphics are served via [Droplr][21] embeds.
+TheOverAnalyzed is presently hosted on [Heroku][16], though I often consider Jekyll. (I mostly withstand the urge to switch out of laziness). The domain name registration and DNS are through [Hover][17]. The media within posts form about 2016 onward are under the `/images/` slug (self-hosted). Conversely, most of the media within posts *before* 2016 are served via [Droplr][18] embeds. I'll switch those out eventually.
 
-To my knowledge, this site should conform to [HTML5][22] web standards, and its CSS should validate as well. If you find that an area of the site does not perform as expected, please contact me. Just to be safe, try to use a [non-crappy][23] web browser---that helps tremendously.
+To my knowledge, this site should conform to [HTML5][19] web standards, and its CSS should validate as well. If you find that an area of the site does not perform as expected, please contact me. Just to be safe, try to use a [non-crappy][20] web browser---that helps tremendously.
 
 ### Useful URLs
 
-#### [Now][24]
+#### [Now][21]
 
 What am I doing now? Check out the `/now` page
 
-#### [Tags][25]
+#### [Tags][22]
 
 Tags help group similar posts together, and even if my readers could care less about them, I use them often enough when referencing prior posts.
 
-#### [Livestream][26]
+#### [Livestream][23]
 
-When the stars align, I provide "coverage" (snarky commentary) of live events such as [WWDC][27] on Twitter.
+When the stars align, I provide "coverage" (snarky commentary) of live events such as [WWDC][24] on Twitter.
 
-#### [Newsletter][28]
+#### [Newsletter][25]
 
 For the less nerdy reader, I *do* have an email newsletter.
 
-#### [Broken Links][29]
+#### [Broken Links][26]
 
 Perhaps you've looked high and low in a search engine and still can't find a link you're looking for? If so, the post might be here.
 
-#### [Markdown Source][30]
+#### [Markdown Source][27]
 
 You can append `.md` to the end of any static page (such as a blog post) URL to see the actual Markdown source for that page
-
-[^1]: Update: No more SSL for now. It wasn't worth $20/month.
 
 [1]: https://geo.itunes.apple.com/us/app/byword/id420212497?mt=12&at=1l3vx9s "Byword on the Mac App Store"
 [2]: https://atom.io "Atom text editor"
@@ -68,17 +66,14 @@ You can append `.md` to the end of any static page (such as a blog post) URL to 
 [14]: https://www.npmjs.com/package/markdown-it-highlightjs "`markdown-it-highlightjs` on npmjs"
 [15]: https://www.npmjs.com/package/markdown-it-implicit-figures "`markdown-it-implicit-figures` on npmjs"
 [16]: https://heroku.com"Heroku"
-[17]: https://en.wikipedia.org/wiki/Transport_Layer_Security "Wikipedia: SSL"
-[18]: https://en.wikipedia.org/wiki/Domain_Name_System "Wikipedia: DNS"
-[19]: https://dnsimple.com/r/a30fd6d51281e3 "DNSimple"
-[20]: https://hover.com/Pji0Qlok "Hover"
-[21]: https://auth.droplr.com/referral/user/0cd0ca10c401759b74716f20598e6816?callback=https://d.pr/auth/referral "Droplr"
-[22]: https://en.wikipedia.org/wiki/HTML5 "Wikipedia: HTML5"
-[23]: https://duckduckgo.com/?q=alternatives+to+internet+explorer&ia=software "Alternatives to Internet Explorer"
-[24]: /now "/now page"
-[25]: /tags "I love tags"
-[26]: /live "Live events like WWDC"
-[27]: https://developer.apple.com/wwdc/ "WWDC"
-[28]: /newsletter "TheOverAnalyzed has a newsletter!"
-[29]: /brokenlinks "Some links just won't redirect from their old Squarespace destinations. Go here to check those out."
-[30]: /nerd.md "You can do this with almost every page on the site"
+[17]: https://hover.com/Pji0Qlok "Hover"
+[18]: https://auth.droplr.com/referral/user/0cd0ca10c401759b74716f20598e6816?callback=https://d.pr/auth/referral "Droplr"
+[19]: https://en.wikipedia.org/wiki/HTML5 "Wikipedia: HTML5"
+[20]: https://duckduckgo.com/?q=alternatives+to+internet+explorer&ia=software "Alternatives to Internet Explorer"
+[21]: /now "/now page"
+[22]: /tags "I love tags"
+[23]: /live "Live events like WWDC"
+[24]: https://developer.apple.com/wwdc/ "WWDC"
+[25]: /newsletter "TheOverAnalyzed has a newsletter!"
+[26]: /brokenlinks "Some links just won't redirect from their old Squarespace destinations. Go here to check those out."
+[27]: /nerd.md "You can do this with almost every page on the site"
