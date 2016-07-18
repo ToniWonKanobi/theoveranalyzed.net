@@ -5,7 +5,7 @@ Description: It would be strange to not have the opening crawl, that's for sure.
 Tags: Star Wars  
 Image: /images/ESBOpeningCrawl.jpg  
 
-![The crawl is a defining feature of the entire movie series (From the Star Wars Wikia)][1]
+![The crawl is a defining feature of the entire movie series (From Wookieepedia)][1]
 
 Ethan Anderton, for /Film:
 
