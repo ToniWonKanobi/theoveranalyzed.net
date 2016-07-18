@@ -1,6 +1,6 @@
 Title: Rejecting Technology for Nostalgia  
 Date: 2016-07-18 09:17  
-Description: Kevin Rose left Silicon Valley behind for New York. Here's why.  
+Description: Kevin Rose left Silicon Valley behind for New York. I can understand why he'd do such a thing.  
 Tags: Watches  
 Image: /images/kevinrosehodinkee.jpg  
 
