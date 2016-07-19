@@ -30,7 +30,7 @@ Wearing a mechanical watch is a *rejection* of technology, which is becoming inc
 
 ***
 
-Here's some meta for you: I've known that that Kevin Rose was the CEO of HODINKEE for about a week. For that same amount of time, I also knew that [John Mayer][9] was a principle investor in the new venture between Rose's Watchville and Benjamin Climber's original HODINKEE.
+Here's some meta for you: I've known that Kevin Rose was the CEO of HODINKEE for about a week. For that same amount of time, I also knew that [John Mayer][9] was a principle investor in the new venture between Rose's Watchville and Benjamin Climber's original HODINKEE.
 
 I only knew these facts because I spent the past week researching the heck out of watches, and I somehow stumbled on a TechCrunch [article][10] from 2014, describing the new venture between Rose and Clymer.
 
