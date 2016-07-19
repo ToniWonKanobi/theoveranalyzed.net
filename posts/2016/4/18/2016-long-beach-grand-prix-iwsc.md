@@ -134,7 +134,7 @@ In addition to being the only current American Factory Porsche driver (and co-pr
 
 Here's an onboard video posted by the [PWC][30]:
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/qDlA1V9HHvs?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube-nocookie.com/embed/qDlA1V9HHvs?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 </aside>
 

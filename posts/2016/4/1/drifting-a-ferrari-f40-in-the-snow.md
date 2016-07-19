@@ -7,7 +7,7 @@ Image: /images/f40inthesnow.png
 
 [Jalopnik][1] featured this a few days ago:
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/he0WvPDxjZc" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube.com/embed/he0WvPDxjZc" allowfullscreen></iframe>
 
 🇮🇹 + 🏎 + ❄️ = 💥
 

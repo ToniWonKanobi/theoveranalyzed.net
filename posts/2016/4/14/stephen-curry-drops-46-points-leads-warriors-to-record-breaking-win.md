@@ -5,7 +5,7 @@ Description: 🏀
 Tags: Sports  
 Image: /images/stephcurry73wins.jpg  
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/mXFDu9X5m0o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mXFDu9X5m0o?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 Seems like last night was an [important one][1] for NBA fans.
 

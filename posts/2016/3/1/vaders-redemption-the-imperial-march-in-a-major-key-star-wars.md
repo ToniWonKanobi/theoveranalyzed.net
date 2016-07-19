@@ -9,7 +9,7 @@ What happens when you take one of the most iconic themes in the past 30 years, a
 
 This:
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/B9MShtCg4fk" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube.com/embed/B9MShtCg4fk" allowfullscreen></iframe>
 
 (From [Devour][1])
 

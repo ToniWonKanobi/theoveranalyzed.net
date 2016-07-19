@@ -7,4 +7,4 @@ Video: https://youtu.be/XEVlyP4_11M
 
 Probably his most important piece yet.
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/XEVlyP4_11M" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube.com/embed/XEVlyP4_11M" allowfullscreen></iframe>

@@ -5,7 +5,7 @@ Description: I don't understand why he had to litter.
 Tags: Cycling  
 Image: /images/nigelinla.png  
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/DwpFnfMIGrc?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube-nocookie.com/embed/DwpFnfMIGrc?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 Everything about this is neat, except for the littering at [2:44][1].[^1][^2]
 

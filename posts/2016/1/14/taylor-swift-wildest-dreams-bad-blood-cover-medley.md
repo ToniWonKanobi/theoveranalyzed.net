@@ -6,7 +6,7 @@ Tags: Taylor Swift, Music
 Image: https://d.pr/i/1c0rY+  
 Video: https://youtu.be/2mLYeA-ORV4  
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/2mLYeA-ORV4" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube.com/embed/2mLYeA-ORV4" allowfullscreen></iframe>
 
 Putting [amateurs][1] to shame on a daily basis since 1945: [Berklee College of Music][2].
 

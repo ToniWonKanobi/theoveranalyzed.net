@@ -5,7 +5,7 @@ Description: Thanks, Lego.
 Tags: Star Wars, Lego  
 Image: /images/rogueonelego.png  
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/YjTkqg8QFd4?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube-nocookie.com/embed/YjTkqg8QFd4?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 [Remind you of anything][1]?
 

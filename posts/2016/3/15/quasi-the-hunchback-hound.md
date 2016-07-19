@@ -7,7 +7,7 @@ Image: /images/quasi.png
 
 I've often thought that if everyone on the planet had a dog, there'd be a lot less bad in the world.
 
-<iframe style="border-radius: 0.2em" src="https://www.youtube.com/embed/G-NoOdYKidw" allowfullscreen></iframe>
+<iframe class="radius" src="https://www.youtube.com/embed/G-NoOdYKidw" allowfullscreen></iframe>
 
 (From [Digg][1])
 

@@ -6,7 +6,7 @@ Image: https://d.pr/i/1dQXc+
 
 Here's John Oliver talking about the red-tailed hawk:
 
-<iframe style="border-radius: 0.2em" src="https://www.youtube.com/embed/uiN_-AEhTpk" allowfullscreen></iframe>
+<iframe class="radius" src="https://www.youtube.com/embed/uiN_-AEhTpk" allowfullscreen></iframe>
 
 I started writing this post before I finished watching the clip. I was going to lambast legislative bureaucracy for all its horribleness, because, well, bureaucracy is lame. 
 

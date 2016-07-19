@@ -5,7 +5,7 @@ Tags: The Office, JAG, Gilmore Girls
 Image: https://d.pr/i/1kek5+  
 Video: https://www.youtube.com/watch?v=Vmb1tqYqyII  
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/Vmb1tqYqyII" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube.com/embed/Vmb1tqYqyII" allowfullscreen></iframe>
 
 #### Preamble
 

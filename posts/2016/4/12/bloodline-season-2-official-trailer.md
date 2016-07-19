@@ -5,7 +5,7 @@ Description: Seal's "Crazy" never sounded so creepy.
 Tags: TV  
 Image: /images/bloodlineseason2.jpg  
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/XOBrUPASutc?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube-nocookie.com/embed/XOBrUPASutc?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 I enjoyed Season 1 of Bloodline quite a bit.
 

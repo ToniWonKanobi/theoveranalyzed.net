@@ -7,4 +7,4 @@ Image: /images/stupiddoors.png
 
 It's not just doors. Stupid design is everywhere.
 
-<iframe style="border-radius: 0.2em" src="https://www.youtube.com/embed/yY96hTb8WgI" allowfullscreen></iframe>
+<iframe class="radius" src="https://www.youtube.com/embed/yY96hTb8WgI" allowfullscreen></iframe>

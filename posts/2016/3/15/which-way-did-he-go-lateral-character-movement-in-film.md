@@ -5,7 +5,7 @@ Description: You'll never watch a movie the same.
 Tags: Film  
 Image: /images/righttoleft.png  
 
-<iframe style="border-radius: 0.2em" src="https://www.youtube.com/embed/Ys8-a0yD-MM" allowfullscreen></iframe>
+<iframe class="radius" src="https://www.youtube.com/embed/Ys8-a0yD-MM" allowfullscreen></iframe>
 
 (From [Devour][1])
 

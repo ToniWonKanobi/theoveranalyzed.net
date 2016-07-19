@@ -5,7 +5,7 @@ Description: Gus Guitars was Prince's last guitar.
 Tags: Music  
 Image: /images/princeguitar.png  
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/262WcmU9aPQ?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube-nocookie.com/embed/262WcmU9aPQ?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 Simon Farmer is the "Gus" of Gus Guitars. He seems genuinely sad to have made Prince's *last* guitar ever. It certainly fit the style of "The Artist Formerly Known As [The Artist Formerly Known As Prince][1]," that's for sure.
 

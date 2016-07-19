@@ -7,7 +7,7 @@ Image: /images/westeroseconomy.png
 
 <q>The Iron Bank will have it's due</q>
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/wSTZFf0NKUI" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube.com/embed/wSTZFf0NKUI" allowfullscreen></iframe>
 
 (From [Devour][1])
 

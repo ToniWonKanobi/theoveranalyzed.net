@@ -5,6 +5,6 @@ Description: 🐦🚫🔊
 Tags: Animals  
 Image: /images/bbcowlsquiet.png  
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/d_FEaFgJyfA?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube-nocookie.com/embed/d_FEaFgJyfA?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 By being pretty ninja, apparently.

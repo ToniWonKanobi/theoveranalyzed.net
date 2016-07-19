@@ -12,7 +12,7 @@ Marco Arment was recently featured in a [series of videos][2] for the YouTube ch
 
 One portion of the second video really got my attention. (I listened to it several times so that I could quote exactly what he said, because it's so on the money.)
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSg0F3hwMnE?rel=0&amp;showinfo=0&start=154" frameborder="0" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSg0F3hwMnE?rel=0&amp;showinfo=0&start=154" allowfullscreen></iframe>
 
 Here's what Arment had to say about <i>dental office software</i>:
 

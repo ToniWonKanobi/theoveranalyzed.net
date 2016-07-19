@@ -5,6 +5,6 @@ Description: 🌊🦁
 Tags: Animals  
 Image: https://d.pr/i/6tbW+  
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/UAbH_30BZYI" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube.com/embed/UAbH_30BZYI" allowfullscreen></iframe>
 
 Precious.

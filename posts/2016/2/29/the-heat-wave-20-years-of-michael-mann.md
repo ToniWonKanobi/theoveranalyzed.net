@@ -17,7 +17,7 @@ I first watched <i>Heat</i> during my freshmen year of college. The movie came h
 
 See for yourself (watch with headphones):
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube.com/embed/b60-sEXUPBY" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube.com/embed/b60-sEXUPBY" allowfullscreen></iframe>
 
 [1]: http://is5.mzstatic.com/image/thumb/Video6/v4/5c/c1/6e/5cc16e6f-f680-d01b-31a8-37b0ab051710/source/10000x10000bb.jpg "Heat (1995)"
 [2]: https://en.wikipedia.org/wiki/Heat_(1995_film) "Wikipedia: 'Heat (1995)'"

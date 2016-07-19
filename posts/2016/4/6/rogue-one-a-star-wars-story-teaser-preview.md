@@ -5,6 +5,6 @@ Description: 😱
 Tags: Star Wars  
 Image: /images/starwarsrogueoneteaserpreview.jpg  
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/MaYv3Y8tyoQ?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube-nocookie.com/embed/MaYv3Y8tyoQ?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 Guess I have to watch Good Morning America tomorrow? (Actually, it'll probably be all over the internet. So, no: I won't be watching Good Morning America tomorrow.)

@@ -5,6 +5,6 @@ Description: Prince Rogers Nelson (June 7, 1958–April 21, 2016)
 Tags: Music  
 Image: /images/princedead.png  
 
-<iframe style="border-radius: 0.2em" width="420" height="315" src="https://www.youtube-nocookie.com/embed/6SFNW5F8K9Y?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe class="radius" width="420" height="315" src="https://www.youtube-nocookie.com/embed/6SFNW5F8K9Y?rel=0&amp;showinfo=0" allowfullscreen></iframe>
 
 I toyed with embedding from just the beginning of his solo, but the whole song is good.

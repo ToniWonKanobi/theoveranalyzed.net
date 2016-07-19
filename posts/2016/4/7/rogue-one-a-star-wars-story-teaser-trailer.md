@@ -5,4 +5,4 @@ Description: Now we have the official teaser trailer (whereas yesterday, it was 
 Tags: Star Wars  
 Image: /images/rogueoneteaser.jpg  
 
-<iframe style="border-radius: 0.2em" width="560" height="315" src="https://www.youtube-nocookie.com/embed/Wji-BZ0oCwg?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+<iframe class="radius" width="560" height="315" src="https://www.youtube-nocookie.com/embed/Wji-BZ0oCwg?rel=0&amp;showinfo=0" allowfullscreen></iframe>
