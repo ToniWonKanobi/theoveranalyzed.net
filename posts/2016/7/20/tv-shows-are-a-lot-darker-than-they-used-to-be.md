@@ -5,7 +5,7 @@ Description: 'Dark', as in literally 'not very backlit'.
 Tags: Television  
 Image: /images/darktvgot.jpg  
 
-![Dark, indeed.](/images/darktvgot.jpg "Vidcap of the Game of Thrones episode 'The Wars to Come'")
+![Dark, indeed.][1]
 
 Matthew Dessem, for Slate, on why TV shows are so much darker these days:
 
@@ -19,3 +19,4 @@ Wonderful as they are, low-lit shots don't always translate to older televisions
 
 (It goes without saying that most modern [dark] television series (and movies) should be viewed in a very low-lit room.)
 
+[1]: /images/darktvgot.jpg "Vidcap of the Game of Thrones episode 'The Wars to Come'"
