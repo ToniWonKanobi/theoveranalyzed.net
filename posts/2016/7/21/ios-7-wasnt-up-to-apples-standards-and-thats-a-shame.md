@@ -1,4 +1,4 @@
-Title: iOS 7 Wasn't Up to Apple's Standards When It Was Released  
+Title: iOS 7 Wasn't Up to Apple's Standards, and That's a Shame  
 Date: 2016-07-21 09:00   
 Description: Remember Helvetica Neue Ultra Light in the first beta of iOS 7? What were they thinking?  
 Tags: Design  
