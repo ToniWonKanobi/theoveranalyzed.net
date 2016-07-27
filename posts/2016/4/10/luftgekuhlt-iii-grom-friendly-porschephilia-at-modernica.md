@@ -32,7 +32,7 @@ This was my first experience at such an event. I have never seen so many Porsche
 
 ***
 
-We parked in a parking lot about a block from Modernica, because we didn't register ahead of time, and because we don't have an air-cooled Porsche which we could park inside the event.But from about two seconds into the parking lot, I knew it was going to be a good day.[^2]
+We parked in a parking lot about a block from Modernica, because we didn't register ahead of time, and because we don't have an air-cooled Porsche which we could park inside the event. But from about two seconds into the parking lot, I knew it was going to be a good day.[^2]
 
 ![One of these things is not like the other][6]
 
