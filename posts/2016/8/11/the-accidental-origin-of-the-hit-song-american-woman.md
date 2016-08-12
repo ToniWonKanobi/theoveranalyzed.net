@@ -1,7 +1,7 @@
 Title: The Accidental Origin of the Hit Song ‘American Woman’  
 Date: 2016-08-11 14:39  
 Link: https://www.youtube.com/watch?v=cdqyrXLt8uU  
-Description: It's like a "found poem," except that it's a song and not a poem.  
+Description: It's like a 'found poem,' except that it's a song and not a poem.  
 Tags: Music  
 Image: /images/americanwoman.jpg  
 
