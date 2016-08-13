@@ -1,6 +1,6 @@
 Title: Kevin Conroy Is the Best Batman, Because His Is the Most Relatable  
 Date: 2016-08-13 08:13  
-Description: Strong words from MY original/favorite Batman.  
+Description: This post will make you want to watch the TV show again. 
 Tags: Comics  
 Image: /images/batmananimatedseries.jpg  
 
