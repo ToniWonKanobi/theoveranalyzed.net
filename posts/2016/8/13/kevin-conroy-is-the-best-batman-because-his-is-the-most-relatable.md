@@ -22,11 +22,15 @@ Instead, what made this adaptation the best was that it flipped the previous sma
 
 It's a concept with which most of us can relate: an outward-facing [faker] persona, and an inward-facing [truer] one.
 
-Everybody's different. For some people, there's no difference in what they portray outwardly and what they hold close to their heart. Those folks exist on a level that I've never been able to attain. Deep down, I don't much enjoy interacting with other people, and would rather be by myself most of the time. (But I have to be gregarious for work and most away-from-home life situations, so I do it and do it well. I just don't do it when I don't have to.)
+For some people, there's no difference in what they portray outwardly and what they hold close to their heart. Those folks exist on a level that I've never been able to attain. See, deep down, I don't much enjoy interacting with other people, and would rather be by myself generally speaking. (But I have to be gregarious for work and most *away-from-home* life situations, so I do it and do it well. I just don't do it when I don't have to.)
 
 For most people, though, Conroy's Bruce Wayne / Batman is a familiar concept. Oftentimes, our fear of being perceived as different holds us back. We don't want to share our true selves, for fear that we won't be accepted. So what do we do? We create a version of ourselves that we think will be more acceptable to society.
 
-Thankfully, most of us eventually develop thick-enough skin as to not care about what other people think. But those unsaid societal lessons about behavior and perception are ingrained in us, and even as fully confident and realized adults, our instincts mostly tell us to be the *persona* when placed in an uncomfortable situation.This is why Conroy's Batman is so relatable.He voiced Batman / Bruce Wayne for the entirety of the series, as well as several movie spinoffs set in the same universe. He has played Batman more times than anyone else.
+Thankfully, most of us eventually develop thick-enough skin as to not care about what other people think. But those unsaid societal lessons about behavior and perception are ingrained in us, and even as fully confident and realized adults, our instincts mostly tell us to be the *persona* when placed in an uncomfortable situation.
+
+This is why Conroy's Batman is so relatable.
+
+He voiced Batman / Bruce Wayne for the entirety of the series, as well as several movie spinoffs set in the same universe. He has played Batman more times than anyone else.
 
 Conroy sat down with [IGN][8] to discuss the matter, and here's what he had to say about the role (via [/Film][9]):
 
