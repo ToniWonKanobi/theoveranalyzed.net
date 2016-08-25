@@ -26,8 +26,6 @@ I've been using that plan for the past three years, and boy has it been a real g
 * No internet for a week? Gasp!
 * No worries. I'll just tether.
 * [S'All Good, man][4], right?
-	* Test
-		* Test
 
 Well, after a few days, this is how much data I had used:
 
