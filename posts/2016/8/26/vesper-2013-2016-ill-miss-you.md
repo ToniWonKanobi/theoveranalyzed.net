@@ -14,7 +14,7 @@ Here's a portion from Gruber's "[adieu][5]:"
 
 > Yesterday, we announced that development was ceasing, and we’ll soon be shutting down our sync server. I am terribly sad about this. I love Vesper. I use it every day. I mean that in the present tense. I still use it. When we pull the plug on the sync server, I’ll stop, but until then it’s my go-to notes app. In my career, the only things I’ve done that I’m prouder of are writing Daring Fireball and the creation of Markdown.
 
-There's a whole lot that could be said about *why* Vesper didn't make it, but I'm not going to talk about that. It's been hashed out in many blog posts and podcasts over the past few years, during which time the "free, with in-app purchase" model has steamrolled the entire App Store (so much so that "paid up front" apps like Vesper simply couldn't afford to compete).
+There's a whole lot that could be said about *why* Vesper didn't make it, but I'm not going to talk about that. It's been hashed out in many blog posts and podcasts over the past few years, during which time the *free with in-app purchase* model has steamrolled the entire App Store (so much so that *paid up front* apps like Vesper simply couldn't afford to compete).
 
 Instead, I want to talk about what made Vesper so great.
 
@@ -96,7 +96,7 @@ Vesper's shuttering might just be the impetus I've needed.
 
 I've got a few good ideas for a notes app, and I think there just *might* be a [small] market still out there for a well-designed notes app.
 
-And I can learn from the failures of others. Over the past few years, those who've been paying attention know the writing on the wall: "paid up-front" apps are fading away, and the "free, with in-app purchase" route is the only practical way to be successful in the App Store.
+And I can learn from the failures of others. Over the past few years, those who've been paying attention know the writing on the wall: *paid up-front* apps are fading away, and the *free with in-app purchase* route is the only practical way to be successful in the App Store.
 
 While Swift is still fresh and new, every subsequent major version is better than its predecessor. CloudKit is more robust that ever, and could possibly obfuscate my lack of server-side, back-end knowledge. Heck, children are learning development on iPads---I have no excuse!
 
