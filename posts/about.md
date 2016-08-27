@@ -7,7 +7,7 @@ Hi. I'm [Anthony][1] 🤓
 
 ![Allison and I ❤️][2]
 
-I'm a [professional][3] by day, nerd by night. TheOverAnalyzed is a website about technology, motorsports, design, and pop culture. Also <i>Star Wars</i>---lots of [Star Wars][4].
+I'm a [professional][3] by day, nerd by night. TheOverAnalyzed is a website about technology (mostly Apple), design, pop culture, motorsports, and watches. Also <i>Star Wars</i>---lots of [Star Wars][4].
 
 ***
 <!-- {.long} -->

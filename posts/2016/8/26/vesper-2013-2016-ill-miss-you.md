@@ -90,21 +90,19 @@ But one nerd goal I've yet to conquer is learning iOS development. I've wanted t
 
 I can appreciate that advice: I wasn't inspired to learn front-end development until I *had* to. I needed to solve a problem that Squarespace couldn't help me with. So I learned a lot of stuff and solved said problem over the the next few months.
 
-But before the lack of a decent notes app, I haven't had any problems with iOS apps. For a while note, I've been pretty set with my so-called "hand-crafted, indie" iOS apps. Occasionally, something new [pops up][15], and I might check it out for a while. But I always come back to my [favorites][16]. Indeed, there are [several][17] [apps][18] [on][19] my Home Screen that I [use][20] [*so*][21] [much][22] that it's almost as if using those apps is the same thing as using an iPhone in general.
+But before the lack of a decent notes app, I haven't had any problems with iOS apps. For a while now, I've been pretty set with my so-called *hand-crafted, indie* iOS apps. Occasionally, something new [pops up][15], and I might check it out for a while. But I always come back to my [favorites][16]. Indeed, there are [several][17] [apps][18] [on][19] my Home Screen that I [use][20] [*so*][21] [much][22] that it's almost as if using those apps is the same thing as using an iPhone in general.
 
 Vesper's shuttering might just be the impetus I've needed.
 
 I've got a few good ideas for a notes app, and I think there just *might* be a [small] market still out there for a well-designed notes app.
 
-And I can learn from the failures of others. Over the past few years, those who've been paying attention know the writing on the wall: "paid up-front" apps are fading away, and "free, with in-app purchase" apps are the only way to be successful in the App Store.
+And I can learn from the failures of others. Over the past few years, those who've been paying attention know the writing on the wall: "paid up-front" apps are fading away, and the "free, with in-app purchase" route is the only practical way to be successful in the App Store.
 
-While Swift is still fresh and new, every subsequent major version is better than its predecessor. CloudKit is more robust that ever, and could possibly obfuscate my lack of server-side, back-end knowledge. Kids are developing on iPads.
+While Swift is still fresh and new, every subsequent major version is better than its predecessor. CloudKit is more robust that ever, and could possibly obfuscate my lack of server-side, back-end knowledge. Heck, children are learning development on iPads---I have no excuse!
 
 It's never been easier to build an iOS app.
 
-I guess it's time to open Xcode and watch some videos?
-
-See you in a while.
+I guess it's time to open Xcode and watch some YouTube videos?
 
 [^1]: They eventually [added sync][a].
 [^2]: In their defense: when Vesper launched, iOS 8 hadn't been unveiled, and there were no Size Classes. Before that point, the iPad app was very much *distinct* from the iPhone code.
