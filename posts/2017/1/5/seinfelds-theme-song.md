@@ -13,7 +13,7 @@ It's been months since I played bass.[^1] When I first started, the most common 
 
 But the *second* most common reaction was this question:
 
-"Hey man, can you pay the Seinfeld bass line?"
+"Hey man, can you play the Seinfeld bass line?"
 
 I got so tired of saying "No" that I actually learned how to play it---more or less.
 
