@@ -23,7 +23,7 @@ This was a fun one to watch.
 
 (Man, I really need to find that [bass][2] I want.)
 
-[From [Uncrate][3]]
+(From [Uncrate][3])
 
 [^1]: I actually sold my last bass because I was looking to purchase a new one, but that new one hasn't been available [at a price I like] for a while. So here I stand, currently bassless.
 
