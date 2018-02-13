@@ -28,7 +28,7 @@ This is great move by Porsche. They have [long touted][12] that over 70% of thei
 
 Currently, [#TONI964][13] is coming to a close. But if I were planning on further developing the car, I'm sure NOS EVO uprights would be on the list of things to do. And if Porsche does what they promise, I might have been able to buy uprights directly from them, and not from a third party. Pretty cool.
 
-[From: [Gear Patrol][14]]
+(From [Gear Patrol][14])
 
 [1]: /images/pelican-parts-evo-upright-NLA.jpg
 [2]: https://en.wikipedia.org/wiki/Porsche_964 "Wikipedia article on the Porsche 964"

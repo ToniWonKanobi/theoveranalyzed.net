@@ -4,9 +4,11 @@ Description: This page contains additional information about the site not covere
 
 ### Apps I Use
 
-Almost all of the writing, design, and development for TheOverAnalyzed happens on my Mac. I use [Byword][1] for static content such blog posts. I've tried plenty of other text editors, but Byword is by far my favorite.
+Almost all of the writing, design, and development for TheOverAnalyzed happens on my Mac. I use [Byword][1] for static content such blog posts. I've tried plenty of other text editors, but Byword is by far my favorite. It just looks clean while writing.
 
-I use [Atom][2] for all the coding and design.
+I use <del>Atom</del> for all the coding and design.
+
+**Update February 13, 2018:** I'm now using [Sublime Text 3][2], because I realized Atom, being an Electron app, wasn't as performant as a true native app like Sublime.
 
 Occasionally I have to fix a post on my iPhone. I use [Byword][3] for that as well.
 
@@ -51,7 +53,7 @@ Perhaps you've looked high and low in a search engine and still can't find a lin
 You can append `.md` to the end of any static page (such as a blog post) URL to see the actual Markdown source for that page
 
 [1]: https://geo.itunes.apple.com/us/app/byword/id420212497?mt=12&at=1l3vx9s "Byword on the Mac App Store"
-[2]: https://atom.io "Atom text editor"
+[2]: https://www.sublimetext.com "Sublime Text text editor"
 [3]: https://geo.itunes.apple.com/us/app/byword/id482063361?mt=8&at=1l3vx9s "Byword on the App Store"
 [4]: https://twitter.com/caseyliss "Casey Liss on Twitter"
 [5]: https://github.com/cliss/camel "Camel on GitHub"

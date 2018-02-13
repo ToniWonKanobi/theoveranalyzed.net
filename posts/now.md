@@ -4,15 +4,12 @@ Description: This is what I'm up to recently
 
 What I'm up to these days:[^1]
 
-* Living in Northern California
-* [Working][1] in a small town
-* And [watches][2]
-* And [cars][3]
+* Trying to remember how to use the [Camel][1] engine and write a post 😅
+* Finishing up [#TONI964][2]
 
 [^1]: What is this all about? Read [this][a].
 
 [a]: http://nownownow.com/about "About '/now' pages"
 
-[1]: http://anthonycraigdds.com "My dental website"
-[2]: https://hodinkee.com "HODINKEE"
-[3]: http://www.ebay.com/sch/i.html?Transmission=Manual&Drive%2520Type=%2521%7CRWD&_sacat=6001&_nkw=porsche+911+-turbo+-speedster+-%22carrera+4%22+-%22rs+america%22+-targa&_dcat=10156&Model%2520Year=1990%7C1991%7C1992%7C1993%7C1994&Body%2520Type=%2521%7CCoupe&Vehicle%2520Title=Clear&_dmpt=US_Cars_Trucks&_sop=3 "eBay search for my dream 911"
+[1]: http://github.com/cliss/camel "Link to Casey Liss's static-ish blogging engine, Camel"
+[2]: http://instagram.com/explore/tags/toni964/ "#TONI964 on Instagram"
