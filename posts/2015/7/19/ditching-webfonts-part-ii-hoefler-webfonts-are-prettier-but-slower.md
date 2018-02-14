@@ -66,7 +66,7 @@ Compared to TypeKit, things weren't looking good for Cloud.typography.
 
 ### A Chance Meeting
 
-A couple of days ago, a patient of mine[^3] ended up being one of those typical web design . developer / entrapaneur types. We started talking non-dental things like iOS and OS X, and after the conversation included the typical Apple blogosphere heavyweights like [Gruber][18] and [Marco][19], we talked a bit about webfonts.[^4] After the "exam" was completed, I went back to my office. And like any [good] aspiring web developer, I snuck a peak at his website's source code. He was using [Google Fonts][20].
+A couple of days ago, a patient of mine[^3] ended up being one of those typical web design / developer / entrepreneur-types. We started talking non-dental things like iOS and OS X, and after the conversation included the typical Apple blogosphere heavyweights like [Gruber][18] and [Marco][19], we talked a bit about webfonts.[^4] After the "exam" was completed, I went back to my office. And like any [good] aspiring web developer, I snuck a peak at his website's source code. He was using [Google Fonts][20].
 
 Before the girls up front checked him out, I stopped by to pick his brain one last time. I asked him what he thought about the Google Fonts webfonts, and whether he had ever experienced any latency on uncached page loads. He said he never experienced noticeable lag, and that Google Fonts were a "no-brainer."
 
