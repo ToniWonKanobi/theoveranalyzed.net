@@ -130,7 +130,9 @@ You may have noticed that I've re-enabled my Cloud.typography webfont, Ideal San
 </aside>
 
 [^1]: But correct.
-[^2]: Hoefler conveniently launched Cloud.typography *after* the split with Frere-Jones was [official][a], thereby obfuscating any potential copyright claims from Frere-Jones in the future. That [whole story][b] is just sad.
+[^2]: Hoefler <del title="This was unnecessarily snarky of me. I wasn't privy to the inner-workings of the JF/TFJ relationship, so it was inappropriate to assume some amount of shadiness on the part of JF.">conveniently</del> launched Cloud.typography *after* the split with Frere-Jones was [official][a], thereby obfuscating any potential copyright claims from Frere-Jones in the future. That [whole story][b] is just sad.
+	
+	**Update February 14, 2018:** According to Jonathan Hoefler, Tobias Frere-Jones officially left Hoefler & Frere-Jones in January of 2014—some ~3 months after the launch of Cloud.typography.
 [^3]: I am inclined to link to his development studio, but since we met in a professional setting, [HIPPA][c] would not approve of me doing so.
 [^4]: At this point, the hygienist was most displeased. As you might imagine, our nerdy conversation went on for a while, and this was impeding her from moving on to her next patient.
 [^5]: This just became an Accidental <s>Tech</s> Font <s>Podcast</s> Post. If you want to skip ahead to my final thoughts about Hoefler webfonts, click [here][d].

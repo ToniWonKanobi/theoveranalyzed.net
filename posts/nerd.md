@@ -8,7 +8,16 @@ Almost all of the writing, design, and development for TheOverAnalyzed happens o
 
 I use <del>Atom</del> for all the coding and design.
 
-**Update February 13, 2018:** I'm now using [Sublime Text 3][2], because I realized Atom, being an Electron app, wasn't as performant as a true native app like Sublime.
+<aside class="update">
+
+### Update: Bye Bye, Atom. Hello Sublime Text
+
+February 13, 2018
+<!-- {.updatetime} -->
+
+I'm now using [Sublime Text 3][2] instead of Atom. The latter, being an Electron app, wasn't as performant as a true native app like Sublime Text. I switched a few months ago, and although I haven't really done any web design in a year, I like Sublime. It's as amenable as Atom, and it's definitely more snappy!
+
+</aside>
 
 Occasionally I have to fix a post on my iPhone. I use [Byword][3] for that as well.
 
