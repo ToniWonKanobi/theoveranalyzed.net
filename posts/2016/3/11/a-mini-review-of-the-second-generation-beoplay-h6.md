@@ -1,7 +1,7 @@
 Title: A Mini-Review of the Second Generation BeoPlay H6  
 Date: 2016-03-11 07:00  
 Description: You should buy these headphones.  
-Tags: Audio  
+Tags: Audio, Best Of  
 Image: /images/h62ndgen.jpeg  
 
 ![I like these a lot.][1]

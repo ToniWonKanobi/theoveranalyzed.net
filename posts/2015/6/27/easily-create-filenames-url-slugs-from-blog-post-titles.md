@@ -79,39 +79,6 @@ The [good][4] [doctor][5] was kind enough to send me an email with the contents 
 
 I tried getting it to work, but, alas, it was beyond my understanding. 
 
-```
-Anthonys-MacBook:Unidecode-0.04.18 Anthony$ python setup.py install
-running install
-Checking .pth file support in /Library/Python/2.7/site-packages/
-error: can't create or remove files in install directory
-
-The following error occurred while trying to add or remove files in the
-installation directory:
-
-    [Errno 13] Permission denied: '/Library/Python/2.7/site-packages/test-easy-install-3529.pth'
-
-The installation directory you specified (via --install-dir, --prefix, or
-the distutils default setting) was:
-
-    /Library/Python/2.7/site-packages/
-
-Perhaps your account does not have write access to this directory?  If the
-installation directory is a system-owned directory, you may need to sign in
-as the administrator or "root" account.  If you do not have administrative
-access to this machine, you may wish to choose a different installation
-directory, preferably one that is listed in your PYTHONPATH environment
-variable.
-
-For information on other options, you may wish to consult the
-documentation at:
-
-  https://pythonhosted.org/setuptools/easy_install.html
-
-Please make the appropriate changes for your system and try again.
-
-Anthonys-MacBook:Unidecode-0.04.18 Anthony$  
-```
-
 Brett Terpstra's suggestion ended up being the winner:
 
 <blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> tons. Look up &quot;slugify&quot;.</p>&mdash; Brett Terpstra (@ttscoff) <a href="https://twitter.com/ttscoff/status/614904337735651328" title="Brett Terpstra's response to me">June 27, 2015</a></blockquote>
@@ -123,16 +90,26 @@ After a bit more searching, I found this [page][7], in which Alex Plumb shared h
 After some cribbing of my own, here is the contents of my version of Alex's script:
 
 ```applescript
-# Takes as input clipboard content [that is potentially unsafe-for-URLs string of text] (such as a blog post in Title Case)
+# What is this?
+# This AppleScript takes as input the clipboard content [that is potentially unsafe-for-URLs string of text] (such as a blog post in Title Case)
 # The script then creates a URL-safe version
-# `This Is a Title of a Post!` --> `this-is-a-title-of-a-post`
+# For example: `This Is a Title of a Post!` --> `this-is-a-title-of-a-post`
 # Boomshakalaka
+
+# This is from https://superuser.com/questions/635351/process-clipboard-content-on-mac-os
+
+# The workflow:
+# 1) Select text
+# 2) Copy to clipboard
+# 3) Run Slugify.workflow (as a Service in macOS `~/Library/Services`)
+# 4) Paste converted text
 
 set theclip to the clipboard contents
 on normalize(the_string)
 	set p_script to ¬
 		"# -*- coding: utf-8 -*-
 import unicodedata, sys
+
 def normalize(x):
     normal_form_1 = 'NFKD'
     normal_form_2 = 'NFC'
@@ -176,11 +153,10 @@ on replace_chars(this_text, search_string, replacement_string)
 	return this_text
 end replace_chars
 
+# Alex had a bunch of special characters getting converted to their URL-safe versions. Since my desire was to just create clean filenames, I actually wanted to remove those characters entirely
 set theresult to normalize(theclip)
-set theresult to replace_chars(theresult, " - ", "-")
-set theresult to replace_chars(theresult, " & ", "-")
-set theresult to replace_chars(theresult, " -- ", "-")
 set theresult to replace_chars(theresult, " ", "-")
+set theresult to change_case(theresult)
 set theresult to replace_chars(theresult, "%", "")
 set theresult to replace_chars(theresult, "<", "")
 set theresult to replace_chars(theresult, ">", "")
@@ -195,28 +171,26 @@ set theresult to replace_chars(theresult, "[", "")
 set theresult to replace_chars(theresult, "]", "")
 set theresult to replace_chars(theresult, "`", "")
 set theresult to replace_chars(theresult, ";", "")
-set theresult to replace_chars(theresult, ",", "")
-set theresult to replace_chars(theresult, ".", "")
-set theresult to replace_chars(theresult, "'", "")
 set theresult to replace_chars(theresult, "/", "")
 set theresult to replace_chars(theresult, "?", "")
 set theresult to replace_chars(theresult, ":", "")
 set theresult to replace_chars(theresult, "@", "")
 set theresult to replace_chars(theresult, "=", "")
+set theresult to replace_chars(theresult, "&", "")
 set theresult to replace_chars(theresult, "$", "")
-set theresult to replace_chars(theresult, "(", "")
-set theresult to replace_chars(theresult, ")", "")
+# I added the following three replacements
+set theresult to replace_chars(theresult, ",", "")
+set theresult to replace_chars(theresult, "'", "")
 set theresult to replace_chars(theresult, "\"", "")
-set theresult to change_case(theresult)
 ```
 
 And here's a screenshot of the workflow:
 
-![Make URL Slug.workflow][10]
+![Slugify.workflow][10]
 
 ### Explanation
 
-Essentially, what `Make URL Slug.workflow` does is take selected text and automate the changes I was making to the title text previously. It makes uppercase letters lowercase, and it removes spaces and funky characters and replaces them with hyphens.
+Essentially, what my `Slugify.workflow` does is take selected text and automate the changes I was making to the title text previously. It makes uppercase letters lowercase, and it removes spaces and funky characters and replaces them with hyphens.
 
 I also assigned a keyboard shortcut to the service, so that I don't have to invoke the 'right-click' submenu.
 
@@ -232,18 +206,7 @@ This couldn't get any easier.
 
 ### Source
 
-You can check out `Make URL Slug.AppleScript` on [GitHub][12]. There are instructions there for creating an Automator service as well.
-
-<aside class="update">
-
-### Update: Fixed Some Errors in Make URL Slug
-
-November 21, 2015
-<!-- {.updatetime} -->
-
-Found some errors in my script, such as not removing commas. So, I fixed that. (For posterity's sake, I left the code above alone.)
-
-</aside>
+You can check out my `Slugify.applescript` on [GitHub][12]. There are instructions there for creating an Automator service as well.
 
 [1]: https://d.pr/i/MDC4+ "Highlighting the post title"
 [2]: https://d.pr/i/BPjq+ "Invoking the Save command"
@@ -254,6 +217,6 @@ Found some errors in my script, such as not removing commas. So, I fixed that. (
 [7]: http://superuser.com/questions/635351/process-clipboard-content-on-mac-os "Superuser: Process clipboard content on Mac OS?"
 [8]: http://superuser.com/revisions/635370/2 "The basis for my version of Slugify"
 [9]: http://www.macosxautomation.com/applescript/sbrt/sbrt-06.html "AppleScript tutorial"
-[10]: https://d.pr/i/107X5+ "Finished workflow"
-[11]: https://d.pr/i/1lBKU+ "Keyboard shortcut for Make URL Slug.workflow"
-[12]: https://gist.github.com/ToniWonKanobi/a1a761a95fcc32625370#file-make-url-slug-workflow "View my `Make URL Slug.AppleScript` on GitHub"
+[10]: /images/finished-slugify-workflow.png "Finished Slugify workflow"
+[11]: https://d.pr/i/1lBKU+ "Keyboard shortcut for Slugify.workflow"
+[12]: https://gist.github.com/ToniWonKanobi/a1a761a95fcc32625370 "View my `Slugify.applescript` on GitHub"

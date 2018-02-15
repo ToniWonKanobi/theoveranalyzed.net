@@ -32,13 +32,9 @@ Thanks for stopping by 🙃
 The author [@ToniWonKanobi][12]  
 The site [@TheOverAnalyzed][13]
 
-#### Instapaper
-
-The author [ToniWonKanobi][14]
-
 #### GitHub
 
-The author [ToniWonKanobi][15]
+The author [ToniWonKanobi][14]
 
 #### Email
 
@@ -57,7 +53,7 @@ There is also an alternate RSS feed, for which linked posts point back to TheOve
 
 #### Newsletter
 
-You can subscribe to the email newsletter [here][16]
+You can subscribe to the email newsletter [here][15]
 
 [1]: http://www.twitter.com/toniwonkanobi "Me on Twitter"
 [2]: /images/ac2.jpg "Allison and I"
@@ -72,9 +68,8 @@ You can subscribe to the email newsletter [here][16]
 [11]: /rss-alternate "The alternate feed for TheOverAnalyzed, for which linked posts point back to TheOverAnalyzed instead of the external site"
 [12]: http://www.twitter.com/toniwonkanobi "Me on Twitter"
 [13]: http://www.twitter.com/theoveranalyzed "Twitter account for TheOverAnalyzed (occasional site updates, in addition to auto-postings)"
-[14]: https://www.instapaper.com/p/ToniWonKanobi "Me on Instapaper"
-[15]: https://github.com/ToniWonKanobi "Me on GitHub"
-[16]: /newsletter "Subscribe to the email newsletter"
+[14]: https://github.com/ToniWonKanobi "Me on GitHub"
+[15]: /newsletter "Subscribe to the email newsletter"
 
 <style>
 	main figure {

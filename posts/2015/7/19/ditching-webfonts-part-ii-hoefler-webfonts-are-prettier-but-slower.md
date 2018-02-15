@@ -19,7 +19,11 @@ A few days ago I found myself commanding the attention of none other than Ben Th
 
 <blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/benthompson" title="Ben Thompson on Twitter">@benthompson</a> <a href="https://twitter.com/gruber" title="John Gruber on Twitter">@gruber</a> <a href="https://twitter.com/marcoarment" title="Marco Arment on Twitter">@marcoarment</a> <a href="https://twitter.com/TheOverAnalyzed" title="TheOverAnalyzed on Twitter">@TheOverAnalyzed</a> It should default to whatever sans serif is there if no Avenir: <a href="http://t.co/WiLvy1Lvai" title="Screenshot of my CSS showing the default to Avenir">http://t.co/WiLvy1Lvai</a></p>&mdash; Anthony Craig (@ToniWonKanobi) <a href="https://twitter.com/ToniWonKanobi/status/621555527638609920" title="Me positing to Ben Thompson">July 16, 2015</a></blockquote>
 
-Thompson was right. In modifying my CSS to call for generic font families in lieu of my webfont of choice, I am potentially allowing fonts I never approved of to be displayed on my site (e.g., in the case of the fallback to `sans serif`). That's not ideal.My website is faster for it, but it's not *really* my website anymore.A later tweet by Thompson seemed to suggest to me that perhaps [Cloud.typography][5] webfonts were more latency-prone and less performant than competitors' webfonts:
+Thompson was right. In modifying my CSS to call for generic font families in lieu of my webfont of choice, I am potentially allowing fonts I never approved of to be displayed on my site (e.g., in the case of the fallback to `sans serif`). That's not ideal.
+
+My website is faster for it, but it's not *really* my website anymore.
+
+A later tweet by Thompson seemed to suggest to me that perhaps [Cloud.typography][5] webfonts were more latency-prone and less performant than competitors' webfonts:
 
 <blockquote lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi" title="Me on Twitter">@ToniWonKanobi</a> yep. Don&#39;t feel it slows my site up 97% of the time</p>&mdash; Ben Thompson (@benthompson) <a href="https://twitter.com/benthompson/status/621561134663897088" title="Ben Thompson on TypeKit webfonts on Stratechery">July 16, 2015</a></blockquote>
 
