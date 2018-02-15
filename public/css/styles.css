@@ -118,6 +118,7 @@ body {
   color: #555;
   font-size: 14pt;
   font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", sans-serif;
+  font-style: normal;
   font-weight: 400;
   line-height: 1.6;
   margin: 0;
@@ -161,9 +162,8 @@ a {
   margin-top: 0; }
 
 .entry a, .homepage-article-readmore {
-  border-bottom: 0.05em solid #ccc; }
+  border-bottom: 0.25em solid #eee; }
   .entry a:hover, .entry a:focus, .homepage-article-readmore:hover, .homepage-article-readmore:focus {
-    border-bottom: none;
     background: #eee; }
   .homepage-article:hover .entry a, .homepage-article:focus .entry a, .homepage-article:hover .homepage-article-readmore, .homepage-article:focus .homepage-article-readmore {
     border-bottom-color: #b3b2b2; }
@@ -405,10 +405,14 @@ blockquote {
   border-radius: 0.2em;
   padding: 0.25em 1em; }
 
+pre, code {
+  font-family: "Operator Mono SSm A", "Operator Mono SSm B", monospace;
+  font-style: normal;
+  font-weight: 500; }
+
 pre {
   background: #eee;
   border-radius: 0.2em;
-  font-family: "Operator Mono SSm A", "Operator Mono SSm B", monospace;
   font-size: 0.8em;
   padding: 1em;
   overflow: auto; }
@@ -416,7 +420,6 @@ pre {
 code {
   background: #eee;
   border-radius: 0.2em;
-  font-family: "Operator Mono SSm A", "Operator Mono SSm B", monospace;
   font-size: 0.8em;
   padding: 0.25em; }
 
@@ -574,6 +577,9 @@ h3, h4, h5, h6 {
 .footnote-backref {
   border-bottom: none;
   color: #999; }
+
+a.foot-note-backref {
+  border-bottom: none; }
 
 .homepage-pagination {
   background: white;
@@ -761,12 +767,12 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   background: #eee;
   opacity: 0;
   /* border-radius: 0.5em; */
-  border-radius: 0.4em;
+  border-radius: 2em;
   /* box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3); */
   -webkit-box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
           box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
   /* border: 1px solid #c3c3c3; */
-  border: 1px solid #ddd;
+  border: 0.3em solid #3f70a2;
   line-height: 0;
   -webkit-transition-property: opacity, -webkit-transform;
   transition-property: opacity, -webkit-transform;
@@ -886,7 +892,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   margin: 0;
   background-color: #fafafa;
   /* border-radius: 0.5em; */
-  border-radius: 0.5em;
+  border-radius: 2em;
   line-height: 0; }
 
 /* Stuff inside the footnote */
@@ -896,14 +902,14 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   display: inline-block;
   max-height: 15em;
   /* padding: 1.1em 1.3em 1.2em; */
-  padding: 0 2em 0 2em;
+  padding: 0 1.5em 0 1.5em;
   -webkit-box-sizing: inherit;
           box-sizing: inherit;
   overflow: auto;
   -webkit-overflow-scrolling: touch;
   background: #fafafa;
   /* border-radius: 0.4em; */
-  border-radius: 0.2em;
+  border-radius: 2em;
   -webkit-font-smoothing: subpixel-antialiased;
   /* line-height: normal */
   line-height: 1.6; }
@@ -939,7 +945,8 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   /*     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3); */
   -webkit-box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
           box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
-  border-top-left-radius: 0; }
+  border-top-left-radius: 0;
+  border: 0.3em #3f70a2 solid; }
 
 .is-positioned-bottom .bigfoot-footnote__tooltip {
   top: -0.65em; }

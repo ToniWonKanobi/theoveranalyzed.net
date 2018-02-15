@@ -58,9 +58,9 @@ That brings me to today.
 
 ### What's Next?
 
-As far as I can tell, there's nothing out there that totally replicates Vesper---noting in terms of design or function. Design-wise, I don't think there's a better looking notes app out there.
+As far as I can tell, in terms of design or function, there's nothing out there that totally replicates what Vesper does. Put another way, I don't think there's a better looking notes app out there.
 
-Function-wise---yes---there *are* more powerful apps out there, but they are almost always *too* powerful (think Evernote). And with all that power comes the necessary code-savings, like stock `UITextView` classes instead of custom ones. That's just not pretty.
+Function-wise---yes---there *are* more powerful Notes apps, but they are almost always *too* powerful (think Evernote). And with all that power comes the necessary code-savings, like stock `UITextView` classes instead of custom ones. That's just not pretty.
 
 So where does that leave me?
 
