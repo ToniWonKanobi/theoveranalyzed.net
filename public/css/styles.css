@@ -406,7 +406,7 @@ blockquote {
   padding: 0.25em 1em; }
 
 pre, code {
-  font-family: "Operator Mono SSm A", "Operator Mono SSm B", monospace;
+  font-family: "Operator Mono SSm A", "Operator Mono SSm B", "Monaco Regular", "Menlo", monospace;
   font-style: normal;
   font-weight: 500; }
 
@@ -1024,8 +1024,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-subst,
 .hljs-request,
 .hljs-status {
-  color: #333;
-  font-weight: bold; }
+  color: #333; }
 
 .hljs-number,
 .hljs-hexcolor,
@@ -1041,26 +1040,19 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-title,
 .hljs-id,
 .scss .hljs-preprocessor {
-  color: #900;
-  font-weight: bold; }
-
-.hljs-list .hljs-keyword,
-.hljs-subst {
-  font-weight: normal; }
+  color: #900; }
 
 .hljs-class .hljs-title,
 .hljs-type,
 .vhdl .hljs-literal,
 .tex .hljs-command {
-  color: #458;
-  font-weight: bold; }
+  color: #458; }
 
 .hljs-tag,
 .hljs-tag .hljs-title,
 .hljs-rule .hljs-property,
 .django .hljs-tag .hljs-keyword {
-  color: #000080;
-  font-weight: normal; }
+  color: #000080; }
 
 .hljs-attribute,
 .hljs-variable,
@@ -1089,8 +1081,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-doctype,
 .hljs-shebang,
 .hljs-cdata {
-  color: #999;
-  font-weight: bold; }
+  color: #999; }
 
 .hljs-deletion {
   background: #fdd; }

@@ -2,7 +2,7 @@ Title: Bigfoot Footnotes in Squarespace
 Date: 2015-01-31 08:00  
 Description: A big milestone in my blogging development: Bigfoot footnotes are live on TheOverAnalyzed 🤓
 Tags: Best Of, Squarespace, JavaScript  
-Image: https://d.pr/i/S2A4+  
+Image: /images/bigfoot.jpg  
 
 ![Bigfoot Footnotes][1]
 
@@ -28,11 +28,11 @@ I was having trouble getting the footnotes to reset their count for each new pos
 
 This isn't a super big deal, except that it totally is.
 
-I looked everywhere for help. Unfortunately, there wasn't a single write-up out there that told me exactly what it was that I needed to do. So I contacted the author of `bigfoot.js` (again), and I didn't really get anywhere after talking with him, as there is only so much he can do since every CMS implements things differently. I saw some posts, one from [Crate of Penguins][15], and another from [Reckless Unicorn][16]. Those authors weren't much help beyond what they already wrote in their posts[^9]
+I looked everywhere for help. Unfortunately, there wasn't a single write-up out there that told me exactly what it was that I needed to do. So I contacted the author of `bigfoot.js` (again), and I didn't really get anywhere after talking with him, as there is only so much he can do since every CMS implements things differently. I saw some posts, one from [Crate of Penguins][14], and another from [Reckless Unicorn][15]. Those authors weren't much help beyond what they already wrote in their posts[^9]
 
 ### `bigfoot-number.css` Solution
 
-Somewhat fortuitously, I saw a [thread][17] on Twitter between Jason Snell and a few other heavyweights talking about this very thing. I tried again tonight and it worked!
+Somewhat fortuitously, I saw a [thread][16] on Twitter between Jason Snell and a few other heavyweights talking about this very thing. I tried again tonight and it worked!
 
 The key was passing a particular object literal in the `Header` field of the `Code Injection` area.
 
@@ -85,7 +85,7 @@ And there you have it! Bigfoot away!
 [b]: https://github.com/lemonmade "GitHub page for creator of Bigfoot.js"
 [c]: http://www.sqarespace.com "Squarespace"
 
-[1]: https://d.pr/i/S2A4+ "Bigfoot Footnotes"
+[1]: /images/bigfoot.jpg "Bigfoot Footnotes"
 [2]: https://twitter.com/TheOverAnalyzed/status/553716002999898112 "Tweet announcing Bigfoot on TheOverAnalyzed"
 [3]: http://www.bigfootjs.com "Bigfoot footnotes"
 [4]: http://www.marco.org/ "Marco Arment's blog, Marco.org"
@@ -98,7 +98,6 @@ And there you have it! Bigfoot away!
 [11]: https://duckduckgo.com/?q=bigfootjs&t=osx "DuckDuckGo search for Bigfoot footnotes"
 [12]: http://recklessunicorn.net/blog/2014/2/11/how-to-use-bigfoot-on-squarespace "More help with Bigfoot footnotes"
 [13]: http://www.urbandictionary.com/define.php?term=Fancy+Schmancy "Urban Dictionary: 'Fancy schmancy'"
-[14]: /posts
-[15]: http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites "This page helped me figure out Bigfoot footnotes"
-[16]: http://recklessunicorn.net/blog/2014/2/11/how-to-use-bigfoot-on-squarespace "How-to: Use Bigfoot on Squarespace"
-[17]: https://twitter.com/jsnell/status/560581646248722433 "Jason Snell responding to John Siracusa re: Bigfoot footnotes"
+[14]: http://crateofpenguins.com/blog/2013-12-add-bigfoot-to-squarespace-sites "This page helped me figure out Bigfoot footnotes"
+[15]: http://recklessunicorn.net/blog/2014/2/11/how-to-use-bigfoot-on-squarespace "How-to: Use Bigfoot on Squarespace"
+[16]: https://twitter.com/jsnell/status/560581646248722433 "Jason Snell responding to John Siracusa re: Bigfoot footnotes"
