@@ -115,7 +115,7 @@
 
 body {
   background: #a0bdda;
-  color: #555;
+  color: #3b3b3b;
   font-size: 14pt;
   font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", sans-serif;
   font-style: normal;
@@ -255,7 +255,7 @@ a {
   font-size: 1.65em; }
 
 .postheader-heading-link {
-  color: #555; }
+  color: #3b3b3b; }
   .postheader-heading-link:hover, .postheader-heading-link:focus {
     color: #3f70a2; }
   .homepage-article:hover .postheader-heading-link, .homepage-article:focus .postheader-heading-link {
@@ -1143,8 +1143,6 @@ body.valentines-2015 {
     height: 22vmax; } }
 
 @media (max-width: 600px) {
-  body {
-    font-size: larger; }
   .siteheader {
     height: 25vmax;
     max-height: 120px; }
