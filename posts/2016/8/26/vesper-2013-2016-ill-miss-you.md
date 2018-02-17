@@ -114,8 +114,8 @@ I guess it's time to open Xcode and watch some YouTube videos?
 [b]: http://vesperapp.co/blog/native-support-for-ipad-and-landscape/ "Vesper blog post announcing iPad and landscape views"
 
 [1]: /images/notesapps.png "Screenshot of three notes apps"
-[2]: https://geo.itunes.apple.com/us/app/vesper/id655895325?mt=8&at=1l3vx9s "iTunes link to Vesper"
-[3]: http://vesperapp.co/blog/the-end-of-vesper/ "Vesper blog announcing the end of Vesper"
+[2]: https://web.archive.org/web/20160822202255/http://vesperapp.co/ "Archive.org link to the Vesper website"
+[3]: https://web.archive.org/web/20170407184121/http://vesperapp.co/blog/the-end-of-vesper/ "Archive.org link to the Vesper blog announcing the end of Vesper"
 [4]: http://inessential.com/2016/08/21/last_vesper_update_sync_shutting_down "Brent Simmons announcing the end of Vesper"
 [5]: http://daringfireball.net/2016/08/vesper_adieu "Daring Fireball post saying goodbye to Vesper"
 [6]: http://simplenote.com "Simplenote"

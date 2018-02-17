@@ -1,6 +1,7 @@
-body#black
+body.black
 	background: black
 	color: #bbb
+	text-align: center
 
 	header,
 	footer
@@ -15,20 +16,13 @@ body#black
 		margin: 1em auto
 		width: 100%
 
-	.info
-		margin-top: 5em
-		margin-bottom: 1em
-		opacity: 0.2
-		text-align: center
-		transition: all 0.2s ease-in-out
-
-		&:hover
-			opacity: 1
+	main
+		background: inherit
 
 		a
-			border-bottom: none
+			border-bottom: 0.1em #bbb solid
 			color: #bbb
 
-			&:hover
-				background: none
-				color: #555
+			&:hover, &:focus
+				color: black
+				border-bottom: none

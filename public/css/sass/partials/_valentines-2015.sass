@@ -1,17 +1,27 @@
 body.valentines-2015
-	background: #aaa
+	background: pink
+	color: white
 
 	header, footer
 		display: none
 
-	a,
-	&:hover
-		background: none
-		border: none
-		color: #ff333f
+	a
+		color: inherit
+		border-bottom: 0.1em dashed
 
-	div
-		background-color: #eee
-		border-radius: 1em
-		padding: 0.25em 1em
+		&:hover, &:focus
+			background: pink
+			border-bottom: none
+
+	hr::after
+		content: "❤︎❤︎❤︎"
+		color: white
+
+		// Not sure why this doesn't work
+		&:hover, &:focus
+			transform: scale(1.05) and rotateZ(360)
+
+	main
+		background: darken(pink, 10%)
 		text-align: center
+

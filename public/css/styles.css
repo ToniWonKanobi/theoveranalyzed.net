@@ -902,7 +902,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   display: inline-block;
   max-height: 15em;
   /* padding: 1.1em 1.3em 1.2em; */
-  padding: 0 1.5em 0 1.5em;
+  padding: 0 1em;
   -webkit-box-sizing: inherit;
           box-sizing: inherit;
   overflow: auto;
@@ -1095,47 +1095,48 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 .hljs-chunk {
   color: #aaa; }
 
-body#black {
+body.black {
   background: black;
-  color: #bbb; }
-  body#black header,
-  body#black footer {
+  color: #bbb;
+  text-align: center; }
+  body.black header,
+  body.black footer {
     display: none; }
-  body#black h1 {
+  body.black h1 {
     font-size: 2em;
     margin: auto;
     text-align: center; }
-  body#black video {
+  body.black video {
     margin: 1em auto;
     width: 100%; }
-  body#black .info {
-    margin-top: 5em;
-    margin-bottom: 1em;
-    opacity: 0.2;
-    text-align: center;
-    -webkit-transition: all 0.2s ease-in-out;
-    transition: all 0.2s ease-in-out; }
-    body#black .info:hover {
-      opacity: 1; }
-    body#black .info a {
-      border-bottom: none;
+  body.black main {
+    background: inherit; }
+    body.black main a {
+      border-bottom: 0.1em #bbb solid;
       color: #bbb; }
-      body#black .info a:hover {
-        background: none;
-        color: #555; }
+      body.black main a:hover, body.black main a:focus {
+        color: black;
+        border-bottom: none; }
 
 body.valentines-2015 {
-  background: #aaa; }
+  background: pink;
+  color: white; }
   body.valentines-2015 header, body.valentines-2015 footer {
     display: none; }
-  body.valentines-2015 a, body.valentines-2015:hover {
-    background: none;
-    border: none;
-    color: #ff333f; }
-  body.valentines-2015 div {
-    background-color: #eee;
-    border-radius: 1em;
-    padding: 0.25em 1em;
+  body.valentines-2015 a {
+    color: inherit;
+    border-bottom: 0.1em dashed; }
+    body.valentines-2015 a:hover, body.valentines-2015 a:focus {
+      background: pink;
+      border-bottom: none; }
+  body.valentines-2015 hr::after {
+    content: "❤︎❤︎❤︎";
+    color: white; }
+    body.valentines-2015 hr::after:hover, body.valentines-2015 hr::after:focus {
+      -webkit-transform: rotateZ(360);
+              transform: rotateZ(360); }
+  body.valentines-2015 main {
+    background: #ff8da1;
     text-align: center; }
 
 @media (max-width: 900px) {
@@ -1176,6 +1177,9 @@ body.valentines-2015 {
 @media (max-width: 320px) {
   body {
     font-size: large; }
+  .main {
+    width: calc(100% - 2em);
+    padding: 1em; }
   .siteheader {
     max-height: 100px; }
   blockquote {
