@@ -1,7 +1,7 @@
 Title: Thoughts on the Space Gray Apple Watch Sport Versus the Space Black Apple Watch  
 Date: 2015-06-14 21:05  
 Description: Apparently, Apple overestimated the transit time for my Space Black Apple Watch. Here are my thoughts regarding it and the Space Gray Apple Watch Sport.  
-Tags: Best Of, Reviews, Apple Watch  
+Tags: Reviews, Apple Watch, Watches, Popular  
 Image: https://d.pr/i/1aUO8+  
 
 ![When I look at both models side by side it's hard to see the Sport as anything but quality hardware.][1]

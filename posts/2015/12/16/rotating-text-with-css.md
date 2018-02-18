@@ -1,7 +1,7 @@
 Title: Rotating Text with CSS  
 Date: 2015-12-16 08:41  
 Description: CSS3 is so neat-o.  
-Tags: Best Of, Web Design, CSS  
+Tags: Web Design, CSS, Popular  
 Image: https://d.pr/i/14v3E+  
 
 ![Upside-down flag emoji][1]

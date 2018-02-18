@@ -1,7 +1,7 @@
 Title: Bigfoot Footnotes in Squarespace  
 Date: 2015-01-31 08:00  
 Description: A big milestone in my blogging development: Bigfoot footnotes are live on TheOverAnalyzed 🤓
-Tags: Best Of, Squarespace, JavaScript  
+Tags: Web Design, Squarespace, Popular  
 Image: /images/bigfoot.jpg  
 
 ![Bigfoot Footnotes][1]

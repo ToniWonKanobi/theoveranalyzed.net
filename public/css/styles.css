@@ -164,13 +164,8 @@ a {
 .entry a, .homepage-article-readmore {
   border-bottom: 0.25em solid #eee; }
   .entry a:hover, .entry a:focus, .homepage-article-readmore:hover, .homepage-article-readmore:focus {
+    border-bottom: none;
     background: #eee; }
-  .homepage-article:hover .entry a, .homepage-article:focus .entry a, .homepage-article:hover .homepage-article-readmore, .homepage-article:focus .homepage-article-readmore {
-    border-bottom-color: #b3b2b2; }
-    .homepage-article:hover .entry a:hover, .homepage-article:hover .entry a:focus, .homepage-article:focus .entry a:hover, .homepage-article:focus .entry a:focus, .homepage-article:hover .homepage-article-readmore:hover, .homepage-article:hover .homepage-article-readmore:focus, .homepage-article:focus .homepage-article-readmore:hover, .homepage-article:focus .homepage-article-readmore:focus {
-      background: white;
-      border-bottom-color: white;
-      color: #3f70a2; }
 
 .main {
   background: white;
@@ -199,6 +194,10 @@ a {
     margin-bottom: 3em; }
     .homepage-article:hover *, .homepage-article:focus * {
       color: white; }
+
+.homepage-article-readmore:hover, .homepage-article-readmore:focus {
+  color: #3f70a2;
+  border-bottom: none; }
 
 .homepage-article-readmore-container {
   margin-bottom: 0; }
@@ -645,21 +644,24 @@ a.foot-note-backref {
   padding: 0; }
 
 .navigation-list-item {
-  border-radius: 0.25em;
+  border-radius: 1.25em;
+  background: white;
+  color: #3f70a2;
   font-size: large;
   list-style: none;
-  margin: 0.5em auto;
+  margin: 1em auto;
   width: 100px;
   padding: 0.15em 0.25em;
   -webkit-transition: all 200ms ease-in-out;
-  transition: all 200ms ease-in-out;
-  text-transform: uppercase; }
+  transition: all 200ms ease-in-out; }
   .navigation-list-item:hover, .navigation-list-item:focus {
-    color: #3f70a2;
-    background: white;
-    border-radius: 0.25em; }
-  .navigation-list-item:hover a, .navigation-list-item:focus a {
-    color: #3f70a2; }
+    -webkit-transform: scale(1.05);
+            transform: scale(1.05);
+    -webkit-box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2); }
+  .navigation-list-item:active {
+    -webkit-box-shadow: initial;
+            box-shadow: initial; }
 
 .footer-search input {
   background-color: #f8f8f8;

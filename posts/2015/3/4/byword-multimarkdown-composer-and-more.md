@@ -1,7 +1,7 @@
 Title: Byword, MultiMarkdown Composer, and More  
 Date: 2015-03-04 08:00  
 Description: Here's my workflow for blogging in Squarespace.  
-Tags: Best Of, Blogging, Apps  
+Tags: Blogging, Apps, Popular  
 Image: https://d.pr/i/1fsbq+  
   
 #### Forward

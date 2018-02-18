@@ -1,7 +1,7 @@
 Title: The New MacBook and the Old Thunderbolt Display  
 Date: 2015-03-10 09:00  
 Description: What are the external display options for prospective owners of the new MacBook? Sadly, there aren't that many.  
-Tags: Best Of, Mac  
+Tags: Mac, Popular  
 Image: https://www.twelvesouth.com/uploads/images/pages/twelvesouth_wallpaperc1_image3.jpg  
 
 ![Twelve South knows what looks good][1]

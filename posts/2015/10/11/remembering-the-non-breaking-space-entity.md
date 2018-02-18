@@ -1,7 +1,7 @@
 Title: Remembering the Non-breaking Space Entity  
 Date: 2015-10-11 09:25  
 Description: Don't forget about HTML's "no space" space, useful for weird situations where `white-space: nowrap` isn't suitable.  
-Tags: Best Of, Web Design, HTML  
+Tags: Web Design, HTML, Popular  
 Image: https://d.pr/i/1igkh+  
 
 ![Non-breaking space entity, oh how I forgot about you.][1]

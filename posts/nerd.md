@@ -76,7 +76,7 @@ You can append `.md` to the end of any static page (such as a blog post) URL to 
 [13]: https://www.npmjs.com/package/markdown-it-decorate "`markdown-it-decorate' on npmjs"
 [14]: https://www.npmjs.com/package/markdown-it-highlightjs "`markdown-it-highlightjs` on npmjs"
 [15]: https://www.npmjs.com/package/markdown-it-implicit-figures "`markdown-it-implicit-figures` on npmjs"
-[16]: https://heroku.com"Heroku"
+[16]: https://heroku.com "Heroku"
 [17]: https://hover.com/Pji0Qlok "Hover"
 [18]: https://auth.droplr.com/referral/user/0cd0ca10c401759b74716f20598e6816?callback=https://d.pr/auth/referral "Droplr"
 [19]: https://en.wikipedia.org/wiki/HTML5 "Wikipedia: HTML5"

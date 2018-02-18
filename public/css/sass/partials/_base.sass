@@ -49,12 +49,10 @@ a
 .homepage-day:first-of-type .homepage-article:first-of-type
 	margin-top: 0
 
-.entry a, .homepage-article-readmore
-	border-bottom: 0.25em solid $lightgray
-
-	&:hover, &:focus
-		// border-bottom: none
-		background: $lightgray
+// What I wish for: https://developer.mozilla.org/en-US/docs/Web/CSS/:has
+// .entry a:has(code)
+	// This would make it so that there wouldn't be that gray underline for `code` that is a child of `a` (right now, the blocky border bottom of all `a`'s sort of clashes with the border radius on all `code` :/)
+	// border-bottom: none
 
 	// Styles the homepage
 	.homepage-article:hover &, .homepage-article:focus &
@@ -64,6 +62,13 @@ a
 			background: white
 			border-bottom-color: white
 			color: $blue
+
+.entry a, .homepage-article-readmore
+	border-bottom: 0.25em solid $lightgray
+
+	&:hover, &:focus
+		border-bottom: none
+		background: $lightgray
 
 .main
 	background: white
@@ -99,6 +104,11 @@ a
 		// Turns all the items in the hovered articles white
 		*
 			color: white
+
+.homepage-article-readmore
+	&:hover, &:focus
+		color: $blue
+		border-bottom: none
 
 // Necessary to so that the content is spaced nicely in the padding-laden parent container
 .homepage-article-readmore-container

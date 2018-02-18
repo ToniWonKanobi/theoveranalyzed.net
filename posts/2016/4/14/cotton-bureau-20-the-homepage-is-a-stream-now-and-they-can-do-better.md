@@ -2,36 +2,34 @@ Title: Cotton Bureau 2.0: The Homepage is a Stream Now, and They Can Do Better
 Date: 2016-04-14 11:28  
 Description: I hate the new homepage too. Let's make it better.   
 Tags: Cotton Bureau  
-Image: /images/cb2.0small.png  
+Image: /images/cb-old.png  
 
-I'm a [big fan][1] of Cotton Bureau. I've been buying their t-shirts for the past couple of years. I was there almost from the beginning (which, for me, was the first [Tapbots][2] [t-shirt][3]!)
+![The old Cotton Bureau homepage][1]
 
-The company *continues* to be a great spot for [unknown][4] (and [known][5]) designers to showcase and sell their skills.
+I'm a [big fan][2] of Cotton Bureau. I've been buying their t-shirts for the past couple of years. I was there almost from the beginning (which, for me, was the first [Tapbots][3] [t-shirt][4]!)
 
-And yet, this past week, they did something I thought was just plain crazy: they [redesigned their landing page][6].
+The company *continues* to be a great spot for [unknown][5] (and [known][6]) designers to showcase and sell their skills.
+
+And yet, this past week, they did something I thought was just plain crazy: they [redesigned their landing page][7].
 <!-- {id="medium-link"} -->
 
-It was a soft launch if there ever was one: I started that morning like I do every morning, by locating the Cotton Bureau [pinned tab][7] in Safari [[Technology Preview][8]] and clicking on it.
+It was a soft launch if there ever was one: I started that morning like I do every morning, by locating the Cotton Bureau [pinned tab][8] in Safari [[Technology Preview][9]] and clicking on it.
 
-However, instead of seeing a grid of t-shirts as was the case for the past two years, I saw something else (click on it to open the image in a new tab (beware: it's a freaking huge file):
+However, instead of seeing a grid of t-shirts as was the case for the past two years, I saw something else:
 
-[![The new Cotton Bureau 2.0][9]](/images/cb2.0full.png "Link to full version of screenshot. Note: it's huge.")
+[![The new Cotton Bureau 2.0][10]][11]
 
-What is ...this?
-
-And what happened to this (beware: it's a freaking huge file):
-
-[![The old Cotton Bureau homepage][10]](/images/cb1.0full.png "Link to full-size screenshot of old Cotton Bureau homepage. Note: it's huge.")
+What is ...this!?
 
 I immediately tweeted to Cotton Bureau, wondering if I was on crack, or if their homepage really looked like ...this:
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ToniWonKanobi">@ToniWonKanobi</a> Thanks Anthony…yep, it’s right there at /shop if you wanna see everything.</p>&mdash; Cotton Bureau (@cottonbureau) <a href="https://twitter.com/cottonbureau/status/718546677771145216">April 8, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-"At least the "[old][11]" page is still there," I thought.
+"At least the 'old' homepage is still there," I thought.
 
 Would could have prompted them to do such a thing?
 
-### Ball Dropping
+### Dropping the Ball
 
 Here's Nathan Peretic, from the [previously-linked][12] article on Medium:
 
@@ -137,18 +135,19 @@ Most of all, I hope it helps keep Cotton Bureau going. After all, where else can
 	
 	This way, I minimize the money spent on shipping (since Cotton Bureau applies some sort of USPS-based shipping discount for multiple orders).
 
-[1]: /tags/Cotton%20Bureau "My posts on Cotton Bureau"
-[2]: http://tapbots.com "Tapbots"
-[3]: /images/tapbotsfirst.png "My first purchase on Cotton Bureau"
-[4]: http://twitter.com/eythink "Lindsay Eyth on Twitter"
-[5]: http://louie.land/ "Louie Mantia's website"
-[6]: https://atlarge.cottonbureau.com/cotton-bureau-2-0-94c6788979e9#.bnzo56spb "Link to Medium piece in which they detail their reasons for changing the website"
-[7]: https://support.apple.com/kb/PH21462?locale=en_US "Safari 9 Pinned Tabs"
-[8]: /2016/3/30/apples-safari-technology-preview-is-a-stable-test-platform-for-users-and-devs "My post on Safari Technology Preview"
-[9]: /images/cb2.0small.png "Screenshot of the new Cotton Bureau homepage"
-[10]: /images/cb1.0small.png "Screenshot of old Cotton Bureau homepage"
-[11]: https://cottonbureau.com/shop "Old Cotton Bureau home page"
-[12]: #medium-link "Link to portion of this post in which I link to their Medium piece"
-[13]: https://atlarge.cottonbureau.com/getting-our-story-straight-ebb3483b1741#.g3f3xx8uf "Previous post on Medium in which they describe the mission of Cotton Bureau"
-[14]: https://twitter.com/search?q=%40cottonbureau%20homepage&src=typd "Twitter search for Cotton Bureau asking for feedback on their new design"
-[15]: https://duckduckgo.com/?q=site%3Acottonbureau.com+%22Star+Wars%22 "Search results for Star Wars shirts on Cotton Bureau"
+[1]: /images/cb-old.jpg "The old Cotton Bureau website"
+[2]: /tags/Cotton%20Bureau "My posts on Cotton Bureau"
+[3]: http://tapbots.com "Tapbots"
+[4]: /images/tapbotsfirst.png "My first purchase on Cotton Bureau"
+[5]: http://twitter.com/eythink "Lindsay Eyth on Twitter"
+[6]: http://louie.land/ "Louie Mantia's website"
+[7]: https://atlarge.cottonbureau.com/cotton-bureau-2-0-94c6788979e9#.bnzo56spb "Link to Medium piece in which they detail their reasons for changing the website"
+[8]: https://support.apple.com/kb/PH21462?locale=en_US "Safari 9 Pinned Tabs"
+[9]: /2016/3/30/apples-safari-technology-preview-is-a-stable-test-platform-for-users-and-devs "My post on Safari Technology Preview"
+[10]: /images/cb-new.jpg "Screenshot of the new Cotton Bureau homepage"
+[11]: https://d.pr/i/XRERgM "Link to full version of screenshot. Note: it's huge!"
+[12]: https://cottonbureau.com/shop "Old Cotton Bureau home page"
+[13]: #medium-link "Link to portion of this post in which I link to their Medium piece"
+[14]: https://atlarge.cottonbureau.com/getting-our-story-straight-ebb3483b1741#.g3f3xx8uf "Previous post on Medium in which they describe the mission of Cotton Bureau"
+[15]: https://twitter.com/search?q=%40cottonbureau%20homepage&src=typd "Twitter search for Cotton Bureau asking for feedback on their new design"
+[16]: https://duckduckgo.com/?q=site%3Acottonbureau.com+%22Star+Wars%22 "Search results for Star Wars shirts on Cotton Bureau"

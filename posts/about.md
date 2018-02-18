@@ -1,13 +1,13 @@
 Title: About  
 Date: 2016-01-16 16:21  
 Description: Info about me and TheOverAnalyzed  
-Image: /images/ac2.jpg
+Image: /images/toni.jpg
 
 Hi. I'm [Anthony][1] 🤓
 
-![Allison and I ❤️][2]
+![Hi! 👋🏼][2]
 
-I'm a [professional][3] by day, nerd by night. TheOverAnalyzed is a website about technology (mostly Apple), design, pop culture, motorsports, and watches. Also <i>Star Wars</i>---lots of [Star Wars][4].
+I'm a [tooth professional][3] by day, and a nerd by night. TheOverAnalyzed is a website about technology (mostly Apple), design, pop culture, motorsports, and watches. Also <i>Star Wars</i>---*lots* of [Star Wars][4].
 
 ***
 <!-- {.long} -->
@@ -32,10 +32,6 @@ Thanks for stopping by 🙃
 The author [@ToniWonKanobi][12]  
 The site [@TheOverAnalyzed][13]
 
-#### GitHub
-
-The author [ToniWonKanobi][14]
-
 #### Email
 
 If you have questions, concerns, or any other feedback, you can send me an email: <anthony@theoveranalyzed.net>
@@ -53,10 +49,10 @@ There is also an alternate RSS feed, for which linked posts point back to TheOve
 
 #### Newsletter
 
-You can subscribe to the email newsletter [here][15]
+You can subscribe to the email newsletter [here][14]
 
-[1]: http://www.twitter.com/toniwonkanobi "Me on Twitter"
-[2]: /images/ac2.jpg "Allison and I"
+[1]: http://anthonycraig.me "My personal website"
+[2]: /images/toni.jpg "Me"
 [3]: http://anthonycraigdds.com "My J-O-B job"
 [4]: /tags/Star%20Wars "Posts tagged 'Star Wars'"
 [5]: https://github.com/ToniWonKanobi "Me on GitHub"
@@ -68,12 +64,4 @@ You can subscribe to the email newsletter [here][15]
 [11]: /rss-alternate "The alternate feed for TheOverAnalyzed, for which linked posts point back to TheOverAnalyzed instead of the external site"
 [12]: http://www.twitter.com/toniwonkanobi "Me on Twitter"
 [13]: http://www.twitter.com/theoveranalyzed "Twitter account for TheOverAnalyzed (occasional site updates, in addition to auto-postings)"
-[14]: https://github.com/ToniWonKanobi "Me on GitHub"
-[15]: /newsletter "Subscribe to the email newsletter"
-
-<style>
-	main figure {
-		margin: initial;
-		width: 50%;
-	}
-</style>
+[14]: /newsletter "Subscribe to the email newsletter"

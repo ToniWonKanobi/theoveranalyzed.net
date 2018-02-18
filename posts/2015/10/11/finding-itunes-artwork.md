@@ -1,7 +1,7 @@
 Title: Finding iTunes Artwork  
 Date: 2015-10-11 16:27  
 Description: Finding iTunes artwork using Google Images is painful and slow. There's a better tool for that, and I've been using it for years.  
-Tags: Best Of, Power User, iTunes  
+Tags: Power User, iTunes, Popular  
 Image: https://d.pr/i/Zbav+  
 
 ![Ben Dodson's iTunes Artwork Finder][1]

@@ -38,26 +38,36 @@
 	padding: 1.5em 0 1.5em 0
 
 .navigation-list
+	// margin: 0.5em
 	margin: 0.5em
 	padding: 0
 
 .navigation-list-item
-	border-radius: 0.25em
+	// border-radius: 0.25em
+	border-radius: 1.25em
+	background: white
+	color: $blue
 	font-size: large
 	list-style: none
-	margin: 0.5em auto
+	// margin: 0.5em auto
+	margin: 1em auto
 	width: 100px
 	padding: 0.15em 0.25em
 	transition: all 200ms ease-in-out
-	text-transform: uppercase
+	// text-transform: uppercase
 
 	&:hover, &:focus
-		color: $blue
-		background: white
-		border-radius: 0.25em
+		// color: $blue
+		// background: white
+		// border-radius: 0.25em
+		transform: scale(1.05)
+		box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2)
 
-	&:hover a, &:focus a
-		color: $blue
+	&:active
+		box-shadow: initial
+
+	// &:hover a, &:focus a
+	// 	color: $blue
 
 // Cribbed from Hardik Pandya (http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/)
 .footer-search input
