@@ -54,12 +54,9 @@
   25% {
     -webkit-transform: rotateZ(360deg);
             transform: rotateZ(360deg); }
-  50% {
+  50%, 100% {
     -webkit-transform: rotateZ(0);
-            transform: rotateZ(0); }
-  100% { }
-  -webkit-transform: rotateZ(0);
-          transform: rotateZ(0); }
+            transform: rotateZ(0); } }
 
 @keyframes rotate {
   0% {
@@ -68,28 +65,31 @@
   25% {
     -webkit-transform: rotateZ(360deg);
             transform: rotateZ(360deg); }
-  50% {
+  50%, 100% {
     -webkit-transform: rotateZ(0);
-            transform: rotateZ(0); }
-  100% { }
-  -webkit-transform: rotateZ(0);
-          transform: rotateZ(0); }
+            transform: rotateZ(0); } }
 
 @-webkit-keyframes spiny-spin {
-  0%, 100% {
+  0% {
     -webkit-transform: rotateY(0);
             transform: rotateY(0); }
   50% {
     -webkit-transform: rotateY(180deg);
-            transform: rotateY(180deg); } }
+            transform: rotateY(180deg); }
+  100% {
+    -webkit-transform: rotateY(0);
+            transform: rotateY(0); } }
 
 @keyframes spiny-spin {
-  0%, 100% {
+  0% {
     -webkit-transform: rotateY(0);
             transform: rotateY(0); }
   50% {
     -webkit-transform: rotateY(180deg);
-            transform: rotateY(180deg); } }
+            transform: rotateY(180deg); }
+  100% {
+    -webkit-transform: rotateY(0);
+            transform: rotateY(0); } }
 
 @-webkit-keyframes slide-back-and-forth {
   0%, 100% {
@@ -542,15 +542,10 @@ h3, h4, h5, h6 {
 
 .footnote-ref a {
   border-bottom: none;
-  color: #999;
-  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out; }
+  color: #999; }
 
 .footnote-ref a:hover,
 .footnote-backref:hover {
-  background: none;
-  border-bottom: none;
-  border-radius: none;
   color: #3f70a2; }
 
 .footnotes {
@@ -847,7 +842,8 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTJweCIgaGVpZ2h0PSIxNXB4IiB2aWV3Qm94PSIwIDAgMTIgMTUiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pbllNaW4iPgogICAgPGcgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9IkFycm93IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxLjAwMDAwMCwgMS4wMDAwMDApIiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiPgogICAgICAgICAgICA8cGF0aCBkPSJNNSwwIEw1LDExLjUiIGlkPSJMaW5lIj48L3BhdGg+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLjUsNy41IEw1LjAyNzY5Mjc5LDEyLjAyNzY5MjgiIGlkPSJMaW5lIj48L3BhdGg+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik00LjUsNy41IEw5LjAyNzY5Mjc5LDEyLjAyNzY5MjgiIGlkPSJMaW5lLTIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDcuMDAwMDAwLCAxMC4wMDAwMDApIHNjYWxlKC0xLCAxKSB0cmFuc2xhdGUoLTcuMDAwMDAwLCAtMTAuMDAwMDAwKSAiPjwvcGF0aD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPgo=");
   background-size: cover;
   opacity: 0.1;
-  transition-properties: opacity;
+  -webkit-transition-property: opacity;
+  transition-property: opacity;
   -webkit-transition-duration: 0.25s;
   transition-duration: 0.25s;
   -webkit-transition-timing-function: ease;
@@ -1131,12 +1127,15 @@ body.valentines-2015 {
     body.valentines-2015 a:hover, body.valentines-2015 a:focus {
       background: pink;
       border-bottom: none; }
+  body.valentines-2015 hr {
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out; }
+    body.valentines-2015 hr:hover, body.valentines-2015 hr:focus {
+      -webkit-transform: scale(1.5);
+              transform: scale(1.5); }
   body.valentines-2015 hr::after {
     content: "❤︎❤︎❤︎";
     color: white; }
-    body.valentines-2015 hr::after:hover, body.valentines-2015 hr::after:focus {
-      -webkit-transform: rotateZ(360);
-              transform: rotateZ(360); }
   body.valentines-2015 main {
     background: #ff8da1;
     text-align: center; }

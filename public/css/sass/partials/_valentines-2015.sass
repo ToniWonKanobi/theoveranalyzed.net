@@ -13,13 +13,15 @@ body.valentines-2015
 			background: pink
 			border-bottom: none
 
+	hr
+		transition: all 0.5s ease-in-out
+
+		&:hover, &:focus
+			transform: scale(1.5)
+
 	hr::after
 		content: "❤︎❤︎❤︎"
 		color: white
-
-		// Not sure why this doesn't work
-		&:hover, &:focus
-			transform: scale(1.05) and rotateZ(360)
 
 	main
 		background: darken(pink, 10%)

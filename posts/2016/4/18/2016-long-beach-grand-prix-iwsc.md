@@ -1,15 +1,16 @@
-Title: 2016 Long Beach Grand Prix (IWSC)  
+Title: 2016 Long Beach Grand Prix (IMSA WeatherTech SportsCar Champsionship)  
 Date: 2016-04-18 18:53  
 Description: I hope you care about racing, because this post is full of it.  
 Tags: Porsche, Racing  
 Image: https://pbs.twimg.com/media/CgNIOHwUMAA536P.jpg  
+Video: https://d.pr/v/aRTVZo+  
 
 *This post probably has more acronyms than any other post I've ever written. But don't blame me---blame organized racing for being, well, not that organized.*
 <!-- {.topstory} -->
 
 <figure>
 	<video controls>
-		<source src="/movies/lbgp2016turn11blips.m4v" type="video/mp4">
+		<source src="https://d.pr/v/aRTVZo+" type="video/mp4">
 	If you can't play this, your browser sucks.
 	</video>
 	<figcaption>Hard not to like this (warning: 30 MB file).</figcaption>
