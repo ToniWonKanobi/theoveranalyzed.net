@@ -527,18 +527,16 @@ hr {
   .long:after {
     content: normal; }
 
-h3, h4, h5, h6 {
-  position: relative; }
-  h3 .header-anchor, h4 .header-anchor, h5 .header-anchor, h6 .header-anchor {
-    opacity: 0;
-    border-bottom: none;
-    font-size: 75%; }
-    h3 .header-anchor:hover, h3 .header-anchor:focus, h4 .header-anchor:hover, h4 .header-anchor:focus, h5 .header-anchor:hover, h5 .header-anchor:focus, h6 .header-anchor:hover, h6 .header-anchor:focus {
-      opacity: 1;
-      background: none; }
-  h3:hover .header-anchor, h3:focus .header-anchor, h4:hover .header-anchor, h4:focus .header-anchor, h5:hover .header-anchor, h5:focus .header-anchor, h6:hover .header-anchor, h6:focus .header-anchor {
-    opacity: 1;
+h3 .header-anchor, h4 .header-anchor, h5 .header-anchor, h6 .header-anchor {
+  opacity: 0;
+  border-bottom: none;
+  font-size: 75%; }
+  h3 .header-anchor:hover, h3 .header-anchor:focus, h4 .header-anchor:hover, h4 .header-anchor:focus, h5 .header-anchor:hover, h5 .header-anchor:focus, h6 .header-anchor:hover, h6 .header-anchor:focus {
     background: none; }
+
+h3:hover .header-anchor, h3:focus .header-anchor, h4:hover .header-anchor, h4:focus .header-anchor, h5:hover .header-anchor, h5:focus .header-anchor, h6:hover .header-anchor, h6:focus .header-anchor {
+  opacity: 1;
+  background: none; }
 
 .footnote-ref a {
   border-bottom: none;
