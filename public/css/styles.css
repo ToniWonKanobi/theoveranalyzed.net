@@ -1114,6 +1114,31 @@ body.black {
         color: black;
         border-bottom: none; }
 
+body.smokey {
+  background: #333;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+  body.smokey header, body.smokey footer {
+    display: none; }
+  body.smokey main {
+    background: inherit;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out; }
+    body.smokey main:hover, body.smokey main:focus {
+      -webkit-transform: scale(1.05);
+              transform: scale(1.05); }
+    body.smokey main:active {
+      -webkit-transform: initial;
+              transform: initial;
+      -webkit-transition: all 0.1s ease-in;
+      transition: all 0.1s ease-in; }
+
 body.valentines-2015 {
   background: pink;
   color: white; }
