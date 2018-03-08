@@ -10,7 +10,7 @@ Video: https://www.youtube.com/watch?v=SMDlbNpE6dU
 
 I've wavered somewhat over the years, but I always come back to the Levi's 501®. My grandpa wore them, though he wore the Shrink-to-fit variety 😱[^1] So, naturally, I've always gravitated toward venerable jeans.
 
-Levi's innovated a new method to add character to their jeans. The process involves graphic designers and laser beans, but does *not* involve harsh chemicals 🌎
+Levi's innovated a new method to add character to their jeans. The process involves graphic designers and laser beams, but does *not* involve harsh chemicals 🌎
 
 (From [Uncrate][1])
 
