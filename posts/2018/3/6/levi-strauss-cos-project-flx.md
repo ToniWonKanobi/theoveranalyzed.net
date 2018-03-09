@@ -16,4 +16,4 @@ Levi's innovated a new method to add character to their jeans. The process invol
 
 [1]: https://uncrate.com/video/levi-strauss-co-project-flx/ "Link to source post on Uncrate"
 
-[^1]: Way to much work for me.
+[^1]: Way too much work for me.
