@@ -117,7 +117,7 @@ body {
   background: #a0bdda;
   color: #3b3b3b;
   font-size: 14pt;
-  font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", sans-serif;
+  font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", Avenir, sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.6;
@@ -164,8 +164,9 @@ a {
 .entry a, .homepage-article-readmore {
   border-bottom: 0.25em solid #eee; }
   .entry a:hover, .entry a:focus, .homepage-article-readmore:hover, .homepage-article-readmore:focus {
-    border-bottom: none;
     background: #eee; }
+  .entry a:visited, .homepage-article-readmore:visited {
+    color: #834c7f; }
 
 .main {
   background: white;
@@ -405,7 +406,7 @@ blockquote {
   padding: 0.25em 1em; }
 
 pre, code {
-  font-family: "Operator Mono SSm A", "Operator Mono SSm B", "Monaco Regular", "Menlo", monospace;
+  font-family: "Operator Mono SSm A", "Operator Mono SSm B", "Monaco", "Menlo", monospace;
   font-style: normal;
   font-weight: 500; }
 
@@ -666,7 +667,7 @@ a.foot-note-backref {
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   width: 50%;
-  font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", sans-serif; }
+  font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", Avenir, sans-serif; }
   .footer-search input:hover {
     border: 2px solid #999; }
   .footer-search input:active, .footer-search input:focus {
