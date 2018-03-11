@@ -100,6 +100,7 @@ a
 	// Blue switchero thing
 	&:hover, &:focus
 		background: $blue
+		border-radius: $borderRadius
 		padding: 2em
 		margin-top: 3em
 		margin-bottom: 3em
@@ -119,7 +120,10 @@ a
 
 // Better than a single border-bottom on each article
 .homepage-article-separator
-	border-radius: 0
+	// border-radius: 0
+	// Let's try this
+	// border-radius: $borderRadius
+	border-radius: 1em
 	border: 0.75em solid $gray
 	color: $gray
 	margin: 1.5em auto 1.5em auto

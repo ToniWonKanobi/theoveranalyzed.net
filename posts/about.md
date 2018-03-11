@@ -5,7 +5,7 @@ Image: /images/toni.jpg
 
 Hi! I'm Anthony, and this is my blog 🤓
 
-![👋🏼][1]
+![🙋‍♂️ | Leica Q | Summilux 28mm f/1.7 ASPH | ƒ/1.7 | 1/125 | -0.3 ev | ISO 800 ][1]
 
 I'm a [tooth professional][2] by day, and a nerd by night.
 

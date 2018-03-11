@@ -6,7 +6,7 @@ figure
 	margin: 1em auto
 
 img
-	border-radius: 0.2em
+	border-radius: $borderRadius
 	box-sizing: border-box
 	display: block
 	margin: auto
@@ -32,25 +32,20 @@ ul, ol, blockquote
 
 figcaption
 	background: $lightgray
-	border-bottom-left-radius: 0.2em
-	border-bottom-right-radius: 0.2em
+	border-bottom-left-radius: $borderRadius
+	border-bottom-right-radius: $borderRadius
 	color: $darkgray
 	font-size: 0.8em
-	font-style: italic
 	margin: auto
-	max-width: 400px
+	max-width: 500px
 	padding: 0.75em
 	width: 80%
-
-.source,
-figcaption code
-	font-style: normal
 
 audio
 	width: 100%
 
 video
-	border-radius: 0.2em
+	border-radius: $borderRadius
 	box-sizing: border-box
 	display: block
 	margin: auto
@@ -65,11 +60,11 @@ iframe
 
 // FitVids stuff
 .fluid-width-video-wrapper
-	border-radius: 0.2em
+	border-radius: $borderRadius
 	margin: 1em auto
 
 .radius
-	border-radius: 0.2em
+	border-radius: $borderRadius
 
 blockquote
 	border-left: 3px solid $gray
@@ -90,7 +85,7 @@ blockquote
 
 .spoilers-content
 	background: $lightgray
-	border-radius: 0.2em
+	border-radius: $borderRadius
 	padding: 0.25em 1em
 
 pre, code
@@ -100,7 +95,7 @@ pre, code
 
 pre
 	background: $lightgray
-	border-radius: 0.2em
+	border-radius: $borderRadius
 	font-size: 0.8em
 	padding: 1em
 	// white-space: pre-wrap
@@ -108,7 +103,7 @@ pre
 
 code
 	background: $lightgray
-	border-radius: 0.2em
+	border-radius: $borderRadius
 	font-size: 0.8em
 	padding: 0.25em
 
@@ -118,7 +113,7 @@ pre code
 
 mark
 	background: $mark-yellow
-	border-radius: 0.2em
+	border-radius: $borderRadius
 	display: inline-block
 	padding: 0.25em 0.6em 0.25em 0.6em
 
@@ -154,7 +149,7 @@ table
 
 		code
 			border: 1px solid $gray
-			border-radius: 0.2em
+			border-radius: $borderRadius
 
 	td
 		border-top: 2px solid $gray
@@ -177,7 +172,7 @@ table
 
 .update
 	background: $lightgray
-	border-radius: 0.4em
+	border-radius: $borderRadius
 	padding: 1.5em
 	// This is to make the little update thingy smaller
 	font-size: 85%
@@ -226,7 +221,7 @@ hr
 		top: 0.2em
 
 .long
-	border-radius: 0.2em
+	border-radius: $borderRadius
 	border: 1px solid $gray
 	margin: 1.5em auto 1.5em auto
 	width: 100%

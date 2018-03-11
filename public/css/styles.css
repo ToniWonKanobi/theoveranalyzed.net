@@ -190,6 +190,7 @@ a {
           box-sizing: border-box; }
   .homepage-article:hover, .homepage-article:focus {
     background: #3f70a2;
+    border-radius: 0.5em;
     padding: 2em;
     margin-top: 3em;
     margin-bottom: 3em; }
@@ -204,7 +205,7 @@ a {
   margin-bottom: 0; }
 
 .homepage-article-separator {
-  border-radius: 0;
+  border-radius: 1em;
   border: 0.75em solid #ddd;
   color: #ddd;
   margin: 1.5em auto 1.5em auto; }
@@ -321,7 +322,7 @@ figure {
   margin: 1em auto; }
 
 img {
-  border-radius: 0.2em;
+  border-radius: 0.5em;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   display: block;
@@ -347,25 +348,20 @@ ul img, ol img, blockquote img {
 
 figcaption {
   background: #eee;
-  border-bottom-left-radius: 0.2em;
-  border-bottom-right-radius: 0.2em;
+  border-bottom-left-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
   color: #999;
   font-size: 0.8em;
-  font-style: italic;
   margin: auto;
-  max-width: 400px;
+  max-width: 500px;
   padding: 0.75em;
   width: 80%; }
-
-.source,
-figcaption code {
-  font-style: normal; }
 
 audio {
   width: 100%; }
 
 video {
-  border-radius: 0.2em;
+  border-radius: 0.5em;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   display: block;
@@ -378,11 +374,11 @@ iframe {
   border: none; }
 
 .fluid-width-video-wrapper {
-  border-radius: 0.2em;
+  border-radius: 0.5em;
   margin: 1em auto; }
 
 .radius {
-  border-radius: 0.2em; }
+  border-radius: 0.5em; }
 
 blockquote {
   border-left: 3px solid #ddd;
@@ -402,7 +398,7 @@ blockquote {
 
 .spoilers-content {
   background: #eee;
-  border-radius: 0.2em;
+  border-radius: 0.5em;
   padding: 0.25em 1em; }
 
 pre, code {
@@ -412,14 +408,14 @@ pre, code {
 
 pre {
   background: #eee;
-  border-radius: 0.2em;
+  border-radius: 0.5em;
   font-size: 0.8em;
   padding: 1em;
   overflow: auto; }
 
 code {
   background: #eee;
-  border-radius: 0.2em;
+  border-radius: 0.5em;
   font-size: 0.8em;
   padding: 0.25em; }
 
@@ -429,7 +425,7 @@ pre code {
 
 mark {
   background: rgba(255, 255, 0, 0.5);
-  border-radius: 0.2em;
+  border-radius: 0.5em;
   display: inline-block;
   padding: 0.25em 0.6em 0.25em 0.6em; }
 
@@ -461,7 +457,7 @@ table {
     padding: 0.3em 1em; }
     table th code {
       border: 1px solid #ddd;
-      border-radius: 0.2em; }
+      border-radius: 0.5em; }
   table td {
     border-top: 2px solid #ddd;
     border-left: 2px solid #ddd;
@@ -483,7 +479,7 @@ table {
 
 .update {
   background: #eee;
-  border-radius: 0.4em;
+  border-radius: 0.5em;
   padding: 1.5em;
   font-size: 85%; }
   .update h3 {
@@ -521,7 +517,7 @@ hr {
     top: 0.2em; }
 
 .long {
-  border-radius: 0.2em;
+  border-radius: 0.5em;
   border: 1px solid #ddd;
   margin: 1.5em auto 1.5em auto;
   width: 100%; }
@@ -576,7 +572,7 @@ a.foot-note-backref {
 
 .homepage-pagination {
   background: white;
-  border-radius: 0.2em;
+  border-radius: 0.5em;
   font-size: 1.1em;
   font-weight: 400;
   height: 1.75em;
@@ -617,7 +613,7 @@ a.foot-note-backref {
 
 .footer-bottomad-image {
   background: white;
-  border-radius: 0.2em;
+  border-radius: 0.5em;
   padding: 0.5em 0.25em 0.5em 0.25em;
   -webkit-transition: all 200ms ease-in;
   transition: all 200ms ease-in;
@@ -660,7 +656,7 @@ a.foot-note-backref {
 .footer-search input {
   background-color: #f8f8f8;
   border: 2px solid #ddd;
-  border-radius: 0.2em;
+  border-radius: 0.5em;
   color: #999;
   max-width: 200px;
   padding: 0.5em;
@@ -696,13 +692,13 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   /* margin: 0 0.1em 0 0.2em; */
   margin: 0 0.125em 0 0.1em;
   border: none;
-  border-radius: 0.3em;
+  border-radius: 0.5em;
   cursor: pointer;
   background-color: #eee;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   font-size: 1em;
-  font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", "-apple-system", "Helvetica Neue", sans-serif;
+  font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", "-apple-system", Avenir, sans-serif;
   line-height: 0;
   /* Sets the vertical height of button */
   /* vertical-align: middle; */
