@@ -55,13 +55,14 @@ becomes
 And that's all there is to it.
 
 <figure>
-	<img class="twoinline" src="http://d.pr/i/14jkN+" alt="Without &nbsp;" title="Without &nbsp;">
-	<img class="twoinline" src="https://d.pr/i/163ur+" alt="With &nbsp;" title="With &nbsp;">
-	<figcaption>Here's a post header that has a regular space character between the title and the arrow (Left), and another post header using the non-breaking space character instead. Which one looks better to you?
-	</figcaption>
+	<img class="twoinline border" src="http://d.pr/i/14jkN+" alt="Without &nbsp;" title="Without &nbsp;">
+	<img class="twoinline border" src="https://d.pr/i/163ur+" alt="With &nbsp;" title="With &nbsp;">
+	<figcaption>Here's a post header that has a regular space character between the title and the arrow (Left), and another post header using the non-breaking space character instead.</figcaption>
 </figure>
 
-In it, [Gandalf says to Frodo][11]:
+Which one looks better to you? Yeah, I thought so.
+
+Recall [Gandalf saying this to Frodo][11]:
 
 > My dear Frodo. Hobbits really are amazing creatures. You can learn all there is to know about their ways in a month, and yet after a hundred years they can still surprise you.
 

@@ -353,9 +353,9 @@ figcaption {
   color: #999;
   font-size: 0.8em;
   margin: auto;
-  max-width: 500px;
-  padding: 0.75em;
-  width: 80%; }
+  min-width: 100px;
+  max-width: 80%;
+  padding: 0.75em; }
 
 audio {
   width: 100%; }
