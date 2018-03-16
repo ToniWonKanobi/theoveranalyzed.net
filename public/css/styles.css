@@ -331,7 +331,8 @@ img {
   max-width: 100%; }
 
 .border {
-  border: solid 0.25em #eee; }
+  border: solid 0.25em #eee;
+  border-radius: 0.5em; }
 
 .twoinline {
   display: inline;
