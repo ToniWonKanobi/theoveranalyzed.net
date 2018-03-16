@@ -119,7 +119,7 @@ body {
   font-size: 14pt;
   font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", Avenir, sans-serif;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.6;
   margin: 0;
   padding: 0; }
@@ -404,14 +404,18 @@ blockquote {
 pre, code {
   font-family: "Operator Mono SSm A", "Operator Mono SSm B", "Monaco", "Menlo", monospace;
   font-style: normal;
-  font-weight: 500; }
+  font-weight: 500;
+  border: 0.1em solid #ddd; }
 
 pre {
   background: #eee;
   border-radius: 0.5em;
-  font-size: 0.8em;
-  padding: 1em;
-  overflow: auto; }
+  font-size: 0.85em;
+  padding: 0.5em 1em;
+  overflow: auto;
+  -moz-tab-size: 2;
+    -o-tab-size: 2;
+       tab-size: 2; }
 
 code {
   background: #eee;
@@ -421,7 +425,17 @@ code {
 
 pre code {
   font-size: 0.9em;
-  padding: 0; }
+  padding: 0;
+  border: none; }
+
+.stupid-bigfoot-pre-overflow {
+  white-space: pre-line; }
+
+a code {
+  padding-bottom: 0.4em; }
+
+.twitter-tweet a {
+  border-bottom: none; }
 
 mark {
   background: rgba(255, 255, 0, 0.5);
@@ -542,6 +556,9 @@ h3:hover .header-anchor, h3:focus .header-anchor, h4:hover .header-anchor, h4:fo
 .footnote-ref a:hover,
 .footnote-backref:hover {
   color: #3f70a2; }
+
+a.footnote-backref {
+  border-bottom: none; }
 
 .footnotes {
   color: #999;

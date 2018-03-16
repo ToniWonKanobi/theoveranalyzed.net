@@ -92,14 +92,17 @@ pre, code
 	font-family: $monospace
 	font-style: normal
 	font-weight: 500
+	border: 0.1em solid $gray;
 
 pre
 	background: $lightgray
 	border-radius: $borderRadius
-	font-size: 0.8em
-	padding: 1em
+	font-size: 0.85em
+	padding: 0.5em 1em
 	// white-space: pre-wrap
 	overflow: auto
+	tab-size: 2
+	// counter-reset: line
 
 code
 	background: $lightgray
@@ -110,6 +113,24 @@ code
 pre code
 	font-size: 0.9em
 	padding: 0
+	border: none
+
+.stupid-bigfoot-pre-overflow
+	white-space: pre-line
+
+// I wish I could get this to work :/
+// pre code:before
+// 	counter-increment: line
+// 	content: counter(line)
+// 	padding-right: 1em
+
+// This is hacky
+a code
+	padding-bottom: 0.4em
+
+// Embedded Tweets
+.twitter-tweet a
+	border-bottom: none
 
 mark
 	background: $mark-yellow
