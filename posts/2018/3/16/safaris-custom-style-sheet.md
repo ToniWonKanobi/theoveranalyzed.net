@@ -186,7 +186,7 @@ That's just one example. If you dive into my [style sheet][22], you'll see more 
 
 <aside class="update">
 
-### There's An Extension for That
+### Update: There's An Extension for That
 
 March 17, 2018
 <!-- {.updatetime} -->
