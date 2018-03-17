@@ -39,6 +39,27 @@ Of course I went to the source. [Gramps][8], also known as [Don Melton][9], is a
 
 So no help there, but it seems custom style sheets have been around since the beginning.
 
+<aside class="update">
+
+### Update: Safari Probably Had Custom Style Sheet Functionality Since the Betas
+
+March 17, 2018
+<!-- {.updatetime} -->
+
+I got some good feedback regarding my speculative timeline.
+
+Here's a tweet from Tim Tepaße, pointing me to an early CNET review of Safari 1 beta 2:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">PS: In this review it states that the custom style sheet in Safari exists since Safari 1.0 Beta 2 (⌘F for „style“):<a href="https://t.co/IXqdbl3hEL">https://t.co/IXqdbl3hEL</a></p>&mdash; Tim Tepaße (@ttepasse) <a href="https://twitter.com/ttepasse/status/974910309298262016?ref_src=twsrc%5Etfw">March 17, 2018</a></blockquote> 
+
+And here's the CNET review itself:
+
+> Safari Beta 2 added an advanced settings toolbar, which gives us hope for the future. For now, though, it lets you only choose a style sheet and change your proxy settings.
+
+So, I think that helps solidify custom style sheets as a Safari 1 feature 🤗
+
+</aside>
+
 ***
 
 Although I'm elated the Safari/WebKit team decided to include this feature, part of me wonders why it was included at all.
@@ -52,6 +73,36 @@ Of course, CSS eventually became more prominent, and then a web standard. It's 2
 *I* sure am glad it's there 😆
 
 And that's it for my brief history of Safari's custom style sheet option.[^1]
+
+<aside class="update">
+
+### Update: Safari Probably Included Custom Style Sheet Functionality Because Competitor Browsers Had Custom Style Sheet Functionality---It Had Nothing To Do With An Unadoption of CSS
+
+March 17, 2018
+<!-- {.updatetime} -->
+
+After publishing this post, I got some feedback offering me some perspective.
+
+#### Competition from Other Browsers
+
+I wrote this entire blog post from the point of view of an Apple luddite---I didn't even *consider* that Safari may not have been the first browser ever to include a custom style sheet option 😅
+
+As Tim Tepaße [noted][u1], custom style sheets were available for Internet Explorer, Opera, and Mozilla [years before Safari had them][u2].
+
+#### CSS Was A Standard by ~2000
+
+Here's Tim Tepaße schooling me some more:
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Two things where your speculations are wrong, I think:<br>• In my recollection, yes before 2000 CSS had a rough beginning in the table layout era. But from then, at least for the Safari 1.0 timespan it was the default method. You&#39;re mixing two different eras …</p>&mdash; Tim Tepaße (@ttepasse) <a href="https://twitter.com/ttepasse/status/974905521915523072?ref_src=twsrc%5Etfw">March 17, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">… in your explanation, the links reference 1999 and before, not 2003. Between that there was an era of massive change.<br>• A simpler explanation of user stylesheets: It was in CSS 2.0 and every other browser supported it. If Safari wanted to make a splash, they had to mirror …</p>&mdash; Tim Tepaße (@ttepasse) <a href="https://twitter.com/ttepasse/status/974906535590662149?ref_src=twsrc%5Etfw">March 17, 2018</a></blockquote>
+
+So, it was a little nearsighted of me to conflate Safari's custom style sheet functionality with a slow adoption of CSS, since by 2003, CSS was the norm 👍🏼
+
+[u1]: https://twitter.com/ttepasse/status/974906898414821376 "Link to tweet in which Tepaße tells me about early browsers with custom style sheet functionality"
+[u2]: https://dbaron.org/css/user/index.en.html "Blog post from David Baron, reviewing custom style sheet functionality in those browsers that predated Safari"
+
+</aside>
 
 Now let's talk about implementing the custom style sheet, so that you can make your web browsing [dreams come true][14].
 
@@ -132,6 +183,22 @@ This is a portion of my style sheet targeting [Marco Arment's blog][19]. I had t
 <!-- {.border} -->
 
 That's just one example. If you dive into my [style sheet][22], you'll see more of what I'm talking about.
+
+<aside class="update">
+
+### There's An Extension for That
+
+March 17, 2018
+<!-- {.updatetime} -->
+
+Tim Tepaße [suggested][u3] I try the Safari extension called [Stylish][u4].
+
+Stylish is an extension that provides similar functionality to Safari's built-in custom style sheet option. I tried that extension! But the problem with that extension is that it functions mostly as a blacklist. I can choose what styles to apply, but I have to explicitly choose the domains I want to be effected by the style rules.
+
+[u3]: https://twitter.com/ttepasse/status/974911583720804353 "Tepaße mentioning Stylish on Twitter"
+[u4]: http://sobolev.us/stylish/ "Link to the Safari extension Stylish"
+
+</aside>
 
 #### JavaScript Ruins Everything
 
