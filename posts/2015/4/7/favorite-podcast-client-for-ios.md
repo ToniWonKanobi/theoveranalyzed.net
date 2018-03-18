@@ -2,7 +2,7 @@ Title: Favorite Podcast Client for iOS
 Date: 2015-04-07 08:55  
 Link: http://thesweetsetup.com/apps/our-favorite-podcast-client-for-ios/  
 Description: Overcast has changed the way I listen to podcasts.  
-Tags: Apps  
+Tags: Apps, Podcasts  
 Image: https://d.pr/i/13okQ+  
 
 ![Overcast][1]
