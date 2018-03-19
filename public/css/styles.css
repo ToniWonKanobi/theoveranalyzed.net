@@ -438,6 +438,13 @@ a code {
 .twitter-tweet a {
   border-bottom: none; }
 
+.twitter-timeline {
+  border-radius: 0.5em;
+  border: 0.25em solid #ddd !important;
+  max-width: 500px !important;
+  margin: auto auto auto auto !important;
+  display: block !important; }
+
 mark {
   background: rgba(255, 255, 0, 0.5);
   border-radius: 0.5em;
