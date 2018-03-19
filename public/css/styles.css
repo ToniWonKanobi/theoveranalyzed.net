@@ -436,7 +436,7 @@ a code {
   padding-bottom: 0.4em; }
 
 .twitter-tweet a {
-  border-bottom: none; }
+  border-bottom: none !important; }
 
 .twitter-timeline {
   border-radius: 0.5em;
