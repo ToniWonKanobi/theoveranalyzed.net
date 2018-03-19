@@ -1,7 +1,7 @@
 Title: Apple TV 4: Iteration, Not Revolution  
 Date: 2015-11-03 14:47  
 Description: I received my Apple TV 4 today.  
-Tags: Reviews, Apple TV, Popular  
+Tags: Reviews, Apple TV  
 Image: https://d.pr/i/19jXS+  
 
 ### Previously, on Apple TV

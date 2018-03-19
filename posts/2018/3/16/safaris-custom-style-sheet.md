@@ -1,7 +1,7 @@
 Title: Safari's Custom Style Sheet  
 Date: 2018-03-16 13:00  
 Description: I can finally stop pleading with the blogs and websites I follow to style things better 😅  
-Tags: Power User, CSS  
+Tags: Power User, CSS, Popular  
 Image: /images/safari-custom-style-sheet.jpg  
 
 ![I had no idea I could do this][1]

@@ -1,7 +1,7 @@
 Title: Using MultiMarkdown and HTML to Publish to Squarespace  
 Date: 2015-02-14 16:00  
 Description: Here's my workflow for blogging using the Squarespace platform.  
-Tags: Blogging, Squarespace, Popular  
+Tags: Blogging, Squarespace  
 Video: https://d.pr/v/13oR1+  
 
 #### Forward

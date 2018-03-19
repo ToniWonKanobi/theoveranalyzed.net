@@ -5,10 +5,7 @@ Tags: Advocacy, Medicine, Popular
 Image: https://d.pr/i/12WGA+  
 Video: https://www.youtube.com/watch?v=frL5PSUftPI  
 
-<figure>
-	<img src="https://d.pr/i/12WGA+" alt="The Ethics of Testing Cancer Treatments on Dogs" title="The Ethics of Testing Cancer Treatments on Dogs">
-	<figcaption>"Dogs get cancer at the same rate as people," says Dr. Bruce Smith</figcaption>
-</figure>
+["Dogs get cancer at the same rate as people," says Dr. Bruce Smith][0]
 
 Cancer is terrible. And humans aren't the only species to suffer its effects---[man's best friend][1] are among the casualties.
 
@@ -66,6 +63,7 @@ To be clear: what Dr. Smith and Hessel are doing---using experimental human trea
 
 I look forward to the day when humans forego all of our inclinations toward animal cruelty---animal testing included. As depressing as the situation is for animal advocates, I am encouraged by our progress. Everyday, humanity take [small steps][19] toward [true stewardship][20] of the planet. Bible-belief or not, *that's* the way it should be.
 
+[0]: https://d.pr/i/12WGA+ "The Ethics of Testing Cancer Treatments on Dogs"
 [1]: http://www.urbandictionary.com/define.php?term=Man%27s+Best+Friend&amp;defid=4026604 "Urban Dictionary: 'Man's Best Friend'"
 [2]: http://digg.com/video/dogs-cancer-cure "Digg piece on testing cancer treatments on dogs"
 [3]: http://twitter.com/itsdmr "Daisy Rosario's Twitter account"
