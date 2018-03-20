@@ -10,8 +10,22 @@
 	.siteheader-heading
 		font-size: 8vmin
 
-	.siteheader-tagline
-		margin: -0.5em auto auto auto
+	// .siteheader-tagline
+	// 	margin: -0.5em auto auto auto
+
+		// This whole section eliminates the text on small screens
+	.siteheader-tagline, .siteheader-text
+		display: none
+
+	.siteheader-heading-logo
+		vertical-align: middle
+		width: 2em
+
+	blockquote
+		margin: 0.25em
+
+	h1, h2, h3, h4, h5, h6
+		line-height: 1.3
 
 	.main
 		// Useful if I want the blue padding
@@ -53,18 +67,15 @@
 		// Still needs to be bigger here
 		font-size: large
 
-	.main
-		// Useful if I want the blue padding
-		// width: calc(90% - 3em)
-		// padding: 1.5em
-		width: calc(100% - 2em)
-		padding: 1em
+	// .main
+	// 	// Useful if I want the blue padding
+	// 	// width: calc(90% - 3em)
+	// 	// padding: 1.5em
+	// 	width: calc(100% - 3em)
+	// 	padding: 1.5em
 
 	.siteheader
 		max-height: 100px
 
 	// .siteheader-heading
 	// 	font-size: 8vw
-
-	blockquote
-		margin: 0.25em
