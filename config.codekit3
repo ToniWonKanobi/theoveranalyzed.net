@@ -19,9 +19,9 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/min\/camel-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
@@ -29,9 +29,9 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/min\/config-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
@@ -72,9 +72,9 @@
 	"\/Procfile": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/Procfile",
-		"oF": 0
+		"oF": 1
 		},
 	"\/public\/bower_components": {
 		"ft": 65536,
@@ -986,16 +986,16 @@
 	"\/public\/mailchimp\/.sass-cache\/b57eab7ce34bf9fe4f3ee5a58a8cb3a1d0443299\/mailchimp.scssc": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/public\/mailchimp\/.sass-cache\/b57eab7ce34bf9fe4f3ee5a58a8cb3a1d0443299\/mailchimp.scssc",
-		"oF": 0
+		"oF": 1
 		},
 	"\/public\/mailchimp\/mailchimp.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/public\/mailchimp\/mailchimp.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/public\/movies": {
 		"ft": 65536,
@@ -1011,9 +1011,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/README.html",
-		"oF": 0,
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 1,
@@ -1030,142 +1030,142 @@
 	"\/templates\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/.gitignore",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/ArticlePartial.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/ArticlePartial.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/DayTemplate.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/DayTemplate.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/defaultTags.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/defaultTags.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/footer.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/footer.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/FooterTemplate.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/FooterTemplate.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/header.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/header.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/homepagePostDescription.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/homepagePostDescription.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/homepagePostReadMore.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/homepagePostReadMore.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/pageFooter.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/pageFooter.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/pageHeader.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/pageHeader.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/postBodyEnd.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/postBodyEnd.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/postBodyStart.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/postBodyStart.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/postFooter.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/postFooter.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/postHeader.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/postHeader.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/postImage.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/postImage.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/rssFooter.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/rssFooter.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/singleFooter.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/singleFooter.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/singleHeader.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/singleHeader.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/templates\/unwrappedFootnotes.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/templates\/unwrappedFootnotes.html",
-		"oF": 0
+		"oF": 1
 		}
 	},
 "hooks": [
