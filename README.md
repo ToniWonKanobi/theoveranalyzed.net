@@ -1,3 +1,7 @@
+This is based on a [fork](https://github.com/freekrai/camel) of Camel, whose README.md text is included below
+
+***
+
 "Camel" is a blogging platform written in [Node.js][n]. It is designed to be fast, simple, and lean.
 
 [n]: http://nodejs.org/
