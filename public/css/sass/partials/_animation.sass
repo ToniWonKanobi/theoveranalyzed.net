@@ -1,57 +1,57 @@
 .fadeindown
-	animation: fadeindown 1s
+  animation: fadeindown 1s
 
 @keyframes fadeindown
-	0%
-		opacity: 0
-		transform: translateY(-100px)
-	100%
-		opacity: 1
-		transform: translateY(0)
+  0%
+    opacity: 0
+    transform: translateY(-100px)
+  100%
+    opacity: 1
+    transform: translateY(0)
 
 .fadeinup
-	animation: fadeinup 1s
+  animation: fadeinup 1s
 
 @keyframes fadeinup
-	0%
-		opacity: 0
-		transform: translateY(100px)
-	100%
-		opacity: 1
-		transform: translateY(0)
+  0%
+    opacity: 0
+    transform: translateY(100px)
+  100%
+    opacity: 1
+    transform: translateY(0)
 
 // This wasn't working so well for the logo rotate around the Z axis (was blurry)
 // @keyframes rotate
-// 	0%
-// 		transform: rotateY(0)
-// 	50%
-// 		transform: rotateY(180deg)
-// 	100%
-// 		transform: rotateY(0)
+//  0%
+//    transform: rotateY(0)
+//  50%
+//    transform: rotateY(180deg)
+//  100%
+//    transform: rotateY(0)
 
 @keyframes rotate
-	0%
-		transform: rotateZ(0)
-	25%
-		transform: rotateZ(360deg)
-	// I think what this is doing is sort of building in a delay, so that it's not constantly spinning all crazy like when it's hovered/focused
-	50%, 100%
-		transform: rotateZ(0)
-	// 100%
-	// 	transform: rotateZ(0)
+  0%
+    transform: rotateZ(0)
+  25%
+    transform: rotateZ(360deg)
+  // I think what this is doing is sort of building in a delay, so that it's not constantly spinning all crazy like when it's hovered/focused
+  50%, 100%
+    transform: rotateZ(0)
+  // 100%
+  //  transform: rotateZ(0)
 
 @keyframes spiny-spin
-	0%
-		transform: rotateY(0)
-	50%
-		transform: rotateY(180deg)
-	100%
-		transform: rotateY(0)
+  0%
+    transform: rotateY(0)
+  50%
+    transform: rotateY(180deg)
+  100%
+    transform: rotateY(0)
 
 @keyframes slide-back-and-forth
-	0%, 100%
-		transform: translateX(0)
-	25%
-		transform: translateX(-0.5em)
-	75%
-		transform: translateX(0.5em)
+  0%, 100%
+    transform: translateX(0)
+  25%
+    transform: translateX(-0.5em)
+  75%
+    transform: translateX(0.5em)

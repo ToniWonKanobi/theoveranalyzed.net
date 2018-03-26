@@ -1,153 +1,153 @@
 body
-	background: $lightblue
-	color: $black
-	font-size: 14pt
-	font-family: $sans
-	font-style: normal
-	font-weight: 500
-	line-height: 1.6
-	margin: 0
-	padding: 0
+  background: $lightblue
+  color: $black
+  font-size: 14pt
+  font-family: $sans
+  font-style: normal
+  font-weight: 500
+  line-height: 1.6
+  margin: 0
+  padding: 0
 
 h1, h2, h3, h4, h5, h6
-	font-weight: 600
-	margin: 1.25em auto -0.25em auto
+  font-weight: 600
+  margin: 1.25em auto -0.25em auto
 
-	.entry &
-		a
-			border-bottom: none
+  .entry &
+    a
+      border-bottom: none
 
-			&:hover, &:focus
-				border-bottom: none
-				background: none
+      &:hover, &:focus
+        border-bottom: none
+        background: none
 
 h1
-	font-size: 2.5em
+  font-size: 2.5em
 
 h2
-	font-size: 1.6em
+  font-size: 1.6em
 
 h3
-	font-size: 1.5em
+  font-size: 1.5em
 
 h4
-	font-size: 1.3em
+  font-size: 1.3em
 
 h5
-	font-size: 1.1em
+  font-size: 1.1em
 
 h6
-	font-size: 1em
+  font-size: 1em
 
 a
-	color: $blue
-	text-decoration: none
-	transition: all 0.2s ease-in-out
-	word-break: break-word
+  color: $blue
+  text-decoration: none
+  transition: all 0.2s ease-in-out
+  word-break: break-word
 
 // Removes the margin at the top of the first article on the homepage
 .homepage-day:first-of-type .homepage-article:first-of-type
-	margin-top: 0
+  margin-top: 0
 
 // What I wish for: https://developer.mozilla.org/en-US/docs/Web/CSS/:has
 // .entry a:has(code)
-	// This would make it so that there wouldn't be that gray underline for `code` that is a child of `a` (right now, the blocky border bottom of all `a`'s sort of clashes with the border radius on all `code` :/)
-	// border-bottom: none
+  // This would make it so that there wouldn't be that gray underline for `code` that is a child of `a` (right now, the blocky border bottom of all `a`'s sort of clashes with the border radius on all `code` :/)
+  // border-bottom: none
 
-	// Styles the homepage
-	.homepage-article:hover &, .homepage-article:focus &
-		border-bottom-color: darken(white,30%)
+  // Styles the homepage
+  .homepage-article:hover &, .homepage-article:focus &
+    border-bottom-color: darken(white,30%)
 
-		&:hover, &:focus
-			background: white
-			border-bottom-color: white
-			color: $blue
+    &:hover, &:focus
+      background: white
+      border-bottom-color: white
+      color: $blue
 
 .entry a, .homepage-article-readmore
-	border-bottom: 0.25em solid $lightgray
+  border-bottom: 0.25em solid $lightgray
 
-	&:hover, &:focus
-		// border-bottom: none
-		background: $lightgray
+  &:hover, &:focus
+    // border-bottom: none
+    background: $lightgray
 
-	&:visited
-		color: $visitedpurple
+  &:visited
+    color: $visitedpurple
 
 // Experiemntal "grow from the bottom border thing mode like on Wired website" 
 // Basically uses box-shadow insetting to hide the background
 // http://joewilcox.com/2010/07/14/ken-hansen-mr-leica/
-// 		&:hover, &:focus
-// 			background: white
-// 			border-bottom-color: white
-// 			// color: $blue
+//    &:hover, &:focus
+//      background: white
+//      border-bottom-color: white
+//      // color: $blue
 
 // .entry a, .homepage-article-readmore
-// 	// border-bottom: 0.25em solid $lightgray
-// 	// background: $lightgray
-// 	color: $black
-// 	background: $lightblue
-// 	box-shadow: white 0 1em inset
-// 	box-sizing: border-box
+//  // border-bottom: 0.25em solid $lightgray
+//  // background: $lightgray
+//  color: $black
+//  background: $lightblue
+//  box-shadow: white 0 1em inset
+//  box-sizing: border-box
 
-// 	&:hover, &:focus
-// 		// border-bottom: none
-// 		// background: $lightgray
-// 		box-shadow: white 0 0 inset
+//  &:hover, &:focus
+//    // border-bottom: none
+//    // background: $lightgray
+//    box-shadow: white 0 0 inset
 
 .main
-	background: white
-	margin: 0 auto
+  background: white
+  margin: 0 auto
 
-	// Target width is ~700px, so have to do `calc()` to account for padding (somewhat arbitrary)
-	max-width: calc(750px - 4em)
-	min-height: 48vh
-	padding: 2em
-	width: 80%
+  // Target width is ~700px, so have to do `calc()` to account for padding (somewhat arbitrary)
+  max-width: calc(750px - 4em)
+  min-height: 48vh
+  padding: 2em
+  width: 80%
 
-	// Removes that space at the top of the first heading on a non-post/homepage page
-	h2:first-of-type
-		margin-top: 0
+  // Removes that space at the top of the first heading on a non-post/homepage page
+  h2:first-of-type
+    margin-top: 0
 
 // Generic class that makes a lot of things easier (yet still okay for semantics/outline purposes)
 .hidden
-	display: none
+  display: none
 
 .homepage-article
-	margin: 2em 0
-	padding: 1em
-	transition: all 250ms ease-in-out
-	box-sizing: border-box
+  margin: 2em 0
+  padding: 1em
+  transition: all 250ms ease-in-out
+  box-sizing: border-box
 
-	// Blue switchero thing
-	&:hover, &:focus
-		background: $blue
-		border-radius: $borderRadius
-		padding: 2em
-		margin-top: 3em
-		margin-bottom: 3em
+  // Blue switchero thing
+  &:hover, &:focus
+    background: $blue
+    border-radius: $borderRadius
+    padding: 2em
+    margin-top: 3em
+    margin-bottom: 3em
 
-		// Turns all the items in the hovered articles white
-		*
-			color: white
+    // Turns all the items in the hovered articles white
+    *
+      color: white
 
 .homepage-article-readmore
-	&:hover, &:focus
-		color: $blue
-		border-bottom: none
+  &:hover, &:focus
+    color: $blue
+    border-bottom: none
 
 // Necessary to so that the content is spaced nicely in the padding-laden parent container
 .homepage-article-readmore-container
-	margin-bottom: 0
+  margin-bottom: 0
 
 // Better than a single border-bottom on each article
 .homepage-article-separator
-	// border-radius: 0
-	// Let's try this
-	// border-radius: $borderRadius
-	border-radius: 1em
-	border: 0.75em solid $gray
-	color: $gray
-	margin: 1.5em auto 1.5em auto
+  // border-radius: 0
+  // Let's try this
+  // border-radius: $borderRadius
+  border-radius: 1em
+  border: 0.75em solid $gray
+  color: $gray
+  margin: 1.5em auto 1.5em auto
 
-	&:after
-		content: normal
+  &:after
+    content: normal

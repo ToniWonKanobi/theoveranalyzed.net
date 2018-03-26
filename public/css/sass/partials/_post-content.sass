@@ -1,277 +1,277 @@
 // Turns off italicization for code
 .topstory code
-	font-style: normal
+  font-style: normal
 
 figure
-	margin: 1em auto
+  margin: 1em auto
 
 img
-	border-radius: $borderRadius
-	box-sizing: border-box
-	display: block
-	margin: auto
-	vertical-align: middle
-	max-width: 100%
+  border-radius: $borderRadius
+  box-sizing: border-box
+  display: block
+  margin: auto
+  vertical-align: middle
+  max-width: 100%
 
 .border
-	border: solid 0.25em $lightgray
-	border-radius: $borderRadius
+  border: solid 0.25em $lightgray
+  border-radius: $borderRadius
 
 .twoinline
-	display: inline
-	margin: 1%
-	width: 46%
+  display: inline
+  margin: 1%
+  width: 46%
 
 .threeinline
-	display: initial
-	margin: 1%
-	width: 29%
+  display: initial
+  margin: 1%
+  width: 29%
 
 ul, ol, blockquote
-	img
-		margin-left: initial
+  img
+    margin-left: initial
 
 figcaption
-	background: $lightgray
-	border-bottom-left-radius: $borderRadius
-	border-bottom-right-radius: $borderRadius
-	color: $darkgray
-	font-size: 0.8em
-	margin: auto
-	min-width: 100px
-	max-width: 80%
-	padding: 0.75em
+  background: $lightgray
+  border-bottom-left-radius: $borderRadius
+  border-bottom-right-radius: $borderRadius
+  color: $darkgray
+  font-size: 0.8em
+  margin: auto
+  min-width: 100px
+  max-width: 80%
+  padding: 0.75em
 
 audio
-	width: 100%
+  width: 100%
 
 video
-	border-radius: $borderRadius
-	box-sizing: border-box
-	display: block
-	margin: auto
-	max-width: 100%
+  border-radius: $borderRadius
+  box-sizing: border-box
+  display: block
+  margin: auto
+  max-width: 100%
 
-	// This keeps the caption from causing that space thing that looks stupid in Safari for OS X
-	+ figcaption
-		margin-top: -0.25em
+  // This keeps the caption from causing that space thing that looks stupid in Safari for OS X
+  + figcaption
+    margin-top: -0.25em
 
 iframe
-	border: none
+  border: none
 
 // FitVids stuff
 .fluid-width-video-wrapper
-	border-radius: $borderRadius
-	margin: 1em auto
+  border-radius: $borderRadius
+  margin: 1em auto
 
 .radius
-	border-radius: $borderRadius
+  border-radius: $borderRadius
 
 blockquote
-	border-left: 3px solid $gray
-	color: #888
-	margin: 1em
-	padding-left: 1em
+  border-left: 3px solid $gray
+  color: #888
+  margin: 1em
+  padding-left: 1em
 
 .convo
-	border-left: none
-	font-style: italic
+  border-left: none
+  font-style: italic
 
 .spoilers-tagline
-	font-weight: bold
-	margin: 1em auto
+  font-weight: bold
+  margin: 1em auto
 
-	&:focus
-		outline: none
+  &:focus
+    outline: none
 
 .spoilers-content
-	background: $lightgray
-	border-radius: $borderRadius
-	padding: 0.25em 1em
+  background: $lightgray
+  border-radius: $borderRadius
+  padding: 0.25em 1em
 
 pre, code
-	font-family: $monospace
-	font-style: normal
-	font-weight: 500
-	border: 0.1em solid $gray;
+  font-family: $monospace
+  font-style: normal
+  font-weight: 500
+  border: 0.1em solid $gray;
 
 pre
-	background: $lightgray
-	border-radius: $borderRadius
-	font-size: 0.85em
-	padding: 0.5em 1em
-	// white-space: pre-wrap
-	overflow: auto
-	tab-size: 2
-	// counter-reset: line
+  background: $lightgray
+  border-radius: $borderRadius
+  font-size: 0.85em
+  padding: 0.5em 1em
+  // white-space: pre-wrap
+  overflow: auto
+  tab-size: 2
+  // counter-reset: line
 
 code
-	background: $lightgray
-	border-radius: $borderRadius
-	font-size: 0.8em
-	padding: 0.25em
+  background: $lightgray
+  border-radius: $borderRadius
+  font-size: 0.8em
+  padding: 0.25em
 
 pre code
-	font-size: 0.9em
-	padding: 0
-	border: none
+  font-size: 0.9em
+  padding: 0
+  border: none
 
 .stupid-bigfoot-pre-overflow
-	white-space: pre-line
+  white-space: pre-line
 
 // I wish I could get this to work :/
 // pre code:before
-// 	counter-increment: line
-// 	content: counter(line)
-// 	padding-right: 1em
+//  counter-increment: line
+//  content: counter(line)
+//  padding-right: 1em
 
 // This is hacky
 a code
-	padding-bottom: 0.4em
+  padding-bottom: 0.4em
 
 // Embedded Tweets
 .twitter-tweet a
-	border-bottom: none !important
+  border-bottom: none !important
 
 // Embedded Twitter timeline
 .twitter-timeline
-	border-radius: $borderRadius
-	// Have to use `!important` to override the inline styles
-	border: 0.25em solid $gray !important
-	max-width: 500px !important
-	margin: auto auto auto auto !important
-	display: block !important
+  border-radius: $borderRadius
+  // Have to use `!important` to override the inline styles
+  border: 0.25em solid $gray !important
+  max-width: 500px !important
+  margin: auto auto auto auto !important
+  display: block !important
 
 mark
-	background: $mark-yellow
-	border-radius: $borderRadius
-	display: inline-block
-	padding: 0.25em 0.6em 0.25em 0.6em
+  background: $mark-yellow
+  border-radius: $borderRadius
+  display: inline-block
+  padding: 0.25em 0.6em 0.25em 0.6em
 
 mark.green
-	background: $mark-green
+  background: $mark-green
 
 mark.red
-	background: $mark-red
+  background: $mark-red
 
 ul, ol, dl
-	padding-left: 2.5em
+  padding-left: 2.5em
 
 li
-	margin: 1em auto
-	padding-left: 0.25em
+  margin: 1em auto
+  padding-left: 0.25em
 
 // Some posts have a table within a division
 // This rule allows scrolling
 .table
-	overflow: auto
+  overflow: auto
 
 table
-	border-bottom: 2px solid $gray
-	border-right: 2px solid $gray
-	border-collapse: collapse
-	margin: auto
+  border-bottom: 2px solid $gray
+  border-right: 2px solid $gray
+  border-collapse: collapse
+  margin: auto
 
-	th
-		background: $lightgray
-		border-top: 2px solid $gray
-		border-left: 2px solid $gray
-		padding: 0.3em 1em
+  th
+    background: $lightgray
+    border-top: 2px solid $gray
+    border-left: 2px solid $gray
+    padding: 0.3em 1em
 
-		code
-			border: 1px solid $gray
-			border-radius: $borderRadius
+    code
+      border: 1px solid $gray
+      border-radius: $borderRadius
 
-	td
-		border-top: 2px solid $gray
-		border-left: 2px solid $gray
-		padding: 0.3em 1em
+  td
+    border-top: 2px solid $gray
+    border-left: 2px solid $gray
+    padding: 0.3em 1em
 
 .sortable thead
-	cursor: default
+  cursor: default
 
 .takehome
-	border-top: 4px solid $gray
-	border-bottom: 4px solid $gray
-	color: $blue
-	display: block
-	font-size: 1.2em
-	font-weight: 700
-	line-height: 1.5
-	padding: 0.5em 0 0.5em 0.1em
-	text-transform: uppercase
+  border-top: 4px solid $gray
+  border-bottom: 4px solid $gray
+  color: $blue
+  display: block
+  font-size: 1.2em
+  font-weight: 700
+  line-height: 1.5
+  padding: 0.5em 0 0.5em 0.1em
+  text-transform: uppercase
 
 .update
-	background: $lightgray
-	border-radius: $borderRadius
-	padding: 1.5em
-	// This is to make the little update thingy smaller
-	font-size: 85%
+  background: $lightgray
+  border-radius: $borderRadius
+  padding: 1.5em
+  // This is to make the little update thingy smaller
+  font-size: 85%
 
-	h3
-		margin-top: 0
+  h3
+    margin-top: 0
 
-	a
-		border-bottom: 2px solid $gray
-		padding-bottom: 1px
-		word-break: break-word
+  a
+    border-bottom: 2px solid $gray
+    padding-bottom: 1px
+    word-break: break-word
 
-		&:hover, &:focus
-			background: $gray
+    &:hover, &:focus
+      background: $gray
 
-	blockquote
-		border-left-color: $gray
+  blockquote
+    border-left-color: $gray
 
-	pre
-		background-color: $gray
+  pre
+    background-color: $gray
 
-	code
-		background: $gray
+  code
+    background: $gray
 
-	figcaption
-		background: $gray
-		color: #777
+  figcaption
+    background: $gray
+    color: #777
 
 .updatetime
-	color: $darkgray
-	font-size: 0.9em
-	margin-top: 0.5em
+  color: $darkgray
+  font-size: 0.9em
+  margin-top: 0.5em
 
 hr
-	border: none
-	color: #555
-	text-align: center
+  border: none
+  color: #555
+  text-align: center
 
-	// Instead of something markup-unfriendly, like
-	// `<p style="text-align: center">* * *</p>`
-	&:after
-		content: "***"
-		font-size: 1.25em
-		letter-spacing: 0.25em
-		position: relative
-		top: 0.2em
+  // Instead of something markup-unfriendly, like
+  // `<p style="text-align: center">* * *</p>`
+  &:after
+    content: "***"
+    font-size: 1.25em
+    letter-spacing: 0.25em
+    position: relative
+    top: 0.2em
 
 .long
-	border-radius: $borderRadius
-	border: 1px solid $gray
-	margin: 1.5em auto 1.5em auto
-	width: 100%
+  border-radius: $borderRadius
+  border: 1px solid $gray
+  margin: 1.5em auto 1.5em auto
+  width: 100%
 
-	&:after
-		content: normal
+  &:after
+    content: normal
 
 h3, h4, h5, h6
 
-	// Targets head-anchors in the text
-	.header-anchor
-		opacity: 0
-		border-bottom: none
-		font-size: 75%
+  // Targets head-anchors in the text
+  .header-anchor
+    opacity: 0
+    border-bottom: none
+    font-size: 75%
 
-		&:hover, &:focus
-			// opacity: 1
-			background: none
+    &:hover, &:focus
+      // opacity: 1
+      background: none
 
-	&:hover .header-anchor, &:focus .header-anchor
-		opacity: 1
-		background: none
+  &:hover .header-anchor, &:focus .header-anchor
+    opacity: 1
+    background: none

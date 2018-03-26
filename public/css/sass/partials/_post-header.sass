@@ -1,89 +1,89 @@
 .postheader > h2,
 .postheaderlinked > h2
-	font-weight: 700
-	line-height: 1.35
-	margin: auto
+  font-weight: 700
+  line-height: 1.35
+  margin: auto
 
 .postheader-heading
-	font-size: 1.65em
+  font-size: 1.65em
 
 .postheader-heading-link
-	color: $black
+  color: $black
 
-	&:hover, &:focus
-		color: $blue
+  &:hover, &:focus
+    color: $blue
 
-	// So, when I hover on an article in the homepage, make it white
-	.homepage-article:hover &, .homepage-article:focus &
-		color: white
+  // So, when I hover on an article in the homepage, make it white
+  .homepage-article:hover &, .homepage-article:focus &
+    color: white
 
 .postheaderlinked-arrow
-	color: $darkgray
-	transition: all 0.2s ease-in-out
-	vertical-align: -4%
-	display: inline-block
+  color: $darkgray
+  transition: all 0.2s ease-in-out
+  vertical-align: -4%
+  display: inline-block
 
-	// When I hover on a heading, spin the arrow all cool-like
-	.postheaderlinked-heading:hover &,
-	.postheaderlinked-heading:focus &
-		color: $blue
-		transform: rotateZ(360deg)
+  // When I hover on a heading, spin the arrow all cool-like
+  .postheaderlinked-heading:hover &,
+  .postheaderlinked-heading:focus &
+    color: $blue
+    transform: rotateZ(360deg)
 
-	// When I hover on an article on the homepage,
-	// make this white
-	.homepage-article:hover .postheaderlinked-heading:hover &, .homepage-article:focus .postheaderlinked-heading:focus &
-		color: white
+  // When I hover on an article on the homepage,
+  // make this white
+  .homepage-article:hover .postheaderlinked-heading:hover &, .homepage-article:focus .postheaderlinked-heading:focus &
+    color: white
 
 .postsubtitle
-	display: inline
-	font-size: 0.9em
-	list-style: none
-	padding: 0
+  display: inline
+  font-size: 0.9em
+  list-style: none
+  padding: 0
 
-	*
-		color: $darkgray
-		transition: all 200ms ease-in-out
+  *
+    color: $darkgray
+    transition: all 200ms ease-in-out
 
-		&:hover, &:focus
-			color: $blue
+    &:hover, &:focus
+      color: $blue
 
-		// I don't know why I can't use inheritance here
-		.homepage-article:hover &, .homepage-article:focus &
-			color: lighten($darkgray, 10%)
+    // I don't know why I can't use inheritance here
+    .homepage-article:hover &, .homepage-article:focus &
+      color: lighten($darkgray, 10%)
 
-			&:hover, &:focus
-				color: white
+      &:hover, &:focus
+        color: white
 
-	li
-		display: inline
-		padding: 0
+  li
+    display: inline
+    padding: 0
 
 .postsubtitle-date
-	&:after
-		// I don't know of any other way to target this silly shadow DOM element
-		// (Or why I can't use inheritance)
-		color: $darkgray
-		content: '•'
-		margin: 0 0.25em 0 0.25em
+  &:after
+    // I don't know of any other way to target this silly shadow DOM element
+    // (Or why I can't use inheritance)
+    color: $darkgray
+    content: '•'
+    margin: 0 0.25em 0 0.25em
 
-		// I don't know why I can't use inheritance here
-		.homepage-article:hover &, .homepage-article:focus &
-			color: lighten($darkgray, 10%)
+    // I don't know why I can't use inheritance here
+    .homepage-article:hover &, .homepage-article:focus &
+      color: lighten($darkgray, 10%)
 
 .postsubtitle-tags
-	display: inline
-	padding: 0
+  display: inline
+  padding: 0
 
 .postsubtitle-tags-tag
-	&:after
-		// I don't know of any other way to target this silly shadow DOM element (or why I can't use inheritance)
-		color: $darkgray
-		content: ' and '
+  &:after
+    // I don't know of any other way to target this silly shadow DOM element (or why I can't use inheritance)
+    color: $darkgray
+    content: ' and '
 
-		// I don't know why I can't use inheritance here
-		.homepage-article:hover &, .homepage-article:focus &
-			color: lighten($darkgray, 10%)
+    // I don't know why I can't use inheritance here
+    .homepage-article:hover &, .homepage-article:focus &
+      color: lighten($darkgray, 10%)
 
-	// Removes the `and` on the last item
-	&:last-child:after
-		content: initial
+  // Removes the `and` on the last item
+  &:last-child:after
+    content: initial
