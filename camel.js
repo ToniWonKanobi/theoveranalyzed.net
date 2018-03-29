@@ -477,12 +477,9 @@ function tweetLatestPost() {
           twitterClient.get('help/configuration', function (error, configuration, response) {
 
             // Prefix of the Tweet
-            var prefix {
-              if (latestPost.metadata.Link !== 'undefined') {
-                return '→ '
-              } else {
-                  return = "🐺 "
-              }
+            var prefix = "🐺 ";
+            if (latestPost.metadata.Link !== 'undefined') {
+              var prefix = '→ ';
             }
 
             // Image for the Tweet
