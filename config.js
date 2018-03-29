@@ -13,9 +13,9 @@ module.exports = {
   },
 
   Social: {
-    Twitter: "@theoveranalyzed",
+    Twitter: "theoveranalyzed",
     autoTweets: {
-      twitterUserName: "@theoveranalyzed",
+      twitterUserName: "theoveranalyzed",
       twitterClientNeedle: "TheOverAnalyzed HQ",
       consumer_key: "ZIS1PGzL6UuepbKUeC4EmGlcP",
       consumer_secret: "6NMAASTVIgfGGxdaocEqUTbhyMIa8W27c9OeeK8R3ruMOEfphu",

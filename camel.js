@@ -549,7 +549,7 @@ function emptyCache() {
   allPostsSortedGrouped = {};
 
   // Automatic posting to Twitter
-  // tweetLatestPost();
+  tweetLatestPost();
 }
 
 function init() {
@@ -648,7 +648,7 @@ function init() {
   setInterval(emptyCache, cacheResetTimeInMillis);
 
   // Automatic posting to Twitter
-  // tweetLatestPost();
+  tweetLatestPost();
 }
 
 // Gets the rendered HTML for this file, with header/footer.
