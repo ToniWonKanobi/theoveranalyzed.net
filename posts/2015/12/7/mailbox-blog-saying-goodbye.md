@@ -27,7 +27,7 @@ Here's hoping.
 
 <aside class="update">
  
- ### Update: Brent Simmons on Mailbox's Shuttering
+ #### Update: Brent Simmons on Mailbox's Shuttering
 
 December 12, 2015
 <!-- {.updatetime} -->

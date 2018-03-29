@@ -14,7 +14,7 @@ Be sure to use my coupon code <b>CBANTHONYC10</b> at checkout for 10% off.
 
 <aside class="update">
 
-### Update: Promotion Has Ended
+#### Update: Promotion Has Ended
 
 The trial promotion has now ended, in case you were wondering why my coupon code no longer works.
 

@@ -13,7 +13,7 @@ Star Wars Rebels, the [critically acclaimed][1] new series, concluded its first 
 
 <aside class="update">
 
-### Update: Gellar to Play Leia?
+#### Update: Gellar to Play Leia?
 
 September 27, 2015
 <!-- {.updatetime} -->
@@ -32,7 +32,7 @@ From an Instagram photo, here's Sarah Michelle Gellar:
 
 <aside class="update">
 
-### Update: Nope, She's Not Playing Leia
+#### Update: Nope, She's Not Playing Leia
 
 October 2, 2015
 <!-- {.updatetime} -->

@@ -27,7 +27,7 @@ Sounds about as worth it as [The Apple Tax™][1].
 
 <aside class="update">
 
-### Update: GT4 Clubsport Edition Will Be PDK Only
+#### Update: GT4 Clubsport Edition Will Be PDK Only
 
 October 6, 2015
 <!-- {.updatetime} -->

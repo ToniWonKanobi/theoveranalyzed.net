@@ -5,7 +5,7 @@ Tags: Power User, CSS, Popular
 Image: /images/safari-custom-style-sheet.jpg  
 
 ![I had no idea I could do this][1]
-<!-- {.border} -->
+<!-- {img:.border} -->
 
 This past weekend, I discovered a real rabbit hole of a thing: Desktop Safari has the ability to load custom style sheets!
 
@@ -18,6 +18,8 @@ What does this mean, exactly?
 2. It means bye bye Arial, and hello Avenir 💯
 
 3. It means I can finally read [Daring Fireball][2] without [Reader mode][3] 🤓
+
+[[toc]]
 
 ### The History of User-defined Style Sheets in Desktop Safari
 
@@ -41,7 +43,7 @@ So no help there, but it seems custom style sheets have been around since the be
 
 <aside class="update">
 
-### Update: Safari Probably Had Custom Style Sheet Functionality Since the Betas
+#### Update: Safari Probably Had Custom Style Sheet Functionality Since the Betas
 
 March 17, 2018
 <!-- {.updatetime} -->
@@ -76,7 +78,7 @@ And that's it for my brief history of Safari's custom style sheet option.[^1]
 
 <aside class="update">
 
-### Update: Safari Probably Included Custom Style Sheet Functionality Because Competitor Browsers Had Custom Style Sheet Functionality---It Had Nothing To Do With An Unadoption of CSS
+#### Update: Safari Probably Included Custom Style Sheet Functionality Because Competitor Browsers Had Custom Style Sheet Functionality (It Had Nothing to Do With an Non-Adoption of CSS)
 
 March 17, 2018
 <!-- {.updatetime} -->
@@ -186,7 +188,7 @@ That's just one example. If you dive into my [style sheet][22], you'll see more 
 
 <aside class="update">
 
-### Update: There's An Extension for That
+#### Update: There's An Extension for That
 
 March 17, 2018
 <!-- {.updatetime} -->

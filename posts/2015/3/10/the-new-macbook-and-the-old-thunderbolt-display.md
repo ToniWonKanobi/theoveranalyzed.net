@@ -79,7 +79,7 @@ Apple <s>Thunderbolt</s> <s>USB</s> USB-C Dongle Display for 2015? I can only ho
 
 <aside class="update">
 
-### Update: No 4K for MacBook
+#### Update: No 4K for MacBook
 
 April 11, 2015
 <!-- {.updatetime} -->

@@ -18,7 +18,7 @@ No word yet as to when the expansion should be finished.
 
 <aside class="update">
 
-### Update: Date of Completion?
+#### Update: Date of Completion?
 
 August 17, 2015
 <!-- {.updatetime} -->

@@ -135,7 +135,7 @@ That about sums up my impressions of this latest September event. I don't know a
 
 <aside class="update">
 
-### Update: Related Links
+#### Update: Related Links
 
 September 10, 2015
 <!-- {.updatetime} -->

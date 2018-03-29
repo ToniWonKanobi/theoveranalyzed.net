@@ -27,7 +27,7 @@ Yikes 🇩🇪
 
 <aside class="update">
 
-### Update: Another Take
+#### Update: Another Take
 
 [Total 911][2] has an even better look that Jalopnik. Head over there to check it out.
 
@@ -35,7 +35,7 @@ Yikes 🇩🇪
 
 <aside class="update">
 
-### Update: Video
+#### Update: Video
 
 And here's a [video][3] they [featured][4] from Porsche.
 

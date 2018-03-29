@@ -124,7 +124,7 @@ See you next year, LBGP.
 
 <aside class="update">
 
-### Update: Inside Patrick Long's 991 GT3 R
+#### Update: Inside Patrick Long's 991 GT3 R
 
 April 21, 2016
 <!-- {.updatetime} -->

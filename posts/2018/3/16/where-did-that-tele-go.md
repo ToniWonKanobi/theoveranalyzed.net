@@ -3,6 +3,7 @@ Date: 2018-03-16 15:03
 Link: https://www.avclub.com/one-of-the-greatest-mysteries-surrounding-prince-has-be-1823830777  
 Description: I could watch that performance all 👏🏼 day 👏🏼 long 👏🏼  
 Tags: Music  
+Image: https://www.guitarplayer.com/.image/c_limit%2Ccs_srgb%2Cq_80%2Cw_780/MTUxNDE4MTAwNTg2ODQ5NTEw/image-placeholder-title.jpg  
 Video: https://www.youtube.com/watch?v=6SFNW5F8K9Y  
 
 I'm ashamed to admit that until he died, Prince wasn't really on my radar. I knew his late 80s/90s hits, but I hadn't ever listened to his early stuff---his [best stuff][1], in my opinion. Moreover, I didn't even know he played guitar 🎸❗

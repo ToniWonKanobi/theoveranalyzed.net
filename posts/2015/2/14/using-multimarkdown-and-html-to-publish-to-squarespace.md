@@ -181,7 +181,7 @@ As you can see, my workflow is not that complicated. Byword makes things incredi
 
 <aside class="update">
 
-### Update: Back to Byword
+#### Update: Back to Byword
 
 March 4, 2015
 <!-- {.updatetime} -->

@@ -143,7 +143,7 @@ During the two solid weeks I spent transitioning to Camel, most of my time dealt
 
 <aside class="update">
  
- ### Update: MultiMarkdown-style Metadata in Camel
+#### Update: MultiMarkdown-style Metadata in Camel
  
 November 16, 2015
 <!-- {.updatetime} -->

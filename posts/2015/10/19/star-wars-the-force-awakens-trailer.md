@@ -10,7 +10,7 @@ Video: https://youtu.be/sGbxmsDFVnE
 
 <aside class="update">
 
-### Update: Music-Only Trailer
+#### Update: Music-Only Trailer
 
 October 21, 2015
 <!-- {.updatetime} -->

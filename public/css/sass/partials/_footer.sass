@@ -1,7 +1,13 @@
 .footer
-  background: $blue
+  // Unnecessary if the <body> is blue
+  // background: $blue
   color: white
   text-align: center
+  display: flex
+  align-items: center
+  justify-content: center
+  flex-direction: column
+  min-height: 350px
 
   a
     color: inherit
@@ -35,7 +41,7 @@
   padding: 0
 
 .navigation
-  padding: 1.5em 0 1.5em 0
+  padding: 1em
 
 .navigation-list
   // margin: 0.5em
@@ -64,22 +70,26 @@
     box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2)
 
   &:active
-    box-shadow: initial
+    box-shadow: none
+    border: 0.1em solid $darkgray
 
   // &:hover a, &:focus a
   //  color: $blue
 
 // Cribbed from Hardik Pandya (http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/)
+.footer-search
+  padding: 1em
+
 .footer-search input
   background-color: #f8f8f8
   border: 2px solid $gray
   border-radius: $borderRadius
   color: #999
-  max-width: 200px
+  max-width: 300px
   padding: 0.5em
   transition: all 0.2s ease-in-out
-  width: 50%
   font-family: $sans
+  text-align: center
 
   &:hover
     border: 2px solid $darkgray
@@ -88,8 +98,14 @@
     border: 2px solid darken($darkgray,20%)
     outline: none
     box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2)
+    text-align: initial
+
+  &:active::placeholder,
+  &:focus::placeholder
+    // I tried `display: none`, but this didn't work
+    opacity: 0
 
 .footer-copyright
   font-size: 0.7em
   margin: 0
-  padding: 1.5em 0 1.5em 0
+  padding: 1em

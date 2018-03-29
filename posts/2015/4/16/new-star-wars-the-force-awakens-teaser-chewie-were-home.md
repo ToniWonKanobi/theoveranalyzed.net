@@ -13,7 +13,7 @@ Video: https://youtu.be/ngElkyQ6Rhs
 
 <aside class="update">
 
-### Update: Alternate Version of Trailer
+#### Update: Alternate Version of Trailer
 
 August 10, 2015
 <!-- {.updatetime} -->

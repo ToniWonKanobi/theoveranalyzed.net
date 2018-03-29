@@ -6,14 +6,29 @@
   height: 1.75em
   margin: 1.5em auto auto
 
-.homepage-pagination-page-markers
+// Not sure what this was about
+// .homepage-pagination-page-markers
   margin: auto
 
+// "Older" and "Newer" buttons
 .homepage-pagination-older, .homepage-pagination-newer
-  color: $darkgray
+  display: inline-block
+  border-radius: 1.25em
+  background: $blue
+  color: white
+  width: 100px
+  font-size: large
+  padding: 0.75em
+  // transition: all 200ms ease-in-out
+  text-align: center
 
   &:hover, &:focus
-    color: $blue
+    transform: scale(1.05)
+    box-shadow: 0 4px 16px 2px rgba(0, 0, 0, 0.1)
+
+  &:active
+    box-shadow: none
+    border: 0.1em solid $lightgray
 
 .homepage-pagination-newer
   float: right

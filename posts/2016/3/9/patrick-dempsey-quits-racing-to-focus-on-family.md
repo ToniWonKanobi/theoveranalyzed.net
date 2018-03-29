@@ -35,7 +35,7 @@ Whatever the reason, this much is true: just as was the case for the aforementio
 
 <aside class="update">
 
-### Update: Patrick Dempsey: The Timing Just Seems Right
+#### Update: Patrick Dempsey: The Timing Just Seems Right
 
 April 2, 2016
 <!-- {.updatetime} -->

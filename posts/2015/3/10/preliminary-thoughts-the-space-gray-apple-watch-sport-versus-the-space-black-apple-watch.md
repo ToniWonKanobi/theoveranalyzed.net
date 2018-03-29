@@ -47,7 +47,7 @@ I'll leave you with this, a conversation with a friend who knows me all too well
 
 <aside class="update">
 
-### Update: Link to Useful Mockups
+#### Update: Link to Useful Mockups
 
 March 12, 2015
 <!-- {.updatetime} -->
@@ -63,7 +63,7 @@ I used something similar last September when there were [suddenly][12] *two* iPh
 
 <aside class="update">
 
-### Update: Links Are Removable
+#### Update: Links Are Removable
 
 March 12, 2015
 <!-- {.updatetime} -->

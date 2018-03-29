@@ -68,7 +68,7 @@ By placing the permalink in the Post Blog Item Code Injection section, I no long
 
 <aside class="update">
 
-### Update: Permalink Fix
+#### Update: Permalink Fix
 
 February 9, 2015
 <!-- {.updatetime} -->

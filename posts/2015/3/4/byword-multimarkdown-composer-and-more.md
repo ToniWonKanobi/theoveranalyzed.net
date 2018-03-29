@@ -161,7 +161,7 @@ Ultimately, my nostalgic attachment to Byword was quickly forgotten. For all its
 
 <aside class="update">
 
-### Update: Back to Byword
+#### Update: Back to Byword
 
 June 1, 2015
 <!-- {.updatetime} -->

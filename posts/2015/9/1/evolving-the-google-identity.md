@@ -23,7 +23,7 @@ Wow---the logotype looks *much* better in the full [Material Design][1] setting.
 
 <aside class="update">
 
-### Update: Everyone Hates It
+#### Update: Everyone Hates It
 
 Apparently I didn't hate it as much as [some][3] [people][4].
 	

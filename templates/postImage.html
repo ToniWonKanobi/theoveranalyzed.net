@@ -1,3 +1,7 @@
-<figure>
-  <img src="@@Image@@" alt="Teaser image for this post">
-</figure>
+{{#if Link}}
+{{else}}
+  <a href="{{permalink}}"><img class="border" src="@@Image@@" alt="Teaser image for this post"></a>
+{{/if}}
+
+
+

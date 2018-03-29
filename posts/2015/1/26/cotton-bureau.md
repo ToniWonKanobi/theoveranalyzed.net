@@ -32,7 +32,7 @@ Use discount code <b>CBANTHONYC10</b> to get 10% off your purchase!
 
 <aside class="update">
 
-### Update: Promotion Over
+#### Update: Promotion Over
 
 Their referral program has ended, in case you were wondering why the discount no longer worked.
 

@@ -2,16 +2,44 @@
 .topstory code
   font-style: normal
 
+.table-of-contents
+  border-top: 2px solid $gray
+  border-bottom: 2px solid $gray
+  margin: 4em auto 2em auto
+  font-size: 95%
+
+  & h4
+    margin-top: 0.75em
+
+  & ul
+    list-style-type: square
+    padding-left: 1em
+
+  & li
+    margin: 0.5em auto 0.5em 1em
+
+  & a
+    color: $black
+    border-bottom: none
+
+  & a::visited
+    color: $black
+
 figure
   margin: 1em auto
 
 img
-  border-radius: $borderRadius
+  border-radius: $imgRadius
   box-sizing: border-box
   display: block
   margin: auto
   vertical-align: middle
   max-width: 100%
+
+// .wide
+//   border-rad
+//   max-width: 150%
+//   margin-left: -25%
 
 .border
   border: solid 0.25em $lightgray
@@ -40,7 +68,8 @@ figcaption
   margin: auto
   min-width: 100px
   max-width: 80%
-  padding: 0.75em
+  padding: 0.75em 1.5em
+  // font-style: italic
 
 audio
   width: 100%
@@ -54,18 +83,17 @@ video
 
   // This keeps the caption from causing that space thing that looks stupid in Safari for OS X
   + figcaption
-    margin-top: -0.25em
+    // margin-top: -0.25em
 
 iframe
   border: none
 
+.radius
+   border-radius: $imgRadius
+
 // FitVids stuff
 .fluid-width-video-wrapper
-  border-radius: $borderRadius
   margin: 1em auto
-
-.radius
-  border-radius: $borderRadius
 
 blockquote
   border-left: 3px solid $gray
@@ -93,7 +121,7 @@ pre, code
   font-family: $monospace
   font-style: normal
   font-weight: 500
-  border: 0.1em solid $gray;
+  // border: 0.1em solid $gray;
 
 pre
   background: $lightgray
@@ -114,7 +142,8 @@ code
 pre code
   font-size: 0.9em
   padding: 0
-  border: none
+  // Unecssary if I don't have a border lol
+  // border: none
 
 .stupid-bigfoot-pre-overflow
   white-space: pre-line
@@ -155,11 +184,11 @@ mark.red
   background: $mark-red
 
 ul, ol, dl
-  padding-left: 2.5em
+  padding-left: 2em
 
 li
-  margin: 1em auto
-  padding-left: 0.25em
+  margin: 0.75em auto
+  // padding-left: 0.25em
 
 // Some posts have a table within a division
 // This rule allows scrolling
@@ -208,7 +237,7 @@ table
   // This is to make the little update thingy smaller
   font-size: 85%
 
-  h3
+  h4
     margin-top: 0
 
   a

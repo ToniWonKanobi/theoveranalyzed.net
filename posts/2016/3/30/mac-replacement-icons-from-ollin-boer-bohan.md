@@ -37,7 +37,7 @@ It seemed he made a purple version of the icon months before Apple had dropped t
 
 <aside class="update">
 
-### Update: How to Change Finder's Icon
+#### Update: How to Change Finder's Icon
 
 March 30, 2016
 <!-- {.updatetime} -->

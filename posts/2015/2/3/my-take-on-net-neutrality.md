@@ -120,7 +120,7 @@ Sottek, on the prospects of the FCC reclassifying wireless as well (same article
 
 <aside class="update">
 
-### Update: Victory
+#### Update: Victory
 
 February 4, 2015
 <!-- {.updatetime} -->

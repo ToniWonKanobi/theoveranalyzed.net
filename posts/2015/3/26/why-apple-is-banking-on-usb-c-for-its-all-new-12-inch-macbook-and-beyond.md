@@ -20,7 +20,7 @@ There is still a lot we don’t know about the new MacBook and it’s USB-C port
 
 <aside class="update">
 
-### Update: No 4K for MacBook
+#### Update: No 4K for MacBook
 
 April 11, 2015
 <!-- {.updatetime} -->

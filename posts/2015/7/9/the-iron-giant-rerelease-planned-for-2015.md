@@ -25,7 +25,7 @@ When I finished school[^1] and started working, I toned down all of my movie pir
 
 <aside class="update" style="overflow:scroll">
 
-### Update: New Trailer
+#### Update: New Trailer
 
 August 27, 2015
 <!-- {.updatetime} -->
@@ -38,7 +38,7 @@ Today, Yahoo! Movies shared the [new trailer][11] for Warner Brothers's upcoming
 
 <aside class="update">
 
-### Update: Sequel in the Works?
+#### Update: Sequel in the Works?
 
 August 30, 2015
 <!-- {.updatetime} -->
@@ -59,7 +59,7 @@ If you've seen the first movie, you'll know that the ending left plenty of room 
 
 <aside class="update">
 
-### Update: iTunes Version Automatically Includes Signature Edition
+#### Update: iTunes Version Automatically Includes Signature Edition
 
 October 12, 2015
 <!-- {.updatetime} -->

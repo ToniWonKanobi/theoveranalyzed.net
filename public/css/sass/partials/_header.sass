@@ -1,6 +1,9 @@
 .siteheader
   align-items: center
-  background: $blue
+  // Unnecessary if the <body> is blue
+  // background: $blue
+
+  // Necessary because the rest of the <body> has the $black color. This is for the "By" in the subtitle
   color: white
   // This will perfectly center the only child of .siteheader, which is the container for the title and the tagline
   display: flex

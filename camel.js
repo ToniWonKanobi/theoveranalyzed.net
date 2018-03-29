@@ -15,7 +15,10 @@ var markdownit = require('markdown-it')({
 })
 .use(require('markdown-it-footnote-conventional'))
 .use(require('markdown-it-anchor'), ({
-  permalink: true,
+  permalink: true
+}))
+.use(require('markdown-it-table-of-contents-with-heading'), ({
+  includeLevel: [3]
 }))
 .use(require('markdown-it-decorate'))
 .use(require('markdown-it-highlightjs'), ({
@@ -100,7 +103,7 @@ var postBodyStartTemplate = null;
 var postBodyEndTemplate = null;
 var homepagePostDescriptionTemplate = null;
 var homepagePostReadMoreTemplate = null;
-// var postImage = null;
+var postImage = null;
 
 var siteMetadata = {};
 siteMetadata.SiteUrl = config.Site.Url;
@@ -333,7 +336,7 @@ function generateHtmlAndMetadataForFile(file) {
       postBodyStart: performMetadataReplacements(metadata, postBodyStartTemplate(metadata)),
       // For homepage-only stuff
       homepagePostDescription: performMetadataReplacements(metadata, homepagePostDescriptionTemplate(metadata)),
-      // postImage: performMetadataReplacements(metadata, postImageTemplate(metadata)),
+      postImage: performMetadataReplacements(metadata, postImageTemplate(metadata)),
       homepagePostReadMore: performMetadataReplacements(metadata, homepagePostReadMoreTemplate(metadata)),
       postBodyEnd: performMetadataReplacements(metadata, postBodyEndTemplate(metadata)),
       rssFooter: performMetadataReplacements(metadata, rssFooterTemplate(metadata)),
@@ -404,9 +407,9 @@ function allPostsSortedAndGrouped(completion) {
 
       // For each day...
       _.each(sortedKeys, function (key) {
-        // if (new Date(key) > new Date()) {
-        //  return;
-        // }
+        if (new Date(key) > new Date()) {
+         return;
+        }
 
         // Get all the filenames...
         var articleFiles = groupedFiles[key];
@@ -501,9 +504,9 @@ function init() {
   loadHeaderFooter('homepagePostDescription.html', function (data) {
     homepagePostDescriptionTemplate = Handlebars.compile(data);
   });
-  // loadHeaderFooter('postImage.html', function (data) {
-  //  postImageTemplate = Handlebars.compile(data);
-  // });
+  loadHeaderFooter('postImage.html', function (data) {
+   postImageTemplate = Handlebars.compile(data);
+  });
   loadHeaderFooter('homepagePostReadMore.html', function (data) {
     homepagePostReadMoreTemplate = Handlebars.compile(data);
   });

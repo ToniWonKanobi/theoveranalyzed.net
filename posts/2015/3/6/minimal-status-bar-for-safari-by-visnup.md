@@ -11,7 +11,7 @@ Want to know where a hyperlink will take you? Install this Safari extension, and
 
 <aside class="update">
 
-### Update: Sherlocked
+#### Update: Sherlocked
 
 August 12, 2015
 <!-- {.updatetime} -->

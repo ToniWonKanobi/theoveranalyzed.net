@@ -21,7 +21,7 @@ Apple has indeed been moving away from it's "i" prefix, [established][1] in the 
 
 <aside class="update">
 
-### Update: Jason Snell's Commentary
+#### Update: Jason Snell's Commentary
 
 Jason Snell offered his own [commentary on the subject][3]:
 

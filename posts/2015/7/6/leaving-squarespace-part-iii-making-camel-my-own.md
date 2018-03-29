@@ -199,7 +199,7 @@ There are other aspects of TheOverAnalyzed that took some tweaking. I might deta
 
 <aside class="update">
 
-### Update: No More Code Block Highights
+#### Update: No More Code Block Highights
 
 August 11, 2015
 <!-- {.updatetime} -->
@@ -210,7 +210,7 @@ Since writing this post, I have since disabled `markdown-it-highlightjs`. It was
 
 <aside class="update">
 
-### Update: No More Table of Contents or [Exposed] Header Anchors
+#### Update: No More Table of Contents or [Exposed] Header Anchors
 
 November 20, 2015
 <!-- {.updatetime} -->
@@ -223,7 +223,7 @@ And while `markdown-it-anchor` is still a dependency on this project, I've tweak
 
 <aside class="update">
 
-### Update: Code Block Highights Are Back
+#### Update: Code Block Highights Are Back
 
 December 10, 2015
 <!-- {.updatetime} -->

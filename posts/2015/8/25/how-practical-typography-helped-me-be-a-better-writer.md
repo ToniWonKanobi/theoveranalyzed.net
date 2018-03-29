@@ -122,7 +122,7 @@ I'm bound to spend more time with Butterick's Practical Typography. There's just
 
 <aside class="update">
 
-### Update: The Mistakes/Styles of Other Writers
+#### Update: The Mistakes/Styles of Other Writers
 
 After publishing this post, I stumbled upon an old [article][18] from Jason Snell, former *editorial director* for Macworld:
 

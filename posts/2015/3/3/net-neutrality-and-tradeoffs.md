@@ -32,7 +32,7 @@ Here's Nilay Patel and Chris Plant discussing Net Neutrality's big development l
 
 <aside class="update">
 
-### Update: Netflix is a Hypocrite
+#### Update: Netflix is a Hypocrite
 
 March 4, 2015
 <!-- {.updatetime} -->

@@ -124,7 +124,7 @@ I hope Cloud.typography webfonts can become less latent. As soon as they are, I'
 
 <aside class="update">
 
-### Update: Ideal Sans is Back
+#### Update: Ideal Sans is Back
 
 August 11, 2015
 <!-- {.updatetime} -->

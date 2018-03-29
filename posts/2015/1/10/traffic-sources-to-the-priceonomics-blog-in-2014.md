@@ -13,7 +13,7 @@ In case anyone wondered why this site has no social media presence on Facebook, 
 
 <aside class="update">
 
-### Update: Facebook, After All
+#### Update: Facebook, After All
 
 June 1, 2015
 <!-- {.updatetime} -->

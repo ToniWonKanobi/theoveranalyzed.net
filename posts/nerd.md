@@ -4,13 +4,13 @@ Description: This page contains additional information about the site not covere
 
 ### The Apps I Use
 
-* [Byword][1] for static content such blog posts. I've tried plenty of other text editors, but Byword is by far my favorite for just *writing* text
+* [Byword][1] for static content such blog posts. I've tried plenty of other text editors---including the text editor in which I do all my front-end stuff---and they just never quite do it for me. Byword is by far my favorite for just *writing* text
 
 * [<del>Atom</del>][2] for front-end coding and web design
 
 	<aside class="update">
 
-	### Update: Bye Bye, Atom. Hello Sublime Text
+	#### Update: Bye Bye, Atom. Hello Sublime Text
 
 	February 13, 2018
 	<!-- {.updatetime} -->
@@ -35,16 +35,17 @@ Description: This page contains additional information about the site not covere
 
 ### Hosting
 
-* TheOverAnalyzed is presently hosted on [Heroku][20], though I often consider something *full* static, like [Jekyll][21]
+* TheOverAnalyzed is presently hosted on [Heroku][20], though I often consider something *fully* static, like a-[Jekyll][21] setup
 
 ### DNS
 
 * The domain name registration and DNS are through [Hover][22]
+* I briefly switched to DNSimple to try out SSL, but it's so much easier when Hover does everything
 
 ### Media
 
 * Before 2016, almost of the images and videos are served via [Droplr][23] embeds. This has always been sort of hacky, since Droplr never intended to support media embeds for grandfathered "Lite" users like me. I'll switch those out eventually
-* From about 2016 onward, most all of the media on the site is self-hosted (`/images`)
+* From about 2016 onward, most all of the media on the site is self-hosted (`/images`), except big photos taken with my Leica, and/or `<video>` embeds (since they're so huge)
 
 ### Web Standards
 

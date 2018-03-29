@@ -17,7 +17,7 @@ As you might expect, I have plenty of thoughts on the movie. However, I don't wa
 
 <aside class="update">
  
- ### Update: <i>The Force Awakens</i> Kills It
+#### Update: <i>The Force Awakens</i> Kills It
 
 December 20, 2015
 <!-- {.updatetime} -->
@@ -36,7 +36,7 @@ It's that good.
 
 <aside class="update">
 
- ### Update: <i>The Force Awakens</i> Is Still Killing It
+#### Update: <i>The Force Awakens</i> Is Still Killing It
 
 January 3, 2015
 <!-- {.updatetime} -->

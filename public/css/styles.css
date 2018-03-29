@@ -114,19 +114,20 @@
             transform: translateX(0.5em); } }
 
 body {
-  background: #a0bdda;
+  background: #3f70a2;
   color: #3b3b3b;
   font-size: 14pt;
   font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", Avenir, sans-serif;
   font-style: normal;
   font-weight: 500;
-  line-height: 1.6;
+  line-height: 1.55;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  min-height: 100vh; }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
-  margin: 1.25em auto -0.25em auto; }
+  margin: 2em auto -0.25em auto; }
   .entry h1 a, .entry h2 a, .entry h3 a, .entry h4 a, .entry h5 a, .entry h6 a {
     border-bottom: none; }
     .entry h1 a:hover, .entry h1 a:focus, .entry h2 a:hover, .entry h2 a:focus, .entry h3 a:hover, .entry h3 a:focus, .entry h4 a:hover, .entry h4 a:focus, .entry h5 a:hover, .entry h5 a:focus, .entry h6 a:hover, .entry h6 a:focus {
@@ -168,14 +169,19 @@ a {
   .entry a:visited, .homepage-article-readmore:visited {
     color: #834c7f; }
 
-.main {
+.container {
+  background: #a0bdda; }
+
+.content {
   background: white;
   margin: 0 auto;
-  max-width: calc(750px - 4em);
-  min-height: 48vh;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  max-width: 700px;
+  min-height: calc(100vh - 15vmax - 350px);
   padding: 2em;
   width: 80%; }
-  .main h2:first-of-type {
+  .content h2:first-of-type {
     margin-top: 0; }
 
 .hidden {
@@ -216,7 +222,6 @@ a {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: #3f70a2;
   color: white;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -249,7 +254,7 @@ a {
 .postheader > h2,
 .postheaderlinked > h2 {
   font-weight: 700;
-  line-height: 1.35;
+  line-height: 1.3;
   margin: auto; }
 
 .postheader-heading {
@@ -318,11 +323,29 @@ a {
 .topstory code {
   font-style: normal; }
 
+.table-of-contents {
+  border-top: 2px solid #ddd;
+  border-bottom: 2px solid #ddd;
+  margin: 4em auto 2em auto;
+  font-size: 95%; }
+  .table-of-contents h4 {
+    margin-top: 0.75em; }
+  .table-of-contents ul {
+    list-style-type: square;
+    padding-left: 1em; }
+  .table-of-contents li {
+    margin: 0.5em auto 0.5em 1em; }
+  .table-of-contents a {
+    color: #3b3b3b;
+    border-bottom: none; }
+  .table-of-contents a::visited {
+    color: #3b3b3b; }
+
 figure {
   margin: 1em auto; }
 
 img {
-  border-radius: 0.5em;
+  border-radius: 0.3em;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   display: block;
@@ -356,7 +379,7 @@ figcaption {
   margin: auto;
   min-width: 100px;
   max-width: 80%;
-  padding: 0.75em; }
+  padding: 0.75em 1.5em; }
 
 audio {
   width: 100%; }
@@ -368,18 +391,15 @@ video {
   display: block;
   margin: auto;
   max-width: 100%; }
-  video + figcaption {
-    margin-top: -0.25em; }
 
 iframe {
   border: none; }
 
-.fluid-width-video-wrapper {
-  border-radius: 0.5em;
-  margin: 1em auto; }
-
 .radius {
-  border-radius: 0.5em; }
+  border-radius: 0.3em; }
+
+.fluid-width-video-wrapper {
+  margin: 1em auto; }
 
 blockquote {
   border-left: 3px solid #ddd;
@@ -405,8 +425,7 @@ blockquote {
 pre, code {
   font-family: "Operator Mono SSm A", "Operator Mono SSm B", "Monaco", "Menlo", monospace;
   font-style: normal;
-  font-weight: 500;
-  border: 0.1em solid #ddd; }
+  font-weight: 500; }
 
 pre {
   background: #eee;
@@ -426,8 +445,7 @@ code {
 
 pre code {
   font-size: 0.9em;
-  padding: 0;
-  border: none; }
+  padding: 0; }
 
 .stupid-bigfoot-pre-overflow {
   white-space: pre-line; }
@@ -458,11 +476,10 @@ mark.red {
   background: rgba(255, 0, 0, 0.25); }
 
 ul, ol, dl {
-  padding-left: 2.5em; }
+  padding-left: 2em; }
 
 li {
-  margin: 1em auto;
-  padding-left: 0.25em; }
+  margin: 0.75em auto; }
 
 .table {
   overflow: auto; }
@@ -504,7 +521,7 @@ table {
   border-radius: 0.5em;
   padding: 1.5em;
   font-size: 85%; }
-  .update h3 {
+  .update h4 {
     margin-top: 0; }
   .update a {
     border-bottom: 2px solid #ddd;
@@ -603,21 +620,45 @@ a.foot-note-backref {
   height: 1.75em;
   margin: 1.5em auto auto; }
 
-.homepage-pagination-page-markers {
-  margin: auto; }
-
 .homepage-pagination-older, .homepage-pagination-newer {
-  color: #999; }
+  display: inline-block;
+  border-radius: 1.25em;
+  background: #3f70a2;
+  color: white;
+  width: 100px;
+  font-size: large;
+  padding: 0.75em;
+  text-align: center; }
   .homepage-pagination-older:hover, .homepage-pagination-older:focus, .homepage-pagination-newer:hover, .homepage-pagination-newer:focus {
-    color: #3f70a2; }
+    -webkit-transform: scale(1.05);
+            transform: scale(1.05);
+    -webkit-box-shadow: 0 4px 16px 2px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 16px 2px rgba(0, 0, 0, 0.1); }
+  .homepage-pagination-older:active, .homepage-pagination-newer:active {
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    border: 0.1em solid #eee; }
 
 .homepage-pagination-newer {
   float: right; }
 
 .footer {
-  background: #3f70a2;
   color: white;
-  text-align: center; }
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  min-height: 350px; }
   .footer a {
     color: inherit; }
 
@@ -652,7 +693,7 @@ a.foot-note-backref {
   padding: 0; }
 
 .navigation {
-  padding: 1.5em 0 1.5em 0; }
+  padding: 1em; }
 
 .navigation-list {
   margin: 0.5em;
@@ -675,32 +716,45 @@ a.foot-note-backref {
     -webkit-box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
             box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2); }
   .navigation-list-item:active {
-    -webkit-box-shadow: initial;
-            box-shadow: initial; }
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    border: 0.1em solid #999; }
+
+.footer-search {
+  padding: 1em; }
 
 .footer-search input {
   background-color: #f8f8f8;
   border: 2px solid #ddd;
   border-radius: 0.5em;
   color: #999;
-  max-width: 200px;
+  max-width: 300px;
   padding: 0.5em;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  width: 50%;
-  font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", Avenir, sans-serif; }
+  font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", Avenir, sans-serif;
+  text-align: center; }
   .footer-search input:hover {
     border: 2px solid #999; }
   .footer-search input:active, .footer-search input:focus {
     border: 2px solid #666666;
     outline: none;
     -webkit-box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
-            box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2); }
+            box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
+    text-align: initial; }
+  .footer-search input:active::-webkit-input-placeholder, .footer-search input:focus::-webkit-input-placeholder {
+    opacity: 0; }
+  .footer-search input:active:-ms-input-placeholder, .footer-search input:focus:-ms-input-placeholder {
+    opacity: 0; }
+  .footer-search input:active::-ms-input-placeholder, .footer-search input:focus::-ms-input-placeholder {
+    opacity: 0; }
+  .footer-search input:active::placeholder, .footer-search input:focus::placeholder {
+    opacity: 0; }
 
 .footer-copyright {
   font-size: 0.7em;
   margin: 0;
-  padding: 1.5em 0 1.5em 0; }
+  padding: 1em; }
 
 /* Based on `bigfoot-number.css`
 http://bigfootjs.com/download/bigfoot-number.zip */
@@ -1200,12 +1254,16 @@ body.valentines-2015 {
   .siteheader-heading-logo {
     vertical-align: middle;
     width: 2em; }
+  .entry a {
+    border-bottom: none; }
   blockquote {
     margin: 0.25em; }
+  .postheader > h2,
+  .postheaderlinked > h2,
   h1, h2, h3, h4, h5, h6 {
-    line-height: 1.3; }
-  .main {
-    width: calc(100% - 3em);
+    line-height: 1.2; }
+  .content {
+    width: 100%;
     padding: 1.5em; }
   .homepage-article {
     margin: 1em 0;
@@ -1224,6 +1282,10 @@ body.valentines-2015 {
   .entry ul, .entry ol {
     margin-left: 0.5em;
     padding-left: 0.75em; }
+  img, video {
+    max-width: calc(100% + 3em);
+    margin-left: -1.5em;
+    border-radius: initial; }
   li {
     padding-left: 0; } }
 

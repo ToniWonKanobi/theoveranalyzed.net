@@ -12,7 +12,7 @@ Yeah, I bet Wal-Mart et al. are [feeling pretty stupid right now][1].
 
 <aside class="update">
 
-### Update: CurrentC
+#### Update: CurrentC
 
 August 11, 2015
 <!-- {.updatetime} -->
