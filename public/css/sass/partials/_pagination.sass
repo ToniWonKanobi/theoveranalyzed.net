@@ -4,22 +4,23 @@
   font-size: 1.1em
   font-weight: 400
   height: 1.75em
-  margin: 1.5em auto auto
+  font-weight: 700
+  margin: 3em auto
 
-// Not sure what this was about
 // .homepage-pagination-page-markers
-  margin: auto
+//   margin: 3em auto
 
 // "Older" and "Newer" buttons
 .homepage-pagination-older, .homepage-pagination-newer
   display: inline-block
-  border-radius: 1.25em
+  border-radius: 2em
   background: $blue
   color: white
   width: 100px
   font-size: large
-  padding: 0.75em
-  // transition: all 200ms ease-in-out
+  // The padding is funky here because I'm too stupid to center the text within the <a>. I guess i could make a span and then put the text of the button within that span, and then target that span, but eh
+  padding: 1em 0.75em 0.75em 0.75em;
+  transition: all 100ms ease-in-out
   text-align: center
 
   &:hover, &:focus
