@@ -467,6 +467,12 @@ function tweetLatestPost() {
         var latestPost = postsByDay[0].articles[0];
         // Link for the Tweet
         var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink;
+        // Prefix of the Tweet
+        if (latestPost.metadata.Link !== 'undefined') {
+          var prefix = '→ ';
+        } else {
+            var prefix = '🐺 ';
+        }
 
         // Title/text for the Tweet
         if (lastUrl !== link) {
@@ -475,12 +481,6 @@ function tweetLatestPost() {
           // Figure out how many characters we have to play with.
           // Aka: what should comprise the tweet?
           twitterClient.get('help/configuration', function (error, configuration, response) {
-
-            // Prefix of the Tweet
-            var prefix = "🐺 ";
-            if (latestPost.metadata.Link !== 'undefined') {
-              var prefix = '→ ';
-            }
 
             // Image for the Tweet
             // This assumes that every `Image:` will be a self-hosted one
