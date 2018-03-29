@@ -441,80 +441,80 @@ function allPostsSortedAndGrouped(completion) {
   }
 }
 
-// Automatic posting to Twitter
-function tweetLatestPost() {
-  if (twitterClient !== null && typeof(process.env.TWITTER_CONSUMER_KEY) !== 'undefined') {
-    twitterClient.get('statuses/user_timeline', {screen_name: twitterUsername}, function (error, tweets) {
-      if (error) {
-        console.log(JSON.stringify(error, undefined, 2));
-        return;
-      }
+// // Automatic posting to Twitter
+// function tweetLatestPost() {
+//   if (twitterClient !== null && typeof(process.env.TWITTER_CONSUMER_KEY) !== 'undefined') {
+//     twitterClient.get('statuses/user_timeline', {screen_name: twitterUsername}, function (error, tweets) {
+//       if (error) {
+//         console.log(JSON.stringify(error, undefined, 2));
+//         return;
+//       }
 
-      var lastUrl = null, i = 0;
-      while (lastUrl === null && i < tweets.length) {
-        if (tweets[i].source.has(twitterClientNeedle) &&
-          tweets[i].entities &&
-          tweets[i].entities.urls &&
-          tweets[i].entities.urls.length > 0) {
-          lastUrl = tweets[i].entities.urls[0].expanded_url;
-        } else {
-          i += 1;
-        }
-      }
+//       var lastUrl = null, i = 0;
+//       while (lastUrl === null && i < tweets.length) {
+//         if (tweets[i].source.has(twitterClientNeedle) &&
+//           tweets[i].entities &&
+//           tweets[i].entities.urls &&
+//           tweets[i].entities.urls.length > 0) {
+//           lastUrl = tweets[i].entities.urls[0].expanded_url;
+//         } else {
+//           i += 1;
+//         }
+//       }
 
-      allPostsSortedAndGrouped(function (postsByDay) {
-        // Defines the latest post
-        var latestPost = postsByDay[0].articles[0];
-        // Link for the Tweet
-        var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink;
-        // Prefix of the Tweet
-        if (latestPost.metadata.Link !== 'undefined') {
-          var prefix = '→ ';
-        } else {
-            var prefix = '🐺 ';
-        }
+//       allPostsSortedAndGrouped(function (postsByDay) {
+//         // Defines the latest post
+//         var latestPost = postsByDay[0].articles[0];
+//         // Link for the Tweet
+//         var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink;
+//         // Prefix of the Tweet
+//         if (latestPost.metadata.Link !== 'undefined') {
+//           var prefix = '→ ';
+//         } else {
+//             var prefix = '🐺 ';
+//         }
 
-        // Title/text for the Tweet
-        if (lastUrl !== link) {
-          console.log('Tweeting new link: ' + link);
+//         // Title/text for the Tweet
+//         if (lastUrl !== link) {
+//           console.log('Tweeting new link: ' + link);
 
-          // Figure out how many characters we have to play with.
-          // Aka: what should comprise the tweet?
-          twitterClient.get('help/configuration', function (error, configuration, response) {
+//           // Figure out how many characters we have to play with.
+//           // Aka: what should comprise the tweet?
+//           twitterClient.get('help/configuration', function (error, configuration, response) {
 
-            // Image for the Tweet
-            // This assumes that every `Image:` will be a self-hosted one
-            var image = latestPost.metadata.SiteRoot + latestPost.metadata.Image;
+//             // Image for the Tweet
+//             // This assumes that every `Image:` will be a self-hosted one
+//             var image = latestPost.metadata.SiteRoot + latestPost.metadata.Image;
 
-            // I didn't want a new line after the title
-            // var suffix = " \n\n";
-            var suffix = " ";
+//             // I didn't want a new line after the title
+//             // var suffix = " \n\n";
+//             var suffix = " ";
 
-            // The 140 --> 280 change happened sometime in 2017 I think
-            var maxSize = 240 - configuration.short_url_length_https - prefix.length - suffix.length - image.length;
+//             // The 140 --> 280 change happened sometime in 2017 I think
+//             var maxSize = 240 - configuration.short_url_length_https - prefix.length - suffix.length - image.length;
 
-            // Shorten the title if need be.
-            var title = latestPost.metadata.Title;
-            if (title.length > maxSize) {
-              title = title.substring(0, maxSize - 3) + '...' + ' ';
-            }
+//             // Shorten the title if need be.
+//             var title = latestPost.metadata.Title;
+//             if (title.length > maxSize) {
+//               title = title.substring(0, maxSize - 3) + '...' + ' ';
+//             }
 
-            var params = {
-              status: prefix + title + link + suffix + image
-            };
-            twitterClient.post('statuses/update', params, function (error, tweet, response) {
-                if (error) {
-                  console.log(JSON.stringify(error, undefined, 2));
-                }
-            });
-          });
-        } else {
-            console.log('Twitter is up to date.');
-        }
-      });
-    });
-  }
-}
+//             var params = {
+//               status: prefix + title + link + suffix + image
+//             };
+//             twitterClient.post('statuses/update', params, function (error, tweet, response) {
+//                 if (error) {
+//                   console.log(JSON.stringify(error, undefined, 2));
+//                 }
+//             });
+//           });
+//         } else {
+//             console.log('Twitter is up to date.');
+//         }
+//       });
+//     });
+//   }
+// }
 
 function loadHeaderFooter(file, completion) {
   fs.exists(templateRoot + file, function(exists) {
