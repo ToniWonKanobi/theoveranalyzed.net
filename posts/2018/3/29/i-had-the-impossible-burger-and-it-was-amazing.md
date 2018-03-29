@@ -42,8 +42,7 @@ Placing our order was easy, because the menus featured an incredibly fun and leg
 
 Sure, Gott's could've used any other cutsey and/or scripty font. But if they had the good taste to tap such a renowned font foundry as Hoefler & Co., they *must* have good food too, right?
 
-![Yes, that's Archer on their website, too 🤓][24]
-<!-- {img:.border} -->
+![Yes, that's Archer on their website, too 🤓][24] <!-- {.border} -->
 
 And just to make sure their designers were consistent, I peaked at the source of their [website][25].
 
@@ -67,7 +66,7 @@ While the dining room is unquestionably evocative of the burger joints of old, t
 
 ### The Impossible Burger
 
-[![Allison's veggieburger on the left \(with garlic fries 😆\), and my Impossible Burger on the right \(with normal fries\)][30][31]
+[![Allison's veggieburger on the left \(with garlic fries 😆\), and my Impossible Burger on the right \(with normal fries\)][30]][31]
 
 Allison ordered the veggieburger, just in case the Impossible Burger was too close to a real hamburger patty, which was never that appealing to her (even while she was eating meat).
 
@@ -103,13 +102,13 @@ The Impossible Burger is *almost* impossible. It's too good to be true, but it i
 
 [![][35]][36]
 
-[![][37][38]
+[![][37]][38]
 
-[![][39][40]
+[![][39]][40]
 
-[![][41][42]
+[![][41]][42]
 
-[![][43][44]
+[![][43]][44]
 
 ### What This Means for The Future of Meatless Meats
 
@@ -167,7 +166,7 @@ In ten years, maybe I'll be writing another [blog post][51] about how I just tri
 [34]: https://en.wikipedia.org/wiki/Maillard_reaction "Wikipedia article on the 'Maillard reaction'"
 [35]: /images/happy-to-eat-it.jpg "Picture of me eating the most glorious non-meat burger in the world"
 [36]: https://www.flickr.com/photos/toniwonkanobi/40333174534/in/album-72157694944240145/ "Link to a larger version on flickr"
-[37]: https://www.flickr.com/photos/toniwonkanobi/40333174324/in/album-72157694944240145/ "Link to a larger version on flickr"
+[37]: /images/admiring-the-impossible-burger.jpg "Link to a larger version on flickr"
 [38]: https://www.flickr.com/photos/toniwonkanobi/40333174324/in/album-72157694944240145/ "Link to a larger version on flickr"
 [39]: /images/messy-impossible-burger.jpg "Picture of me making a mess while eating the burger"
 [40]: https://www.flickr.com/photos/toniwonkanobi/40999939032/in/album-72157694944240145/ "Link to a larger version on flickr"
