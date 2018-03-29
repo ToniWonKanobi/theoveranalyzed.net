@@ -42,7 +42,7 @@ Placing our order was easy, because the menus featured an incredibly fun and leg
 
 Sure, Gott's could've used any other cutsey and/or scripty font. But if they had the good taste to tap such a renowned font foundry as Hoefler & Co., they *must* have good food too, right?
 
-![Yes, that's Archer on their website, too 🤓][24] <!-- {.border} -->
+![Yes, that's Archer on their website, too 🤓][24]
 
 And just to make sure their designers were consistent, I peaked at the source of their [website][25].
 

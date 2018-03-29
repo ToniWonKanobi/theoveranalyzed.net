@@ -6,7 +6,6 @@ Tags: Porsche
 Image: /images/pelican-parts-evo-upright-NLA.jpg  
 
 ![EVO uprights are unobtanium—but maybe not for long!][1]
-<!-- {.border} -->
 
 Early on in my [964][2] journey, I had plans to get aftermarket wheels--- presumably period-correct "[Cup 1][3]'s," or maybe even something a little more "[Outlaw][4]"-ish. And my thought was that if I got new wheels, I should also do a suspension setup while I was at it.
 

@@ -8,7 +8,6 @@ Image: /images/tedcruz.com.png
 It looks like [www.tedcruz.com][1] has a neat new homepage:
 
 ![Yes, this really happened.][2]
-<!-- {.border} -->
 
 I seem to remember [something similar][3] happening a few months ago.
 

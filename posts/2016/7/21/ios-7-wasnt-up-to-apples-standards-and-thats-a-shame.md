@@ -5,7 +5,6 @@ Tags: Design
 Image: /images/ios7vs10.jpg  
 
 !["Give a mouse a cookie, and it'll want a glass of milk." (via Luke Wroblewski))][1]
-<!-- {.border} -->
 
 A couple days ago, designer Luke Wroblewski [tweeted][2] an image that made the rounds on "designer Twitter." I've embedded the image above, where Wroblewski compares the ultra lightweight UI of iOS 7 with the *relatively* more weighty iOS 10.
 

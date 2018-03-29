@@ -11,7 +11,6 @@ Image: /images/overcast25.png
 The Dark Theme is my favorite addition to version 2.5:
 
 ![I think I hate Apple's San Francisco typeface][2]
-<!-- {.border} -->
 
 My only problem with Overcast's new Dark Theme is the removal of [Concourse][3], the tightly-tracked sans-serif Marco used in Overcast since it's launch.[^1]
 
@@ -50,7 +49,6 @@ What a perfect way to try out Overcast 2.5's uploads, right?
 First, I located the file:
 
 ![Thanks, right-click menu][5]
-<!-- {.border} -->
 
 Then, I navigated to <https://overcast.fm/upload>:
 
@@ -67,7 +65,6 @@ After that, I should have been ready to go.
 Except this is what I saw when I tried to play the file:
 
 ![Sigh.][6]
-<!-- {.border} -->
 
 What was the problem?
 

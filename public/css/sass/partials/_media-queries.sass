@@ -39,14 +39,18 @@
     // padding: 1.5em
     // width: calc(100% - 3em)
     width: 100%
-    padding: 1.5em
+    padding: 1.25em
 
   .homepage-article
     margin: 1em 0
-    padding: 0.75em 0
+    padding: 1.25em 0
 
     &:hover, &:focus
-      padding: 1.5em
+      padding: 1em
+
+    // &:hover .homepage-teaser-image, &:focus .homepage-teaser-image
+    //   width: calc(100%-2em)
+    //   margin-left: -1em
 
   .homepage-article-separator
     border-width: 0.5em
@@ -66,13 +70,24 @@
       margin-left: 0.5em
       padding-left: 0.75em
 
+      & img
+        max-width: 100%
+
   img, video
-    max-width: calc(100% + 3em)
-    margin-left: -1.5em
-    border-radius: initial
+    max-width: calc(100% + 2.5em)
+    margin-left: -1.25em
+    border-radius: 0
 
   li
     padding-left: 0
+
+  img.border
+    // border: none
+    // border-radius: 0
+
+  .homepage-teaser-image
+    width: 100%
+    margin: auto
 
 @media (max-width: 320px)
   body

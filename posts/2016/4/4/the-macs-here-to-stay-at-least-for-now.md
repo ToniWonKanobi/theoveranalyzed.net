@@ -4,8 +4,7 @@ Description: OS X isn't going anywhere (for a while).
 Tags: Development, Mac  
 Image: /images/uikitformacs.jpg  
 
-![Screenshot of Brent Simmon's blog post][1] <!-- {No figure} -->
-<!-- {.border} -->
+![Screenshot of Brent Simmon's blog post][1]
 
 Here's what Brent Simmons had to say on [porting UIKit to the Mac][2]:
 

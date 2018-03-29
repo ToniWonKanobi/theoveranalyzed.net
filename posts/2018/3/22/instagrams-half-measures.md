@@ -5,7 +5,6 @@ Tags: Apps
 Image: /images/just-bring-back-the-freaking-chrono-timeline.jpg  
 
 ![Close, but no cigar 🚬][1]
-<!-- {.border} -->
 
 In a [press release][2] today, Instagram announced a few changes to their timeline experience:
 

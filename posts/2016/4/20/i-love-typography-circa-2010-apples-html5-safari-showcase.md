@@ -28,22 +28,18 @@ I did what any nerd would have: I checked the Internet Archive.
 <a href="https://web.archive.org/web/20100607220426/http://www.apple.com/html5/showcase/typography" title="Internet Archive's cache of this page"><i>Voilà</i></a>:
 
 ![Thanks Internet Archive][8]
-<!-- {.border} -->
 
 I love that "magazine-style" layout. I've always been drawn to designs like that. (Probably because it relies so heavily on the typographic choices, and that's something I pay a lot of attention to these days).
 
 I couldn't help but break open their source. "How did they do that text tilt thing?"
 
 ![A nifty use of CSS3][9]
-<!-- {.border} -->
 
 And how about the \`50\` squishing into the gray upper-right box?
 
 ![They used some margin and letter spacing to blend the 50 into the gray upper right box][10]
-<!-- {.border} -->
 
 ![Here's me removing their changes to illustrate what they did][11]
-<!-- {.border} -->
 
 You'll notice the little green box in the lower right portion of the demo:
 

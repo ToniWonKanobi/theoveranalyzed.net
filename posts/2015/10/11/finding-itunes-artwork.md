@@ -5,7 +5,6 @@ Tags: Power User, iTunes, Popular
 Image: https://d.pr/i/Zbav+  
 
 ![Ben Dodson's iTunes Artwork Finder][1]
-<!-- {.border} -->
 
 Sometime halfway through dental school, a friend turned me on to the world of digital movies and the ol' `.mkv` container. I spent the better part of 6 months continually perfecting my iTunes media collection---all pirated---using applications like [Subler][2] to remux the `.mkv`'s into `.m4v`'s with artwork and metadata.
 
@@ -31,7 +30,6 @@ Why tell this story? Because every once in a while, I can't find what I want on 
 Specifically, I sometimes wish movies and music albums had different artwork.[^3] That's where Ben Dodson comes in. I stumbled on his website a few years back, and it is the absolute best place to find artwork for everything in the iTunes Store, be it apps, music, movies, TV Shows---you name it. If I decide that I don't like the artwork iTunes has for a particular album, I can just go to Dodson's site, search for the album in question, and then apply that to the files from within the iTunes browser.
 
 ![Searching is super easy. (Even when the results lead to the occasional terribly-curated choice of artwork.][11]
-<!-- {.border} -->
 
 Although Dodson's utility can access plenty of other media types, only iTunes music purchases are [DRM][12]-free. iTunes Movies are *not* DRM-free, so I can't really use Dodson's utility for movies and TV Shows. Still, his resource is invaluable, and it has a permanent place in my Bookmarks Bar in Safari for that very reason.
 

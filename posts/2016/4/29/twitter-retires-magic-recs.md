@@ -6,7 +6,6 @@ Tags: Twitter
 Image: /images/magicrecsbye.jpg  
 
 ![Sad.][1]
-<!-- {.border} -->
 
 [Speaking of][2] Twitter, here's Ingrid Lunden for TechCrunch:
 

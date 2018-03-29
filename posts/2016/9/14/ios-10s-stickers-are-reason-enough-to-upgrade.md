@@ -5,7 +5,6 @@ Tags: iOS
 Image: /images/automojistickers.jpg  
 
 ![Yes, there's a Porsche-themed Sticker pack 🇩🇪][1]
-<!-- {.border} -->
 
 I've been using iOS 10 since the first Public Beta landed this past summer. [As I've said before][2], this release seems to be a step in the right direction for iOS---Apple has restored some of the visual affordances that were starkly stripped away in 2013 with iOS 7.
 
@@ -22,35 +21,30 @@ Here are some of my favorite packs so far:
 1. [Star Wars][4]
 
 	![They're like GIFs!][5]
-	<!-- {.border} -->
 	
 	No well-rounded iOS 10 Stickers collection would be complete without some animated Star Wars characters.
 
 2. [Alto's Adventure][6]
 
 	![🐪 (⬅️ Not a llama emoji)][7]
-	<!-- {.border} -->
 	
 	Who doesn't love Felipe? This set is available for free, and comes packaged with the latest update for Alto's Adventure, 1.4.
 
 3. [Snacks][8]
 
 	![These look good enough to eat.][9]
-	<!-- {.border} -->
 	
 	This pack is from [Parakeet][10]. Some of them might look familiar, because [Louie Mantia][11] and [Alexa Grafera][12] have been creating delicious-looking illustrations for a while.
 
 4. [Pixel World][13]
 
 	![Retro indeed.][14]
-	<!-- {.border} -->
 	
 	The Iconfactory released [several Stickers Packs][15] on Wednesday, but this is my favorite. I love the retro vibe; it's very reminiscent of [BitCam][16].
 
 5. [Automoji for Porsche][17]
 
 	![Can you tell which Sticker Pack is my favorite?][18]
-	<!-- {.border} -->
 	
 	I was wondering if there would be a Porsche-themed pack, and lo and behold: a [Porsche Motorsport][19] [retweet][20] alerted me to this set by [Kevin McCauley][21].
 	

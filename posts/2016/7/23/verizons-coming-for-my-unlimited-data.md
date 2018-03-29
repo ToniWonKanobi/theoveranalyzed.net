@@ -5,7 +5,6 @@ Tags: Culture
 Image: /images/verizonlogo.png  
 
 ![Remember this logo? It's from when they still had unlimited plans (From Wikipedia)][1]
-<!-- {.border} -->
 
 Re-reporting a news originally from [Droid Life][2], Ars Technica's Jon Brodkin had [this][3] to say about Verizon's new threats for its grandfathered unlimited data users:
 
@@ -30,7 +29,6 @@ I've been using that plan for the past three years, and boy has it been a real g
 Well, after a few days, this is how much data I had used:
 
 ![Not quite 100GB, but close.][5]
-<!-- {.border} -->
 
 <span id="thats">That's</span> a lot of data. It's not the "100GB" Verizon mentioned in its press release, but it's getting there.
 

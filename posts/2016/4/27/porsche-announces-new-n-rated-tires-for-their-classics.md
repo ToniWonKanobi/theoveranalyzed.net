@@ -28,7 +28,6 @@ I've always known that sports car manufacturers typically choose the \`current h
 Here's a screenshot from one of three PDFs released today, showing suggested tires for my favorite generation of 911, the 964:
 
 ![Standard, Cup 1 (or Cup 2) wheels? No problem. Porsche has suggested tires for your wheel][4]
-<!-- {.border} -->
 
 [1]: /images/porschentires.jpg "Tire sidewall showing the N rating"
 [2]: http://www.total911.com/porsche-announces-new-n-rated-tyres-for-classic-911s/ "Josh Barrett on the new N-rated tires for classic Porsche's"

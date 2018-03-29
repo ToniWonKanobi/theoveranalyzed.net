@@ -117,7 +117,6 @@ It's easy:
 	Here's [mine][15] in [SCSS/Sass][16], because I forget whether CSS finally has variables:[^2]
 	
 	[![Never have I used so many \`!important\` value additions in my declarations 😞 (More on that later)][17]][18]
-	<!-- {.border} -->
 	
 2. Open Safari preferences, and navigate to the Advanced tab
 3. From the \`Style sheet\` dropdown menu, locate and select the style sheet you created in Step 1
@@ -179,10 +178,8 @@ This is a portion of my style sheet targeting [Marco Arment's blog][19]. I had t
 ```
 
 ![Without specific Marco.org blacklisting. See how the title text isn't vertically centered in the brown masthead?][20]
-<!-- {.border} -->
 
 ![With specific Marco.org blacklisting. See how the title text is now vertically centered in the brown masthead? That's because I made the masthead 'taller.' (Probably would have been better if Marco used \`display: flex;\` in this situation, but what do I know?)][21]
-<!-- {.border} -->
 
 That's just one example. If you dive into my [style sheet][22], you'll see more of what I'm talking about.
 

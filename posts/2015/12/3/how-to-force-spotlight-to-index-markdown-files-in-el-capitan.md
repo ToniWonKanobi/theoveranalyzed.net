@@ -5,7 +5,6 @@ Tags: Power User, Spotlight, Popular
 Image: https://d.pr/i/16cND+  
 
 ![This was the key][1]
-<!-- {.border} -->
 
 Sometime this past summer, I noticed Spotlight was no longer indexing my [Markdown][2] documents. This was problematic because I rely on Spotlight search to locate documents containing markup I want to change. For instance, I recently wanted to decrease my reliance on the generic `<div>` container, and instead use more [semantic][3] tags such as [`<section>`][4] and [`<aside>`][5]. I would have liked to have been able to search Spotlight for all my posts containing the string of text `<div class="update">`, so I could change that to `<aside class="update">`.
 
@@ -18,7 +17,6 @@ Several clean restores and countless [Spotlight re-indexes][11] later, the issue
 It was maddening.
 
 ![I hate you Spotlight.][12]
-<!-- {.border} -->
 
 Then this morning I had a breakthrough.
 
@@ -43,7 +41,6 @@ Here's how I fixed it:
 2. Move `Markdown.mdimporter` to `/Library/Spotlight`
 
 	![Put the mdimporter here][15]
-	<!-- {.border} -->
 	
 	**This is important:** Don't move it to the "user" directory as Lipschitz suggests (`~/Library/Spotlight`)---put it in the System's Library folder (`/Library/Spotlight`) as I've detailed above
 	
@@ -58,7 +55,6 @@ Here's how I fixed it:
 	And done:
 	
 	![Ahh.][17]
-	<!-- {.border} -->
 
 ***
 

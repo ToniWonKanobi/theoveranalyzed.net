@@ -6,7 +6,6 @@ Tags: Apps
 Image: /images/instapapernewsearch.jpg  
 
 ![New Search features for Instapaper][1]
-<!-- {.border} -->
 
 > For a while now, some of the most consistent feature requests we’ve gotten from users have involved improvements to Instapaper’s full-text search engine. For months now, the existing search infrastructure had been stretched to its current limits. In order to continue scaling and implement a lot of the features you’ve been requesting, we needed to completely rebuild our search infrastructure.
 
@@ -15,7 +14,6 @@ In the past, searching for a saved article in Instapaper has been less than idea
 I tested the new Search and it had pretty decent results:
 
 ![Yay---it found the right saved item!][2]
-<!-- {.border} -->
 
 Also, the new and improved Search is currently only available via the webapp---not iOS (at least for now):
 

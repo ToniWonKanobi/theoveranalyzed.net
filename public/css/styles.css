@@ -1268,12 +1268,12 @@ body.valentines-2015 {
     line-height: 1.2; }
   .content {
     width: 100%;
-    padding: 1.5em; }
+    padding: 1.25em; }
   .homepage-article {
     margin: 1em 0;
-    padding: 0.75em 0; }
+    padding: 1.25em 0; }
     .homepage-article:hover, .homepage-article:focus {
-      padding: 1.5em; }
+      padding: 1em; }
   .homepage-article-separator {
     border-width: 0.5em;
     margin: 1em auto; }
@@ -1286,12 +1286,17 @@ body.valentines-2015 {
   .entry ul, .entry ol {
     margin-left: 0.5em;
     padding-left: 0.75em; }
+    .entry ul img, .entry ol img {
+      max-width: 100%; }
   img, video {
-    max-width: calc(100% + 3em);
-    margin-left: -1.5em;
-    border-radius: initial; }
+    max-width: calc(100% + 2.5em);
+    margin-left: -1.25em;
+    border-radius: 0; }
   li {
-    padding-left: 0; } }
+    padding-left: 0; }
+  .homepage-teaser-image {
+    width: 100%;
+    margin: auto; } }
 
 @media (max-width: 320px) {
   body {
