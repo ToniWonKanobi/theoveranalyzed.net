@@ -477,12 +477,11 @@ function tweetLatestPost() {
           twitterClient.get('help/configuration', function (error, configuration, response) {
 
             // Prefix of the Tweet
-            if (latestPost.metadata.Link !== 'undefined') {
-              // If the latestPost is a Linked Post, prefix the tweet with the `arrow`
-              var prefix = '→ ';
-                // If the latestPost is not a Linked Post, prefix the tweet with the `🐺` emoji
+            var prefix {
+              if (latestPost.metadata.Link !== 'undefined') {
+                return '→ '
               } else {
-                  var prefix = '🐺 ';
+                  return = "🐺 "
               }
             }
 
