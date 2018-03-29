@@ -465,23 +465,8 @@ function tweetLatestPost() {
       allPostsSortedAndGrouped(function (postsByDay) {
         // Defines the latest post
         var latestPost = postsByDay[0].articles[0];
-
-        // Prefix of the Tweet
-        var prefix = if (latestPost.metadata.Link !== 'undefined') {
-          // If the latestPost is a Linked Post, prefix the tweet with the `arrow`
-          return '→ ';
-          // If the latestPost is not a Linked Post, prefix the tweet with the `🐺` emoji
-          } else {
-            return '🐺 ';
-          }
-        }
-
         // Link for the Tweet
-        var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink + ' ';
-
-        // Image for the Tweet
-        // This assumes that every `Image:` will be a self-hosted one
-        var image = latestPost.metadata.SiteRoot + latestPost.metadata.Image;
+        var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink;
 
         // Title/text for the Tweet
         if (lastUrl !== link) {
@@ -491,20 +476,35 @@ function tweetLatestPost() {
           // Aka: what should comprise the tweet?
           twitterClient.get('help/configuration', function (error, configuration, response) {
 
+            // Prefix of the Tweet
+            if (latestPost.metadata.Link !== 'undefined') {
+              // If the latestPost is a Linked Post, prefix the tweet with the `arrow`
+              var prefix = '→ ';
+                // If the latestPost is not a Linked Post, prefix the tweet with the `🐺` emoji
+              } else {
+                  var prefix = '🐺 ';
+              }
+            }
+
+            // Image for the Tweet
+            // This assumes that every `Image:` will be a self-hosted one
+            var image = latestPost.metadata.SiteRoot + latestPost.metadata.Image;
+
             // I didn't want a new line after the title
             // var suffix = " \n\n";
+            var suffix = " ";
 
             // The 140 --> 280 change happened sometime in 2017 I think
-            var maxSize = 240 - configuration.short_url_length_https - prefix.length - image.length;
+            var maxSize = 240 - configuration.short_url_length_https - prefix.length - suffix.length - image.length;
 
             // Shorten the title if need be.
             var title = latestPost.metadata.Title;
             if (title.length > maxSize) {
               title = title.substring(0, maxSize - 3) + '...' + ' ';
             }
-            
+
             var params = {
-              status: prefix + title + link + image
+              status: prefix + title + link + suffix + image
             };
             twitterClient.post('statuses/update', params, function (error, tweet, response) {
                 if (error) {
