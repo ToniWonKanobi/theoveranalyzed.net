@@ -234,7 +234,7 @@ If you haven't already done so, try playing around with a custom style sheet in 
 [19]: https://marco.org "Marco Arment's blog"
 [20]: /images/marcoorg-without-blacklist.jpg "Marco.org without specific 'fixes' applied"
 [21]: /images/marcoorg-with-blacklist.jpg "Marco.org with specific 'fixes' applied"
-[22]: https://gist.github.com/ToniWonKanobi/75542d646685fb355778d50f962086ed "Link to a `custom.scss` as a public gist on GitHub"
+[22]: https://github.com/ToniWonKanobi/TheSaneSafariCustomStyleSheet/blob/master/custom.sass "Link to a TheSaneSafariCustomStyleSheet on GitHub"
 [23]: https://www.w3.org/TR/html401/present/styles.html#h-14.2.2 "W3C post about inline styles"
 [24]: https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity "Smashing Magazine post on specificity"
 
