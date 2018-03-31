@@ -154,12 +154,10 @@ pre code
 .stupid-bigfoot-pre-overflow
   white-space: pre-line
 
-// I wish I could get this to work :/
-// pre code:before
-//  counter-increment: line
-//  content: counter(line)
-//  padding-right: 1em
-
+// What I wish for: https://developer.mozilla.org/en-US/docs/Web/CSS/:has
+// .entry a:has(code)
+  // This would make it so that there wouldn't be that gray underline for `code` that is a child of `a` (right now, the blocky border bottom of all `a`'s sort of clashes with the border radius on all `code` :/)
+  // border-bottom: none
 // This is hacky
 a code
   padding-bottom: 0.4em
@@ -272,6 +270,7 @@ table
   font-size: 0.9em
   margin-top: 0.5em
 
+// Makes it "***"
 hr
   border: none
   color: #555
@@ -286,6 +285,7 @@ hr
     position: relative
     top: 0.2em
 
+// Styles <hr>'s that are like the traditional whole line
 .long
   border-radius: $borderRadius
   border: 1px solid $gray
@@ -295,20 +295,22 @@ hr
   &:after
     content: normal
 
-h3, h4, h5, h6
-  // Targets head-anchors in the text
-  .header-anchor
-    opacity: 0
-    border-bottom: none
-    font-size: 75%
+// Targets head-anchors in the text
+.header-anchor
+  opacity: 0
+  border-bottom: none
+  font-size: 75%
+  // Moves it up a bit
+  vertical-align: 9%
 
-    &:hover, &:focus
-      // opacity: 1
-      background: none
-
-  &:hover .header-anchor, &:focus .header-anchor
+  &:hover, &:focus
     opacity: 1
     background: none
 
+  // &:hover .header-anchor, &:focus .header-anchor
+  //   opacity: 1
+  //   background: none
+
+// The .page class is the class applied to all non-post pages like about.md
 .page .header-anchor
   border-bottom: none

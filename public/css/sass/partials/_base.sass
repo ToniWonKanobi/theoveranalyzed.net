@@ -14,6 +14,7 @@ h1, h2, h3, h4, h5, h6
   font-weight: 600
   margin: 2em auto -0.25em auto
 
+  // If headings are links, don't underline them because it looks messy
   .entry &
     a
       border-bottom: none
@@ -50,11 +51,6 @@ a
 .homepage-day:first-of-type .homepage-article:first-of-type
   margin-top: 0
 
-// What I wish for: https://developer.mozilla.org/en-US/docs/Web/CSS/:has
-// .entry a:has(code)
-  // This would make it so that there wouldn't be that gray underline for `code` that is a child of `a` (right now, the blocky border bottom of all `a`'s sort of clashes with the border radius on all `code` :/)
-  // border-bottom: none
-
   // Styles the homepage
   .homepage-article:hover &, .homepage-article:focus &
     border-bottom-color: darken(white,30%)
@@ -64,8 +60,11 @@ a
       border-bottom-color: white
       color: $blue
 
+// All links in the content of posts
 .entry a,
+// "Read More" links on the homepage
 .homepage-article-readmore,
+// All links in the content of pages
 .page + .entry a
   border-bottom: 0.25em solid $lightgray
 
@@ -76,6 +75,7 @@ a
   &:visited
     color: $visitedpurple
 
+// Removing underlines in tags and date pages
 .tags + .entry a,
 .eachtag + .entry a,
 .year + .entry a,
@@ -90,9 +90,9 @@ a
   &:visited
     color: $visitedpurple
 
-// Experiemntal "grow from the bottom border thing mode like on Wired website" 
-// Basically uses box-shadow insetting to hide the background
-// http://joewilcox.com/2010/07/14/ken-hansen-mr-leica/
+// // Experiemntal "grow from the bottom border thing mode like on Wired website"
+// // Basically uses box-shadow insetting to hide the background
+// // http://joewilcox.com/2010/07/14/ken-hansen-mr-leica/
 //    &:hover, &:focus
 //      background: white
 //      border-bottom-color: white
@@ -118,12 +118,7 @@ a
   background: white
   margin: 0 auto
   box-sizing: border-box
-
-  // Target width is ~700px, so have to do `calc()` to account for padding (somewhat arbitrary)
-  // max-width: calc(750px - 4em)
   max-width: 700px
-  // This seems hacky
-  // min-height: 55vh
   // This is so gangster. So I defined heights of the header (.siteheader), main (.content), and the footer (.footer) elsewhere
   min-height: calc(100vh - 15vmax - 350px)
   padding: 2em

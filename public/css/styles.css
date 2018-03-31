@@ -161,6 +161,12 @@ a {
 
 .homepage-day:first-of-type .homepage-article:first-of-type {
   margin-top: 0; }
+  .homepage-article:hover .homepage-day:first-of-type .homepage-article:first-of-type, .homepage-article:focus .homepage-day:first-of-type .homepage-article:first-of-type {
+    border-bottom-color: #b3b2b2; }
+    .homepage-article:hover .homepage-day:first-of-type .homepage-article:first-of-type:hover, .homepage-article:hover .homepage-day:first-of-type .homepage-article:first-of-type:focus, .homepage-article:focus .homepage-day:first-of-type .homepage-article:first-of-type:hover, .homepage-article:focus .homepage-day:first-of-type .homepage-article:first-of-type:focus {
+      background: white;
+      border-bottom-color: white;
+      color: #3f70a2; }
 
 .entry a,
 .homepage-article-readmore,
@@ -602,16 +608,14 @@ hr {
   .long:after {
     content: normal; }
 
-h3 .header-anchor, h4 .header-anchor, h5 .header-anchor, h6 .header-anchor {
+.header-anchor {
   opacity: 0;
   border-bottom: none;
-  font-size: 75%; }
-  h3 .header-anchor:hover, h3 .header-anchor:focus, h4 .header-anchor:hover, h4 .header-anchor:focus, h5 .header-anchor:hover, h5 .header-anchor:focus, h6 .header-anchor:hover, h6 .header-anchor:focus {
+  font-size: 75%;
+  vertical-align: 9%; }
+  .header-anchor:hover, .header-anchor:focus {
+    opacity: 1;
     background: none; }
-
-h3:hover .header-anchor, h3:focus .header-anchor, h4:hover .header-anchor, h4:focus .header-anchor, h5:hover .header-anchor, h5:focus .header-anchor, h6:hover .header-anchor, h6:focus .header-anchor {
-  opacity: 1;
-  background: none; }
 
 .page .header-anchor {
   border-bottom: none; }
