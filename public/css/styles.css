@@ -340,6 +340,14 @@ a {
     border-bottom: none; }
   .table-of-contents a::visited {
     color: #3b3b3b; }
+  .table-of-contents li {
+    -webkit-transition: -webkit-transform 300ms ease-in-out;
+    transition: -webkit-transform 300ms ease-in-out;
+    transition: transform 300ms ease-in-out;
+    transition: transform 300ms ease-in-out, -webkit-transform 300ms ease-in-out; }
+    .table-of-contents li:hover, .table-of-contents li:active {
+      -webkit-transform: scale(1.01);
+              transform: scale(1.01); }
 
 figure {
   margin: 1em auto; }

@@ -8,22 +8,28 @@
   margin: 4em auto 2em auto
   font-size: 95%
 
-  & h4
+  h4
     margin-top: 0.75em
 
-  & ul
+  ul
     list-style-type: square
     padding-left: 1em
 
-  & li
+  li
     margin: 0.5em auto 0.5em 1em
 
-  & a
+  a
     color: $black
     border-bottom: none
 
-  & a::visited
+  a::visited
     color: $black
+
+  li
+    transition: transform 300ms ease-in-out
+
+    &:hover, &:active
+      transform: scale(1.01)
 
 figure
   margin: 1em auto
