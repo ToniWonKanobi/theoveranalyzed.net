@@ -1,6 +1,7 @@
 Title: The Newsletter  
 Date: 2016-01-16 16:21  
-Description: This page talks about how to subscribe to TheOverAnalyzed Newsletter   
+Description: This page talks about how to subscribe to TheOverAnalyzed Newsletter  
+BodyClass: page  
 
 ### Why a Newsletter?
 

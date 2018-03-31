@@ -1,6 +1,7 @@
 Title: Now  
 Date: 2016-01-16 16:21  
 Description: This is what I'm up to recently  
+BodyClass: page  
 
 What I'm up to these days:[^1]
 

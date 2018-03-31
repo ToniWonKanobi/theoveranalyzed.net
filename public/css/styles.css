@@ -162,11 +162,42 @@ a {
 .homepage-day:first-of-type .homepage-article:first-of-type {
   margin-top: 0; }
 
-.entry a, .homepage-article-readmore {
+.entry a,
+.homepage-article-readmore,
+.page + .entry a {
   border-bottom: 0.25em solid #eee; }
-  .entry a:hover, .entry a:focus, .homepage-article-readmore:hover, .homepage-article-readmore:focus {
+  .entry a:hover, .entry a:focus,
+  .homepage-article-readmore:hover,
+  .homepage-article-readmore:focus,
+  .page + .entry a:hover,
+  .page + .entry a:focus {
     background: #eee; }
-  .entry a:visited, .homepage-article-readmore:visited {
+  .entry a:visited,
+  .homepage-article-readmore:visited,
+  .page + .entry a:visited {
+    color: #834c7f; }
+
+.tags + .entry a,
+.eachtag + .entry a,
+.year + .entry a,
+.month + .entry a,
+.day + .entry a {
+  border-bottom: none; }
+  .tags + .entry a:hover, .tags + .entry a:focus,
+  .eachtag + .entry a:hover,
+  .eachtag + .entry a:focus,
+  .year + .entry a:hover,
+  .year + .entry a:focus,
+  .month + .entry a:hover,
+  .month + .entry a:focus,
+  .day + .entry a:hover,
+  .day + .entry a:focus {
+    background: #eee; }
+  .tags + .entry a:visited,
+  .eachtag + .entry a:visited,
+  .year + .entry a:visited,
+  .month + .entry a:visited,
+  .day + .entry a:visited {
     color: #834c7f; }
 
 .container {
@@ -338,8 +369,8 @@ a {
   .table-of-contents a {
     color: #3b3b3b;
     border-bottom: none; }
-  .table-of-contents a::visited {
-    color: #3b3b3b; }
+    .table-of-contents a:visited {
+      color: #3b3b3b; }
   .table-of-contents li {
     -webkit-transition: -webkit-transform 300ms ease-in-out;
     transition: -webkit-transform 300ms ease-in-out;
@@ -581,6 +612,9 @@ h3 .header-anchor, h4 .header-anchor, h5 .header-anchor, h6 .header-anchor {
 h3:hover .header-anchor, h3:focus .header-anchor, h4:hover .header-anchor, h4:focus .header-anchor, h5:hover .header-anchor, h5:focus .header-anchor, h6:hover .header-anchor, h6:focus .header-anchor {
   opacity: 1;
   background: none; }
+
+.page .header-anchor {
+  border-bottom: none; }
 
 .footnote-ref a {
   border-bottom: none;

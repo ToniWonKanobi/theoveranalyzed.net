@@ -468,7 +468,8 @@ function tweetLatestPost() {
         // Link for the Tweet
         var link = latestPost.metadata.SiteRoot + latestPost.metadata.relativeLink;
         // Prefix of the Tweet
-        if (latestPost.metadata.Link !== 'undefined') {
+        if (typeof(latestPost.metadata.Link) !== 'undefined') {
+        // if (latestPost.metadata.Link !== 'undefined') {
           var prefix = '→ ';
         } else {
             var prefix = '🐺 ';
@@ -750,13 +751,13 @@ function loadAndSendMarkdownFile(file, response) {
   }
 }
 
-// Sends a listing of an entire year's posts.
+// Year
 function sendYearListing(request, response) {
   var year = request.params.slug;
   var retVal = '';
   retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
 //  retVal += '<header><h2>Posts for ' + year + '</h2></header>';
-  retVal += '<header><h2>Posts for ' + year + '</h2></header>';
+  retVal += '<header class=\"year\"><h2>Posts for ' + year + '</h2></header>';
 
   var currentMonth = null;
   var anyFound = false;
@@ -1117,7 +1118,7 @@ app.get('/tags', function (request, response) {
   allPostsSortedAndGrouped(function (postsByDay) {
     var retVal = '';
     retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-    retVal += "<header><h2>Tags</h2></header>";
+    retVal += "<header class=\"tags\"><h2>Tags</h2></header>";
     retVal += performMetadataReplacements([], postBodyStartTemplate([]) );
     postsByDay.each(function (day) {
       day['articles'].each(function (article) {
@@ -1186,7 +1187,7 @@ app.get('/tags/:tag', function (request, response) {
   allPostsSortedAndGrouped(function (postsByDay) {
     var retVal = '';
     retVal += performMetadataReplacements([], singleHeaderTemplate([]) );
-    retVal += '<header><h2>' + 'Posts tagged ' + '<i>' + thetag + '</i>' + '</h3></header>';
+    retVal += '<header class=\"eachtag\"><h2>' + 'Posts tagged ' + '<i>' + thetag + '</i>' + '</h3></header>';
     retVal += performMetadataReplacements([], postBodyStartTemplate([]) );
     retVal += '<ul>';
 
@@ -1253,7 +1254,7 @@ app.get('/:year/:month', function (request, response) {
 
     var html = '';
     html += performMetadataReplacements([], singleHeaderTemplate([]) );
-    html += '<header><h2>' + seekingDay.format('{Month} {yyyy}') + "</h2></header>";
+    html += '<header class=\"month\"><h2>' + seekingDay.format('{Month} {yyyy}') + "</h2></header>";
     html += performMetadataReplacements([], postBodyStartTemplate([]) );
 
     var anyFound = false;
@@ -1305,7 +1306,7 @@ app.get('/:year/:month/:day', function (request, response) {
 
         var html = '';
         html += performMetadataReplacements([], singleHeaderTemplate([]) );
-        html += "<header><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
+        html += "<header class=\"day\"><h2>Posts from " + seekingDay.format('{Weekday}, {Month} {d}, {yyyy}') + "</h2></header>";
         html += performMetadataReplacements([], postBodyStartTemplate([]) );
         html += "<ul>";
         var anyFound = false;

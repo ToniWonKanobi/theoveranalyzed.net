@@ -1,7 +1,8 @@
 Title: About  
 Date: 2016-01-16 16:21  
 Description: Info about me and TheOverAnalyzed  
-Image: /images/toni.jpg
+Image: /images/toni.jpg  
+BodyClass: page  
 
 Hi! I'm Anthony, and this is my blog 🤓
 

@@ -64,8 +64,24 @@ a
       border-bottom-color: white
       color: $blue
 
-.entry a, .homepage-article-readmore
+.entry a,
+.homepage-article-readmore,
+.page + .entry a
   border-bottom: 0.25em solid $lightgray
+
+  &:hover, &:focus
+    // border-bottom: none
+    background: $lightgray
+
+  &:visited
+    color: $visitedpurple
+
+.tags + .entry a,
+.eachtag + .entry a,
+.year + .entry a,
+.month + .entry a,
+.day + .entry a,
+  border-bottom: none
 
   &:hover, &:focus
     // border-bottom: none

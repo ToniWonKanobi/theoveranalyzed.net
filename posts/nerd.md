@@ -1,6 +1,7 @@
 Title: Nerdy Stuff  
 Date: 2016-01-16 16:21  
 Description: This page contains additional information about the site not covered in /about  
+BodyClass: page  
 
 ### The Apps I Use
 

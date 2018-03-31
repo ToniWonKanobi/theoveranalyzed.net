@@ -22,8 +22,8 @@
     color: $black
     border-bottom: none
 
-  a::visited
-    color: $black
+    &:visited
+      color: $black
 
   li
     transition: transform 300ms ease-in-out
@@ -296,7 +296,6 @@ hr
     content: normal
 
 h3, h4, h5, h6
-
   // Targets head-anchors in the text
   .header-anchor
     opacity: 0
@@ -310,3 +309,6 @@ h3, h4, h5, h6
   &:hover .header-anchor, &:focus .header-anchor
     opacity: 1
     background: none
+
+.page .header-anchor
+  border-bottom: none
