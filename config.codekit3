@@ -7,7 +7,7 @@
 		"uuidString": "C0311D84-5766-41B3-B126-8DD0EA755BDC"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26667",
 "files": {
 	"\/archive": {
 		"ft": 65536,
@@ -47,6 +47,45 @@
 		"oA": 0,
 		"oAP": "\/LICENSE",
 		"oF": 0
+		},
+	"\/mailchimp\/mailchimp.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/mailchimp\/mailchimp-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/mailchimp\/mailchimp.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/mailchimp\/mailchimp.css.map",
+		"oF": 0
+		},
+	"\/mailchimp\/mailchimp.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/mailchimp\/mailchimp.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/mailchimp\/mailchimp.sass": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/mailchimp\/mailchimp.css",
+		"oF": 2,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/node_modules": {
 		"ft": 65536,
@@ -998,20 +1037,6 @@
 		"oAP": "\/build\/public\/js",
 		"oF": 0
 		},
-	"\/public\/mailchimp\/.sass-cache\/b57eab7ce34bf9fe4f3ee5a58a8cb3a1d0443299\/mailchimp.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/public\/mailchimp\/.sass-cache\/b57eab7ce34bf9fe4f3ee5a58a8cb3a1d0443299\/mailchimp.scssc",
-		"oF": 1
-		},
-	"\/public\/mailchimp\/mailchimp.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/public\/mailchimp\/mailchimp.html",
-		"oF": 1
-		},
 	"\/public\/movies": {
 		"ft": 65536,
 		"oA": 1,
@@ -1191,7 +1216,8 @@
 	"creationDate": 540237788,
 	"displayValue": "theoveranalyzed",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "\/public\/images\/favicon-square.png"
+	"iconImageName": "\/public\/images\/favicon-square.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2994,6 +3020,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7099154/750568/css/fonts.css">
+  </head>
+  <body>
+    <style>body {
+  margin: 0;
+  padding: 0;
+  font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", Avenir;
+  font-weight: 500;
+  line-height: 1.55; }
+
+.container {
+  box-sizing: border-box;
+  max-width: 650px;
+  margin: auto;
+  padding: 1em; }
+
+header, footer {
+  text-align: center; }
+
+img {
+  width: 50%;
+  max-width: 300px; }
+
+footer {
+  margin-top: 5em;
+  padding-top: 1em;
+  border-top: 0.3em solid lightgray;
+  font-size: 0.9em; }
+
+address {
+  font-style: normal; }
+
+.unsub-container {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  @media all and (max-width: 400px) {
+    .unsub-container {
+      flex-direction: column; } }
+
+.unsub-item {
+  margin: auto 1em; }
+
+/*# sourceMappingURL=mailchimp.css.map */
+    </style>
+    <div class="container">
+      <header>
+        <h1 hidden>TheOverAnalyzed Newsletter</h1><a href="http://theoveranalyzed.net" title="Visit TheOverAnalyzed in a web browser"><img src="http://theoveranalyzed.net/images/mailchimplogo.svg" title="TheOverAnalyzed's logo"></a>
+      </header>
+      <main>
+        <h2>New Posts</h2>
+        <div>*|RSSITEMS:|*
+          <ul>
+            <li><span><a href="*|RSSITEM:URL|*" title="Link to post"><span>*|RSSITEM:TITLE|*</span></a></span></li>
+          </ul>
+        </div>
+        <div>*|END:RSSITEMS|*</div>
+      </main>
+      <footer>
+        <p>This email was sent to <a href="mailto:*|EMAIL|*" title="This email was sent to _this_ email address">*|EMAIL|*</a></p>
+        <p class="unsub-container"><span class="unsub-item"><a href="*|ABOUT_LIST|*" title="Link to subscription information">Why did I get this?</a></span><span class="unsub-item"><a href="*|UNSUB|*" title="Click to unsubscribe (sad)">Unsubscribe</a></a></span><span class="unsub-item"><a href="*|UPDATE_PROFILE|*" title="Modify subscription preferences">Subscription Preferences</a></span></p>
+        <p>
+          <address title="This is the fakest address ever. If you think this exists, I don't know if we can be friends.">TheOverAnalyzed<br>123 CAN-SPAM Act Road<br>Dumb, CA 12345 USA</address>
+        </p>
+        <p>*|REWARDS|*</p>
+      </footer>
+    </div>
+  </body>
+</html>

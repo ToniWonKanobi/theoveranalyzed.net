@@ -23,7 +23,7 @@ You may have stumbled upon [casting sessions][5] during the early stages of the 
 
 But my subsequent viewings of <i>The Office</i> were more nuanced. Sure, the show is a comedy. There's no changing that. But there are *also* some really heartfelt moments that sort of get glossed over the first time through.
 
-Remember "Business School," when Micheal goes to Pam's art show?
+Remember "Business School," when Michael goes to Pam's art show?
 
 ![Get's me every time 😭][6]
 
