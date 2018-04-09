@@ -12,7 +12,7 @@ html(lang="en")
     .container
       header
         h1(hidden) TheOverAnalyzed Newsletter
-        a(href="http://theoveranalyzed.net" title="Visit TheOverAnalyzed in a web browser")
+        a.image-container(href="http://theoveranalyzed.net" title="Visit TheOverAnalyzed in a web browser")
           img(src="http://theoveranalyzed.net/images/mailchimplogo.svg" title="TheOverAnalyzed's logo")
 
       main
@@ -26,7 +26,8 @@ html(lang="en")
         div *|END:RSSITEMS|*
 
       footer
-        p This email was sent to <a href="mailto:*|EMAIL|*" title="This email was sent to _this_ email address">*|EMAIL|*</a>
+        //- For whatever reason, I had to put these stupid inline styles to make everything aligned---even though it's in the freaking CSS!
+        p(style="text-align: center;") This email was sent to <a href="mailto:*|EMAIL|*" title="This email was sent to _this_ email address">*|EMAIL|*</a>
         p.unsub-container
           span.unsub-item
             a(href="*|ABOUT_LIST|*" title="Link to subscription information") Why did I get this?
@@ -34,11 +35,11 @@ html(lang="en")
             a(href="*|UNSUB|*" title="Click to unsubscribe (sad)") Unsubscribe</a>
           span.unsub-item
             a(href="*|UPDATE_PROFILE|*" title="Modify subscription preferences") Subscription Preferences
-        p
-          address(title="This is the fakest address ever. If you think this exists, I don't know if we can be friends.")
+        p(style="text-align: center;")
+          address( style="text-align: center;" title="This is the fakest address ever. If you think this exists, I don't know if we can be friends.")
             | TheOverAnalyzed
             br
             | 123 CAN-SPAM Act Road
             br
             | Dumb, CA 12345 USA
-        p *|REWARDS|*
+        p.rewards-container(style="text-align: center;") *|REWARDS|*

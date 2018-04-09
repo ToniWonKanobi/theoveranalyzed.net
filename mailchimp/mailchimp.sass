@@ -1,39 +1,66 @@
 body
   margin: 0
   padding: 0
+  background: #3f70a2
   font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", Avenir
   font-weight: 500
   line-height: 1.55
 
 .container
+  background: white
   box-sizing: border-box
-  max-width: 650px
+  max-width: 600px
   margin: auto
-  padding: 1em
+  padding: 2em
+
+  // Makes the padding not so crazy spacious on small displays
+  @media all and (max-width: 400px)
+    padding: 1em
+
+.image-container
+  padding: 2em
 
 header, footer
   text-align: center
 
 img
   width: 50%
-  max-width: 300px
+  max-width: 200px
+
+a
+  color: #3f70a2
+  text-decoration: none
+  transition: all 200ms ease-in-out
+
+  &:not(.image-container):hover,
+  &:not(.image-container):focus
+    background: lighten(lightgray, 10%)
+
+  .rewards-container &:hover,
+  .rewards-container &:focus
+    background: initial
 
 footer
-  margin-top: 5em
+  margin-top: 8em
   padding-top: 1em
   border-top: 0.3em solid lightgray
   font-size: 0.9em
 
-address
-  font-style: normal
+  img
+    max-width: 150px
 
+// Makes all three links evenly-spaced
 .unsub-container
   display: flex
   align-items: center
   justify-content: center
 
-  @media all and (max-width: 400px)
+  // Makes the unsub items go to column mode on mobile
+  @media all and (max-width: 600px)
     flex-direction: column
 
 .unsub-item
   margin: auto 1em
+
+address
+  font-style: normal
