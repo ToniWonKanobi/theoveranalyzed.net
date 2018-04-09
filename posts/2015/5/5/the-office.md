@@ -1,7 +1,7 @@
 Title: The Office (And Other Favorite TV Shows)  
 Date: 2015-05-05 20:24  
 Description: The Office is one of my favorite TV shows ever. I have a few others 📺  
-Tags: The Office, JAG, Gilmore Girls  
+Tags: Television, The Office, JAG, Gilmore Girls  
 Image: https://d.pr/i/1kek5+  
 Video: https://www.youtube.com/watch?v=Vmb1tqYqyII  
 
@@ -66,7 +66,7 @@ The show <s>must</s> did go on. We haven't watched the remaining episodes yet,[^
 
 [^1]: ❤️
 [^2]: [😷][a]
-[^3]: I cheated and read ahead a bit. The [final episode][b]) of the show is a rather special one, and is probably worth watching even if I don't watch every episode in the remaining two seasons.
+[^3]: I cheated and read ahead a bit. The [final episode][b] of the show is a rather special one, and is probably worth watching even if I don't watch every episode in the remaining two seasons.
 
 [a]: https://twitter.com/anthonycraigdds "My dental personal Twitter account"
 [b]: https://en.wikipedia.org/wiki/Finale_(The_Office) "Wikipedia: 'The Office' Finale"
