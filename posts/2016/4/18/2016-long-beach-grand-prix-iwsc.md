@@ -1,7 +1,7 @@
 Title: 2016 Long Beach Grand Prix (IMSA WeatherTech SportsCar Champsionship)  
 Date: 2016-04-18 18:53  
 Description: I hope you care about racing, because this post is full of it.  
-Tags: Porsche, Racing  
+Tags: Porsche, Motorsports  
 Image: https://pbs.twimg.com/media/CgNIOHwUMAA536P.jpg  
 Video: https://d.pr/v/aRTVZo+  
 

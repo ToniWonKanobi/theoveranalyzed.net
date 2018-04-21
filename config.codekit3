@@ -7,7 +7,7 @@
 		"uuidString": "C0311D84-5766-41B3-B126-8DD0EA755BDC"
 		}
 	],
-"creatorBuild": "26667",
+"creatorBuild": "26680",
 "files": {
 	"\/archive": {
 		"ft": 65536,
@@ -63,6 +63,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/mailchimp\/mailchimp.css.map",
+		"oF": 0
+		},
+	"\/mailchimp\/mailchimp.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/mailchimp\/mailchimp.html",
 		"oF": 0
 		},
 	"\/mailchimp\/mailchimp.pug": {
