@@ -17,13 +17,13 @@ body
   @media all and (max-width: 400px)
     padding: 1em
 
-.image-container
+.header-image-container
   padding: 2em
 
 header, footer
   text-align: center
 
-img
+.header-image
   width: 50%
   max-width: 200px
 
@@ -32,8 +32,8 @@ a
   text-decoration: none
   transition: all 200ms ease-in-out
 
-  &:not(.image-container):hover,
-  &:not(.image-container):focus
+  &:not(.header-image-container):hover,
+  &:not(.header-image-container):focus
     background: lighten(lightgray, 10%)
 
   .rewards-container &:hover,
@@ -46,8 +46,8 @@ footer
   border-top: 0.3em solid lightgray
   font-size: 0.9em
 
-  img
-    max-width: 150px
+.rewards-image
+  width: 100px
 
 // Makes all three links evenly-spaced
 .unsub-container

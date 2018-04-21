@@ -620,6 +620,9 @@ hr {
 .page .header-anchor {
   border-bottom: none; }
 
+.post .entry {
+  margin-bottom: 6em; }
+
 .footnote-ref a {
   border-bottom: none;
   color: #999; }

@@ -24,13 +24,13 @@
     .container {
       padding: 1em; } }
 
-.image-container {
+.header-image-container {
   padding: 2em; }
 
 header, footer {
   text-align: center; }
 
-img {
+.header-image {
   width: 50%;
   max-width: 200px; }
 
@@ -38,7 +38,7 @@ a {
   color: #3f70a2;
   text-decoration: none;
   transition: all 200ms ease-in-out; }
-  a:not(.image-container):hover, a:not(.image-container):focus {
+  a:not(.header-image-container):hover, a:not(.header-image-container):focus {
     background: #edecec; }
   .rewards-container a:hover,
   .rewards-container a:focus {
@@ -49,8 +49,9 @@ footer {
   padding-top: 1em;
   border-top: 0.3em solid lightgray;
   font-size: 0.9em; }
-  footer img {
-    max-width: 150px; }
+
+.rewards-image {
+  width: 100px; }
 
 .unsub-container {
   display: flex;
@@ -70,7 +71,7 @@ address {
     </style>
     <div class="container">
       <header>
-        <h1 hidden>TheOverAnalyzed Newsletter</h1><a class="image-container" href="http://theoveranalyzed.net" title="Visit TheOverAnalyzed in a web browser"><img src="http://theoveranalyzed.net/images/mailchimplogo.svg" title="TheOverAnalyzed's logo"></a>
+        <h1 hidden>TheOverAnalyzed Newsletter</h1><a class="header-image-container" href="http://theoveranalyzed.net" title="Visit TheOverAnalyzed in a web browser"><img class="header-image" src="http://theoveranalyzed.net/images/mailchimplogo.svg" title="TheOverAnalyzed's logo"></a>
       </header>
       <main>
         <h2>New Posts</h2>
@@ -87,7 +88,7 @@ address {
         <p style="text-align: center;">
           <address style="text-align: center;" title="This is the fakest address ever. If you think this exists, I don't know if we can be friends.">TheOverAnalyzed<br>123 CAN-SPAM Act Road<br>Dumb, CA 12345 USA</address>
         </p>
-        <p class="rewards-container" style="text-align: center;">*|REWARDS|*</p>
+        <p class="rewards-container" style="text-align: center;"><a href="http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&amp;utm_medium=email&amp;utm_campaign=monkey_rewards&amp;aid=d327abe5985ea63318762e77c&amp;afl=1"><img class="rewards-image" src="https://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_15.png" border="0" alt="Email Marketing Powered by MailChimp" title="MailChimp Email Marketing"></a></p>
       </footer>
     </div>
   </body>
