@@ -130,6 +130,41 @@ But [change is inevitable][50]. The mere existence of a company like Impossible 
 
 In ten years, maybe I'll be writing another [blog post][51] about how I just tried the Impossible Steak? 🥩(🚫🐮)
 
+<aside class="update">
+
+#### Update: I Tried More Impossible Burgers!
+
+April 21, 2018
+<!-- {.updatetime} -->
+
+On my latest trip to Southern California, I took the opportunity to try the Impossible Burger at a few locations.
+
+##### Fatburger
+
+![Fatburger from the outside](/images/fatburger-outside.jpg "Image of Fatburger from the outside")
+
+![Small, but it does the job, I guess](/images/fatburger-inside.jpg "Image of the inside of Fatburger")
+
+![Ehh.](/images/fatburger-dry.jpg "Image of the Impossible Burger at Fatburger")
+
+* Multiple burger patties were an option (that wasn't the case at Gott's)
+* Lots of toppings as an option
+* Burger was super dry. It's been a while since I've had an overcooked dead 🐮 burger, but 
+
+##### The Counter
+
+![📖 of 🍴](/images/thecounter-menu.jpg "Image of the menu at The Counter")
+
+![🍔](/images/thecounter-open.jpg "Image of the Impossible Burger at The Counter")
+
+![😬](/images/thecounter-bite.jpg "Image of the Impossible Burger with a bite out of it")
+
+* Lots of toppings as an option
+* Was able to have the burger at a particular "doneness" (e.g., "medium rare," "well done," etc.)
+	* I ordered mine "medium rare," and this led to an overall better burger than either Fatburger *or* Gott's
+
+</aside>
+
 [1]: /images/impossible-burger.jpg "Picture of the most scientific culinary product"
 [2]: https://www.flickr.com/photos/toniwonkanobi/41041875911/in/album-72157694944240145/ "Link to the image on flickr \(with EXIF data and stuff too\)"
 [3]: https://www.impossiblefoods.com/burger/ "Link to the Impossible Foods Burger"
