@@ -1252,7 +1252,12 @@ body.smokey {
   height: 100vh;
   -webkit-box-align: center;
       -ms-flex-align: center;
-          align-items: center; }
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+  body.smokey .container {
+    background-color: inherit; }
   body.smokey header, body.smokey footer {
     display: none; }
   body.smokey main {
@@ -1262,6 +1267,10 @@ body.smokey {
     body.smokey main:hover, body.smokey main:focus {
       -webkit-transform: scale(1.05);
               transform: scale(1.05); }
+      @media all and (max-width: 600px) {
+        body.smokey main:hover, body.smokey main:focus {
+          -webkit-transform: none;
+                  transform: none; } }
     body.smokey main:active {
       -webkit-transform: initial;
               transform: initial;

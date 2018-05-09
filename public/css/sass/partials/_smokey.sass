@@ -5,6 +5,11 @@ body.smokey
   display: flex;
   height: 100vh;
   align-items: center
+  // Necessary because I'm hiding the header and the footer later on in this CSS
+  justify-content: center
+
+  .container
+    background-color: inherit
 
   header, footer
     display: none
@@ -15,6 +20,9 @@ body.smokey
 
     &:hover, &:focus
       transform: scale(1.05)
+
+      @media all and (max-width: 600px)
+        transform: none
 
     &:active
       transform: initial
