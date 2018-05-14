@@ -2,7 +2,7 @@ Title: TV Shows Are a Lot Darker Than They Used to Be
 Date: 2016-07-20 07:52  
 Link: http://www.slate.com/articles/arts/television/2016/06/cinematographers_from_game_of_thrones_jessica_jones_and_better_call_saul.html  
 Description: 'Dark', as in literally 'not very backlit'.  
-Tags: Television  
+Tags: TV  
 Image: /images/darktvgot.jpg  
 
 ![Dark, indeed.][1]

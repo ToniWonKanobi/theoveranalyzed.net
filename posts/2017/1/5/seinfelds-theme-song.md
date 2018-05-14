@@ -2,7 +2,7 @@ Title: Seinfeld's Theme Song
 Date: 2017-01-05 08:50  
 Link: https://www.youtube.com/watch?v=oGa1brzAP6o  
 Description: The most unforgettable theme song of the 1990s?  
-Tags: Television, Music  
+Tags: TV, Music  
 Image: /images/seinfeldthemesong.jpg 
 
 <iframe class="radius" width="560" height="315" src="https://www.youtube-nocookie.com/embed/oGa1brzAP6o?rel=0&amp;showinfo=0" allowfullscreen></iframe>

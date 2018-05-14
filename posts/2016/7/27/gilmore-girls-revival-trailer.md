@@ -2,7 +2,7 @@ Title: 'Gilmore Girls: A Year in the Life' Trailer
 Date: 2016-07-27 17:03  
 Link: https://youtu.be/fTnU5MG5Edw  
 Description: 🤗  
-Tags: Television  
+Tags: TV  
 Image: /images/gilmorerevival.jpg  
 
 <iframe class="radius" width="560" height="315" src="https://www.youtube-nocookie.com/embed/fTnU5MG5Edw?rel=0&amp;showinfo=0" allowfullscreen></iframe>

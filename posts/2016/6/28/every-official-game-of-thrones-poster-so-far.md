@@ -2,7 +2,7 @@ Title: Every Official Game of Thrones Poster So Far
 Date: 2016-06-28 09:57  
 Link: http://imgur.com/gallery/ThgAz  
 Description: These are great.  
-Tags: Television  
+Tags: TV  
 Image: /images/gotposter.jpg  
 
 ![Remember Season 1? (From HBO)][1]
