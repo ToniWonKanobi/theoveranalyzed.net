@@ -1,7 +1,6 @@
 body {
   margin: 0;
   padding: 0;
-  background: #3f70a2;
   font-family: "Ideal Sans SSm A", "Ideal Sans SSm B", Avenir;
   font-weight: 500;
   line-height: 1.55; }
@@ -45,7 +44,7 @@ footer {
   font-size: 0.9em; }
 
 .rewards-image {
-  width: 100px; }
+  max-width: 100px; }
 
 .unsub-container {
   display: -webkit-box;
