@@ -59,7 +59,7 @@
     "compression": "~1.6.2",
     "dotenv": "^2.0.0",
     "express": "^4.13.4",
-    "handlebars": "^4.0.5",
+    "handlebars": "^4.3.0",
     "markdown-it": "^6.0.5",
     "markdown-it-anchor": "^4.0.0",
     "markdown-it-decorate": "^1.2.2",
