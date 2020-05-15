@@ -12,7 +12,7 @@ Image: /images/gatekeeper-disabled.png
 
 ### What is Gatekeeper?
 
-Apple introduced [Gatekeeper][2] "Wikipedia entry for \"Gatekeeper\"") in [Mac OS X Lion][3]. Gatekeeper prevents users from accidentally opening applications that aren't from the Mac App Store, as well as applications from non-Apple-signed developers.
+Apple introduced [Gatekeeper][2] in [Mac OS X Lion][3]. Gatekeeper prevents users from accidentally opening applications that aren't from the Mac App Store, as well as applications from non-Apple-signed developers.
 
 Users can get around the block by secondary clicking the application and invoking the Context Menu `Open` command.
 
@@ -77,7 +77,7 @@ Now, when I try to open that same utility, I get *this* dialog:
 Sure: still annoying, but at least I don't have to do the right-click-`Open` dance anymore. I guess Apple can't make it *too* easy for power users 🙄
 
 [1]: /images/pyexiftoolgui-before-disable.png "Screenshot of macOS System Preferences Security Pane, with Gatekeeper disabled"
-[2]: https://en.wikipedia.org/wiki/Gatekeeper_(macOS
+[2]: https://en.wikipedia.org/wiki/Gatekeeper_(macOS) "Wikipedia entry for \"Gatekeeper\""
 [3]: https://support.apple.com/en-us/HT202491 "Apple support page on Gatekeeper"
 [4]: /2018/3/29/i-had-the-impossible-burger-and-it-was-amazing "Link to my post about having tried Impossible Burger"
 [5]: https://www.dpreview.com/articles/0669712115/leicamdlenses "Digital Photography Review of Leica's 6-bit codings, circa 2006"

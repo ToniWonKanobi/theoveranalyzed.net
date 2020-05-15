@@ -41,6 +41,11 @@ img
   margin: auto
   vertical-align: middle
   max-width: 100%
+  
+  // Going to apply .border to all images to see if I can have my cake and eat it too: have a border around screenshots
+  .entry &
+    border: solid 0.25em $lightgray
+    border-radius: $borderRadius
 
 // .wide
 //   border-rad
@@ -260,6 +265,9 @@ table
 
   code
     background: $gray
+
+  img
+    border-color: $gray
 
   figcaption
     background: $gray

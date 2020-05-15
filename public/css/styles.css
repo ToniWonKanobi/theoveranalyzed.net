@@ -162,7 +162,7 @@ a {
 .homepage-day:first-of-type .homepage-article:first-of-type {
   margin-top: 0; }
   .homepage-article:hover .homepage-day:first-of-type .homepage-article:first-of-type, .homepage-article:focus .homepage-day:first-of-type .homepage-article:first-of-type {
-    border-bottom-color: #b3b2b2; }
+    border-bottom-color: #b3b3b3; }
     .homepage-article:hover .homepage-day:first-of-type .homepage-article:first-of-type:hover, .homepage-article:hover .homepage-day:first-of-type .homepage-article:first-of-type:focus, .homepage-article:focus .homepage-day:first-of-type .homepage-article:first-of-type:hover, .homepage-article:focus .homepage-day:first-of-type .homepage-article:first-of-type:focus {
       background: white;
       border-bottom-color: white;
@@ -212,8 +212,7 @@ a {
 .content {
   background: white;
   margin: 0 auto;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   max-width: 700px;
   min-height: calc(100vh - 15vmax - 350px);
   padding: 2em;
@@ -229,8 +228,7 @@ a {
   padding: 1em;
   -webkit-transition: all 250ms ease-in-out;
   transition: all 250ms ease-in-out;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box; }
+  box-sizing: border-box; }
   .homepage-article:hover, .homepage-article:focus {
     background: #3f70a2;
     border-radius: 0.5em;
@@ -257,14 +255,11 @@ a {
 
 .siteheader {
   -webkit-box-align: center;
-      -ms-flex-align: center;
           align-items: center;
   color: white;
   display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
           justify-content: center;
   height: 15vmax;
   max-height: 200px;
@@ -330,7 +325,7 @@ a {
     .postsubtitle *:hover, .postsubtitle *:focus {
       color: #3f70a2; }
     .homepage-article:hover .postsubtitle *, .homepage-article:focus .postsubtitle * {
-      color: #b3b2b2; }
+      color: #b3b3b3; }
       .homepage-article:hover .postsubtitle *:hover, .homepage-article:hover .postsubtitle *:focus, .homepage-article:focus .postsubtitle *:hover, .homepage-article:focus .postsubtitle *:focus {
         color: white; }
   .postsubtitle li {
@@ -342,7 +337,7 @@ a {
   content: '•';
   margin: 0 0.25em 0 0.25em; }
   .homepage-article:hover .postsubtitle-date:after, .homepage-article:focus .postsubtitle-date:after {
-    color: #b3b2b2; }
+    color: #b3b3b3; }
 
 .postsubtitle-tags {
   display: inline;
@@ -352,7 +347,7 @@ a {
   color: #999;
   content: ' and '; }
   .homepage-article:hover .postsubtitle-tags-tag:after, .homepage-article:focus .postsubtitle-tags-tag:after {
-    color: #b3b2b2; }
+    color: #b3b3b3; }
 
 .postsubtitle-tags-tag:last-child:after {
   content: initial; }
@@ -391,12 +386,14 @@ figure {
 
 img {
   border-radius: 0.3em;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   display: block;
   margin: auto;
   vertical-align: middle;
   max-width: 100%; }
+  .entry img {
+    border: solid 0.25em #eee;
+    border-radius: 0.5em; }
 
 .border {
   border: solid 0.25em #eee;
@@ -431,8 +428,7 @@ audio {
 
 video {
   border-radius: 0.3em;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   display: block;
   margin: auto;
   max-width: 100%; }
@@ -580,6 +576,8 @@ table {
     background-color: #ddd; }
   .update code {
     background: #ddd; }
+  .update img {
+    border-color: #ddd; }
   .update figcaption {
     background: #ddd;
     color: #777; }
@@ -684,11 +682,9 @@ a.foot-note-backref {
   .homepage-pagination-older:hover, .homepage-pagination-older:focus, .homepage-pagination-newer:hover, .homepage-pagination-newer:focus {
     -webkit-transform: scale(1.05);
             transform: scale(1.05);
-    -webkit-box-shadow: 0 4px 16px 2px rgba(0, 0, 0, 0.1);
-            box-shadow: 0 4px 16px 2px rgba(0, 0, 0, 0.1); }
+    box-shadow: 0 4px 16px 2px rgba(0, 0, 0, 0.1); }
   .homepage-pagination-older:active, .homepage-pagination-newer:active {
-    -webkit-box-shadow: none;
-            box-shadow: none;
+    box-shadow: none;
     border: 0.1em solid #eee; }
 
 .homepage-pagination-newer {
@@ -698,17 +694,13 @@ a.foot-note-backref {
   color: white;
   text-align: center;
   display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
           align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
           justify-content: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
           flex-direction: column;
   min-height: 350px; }
   .footer a {
@@ -766,11 +758,9 @@ a.foot-note-backref {
   .navigation-list-item:hover, .navigation-list-item:focus {
     -webkit-transform: scale(1.05);
             transform: scale(1.05);
-    -webkit-box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
-            box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2); }
+    box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2); }
   .navigation-list-item:active {
-    -webkit-box-shadow: none;
-            box-shadow: none;
+    box-shadow: none;
     border: 0.1em solid #999; }
 
 .footer-search {
@@ -792,10 +782,11 @@ a.foot-note-backref {
   .footer-search input:active, .footer-search input:focus {
     border: 2px solid #666666;
     outline: none;
-    -webkit-box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
-            box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
     text-align: initial; }
   .footer-search input:active::-webkit-input-placeholder, .footer-search input:focus::-webkit-input-placeholder {
+    opacity: 0; }
+  .footer-search input:active::-moz-placeholder, .footer-search input:focus::-moz-placeholder {
     opacity: 0; }
   .footer-search input:active:-ms-input-placeholder, .footer-search input:focus:-ms-input-placeholder {
     opacity: 0; }
@@ -816,8 +807,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   position: relative;
   z-index: 5;
   top: -0.2em;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   -moz-box-sizing: border-box;
   display: inline-block;
   padding: 0.5em;
@@ -884,8 +874,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   top: 0;
   left: 0;
   display: inline-block;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   max-width: 90%;
   margin: 1.96924em 0;
   background: #eee;
@@ -893,8 +882,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   /* border-radius: 0.5em; */
   border-radius: 2em;
   /* box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3); */
-  -webkit-box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
-          box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
+  box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
   /* border: 1px solid #c3c3c3; */
   border: 0.3em solid #3f70a2;
   line-height: 0;
@@ -1011,8 +999,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   z-index: 14;
   width: 22em;
   display: inline-block;
-  -webkit-box-sizing: inherit;
-          box-sizing: inherit;
+  box-sizing: inherit;
   overflow: hidden;
   margin: 0;
   background-color: #fafafa;
@@ -1028,8 +1015,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   max-height: 15em;
   /* padding: 1.1em 1.3em 1.2em; */
   padding: 0 1em;
-  -webkit-box-sizing: inherit;
-          box-sizing: inherit;
+  box-sizing: inherit;
   overflow: auto;
   -webkit-overflow-scrolling: touch;
   background: #fafafa;
@@ -1058,8 +1044,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
 .bigfoot-footnote__tooltip {
   position: absolute;
   z-index: 12;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   margin-left: -0.65em;
   width: 1.3em;
   height: 1.3em;
@@ -1068,8 +1053,7 @@ http://bigfootjs.com/download/bigfoot-number.zip */
   background: #fafafa;
   /* border: 1px solid #c3c3c3; */
   /* box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3); */
-  -webkit-box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
-          box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
+  box-shadow: 0.1em 0.1em 0.3em rgba(0, 0, 0, 0.2);
   border-top-left-radius: 0;
   border: 0.3em #3f70a2 solid; }
 
@@ -1247,14 +1231,11 @@ body.smokey {
   background: #333;
   color: white;
   display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   height: 100vh;
   -webkit-box-align: center;
-      -ms-flex-align: center;
           align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
           justify-content: center; }
   body.smokey .container {
     background-color: inherit; }
@@ -1352,6 +1333,9 @@ body.valentines-2015 {
     border-radius: 0; }
   li {
     padding-left: 0; }
+  .entry img {
+    border: none;
+    border-radius: 0; }
   .homepage-teaser-image {
     width: 100%;
     margin: auto; } }
