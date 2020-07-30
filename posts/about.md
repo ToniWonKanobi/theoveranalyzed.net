@@ -56,7 +56,7 @@ You can subscribe to the email newsletter [here][15]
 
 [1]: /images/toni.jpg "Me"
 [2]: https://www.flickr.com/photos/toniwonkanobi/39825528385/in/datetaken/ "Link to a larger version on flickr"
-[3]: http://anthonycraigdds.com "My J-O-B job"
+[3]: https://en.wikipedia.org/wiki/Dentistry "My J-O-B job"
 [4]: /tags "Links to all that topics on TheOverAnalyzed"
 [5]: http://atp.fm "Accidental Tech Podcast"
 [6]: http://www.squarespace.com "Likely the best stating point for aspiring bloggers"
